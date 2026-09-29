@@ -1,0 +1,4 @@
+# Tested on Python 3.14. streamlit[pdf] adds the in-app PDF reader used by the Source Library.
+streamlit[pdf]==1.64.0
+pandas==3.0.6
+altair==6.3.0
