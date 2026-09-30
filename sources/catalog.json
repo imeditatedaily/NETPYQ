@@ -11,6 +11,18 @@
     "where": "Your Google Drive, folder \"notes UGC\": Yoga_English.pdf (the syllabus published by UGC).",
     "note": "The official unit-by-unit syllabus the app's ten Yoga units follow. Use it to check what each unit names: e.g. Unit 3's eight Yoga Upaniṣads, Unit 5's Haṭha texts (including Vasiṣṭha Saṃhitā and Haṭharatnāvalī) and Unit 10's list of practices."
   },
+  {
+    "id": "ugc-net-paper1-syllabus-00",
+    "title": "UGC NET Syllabus: General Paper on Teaching & Research Aptitude (Paper I, Code No. 00)",
+    "author": "University Grants Commission, NET Bureau",
+    "year": "",
+    "kind": "syllabus",
+    "units": ["Paper 1 Unit 1: Teaching Aptitude", "Paper 1 Unit 2: Research Aptitude", "Paper 1 Unit 3: Comprehension", "Paper 1 Unit 4: Communication", "Paper 1 Unit 5: Mathematical Reasoning and Aptitude", "Paper 1 Unit 6: Logical Reasoning", "Paper 1 Unit 7: Data Interpretation", "Paper 1 Unit 8: Information and Communication Technology (ICT)", "Paper 1 Unit 9: People, Development and Environment", "Paper 1 Unit 10: Higher Education System"],
+    "file": "ugc-net-general-paper-syllabus-paper-1.pdf",
+    "licence": "Official public document.",
+    "where": "Your Google Drive, shared folder \"My book's\" → \"UGC NET Syllabus\": UGC-NET-General-Paper-Syllabus.pdf.",
+    "note": "The ten Paper 1 units the app follows (revised from June 2019; five questions from each unit). Check here for what each unit names, e.g. Unit 6's Indian logic (the pramāṇas, vyāpti, hetvābhāsas) and Unit 9's list of international agreements."
+  },
 
   {
     "id": "mondal-2025-yoga-trials",
@@ -986,5 +998,29 @@
     "licence": "Kept out of the public repository.",
     "where": "Shared with you on Google Drive, folder \"My book's\": Light on Yoga_ The Bible of Modern Yoga ( PDFDrive.com ).pdf, at the top of the folder.",
     "note": "Technique and effects for most of Unit 10's āsanas."
+  },
+  {
+    "id": "madaan-2019-paper1",
+    "title": "NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (3rd edition)",
+    "author": "K. V. S. Madaan",
+    "year": "2019",
+    "kind": "study",
+    "units": ["Paper 1 Unit 1: Teaching Aptitude", "Paper 1 Unit 2: Research Aptitude", "Paper 1 Unit 3: Comprehension", "Paper 1 Unit 4: Communication", "Paper 1 Unit 5: Mathematical Reasoning and Aptitude", "Paper 1 Unit 6: Logical Reasoning", "Paper 1 Unit 7: Data Interpretation", "Paper 1 Unit 8: Information and Communication Technology (ICT)", "Paper 1 Unit 9: People, Development and Environment", "Paper 1 Unit 10: Higher Education System"],
+    "file": null,
+    "licence": "Pearson India; kept out of the public repository.",
+    "where": "Shared with you on Google Drive, folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf.",
+    "note": "Chapter-wise theory with dated past questions from 1997–2013, and complete solved papers from December 2012 to December 2018 (two December 2018 sets). The app's Paper 1 questions come from those solved papers, with their answers checked and new explanations."
+  },
+  {
+    "id": "paper1-hindi-reference-book",
+    "title": "Paper 1 reference book (Hindi)",
+    "author": "",
+    "year": "",
+    "kind": "study",
+    "units": ["Paper 1 Unit 1: Teaching Aptitude", "Paper 1 Unit 2: Research Aptitude", "Paper 1 Unit 3: Comprehension", "Paper 1 Unit 4: Communication", "Paper 1 Unit 5: Mathematical Reasoning and Aptitude", "Paper 1 Unit 6: Logical Reasoning", "Paper 1 Unit 7: Data Interpretation", "Paper 1 Unit 8: Information and Communication Technology (ICT)", "Paper 1 Unit 9: People, Development and Environment", "Paper 1 Unit 10: Higher Education System"],
+    "file": null,
+    "licence": "Kept out of the public repository.",
+    "where": "Shared with you on Google Drive, folder \"My book's\" → \"UGC NET paper 1 book's\": Hindi Paper 1 Reference book 1.pdf (93 MB, a scan with no text layer).",
+    "note": ""
   }
 ]

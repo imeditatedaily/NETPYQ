@@ -1,0 +1,1745 @@
+[
+ {
+  "id": "P1-2018DEC-A-Q01",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which among the following is a cognitive characteristic of learner?",
+  "options": [
+   "Sensory perception",
+   "Belief",
+   "Academic self-concept",
+   "Level of visual literacy"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Level of visual literacy.**\n\nVisual literacy, the ability to read and interpret images, diagrams and graphs, is a cognitive ability.\n\n- Beliefs and academic self-concept are **affective** characteristics.\n- Sensory perception is a physical or sensory characteristic.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q02",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "As a teacher you wish to predict the capacity and potential success in your subject. Your main purpose is to predict or to identify individuals who have the greatest potential for development along special lines or who are likely to profit most by special training. Which test you would apply to accomplish that?",
+  "options": [
+   "Aptitude test",
+   "Intelligence test",
+   "Personality test",
+   "Prognostic test"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Aptitude test.**\n\nAn aptitude test predicts potential in a *specific* field: who will profit most from special training. The stem is close to the classic definition.\n\n- An intelligence test measures general ability.\n- A prognostic test predicts readiness to begin one school subject. It is the answer to a similar question in the other December 2018 set, so watch the wording: \"special lines\" and \"special training\" point to aptitude.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q03",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "According to Jean Piaget, there are ______ stages of cognitive development.",
+  "options": [
+   "2",
+   "4",
+   "6",
+   "8"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 4.**\n\nPiaget's four stages:\n\n1. **sensorimotor** (0–2)\n2. **pre-operational** (2–7)\n3. **concrete operational** (7–11)\n4. **formal operational** (11+)\n\nDon't confuse them with Erikson's eight psychosocial stages.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q04",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "John Dewey explained school as a/an _________ institution and education as a ________ process.",
+  "options": [
+   "Social, philosophical",
+   "Social, social",
+   "Economical, philosophical",
+   "Environmental, psychological"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Social, social.**\n\nIn *My Pedagogic Creed* (1897) Dewey wrote that \"education is a social process\" and that \"the school is primarily a social institution\", a form of community life, not preparation for life.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q05",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Who among the following proposed the theory of 'Multiple Intelligences'?",
+  "options": [
+   "Sigmund Freud",
+   "Howard Gardner",
+   "Albert Einstein",
+   "Jean Piaget"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Howard Gardner.**\n\n*Frames of Mind* (1983) proposed separate intelligences: linguistic, logical-mathematical, spatial, musical, bodily-kinaesthetic, interpersonal, intrapersonal, and later naturalistic.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q06",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Empirical research in social sciences is associated with",
+  "options": [
+   "Fictional narratives",
+   "Positivist philosophy",
+   "Historical artifacts",
+   "Religious practices"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Positivist philosophy.**\n\nPositivism (Comte) holds that knowledge comes from observation and measurement, the basis of empirical, quantitative social science.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q07",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Reasoning from a specific case to a general conclusion is known as",
+  "options": [
+   "Scientific logic",
+   "Inductive logic",
+   "Deductive logic",
+   "Theoretical logic"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Inductive logic.**\n\nInduction moves from particular observations to a general conclusion. Deduction moves from general premises to a conclusion that follows necessarily.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q08",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "The purpose of review of literature includes",
+  "items": [
+   "To understand the subject background.",
+   "To formulate research questions.",
+   "To find out relevant methodology.",
+   "To debate the ethical aspects of research.",
+   "To carry out meta analysis of bibliography.",
+   "To identify the data sources."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii), (iii) and (iv)",
+   "(ii), (iii), (iv) and (v)",
+   "(i), (ii), (iii) and (vi)",
+   "(iii), (iv), (v) and (vi)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (ii), (iii) and (vi).**\n\nA literature review builds the background, sharpens the research questions, shows which methods have worked, and points to the data sources others used.\n\n- Debating ethics (iv) is not its purpose.\n- Meta-analysis (v) is a separate method, the statistical pooling of study results.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q09",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If you are to calculate Spearman's rho, then what kind of data you would enter?",
+  "options": [
+   "Actual scores",
+   "Ranks",
+   "Dichotomous data",
+   "Nominal data"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ranks.**\n\nSpearman's rank-order correlation, ρ = 1 − 6Σd² ÷ n(n² − 1), works on **ranks** (ordinal data). Pearson's *r* uses actual scores.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q10",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A variable that measures the effect of a manipulated variable is known as",
+  "options": [
+   "Independent variable",
+   "Dependent variable",
+   "Confounding variable",
+   "Controlled variable"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Dependent variable.**\n\nThe researcher manipulates the **independent** variable and measures its effect on the **dependent** variable. Confounding variables muddy the relationship; controlled variables are held constant.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q11",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What was the purpose of principles adopted by the United Nations General Assembly?",
+  "passage": "It has to be noted that, although certain overall results had been obtained in the matter of economic growth in the developing countries regarded as a group, little progress had been made towards the establishment of the new international economic order within the framework of negotiations among nations for the purpose of applying the principles adopted in 1974 by the United Nations General Assembly. The situation appeared to be marked by a slowing down at world level in the effort to find a solution to most of the major problems, due to certain inability to control the evolution of societies and economies, and a fairly widespread feeling of uncertainty as to the future. The changes which have occurred between 1978 and 1980 have only magnified the difficulties, so that today there is much talk of a deterioration in the international situation.\n\nThis is immediately apparent in regard to inequalities between human beings, whether considered as individuals or groups or nations. Overall economic disparities have not been attenuated. In many countries, per capita gross national product remains less than $300, while in others it is situated at levels ten, twenty or even thirty times higher than this amount. In some rich countries, the average income is a hundred times higher than in the poorest countries. Particularly drastic is the state of penury, destitution and all too often, homelessness of those populations that may be regarded as history's most recent rejects: the disinherited masses of the poorest countries. In these countries, whose economic situation is particularly critical, the problems of hunger, disease and ignorance experienced by a large part of the population seem to all but paralyse efforts made to cope with them.",
+  "options": [
+   "Considering developing countries as a group.",
+   "Obtaining results in the economic growth of developing countries.",
+   "Establishing a new international economic order.",
+   "Permitting negotiations among nations."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Negotiations were held \"for the purpose of applying the principles adopted in 1974\", towards \"the establishment of the **new international economic order**\". Negotiation was the means (4), not the purpose.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q12",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the consequence due to the little progress made by nations during negotiations?",
+  "passage": "It has to be noted that, although certain overall results had been obtained in the matter of economic growth in the developing countries regarded as a group, little progress had been made towards the establishment of the new international economic order within the framework of negotiations among nations for the purpose of applying the principles adopted in 1974 by the United Nations General Assembly. The situation appeared to be marked by a slowing down at world level in the effort to find a solution to most of the major problems, due to certain inability to control the evolution of societies and economies, and a fairly widespread feeling of uncertainty as to the future. The changes which have occurred between 1978 and 1980 have only magnified the difficulties, so that today there is much talk of a deterioration in the international situation.\n\nThis is immediately apparent in regard to inequalities between human beings, whether considered as individuals or groups or nations. Overall economic disparities have not been attenuated. In many countries, per capita gross national product remains less than $300, while in others it is situated at levels ten, twenty or even thirty times higher than this amount. In some rich countries, the average income is a hundred times higher than in the poorest countries. Particularly drastic is the state of penury, destitution and all too often, homelessness of those populations that may be regarded as history's most recent rejects: the disinherited masses of the poorest countries. In these countries, whose economic situation is particularly critical, the problems of hunger, disease and ignorance experienced by a large part of the population seem to all but paralyse efforts made to cope with them.",
+  "options": [
+   "Evolution of societies",
+   "Control of economies",
+   "UN intervention",
+   "Uncertain future"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Uncertain future.** The slowdown came with \"a fairly widespread feeling of **uncertainty as to the future**\". The passage speaks of an *inability* to control societies and economies, the opposite of (1) and (2).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q13",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is apparent due to the changes occurred between 1978 and 1980?",
+  "passage": "It has to be noted that, although certain overall results had been obtained in the matter of economic growth in the developing countries regarded as a group, little progress had been made towards the establishment of the new international economic order within the framework of negotiations among nations for the purpose of applying the principles adopted in 1974 by the United Nations General Assembly. The situation appeared to be marked by a slowing down at world level in the effort to find a solution to most of the major problems, due to certain inability to control the evolution of societies and economies, and a fairly widespread feeling of uncertainty as to the future. The changes which have occurred between 1978 and 1980 have only magnified the difficulties, so that today there is much talk of a deterioration in the international situation.\n\nThis is immediately apparent in regard to inequalities between human beings, whether considered as individuals or groups or nations. Overall economic disparities have not been attenuated. In many countries, per capita gross national product remains less than $300, while in others it is situated at levels ten, twenty or even thirty times higher than this amount. In some rich countries, the average income is a hundred times higher than in the poorest countries. Particularly drastic is the state of penury, destitution and all too often, homelessness of those populations that may be regarded as history's most recent rejects: the disinherited masses of the poorest countries. In these countries, whose economic situation is particularly critical, the problems of hunger, disease and ignorance experienced by a large part of the population seem to all but paralyse efforts made to cope with them.",
+  "options": [
+   "Plan adjustment",
+   "Support of rich countries",
+   "Reduction in poverty",
+   "Inequality between human beings"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** The 1978–80 changes worsened matters, and the deterioration \"is immediately apparent in regard to **inequalities between human beings**\".",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q14",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "How economic disparities are reflected?",
+  "passage": "It has to be noted that, although certain overall results had been obtained in the matter of economic growth in the developing countries regarded as a group, little progress had been made towards the establishment of the new international economic order within the framework of negotiations among nations for the purpose of applying the principles adopted in 1974 by the United Nations General Assembly. The situation appeared to be marked by a slowing down at world level in the effort to find a solution to most of the major problems, due to certain inability to control the evolution of societies and economies, and a fairly widespread feeling of uncertainty as to the future. The changes which have occurred between 1978 and 1980 have only magnified the difficulties, so that today there is much talk of a deterioration in the international situation.\n\nThis is immediately apparent in regard to inequalities between human beings, whether considered as individuals or groups or nations. Overall economic disparities have not been attenuated. In many countries, per capita gross national product remains less than $300, while in others it is situated at levels ten, twenty or even thirty times higher than this amount. In some rich countries, the average income is a hundred times higher than in the poorest countries. Particularly drastic is the state of penury, destitution and all too often, homelessness of those populations that may be regarded as history's most recent rejects: the disinherited masses of the poorest countries. In these countries, whose economic situation is particularly critical, the problems of hunger, disease and ignorance experienced by a large part of the population seem to all but paralyse efforts made to cope with them.",
+  "options": [
+   "$300 per capita GNP as benchmark.",
+   "Collectivizing individuals into groups or nations.",
+   "Higher average income for poor countries.",
+   "Average income of some countries is a hundred times higher than in the poor countries."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** \"In some rich countries, the average income is a hundred times higher than in the poorest countries.\" The $300 figure (1) is a level in the poorest countries, not a benchmark, and (3) inverts the passage.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q15",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Whom do you call as history's recent rejects?",
+  "passage": "It has to be noted that, although certain overall results had been obtained in the matter of economic growth in the developing countries regarded as a group, little progress had been made towards the establishment of the new international economic order within the framework of negotiations among nations for the purpose of applying the principles adopted in 1974 by the United Nations General Assembly. The situation appeared to be marked by a slowing down at world level in the effort to find a solution to most of the major problems, due to certain inability to control the evolution of societies and economies, and a fairly widespread feeling of uncertainty as to the future. The changes which have occurred between 1978 and 1980 have only magnified the difficulties, so that today there is much talk of a deterioration in the international situation.\n\nThis is immediately apparent in regard to inequalities between human beings, whether considered as individuals or groups or nations. Overall economic disparities have not been attenuated. In many countries, per capita gross national product remains less than $300, while in others it is situated at levels ten, twenty or even thirty times higher than this amount. In some rich countries, the average income is a hundred times higher than in the poorest countries. Particularly drastic is the state of penury, destitution and all too often, homelessness of those populations that may be regarded as history's most recent rejects: the disinherited masses of the poorest countries. In these countries, whose economic situation is particularly critical, the problems of hunger, disease and ignorance experienced by a large part of the population seem to all but paralyse efforts made to cope with them.",
+  "options": [
+   "Homeless population",
+   "Ignorant population",
+   "Large part of population",
+   "Rich countries"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Homeless population.** The sentence speaks of \"the state of penury, destitution and all too often, **homelessness** of those populations that may be regarded as history's most recent rejects: the disinherited masses of the poorest countries\".",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q16",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In classroom communication, analogies are considered as",
+  "options": [
+   "Supporting evidence",
+   "Unwanted information",
+   "Control devices",
+   "Attention-breakers"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Supporting evidence.**\n\nAnalogies link a new idea to something familiar. They support and clarify the point being made, much as examples and illustrations do.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q17",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer.",
+  "assertion": "Empathy is essential for effective communication between the communicator and the communicatee.",
+  "reason": "Empathy links the teacher and students.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both are true, and (R) is the correct explanation of (A).**\n\nEmpathy, understanding the other's feelings and point of view, is what *connects* teacher and students. That connection is why it is essential to effective communication.\n\n(The book prints option (1) only as \"Both (A) and (R) are true\"; the full wording is restored.)",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q18",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Computer-assisted language learning is called",
+  "options": [
+   "Aided learning",
+   "Communicative call",
+   "Language logic",
+   "Electronic mediation"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Communicative CALL.**\n\nComputer-Assisted Language Learning is abbreviated **CALL**. Warschauer names three phases: behaviouristic CALL (drill and practice), **communicative CALL** (1980s: using the computer for real communication) and integrative CALL (multimedia and the internet).",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q19",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The word 'haptics' denotes",
+  "options": [
+   "Spatial communication",
+   "Timely communication",
+   "Staggered communication",
+   "Tactile communication"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Tactile communication.**\n\nHaptics is communication by **touch**: a handshake, a pat on the back. Among the other non-verbal codes, space is **proxemics**, time is **chronemics** and body movement is **kinesics**.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q20",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Social media platforms have created a",
+  "options": [
+   "Society of reactionary opinions",
+   "Society of consumables",
+   "Society of negativity",
+   "Society of networking"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Society of networking.**\n\nSocial media's defining effect is connecting people in networks: Castells's \"network society\". The other options pick out particular side-effects.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q21",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If DICE is coded as FLGJ, then the code for BITE will be",
+  "options": [
+   "DLXJ",
+   "DKYH",
+   "DKVY",
+   "DICL"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) DLXJ.**\n\nThe letters shift forward by +2, +3, +4, +5 in turn: D→F, I→L, C→G, E→J. BITE: B+2 = D, I+3 = L, T+4 = X, E+5 = J.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q22",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the series 7, 11, 19, 35, 67, ______ is",
+  "options": [
+   "121",
+   "133",
+   "131",
+   "99"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 131.**\n\nThe differences double: 4, 8, 16, 32, so the next is 64, giving 67 + 64 = **131**. (Equally, each term is 2 × the previous − 3.)",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q23",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the letter series KB, JH, IM, HQ, GT, ______ is",
+  "options": [
+   "EY",
+   "FV",
+   "FU",
+   "EU"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) FV.**\n\n- **1st letters:** K, J, I, H, G → **F**\n- **2nd letters:** B, H, M, Q, T → +6, +5, +4, +3 → +2 = **V**",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q24",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Choose the word which is different from the rest.",
+  "options": [
+   "Paper",
+   "Wool",
+   "Plastic",
+   "Jute"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Plastic.**\n\nPaper (wood pulp), wool (sheep) and jute (a plant fibre) are natural materials. Plastic is synthetic, made from petrochemicals.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Classification: odd one out",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q25",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Pointing to a man, Abhijit said 'His granddaughter is the only daughter of my brother'. How is the man related to Abhijit?",
+  "options": [
+   "Father",
+   "Grandfather",
+   "Uncle",
+   "Brother-in-law"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Father.**\n\nThe man's granddaughter is the daughter of Abhijit's brother, so Abhijit's brother is the man's son. Abhijit is therefore also the man's child, and the man is Abhijit's **father**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Blood relations",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q26",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The average yearly expenditure on 'Interest on Loans' during the period 2008–2012 was approximately",
+  "passage": "The above table shows details of expenditure incurred by a tea garden during the years 2008 to 2012. Note that all expenditure reported is in crores. Answer the following questions based on the data given in the above table.",
+  "table": {
+   "title": "Items of expenditure of a tea garden (₹ in crores)",
+   "columns": [
+    "Year",
+    "Salary",
+    "Fuel",
+    "Bonus",
+    "Interest on loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "57.6",
+     "19.6",
+     "0.6",
+     "4.68",
+     "16.6"
+    ],
+    [
+     "2009",
+     "68.4",
+     "22.4",
+     "0.5",
+     "6.50",
+     "21.6"
+    ],
+    [
+     "2010",
+     "64.8",
+     "20.2",
+     "0.76",
+     "8.32",
+     "14.8"
+    ],
+    [
+     "2011",
+     "67.2",
+     "26.6",
+     "0.74",
+     "7.28",
+     "17.6"
+    ],
+    [
+     "2012",
+     "84.0",
+     "28.4",
+     "0.80",
+     "9.88",
+     "19.6"
+    ]
+   ]
+  },
+  "options": [
+   "₹6.33 crores",
+   "₹6.88 crores",
+   "₹8.32 crores",
+   "₹7.33 crores"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ₹7.33 crores.**\n\n(4.68 + 6.50 + 8.32 + 7.28 + 9.88) ÷ 5 = 36.66 ÷ 5 ≈ **7.33**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q27",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Bonus as a percentage (%) of salary was highest in the year",
+  "passage": "The above table shows details of expenditure incurred by a tea garden during the years 2008 to 2012. Note that all expenditure reported is in crores. Answer the following questions based on the data given in the above table.",
+  "table": {
+   "title": "Items of expenditure of a tea garden (₹ in crores)",
+   "columns": [
+    "Year",
+    "Salary",
+    "Fuel",
+    "Bonus",
+    "Interest on loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "57.6",
+     "19.6",
+     "0.6",
+     "4.68",
+     "16.6"
+    ],
+    [
+     "2009",
+     "68.4",
+     "22.4",
+     "0.5",
+     "6.50",
+     "21.6"
+    ],
+    [
+     "2010",
+     "64.8",
+     "20.2",
+     "0.76",
+     "8.32",
+     "14.8"
+    ],
+    [
+     "2011",
+     "67.2",
+     "26.6",
+     "0.74",
+     "7.28",
+     "17.6"
+    ],
+    [
+     "2012",
+     "84.0",
+     "28.4",
+     "0.80",
+     "9.88",
+     "19.6"
+    ]
+   ]
+  },
+  "options": [
+   "2008",
+   "2009",
+   "2010",
+   "2011"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2010.**\n\nBonus ÷ salary: 2008 1.04%, 2009 0.73%, **2010 1.17%**, 2011 1.10% (2012 0.95%).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q28",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which year, was the total expenditure (over the five heads of expenditure listed in the table above) the least?",
+  "passage": "The above table shows details of expenditure incurred by a tea garden during the years 2008 to 2012. Note that all expenditure reported is in crores. Answer the following questions based on the data given in the above table.",
+  "table": {
+   "title": "Items of expenditure of a tea garden (₹ in crores)",
+   "columns": [
+    "Year",
+    "Salary",
+    "Fuel",
+    "Bonus",
+    "Interest on loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "57.6",
+     "19.6",
+     "0.6",
+     "4.68",
+     "16.6"
+    ],
+    [
+     "2009",
+     "68.4",
+     "22.4",
+     "0.5",
+     "6.50",
+     "21.6"
+    ],
+    [
+     "2010",
+     "64.8",
+     "20.2",
+     "0.76",
+     "8.32",
+     "14.8"
+    ],
+    [
+     "2011",
+     "67.2",
+     "26.6",
+     "0.74",
+     "7.28",
+     "17.6"
+    ],
+    [
+     "2012",
+     "84.0",
+     "28.4",
+     "0.80",
+     "9.88",
+     "19.6"
+    ]
+   ]
+  },
+  "options": [
+   "2008",
+   "2009",
+   "2010",
+   "2011"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 2008.**\n\nTotals: **2008: 99.08**, 2009: 119.40, 2010: 108.88, 2011: 119.42, 2012: 142.68.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q29",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which years, the percentage (%) growth of expenditure on salary (as compared to the previous year), was more than 10%?",
+  "passage": "The above table shows details of expenditure incurred by a tea garden during the years 2008 to 2012. Note that all expenditure reported is in crores. Answer the following questions based on the data given in the above table.",
+  "table": {
+   "title": "Items of expenditure of a tea garden (₹ in crores)",
+   "columns": [
+    "Year",
+    "Salary",
+    "Fuel",
+    "Bonus",
+    "Interest on loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "57.6",
+     "19.6",
+     "0.6",
+     "4.68",
+     "16.6"
+    ],
+    [
+     "2009",
+     "68.4",
+     "22.4",
+     "0.5",
+     "6.50",
+     "21.6"
+    ],
+    [
+     "2010",
+     "64.8",
+     "20.2",
+     "0.76",
+     "8.32",
+     "14.8"
+    ],
+    [
+     "2011",
+     "67.2",
+     "26.6",
+     "0.74",
+     "7.28",
+     "17.6"
+    ],
+    [
+     "2012",
+     "84.0",
+     "28.4",
+     "0.80",
+     "9.88",
+     "19.6"
+    ]
+   ]
+  },
+  "options": [
+   "2009 and 2010",
+   "2010 and 2012",
+   "2011 and 2012",
+   "2009 and 2012"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2009 and 2012.**\n\nSalary growth: **2009 +18.75%**, 2010 −5.3%, 2011 +3.7%, **2012 +25%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q30",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which year, the expenditure of taxes and 'Interest on loans' was less than the expenditure on fuel?",
+  "passage": "The above table shows details of expenditure incurred by a tea garden during the years 2008 to 2012. Note that all expenditure reported is in crores. Answer the following questions based on the data given in the above table.",
+  "table": {
+   "title": "Items of expenditure of a tea garden (₹ in crores)",
+   "columns": [
+    "Year",
+    "Salary",
+    "Fuel",
+    "Bonus",
+    "Interest on loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "57.6",
+     "19.6",
+     "0.6",
+     "4.68",
+     "16.6"
+    ],
+    [
+     "2009",
+     "68.4",
+     "22.4",
+     "0.5",
+     "6.50",
+     "21.6"
+    ],
+    [
+     "2010",
+     "64.8",
+     "20.2",
+     "0.76",
+     "8.32",
+     "14.8"
+    ],
+    [
+     "2011",
+     "67.2",
+     "26.6",
+     "0.74",
+     "7.28",
+     "17.6"
+    ],
+    [
+     "2012",
+     "84.0",
+     "28.4",
+     "0.80",
+     "9.88",
+     "19.6"
+    ]
+   ]
+  },
+  "options": [
+   "2009",
+   "2010",
+   "2011",
+   "2012"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2011.**\n\n| Year | Taxes + interest | Fuel |\n|---|---|---|\n| 2009 | 28.10 | 22.4 |\n| 2010 | 23.12 | 20.2 |\n| 2011 | **24.88** | **26.6** |\n| 2012 | 29.48 | 28.4 |\n\nOnly in 2011 is the sum below fuel.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q31",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Two propositions are contradictory when",
+  "options": [
+   "Truth of one proposition implies falsity of the other and vice versa.",
+   "Truth of one proposition supposes the falsity of the other and vice versa.",
+   "Truth of one proposition does not guarantee the falsity of the other.",
+   "Truth of one proposition rejects the falsity of the other and vice versa."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).**\n\nContradictories (A–O, E–I) always have opposite truth values: if one is true the other is false, **and vice versa**, so they can be neither both true nor both false.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q32",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Among the following, identify the two statements which are in such a relation that the truth of one implies the truth of the other, but not conversely.",
+  "items": [
+   "All plastics are synthetic.",
+   "Some plastics are synthetic.",
+   "Some plastics are not synthetic.",
+   "No plastics are synthetic."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i) and (ii)",
+   "(i) and (iii)",
+   "(i) and (iv)",
+   "(ii) and (iv)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i) and (ii).**\n\nThat is **subalternation**. If \"All plastics are synthetic\" (A) is true, then \"Some plastics are synthetic\" (I) must be true. But the truth of the I does not guarantee the A.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q33",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Identify the argument which involves a leap from the known to the unknown.",
+  "options": [
+   "Deductive argument",
+   "Reductive argument",
+   "Inductive argument",
+   "Analogical argument"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Inductive argument.**\n\nInduction goes beyond its evidence: from observed cases to unobserved ones. This is the \"inductive leap\". A deductive conclusion only makes explicit what the premises already contain.\n\nAnalogy is a kind of induction, but the general term asked for is inductive.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q34",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Given below are two premises (A and B). Four conclusions are drawn from them. Select the code that states validly drawn conclusion(s) (taking the premises individually or jointly).",
+  "items": [
+   "All teachers are non-literates.",
+   "All teachers are graduates.",
+   "All non-teachers are non-graduates.",
+   "No non-literate is a teacher."
+  ],
+  "item_style": "roman",
+  "prompt": "Premises: (A) No non-literates are graduates. (B) All non-graduates are non-teachers.",
+  "options": [
+   "(i) and (ii)",
+   "(ii), (iii) and (iv)",
+   "(iii) and (iv)",
+   "(ii) and (iv)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii) and (iv).**\n\n- **(ii)** \"All teachers are graduates\" is the contrapositive of (B), \"All non-graduates are non-teachers\", so it is valid.\n- **(iv)** combines (ii) with (A): no non-literate is a graduate, and every teacher is a graduate, so no non-literate is a teacher.\n- **(iii)** simply converts (B), which is illicit for an A proposition.\n- **(i)** contradicts what follows.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q35",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The argument which claims that its conclusion is supported by its premises conclusively is",
+  "options": [
+   "Analogical argument",
+   "Inductive argument",
+   "Demonstrative argument",
+   "Deductive argument"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Deductive argument.**\n\nCopi's definition: a deductive argument claims that its premises provide **conclusive** grounds for its conclusion. An inductive argument claims only probable support.\n\n\"Demonstrative\" is sometimes used as a synonym, but deductive is the standard term.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q36",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If the binary equivalent of the decimal number 53 is 110101, then the binary equivalent of the decimal number 50 is given by",
+  "options": [
+   "110011",
+   "110010",
+   "110001",
+   "110100"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 110010.**\n\n50 = 53 − 3, and 110101 − 11 = **110010**. Check: 32 + 16 + 2 = 50.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q37",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which one of the following is not part of suite of products of Microsoft Office?",
+  "options": [
+   "Microsoft Excel",
+   "Microsoft PowerPoint",
+   "Microsoft Publisher",
+   "Microsoft Windows"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Microsoft Windows.**\n\nWindows is an **operating system**, system software. Office is an application suite: Word, Excel, PowerPoint, Outlook, Access and Publisher.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q38",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The internet began with the development of",
+  "options": [
+   "USENET",
+   "Intranet",
+   "ARPANET",
+   "Intranet"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) ARPANET.**\n\nARPANET (US Department of Defense, 1969) was the first packet-switched network and the first to use TCP/IP (from 1983). The internet grew out of it. USENET (1980) is a discussion system.\n\n(The book prints options (b) and (d) both as \"Intranet\".)",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q39",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "RFID is an acronym for",
+  "options": [
+   "Roaming Frequency Identification",
+   "Radio Frequency Identification",
+   "Runtime Frequency Identification",
+   "Remote Frequency Identification"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Radio Frequency Identification.**\n\nRFID tags are read by radio waves, with no line of sight needed. They are used in FASTag toll payment, library books and inventory.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q40",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Bluetooth is an example of",
+  "options": [
+   "PAN",
+   "LAN",
+   "MAN",
+   "WAN"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) PAN.**\n\nA **Personal Area Network** links devices around one person, within about 10 m: phone, earphones, watch. Networks by reach: PAN < LAN (a building) < MAN (a city) < WAN (a country or the world).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q41",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Recently in Brazil, a bacterium exhibited antibiotic resistance, which was not reported previously",
+  "options": [
+   "Pseudomonas species",
+   "Salmonella species",
+   "Klebsiella species",
+   "Streptococcus species"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Salmonella species** (the book's key; **provisional**).\n\nThis was a 2018 current-affairs item, and the report it refers to could not be traced to confirm the answer.\n\nThe background is the spread of the *mcr-1* colistin-resistance gene. Brazil reported it first in *E. coli* (2016), and later in other Enterobacteriaceae such as *Salmonella* from food-animal sources. That fits the key, but treat it as unverified.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Environment and human health",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q42",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "One of the following has a positive human influence on the environment?",
+  "options": [
+   "Deforestation",
+   "Over population",
+   "Pollution",
+   "Conservation"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Conservation.**\n\nConservation (protecting and sustainably using forests, water, soil and wildlife) is the one human influence here that helps the environment.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q43",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer.",
+  "assertion": "The environmental impact of soil erosion can best be mitigated by removing vegetative cover only from the specific site in which construction is to take place.",
+  "reason": "The environmental impact of soil erosion can also be mitigated by disturbing the vegetation in adjacent areas as little as possible.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "(A) is false but (R) is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both are true, but (R) is not the correct explanation of (A).**\n\nBoth statements describe sound erosion-control practice: clear vegetation only where you build (A), and disturb the surroundings as little as possible (R). They are two *separate* measures. (R) begins \"can **also**\", which signals an addition, not a reason.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q44",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer.",
+  "assertion": "Hydropower is an inexhaustible energy resource.",
+  "reason": "The power of falling water would neither diminish nor get exhausted.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "(A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "Both (A) and (R) are false."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both are true, and (R) is the correct explanation of (A).**\n\nHydropower is renewable, or inexhaustible: the water cycle, powered by the sun, keeps refilling rivers and reservoirs. That is exactly what (R) says, so (R) explains (A).\n\n(The book prints (A) as \"exhaustible\", which would make it false and match no option. With its key of (1), the intended word is \"inexhaustible\".)",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q45",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "In the scheme of life, soil is an essential resource of life, as it plays the following roles.",
+  "items": [
+   "It is a reservoir of carbon.",
+   "It is the medium for growth of food and energy for the animal world.",
+   "It provides oxygen to the biotic community.",
+   "It is a natural reservoir for the huge amount of water."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii) and (iii)",
+   "(i), (ii) and (iv)",
+   "(ii), (iii) and (iv)",
+   "(i), (iii) and (iv)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i), (ii) and (iv).**\n\n- Soil is the largest land store of **carbon**.\n- It is the medium in which **food** is grown.\n- It holds vast amounts of **water**.\n\nIt does not *provide* oxygen: soil organisms consume it. Oxygen comes from photosynthesis.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q46",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In terms of year of establishment, which open university is the youngest among the following (established most recently)?",
+  "options": [
+   "Tamil Nadu Open University, Tamil Nadu",
+   "Odisha State Open University, Odisha",
+   "Krishna Kanta Handique State Open University, Assam",
+   "Pt. Sunderlal Sharma Open University, Chhattisgarh"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Odisha State Open University.**\n\nFounding years: Tamil Nadu Open University 2002; Pt. Sunderlal Sharma (Chhattisgarh) 2005; KKHSOU (Assam) 2005–06; **Odisha State Open University 2015**.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q47",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "Match the following.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Swayam Prabha",
+     "GIAN (Global Institute of Academic Network)",
+     "Gyan Vani",
+     "Gyan Darshan",
+     "Gyandhara"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "items": [
+     "FM education radio network.",
+     "Internet audio counselling service.",
+     "Free DTH channel for education.",
+     "Talent pool of scientists and entrepreneurs for engagement with Indian higher education institutions.",
+     "Educational Television Channel"
+    ]
+   }
+  },
+  "options": [
+   "a-i, b-ii, c-v, d-iv, e-iii",
+   "a-ii, b-iii, c-iv, d-i, e-v",
+   "a-iii, b-iv, c-i, d-v, e-ii",
+   "a-v, b-iii, c-ii, d-iv, e-i"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) a-iii, b-iv, c-i, d-v, e-ii.**\n\n- **SWAYAM Prabha**: free DTH education channels (32, later more).\n- **GIAN**: brings international scientists and entrepreneurs to teach in Indian institutions. (The name is actually Global *Initiative* of Academic Networks.)\n- **Gyan Vani**: IGNOU's FM educational radio.\n- **Gyan Darshan**: IGNOU's educational TV channel.\n- **Gyandhara**: IGNOU's internet audio counselling service.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q48",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "The institutions of eminence tag granted by the union government in public sector are",
+  "items": [
+   "IIT, Delhi",
+   "IIT, Bombay",
+   "Jawaharlal Nehru University, Delhi",
+   "University of Hyderabad",
+   "Pondicherry University",
+   "Indian Institute of Science"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii), (iv) and (v) only",
+   "(ii), (iii), (v) and (vi) only",
+   "(i), (ii) and (vi) only",
+   "(iii), (iv), (v) and (vi) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (ii) and (vi) only.**\n\nIn July 2018 the first Institutions of Eminence were announced. The three public ones were **IIT Delhi, IIT Bombay and IISc Bengaluru**; three private ones were also named. Hyderabad University and others were added in later rounds.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q49",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which among the following was launched on 2 October 1978 (the birthday of Mahatma Gandhi)?",
+  "options": [
+   "National Adult Education Programme",
+   "EduSAT",
+   "First educational radio channel",
+   "10 + 2 + 3 Scheme"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) National Adult Education Programme.**\n\nNAEP was launched on 2 October 1978 to make adults aged 15–35 literate. EduSAT is a satellite launched in 2004.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-A-Q50",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set A)",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, the first exam run by NTA as a computer-based test in several shifts (18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts; this is the first (\"set A\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q17's option (1) and Q44's assertion are restored where the book's wording is garbled; in Q38 the book prints options (b) and (d) identically. Q41 is a current-affairs item whose answer could not be verified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "On the recommendations of which commission, 10 + 2 + 3 structure was incorporated in the statement of National Policy on Education, 1968?",
+  "options": [
+   "Kothari Commission",
+   "Mudaliar Commission",
+   "Ramamurti Commission",
+   "Mandal Commission"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Kothari Commission.**\n\nThe Education Commission of 1964–66 (D. S. Kothari) recommended the uniform 10 + 2 + 3 pattern, which NPE 1968 adopted.\n\n- Mudaliar (1952–53) was the Secondary Education Commission.\n- Ramamurti (1990) reviewed NPE 1986.\n- Mandal dealt with backward-class reservations.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ }
+]

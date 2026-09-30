@@ -1,6 +1,6 @@
-# UGC NET PYQ Analytical Dashboard: Yoga (100) and Indian Knowledge System (103)
+# UGC NET PYQ Analytical Dashboard: Paper 1, Yoga (100) and Indian Knowledge System (103)
 
-A Streamlit app for UGC NET Paper II practice, built for Python 3.14 and Streamlit Community Cloud.
+A Streamlit app for UGC NET practice (the General Paper, Paper 1, and Paper 2 for Yoga and IKS), built for Python 3.14 and Streamlit Community Cloud.
 
 | Page | What it does |
 |---|---|
@@ -25,13 +25,26 @@ Every answer, in Practice or Review, is logged in the background (`st.session_st
 | UGC NET December 2022 cycle (held Feb–Mar 2023), Yoga Paper 2, Q51–66 | 15 | Only these questions were readable in your notes (NTA response-sheet screenshots); Q53 is incomplete there and left out. Answers worked out from the texts and marked *unverified*. |
 | UGC NET June 2024, Yoga Paper 2, Q51–150 (booklet series Y, English version) | 100 | Worked out from the primary texts. No official key was published: this is the pen-and-paper exam of 18 June 2024 that NTA cancelled, so every answer is marked *unverified*, and explanations say where an answer is provisional or the item is flawed. The session is inferred from the printed combined booklet. |
 
+**Paper 1** (General Paper on Teaching and Research Aptitude), from the solved papers in K. V. S. Madaan's *NTA UGC NET/SET/JRF Paper 1* (Pearson, 3rd ed., 2019) in your shared Drive folder "My book's". Question numbers follow the book. Every answer was worked out independently and checked against the book's key; they are marked *cross-checked* except where noted.
+
+| Paper | Questions | Notes |
+|---|---|---|
+| UGC NET (CBSE) July 2016, Paper I | 60 | All 60 match the key. |
+| UGC NET (CBSE) January 2017, Paper I | 60 | All 60 match the key. A few typesetting slips in the book (a series term, garbled option or item wording) are corrected and flagged in the explanations. |
+| UGC NET (CBSE) November 2017, Paper I | 49 | Q35 left out: the official key cancelled it (no option was correct). |
+| UGC NET (CBSE) July 2018, Paper I | 50 | All 50 match the key. |
+| UGC NET (NTA) December 2018, Paper 1, set A | 50 | Q41 (a current-affairs item) is *unverified*. |
+| UGC NET (NTA) December 2018, Paper 1, set B | 49 | A second December 2018 shift. Q45 left out as flawed; in Q29 the book's key accepts an invalid conclusion, so the valid option is used and marked *unverified*. |
+
+Paper 1 data-interpretation tables are stored as real tables (the `table` field) and shown above their questions. Paper 1s from 2019 onwards are not in your Drive yet. Add the PDFs there, or allow this project's network access to ugcnet.nta.ac.in, and they can go in the same way.
+
 Each question keeps the booklet's wording, numbering and labels (List I in Roman numerals where the paper uses them, and shared reading passages). Each is mapped to a syllabus unit and micro-topic, and has its own detailed explanation. The explanations are written for this app; none are copied from a guidebook. The feedback shows how the answer was checked: *official key*, *cross-checked* or *unverified*.
 
 **Samples.** The app also ships **4 sample questions** (2 Yoga, 2 IKS; one each of the Match-the-List, Sequence, Multiple-statement and Assertion–Reason formats) in `pyq/data/samples.py`. They are **PYQ-pattern model questions**, written to NTA's formats and checked against the primary texts. They are **not copied from a specific paper**, carry no exam year, and appear under *Undated / PYQ-pattern* in the session filter.
 
 **Trend analysis.** The Trend Insight box has two parts.
 
-- **The frequency line is counted, not written.** It comes from the dated papers loaded, currently January 2017, June 2019, December 2019, June 2021, December 2022 (partial) and June 2024.
+- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017, June 2019, December 2019, June 2021, December 2022 (partial) and June 2024; for Paper 1, July 2016 to December 2018.
 - **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
 
 As more papers go in, the following update automatically:
@@ -94,12 +107,14 @@ tests/                    pytest suite, including end-to-end runs with Streamlit
 
 `sources/catalog.json` lists study texts per syllabus unit. It currently holds:
 
-- **4 PDFs in the repository**:
+- **5 PDFs in the repository**:
   - the official UGC NET Yoga syllabus (code 100)
+  - the official UGC NET General Paper (Paper 1) syllabus
   - an open-access (CC BY) paper on yoga trial trends
   - your Ashtakavarga chapter draft
   - a saved ChatGPT conversation, labelled as notes, not a source
 - **8 entries for files in your Google Drive "notes UGC" folder** that are too large or not free to publish: Rama Prasad's *Yoga Sutras* with Vyāsa and Vācaspati (1912), the two Hindi *108 Upaniṣad* volumes, the *Mālinīvijayottara Tantra*, and your therapy, Kaivalya Pāda and February 2023 PYQ notes
+- **2 Paper 1 books** in the shared folder "My book's": Madaan's *NTA UGC NET/SET/JRF Paper 1* (Pearson, 2019), which supplied the Paper 1 papers, and a Hindi Paper 1 reference book
 - **37 entries for the shared Google Drive folder "My book's"**, catalogued unit by unit with their exact file names. Examples:
   - Unit 1: Nārada Bhakti Sūtra, Sāṃkhya Kārikā with Gauḍapāda, Yājñavalkya Smṛti
   - Units 2–3: Gita Press *ईशादि नौ उपनिषद्* and Gītā, the five-Upaniṣad Hindi compilation, verse notes

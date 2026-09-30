@@ -65,6 +65,9 @@ class Question:
     question_no: int | None = None       # number in the original booklet
     answer_source: AnswerSource = ""
     passage: str = ""                    # reading passage shared by a group of questions
+    table_title: str = ""                # data table shared by a group of questions (Data Interpretation)
+    table_columns: tuple[str, ...] = ()
+    table_rows: tuple[tuple[str, ...], ...] = ()
     items: tuple[str, ...] = ()          # statements / sequence items, labelled A, B, C… (see item_style)
     item_style: str = "letters"          # "letters" (A, B…), "roman" (I, II…) or "numbers" (1, 2…)
     list_styles: tuple[str, str] = ("letters", "roman")
@@ -143,6 +146,25 @@ def _list_block(lists: Any, key: str, default_title: str) -> tuple[str, tuple[st
         return default_title, None
     title = block.get("title")
     return (title.strip() if isinstance(title, str) and title.strip() else default_title), _texts(block.get("items"))
+
+
+def _table(block: Any) -> tuple[str, tuple[str, ...], tuple[tuple[str, ...], ...], list[str]]:
+    """Reads table: {"title": ..., "columns": [...], "rows": [[...], ...]}. Cells may be blank."""
+    if block is None:
+        return "", (), (), []
+    if not isinstance(block, Mapping):
+        return "", (), (), ['"table" must be an object with "columns" and "rows"']
+    columns = _texts(block.get("columns"))
+    rows = block.get("rows")
+    ok_rows = isinstance(rows, list) and rows and all(
+        isinstance(r, list) and all(isinstance(c, str) for c in r) for r in rows)
+    if columns is None or not ok_rows:
+        return "", (), (), ['"table" needs "columns" (a list of headings) and "rows" (a list of lists of texts)']
+    if any(len(r) != len(columns) for r in rows):
+        return "", (), (), [f'every table row needs {len(columns)} cells, one per column']
+    title = block.get("title")
+    title = title.strip() if isinstance(title, str) else ""
+    return title, columns, tuple(tuple(c.strip() for c in r) for r in rows), []
 
 
 def parse_question(raw: Mapping[str, Any]) -> Question:
@@ -242,6 +264,9 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
     if any(st not in styles for st in list_styles):
         errors.append(f'lists.*.style must be one of: {", ".join(styles)}')
 
+    table_title, table_columns, table_rows, table_errors = _table(raw.get("table"))
+    errors.extend(table_errors)
+
     if errors:
         raise QuestionError(errors)
 
@@ -274,6 +299,9 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
         question_no=qno,
         answer_source=answer_source,
         passage=_text(raw, "passage"),
+        table_title=table_title,
+        table_columns=table_columns,
+        table_rows=table_rows,
         item_style=item_style,
         list_styles=list_styles,
     )

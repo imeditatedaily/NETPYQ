@@ -13,7 +13,7 @@ from pyq.data.samples import SAMPLE_QUESTIONS
 from pyq.filters import ALL, Filters, apply, session_choices, topic_choices, unit_choices
 from pyq.library import load_library
 from pyq.model import QuestionError, parse_question
-from pyq.syllabus import IKS, YOGA
+from pyq.syllabus import IKS, PAPER1, SUBJECTS, UNIT_INDEX, YOGA
 from pyq.tracker import (answers_from_dicts, make_answer, new_run, outstanding_mistakes, start_review)
 
 T0 = datetime(2026, 9, 29, 10, 0, 0)
@@ -85,7 +85,8 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
     bank = shipped_bank()
     assert bank.problems == ()
     papers = [q for q in bank.questions if q.is_dated]
-    jan17 = sorted((q for q in papers if q.session_key == "2017-January"), key=lambda q: q.question_no)
+    jan17 = sorted((q for q in papers if q.session_key == "2017-January" and q.subject == "yoga"),
+                   key=lambda q: q.question_no)
     assert [q.question_no for q in jan17] == list(range(1, 51))
     assert {q.paper for q in jan17} == {"Paper II"}
     library = load_library(SOURCE_DIR)
@@ -100,6 +101,21 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
     jun24 = [q for q in papers if q.session_key == "2024-June"]
     assert sorted(q.question_no for q in jun24) == list(range(51, 151))   # Paper 2 of a combined booklet
     assert {q.answer_source for q in jun24} == {"unverified"}              # no key was published for this paper
+
+
+def test_shipped_paper_1_sessions_keep_their_numbering():
+    by_paper = {}
+    for q in shipped_bank().questions:
+        if q.subject == "paper1":
+            by_paper.setdefault((q.session_key, q.paper), []).append(q.question_no)
+    assert {k: sorted(v) for k, v in by_paper.items()} == {
+        ("2016-July", "Paper I"): list(range(1, 61)),
+        ("2017-January", "Paper I"): list(range(1, 61)),
+        ("2017-November", "Paper I"): [n for n in range(1, 51) if n != 35],       # cancelled in the official key
+        ("2018-July", "Paper I"): list(range(1, 51)),
+        ("2018-December", "Paper 1 (set A)"): list(range(1, 51)),
+        ("2018-December", "Paper 1 (set B)"): [n for n in range(1, 51) if n != 45],  # flawed item left out
+    }
 
 
 def test_questions_without_trend_analysis_take_the_topic_note():
@@ -132,6 +148,28 @@ def test_sessions_are_months_in_calendar_order():
         "Paper 2", 7, "official_key", "Read me", "roman")
     assert d.source_label == "December 2019 · Paper 2 · Q7 · Official paper"
     assert bank["J"].list_styles == ("letters", "roman")
+
+
+def test_data_table_is_read_and_checked():
+    table = {"title": "Sales (in lakh)", "columns": ["Year", "A", "B"], "rows": [["2012", "40", ""], ["2013", "35", "50"]]}
+    q = parse_question(dated("T", 2016, "July", table=table))
+    assert (q.table_title, q.table_columns) == ("Sales (in lakh)", ("Year", "A", "B"))
+    assert q.table_rows == (("2012", "40", ""), ("2013", "35", "50"))
+    with pytest.raises(QuestionError, match="one per column"):
+        parse_question(dated("T", 2016, "July", table={"columns": ["Year", "A"], "rows": [["2012"]]}))
+    with pytest.raises(QuestionError, match='needs "columns"'):
+        parse_question(dated("T", 2016, "July", table={"rows": [["2012"]]}))
+
+
+def test_paper_1_is_a_third_subject_with_its_ten_units():
+    assert list(SUBJECTS) == ["yoga", "iks", "paper1"]
+    assert PAPER1.unit_label(7) == "Paper 1 Unit 7: Data Interpretation"
+    assert UNIT_INDEX["Paper 1 Unit 10: Higher Education System"] == (PAPER1, 10)
+    q = parse_question(dated("P", 2018, "July", subject="paper1", macro_unit=PAPER1.unit_label(1),
+                             micro_topic="Teaching methods"))
+    assert q.subject_info.display == "General Paper on Teaching and Research Aptitude (Paper 1)"
+    with pytest.raises(QuestionError, match="belongs to"):
+        parse_question(dated("P", 2018, "July", subject="yoga", macro_unit=PAPER1.unit_label(1)))
 
 
 def test_undated_official_question_is_rejected():
@@ -280,7 +318,7 @@ def test_topic_frequency_counts_only_dated_papers():
 def test_shipped_library_catalog_is_clean_and_links_resolve():
     library = load_library(SOURCE_DIR)
     assert library.problems == ()
-    assert sum(s.available for s in library.sources) == 4
+    assert sum(s.available for s in library.sources) == 5   # incl. the Yoga and Paper 1 syllabi
     for raw in SAMPLE_QUESTIONS:
         for sid in raw["source_ids"]:
             assert sid in library.by_id, sid

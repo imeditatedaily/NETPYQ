@@ -35,7 +35,7 @@ The id, session and note above only show the format.
 | Field | Required | Notes |
 |---|---|---|
 | `id` | yes | Unique and permanent: saved logs refer to it. |
-| `subject` | yes | `yoga` or `iks` |
+| `subject` | yes | `yoga`, `iks` or `paper1` (the General Paper) |
 | `exam_year`, `exam_cycle` | for real PYQs | The year and the month the session is named after: `"June"`/`"December"` for NTA papers, `"January"`, `"July"` or `"November"` for the CBSE papers of 2017–18. `null` for both on a model question. |
 | `paper`, `question_no` | no | As printed, e.g. `"Paper II"` and `12`. Shown as "January 2017 · Paper II · Q12". |
 | `answer_source` | recommended | `official_key` (from the official answer key), `cross_checked` (worked out and matching a published solved-papers key) or `unverified` |
@@ -45,12 +45,13 @@ The id, session and note above only show the format.
 | `lists` | `match` | `{"list_i": {"title": "List I", "items": [...]}, "list_ii": {"title": "List II", "items": [...]}}`, labelled A–D and I–IV. Add `"style": "roman"`, `"letters"` or `"numbers"` to either list to match the booklet. |
 | `items` | `statements`, `sequence` | Labelled A, B, C…; set `item_style` to `"roman"` or `"numbers"` to match the booklet |
 | `passage` | no | A reading passage shared by a group of questions; repeat it on each question of the group |
+| `table` | no | A data table shared by a group of questions (Paper 1 data interpretation): `{"title": "...", "columns": [...], "rows": [[...], ...]}`. Every row needs one cell per column; a cell may be `""` or `"–"` for missing data. Repeat it on each question of the group. |
 | `assertion`, `reason` | `assertion_reason` | |
 | `prompt` | no | e.g. "Choose the correct answer from the options given below:" |
 | `options` | yes | In the paper's order; shown as (1)–(4) |
 | `correct_answer` | yes | The option **number**, 1–4, as in NTA answer keys |
 | `detailed_explanation` | yes | Markdown |
-| `macro_unit` | yes | Exactly one of the labels in `pyq/syllabus.py`, e.g. `Yoga Unit 4: Patanjala Yoga Sutra`, `IKS Unit 3: Astronomy` |
+| `macro_unit` | yes | Exactly one of the labels in `pyq/syllabus.py`, e.g. `Yoga Unit 4: Patanjala Yoga Sutra`, `IKS Unit 3: Astronomy`, `Paper 1 Unit 7: Data Interpretation` |
 | `micro_topic` | yes | Spell it identically every time; frequencies group by this text |
 | `trend_analysis` | no | Markdown, shown in the Trend Insight box. Leave it out to use the note for the question's `micro_topic` in `data/topics.json`. |
 | `references` | no | Shown under the explanation |
@@ -64,7 +65,7 @@ A question with a problem is skipped and listed, with the reason, under
 One note per micro-topic, shared by every question on it:
 
 ```json
-{ "yoga": { "Kriya Yoga": "**Pattern.** …" }, "iks": { … } }
+{ "yoga": { "Kriya Yoga": "**Pattern.** …" }, "iks": { … }, "paper1": { … } }
 ```
 
 A question with no `trend_analysis` of its own and no note for its micro-topic is

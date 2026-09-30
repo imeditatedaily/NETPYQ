@@ -24,7 +24,7 @@ def render(bank: Bank) -> None:
         st.header("Filters", anchor=False)
         subject = st.segmented_control(
             "Subject", [ALL, *SUBJECTS], key="f_subject", required=True,
-            format_func=lambda s: "Both" if s == ALL else SUBJECTS[s].short,
+            format_func=lambda s: "All" if s == ALL else SUBJECTS[s].short,
         )
         in_subject = [q for q in questions if subject in (ALL, q.subject)]
         _select("Exam year / session", session_choices(in_subject), "f_session",

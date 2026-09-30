@@ -1,16 +1,18 @@
-"""UGC NET Paper II syllabus units for Yoga (subject code 100) and
-Indian Knowledge System (subject code 103).
+"""UGC NET syllabus units: Paper 2 for Yoga (subject code 100) and Indian
+Knowledge System (subject code 103), and the General Paper (Paper 1) that
+every candidate takes.
 
 A question's ``macro_unit`` must be one of the labels built here, for
-example "Yoga Unit 4: Patanjala Yoga Sutra" or "IKS Unit 3: Astronomy".
+example "Yoga Unit 4: Patanjala Yoga Sutra", "IKS Unit 3: Astronomy" or
+"Paper 1 Unit 7: Data Interpretation".
 """
 
 from dataclasses import dataclass
 
 SYLLABUS_NOTE = (
-    "Unit titles follow the NTA syllabi for Yoga (code 100) and Indian Knowledge "
-    "System (code 103) as published by exam portals. Check them against the "
-    "official PDFs at ugcnet.nta.ac.in before relying on the exact wording."
+    "Unit titles follow the NTA syllabi for Yoga (code 100), Indian Knowledge System "
+    "(code 103) and the General Paper on Teaching and Research Aptitude (Paper 1). "
+    "Check them against the official PDFs at ugcnet.nta.ac.in before relying on the exact wording."
 )
 
 
@@ -72,7 +74,28 @@ IKS = Subject(
     ),
 )
 
-SUBJECTS: dict[str, Subject] = {s.id: s for s in (YOGA, IKS)}
+# Paper 1 is common to every subject. Its ten units have been the same since the
+# syllabus revised in June 2019; older papers are mapped onto them.
+PAPER1 = Subject(
+    id="paper1",
+    name="General Paper on Teaching and Research Aptitude",
+    short="Paper 1",
+    code="Paper 1",
+    units=(
+        "Teaching Aptitude",
+        "Research Aptitude",
+        "Comprehension",
+        "Communication",
+        "Mathematical Reasoning and Aptitude",
+        "Logical Reasoning",
+        "Data Interpretation",
+        "Information and Communication Technology (ICT)",
+        "People, Development and Environment",
+        "Higher Education System",
+    ),
+)
+
+SUBJECTS: dict[str, Subject] = {s.id: s for s in (YOGA, IKS, PAPER1)}
 
 # "Yoga Unit 4: Patanjala Yoga Sutra" -> (YOGA, 4)
 UNIT_INDEX: dict[str, tuple[Subject, int]] = {

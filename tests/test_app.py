@@ -71,6 +71,17 @@ def test_passage_and_roman_labels_render_as_in_the_booklet(app):
     assert "**I.** Surya Chakra" in texts(app) and "**II.** Tālu Chakra" in texts(app)
 
 
+def test_paper_1_data_table_renders_above_its_question(app):
+    app.segmented_control(key="f_subject").set_value("paper1").run()
+    app.selectbox(key="f_session").set_value("2016-July").run()
+    app.selectbox(key="f_topic").set_value("Data interpretation: tables").run()
+    assert not app.exception, [e.message for e in app.exception]
+    md = texts(app)
+    table, stem = md.find("| **Year** | **Percentage profit (%): A**"), md.find("In which year, the percentage profit")
+    assert 0 <= table < stem
+    assert "July 2016 · Paper I · Q1 · Official paper" in captions(app)
+
+
 def test_first_question_shows_syllabus_tags(at):
     assert at.title[0].value == "Practice"
     md = texts(at)

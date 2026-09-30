@@ -1,0 +1,2068 @@
+[
+ {
+  "id": "P1-2016JUL-Q01",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which year, the percentage profit earned by company B is less than that of company A?",
+  "passage": "The following table shows the percentage profit (%) earned by two companies A and B during the years 2011–15. Answer questions 1–3 based on the data contained in the table.",
+  "table": {
+   "title": "Profit earned by two companies, 2011–15. Per cent profit = (Income − Expenditure) ÷ Expenditure × 100",
+   "columns": [
+    "Year",
+    "Percentage profit (%): A",
+    "Percentage profit (%): B"
+   ],
+   "rows": [
+    [
+     "2011",
+     "20",
+     "30"
+    ],
+    [
+     "2012",
+     "35",
+     "40"
+    ],
+    [
+     "2013",
+     "45",
+     "35"
+    ],
+    [
+     "2014",
+     "40",
+     "50"
+    ],
+    [
+     "2015",
+     "25",
+     "35"
+    ]
+   ]
+  },
+  "options": [
+   "2012",
+   "2013",
+   "2014",
+   "2015"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 2013.**\n\nCompare the two columns year by year. B is ahead in 2011 (30 vs 20), 2012 (40 vs 35), 2014 (50 vs 40) and 2015 (35 vs 25). Only in **2013** is B behind: 35% against A's 45%.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q02",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If the total expenditure of the two companies was ₹9 lakh in the year 2012 and the expenditure of A and B were in the ratio 2 : 1, then what was the income of the company A in that year?",
+  "passage": "The following table shows the percentage profit (%) earned by two companies A and B during the years 2011–15. Answer questions 1–3 based on the data contained in the table.",
+  "table": {
+   "title": "Profit earned by two companies, 2011–15. Per cent profit = (Income − Expenditure) ÷ Expenditure × 100",
+   "columns": [
+    "Year",
+    "Percentage profit (%): A",
+    "Percentage profit (%): B"
+   ],
+   "rows": [
+    [
+     "2011",
+     "20",
+     "30"
+    ],
+    [
+     "2012",
+     "35",
+     "40"
+    ],
+    [
+     "2013",
+     "45",
+     "35"
+    ],
+    [
+     "2014",
+     "40",
+     "50"
+    ],
+    [
+     "2015",
+     "25",
+     "35"
+    ]
+   ]
+  },
+  "options": [
+   "₹9.2 lakh",
+   "₹8.1 lakh",
+   "₹7.2 lakh",
+   "₹6.0 lakh"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ₹8.1 lakh.**\n\n- A's expenditure = 2/3 of ₹9 lakh = **₹6 lakh**.\n- A's profit in 2012 is 35%, so income = expenditure × 1.35 = 6 × 1.35 = **₹8.1 lakh**.\n\n**Trap.** ₹6.0 lakh is the expenditure, not the income.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q03",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the average percentage profit earned by the company B?",
+  "passage": "The following table shows the percentage profit (%) earned by two companies A and B during the years 2011–15. Answer questions 1–3 based on the data contained in the table.",
+  "table": {
+   "title": "Profit earned by two companies, 2011–15. Per cent profit = (Income − Expenditure) ÷ Expenditure × 100",
+   "columns": [
+    "Year",
+    "Percentage profit (%): A",
+    "Percentage profit (%): B"
+   ],
+   "rows": [
+    [
+     "2011",
+     "20",
+     "30"
+    ],
+    [
+     "2012",
+     "35",
+     "40"
+    ],
+    [
+     "2013",
+     "45",
+     "35"
+    ],
+    [
+     "2014",
+     "40",
+     "50"
+    ],
+    [
+     "2015",
+     "25",
+     "35"
+    ]
+   ]
+  },
+  "options": [
+   "35%",
+   "42%",
+   "38%",
+   "40%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 38%.**\n\n(30 + 40 + 35 + 50 + 35) ÷ 5 = 190 ÷ 5 = **38%**.\n\nStrictly, averaging percentages is exact only if the expenditure is the same each year. The table gives no expenditure figures, so the simple average is what the question intends.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q04",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What percentage of respondents aged 31+ indicated a favourite style other than classical music?",
+  "passage": "The following table shows the number of people in different age groups who responded to a survey about their favourite style of music. Use this information to answer the questions that follow (Questions 4–6) to the nearest whole percentage.",
+  "table": {
+   "title": "Number of people, by age group, naming each style of music as their favourite",
+   "columns": [
+    "Style of music",
+    "15–20 years",
+    "21–30 years",
+    "31+ years"
+   ],
+   "rows": [
+    [
+     "Classical",
+     "6",
+     "4",
+     "17"
+    ],
+    [
+     "Pop",
+     "7",
+     "5",
+     "5"
+    ],
+    [
+     "Rock",
+     "6",
+     "12",
+     "14"
+    ],
+    [
+     "Jazz",
+     "1",
+     "4",
+     "11"
+    ],
+    [
+     "Blues",
+     "2",
+     "3",
+     "15"
+    ],
+    [
+     "Hip-Hop",
+     "9",
+     "3",
+     "4"
+    ],
+    [
+     "Ambient",
+     "2",
+     "2",
+     "2"
+    ]
+   ]
+  },
+  "options": [
+   "64%",
+   "60%",
+   "75%",
+   "50%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 75%.**\n\n- Total aged 31+: 17 + 5 + 14 + 11 + 15 + 4 + 2 = **68**.\n- Not classical: 68 − 17 = **51**.\n- 51 ÷ 68 = **75%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q05",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Approximately what percentage of the total sample were aged 21–30?",
+  "passage": "The following table shows the number of people in different age groups who responded to a survey about their favourite style of music. Use this information to answer the questions that follow (Questions 4–6) to the nearest whole percentage.",
+  "table": {
+   "title": "Number of people, by age group, naming each style of music as their favourite",
+   "columns": [
+    "Style of music",
+    "15–20 years",
+    "21–30 years",
+    "31+ years"
+   ],
+   "rows": [
+    [
+     "Classical",
+     "6",
+     "4",
+     "17"
+    ],
+    [
+     "Pop",
+     "7",
+     "5",
+     "5"
+    ],
+    [
+     "Rock",
+     "6",
+     "12",
+     "14"
+    ],
+    [
+     "Jazz",
+     "1",
+     "4",
+     "11"
+    ],
+    [
+     "Blues",
+     "2",
+     "3",
+     "15"
+    ],
+    [
+     "Hip-Hop",
+     "9",
+     "3",
+     "4"
+    ],
+    [
+     "Ambient",
+     "2",
+     "2",
+     "2"
+    ]
+   ]
+  },
+  "options": [
+   "31%",
+   "23%",
+   "25%",
+   "14%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 25%.**\n\n- Column totals: 15–20 = 33; 21–30 = 4 + 5 + 12 + 4 + 3 + 3 + 2 = **33**; 31+ = 68. Grand total = **134**.\n- 33 ÷ 134 ≈ 24.6%, which rounds to **25%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q06",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Approximately what percentage of the total sample indicates that Hip-Hop is their favourite style of music?",
+  "passage": "The following table shows the number of people in different age groups who responded to a survey about their favourite style of music. Use this information to answer the questions that follow (Questions 4–6) to the nearest whole percentage.",
+  "table": {
+   "title": "Number of people, by age group, naming each style of music as their favourite",
+   "columns": [
+    "Style of music",
+    "15–20 years",
+    "21–30 years",
+    "31+ years"
+   ],
+   "rows": [
+    [
+     "Classical",
+     "6",
+     "4",
+     "17"
+    ],
+    [
+     "Pop",
+     "7",
+     "5",
+     "5"
+    ],
+    [
+     "Rock",
+     "6",
+     "12",
+     "14"
+    ],
+    [
+     "Jazz",
+     "1",
+     "4",
+     "11"
+    ],
+    [
+     "Blues",
+     "2",
+     "3",
+     "15"
+    ],
+    [
+     "Hip-Hop",
+     "9",
+     "3",
+     "4"
+    ],
+    [
+     "Ambient",
+     "2",
+     "2",
+     "2"
+    ]
+   ]
+  },
+  "options": [
+   "6%",
+   "8%",
+   "14%",
+   "12%"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 12%.**\n\nHip-Hop: 9 + 3 + 4 = 16 out of 134, so 16 ÷ 134 ≈ 11.9%, about **12%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q07",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The process of copying files to a CD-ROM is known as",
+  "options": [
+   "Burning",
+   "Zipping",
+   "Digitising",
+   "Ripping"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Burning.**\n\nWriting data to an optical disc is **burning**: a laser marks the disc's dye layer. **Ripping** is the reverse, copying audio or video *from* a disc to a computer. **Zipping** compresses files.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q08",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "An unsolicited e-mail message sent to many recipients at once is a",
+  "options": [
+   "Worm",
+   "Virus",
+   "Threat",
+   "Spam"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Spam.**\n\nSpam is bulk, unsolicited e-mail. A **worm** copies itself across networks on its own; a **virus** attaches to a host file and needs it to run.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q09",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The statement 'the study, design, development, implementation, support or management of computer-based information systems, particularly software applications and computer hardware' refers to",
+  "options": [
+   "Information Technology (IT)",
+   "Information and Collaborative Technology (ICT)",
+   "Information and Data Technology (IDT)",
+   "Artificial Intelligence (AI)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Information Technology (IT).**\n\nThis is the standard definition of IT (it is the Information Technology Association of America's wording). The \"C\" in ICT stands for *Communication*, not \"Collaborative\", and IDT is not a standard term.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q10",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If the binary equivalent of the decimal number 48 is 110000, then the binary equivalent of the decimal number 51 is given by",
+  "options": [
+   "110011",
+   "110010",
+   "110001",
+   "110100"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 110011.**\n\n51 = 48 + 3, and 3 in binary is 11. Adding it to 110000 gives **110011**. Check: 32 + 16 + 2 + 1 = 51.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q11",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Identify the air pollutant in urban areas which irritates eyes and also respiratory tract of human beings.",
+  "options": [
+   "Particulate matter",
+   "Oxides of nitrogen",
+   "Surface ozone",
+   "Carbon monoxide"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Surface ozone.**\n\nGround-level ozone is the main ingredient of **photochemical smog**. It forms when sunlight acts on NOx and volatile organic compounds, and it causes the typical smog symptoms: stinging eyes, coughing and airway inflammation.\n\nCarbon monoxide is odourless and non-irritant; it harms by binding haemoglobin. NOx and particulates do affect the lungs, but eye irritation together with airway irritation is the textbook description of ozone smog.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q12",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following is the largest source of water pollution in major rivers of India?",
+  "options": [
+   "Untreated sewage",
+   "Agriculture run-off",
+   "Unregulated small scale industries",
+   "Religious practices"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Untreated sewage.**\n\nCentral Pollution Control Board assessments put municipal sewage at roughly three-quarters of the pollution load in India's rivers. A large share of urban sewage is discharged without treatment because treatment capacity lags far behind generation.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q13",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Sustainable development goals have specific targets to be achieved by",
+  "options": [
+   "2022",
+   "2030",
+   "2040",
+   "2050"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 2030.**\n\nThe 17 SDGs were adopted by the UN in September 2015 as the **2030 Agenda for Sustainable Development**. They came into force on 1 January 2016 and succeeded the Millennium Development Goals (2000–2015).",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q14",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Indian government's target of producing power from biomass by the year 2022 is",
+  "options": [
+   "50 GW",
+   "25 GW",
+   "15 GW",
+   "10 GW"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 10 GW.**\n\nIndia's 2015 target was 175 GW of renewable capacity by 2022:\n\n- 100 GW solar\n- 60 GW wind\n- **10 GW biomass**\n- 5 GW small hydro",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q15",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct code from the following options.",
+  "assertion": "Conserving our soil resources is critical to human survival.",
+  "reason": "Soil is home to many microorganisms and it contains minerals.",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are correct but (R) is not the correct explanation of (A).",
+   "(A) is true and (R) is false.",
+   "(A) is false and (R) is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both are correct, but (R) is not the correct explanation of (A).**\n\n- **(A) is true.** Soil underpins almost all food production, and it forms very slowly, over centuries per centimetre, so losing it is effectively permanent.\n- **(R) is true.** Soil does contain micro-organisms and minerals.\n- **But (R) does not explain (A).** Soil matters to human survival because it supports agriculture, filters water and stores carbon, not simply because it houses microbes and minerals.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q16",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "World Meteorological Organisation's (WMO) objective is to reduce the number of deaths due to hydro-meteorological disasters over the decade 2010–2019 by (with reference to the decade 1994–2003)",
+  "options": [
+   "25%",
+   "50%",
+   "75%",
+   "80%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 50%.**\n\nThe WMO's strategic plan aimed to **halve** deaths from weather-, climate- and water-related disasters in 2010–2019 compared with 1994–2003. It aimed to do this mainly through better early warning systems.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q17",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "_________ is a type of memory circuitry that holds the computer's start-up routine.",
+  "options": [
+   "RIM (Read Initial Memory)",
+   "RAM (Random Access Memory)",
+   "ROM (Read Only Memory)",
+   "Cache Memory"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) ROM.**\n\nThe start-up routine (the BIOS or UEFI firmware, which includes the power-on self-test and the bootstrap loader) must survive power-off. It is therefore kept in non-volatile **ROM** (today, flash). RAM and cache are volatile and are empty at switch-on. \"RIM\" is invented.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q18",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "An ASCII is a character-encoding scheme that is employed by personal computers in order to represent various characters, numbers and control keys that the computer user selects on the keyboard. ASCII is an acronym for",
+  "options": [
+   "American Standard Code for Information Interchange",
+   "American Standard Code for Intelligent Information",
+   "American Standard Code for Information Integrity",
+   "American Standard Code for Isolated Information"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) American Standard Code for Information Interchange.**\n\nASCII is a 7-bit code (128 characters). For example, 'A' is 65 and 'a' is 97. Unicode later extended it; its first 128 code points are ASCII.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q19",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The National Judicial Appointments Commission (NJAC) has been declared unconstitutional by",
+  "options": [
+   "The Supreme Court of India",
+   "The High Court",
+   "The High Court and the Supreme Court both",
+   "The President of India"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The Supreme Court of India.**\n\nIn October 2015 a five-judge Constitution Bench (*Supreme Court Advocates-on-Record Association v. Union of India*) struck down the 99th Constitutional Amendment and the NJAC Act, 4:1. It held that they violated judicial independence, part of the basic structure. The collegium system was restored.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q20",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statement(s) about the Indian political system is/are correct?",
+  "items": [
+   "The President is both Head of the State and Head of the Government.",
+   "Parliament is supreme.",
+   "The Supreme Court is the guardian of the Constitution.",
+   "The Directive Principles of State Policy are justiciable."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(B), (C) and (D)",
+   "(B) and (C)",
+   "(C) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (C) only.**\n\n- **(A) is false.** The President is Head of State; the Prime Minister heads the Government.\n- **(B) is false.** In India the Constitution, not Parliament, is supreme: Parliament's laws are subject to judicial review and cannot alter the basic structure.\n- **(C) is true.** The Supreme Court is the guardian of the Constitution.\n- **(D) is false.** Article 37 makes the Directive Principles non-justiciable.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q21",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following are the fundamental duties?",
+  "items": [
+   "To respect the National Flag.",
+   "To protect and improve the natural environment.",
+   "For a parent to provide opportunities for education to his/her child.",
+   "To protect monuments and places of national importance."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (C)",
+   "(A), (B) and (D)",
+   "(A), (C) and (D)",
+   "(A), (B), (C) and (D)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (B) and (C).**\n\nArticle 51A lists the fundamental duties:\n\n- **(A)** 51A(a): respect the Constitution, the National Flag and the National Anthem\n- **(B)** 51A(g): protect and improve the natural environment\n- **(C)** 51A(k), added in 2002: a parent or guardian must provide opportunities for education to a child aged 6–14\n\n**(D) is the trap.** Protecting monuments and places of national importance is a **Directive Principle** (Article 49), a duty of the State. The citizen's duty in 51A(f) is only to \"value and preserve the rich heritage of our composite culture\".",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q22",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statements are correct in respect of NITI Aayog?",
+  "items": [
+   "It is a constitutional body.",
+   "It is a statutory body.",
+   "It is neither a constitutional body nor a statutory body.",
+   "It is a think-tank."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A) and (D)",
+   "(B) and (D)",
+   "(C) and (D)",
+   "(B), (C) and (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (C) and (D).**\n\nNITI Aayog replaced the Planning Commission on 1 January 2015 by a Union Cabinet resolution. No constitutional article or Act of Parliament created it, so it is **neither constitutional nor statutory**. It is the government's policy **think-tank**. (B) contradicts (C), so option (4) is self-contradictory.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q23",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following core values among the institutions of higher education are promoted by the NAAC (National Assessment and Accreditation Council)?",
+  "items": [
+   "Contributing to national development.",
+   "Fostering global competencies among the students.",
+   "Inculcating a value system among students and teachers.",
+   "Promoting the optimum utilisation of the infrastructure."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(B), (C) and (D)",
+   "(A), (B) and (C)",
+   "(A), (C) and (D)",
+   "(A), (B), (C) and (D)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A), (B) and (C).**\n\nNAAC's five core values:\n\n1. Contributing to national development\n2. Fostering global competencies among students\n3. Inculcating a value system among students\n4. Promoting the use of technology\n5. Quest for excellence\n\n(A), (B) and (C) are the first three. (D), \"optimum utilisation of the infrastructure\", is not a core value; it is confused with the fourth, \"use of technology\".",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q24",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The best way for providing value education is through",
+  "options": [
+   "Discussions on scriptural texts.",
+   "Lectures/discourses on values.",
+   "Seminars/symposia on values.",
+   "Mentoring/reflective sessions on values."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Mentoring/reflective sessions on values.**\n\nValues are internalised, not memorised. Mentoring (a model to imitate) and reflection (examining one's own choices) engage the learner's own judgement. Lectures, seminars and scriptural discussion transmit information *about* values and leave the learner passive.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q25",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "A college-level assistant professor has planned his/her lectures with an intent to develop cognitive dimensions of students centred on skills of analysis and synthesis. Below, given are two sets of items, Set I consisting of levels of cognitive interchange and Set II comprising of basic requirements for promoting them. Match the two sets and indicate your answer by choosing the correct alternative from the codes given below.",
+  "lists": {
+   "list_i": {
+    "title": "Set I (levels of cognitive interchange)",
+    "items": [
+     "Memory level",
+     "Understanding level",
+     "Reflective level"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II (basic requirements for promoting cognitive interchange)",
+    "items": [
+     "Giving opportunity for discriminating examples and non-examples of a point.",
+     "Recording the important points made during the presentations.",
+     "Asking the students to discuss various items of information.",
+     "Critically analysing the points to be made and discussed."
+    ]
+   }
+  },
+  "options": [
+   "A-II, B-IV, C-I",
+   "A-III, B-IV, C-II",
+   "A-II, B-I, C-IV",
+   "A-I, B-II, C-III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-II, B-I, C-IV.**\n\nThe three levels of teaching (Herbart, Morrison, Hunt) demand progressively more of the learner:\n\n- **Memory level**: retain facts, so the teacher helps students *record the important points* (II).\n- **Understanding level**: grasp a concept, which shows when a student can *discriminate examples from non-examples* (I).\n- **Reflective level**: judge and create, so students *critically analyse* the points made (IV).\n\nItem III (discussing items of information) is the extra option.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q26",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which set of learner characteristics may be considered helpful in designing effective teaching–learning systems? Select the correct alternative from the codes given below.",
+  "items": [
+   "Prior experience of learners in respect of the subject.",
+   "Interpersonal relationships of learner's family friends.",
+   "Ability of the learners in respect of the subject.",
+   "Student's language background.",
+   "Interest of students in following the prescribed dress code.",
+   "Motivational-orientation of the students."
+  ],
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(A), (C), (D) and (F)",
+   "(B), (C), (D) and (E)",
+   "(C), (D), (E) and (F)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A), (C), (D) and (F).**\n\nInstructional design starts from what the learner brings to the subject: **prior experience**, **ability**, **language** and **motivation**. The family's friends (B) and the dress code (E) have no bearing on how the subject should be taught.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q27",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "The purpose of higher education is to promote critical and creative thinking abilities among students.",
+  "reason": "These abilities ensure job placements.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+   "(A) is true but (R) is false.",
+   "(A) is false but (R) is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both are true, but (R) is not the correct explanation of (A).** This follows the published key.\n\n- **(A)** is a standard aim of higher education.\n- **(R)** is read as true in the sense that such abilities do help graduates get placed.\n- **But (R) does not explain (A).** Higher education promotes critical and creative thinking for its own sake and for citizenship, not *because* it leads to jobs.\n\nOne can object that nothing \"ensures\" a placement, which would make (R) false and the answer (3). The key did not take that reading.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q28",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "Match the items of the first set with that of the second set in respect of evaluation system. Choose the correct code.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Formative evaluation",
+     "Summative evaluation",
+     "Continuous and comprehensive evaluation",
+     "Norm and criterion referenced tests"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "items": [
+     "Evaluating cognitive and co-cognitive aspects with regularity.",
+     "Tests and their interpretations based on a group and certain yardsticks.",
+     "Grading the final learning outcomes.",
+     "Quizzes and discussions."
+    ]
+   }
+  },
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-I, B-II, C-III, D-IV",
+   "A-III, B-IV, C-II, D-I",
+   "A-I, B-III, C-IV, D-II"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-I, D-II.**\n\n- **Formative** evaluation happens during learning to guide it: quizzes and discussions (IV).\n- **Summative** evaluation comes at the end and grades final outcomes (III).\n- **CCE** covers scholastic and co-scholastic aspects, regularly (I).\n- **Norm-referenced** tests compare a student with a group; **criterion-referenced** tests compare against a fixed yardstick (II).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q29",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Select the alternative which consists of positive factors contributing to effectiveness of teaching.",
+  "items": [
+   "Teacher's knowledge of the subject.",
+   "Teacher's socio-economic background.",
+   "Communication skill of the teacher.",
+   "Teacher's ability to please the students.",
+   "Teacher's personal contact with students.",
+   "Teacher's competence in managing and monitoring the classroom transactions."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(B), (C) and (D)",
+   "(C), (D) and (F)",
+   "(B), (D) and (E)",
+   "(A), (C) and (F)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A), (C) and (F).**\n\nEffective teaching rests on **subject mastery** (A), **communication skill** (C) and **classroom management** (F).\n\n- A teacher's socio-economic background (B) is irrelevant.\n- Trying to *please* students (D) undermines standards.\n- Personal contact (E) is not in itself a teaching competence.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q30",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The use of teaching aids is justified on the grounds of",
+  "options": [
+   "Attracting students' attention in the classroom.",
+   "Minimising indiscipline problems in the classroom.",
+   "Optimizing learning outcomes of students.",
+   "Effective engagement of students in learning tasks."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Optimizing learning outcomes of students.**\n\nAttention (1) and engagement (4) are means; the justification for any aid is the **end**, better learning. Aids are not a discipline device (2).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q31",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The format of thesis writing is the same as in",
+  "options": [
+   "Preparation of a research paper/article.",
+   "Writing of seminar presentation.",
+   "A research dissertation.",
+   "Presenting a workshop/conference paper."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A research dissertation.**\n\nTheses and dissertations share one structure: preliminaries, introduction, review of literature, methodology, results, discussion, conclusions, references and appendices. A journal article is a compressed IMRaD version. Seminar and conference papers are shorter still.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q32",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In qualitative research paradigm, which of the following features may be considered critical?",
+  "options": [
+   "Data collection with standardised research tools.",
+   "Sampling design with probability sample techniques.",
+   "Data collection with bottom-up empirical evidences.",
+   "Data gathering to take place with top-down systematic evidences."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Data collection with bottom-up empirical evidences.**\n\nQualitative research is **inductive**: it builds understanding upward from the data, in the participants' own terms. Standardised tools (1), probability sampling (2) and top-down testing of theory (4) are all features of the quantitative paradigm.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q33",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "From the following list of statements, identify the set which has negative implications for 'research ethics'.",
+  "items": [
+   "A researcher critically looks at the findings of another research.",
+   "Related studies are cited without proper references.",
+   "Research findings are made the basis for policy making.",
+   "Conduct of practitioner is screened in terms of reported research evidences.",
+   "A research study is replicated with a view to verify the evidences from other researches.",
+   "Both policy making and policy implementing processes are regulated in terms of preliminary studies."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (C)",
+   "(B), (C) and (D)",
+   "(B), (D) and (F)",
+   "(A), (C) and (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (B), (D) and (F).**\n\n- **(B)** is plagiarism: using others' work without proper references.\n- **(D)** screens a practitioner's conduct against *reported* evidence that may not have been verified.\n- **(F)** regulates both policy making and implementation on *preliminary* studies, before the findings are established.\n\n(A) critical appraisal, (C) evidence-based policy and (E) replication are good research practice.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q34",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In a research on the effect of child-rearing practices on stress-proneness of children in completing school projects, the hypothesis formulated is that 'child rearing practices do influence stress-proneness'. At the data-analysis stage, a null hypothesis is advanced to find out the tenability of research hypothesis. On the basis of the evidence available, the null hypothesis is rejected at 0.01 level of significance. What decision may be warranted in respect of the research hypothesis?",
+  "options": [
+   "The research hypothesis will also be rejected.",
+   "The research hypothesis will be accepted.",
+   "Both the research hypothesis and the null hypothesis will be rejected.",
+   "No decision can be taken in respect of the research hypothesis."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) The research hypothesis will be accepted.**\n\nThe null hypothesis (\"child-rearing practices have **no** influence\") is the logical complement of the research hypothesis. Rejecting it at the 0.01 level means the observed effect would arise by chance less than 1% of the time. The research (alternative) hypothesis is then retained, or \"accepted\".",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q35",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A researcher intends to explore the effect of possible factors for the organization of effective mid-day meal interventions. Which research method will be most appropriate for this study?",
+  "options": [
+   "Historical method",
+   "Descriptive survey method",
+   "Experimental method",
+   "Ex-post-facto method"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Ex-post-facto method.**\n\nThe mid-day meal schemes are already running, and the researcher cannot assign or manipulate the factors that made some of them effective. Studying the effect of causes that have *already operated* is ex-post-facto (\"after the fact\") research.\n\n- An experiment would require manipulating the factors.\n- A descriptive survey describes status; it does not probe the effects of factors.\n- The historical method studies past records.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q36",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an initial mandatory requirement for pursuing research?",
+  "options": [
+   "Developing a research design.",
+   "Formulating a research question.",
+   "Deciding about the data analysis procedure.",
+   "Formulating a research hypothesis."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Formulating a research question.**\n\nEverything else follows from the question: the hypothesis, the design and the analysis. Not all research even needs a hypothesis (exploratory and qualitative studies often do without one), but every study needs a question.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q37",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "How can an organization enjoy competitive advantage sustainable over time?",
+  "passage": "In terms of labour, for decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage across numerous durable goods and consumer electronics industries (for example, machinery, automobiles, televisions, radios). Then labour-based advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in markets for such durable goods, electronics and other products, but the labour force is no longer sufficient for competitive advantage over manufacturers in other industrializing nations. Such shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge number of IT and service jobs are moving from Europe and North America to India, Singapore, and other countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India, Singapore and other nations enjoying labour-based competitive advantage today are likely to find such advantage cannot be sustained through emergence of new competitors.\n\nIn terms of capital, for centuries, the days of gold coins and later even paper money restricted financial flows. Subsequently, regional concentrations were formed where large banks, industries and markets coalesced. But today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions among business players. Regional capital concentrations in places, such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide. Only if an organization is able to combine, integrate and apply its resources (for example, land, labour, capital, IT) in an effective manner that is not readily imitable by competitors can such an organization enjoy competitive advantage sustainable over time.\n\nIn a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as a resource with at least the same level of power and importance as the traditional economic inputs. An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge. Semiconductors, genetic engineering, pharmaceuticals, software, military warfare and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (for example, computer chips), which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools and fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.",
+  "options": [
+   "Through regional capital flows.",
+   "Through regional interactions among business players.",
+   "By making large banks, industries and markets coalesced.",
+   "By effective use of various instrumentalities."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) By effective use of various instrumentalities.** The second paragraph ends: only an organization that can *combine, integrate and apply its resources* (land, labour, capital, IT) in a way competitors cannot copy enjoys sustainable advantage. Options (1)–(3) describe the regional arrangements the passage says no longer suffice.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q38",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is required to ensure competitive advantages in specific markets?",
+  "passage": "In terms of labour, for decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage across numerous durable goods and consumer electronics industries (for example, machinery, automobiles, televisions, radios). Then labour-based advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in markets for such durable goods, electronics and other products, but the labour force is no longer sufficient for competitive advantage over manufacturers in other industrializing nations. Such shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge number of IT and service jobs are moving from Europe and North America to India, Singapore, and other countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India, Singapore and other nations enjoying labour-based competitive advantage today are likely to find such advantage cannot be sustained through emergence of new competitors.\n\nIn terms of capital, for centuries, the days of gold coins and later even paper money restricted financial flows. Subsequently, regional concentrations were formed where large banks, industries and markets coalesced. But today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions among business players. Regional capital concentrations in places, such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide. Only if an organization is able to combine, integrate and apply its resources (for example, land, labour, capital, IT) in an effective manner that is not readily imitable by competitors can such an organization enjoy competitive advantage sustainable over time.\n\nIn a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as a resource with at least the same level of power and importance as the traditional economic inputs. An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge. Semiconductors, genetic engineering, pharmaceuticals, software, military warfare and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (for example, computer chips), which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools and fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.",
+  "options": [
+   "Access to capital",
+   "Common office buildings",
+   "Superior knowledge",
+   "Common metals"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Superior knowledge.** \"An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge.\" Office buildings and common metals appear only in the semiconductor example, as things that are *not* the source of advantage.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q39",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The passage also mentions about the trend of",
+  "passage": "In terms of labour, for decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage across numerous durable goods and consumer electronics industries (for example, machinery, automobiles, televisions, radios). Then labour-based advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in markets for such durable goods, electronics and other products, but the labour force is no longer sufficient for competitive advantage over manufacturers in other industrializing nations. Such shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge number of IT and service jobs are moving from Europe and North America to India, Singapore, and other countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India, Singapore and other nations enjoying labour-based competitive advantage today are likely to find such advantage cannot be sustained through emergence of new competitors.\n\nIn terms of capital, for centuries, the days of gold coins and later even paper money restricted financial flows. Subsequently, regional concentrations were formed where large banks, industries and markets coalesced. But today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions among business players. Regional capital concentrations in places, such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide. Only if an organization is able to combine, integrate and apply its resources (for example, land, labour, capital, IT) in an effective manner that is not readily imitable by competitors can such an organization enjoy competitive advantage sustainable over time.\n\nIn a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as a resource with at least the same level of power and importance as the traditional economic inputs. An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge. Semiconductors, genetic engineering, pharmaceuticals, software, military warfare and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (for example, computer chips), which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools and fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.",
+  "options": [
+   "Global financial flow.",
+   "Absence of competition in manufacturing industry.",
+   "Regionalization of capitalists.",
+   "Organizational incompatibility."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Global financial flow.** \"Today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions.\" The passage describes the opposite of (3), and it stresses competition in manufacturing rather than its absence (2).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q40",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What does the author lay stress on in the passage?",
+  "passage": "In terms of labour, for decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage across numerous durable goods and consumer electronics industries (for example, machinery, automobiles, televisions, radios). Then labour-based advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in markets for such durable goods, electronics and other products, but the labour force is no longer sufficient for competitive advantage over manufacturers in other industrializing nations. Such shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge number of IT and service jobs are moving from Europe and North America to India, Singapore, and other countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India, Singapore and other nations enjoying labour-based competitive advantage today are likely to find such advantage cannot be sustained through emergence of new competitors.\n\nIn terms of capital, for centuries, the days of gold coins and later even paper money restricted financial flows. Subsequently, regional concentrations were formed where large banks, industries and markets coalesced. But today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions among business players. Regional capital concentrations in places, such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide. Only if an organization is able to combine, integrate and apply its resources (for example, land, labour, capital, IT) in an effective manner that is not readily imitable by competitors can such an organization enjoy competitive advantage sustainable over time.\n\nIn a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as a resource with at least the same level of power and importance as the traditional economic inputs. An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge. Semiconductors, genetic engineering, pharmaceuticals, software, military warfare and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (for example, computer chips), which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools and fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.",
+  "options": [
+   "International commerce",
+   "Labour-intensive industries",
+   "Capital resource management",
+   "Knowledge-driven competitive advantage"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Knowledge-driven competitive advantage.** Labour and capital are shown to be advantages that erode. The passage builds to the knowledge-based theory of the firm, where knowledge is at least as powerful as the traditional inputs.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q41",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which country enjoyed competitive advantages in automobile industry for decades?",
+  "passage": "In terms of labour, for decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage across numerous durable goods and consumer electronics industries (for example, machinery, automobiles, televisions, radios). Then labour-based advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in markets for such durable goods, electronics and other products, but the labour force is no longer sufficient for competitive advantage over manufacturers in other industrializing nations. Such shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge number of IT and service jobs are moving from Europe and North America to India, Singapore, and other countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India, Singapore and other nations enjoying labour-based competitive advantage today are likely to find such advantage cannot be sustained through emergence of new competitors.\n\nIn terms of capital, for centuries, the days of gold coins and later even paper money restricted financial flows. Subsequently, regional concentrations were formed where large banks, industries and markets coalesced. But today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions among business players. Regional capital concentrations in places, such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide. Only if an organization is able to combine, integrate and apply its resources (for example, land, labour, capital, IT) in an effective manner that is not readily imitable by competitors can such an organization enjoy competitive advantage sustainable over time.\n\nIn a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as a resource with at least the same level of power and importance as the traditional economic inputs. An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge. Semiconductors, genetic engineering, pharmaceuticals, software, military warfare and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (for example, computer chips), which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools and fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.",
+  "options": [
+   "South Korea",
+   "Japan",
+   "Mexico",
+   "Malaysia"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Japan.** \"For decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage\" in industries including automobiles. The advantage then shifted to South Korea, Malaysia and Mexico.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q42",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Why labour-based competitive advantages of India and Singapore cannot be sustained in IT and service sectors?",
+  "passage": "In terms of labour, for decades, the relatively low cost and high quality of Japanese workers conferred considerable competitive advantage across numerous durable goods and consumer electronics industries (for example, machinery, automobiles, televisions, radios). Then labour-based advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in markets for such durable goods, electronics and other products, but the labour force is no longer sufficient for competitive advantage over manufacturers in other industrializing nations. Such shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge number of IT and service jobs are moving from Europe and North America to India, Singapore, and other countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India, Singapore and other nations enjoying labour-based competitive advantage today are likely to find such advantage cannot be sustained through emergence of new competitors.\n\nIn terms of capital, for centuries, the days of gold coins and later even paper money restricted financial flows. Subsequently, regional concentrations were formed where large banks, industries and markets coalesced. But today, capital flows internationally at rapid speed. Global commerce no longer requires regional interactions among business players. Regional capital concentrations in places, such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide. Only if an organization is able to combine, integrate and apply its resources (for example, land, labour, capital, IT) in an effective manner that is not readily imitable by competitors can such an organization enjoy competitive advantage sustainable over time.\n\nIn a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as a resource with at least the same level of power and importance as the traditional economic inputs. An organization with superior knowledge can achieve competitive advantage in markets that appreciate the application of such knowledge. Semiconductors, genetic engineering, pharmaceuticals, software, military warfare and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (for example, computer chips), which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools and fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.",
+  "options": [
+   "Due to diminishing levels of skill.",
+   "Due to capital-intensive technology making inroads.",
+   "Because of new competitors.",
+   "Because of shifting of labour-based advantage in manufacturing industries."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Because of new competitors.** As education and skills rise elsewhere, the advantage \"cannot be sustained through emergence of new competitors\". Skills are *rising*, not diminishing (1).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q43",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What are the barriers to effective communication?",
+  "options": [
+   "Moralizing, being judgemental and comments of consolation.",
+   "Dialogue, summary and self-review.",
+   "Use of simple words, cool reaction and defensive attitude.",
+   "Personal statements, eye contact and simple narration."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Moralizing, being judgemental and comments of consolation.**\n\nThese are the listener's \"roadblocks\" (Thomas Gordon's list). Moralising and judging put the speaker on the defensive. Quick consolation (\"don't worry\") dismisses what the speaker feels.\n\nEvery other option mixes in aids to communication: dialogue, summary, simple words, eye contact. Option (3) contains one barrier (defensiveness) but also two aids.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q44",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The choice of communication partners is influenced by factors of",
+  "options": [
+   "Proximity, utility and loneliness.",
+   "Utility, secrecy and dissonance.",
+   "Secrecy, dissonance and deception.",
+   "Dissimilarity, dissonance and deviance."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Proximity, utility and loneliness.**\n\nResearch on interpersonal attraction finds that we talk to people who are **near** us, who are **useful** to us, and whom we turn to when **lonely**. Secrecy, dissonance, deception and dissimilarity push people apart.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q45",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "As a teacher, select the best option to ensure your effective presence in the classroom.",
+  "options": [
+   "Use of peer command.",
+   "Making aggressive statements.",
+   "Adoption of well-established posture.",
+   "Being authoritarian."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Adoption of well-established posture.**\n\nPresence is largely non-verbal: an upright, open, settled posture signals confidence and invites attention. Aggression and authoritarianism produce compliance or resistance, not engagement. \"Peer command\" hands the teacher's role to students.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q46",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Every communicator has to experience",
+  "options": [
+   "Manipulated emotions.",
+   "Anticipatory excitement.",
+   "The issue of homophiles.",
+   "Status dislocation."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Anticipatory excitement.**\n\nAny communicator feels some arousal before an act of communication (a talk, a class, a difficult conversation). Handled well, this nervous energy sharpens the delivery. The other options describe situations that only *some* communicators face.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q47",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Imagine you are working in an educational institution where people are of equal status. Which method of communication is best suited and normally employed in such a context?",
+  "options": [
+   "Horizontal communication",
+   "Vertical communication",
+   "Corporate communication",
+   "Cross communication"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Horizontal communication.**\n\n**Horizontal** (lateral) communication flows between people at the same level, for example colleagues in a department. **Vertical** communication flows up or down a hierarchy. **Cross** (diagonal) communication links different levels in different departments.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q48",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Identify the important element a teacher has to take cognizance of while addressing students in a classroom.",
+  "options": [
+   "Avoidance of proximity",
+   "Voice modulation",
+   "Repetitive pause",
+   "Fixed posture"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Voice modulation.**\n\nVarying pitch, pace and volume holds attention and marks what matters. A monotone loses a class quickly. Avoiding proximity, a fixed posture and repetitive pauses all weaken classroom communication.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q49",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Two railway tickets from city A to B and three tickets from city A to C cost ₹177. Three tickets from city A to B and two tickets from city A to C cost ₹173. The fare for city B from city A will be",
+  "options": [
+   "₹25",
+   "₹27",
+   "₹30",
+   "₹33"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ₹33.**\n\nLet the fares be b (to B) and c (to C): 2b + 3c = 177 and 3b + 2c = 173.\n\n- Adding: 5(b + c) = 350, so b + c = 70.\n- Subtracting the first from the second: b − c = −4.\n- So b = 33 and c = 37. Check: 66 + 111 = 177.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q50",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A person walks 10 m in front and 10 m to the right. Then every time turning to his left, he walks 5, 15 and 15 m, respectively. How far is he now from his starting point?",
+  "options": [
+   "20 m",
+   "15 m",
+   "10 m",
+   "5 m"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 5 m.**\n\nTake \"front\" as north and the start as (0, 0):\n\n- north 10 → (0, 10)\n- right, east 10 → (10, 10)\n- left, north 5 → (10, 15)\n- left, west 15 → (−5, 15)\n- left, south 15 → (−5, 0)\n\nHe ends **5 m** west of the start.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Directions and distances",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q51",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A is the sister of B. F is the daughter of G. C is the mother of B. D is the father of C. E is the mother of D. A is related to D as",
+  "options": [
+   "Granddaughter",
+   "Daughter",
+   "Daughter-in-law",
+   "Sister"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Granddaughter.**\n\nA is B's sister, so C is A's mother too. D is C's father, so D is A's grandfather. A is female (a sister), so A is D's **granddaughter**. F, G and E are distractors.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Blood relations",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q52",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In the series AB, EDC, FGHI, ...?..., OPQRST, the missing term is",
+  "options": [
+   "JKLMN",
+   "JMKNL",
+   "NMLKJ",
+   "NMKLJ"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) NMLKJ.**\n\nThe alphabet runs on in groups of 2, 3, 4, 5, 6 letters, written alternately forwards and backwards: AB → EDC (C D E reversed) → FGHI → **NMLKJ** (J–N reversed) → OPQRST.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q53",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Among the following propositions two are related in such a way that one is the denial of the other. Which are those propositions? Select the correct code.",
+  "items": [
+   "All women are equal to men.",
+   "Some women are equal to men.",
+   "Some women are not equal to men.",
+   "No women are equal to men."
+  ],
+  "options": [
+   "(A) and (B)",
+   "(A) and (D)",
+   "(C) and (D)",
+   "(A) and (C)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) and (C).**\n\n\"Denial\" means **contradiction**: the two can be neither both true nor both false.\n\n- (A) \"All women are equal to men\" is an **A** proposition; (C) \"Some women are not…\" is an **O**. A and O are contradictories.\n- (B) and (D), the **I** and **E** pair, are also contradictories, but that pair is not offered.\n- (A) and (D) are contraries: both can be false.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q54",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In certain code, SELECTION is coded as QCJCARGML. The code of AMERICANS will be",
+  "options": [
+   "YKCPGAYLQ",
+   "BNFSJDBMR",
+   "QLYAGPCKY",
+   "YQKLCYPAG"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) YKCPGAYLQ.**\n\nEach letter moves back two places: S→Q, E→C, L→J, and so on. For AMERICANS: A→Y, M→K, E→C, R→P, I→G, C→A, A→Y, N→L, S→Q.\n\nOption (2) moves each letter *forward* one place instead.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q55",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In the series 3, 11, 23, 39, 59, .... The next term will be",
+  "options": [
+   "63",
+   "73",
+   "83",
+   "93"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 83.**\n\nThe differences are 8, 12, 16, 20, rising by 4 each time. The next difference is 24, so 59 + 24 = **83**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q56",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Select the option which is not correct about Venn diagram.",
+  "options": [
+   "Venn diagram represents propositions as well as classes.",
+   "It can provide clear method of notation.",
+   "It can be either valid or invalid.",
+   "It can provide the direct method of testing the validity."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) It can be either valid or invalid.**\n\nValidity belongs to **arguments**, not diagrams. A Venn diagram is a tool that represents classes and categorical propositions, and it tests whether a syllogism is valid. The diagram itself is neither valid nor invalid.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Venn diagrams",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q57",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Select the code which is not correct in the context of deductive argument with two premises.",
+  "options": [
+   "An argument with one true premise, one false premise and a false conclusion may be valid.",
+   "An argument with two true premises and a false conclusion may be valid.",
+   "An argument with one true premise, one false premise and a true conclusion may be valid.",
+   "An argument with two false premises and a false conclusion may be valid."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) An argument with two true premises and a false conclusion may be valid.**\n\nValidity means: *if* the premises are true, the conclusion *cannot* be false. True premises with a false conclusion is therefore the one combination no valid argument can have. Every other combination of truth values is possible in a valid argument.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q58",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Given below are two premises and four conclusions are drawn from them (taking singly or together). Select the code that states the conclusions validly drawn.",
+  "items": [
+   "Ram is emotional.",
+   "All emotional people are religious.",
+   "Ram is not a non-religious person.",
+   "Some religious people are not emotional."
+  ],
+  "prompt": "Premises: (I) All religious persons are emotional. (II) Ram is a religious person.",
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(A) only",
+   "(A) and (C) only",
+   "(B) and (C) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) and (C) only.**\n\n**Premises:** (I) All religious persons are emotional. (II) Ram is a religious person.\n\n- **(A)** follows directly: Ram is emotional.\n- **(C)** \"Ram is not a non-religious person\" is just (II) restated by double negation (obversion).\n- **(B)** illicitly converts an A proposition.\n- **(D)** contradicts premise (I).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q59",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If the proposition 'All thieves are poor' is false, then which of the following propositions can be claimed certainly to be true?",
+  "options": [
+   "Some thieves are poor.",
+   "Some thieves are not poor.",
+   "No thief is poor.",
+   "No poor person is a thief."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Some thieves are not poor.**\n\nThe **O** proposition is the contradictory of the **A**, so when A is false, O must be true.\n\n- The **I** (\"some are\") and **E** (\"no thief is\") propositions are undetermined: they may be true or false.\n- (4) converts the E, so it is undetermined too.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2016JUL-Q60",
+  "subject": "paper1",
+  "exam_year": 2016,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2016 (held 10 July 2016), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Consider the following statement and select the correct code stating the nature of the argument involved in it. 'To assume that the earth is the only populated world in the infinite space is as absurd as to assert that in an entire field of millet only one grain will grow.'",
+  "options": [
+   "Astronomical",
+   "Anthropological",
+   "Deductive",
+   "Analogical"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Analogical.**\n\nThe argument reasons from a likeness: the universe is compared to a field of millet, and the Earth to a single grain. Arguing that what holds for one holds for the other is **argument by analogy**, a kind of inductive argument.\n\n\"Astronomical\" and \"anthropological\" name subject matters, not forms of argument. It is not deductive, because the conclusion is only probable.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ }
+]

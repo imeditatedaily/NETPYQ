@@ -1,4 +1,4 @@
-"""UGC NET PYQ Analytical Dashboard: Yoga (100) and Indian Knowledge System (103).
+"""UGC NET PYQ Analytical Dashboard: Paper 1, Yoga (100) and Indian Knowledge System (103).
 
 Run locally:  streamlit run streamlit_app.py
 """

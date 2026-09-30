@@ -1,0 +1,1779 @@
+[
+ {
+  "id": "P1-2018JUL-Q01",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following set of statements best describes the nature and objectives of teaching?",
+  "items": [
+   "Teaching and learning are integrally related.",
+   "There is no difference between teaching and training.",
+   "Concern of all teaching is to ensure some kind of transformation in students.",
+   "All good teaching is formal in nature.",
+   "A teacher is a senior person.",
+   "Teaching is a social act whereas learning is a personal act."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (D)",
+   "(B), (C) and (E)",
+   "(A), (C) and (F)",
+   "(D), (E) and (F)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (C) and (F).**\n\n- **(A)** Teaching exists for learning, so the two are integrally related.\n- **(C)** Teaching aims at some change in the learner (knowledge, skill, attitude).\n- **(F)** Teaching is social, but learning happens in the individual.\n\n(B) is false: training shapes specific skills, while teaching is broader. (D) is false: good teaching also happens informally. (E) is false: a teacher need not be senior.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q02",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following learner characteristics is highly related to effectiveness of teaching?",
+  "options": [
+   "Prior experience of the learner.",
+   "Educational status of the parents of the learner.",
+   "Peer groups of the learner.",
+   "Family size from which the learner comes."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Prior experience of the learner.**\n\nNew learning is built on what the learner already knows, the maxim \"from known to unknown\" (Ausubel: \"the most important single factor influencing learning is what the learner already knows\"). Parents' education, peers and family size are background factors, not characteristics teaching works with directly.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q03",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "In the two sets given below Set I indicates the methods of teaching while Set II provides the basic requirements for success/effectiveness. Match the two sets and indicate your answer by choosing from the code.",
+  "lists": {
+   "list_i": {
+    "title": "Set I (method of teaching)",
+    "items": [
+     "Lecturing",
+     "Discussion in groups",
+     "Brainstorming",
+     "Programmed Instructional procedure"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II (basic requirements for success/effectiveness)",
+    "items": [
+     "Small step presentation with feedback provided.",
+     "Production of large number of ideas.",
+     "Content delivery in a lucid language.",
+     "Use of teaching-aids.",
+     "Theme based interaction among participants."
+    ]
+   }
+  },
+  "options": [
+   "A-i, B-ii, C-iii, D-iv",
+   "A-ii, B-iii, C-iv, D-v",
+   "A-iii, B-v, C-ii, D-i",
+   "A-iv, B-ii, C-i, D-iii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-iii, B-v, C-ii, D-i.**\n\n- **Lecturing** succeeds by clear, **lucid delivery of content** (iii).\n- **Group discussion** needs **theme-based interaction** among participants (v).\n- **Brainstorming** aims at the **greatest number of ideas**, judged only later (ii).\n- **Programmed instruction** (Skinner) presents material in **small steps with immediate feedback** (i).\n\nTeaching aids (iv) help any method and match none of them in particular.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q04",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "From the list of evaluation procedures given below identify those which will be called 'formative evaluation'. Indicate your answer by choosing from the code.",
+  "items": [
+   "A teacher awards grades to students after having transacted the course work.",
+   "During interaction with students in the classroom, the teacher provides corrective feedback.",
+   "The teacher gives marks to students on a unit test.",
+   "The teacher clarifies the doubts of students in the class itself.",
+   "The overall performance of a student is reported to parents at every three months interval.",
+   "The learner's motivation is raised by the teacher through a question-answer session."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (C)",
+   "(B), (C) and (D)",
+   "(A), (C) and (E)",
+   "(B), (D) and (F)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (B), (D) and (F).**\n\nFormative evaluation happens **during** teaching, to improve learning while it is still going on:\n\n- corrective feedback in class (B)\n- clearing doubts on the spot (D)\n- raising motivation through questioning (F)\n\nGrades after the course (A), marks on a unit test (C) and quarterly reports to parents (E) all sum up learning after the fact. They are summative.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q05",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "All teaching should aim at ensuring learning.",
+  "reason": "All learning results from teaching.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) is true, but (R) is false.**\n\n- **(A) is true.** Learning is the purpose of teaching.\n- **(R) is false.** Much learning comes from experience, family, peers and self-study, with no teacher involved.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q06",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "There are two sets given below. Set I specifies the types of research, while Set II indicates their characteristics. Match the two and give your answer by selecting the appropriate code.",
+  "lists": {
+   "list_i": {
+    "title": "Set I (research types)",
+    "items": [
+     "Fundamental research",
+     "Applied research",
+     "Action research",
+     "Evaluative research"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II (characteristics)",
+    "items": [
+     "Finding out the extent of perceived impact of an intervention.",
+     "Developing an effective explanation through theory building.",
+     "Improving an existing situation through use of interventions.",
+     "Exploring the possibility of a theory for use in various situations.",
+     "Enriching technological resources."
+    ]
+   }
+  },
+  "options": [
+   "A-ii, B-iv, C-iii, D-i",
+   "A-v, B-iv, C-iii, D-ii",
+   "A-iii, B-ii, C-iii, D-iv",
+   "A-ii, B-iii, C-iv, D-v"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-ii, B-iv, C-iii, D-i.**\n\n- **Fundamental** research builds theory to explain (ii).\n- **Applied** research takes theory into practical situations (iv).\n- **Action** research improves the practitioner's existing situation through interventions (iii).\n- **Evaluative** research measures the impact of an intervention (i).\n\nEnriching technological resources (v) belongs to none of them.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q07",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the sets of activities best indicate the cyclic nature of action research strategy?",
+  "options": [
+   "Reflect, Observe, Plan, Act",
+   "Observe, Act, Reflect, Plan",
+   "Act, Plan, Observe, Reflect",
+   "Plan, Act, Observe, Reflect"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Plan, Act, Observe, Reflect.**\n\nThis is the Kemmis–McTaggart action research spiral. Reflection at the end of one cycle feeds the next plan.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q08",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following sequence of research steps is nearer to scientific method?",
+  "options": [
+   "Suggested solution of the problem, deducing the consequences of the solution, perceiving the problem situation, location of the difficulty and testing the solutions.",
+   "Perceiving the problem situation, locating the actual problem and its definition, hypothesizing, deducing the consequences of the suggested solution and testing the hypothesis in action.",
+   "Defining a problem, identifying the causes of the problem, defining a population, drawing a sample, collecting data and analysing results.",
+   "Identifying the causal factors, defining the problem, developing a hypothesis, selecting a sample, collecting data and arriving at generalization and conclusions."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).**\n\nThis is Dewey's analysis of reflective thinking (*How We Think*, 1910), the classic statement of the scientific method:\n\n1. a felt difficulty\n2. locating and defining it\n3. a suggested solution (hypothesis)\n4. reasoning out its consequences\n5. testing it\n\n- (1) puts the solution before the problem.\n- (3) identifies causes before any hypothesis.\n- (4) starts from causal factors before the problem is even defined.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q09",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The problem of 'research ethics' is concerned with which aspect of research activities?",
+  "options": [
+   "Following the prescribed format of a thesis.",
+   "Data analysis through qualitative or quantitative technique.",
+   "Defining the population of research.",
+   "Evidence based research reporting."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Evidence based research reporting.**\n\nReporting only what the evidence supports, without fabrication, falsification, selective reporting or plagiarism, is the core of research integrity. Thesis format, choice of analysis technique and population definition are technical choices.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q10",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which of the following activities, potential for nurturing creative and critical thinking is relatively greater?",
+  "options": [
+   "Preparing research summary.",
+   "Presenting a seminar paper.",
+   "Participation in research conference.",
+   "Participation in a workshop."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Participation in research conference.**\n\nA conference exposes a researcher to many studies, methods and viewpoints, and to questioning of their own work by peers. That is the richest setting for critical and creative thinking. A summary condenses existing work; a seminar or workshop is narrower in scope.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q11",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "According to the above passage, which of the following are indicative of the fourth dimension?",
+  "passage": "If India has to develop her internal strengths, the nation has to focus on the technological imperatives, keeping in mind the three dynamic dimensions, such as the people, the overall economy and the strategic interests. These technological imperatives also take into account a 'fourth' dimension, time, an offshoot of modern day dynamism in business, trade and technology that leads to continually shifting targets. We believe that technological strengths are especially crucial in dealing with this fourth dimension underlying continuous change in the aspirations of the people, the economy in the global context and the strategic interests. The progress of technology lies at the heart of human history. Technological strengths are the key to creating more productive employment in an increasingly competitive market place and to continually upgrade human skills. Without a pervasive use of technologies, we cannot achieve overall development of our people in the years to come. The direct linkages of technology to the nation's strategic strengths are becoming more and more clear, especially since 1990s. India's own strength in a number of core areas still puts it in a position of reasonable strength in geopolitical context. Any nation aspiring to become a developed one needs to have strengths in various strategic technologies and also the ability to continually upgrade them through its own creative strengths.\n\nFor people-oriented actions as well, whether for the creation of large scale productive employment or for ensuring nutritional and health security for people, or for better living conditions, technology is the only vital input. The absence of greater technological impetus could lead to lower productivity and wastage of precious natural resources. Activities with low productivity or low value addition, in the final analysis hurt the poorest most. India, aspiring to become a major economic power in terms of trade and increase in GDP, cannot succeed on the strength of turnkey projects designed and built abroad or only through large-scale imports of plant machinery, equipment and know how. Even while being alive to the short-term realities, medium and long-term strategies to develop core technological strengths within our industry are vital for envisioning a developed India.",
+  "items": [
+   "Aspirations of people",
+   "Modern day dynamism",
+   "Economy in the global context",
+   "Strategic interests"
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (C) only",
+   "(B), (C) and (D) only",
+   "(A), (C) and (D) only",
+   "(A), (B) and (D) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (C) and (D) only.**\n\nThe fourth dimension is **time**, which underlies \"continuous change in **the aspirations of the people, the economy in the global context and the strategic interests**\". Modern-day dynamism (B) is what time is an *offshoot of*. It is the source of the dimension, not a sign of it.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q12",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "More productive employment demands",
+  "passage": "If India has to develop her internal strengths, the nation has to focus on the technological imperatives, keeping in mind the three dynamic dimensions, such as the people, the overall economy and the strategic interests. These technological imperatives also take into account a 'fourth' dimension, time, an offshoot of modern day dynamism in business, trade and technology that leads to continually shifting targets. We believe that technological strengths are especially crucial in dealing with this fourth dimension underlying continuous change in the aspirations of the people, the economy in the global context and the strategic interests. The progress of technology lies at the heart of human history. Technological strengths are the key to creating more productive employment in an increasingly competitive market place and to continually upgrade human skills. Without a pervasive use of technologies, we cannot achieve overall development of our people in the years to come. The direct linkages of technology to the nation's strategic strengths are becoming more and more clear, especially since 1990s. India's own strength in a number of core areas still puts it in a position of reasonable strength in geopolitical context. Any nation aspiring to become a developed one needs to have strengths in various strategic technologies and also the ability to continually upgrade them through its own creative strengths.\n\nFor people-oriented actions as well, whether for the creation of large scale productive employment or for ensuring nutritional and health security for people, or for better living conditions, technology is the only vital input. The absence of greater technological impetus could lead to lower productivity and wastage of precious natural resources. Activities with low productivity or low value addition, in the final analysis hurt the poorest most. India, aspiring to become a major economic power in terms of trade and increase in GDP, cannot succeed on the strength of turnkey projects designed and built abroad or only through large-scale imports of plant machinery, equipment and know how. Even while being alive to the short-term realities, medium and long-term strategies to develop core technological strengths within our industry are vital for envisioning a developed India.",
+  "options": [
+   "Pervasive use of technology",
+   "Limiting competitive market place",
+   "Geopolitical considerations",
+   "Large industries"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Pervasive use of technology.**\n\n\"Technological strengths are the key to creating more productive employment … Without a pervasive use of technologies, we cannot achieve overall development of our people.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q13",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Absence of technology would lead to",
+  "passage": "If India has to develop her internal strengths, the nation has to focus on the technological imperatives, keeping in mind the three dynamic dimensions, such as the people, the overall economy and the strategic interests. These technological imperatives also take into account a 'fourth' dimension, time, an offshoot of modern day dynamism in business, trade and technology that leads to continually shifting targets. We believe that technological strengths are especially crucial in dealing with this fourth dimension underlying continuous change in the aspirations of the people, the economy in the global context and the strategic interests. The progress of technology lies at the heart of human history. Technological strengths are the key to creating more productive employment in an increasingly competitive market place and to continually upgrade human skills. Without a pervasive use of technologies, we cannot achieve overall development of our people in the years to come. The direct linkages of technology to the nation's strategic strengths are becoming more and more clear, especially since 1990s. India's own strength in a number of core areas still puts it in a position of reasonable strength in geopolitical context. Any nation aspiring to become a developed one needs to have strengths in various strategic technologies and also the ability to continually upgrade them through its own creative strengths.\n\nFor people-oriented actions as well, whether for the creation of large scale productive employment or for ensuring nutritional and health security for people, or for better living conditions, technology is the only vital input. The absence of greater technological impetus could lead to lower productivity and wastage of precious natural resources. Activities with low productivity or low value addition, in the final analysis hurt the poorest most. India, aspiring to become a major economic power in terms of trade and increase in GDP, cannot succeed on the strength of turnkey projects designed and built abroad or only through large-scale imports of plant machinery, equipment and know how. Even while being alive to the short-term realities, medium and long-term strategies to develop core technological strengths within our industry are vital for envisioning a developed India.",
+  "items": [
+   "Less pollution",
+   "Wastage of precious natural resources",
+   "Low value addition",
+   "Hurting the poorest most"
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (C) only",
+   "(B), (C) and (D) only",
+   "(A), (B) and (D) only",
+   "(A), (C) and (D) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (B), (C) and (D) only.**\n\nThe passage: the absence of technological impetus \"could lead to lower productivity and **wastage of precious natural resources**. Activities with low productivity or **low value addition** … **hurt the poorest most**.\" Less pollution (A) is never mentioned.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q14",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The advantage of technological inputs would result in",
+  "passage": "If India has to develop her internal strengths, the nation has to focus on the technological imperatives, keeping in mind the three dynamic dimensions, such as the people, the overall economy and the strategic interests. These technological imperatives also take into account a 'fourth' dimension, time, an offshoot of modern day dynamism in business, trade and technology that leads to continually shifting targets. We believe that technological strengths are especially crucial in dealing with this fourth dimension underlying continuous change in the aspirations of the people, the economy in the global context and the strategic interests. The progress of technology lies at the heart of human history. Technological strengths are the key to creating more productive employment in an increasingly competitive market place and to continually upgrade human skills. Without a pervasive use of technologies, we cannot achieve overall development of our people in the years to come. The direct linkages of technology to the nation's strategic strengths are becoming more and more clear, especially since 1990s. India's own strength in a number of core areas still puts it in a position of reasonable strength in geopolitical context. Any nation aspiring to become a developed one needs to have strengths in various strategic technologies and also the ability to continually upgrade them through its own creative strengths.\n\nFor people-oriented actions as well, whether for the creation of large scale productive employment or for ensuring nutritional and health security for people, or for better living conditions, technology is the only vital input. The absence of greater technological impetus could lead to lower productivity and wastage of precious natural resources. Activities with low productivity or low value addition, in the final analysis hurt the poorest most. India, aspiring to become a major economic power in terms of trade and increase in GDP, cannot succeed on the strength of turnkey projects designed and built abroad or only through large-scale imports of plant machinery, equipment and know how. Even while being alive to the short-term realities, medium and long-term strategies to develop core technological strengths within our industry are vital for envisioning a developed India.",
+  "options": [
+   "Unbridled technological growth.",
+   "Importing plant machinery.",
+   "Sidelining environmental issues.",
+   "Lifting our people to a life of dignity."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Lifting our people to a life of dignity.**\n\nTechnology is \"the only vital input\" for productive employment, nutritional and health security and better living conditions: in short, a dignified life. The passage warns *against* relying on imported machinery (2), and it nowhere favours unbridled growth or ignoring the environment.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q15",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Envisioning a developed India requires",
+  "passage": "If India has to develop her internal strengths, the nation has to focus on the technological imperatives, keeping in mind the three dynamic dimensions, such as the people, the overall economy and the strategic interests. These technological imperatives also take into account a 'fourth' dimension, time, an offshoot of modern day dynamism in business, trade and technology that leads to continually shifting targets. We believe that technological strengths are especially crucial in dealing with this fourth dimension underlying continuous change in the aspirations of the people, the economy in the global context and the strategic interests. The progress of technology lies at the heart of human history. Technological strengths are the key to creating more productive employment in an increasingly competitive market place and to continually upgrade human skills. Without a pervasive use of technologies, we cannot achieve overall development of our people in the years to come. The direct linkages of technology to the nation's strategic strengths are becoming more and more clear, especially since 1990s. India's own strength in a number of core areas still puts it in a position of reasonable strength in geopolitical context. Any nation aspiring to become a developed one needs to have strengths in various strategic technologies and also the ability to continually upgrade them through its own creative strengths.\n\nFor people-oriented actions as well, whether for the creation of large scale productive employment or for ensuring nutritional and health security for people, or for better living conditions, technology is the only vital input. The absence of greater technological impetus could lead to lower productivity and wastage of precious natural resources. Activities with low productivity or low value addition, in the final analysis hurt the poorest most. India, aspiring to become a major economic power in terms of trade and increase in GDP, cannot succeed on the strength of turnkey projects designed and built abroad or only through large-scale imports of plant machinery, equipment and know how. Even while being alive to the short-term realities, medium and long-term strategies to develop core technological strengths within our industry are vital for envisioning a developed India.",
+  "options": [
+   "Aspiration to become a major economic player.",
+   "Dependence upon projects designed abroad.",
+   "Focus on short-term projects.",
+   "Development of core technological strengths."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Development of core technological strengths.**\n\nThe last sentence: \"medium and long-term strategies to **develop core technological strengths** within our industry are vital for envisioning a developed India.\" Aspiration alone is not enough, and the passage rejects (2) and (3) outright.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q16",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Differentiation between acceptance and non-acceptance of certain stimuli in classroom communication is the basis of",
+  "options": [
+   "Selective expectation of performance.",
+   "Selective affiliation to peer groups.",
+   "Selective attention.",
+   "Selective morality."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Selective attention.**\n\nStudents take in some stimuli and filter out others: the teacher's voice over corridor noise, the slide over the phone. That filtering is **selective attention** (Broadbent's filter model). It is why teachers must compete with distractions for attention.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q17",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "The initial messages to students in the classroom by a teacher need not be critical to establish interactions later.",
+  "reason": "More control over the communication process means more control over what the students are learning.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) is false, but (R) is true.**\n\n- **(A) is false.** A teacher's first messages set the tone, expectations and relationship for all later interaction, so they *are* critical.\n- **(R) is true.** A teacher who manages the communication process (clarity, feedback, sequencing) has more control over what students learn.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q18",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "To communicate well in the classroom is a natural ability.",
+  "reason": "Effective teaching in the classroom demands knowledge of the communication process.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) is false, but (R) is true.**\n\n- **(A) is false.** Classroom communication is a *learnt* skill that improves with training and practice.\n- **(R) is true.** Effective teaching does demand knowledge of how communication works: encoding, channels, noise and feedback.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q19",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "Classroom communication is a transactional process.",
+  "reason": "A teacher does not operate under the assumption that students' responses are purposive.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) is true, but (R) is false.**\n\n- **(A) is true.** In the transactional model, teacher and students send and receive at the same time, and meaning is built between them.\n- **(R) is false.** A teacher *does* assume students' responses are purposive, meaningful signals to act on. That assumption is what makes the exchange a transaction.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q20",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following set of statements is correct for describing the human communication process?",
+  "items": [
+   "Non-verbal communication can stimulate ideas.",
+   "Communication is a learnt ability.",
+   "Communication is not a universal panacea.",
+   "Communication cannot break-down.",
+   "More communication means more effective learning by students.",
+   "Value of what is learnt through classroom communication is not an issue for students."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (C), (E) and (F)",
+   "(B), (D), (E) and (F)",
+   "(A), (B), (C) and (D)",
+   "(A), (D), (E) and (F)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B), (C) and (D).**\n\nEliminate the two clearly false statements first:\n\n- (E): more communication does not mean more learning; overload hurts.\n- (F): the value of what is learnt matters greatly to students.\n\nOnly option (3) avoids both. (A), (B) and (C) are standard truths: non-verbal cues stimulate ideas; communication is learnt; it is no cure-all.\n\n(D) is the doubtful one. Communication certainly *can* break down. The key accepts it, most likely in the sense that one \"cannot not communicate\", since some message always passes.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q21",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the series −1, 5, 15, 29, ____, … is",
+  "options": [
+   "36",
+   "47",
+   "59",
+   "63"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 47.**\n\nThe differences are 6, 10, 14, rising by 4. The next difference is 18, so 29 + 18 = **47**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q22",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the series: ABD, DGK, HMS, MTB, SBL, ____, … is",
+  "options": [
+   "ZKU",
+   "ZCA",
+   "ZKW",
+   "ZKU"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) ZKW.**\n\nEach position moves by a rising step (counting past Z back to A):\n\n- **1st:** A, D, H, M, S → +3, +4, +5, +6 → +7 = **Z**\n- **2nd:** B, G, M, T, B → +5 … +8 → +9 = **K**\n- **3rd:** D, K, S, B, L → +7 … +10 → +11 = **W**\n\n(The book prints options (a) and (d) both as ZKU.) This extends the November 2017 series by one term.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q23",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If VARANASI is coded as WCUESGZQ, then the code of KOLKATA will be",
+  "options": [
+   "LOQOZEH",
+   "HLZEOOQ",
+   "ZELHOQO",
+   "LQOOFZH"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) LQOOFZH.**\n\nThe nth letter moves n places forward: V+1 = W, A+2 = C, R+3 = U, and so on. KOLKATA: K+1 = L, O+2 = Q, L+3 = O, K+4 = O, A+5 = F, T+6 = Z, A+7 = H.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q24",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Introducing Rakesh to her husband a woman said, 'His brother's father is the only son of my grandfather'. The woman is related to Rakesh as",
+  "options": [
+   "Aunt",
+   "Mother",
+   "Sister",
+   "Daughter"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sister.**\n\nRakesh's brother's father is Rakesh's father. The only son of the woman's grandfather is the woman's father. So they share a father, and the woman is Rakesh's **sister**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Blood relations",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q25",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Two numbers are in the ratio 2 : 5. If 16 is added to both the numbers, then their ratio becomes 1 : 2. The numbers are:",
+  "options": [
+   "6, 40",
+   "20, 50",
+   "28, 70",
+   "32, 80"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 32, 80.**\n\nWrite the numbers as 2x and 5x. Then (2x + 16) ÷ (5x + 16) = ½, so 4x + 32 = 5x + 16, giving x = 16. The numbers are 32 and 80. Check: 48 : 96 = 1 : 2.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q26",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'Superiority of intellect depends upon its power of concentration on one theme in the same way as a concave mirror collects all the rays that strike upon it into one point.' What type of argument is it?",
+  "options": [
+   "Mathematical",
+   "Psychological",
+   "Analogical",
+   "Deductive"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Analogical.**\n\n\"In the same way as\" signals an analogy: the intellect focusing on one theme is compared to a concave mirror focusing rays. Arguing from such a resemblance is **analogical** reasoning.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q27",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Given below are two premises (A and B). Four conclusions are drawn from them. Select the code that states validly drawn conclusion(s) (taking the premises individually or jointly).",
+  "items": [
+   "Most of the singers are physically fit.",
+   "Most of the dancers are singers.",
+   "Most of the physically fit persons are dancers.",
+   "Most of the physically fit persons are singers."
+  ],
+  "prompt": "Premises: (A) Most of the dancers are physically fit. (B) Most of the singers are dancers. Select the correct answer from the codes given below.",
+  "options": [
+   "(A) and (B)",
+   "(B) and (C)",
+   "(C) and (D)",
+   "(D) and (A)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (B) and (C).**\n\nIn categorical logic \"most\" is read as \"some\", an I proposition.\n\n- **Individually:** each premise converts validly. \"Some dancers are physically fit\" gives (C), \"some physically fit persons are dancers\". \"Some singers are dancers\" gives (B), \"some dancers are singers\".\n- **Jointly:** two particular premises yield no conclusion, so (A) and (D) do not follow. The singers who are dancers need not be among the fit dancers.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q28",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which one among the following is a presupposition in inductive reasoning?",
+  "options": [
+   "Law of identity.",
+   "Unchangeability in nature.",
+   "Harmony in nature.",
+   "Uniformity of nature."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Uniformity of nature.**\n\nInduction assumes that nature behaves uniformly, so that the future will resemble the past (Mill). Hume showed that this assumption cannot itself be proved without circularity: the \"problem of induction\".\n\nThe law of identity is a law of *deductive* thought. \"Unchangeability\" is too strong, since uniformity allows change according to regular laws.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q29",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "If the proposition 'domestic animals are hardly ferocious' is taken to be false, then which of the following proposition/propositions can be claimed to be certainly true? Select the correct code.",
+  "items": [
+   "All domestic animals are ferocious.",
+   "Most of the domestic animals are ferocious.",
+   "No domestic animal is ferocious.",
+   "Some domestic animals are non-ferocious."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A) and (B)",
+   "(A) only",
+   "(C) and (D)",
+   "(B) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A) and (B).**\n\n\"S are hardly P\" is read as the **O** form, \"Some domestic animals are not ferocious\". If the O is false:\n\n- its contradictory **A**, \"All domestic animals are ferocious\", is true (A)\n- the **I**, \"Some (most) domestic animals are ferocious\", is true by subalternation from A (B)\n- the **E** (C) is false\n- (D) is the obverse of the O, so it is false too",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q30",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which one of the following statements is not correct in the context of Venn diagram method?",
+  "options": [
+   "It is a method of testing the validity of arguments.",
+   "It represents both the premises of a syllogism in one diagram.",
+   "It requires two overlapping circles for the two premises of a standard-form categorical syllogism.",
+   "It can be used to represent classes as well as propositions."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).**\n\nA standard syllogism has **three** terms (minor, major, middle), so testing it needs **three** overlapping circles, not two. Both premises are drawn in that one diagram, and the argument is valid if the conclusion then appears without being drawn separately.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Venn diagrams",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q31",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The percentage increase in the consumption of rice over the previous year was the highest in which year?",
+  "passage": "The table below embodies data on the production, exports and per capita consumption of rice in country P for five years from 2012 to 2016. Answer questions 31–35 based on the data contained in the table.",
+  "table": {
+   "title": "Year-wise production, exports and per capita consumption of rice. Per capita consumption = consumption (million kg) ÷ population (million); consumption (million kg) = production − exports",
+   "columns": [
+    "Year",
+    "Production (million kg)",
+    "Exports (million kg)",
+    "Per capita consumption (kg)"
+   ],
+   "rows": [
+    [
+     "2012",
+     "186.5",
+     "114",
+     "36.25"
+    ],
+    [
+     "2013",
+     "202",
+     "114",
+     "35.2"
+    ],
+    [
+     "2014",
+     "238",
+     "130",
+     "38.7"
+    ],
+    [
+     "2015",
+     "221",
+     "116",
+     "40.5"
+    ],
+    [
+     "2016",
+     "215",
+     "88",
+     "42"
+    ]
+   ]
+  },
+  "options": [
+   "2013",
+   "2014",
+   "2015",
+   "2016"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 2014.** Increases: 2013 +21.4%, **2014 +22.7%**, 2015 −2.8% (a fall), 2016 +21.0%.\n\n**Working.** Consumption = production − exports: 2012: 72.5 · 2013: 88 · 2014: 108 · 2015: 105 · 2016: 127 (million kg). Population = consumption ÷ per capita consumption: 2012: 2.00 · 2013: 2.50 · 2014: 2.79 · 2015: 2.59 · 2016: 3.02 (million).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q32",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the population of the country in the year 2014 (in million)?",
+  "passage": "The table below embodies data on the production, exports and per capita consumption of rice in country P for five years from 2012 to 2016. Answer questions 31–35 based on the data contained in the table.",
+  "table": {
+   "title": "Year-wise production, exports and per capita consumption of rice. Per capita consumption = consumption (million kg) ÷ population (million); consumption (million kg) = production − exports",
+   "columns": [
+    "Year",
+    "Production (million kg)",
+    "Exports (million kg)",
+    "Per capita consumption (kg)"
+   ],
+   "rows": [
+    [
+     "2012",
+     "186.5",
+     "114",
+     "36.25"
+    ],
+    [
+     "2013",
+     "202",
+     "114",
+     "35.2"
+    ],
+    [
+     "2014",
+     "238",
+     "130",
+     "38.7"
+    ],
+    [
+     "2015",
+     "221",
+     "116",
+     "40.5"
+    ],
+    [
+     "2016",
+     "215",
+     "88",
+     "42"
+    ]
+   ]
+  },
+  "options": [
+   "2.64",
+   "2.72",
+   "2.79",
+   "2.85"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2.79.** 108 million kg ÷ 38.7 kg per head ≈ 2.79 million people.\n\n**Working.** Consumption = production − exports: 2012: 72.5 · 2013: 88 · 2014: 108 · 2015: 105 · 2016: 127 (million kg). Population = consumption ÷ per capita consumption: 2012: 2.00 · 2013: 2.50 · 2014: 2.79 · 2015: 2.59 · 2016: 3.02 (million).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q33",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The ratio of exports to consumption in the given period was the highest in the year",
+  "passage": "The table below embodies data on the production, exports and per capita consumption of rice in country P for five years from 2012 to 2016. Answer questions 31–35 based on the data contained in the table.",
+  "table": {
+   "title": "Year-wise production, exports and per capita consumption of rice. Per capita consumption = consumption (million kg) ÷ population (million); consumption (million kg) = production − exports",
+   "columns": [
+    "Year",
+    "Production (million kg)",
+    "Exports (million kg)",
+    "Per capita consumption (kg)"
+   ],
+   "rows": [
+    [
+     "2012",
+     "186.5",
+     "114",
+     "36.25"
+    ],
+    [
+     "2013",
+     "202",
+     "114",
+     "35.2"
+    ],
+    [
+     "2014",
+     "238",
+     "130",
+     "38.7"
+    ],
+    [
+     "2015",
+     "221",
+     "116",
+     "40.5"
+    ],
+    [
+     "2016",
+     "215",
+     "88",
+     "42"
+    ]
+   ]
+  },
+  "options": [
+   "2012",
+   "2013",
+   "2014",
+   "2015"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 2012.** Exports ÷ consumption: 2012 **1.57**, 2013 1.30, 2014 1.20, 2015 1.10 (2016 0.69).\n\n**Working.** Consumption = production − exports: 2012: 72.5 · 2013: 88 · 2014: 108 · 2015: 105 · 2016: 127 (million kg). Population = consumption ÷ per capita consumption: 2012: 2.00 · 2013: 2.50 · 2014: 2.79 · 2015: 2.59 · 2016: 3.02 (million).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q34",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which year, the population of country was the highest?",
+  "passage": "The table below embodies data on the production, exports and per capita consumption of rice in country P for five years from 2012 to 2016. Answer questions 31–35 based on the data contained in the table.",
+  "table": {
+   "title": "Year-wise production, exports and per capita consumption of rice. Per capita consumption = consumption (million kg) ÷ population (million); consumption (million kg) = production − exports",
+   "columns": [
+    "Year",
+    "Production (million kg)",
+    "Exports (million kg)",
+    "Per capita consumption (kg)"
+   ],
+   "rows": [
+    [
+     "2012",
+     "186.5",
+     "114",
+     "36.25"
+    ],
+    [
+     "2013",
+     "202",
+     "114",
+     "35.2"
+    ],
+    [
+     "2014",
+     "238",
+     "130",
+     "38.7"
+    ],
+    [
+     "2015",
+     "221",
+     "116",
+     "40.5"
+    ],
+    [
+     "2016",
+     "215",
+     "88",
+     "42"
+    ]
+   ]
+  },
+  "options": [
+   "2013",
+   "2014",
+   "2015",
+   "2016"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2016.** 127 ÷ 42 ≈ 3.02 million, the largest of the five years.\n\n**Working.** Consumption = production − exports: 2012: 72.5 · 2013: 88 · 2014: 108 · 2015: 105 · 2016: 127 (million kg). Population = consumption ÷ per capita consumption: 2012: 2.00 · 2013: 2.50 · 2014: 2.79 · 2015: 2.59 · 2016: 3.02 (million).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q35",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the average consumption of rice (in million kg) over the years 2012–2016?",
+  "passage": "The table below embodies data on the production, exports and per capita consumption of rice in country P for five years from 2012 to 2016. Answer questions 31–35 based on the data contained in the table.",
+  "table": {
+   "title": "Year-wise production, exports and per capita consumption of rice. Per capita consumption = consumption (million kg) ÷ population (million); consumption (million kg) = production − exports",
+   "columns": [
+    "Year",
+    "Production (million kg)",
+    "Exports (million kg)",
+    "Per capita consumption (kg)"
+   ],
+   "rows": [
+    [
+     "2012",
+     "186.5",
+     "114",
+     "36.25"
+    ],
+    [
+     "2013",
+     "202",
+     "114",
+     "35.2"
+    ],
+    [
+     "2014",
+     "238",
+     "130",
+     "38.7"
+    ],
+    [
+     "2015",
+     "221",
+     "116",
+     "40.5"
+    ],
+    [
+     "2016",
+     "215",
+     "88",
+     "42"
+    ]
+   ]
+  },
+  "options": [
+   "104",
+   "102.1",
+   "108",
+   "100.1"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 100.1.** (72.5 + 88 + 108 + 105 + 127) ÷ 5 = 500.5 ÷ 5 = 100.1 million kg.\n\n**Working.** Consumption = production − exports: 2012: 72.5 · 2013: 88 · 2014: 108 · 2015: 105 · 2016: 127 (million kg). Population = consumption ÷ per capita consumption: 2012: 2.00 · 2013: 2.50 · 2014: 2.79 · 2015: 2.59 · 2016: 3.02 (million).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q36",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statements, regarding the term ICT is/are TRUE?",
+  "items": [
+   "P: ICT is an acronym that stands for Indian Classical Technology.",
+   "Q: Converging technologies that exemplify ICT include the merging of audio-visual, telephone and computer networks through a common cabling system."
+  ],
+  "item_style": "numbers",
+  "options": [
+   "P only",
+   "Q only",
+   "P and Q",
+   "Neither P nor Q"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Q only.**\n\n- **P is false.** ICT stands for **Information and Communication Technology**.\n- **Q is true.** Convergence (audio-visual, telephone and computer networks sharing one cabling and network system) is the standard example of what ICT means.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q37",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A new laptop has been produced that weighs less, is smaller and uses less power than previous laptop models. Which of the following technologies has been used to accomplish this?",
+  "options": [
+   "Universal Serial Bus Mouse",
+   "Faster Random Access Memory",
+   "Blu Ray Drive",
+   "Solid State Hard Drive"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Solid State Hard Drive.**\n\nAn SSD stores data in flash chips, with no spinning platters or moving heads. It is therefore lighter, smaller, cooler, more shock-resistant and far less power-hungry than a mechanical hard disk, which makes thin laptops possible.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q38",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Given the following email fields, which of the email addresses will 'swami' be able to see when he receives the message? To: ram@test.com · Cc: raj@test.com; ravi@test.com · Bcc: swami@test.com; rama@test.com",
+  "options": [
+   "ram@test.com",
+   "ram@test.com; raj@test.com; ravi@test.com",
+   "ram@test.com; rama@test.com",
+   "ram@test.com; rama@test.com; raj@test.com; ravi@test.com"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ram@test.com; raj@test.com; ravi@test.com.**\n\nEvery recipient sees the **To** and **Cc** lists. **Bcc** (blind carbon copy) addresses are hidden from everyone else, so swami cannot see rama, his fellow Bcc recipient.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q39",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "sequence",
+  "question_text": "Put the following units of storage into the correct order, starting with the smallest unit first and going down to the largest unit.",
+  "items": [
+   "Kilobyte",
+   "Byte",
+   "Megabyte",
+   "Terabyte",
+   "Gigabyte",
+   "Bit"
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(F), (B), (A), (C), (D), (E)",
+   "(F), (B), (A), (D), (E), (C)",
+   "(F), (B), (A), (C), (E), (D)",
+   "(F), (B), (A), (D), (C), (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (F), (B), (A), (C), (E), (D).**\n\nbit → byte (8 bits) → kilobyte → megabyte → gigabyte → terabyte, each 1,024 times the last.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q40",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "With regard to computer memory, which of the following statement(s) is/are TRUE?",
+  "items": [
+   "P: Read Only Memory (ROM) is 'volatile' memory.",
+   "Q: Random Access Memory (RAM) is 'volatile' memory.",
+   "R: Secondary memory is 'volatile' memory."
+  ],
+  "item_style": "numbers",
+  "options": [
+   "P only",
+   "Q only",
+   "P and Q only",
+   "P and R only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Q only.**\n\nVolatile memory loses its contents when power is cut.\n\n- **RAM** is volatile (Q is true).\n- **ROM** and **secondary** storage (disk, SSD) are non-volatile, so P and R are false.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q41",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "'Fly ash' produced in thermal power plants is an ecofriendly resource for use in",
+  "items": [
+   "Agriculture as micro-nutrient",
+   "Wasteland development",
+   "Dam and water holding structures",
+   "Brick industry"
+  ],
+  "prompt": "Choose the correct answer from the codes given below.",
+  "options": [
+   "(A), (B) and (D) only",
+   "(B), (C) and (D) only",
+   "(A), (C) and (D) only",
+   "(A), (B), (C) and (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A), (B), (C) and (D).**\n\nFly ash, the fine residue of burnt coal, is reused in many ways:\n\n- **bricks** and cement or concrete\n- **dams**, embankments and other fills\n- reclaiming **wasteland**\n- **agriculture**, as a soil conditioner that supplies micro-nutrients such as boron, zinc and molybdenum\n\nThe 1999 fly-ash notification pushes all of these uses.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q42",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following types of natural disasters has no definite beginning and end?",
+  "options": [
+   "Earthquakes",
+   "Landslides",
+   "Hurricanes",
+   "Droughts"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Droughts.**\n\nDrought is a **slow-onset** or \"creeping\" disaster: it builds over months as rainfall deficits accumulate, and it fades gradually. Earthquakes, landslides and hurricanes are sudden events with clear start and end points.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q43",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the codes given below.",
+  "assertion": "Indoor air pollution is a serious hazard.",
+  "reason": "The dispersal of air pollutants is rather limited in indoor environment.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+   "(A) is true and (R) is false.",
+   "Both (A) and (R) are false."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both are true, and (R) is the correct explanation of (A).**\n\nPollutants released indoors (smoke from biomass stoves, gases, VOCs, radon) cannot disperse, so they reach high concentrations. That is exactly *why* indoor air pollution is so hazardous. The WHO counts it among the leading environmental causes of death, especially among women and children in homes that cook on solid fuel.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q44",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In terms of their contribution to the total power generation in India, identify the correct sequence of energy sources, such as Thermal Power Plants (TPP), Large Hydropower Projects (LHP), Nuclear Energy (NE) and Renewable Energy (RE) which includes solar energy, wind energy, biomass and small hydropower projects.",
+  "options": [
+   "TPP > RE > LHP > NE",
+   "TPP > LHP > RE > NE",
+   "LHP > TPP > RE > NE",
+   "LHP > TPP > NE > RE"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) TPP > RE > LHP > NE.**\n\nIndia's installed capacity in March 2018:\n\n| Source | Share |\n|---|---|\n| Thermal (coal, gas, oil) | ≈ 65% |\n| Renewables (solar, wind, biomass, small hydro) | ≈ 20% |\n| Large hydro | ≈ 13% |\n| Nuclear | ≈ 2% |\n\nRenewables overtook large hydro around 2016–17.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q45",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following is considered as a major source of pollution in rivers of India?",
+  "options": [
+   "Unregulated small scale industry",
+   "Untreated sewage",
+   "Agricultural run-off",
+   "Thermal power plants"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Untreated sewage.**\n\nMunicipal sewage makes up most of the pollution load in Indian rivers. Sewage treatment capacity covers only a fraction of what cities generate. The same point was asked in July 2016.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q46",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "India has the largest higher education system in the world after",
+  "items": [
+   "United States of America",
+   "Australia",
+   "China",
+   "United Kingdom (UK)"
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(A), (B) and (C) only",
+   "(A), (C) and (D) only",
+   "(A) and (C) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) and (C) only.**\n\nBy enrolment, India's higher education system is the **third largest** in the world, after **China** and the **United States**. (By number of institutions, India is the largest.)",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q47",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Prime Minister Research Fellowship is for students pursuing Ph.D. programme in",
+  "options": [
+   "State and Central Universities.",
+   "Central Universities, IISc, IITs, NITs, IISERs and IIITs.",
+   "IISc, IITs, NITs, IISERs, IIITs, State and Central Universities.",
+   "IITs and IISc."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) IITs and IISc.**\n\nWhen PMRF was launched (announced in the 2018 Budget), it offered fellowships to bright graduates from IITs, IISc, NITs, IISERs and IIITs, but for PhD study only **in the IITs and IISc**. It was later opened to other top institutions, so the answer reflects the scheme as it stood in 2018.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q48",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Leader of the opposition is a member of committees which select",
+  "items": [
+   "Central Information Commissioner",
+   "Central Vigilance Commissioner",
+   "Chairperson of National Human Rights Commission",
+   "Chairperson of National Commission for Women"
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(A), (B) and (C) only",
+   "(A), (C) and (D) only",
+   "(A), (B) and (D) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A), (B) and (C) only.**\n\nThe Leader of the Opposition in the Lok Sabha sits on the selection committees for the **Chief Information Commissioner** (RTI Act), the **Central Vigilance Commissioner** (CVC Act) and the **NHRC chairperson** (Protection of Human Rights Act), and also for the Lokpal.\n\nThe chairperson of the National Commission for Women is nominated by the central government, with no such committee.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q49",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statements are correct about gender budgeting?",
+  "items": [
+   "It separates budget addressing the specific needs of women.",
+   "It assesses the impact of government budget on women.",
+   "It is an accounting exercise.",
+   "It is another budgeting innovation."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(B) and (D) only",
+   "(A) and (D) only",
+   "(A), (C) and (D) only",
+   "(A) and (B) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (B) and (D) only.**\n\nGender budgeting (in India since 2005–06) **assesses the impact of the whole government budget on women** (B). It is a newer approach to budgeting (D).\n\nIt is **not a separate budget** for women (A), and it is an analytical and policy tool, not an accounting exercise (C).",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018JUL-Q50",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper I",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Paper I: 50 compulsory questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. In Q22 the book prints options (a) and (d) identically; Q26's stem is completed with its question."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following are the barriers to citizen-centric administration in India?",
+  "items": [
+   "Wooden and inflexible attitude of the civil servants.",
+   "Ineffective implementation of laws and rules.",
+   "Awareness of rights and duties of citizens.",
+   "Lack of job opportunities for the youth."
+  ],
+  "prompt": "Select the correct answer from the codes given below.",
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(A), (B) and (C) only",
+   "(A), (B) and (D) only",
+   "(A) and (B) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) and (B) only.**\n\nThe Second Administrative Reforms Commission (12th report, *Citizen Centric Administration*) names rigid, unresponsive officials and poor implementation of laws and rules as barriers.\n\nCitizens' awareness of rights and duties (C) is an *enabler* of citizen-centric administration. Youth unemployment (D) is a separate economic issue.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ }
+]

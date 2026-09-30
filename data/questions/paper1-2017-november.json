@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "P1-2017NOV-Q01",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following set of statements best represents the nature and objective of teaching and learning?",
+  "items": [
+   "Teaching is like selling and learning is like buying.",
+   "Teaching is a social act while learning is a personal act.",
+   "Teaching implies learning whereas learning does not imply teaching.",
+   "Teaching is a kind of delivery of knowledge while learning is like receiving it.",
+   "Teaching is an interaction and is triadic in nature, whereas learning is an active engagement in a subject domain."
+  ],
+  "options": [
+   "(A), (D) and (E)",
+   "(B), (C) and (E)",
+   "(A), (B) and (C)",
+   "(A), (B) and (D)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (B), (C) and (E).**\n\n- **(B)** Teaching happens between people; learning happens inside the learner.\n- **(C)** Teaching aims at learning, while much learning happens without any teacher.\n- **(E)** Teaching is triadic (teacher, learner, content), and learning is active engagement.\n\n(A) and (D) treat knowledge as a commodity handed over, the \"transmission\" view the others reject.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q02",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "From the list given below identify the learner characteristics which would facilitate teaching-learning system to become effective. Choose the correct code to indicate your answer.",
+  "items": [
+   "Prior experience of learner",
+   "Learner's family lineage",
+   "Aptitude of the learner",
+   "Learner's stage of development",
+   "Learner's food habits and hobbies",
+   "Learner's religious affiliation"
+  ],
+  "options": [
+   "(A), (C) and (D)",
+   "(D), (E) and (F)",
+   "(A), (D) and (E)",
+   "(B), (C) and (F)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (C) and (D).**\n\nWhat the learner already knows (**prior experience**), their **aptitude** and their **developmental stage** decide what and how to teach. Family lineage, food habits, hobbies and religion are not learner characteristics that teaching should be designed around.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q03",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following.",
+  "assertion": "All teaching implies learning.",
+  "reason": "Learning to be useful must be derived from teaching.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) is true, but (R) is false.**\n\n- **(A) is true** in the sense the question intends: teaching is defined by its aim of producing learning. Activity that is not directed at learning is not teaching.\n- **(R) is false.** Useful learning also comes from experience, reading and life outside any classroom; it need not be \"derived from teaching\".",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q04",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "On the basis of summative tests, a teacher is interpreting his/her students' performance in terms of their wellness life style evident in behaviour. This will be called",
+  "options": [
+   "Formative testing",
+   "Continuous and comprehensive evaluation",
+   "Norm-referenced testing",
+   "Criterion-referenced testing"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Criterion-referenced testing.**\n\nThe teacher judges each student against a fixed standard, a defined wellness lifestyle shown in behaviour, not against other students. Measuring against a criterion is **criterion-referenced**; ranking against a group would be norm-referenced. The tests are summative, which rules out formative testing and CCE.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q05",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which one of the following is a key behaviour in effective teaching?",
+  "options": [
+   "Using student ideas and contribution",
+   "Structuring",
+   "Instructional variety",
+   "Questioning"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Instructional variety.**\n\nGary Borich names five **key** behaviours of effective teaching:\n\n1. lesson clarity\n2. **instructional variety**\n3. task orientation\n4. engagement in learning\n5. student success rate\n\nUsing student ideas, structuring and questioning are among his **helping** behaviours. They support the key behaviours but are not themselves key.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q06",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following research types focuses on ameliorating the prevailing situations?",
+  "options": [
+   "Fundamental research",
+   "Applied research",
+   "Action research",
+   "Experimental research"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Action research.**\n\nAction research is done by practitioners to *improve* (ameliorate) the situation they work in, here and now. Applied research solves practical problems too, but for general use. Fundamental research seeks theory.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q07",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A researcher attempts to evaluate the effect of method of feeding on anxiety-proneness of children. Which method of research would be appropriate for this?",
+  "options": [
+   "Case study method",
+   "Experimental method",
+   "Ex-post-facto method",
+   "Survey method"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Ex-post-facto method.**\n\nHow a child was fed (breast or bottle, on demand or scheduled) happened long before, and a researcher cannot ethically assign it to find out whether it makes children anxious. The cause has already operated, so its effect is studied after the fact: **ex post facto**.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q08",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which of the following arrangements a wider spectrum of ideas and issues may be made possible?",
+  "options": [
+   "Research Article",
+   "Workshop mode",
+   "Conference",
+   "Symposium"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Conference.**\n\nA conference gathers many researchers across themes and sessions, so it covers the widest range of ideas. A symposium discusses one theme through a few speakers; a workshop is hands-on training; an article presents one study.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q09",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In finalizing a thesis writing format which of the following would form part of supplementary pages?",
+  "options": [
+   "List of tables and figures.",
+   "Table of contents.",
+   "Conclusions of the study.",
+   "Bibliography and Appendices."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Bibliography and Appendices.**\n\nA thesis has three parts:\n\n- **preliminary pages**: title, certificate, acknowledgements, contents, list of tables and figures\n- **main text**: introduction through conclusions\n- **supplementary (reference) pages**: bibliography and appendices",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q10",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following is susceptible to the issue of research ethics?",
+  "options": [
+   "Inaccurate application of statistical techniques.",
+   "Faulty research design.",
+   "Choice of sampling techniques.",
+   "Reporting of research findings."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Reporting of research findings.**\n\nReporting is where honesty is tested: fabrication, falsification, selective reporting, plagiarism and breaches of confidentiality. Faulty design, wrong statistics and poor sampling are errors of competence. They become ethical issues only when done deliberately.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q11",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Given below are the factors of vulnerability of poor people to climate change. Select the code that contains the correct answer.",
+  "passage": "Climate change is considered to be one of the most serious threats to sustainable development with adverse impacts on the environment, human health, food security, economic activity, natural resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental Panel on Climate Change (IPCC), the effects of climate change have already been observed, and scientific findings indicate that precautionary and prompt action is necessary. Vulnerability to climate change is not just a function of geography or dependence on natural resources, whereas it also has social, economic and political dimensions which influence how climate change affects different groups. Poor people rarely have insurance to cover loss of property due to natural calamities, i.e., drought, floods, super cyclones, etc. The poor communities are already struggling to cope with the existing challenges of poverty and climate variability and climate change could push many beyond their ability to cope or even survive. It is vital that these communities are helped to adapt to the changing dynamics of nature.\n\nAdaptation is a process through which societies make themselves better able to cope with an uncertain future. Adapting to climate change entails taking the right measures to reduce the negative effects of climate change (or exploit the positive ones) by making appropriate adjustments and changes. These range from technological options such as increased sea defences or flood-proof houses on stilts to behavioural change at the individual level, such as reducing water use in times of drought. Other strategies include early warning systems for extreme events, better water management, improved risk management, various insurance options and biodiversity conservation. Because of the speed at which climate change is happening due to global temperature rise, it is urgent that the vulnerability of developing countries to climate change is reduced and their capacity to adapt is increased and national adaptation plans are implemented. Adapting to climate change will entail adjustments and changes at every level from community to national and international. Communities must build their resilience, including adopting appropriate technologies while making the most of traditional knowledge, and diversifying their livelihoods to cope with current and future climate stress. Local coping strategies and knowledge need to be used in synergy with government and local interventions. The need of adaptation interventions depends on national circumstances.\n\nThere is a large body of knowledge and experience within local communities on coping with climatic variability and extreme weather events. Local communities have always aimed to adapt to variations in their climate. To do so, they have made preparations based on their resources and their knowledge accumulated through experience of past weather patterns. This includes times when they have also been forced to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping strategies are an important element of planning for adaptation. Climate change is leading communities to experience climatic extremes more frequently, as well as new climate conditions and extremes. Traditional knowledge can help to provide efficient, appropriate and time-tested ways of advising and enabling adaptation to climate change in communities who are feeling the effects of climate changes due to global warming.",
+  "items": [
+   "Their dependence on natural resources",
+   "Geographical attributes",
+   "Lack of financial resources",
+   "Lack of traditional knowledge"
+  ],
+  "options": [
+   "(A), (B) and (C)",
+   "(B), (C) and (D)",
+   "(A), (B), (C) and (D)",
+   "(C) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (B) and (C).**\n\nThe passage names geography (B) and dependence on natural resources (A). It then adds the social and economic side, such as having no insurance, a lack of financial resources (C).\n\n(D) is the opposite of what the passage says: local communities have \"a large body of knowledge and experience\" in coping.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q12",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Adaptation as a process enables societies to cope with",
+  "passage": "Climate change is considered to be one of the most serious threats to sustainable development with adverse impacts on the environment, human health, food security, economic activity, natural resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental Panel on Climate Change (IPCC), the effects of climate change have already been observed, and scientific findings indicate that precautionary and prompt action is necessary. Vulnerability to climate change is not just a function of geography or dependence on natural resources, whereas it also has social, economic and political dimensions which influence how climate change affects different groups. Poor people rarely have insurance to cover loss of property due to natural calamities, i.e., drought, floods, super cyclones, etc. The poor communities are already struggling to cope with the existing challenges of poverty and climate variability and climate change could push many beyond their ability to cope or even survive. It is vital that these communities are helped to adapt to the changing dynamics of nature.\n\nAdaptation is a process through which societies make themselves better able to cope with an uncertain future. Adapting to climate change entails taking the right measures to reduce the negative effects of climate change (or exploit the positive ones) by making appropriate adjustments and changes. These range from technological options such as increased sea defences or flood-proof houses on stilts to behavioural change at the individual level, such as reducing water use in times of drought. Other strategies include early warning systems for extreme events, better water management, improved risk management, various insurance options and biodiversity conservation. Because of the speed at which climate change is happening due to global temperature rise, it is urgent that the vulnerability of developing countries to climate change is reduced and their capacity to adapt is increased and national adaptation plans are implemented. Adapting to climate change will entail adjustments and changes at every level from community to national and international. Communities must build their resilience, including adopting appropriate technologies while making the most of traditional knowledge, and diversifying their livelihoods to cope with current and future climate stress. Local coping strategies and knowledge need to be used in synergy with government and local interventions. The need of adaptation interventions depends on national circumstances.\n\nThere is a large body of knowledge and experience within local communities on coping with climatic variability and extreme weather events. Local communities have always aimed to adapt to variations in their climate. To do so, they have made preparations based on their resources and their knowledge accumulated through experience of past weather patterns. This includes times when they have also been forced to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping strategies are an important element of planning for adaptation. Climate change is leading communities to experience climatic extremes more frequently, as well as new climate conditions and extremes. Traditional knowledge can help to provide efficient, appropriate and time-tested ways of advising and enabling adaptation to climate change in communities who are feeling the effects of climate changes due to global warming.",
+  "items": [
+   "An uncertain future",
+   "Adjustments and changes",
+   "Negative impact of climate change",
+   "Positive impact of climate change"
+  ],
+  "prompt": "Select the most appropriate answer from the following code.",
+  "options": [
+   "(A), (B), (C) and (D)",
+   "(A) and (C)",
+   "(B), (C) and (D)",
+   "(C) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (B), (C) and (D).**\n\nAdaptation lets societies \"cope with an **uncertain future**\" (A). It works by taking measures to \"reduce the **negative** effects of climate change (or exploit the **positive** ones)\" (C, D). And it works \"by making appropriate **adjustments and changes**\" (B).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q13",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "To address the challenge of climate change, developing countries urgently require",
+  "passage": "Climate change is considered to be one of the most serious threats to sustainable development with adverse impacts on the environment, human health, food security, economic activity, natural resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental Panel on Climate Change (IPCC), the effects of climate change have already been observed, and scientific findings indicate that precautionary and prompt action is necessary. Vulnerability to climate change is not just a function of geography or dependence on natural resources, whereas it also has social, economic and political dimensions which influence how climate change affects different groups. Poor people rarely have insurance to cover loss of property due to natural calamities, i.e., drought, floods, super cyclones, etc. The poor communities are already struggling to cope with the existing challenges of poverty and climate variability and climate change could push many beyond their ability to cope or even survive. It is vital that these communities are helped to adapt to the changing dynamics of nature.\n\nAdaptation is a process through which societies make themselves better able to cope with an uncertain future. Adapting to climate change entails taking the right measures to reduce the negative effects of climate change (or exploit the positive ones) by making appropriate adjustments and changes. These range from technological options such as increased sea defences or flood-proof houses on stilts to behavioural change at the individual level, such as reducing water use in times of drought. Other strategies include early warning systems for extreme events, better water management, improved risk management, various insurance options and biodiversity conservation. Because of the speed at which climate change is happening due to global temperature rise, it is urgent that the vulnerability of developing countries to climate change is reduced and their capacity to adapt is increased and national adaptation plans are implemented. Adapting to climate change will entail adjustments and changes at every level from community to national and international. Communities must build their resilience, including adopting appropriate technologies while making the most of traditional knowledge, and diversifying their livelihoods to cope with current and future climate stress. Local coping strategies and knowledge need to be used in synergy with government and local interventions. The need of adaptation interventions depends on national circumstances.\n\nThere is a large body of knowledge and experience within local communities on coping with climatic variability and extreme weather events. Local communities have always aimed to adapt to variations in their climate. To do so, they have made preparations based on their resources and their knowledge accumulated through experience of past weather patterns. This includes times when they have also been forced to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping strategies are an important element of planning for adaptation. Climate change is leading communities to experience climatic extremes more frequently, as well as new climate conditions and extremes. Traditional knowledge can help to provide efficient, appropriate and time-tested ways of advising and enabling adaptation to climate change in communities who are feeling the effects of climate changes due to global warming.",
+  "options": [
+   "Imposition of climate change tax.",
+   "Implementation of national adaptation policy at their level.",
+   "Adoption of short-term plans.",
+   "Adoption of technological solutions."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** \"It is urgent that the vulnerability of developing countries to climate change is reduced and their capacity to adapt is increased and **national adaptation plans are implemented**.\" Technology is only one of many adaptation options, and a climate tax is never mentioned.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q14",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The traditional knowledge should be used through",
+  "passage": "Climate change is considered to be one of the most serious threats to sustainable development with adverse impacts on the environment, human health, food security, economic activity, natural resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental Panel on Climate Change (IPCC), the effects of climate change have already been observed, and scientific findings indicate that precautionary and prompt action is necessary. Vulnerability to climate change is not just a function of geography or dependence on natural resources, whereas it also has social, economic and political dimensions which influence how climate change affects different groups. Poor people rarely have insurance to cover loss of property due to natural calamities, i.e., drought, floods, super cyclones, etc. The poor communities are already struggling to cope with the existing challenges of poverty and climate variability and climate change could push many beyond their ability to cope or even survive. It is vital that these communities are helped to adapt to the changing dynamics of nature.\n\nAdaptation is a process through which societies make themselves better able to cope with an uncertain future. Adapting to climate change entails taking the right measures to reduce the negative effects of climate change (or exploit the positive ones) by making appropriate adjustments and changes. These range from technological options such as increased sea defences or flood-proof houses on stilts to behavioural change at the individual level, such as reducing water use in times of drought. Other strategies include early warning systems for extreme events, better water management, improved risk management, various insurance options and biodiversity conservation. Because of the speed at which climate change is happening due to global temperature rise, it is urgent that the vulnerability of developing countries to climate change is reduced and their capacity to adapt is increased and national adaptation plans are implemented. Adapting to climate change will entail adjustments and changes at every level from community to national and international. Communities must build their resilience, including adopting appropriate technologies while making the most of traditional knowledge, and diversifying their livelihoods to cope with current and future climate stress. Local coping strategies and knowledge need to be used in synergy with government and local interventions. The need of adaptation interventions depends on national circumstances.\n\nThere is a large body of knowledge and experience within local communities on coping with climatic variability and extreme weather events. Local communities have always aimed to adapt to variations in their climate. To do so, they have made preparations based on their resources and their knowledge accumulated through experience of past weather patterns. This includes times when they have also been forced to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping strategies are an important element of planning for adaptation. Climate change is leading communities to experience climatic extremes more frequently, as well as new climate conditions and extremes. Traditional knowledge can help to provide efficient, appropriate and time-tested ways of advising and enabling adaptation to climate change in communities who are feeling the effects of climate changes due to global warming.",
+  "options": [
+   "Its dissemination.",
+   "Improvement in national circumstances.",
+   "Synergy between government and local interventions.",
+   "Modern technology."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** \"Local coping strategies and knowledge need to be used in **synergy with government and local interventions**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q15",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The main focus of the passage is on",
+  "passage": "Climate change is considered to be one of the most serious threats to sustainable development with adverse impacts on the environment, human health, food security, economic activity, natural resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental Panel on Climate Change (IPCC), the effects of climate change have already been observed, and scientific findings indicate that precautionary and prompt action is necessary. Vulnerability to climate change is not just a function of geography or dependence on natural resources, whereas it also has social, economic and political dimensions which influence how climate change affects different groups. Poor people rarely have insurance to cover loss of property due to natural calamities, i.e., drought, floods, super cyclones, etc. The poor communities are already struggling to cope with the existing challenges of poverty and climate variability and climate change could push many beyond their ability to cope or even survive. It is vital that these communities are helped to adapt to the changing dynamics of nature.\n\nAdaptation is a process through which societies make themselves better able to cope with an uncertain future. Adapting to climate change entails taking the right measures to reduce the negative effects of climate change (or exploit the positive ones) by making appropriate adjustments and changes. These range from technological options such as increased sea defences or flood-proof houses on stilts to behavioural change at the individual level, such as reducing water use in times of drought. Other strategies include early warning systems for extreme events, better water management, improved risk management, various insurance options and biodiversity conservation. Because of the speed at which climate change is happening due to global temperature rise, it is urgent that the vulnerability of developing countries to climate change is reduced and their capacity to adapt is increased and national adaptation plans are implemented. Adapting to climate change will entail adjustments and changes at every level from community to national and international. Communities must build their resilience, including adopting appropriate technologies while making the most of traditional knowledge, and diversifying their livelihoods to cope with current and future climate stress. Local coping strategies and knowledge need to be used in synergy with government and local interventions. The need of adaptation interventions depends on national circumstances.\n\nThere is a large body of knowledge and experience within local communities on coping with climatic variability and extreme weather events. Local communities have always aimed to adapt to variations in their climate. To do so, they have made preparations based on their resources and their knowledge accumulated through experience of past weather patterns. This includes times when they have also been forced to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping strategies are an important element of planning for adaptation. Climate change is leading communities to experience climatic extremes more frequently, as well as new climate conditions and extremes. Traditional knowledge can help to provide efficient, appropriate and time-tested ways of advising and enabling adaptation to climate change in communities who are feeling the effects of climate changes due to global warming.",
+  "options": [
+   "Combining traditional knowledge with appropriate technology.",
+   "Coordination between regional and national efforts.",
+   "Adaptation to climate change.",
+   "Social dimensions of climate change."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Adaptation to climate change.** The passage defines adaptation, lists its strategies and explains how local knowledge supports it. Options (1), (2) and (4) are each one strand within that theme.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q16",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The interaction between a teacher and students creates a zone of proximal",
+  "options": [
+   "Difference",
+   "Confusion",
+   "Development",
+   "Distortion"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Development.**\n\nVygotsky's **Zone of Proximal Development** is the gap between what a learner can do alone and what they can do with guidance. Teaching works inside that zone, and the teacher's temporary support there is called **scaffolding** (Wood, Bruner and Ross).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q17",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The spatial audio reproduction in a classroom can reduce the students'",
+  "options": [
+   "Cognitive load in understanding",
+   "Respect for the teacher",
+   "Motivation for excellence",
+   "Interest in technology-orientation"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Cognitive load in understanding.**\n\nSpatial (3D) audio places sound where its source is. Students then spend less mental effort locating and separating what they hear, which frees working memory for understanding. That is **cognitive load** in Sweller's sense.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q18",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The classroom communication should essentially be",
+  "options": [
+   "Contrived",
+   "Empathetic",
+   "Abstract",
+   "Non-descriptive"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Empathetic.**\n\nEmpathy means understanding the students' point of view and feelings. It builds trust and makes students receptive. Contrived, abstract or non-descriptive communication pushes them away.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q19",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A good communicator begins his/her presentation with a",
+  "options": [
+   "Complex question",
+   "Non-sequitur",
+   "Repetitive phrase",
+   "Ice-breaker"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Ice-breaker.**\n\nAn ice-breaker (a light remark, a question the audience can answer, a brief story) relaxes the audience and opens the channel. A complex question or a non-sequitur (a remark that does not follow) alienates listeners at the start.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q20",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In a classroom, the probability of message reception can be enhanced by",
+  "options": [
+   "Establishing a viewpoint.",
+   "Exposing the ignorance of students.",
+   "Increasing the information load.",
+   "Using high decibel audio tools."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Establishing a viewpoint.**\n\nA clear point of view gives students a frame to hang the message on, so they receive it better. Humiliating students, overloading them and blasting audio all *reduce* reception.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q21",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In the series 1, 6, 15, 28, 45, ... the next term will be",
+  "options": [
+   "66",
+   "76",
+   "56",
+   "84"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 66.**\n\nThe differences are 5, 9, 13, 17, rising by 4. The next difference is 21, so 45 + 21 = **66**.\n\n(These are the hexagonal numbers, n(2n − 1).)",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q22",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the series ABD, DGK, HMS, MTB, ... is",
+  "options": [
+   "NSA",
+   "SBL",
+   "PSK",
+   "RUH"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) SBL.**\n\nEach position moves by a rising step (counting past Z back to A):\n\n- **1st:** A, D, H, M → +3, +4, +5 → +6 = **S**\n- **2nd:** B, G, M, T → +5, +6, +7 → +8 = **B**\n- **3rd:** D, K, S, B → +7, +8, +9 → +10 = **L**",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q23",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In certain code, COVALENT is coded as BWPDUOFM. The code of ELEPHANT will be",
+  "options": [
+   "MFUIQRTW",
+   "QMUBIADH",
+   "QFMFUOBI",
+   "EPHNTEAS"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) QFMFUOBI.**\n\nThe rule has two steps:\n\n1. Split the word into halves and reverse each: COVA LENT → AVOC TNEL.\n2. Shift every letter one place forward: AVOC TNEL → BWPD UOFM.\n\nFor ELEPHANT: ELEP HANT → PELE TNAH → **QFMF UOBI**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q24",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Ajay is a friend of Rakesh. Pointing to an old man Ajay asked Rakesh 'who is he?' and Rakesh said 'His son is my son's uncle'. The old man is related to Rakesh as",
+  "options": [
+   "Grandfather",
+   "Father-in-law",
+   "Father",
+   "Uncle"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Father.**\n\n\"My son's uncle\" is Rakesh's brother. So the old man's son is Rakesh's brother, and the old man is Rakesh's **father**.\n\nStrictly, the uncle could be Rakesh's wife's brother, which would make the old man Rakesh's father-in-law. The key takes the usual reading, the father's side.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Blood relations",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q25",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A postman walked 20 m straight from his office, turned right and walked 10 m. After turning left he walked 10 m and after turning right walked 20 m. He again turned right and walked 70 m. How far he is from his office?",
+  "options": [
+   "50 m",
+   "40 m",
+   "60 m",
+   "20 m"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 50 m.**\n\nTake \"straight\" as north and the office as (0, 0):\n\n- north 20 → (0, 20)\n- right, east 10 → (10, 20)\n- left, north 10 → (10, 30)\n- right, east 20 → (30, 30)\n- right, south 70 → (30, −40)\n\nDistance = √(30² + 40²) = **50 m** (a 3-4-5 triangle).",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Directions and distances",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q26",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'It is truism to say that no one was there when life first appeared on earth. Any assertion about life's origin, thus, should be treated as a theory.' The above two statements constitute:",
+  "options": [
+   "A historical explanation",
+   "A narrative",
+   "An argument",
+   "A conjecture"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) An argument.**\n\nThe first statement is offered as a reason (premise), and \"thus\" introduces a claim drawn from it (conclusion). A premise supporting a conclusion is what makes an **argument**. A narrative only relates events, and an explanation says *why* something is so, not *that* it is so.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q27",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Given below are four statements. Among them two are related in such a way that they can both be true but they cannot both be false. Select the code that indicates those two statements.",
+  "items": [
+   "Honest people never suffer.",
+   "Almost all honest people do suffer.",
+   "Honest people hardly suffer.",
+   "Each and every honest person suffers."
+  ],
+  "options": [
+   "(A) and (B)",
+   "(A) and (C)",
+   "(A) and (D)",
+   "(B) and (C)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (B) and (C).**\n\n\"Can both be true, cannot both be false\" defines **subcontraries** (I and O). Put each statement in logical form:\n\n- (A) \"never suffer\" = No honest person suffers (**E**)\n- (B) \"almost all do suffer\" = Some honest people suffer (**I**)\n- (C) \"hardly suffer\" = Some honest people do not suffer (**O**)\n- (D) \"each and every … suffers\" = All honest persons suffer (**A**)\n\nSo (B) and (C) are the pair.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q28",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A deductive argument is invalid if",
+  "options": [
+   "Its premises and conclusion are all true.",
+   "Its premises and conclusion are all false.",
+   "Its premises are all false but its conclusion is true.",
+   "Its premises are all true but its conclusion is false."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Its premises are all true but its conclusion is false.**\n\nA valid argument is one where true premises *guarantee* a true conclusion. So true premises with a false conclusion prove invalidity. Every other combination is possible in a valid argument.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q29",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Given below are two premises (A and B). From those two premises, four conclusions (i), (ii), (iii) and (iv) are drawn. Select the code that states the conclusion/conclusions drawn validly (taking the premises singularly or jointly).",
+  "items": [
+   "No birds are mammals.",
+   "Some birds are not mammals.",
+   "No bats are birds.",
+   "All mammals are bats."
+  ],
+  "item_style": "roman",
+  "prompt": "Premises: (A) All bats are mammals. (B) No birds are bats.",
+  "options": [
+   "(i) only",
+   "(i) and (ii) only",
+   "(iii) only",
+   "(iii) and (iv) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (iii) only.**\n\n- **(iii)** \"No bats are birds\" is the simple converse of premise (B), and E propositions convert validly.\n- **(i)** commits illicit major: \"mammals\" is undistributed in the premise but distributed in the conclusion. Some birds could be mammals for all the premises say.\n- **(ii)** does not follow either: nothing in the premises rules out all birds being (non-bat) mammals.\n- **(iv)** converts an A proposition simply, which is invalid.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q30",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'Just as melting ice-cubes do not cause a glass of water to overflow, melting sea-ice does not increase oceanic volume.' What type of argument is it?",
+  "options": [
+   "Analogical",
+   "Hypothetical",
+   "Psychological",
+   "Statistical"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Analogical.**\n\n\"Just as … so …\" is the signature of **argument by analogy**: a familiar case (ice in a glass) supports a claim about a similar one (sea-ice). The physics holds because floating ice already displaces its own weight of water.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q31",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The maximum decadal growth in population of India is registered in the period",
+  "passage": "Answer questions 31 to 35 based on the data given in the table below.",
+  "table": {
+   "title": "Number of registered vehicles in India and India's population",
+   "columns": [
+    "Year",
+    "Total vehicles (lakh)",
+    "Two wheelers (lakh)",
+    "Cars, jeeps, taxis (lakh)",
+    "Buses (lakh)",
+    "Goods vehicles (lakh)",
+    "Others (lakh)",
+    "Population of India (million)"
+   ],
+   "rows": [
+    [
+     "1961",
+     "6.65",
+     "0.88",
+     "3.1",
+     "0.57",
+     "1.68",
+     "0.42",
+     "439.23"
+    ],
+    [
+     "1971",
+     "18.65",
+     "5.76",
+     "6.82",
+     "0.94",
+     "3.43",
+     "1.70",
+     "548.15"
+    ],
+    [
+     "1981",
+     "53.91",
+     "26.18",
+     "11.60",
+     "1.62",
+     "5.54",
+     "8.97",
+     "683.32"
+    ],
+    [
+     "1991",
+     "213.74",
+     "142.00",
+     "29.54",
+     "3.31",
+     "13.56",
+     "25.33",
+     "846.42"
+    ],
+    [
+     "2001",
+     "549.91",
+     "385.56",
+     "70.58",
+     "6.34",
+     "29.48",
+     "57.95",
+     "1028.73"
+    ],
+    [
+     "2011",
+     "1417.58",
+     "1018.65",
+     "191.23",
+     "16.04",
+     "70.64",
+     "121.02",
+     "1210.19"
+    ]
+   ]
+  },
+  "options": [
+   "1961–1971",
+   "1991–2001",
+   "2001–2011",
+   "1981–1991"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 1961–1971.**\n\nDecadal growth: 1961–71 **24.8%**, 1971–81 24.7%, 1981–91 23.9%, 1991–2001 21.5%, 2001–11 17.6%. The rate fell every decade after the 1960s, even though the *absolute* increase kept rising.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q32",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which year the decadal growth (%) in number of cars surpassed that of the two wheelers?",
+  "passage": "Answer questions 31 to 35 based on the data given in the table below.",
+  "table": {
+   "title": "Number of registered vehicles in India and India's population",
+   "columns": [
+    "Year",
+    "Total vehicles (lakh)",
+    "Two wheelers (lakh)",
+    "Cars, jeeps, taxis (lakh)",
+    "Buses (lakh)",
+    "Goods vehicles (lakh)",
+    "Others (lakh)",
+    "Population of India (million)"
+   ],
+   "rows": [
+    [
+     "1961",
+     "6.65",
+     "0.88",
+     "3.1",
+     "0.57",
+     "1.68",
+     "0.42",
+     "439.23"
+    ],
+    [
+     "1971",
+     "18.65",
+     "5.76",
+     "6.82",
+     "0.94",
+     "3.43",
+     "1.70",
+     "548.15"
+    ],
+    [
+     "1981",
+     "53.91",
+     "26.18",
+     "11.60",
+     "1.62",
+     "5.54",
+     "8.97",
+     "683.32"
+    ],
+    [
+     "1991",
+     "213.74",
+     "142.00",
+     "29.54",
+     "3.31",
+     "13.56",
+     "25.33",
+     "846.42"
+    ],
+    [
+     "2001",
+     "549.91",
+     "385.56",
+     "70.58",
+     "6.34",
+     "29.48",
+     "57.95",
+     "1028.73"
+    ],
+    [
+     "2011",
+     "1417.58",
+     "1018.65",
+     "191.23",
+     "16.04",
+     "70.64",
+     "121.02",
+     "1210.19"
+    ]
+   ]
+  },
+  "options": [
+   "1991",
+   "2001",
+   "1981",
+   "2011"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2011.**\n\n| Decade ending | Two wheelers | Cars, jeeps, taxis |\n|---|---|---|\n| 1981 | +354% | +70% |\n| 1991 | +442% | +155% |\n| 2001 | +172% | +139% |\n| 2011 | +164% | **+171%** |\n\nOnly in 2001–11 did cars grow faster than two wheelers.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q33",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What was the average decadal growth in the number of cars during 1961–2011?",
+  "passage": "Answer questions 31 to 35 based on the data given in the table below.",
+  "table": {
+   "title": "Number of registered vehicles in India and India's population",
+   "columns": [
+    "Year",
+    "Total vehicles (lakh)",
+    "Two wheelers (lakh)",
+    "Cars, jeeps, taxis (lakh)",
+    "Buses (lakh)",
+    "Goods vehicles (lakh)",
+    "Others (lakh)",
+    "Population of India (million)"
+   ],
+   "rows": [
+    [
+     "1961",
+     "6.65",
+     "0.88",
+     "3.1",
+     "0.57",
+     "1.68",
+     "0.42",
+     "439.23"
+    ],
+    [
+     "1971",
+     "18.65",
+     "5.76",
+     "6.82",
+     "0.94",
+     "3.43",
+     "1.70",
+     "548.15"
+    ],
+    [
+     "1981",
+     "53.91",
+     "26.18",
+     "11.60",
+     "1.62",
+     "5.54",
+     "8.97",
+     "683.32"
+    ],
+    [
+     "1991",
+     "213.74",
+     "142.00",
+     "29.54",
+     "3.31",
+     "13.56",
+     "25.33",
+     "846.42"
+    ],
+    [
+     "2001",
+     "549.91",
+     "385.56",
+     "70.58",
+     "6.34",
+     "29.48",
+     "57.95",
+     "1028.73"
+    ],
+    [
+     "2011",
+     "1417.58",
+     "1018.65",
+     "191.23",
+     "16.04",
+     "70.64",
+     "121.02",
+     "1210.19"
+    ]
+   ]
+  },
+  "options": [
+   "~131%",
+   "~68%",
+   "~217%",
+   "~157%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) ~131%.**\n\nThe five decadal growth rates for cars are 120%, 70%, 155%, 139% and 171%. Their mean is 655 ÷ 5 ≈ **131%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q34",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In the year 2001, out of the total number of vehicles, the number of passenger vehicles (4 wheelers) accounted for",
+  "passage": "Answer questions 31 to 35 based on the data given in the table below.",
+  "table": {
+   "title": "Number of registered vehicles in India and India's population",
+   "columns": [
+    "Year",
+    "Total vehicles (lakh)",
+    "Two wheelers (lakh)",
+    "Cars, jeeps, taxis (lakh)",
+    "Buses (lakh)",
+    "Goods vehicles (lakh)",
+    "Others (lakh)",
+    "Population of India (million)"
+   ],
+   "rows": [
+    [
+     "1961",
+     "6.65",
+     "0.88",
+     "3.1",
+     "0.57",
+     "1.68",
+     "0.42",
+     "439.23"
+    ],
+    [
+     "1971",
+     "18.65",
+     "5.76",
+     "6.82",
+     "0.94",
+     "3.43",
+     "1.70",
+     "548.15"
+    ],
+    [
+     "1981",
+     "53.91",
+     "26.18",
+     "11.60",
+     "1.62",
+     "5.54",
+     "8.97",
+     "683.32"
+    ],
+    [
+     "1991",
+     "213.74",
+     "142.00",
+     "29.54",
+     "3.31",
+     "13.56",
+     "25.33",
+     "846.42"
+    ],
+    [
+     "2001",
+     "549.91",
+     "385.56",
+     "70.58",
+     "6.34",
+     "29.48",
+     "57.95",
+     "1028.73"
+    ],
+    [
+     "2011",
+     "1417.58",
+     "1018.65",
+     "191.23",
+     "16.04",
+     "70.64",
+     "121.02",
+     "1210.19"
+    ]
+   ]
+  },
+  "options": [
+   "~14%",
+   "~24%",
+   "~31%",
+   "~43%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) ~14%.**\n\nFour-wheel passenger vehicles are cars/jeeps/taxis plus buses: 70.58 + 6.34 = 76.92 lakh. That is 76.92 ÷ 549.91 ≈ **14%**. Goods vehicles carry freight, not passengers.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q36",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the name for a webpage address?",
+  "options": [
+   "Domain",
+   "Directory",
+   "Protocol",
+   "URL"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) URL.**\n\nA Uniform Resource Locator gives the full address of a page, e.g. `https://www.ugc.gov.in/page.html`. The protocol (`https`) and the domain (`ugc.gov.in`) are only parts of it.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q37",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The data storage hierarchy consists of",
+  "options": [
+   "Bytes, bits, fields, records, files and databases.",
+   "Bits, bytes, fields, records, files and databases.",
+   "Bits, bytes, records, fields, files and databases.",
+   "Bits, bytes, fields, files, records and databases."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Bits, bytes, fields, records, files and databases.**\n\nFrom smallest to largest: a **bit** (0 or 1) → a **byte** (8 bits, one character) → a **field** (one item, e.g. a name) → a **record** (the fields about one entity) → a **file** (related records) → a **database** (related files).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q38",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following domains is used for profit businesses?",
+  "options": [
+   ".org",
+   ".net",
+   ".edu",
+   ".com"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) .com.**\n\n**.com** was created for commercial organisations. **.org** was meant for non-profits, **.net** for network providers and **.edu** for (US) educational institutions.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q39",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the full form of USB as used in computer related activities?",
+  "options": [
+   "Ultra Security Block",
+   "Universal Security Block",
+   "Universal Serial Bus",
+   "United Serial Bus"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Universal Serial Bus.**\n\nUSB (1996) standardised the connection of peripherals such as keyboards, drives and phones, carrying both data and power over one serial connection.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q40",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following represents billion characters?",
+  "options": [
+   "Terabytes",
+   "Megabytes",
+   "Kilobytes",
+   "Gigabytes"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Gigabytes.**\n\nOne byte stores one character, and 1 GB ≈ 10⁹ bytes (exactly 2³⁰ in binary use). So a gigabyte is about a **billion** characters. KB ≈ a thousand, MB ≈ a million, TB ≈ a trillion.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q41",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following pollutants is the major cause of respiratory diseases?",
+  "options": [
+   "Suspended fine particles",
+   "Nitrogen oxides",
+   "Carbon monoxide",
+   "Volatile organic compounds"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Suspended fine particles.**\n\nFine particulate matter (PM2.5 and PM10) penetrates deep into the lungs, PM2.5 into the alveoli and even the bloodstream. It is the leading air-pollution cause of asthma, bronchitis, COPD and lung cancer, and it is the main pollutant in India's air-quality crisis.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q42",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the code given below.",
+  "assertion": "In urban areas, smog episodes occur frequently in winters.",
+  "reason": "In winters, a lot of biomass is burnt by people for heating purposes or to keep themselves warm.",
+  "options": [
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true and (R) is false.",
+   "Both (A) and (R) are false."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both are true, but (R) is not the correct explanation of (A).**\n\n- **(A) is true.** Winter smog is common in cities.\n- **(R) is true.** People do burn biomass for warmth in winter, mostly in rural areas and among the urban poor.\n- **But (R) does not explain (A).** The main cause is meteorological. In winter, **temperature inversions** and calm air trap pollutants from vehicles, industry and crop-residue burning close to the ground, and cold, humid air helps smog form.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q43",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Occurrence of natural hazards is affected by",
+  "items": [
+   "Land use changes",
+   "Drainage and construction",
+   "Ozone depletion",
+   "Climate change"
+  ],
+  "prompt": "Choose the correct answer from the code given below.",
+  "options": [
+   "(A), (C) and (D)",
+   "(A), (B) and (C)",
+   "(A), (B) and (D)",
+   "(B), (C) and (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B) and (D).**\n\n- Land-use change, such as deforestation and building on floodplains, raises the risk of floods and landslides.\n- Blocked drainage and unplanned construction cause urban flooding.\n- Climate change makes extreme weather more frequent and more intense.\n\nOzone depletion raises UV radiation, a health hazard, but it does not change how often natural hazards occur.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q44",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following pollutant gases is not produced both naturally and as a result of industrial activity?",
+  "options": [
+   "Chlorofluorocarbons",
+   "Nitrous oxide",
+   "Methane",
+   "Carbon dioxide"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Chlorofluorocarbons.**\n\nCFCs are entirely synthetic: they were invented in the 1920s as refrigerants and propellants and have no natural source. N₂O (from soils and oceans), methane (from wetlands and termites) and CO₂ (from respiration and volcanoes) all have natural sources as well as human ones.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q45",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Among the following fuels of energy, which is the most environment friendly?",
+  "options": [
+   "Ethanol",
+   "Biogas",
+   "CNG",
+   "Hydrogen"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Hydrogen.**\n\nBurning hydrogen (or using it in a fuel cell) produces only **water**, with no CO₂, CO or particulates, and it has the highest energy per unit mass of any fuel. Ethanol, biogas and CNG are cleaner than petrol or coal, but they still emit CO₂.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q46",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following are the goals of higher education in India?",
+  "items": [
+   "Access",
+   "Equity",
+   "Quality and Excellence",
+   "Relevance",
+   "Value based education",
+   "Compulsory and free education"
+  ],
+  "prompt": "Select the correct answer from the code given below.",
+  "options": [
+   "(A), (B) and (E) only",
+   "(A), (B), (E) and (F)",
+   "(A), (B), (C), (D) and (E)",
+   "(A), (B), (C), (D), (E) and (F)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B), (C), (D) and (E).**\n\nAccess, equity, quality and excellence, relevance, and value-based education are the goals the UGC's plans set for higher education.\n\n**(F) is the trap.** Free and compulsory education is the constitutional right for children aged 6–14 (Article 21A, RTE Act 2009). It concerns elementary education, not higher education.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q47",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following has been ranked the best college in the country (2017) as per the National Institutional Ranking Framework (NIRF)?",
+  "options": [
+   "Miranda House, Delhi",
+   "St. Stephen's College, Delhi",
+   "Fergusson College, Pune",
+   "Maharaja's College, Mysore"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Miranda House, Delhi.**\n\nColleges were ranked separately for the first time in **NIRF 2017**, and Miranda House (University of Delhi) came first. NIRF was launched by the Ministry of Human Resource Development in 2015. It ranks institutions on five parameters: teaching and learning resources, research, graduation outcomes, outreach and inclusivity, and perception.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q48",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following universities has received the Visitor's Award for the best Central University in India in February 2017?",
+  "options": [
+   "Jawaharlal Nehru University",
+   "Banaras Hindu University",
+   "Tezpur University",
+   "University of Hyderabad"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Jawaharlal Nehru University.**\n\nThe President of India, as Visitor of the central universities, instituted the Visitor's Awards in 2014. JNU received the award for the best university in 2017.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q49",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Who among the following can be removed by the President without Parliament's resolution?",
+  "options": [
+   "Judge of a High Court",
+   "Governor of a State",
+   "Chief Election Commissioner",
+   "Comptroller and Auditor-General"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Governor of a State.**\n\nA Governor holds office **during the pleasure of the President** (Article 156), so the President can remove one at any time. High Court judges, the CEC and the CAG can be removed only through an address by both Houses of Parliament passed by special majority, as for a Supreme Court judge.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017NOV-Q50",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper I",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Paper I: 50 questions. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q35 is left out: every option was wrong (the per-capita figure is 0.084, not a percentage), and the official key awarded its marks to all candidates."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following come(s) within the ambit of the term 'corruption'?",
+  "items": [
+   "Misuse of official position.",
+   "Deviation from rules, laws and norms.",
+   "Non-action when action is required.",
+   "Harm to public good."
+  ],
+  "prompt": "Select the correct answer from the code given below.",
+  "options": [
+   "(A) only",
+   "(A) and (B) only",
+   "(A), (B) and (D)",
+   "(A), (B), (C) and (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A), (B), (C) and (D).**\n\nIn the broad sense used in public ethics, corruption is any use or abuse of public office against the public interest:\n\n- misusing a position\n- deviating from rules\n- **failing to act** when duty requires action\n- harming the public good",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ }
+]

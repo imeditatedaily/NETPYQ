@@ -1,0 +1,2021 @@
+[
+ {
+  "id": "P1-2017JAN-Q01",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The principal of a school conducts an interview session of teachers and students with a view to explore the possibility of their enhanced participation in school programmes. Which type of research does this endeavour be related to?",
+  "options": [
+   "Evaluation research",
+   "Fundamental research",
+   "Action research",
+   "Applied research"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Action research.**\n\nA practitioner studies a problem in their own setting in order to act on it and improve practice there: that is **action research** (Stephen Corey brought it into education). The principal is not evaluating a finished programme, building theory (fundamental research) or solving a general problem for others (applied research).",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q02",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In doing action research, what is the usual sequence of steps?",
+  "options": [
+   "Reflect, Observe, Plan, Act",
+   "Plan, Act, Observe, Reflect",
+   "Plan, Reflect, Observe, Act",
+   "Act, Observe, Plan, Reflect"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Plan, Act, Observe, Reflect.**\n\nThis is Kemmis and McTaggart's action research spiral. Reflection on one cycle feeds the plan of the next.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q03",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which sequence of research steps is logical in the following list?",
+  "options": [
+   "Problem formulation, Analysis, Development of Research design, Hypothesis Making, Collection of data, Arriving at generalizations and conclusions.",
+   "Development of Research Design, Hypothesis making, Problem Formulation, Data analysis, Arriving at conclusions and Data collection.",
+   "Problem Formulation, Hypothesis making, Development of a Research design, Collection of Data, Data analysis and formulation of generalizations and Conclusions.",
+   "Problem formulation, Deciding about the sample and data collection tools, Formulation of Hypothesis, Collection and Interpretation of research evidence."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).**\n\nThe standard order is: problem → hypothesis → design → data collection → analysis → generalisation.\n\n- (1) analyses before any data exist.\n- (2) designs before there is a problem.\n- (4) chooses the sample and tools *before* the hypothesis, which should decide them.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q04",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "The following are two sets, such as research methods (Set I) and data collection tools (Set II). Match the two sets and indicate your answer by selecting the correct code.",
+  "lists": {
+   "list_i": {
+    "title": "Set I (research methods)",
+    "items": [
+     "Experimental method",
+     "Ex post-facto method",
+     "Descriptive survey method",
+     "Historical method"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II (data collection tools)",
+    "style": "roman",
+    "items": [
+     "Using primary secondary sources",
+     "Questionnaire",
+     "Standardized tests",
+     "Typical characteristics tests"
+    ]
+   }
+  },
+  "options": [
+   "A-ii, B-i, C-iii, D-iv",
+   "A-iii, B-iv, C-ii, D-i",
+   "A-ii, B-iii, C-i, D-iv",
+   "A-ii, B-iv, C-iii, D-i"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-iii, B-iv, C-ii, D-i.**\n\n- **Experimental** method: **standardized tests** measure the outcome before and after the treatment.\n- **Ex-post-facto** method: tests of **typical characteristics** (already present in the groups compared).\n- **Descriptive survey**: the **questionnaire**.\n- **Historical** method: **primary and secondary sources**.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q05",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The issue of 'research ethics' may be considered pertinent at which stage of research?",
+  "options": [
+   "At the stage of problem formulation and its definition.",
+   "At the stage of defining the population of research.",
+   "At the stage of data collection and interpretation.",
+   "At the stage of reporting the findings."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) At the stage of data collection and interpretation.**\n\nEthics runs through all of research, but the key issues are concentrated where researchers meet participants and data:\n\n- informed consent, privacy and confidentiality, and avoiding harm while **collecting** data\n- honesty, with no fabrication, falsification or selective reporting, while **interpreting** it",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q06",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which of the following, reporting format is formally prescribed?",
+  "options": [
+   "Doctoral-level thesis",
+   "Conference of researchers",
+   "Workshops and seminars",
+   "Symposia"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Doctoral-level thesis.**\n\nUniversities lay down the thesis format in their regulations: the order of chapters, citation style, declaration and certificate, and even paper size and binding. Conferences, workshops, seminars and symposia leave the presentation largely to the speaker.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q07",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What was the impact of the last great war on Indian literature?",
+  "passage": "The last Great War, which nearly shook the foundations of the modern world, had little impact on Indian literature beyond aggravating the popular revulsions against violence and adding to growing disillusionment with the 'humane pretensions' of the Western World. This was eloquently voiced in Tagore's poems and his last testament, 'Crisis in Civilization'. The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help sympathizing with the England's dogged courage in the hour of peril, with the Russians fighting with their backs on the wall against ruthless Nazi hordes, and with the China groaning under the heel of Japanese militarism. On the other hand, their own country was practically under the military occupation of their own soil and the Indian army under Subhas Bose was trying from the opposite camp to liberate their country. No creative impulse could issue from such confusion of loyalties.\n\nOne would imagine that the achievement of Indian independence in 1947, which came in the wake of the Allies victory and was followed by collapse of colonialism in the neighbouring countries of South East Asia, would have released an upsurge of the creative energy. No doubt it did, but it was soon submerged in the great agony of partition with the inhuman slaughter of innocents and the uprooting of the millions of the people from their homeland followed by the martyrdom of Mahatma Gandhi. These tragedies along with Pakistan's invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a pregnant writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri, Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great literature. What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of national reconstruction and economic development. Great literature has always emerged out of chains of convulsions. Indian literature is richer today in terms of volume, range and variety than it ever was in the past.",
+  "options": [
+   "It had no impact.",
+   "It aggravated popular revulsion against violence.",
+   "It shook the foundations of literature.",
+   "It offered eloquent support to the Western World."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The war \"had little impact on Indian literature **beyond aggravating the popular revulsions against violence**\". \"Little\" is not \"no\" (1). It shook the modern world, not literature (3). The literature was disillusioned with the West, not supportive of it (4).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q08",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What did Tagore articulate in his last testament?",
+  "passage": "The last Great War, which nearly shook the foundations of the modern world, had little impact on Indian literature beyond aggravating the popular revulsions against violence and adding to growing disillusionment with the 'humane pretensions' of the Western World. This was eloquently voiced in Tagore's poems and his last testament, 'Crisis in Civilization'. The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help sympathizing with the England's dogged courage in the hour of peril, with the Russians fighting with their backs on the wall against ruthless Nazi hordes, and with the China groaning under the heel of Japanese militarism. On the other hand, their own country was practically under the military occupation of their own soil and the Indian army under Subhas Bose was trying from the opposite camp to liberate their country. No creative impulse could issue from such confusion of loyalties.\n\nOne would imagine that the achievement of Indian independence in 1947, which came in the wake of the Allies victory and was followed by collapse of colonialism in the neighbouring countries of South East Asia, would have released an upsurge of the creative energy. No doubt it did, but it was soon submerged in the great agony of partition with the inhuman slaughter of innocents and the uprooting of the millions of the people from their homeland followed by the martyrdom of Mahatma Gandhi. These tragedies along with Pakistan's invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a pregnant writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri, Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great literature. What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of national reconstruction and economic development. Great literature has always emerged out of chains of convulsions. Indian literature is richer today in terms of volume, range and variety than it ever was in the past.",
+  "options": [
+   "Offered support to Subhas Bose.",
+   "Exposed the humane pretensions of the Western World.",
+   "Expressed loyalty to England.",
+   "Encouraged the liberation of countries."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The growing disillusionment with the West's \"humane pretensions\" \"was eloquently voiced in Tagore's poems and his last testament, *Crisis in Civilization*\" (1941).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q09",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What was the stance of Indian intelligentsia during the period of great war?",
+  "passage": "The last Great War, which nearly shook the foundations of the modern world, had little impact on Indian literature beyond aggravating the popular revulsions against violence and adding to growing disillusionment with the 'humane pretensions' of the Western World. This was eloquently voiced in Tagore's poems and his last testament, 'Crisis in Civilization'. The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help sympathizing with the England's dogged courage in the hour of peril, with the Russians fighting with their backs on the wall against ruthless Nazi hordes, and with the China groaning under the heel of Japanese militarism. On the other hand, their own country was practically under the military occupation of their own soil and the Indian army under Subhas Bose was trying from the opposite camp to liberate their country. No creative impulse could issue from such confusion of loyalties.\n\nOne would imagine that the achievement of Indian independence in 1947, which came in the wake of the Allies victory and was followed by collapse of colonialism in the neighbouring countries of South East Asia, would have released an upsurge of the creative energy. No doubt it did, but it was soon submerged in the great agony of partition with the inhuman slaughter of innocents and the uprooting of the millions of the people from their homeland followed by the martyrdom of Mahatma Gandhi. These tragedies along with Pakistan's invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a pregnant writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri, Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great literature. What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of national reconstruction and economic development. Great literature has always emerged out of chains of convulsions. Indian literature is richer today in terms of volume, range and variety than it ever was in the past.",
+  "options": [
+   "Indifference to Russia's plight.",
+   "They favoured Japanese militarism.",
+   "They prompted creativity out of confused loyalties.",
+   "They expressed sympathy for England's dogged courage."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** \"It could not help sympathizing with the England's dogged courage in the hour of peril.\" The passage says the opposite of (1) and (2), and it says that *no* creative impulse could come from the confused loyalties (3).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q10",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Identify the factor responsible for the submergence of creative energy in Indian literature.",
+  "passage": "The last Great War, which nearly shook the foundations of the modern world, had little impact on Indian literature beyond aggravating the popular revulsions against violence and adding to growing disillusionment with the 'humane pretensions' of the Western World. This was eloquently voiced in Tagore's poems and his last testament, 'Crisis in Civilization'. The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help sympathizing with the England's dogged courage in the hour of peril, with the Russians fighting with their backs on the wall against ruthless Nazi hordes, and with the China groaning under the heel of Japanese militarism. On the other hand, their own country was practically under the military occupation of their own soil and the Indian army under Subhas Bose was trying from the opposite camp to liberate their country. No creative impulse could issue from such confusion of loyalties.\n\nOne would imagine that the achievement of Indian independence in 1947, which came in the wake of the Allies victory and was followed by collapse of colonialism in the neighbouring countries of South East Asia, would have released an upsurge of the creative energy. No doubt it did, but it was soon submerged in the great agony of partition with the inhuman slaughter of innocents and the uprooting of the millions of the people from their homeland followed by the martyrdom of Mahatma Gandhi. These tragedies along with Pakistan's invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a pregnant writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri, Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great literature. What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of national reconstruction and economic development. Great literature has always emerged out of chains of convulsions. Indian literature is richer today in terms of volume, range and variety than it ever was in the past.",
+  "options": [
+   "Military occupation of one's own soil.",
+   "Resistance to colonial occupation.",
+   "Great agony of partition.",
+   "Victory of allies."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Independence did release creative energy, \"but it was soon **submerged in the great agony of partition**\".",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q11",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What was the aftermath that survived tragedies in Kashmir and Bangladesh?",
+  "passage": "The last Great War, which nearly shook the foundations of the modern world, had little impact on Indian literature beyond aggravating the popular revulsions against violence and adding to growing disillusionment with the 'humane pretensions' of the Western World. This was eloquently voiced in Tagore's poems and his last testament, 'Crisis in Civilization'. The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help sympathizing with the England's dogged courage in the hour of peril, with the Russians fighting with their backs on the wall against ruthless Nazi hordes, and with the China groaning under the heel of Japanese militarism. On the other hand, their own country was practically under the military occupation of their own soil and the Indian army under Subhas Bose was trying from the opposite camp to liberate their country. No creative impulse could issue from such confusion of loyalties.\n\nOne would imagine that the achievement of Indian independence in 1947, which came in the wake of the Allies victory and was followed by collapse of colonialism in the neighbouring countries of South East Asia, would have released an upsurge of the creative energy. No doubt it did, but it was soon submerged in the great agony of partition with the inhuman slaughter of innocents and the uprooting of the millions of the people from their homeland followed by the martyrdom of Mahatma Gandhi. These tragedies along with Pakistan's invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a pregnant writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri, Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great literature. What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of national reconstruction and economic development. Great literature has always emerged out of chains of convulsions. Indian literature is richer today in terms of volume, range and variety than it ever was in the past.",
+  "options": [
+   "Suspicion of other countries",
+   "Continuance of rivalry",
+   "Menace of war",
+   "National reconstruction"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** \"What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of **national reconstruction** and economic development.\" (The book prints \"served\" for \"survived\" in this sentence; the question's own wording shows the intended word.)",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q12",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The passage has the message that",
+  "passage": "The last Great War, which nearly shook the foundations of the modern world, had little impact on Indian literature beyond aggravating the popular revulsions against violence and adding to growing disillusionment with the 'humane pretensions' of the Western World. This was eloquently voiced in Tagore's poems and his last testament, 'Crisis in Civilization'. The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help sympathizing with the England's dogged courage in the hour of peril, with the Russians fighting with their backs on the wall against ruthless Nazi hordes, and with the China groaning under the heel of Japanese militarism. On the other hand, their own country was practically under the military occupation of their own soil and the Indian army under Subhas Bose was trying from the opposite camp to liberate their country. No creative impulse could issue from such confusion of loyalties.\n\nOne would imagine that the achievement of Indian independence in 1947, which came in the wake of the Allies victory and was followed by collapse of colonialism in the neighbouring countries of South East Asia, would have released an upsurge of the creative energy. No doubt it did, but it was soon submerged in the great agony of partition with the inhuman slaughter of innocents and the uprooting of the millions of the people from their homeland followed by the martyrdom of Mahatma Gandhi. These tragedies along with Pakistan's invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a pregnant writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri, Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great literature. What reserves of enthusiasm and confidence survived these disasters have been mainly absorbed in the task of national reconstruction and economic development. Great literature has always emerged out of chains of convulsions. Indian literature is richer today in terms of volume, range and variety than it ever was in the past.",
+  "options": [
+   "Disasters are inevitable.",
+   "Great literature emerges out of chains of convulsions.",
+   "Indian literature does not have a marked landscape.",
+   "Literature has no relation with war and independence."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** \"Great literature has always emerged out of chains of convulsions\" is the passage's general claim. The rest of the passage traces how the convulsions of war, partition and conflict shaped Indian writing.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q13",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Effective communication pre-supposes",
+  "options": [
+   "Non-alignment",
+   "Domination",
+   "Passivity",
+   "Understanding"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Understanding.**\n\nCommunication succeeds when the receiver understands the message as the sender meant it: shared meaning is its goal. Domination and passivity block the two-way exchange; \"non-alignment\" is a foreign-policy term.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q14",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "When verbal and non-verbal messages are contradictory, it is said that most people believe in",
+  "options": [
+   "Indeterminate messages",
+   "Verbal messages",
+   "Non-verbal messages",
+   "Aggressive messages"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Non-verbal messages.**\n\nMehrabian's studies of inconsistent messages about feelings found that listeners trust tone and body language over words. His often-quoted split is 7% words, 38% tone, 55% body language. Non-verbal cues are harder to fake, so they are believed when the two conflict.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q15",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The typical feature of information-rich classroom lecture is in the nature of being",
+  "options": [
+   "Sedentary",
+   "Staggered",
+   "Factual",
+   "Sectoral"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Factual.**\n\nAn information-rich lecture is dense with facts: data, definitions, events. That is its defining feature, and also its weakness if the facts are not linked to understanding.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q16",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Expressive communication is driven by",
+  "options": [
+   "Passive aggression",
+   "Encoder's personality characteristics",
+   "External clues",
+   "Encoder–decoder contract"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Encoder's personality characteristics.**\n\nExpressive communication conveys the sender's feelings and self. It is shaped by *who the sender is*: their personality, emotions and style. Instrumental communication, by contrast, is driven by a task or a goal.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q17",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Positive classroom communication leads to",
+  "options": [
+   "Coercion",
+   "Submission",
+   "Confrontation",
+   "Persuasion"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Persuasion.**\n\nPositive communication wins students over: they are persuaded and motivated to learn. Coercion and submission come from authoritarian control; confrontation from a hostile climate.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q18",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Classroom communication is the basis of",
+  "options": [
+   "Social identity",
+   "External inanities",
+   "Biased passivity",
+   "Group aggression"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Social identity.**\n\nThrough classroom interaction students come to see themselves as members of a group: the class, the discipline, the institution. That sense of belonging is **social identity** (Tajfel). The other options are negative outcomes or not real terms.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q19",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The missing term in the series 1, 4, 27, 16, ?, 36, 343, … is",
+  "options": [
+   "30",
+   "49",
+   "125",
+   "81"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 125.**\n\nTwo series alternate:\n\n- odd places are cubes of odd numbers: 1³, 3³, **5³ = 125**, 7³ = 343\n- even places are squares of even numbers: 2², 4², 6²\n\n(The book prints the last term as 243, a slip for 343; the answer is the same.)",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q20",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the series YEB, WFD, UHG, SKI, _?_ will be",
+  "options": [
+   "TLO",
+   "QOL",
+   "QLO",
+   "GQP"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) QOL.**\n\nTake the letters position by position:\n\n- **1st:** Y, W, U, S → steps of −2 → **Q**\n- **2nd:** E, F, H, K → steps of +1, +2, +3, +4 → **O**\n- **3rd:** B, D, G, I → steps of +2, +3 alternating → I + 3 = **L**",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q21",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If A is coded as C, M as I, N as P, S as O, I as A, P as N, E as M, O as E, and C as S, then the code of COMPANIES will be",
+  "options": [
+   "SPEINMOAC",
+   "NCPSEIOMA",
+   "SMOPIEACN",
+   "SEINCPAMO"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) SEINCPAMO.**\n\nSubstitute letter by letter: C→S, O→E, M→I, P→N, A→C, N→P, I→A, E→M, S→O.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q22",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Among the following, identify the continuous type of data.",
+  "options": [
+   "Number of languages a person speaks.",
+   "Number of children in a household.",
+   "Population in cities.",
+   "Weight of students in a class."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Weight of students in a class.**\n\nContinuous data can take any value in a range: 52.37 kg is a possible weight. The other three are **counts**, which are discrete: nobody speaks 2.5 languages.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q23",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Ali buys a glass, a pencil box and a cup and pays ₹21 to the shopkeeper. Rakesh buys a cup, two pencil boxes, and a glass, and he pays ₹28 to the shopkeeper. Preeti buys two glasses, a cup, and two pencil boxes, and she pays ₹35 to the shopkeeper. Then, the cost of 10 cups will be",
+  "options": [
+   "₹40",
+   "₹60",
+   "₹80",
+   "₹70"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ₹70.**\n\n- Rakesh − Ali: one pencil box = 28 − 21 = **₹7**.\n- Preeti − Rakesh: one glass = 35 − 28 = **₹7**.\n- Ali: cup = 21 − 7 − 7 = **₹7**, so 10 cups cost **₹70**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q24",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Out of the following four cities, three are alike in some manner while the fourth one is different. Identify the odd one.",
+  "options": [
+   "Lucknow",
+   "Rishikesh",
+   "Allahabad",
+   "Patna"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Lucknow.**\n\nRishikesh, Allahabad (Prayagraj) and Patna all stand on the **Ganga**. Lucknow stands on the **Gomti**, a tributary.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Classification: odd one out",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q25",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The following are some characteristics of reasoning. Select the code that states a characteristic that is not of deductive reasoning.",
+  "options": [
+   "The conclusion must be based on observation and experiment.",
+   "The conclusion should be supported by the premise/premises.",
+   "The conclusion must follow from the premise/premises necessarily.",
+   "The argument may be valid or invalid."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The conclusion must be based on observation and experiment.**\n\nGrounding conclusions in observation and experiment is the mark of **inductive** reasoning. A deductive conclusion follows *necessarily* from the premises, and deductive arguments are assessed as valid or invalid.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q26",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If two standard-form categorical propositions with the same subject and predicate are related in such a manner that when one is undetermined the other must be undetermined, then what is their relation?",
+  "options": [
+   "Contrary",
+   "Subcontrary",
+   "Contradictory",
+   "Subaltern"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Contradictory.**\n\nContradictories (A–O, E–I) always have opposite truth values, so each one's value fixes the other's. If one is undetermined, the other must be too.\n\nFor the other relations this fails. When a contrary is false, the other contrary is undetermined, while the first one's value is known.\n\n(The book prints \"undermined\" for the first \"undetermined\".)",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q27",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Men and women may have different reproductive strategies but neither can be considered inferior or superior to the other, any more than a bird's wings can be considered superior or inferior to a fish's fins. Select the code that states the type of argument.",
+  "options": [
+   "Biological",
+   "Physiological",
+   "Analogical",
+   "Hypothetical"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Analogical.**\n\nThe argument concludes about men and women from a likeness with wings and fins: two different adaptations, neither better. That is **argument by analogy**. \"Biological\" and \"physiological\" name subject matter, not a type of argument.\n\n(The book's stem ends \"states those two propositions\", a slip for asking the type of argument.)",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q28",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Among the following propositions, two are related in such a way that they cannot both be true but can both be false. Select the code that states those two propositions.",
+  "items": [
+   "Every student is attentive.",
+   "Some students are attentive.",
+   "Students are never attentive.",
+   "Some students are not attentive."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i) and (ii)",
+   "(i) and (iii)",
+   "(ii) and (iii)",
+   "(iii) and (iv)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i) and (iii).**\n\n\"Cannot both be true but can both be false\" defines **contraries**, the universal pair:\n\n- (i) \"Every student is attentive\" = All S are P (**A**)\n- (iii) \"Students are never attentive\" = No S is P (**E**)\n\nBoth are false if only some students are attentive.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q29",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "The following are two premises (A) and (B). From those two premises, four conclusions i, ii, iii, iv are drawn. Select the code that states the conclusions validly drawn from the premises (taking singly or jointly).",
+  "items": [
+   "All hot pans are curse.",
+   "Some untouchable things are hot pans.",
+   "All curses are untouchable.",
+   "Some curses are untouchable."
+  ],
+  "item_style": "roman",
+  "prompt": "Premises: (A) Untouchability is a curse. (B) All hot pans are untouchable.",
+  "options": [
+   "(i) and (ii)",
+   "(ii) and (iii)",
+   "(iii) and (iv)",
+   "(ii) and (iv)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii) and (iv).** This follows the official key.\n\n- **(ii)** \"Some untouchable things are hot pans\" converts premise (B) by limitation, which is valid.\n- **(iv)** \"Some curses are untouchable\" converts premise (A) by limitation.\n- **(iii)** converts an A proposition simply, which is illicit.\n- **(i)** looks like a valid syllogism, but it is not. Premise (A) is about *untouchability*, the social practice; premise (B) is about *untouchable* things (too hot to touch). The middle term shifts meaning, so the syllogism has four terms and proves nothing.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q30",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If the statement 'None but the brave wins the race' is false, then which of the following statements can be claimed to be true?",
+  "options": [
+   "All brave persons win the race.",
+   "Some persons who win the race are not brave.",
+   "Some persons who win the race are brave.",
+   "No person who wins the race is brave."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Some persons who win the race are not brave.**\n\n\"None but the brave wins\" is an exclusive proposition, meaning **All winners are brave** (an A proposition). If it is false, its contradictory (the **O**) is true: *some winners are not brave*. The I and E forms remain undetermined. (1) reverses subject and predicate.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q31",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In 2015, approximately what per cent of total revenue come from books?",
+  "passage": "The following table embodies data on the sales revenue (₹ in lakhs) generated by a publishing house during the years 2012–2015 while selling books, magazines and journals as three categories of items. Answer questions 31–33 based on the data given in the table.",
+  "table": {
+   "title": "Sales revenue (₹ in lakh)",
+   "columns": [
+    "Item",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+   ],
+   "rows": [
+    [
+     "Journals",
+     "46",
+     "47",
+     "45",
+     "44"
+    ],
+    [
+     "Magazines",
+     "31",
+     "39",
+     "46",
+     "51"
+    ],
+    [
+     "Books",
+     "73",
+     "77",
+     "78",
+     "78"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  "options": [
+   "45%",
+   "55%",
+   "35%",
+   "25%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 45%.**\n\nThe yearly totals (the empty \"Total\" row) are 150, 163, 169 and 173. In 2015, 78 ÷ 173 ≈ **45%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q32",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The number of years in which there was an increase in revenue from at least two categories of items is",
+  "passage": "The following table embodies data on the sales revenue (₹ in lakhs) generated by a publishing house during the years 2012–2015 while selling books, magazines and journals as three categories of items. Answer questions 31–33 based on the data given in the table.",
+  "table": {
+   "title": "Sales revenue (₹ in lakh)",
+   "columns": [
+    "Item",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+   ],
+   "rows": [
+    [
+     "Journals",
+     "46",
+     "47",
+     "45",
+     "44"
+    ],
+    [
+     "Magazines",
+     "31",
+     "39",
+     "46",
+     "51"
+    ],
+    [
+     "Books",
+     "73",
+     "77",
+     "78",
+     "78"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2.**\n\n| Year | Journals | Magazines | Books | Categories up |\n|---|---|---|---|---|\n| 2013 | +1 | +8 | +4 | 3 |\n| 2014 | −2 | +7 | +1 | 2 |\n| 2015 | −1 | +5 | 0 | 1 |\n\nOnly 2013 and 2014 qualify.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q33",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If the year 2016 were to show the same growth in terms of total sales revenue as the year 2015 over the year 2014, then the revenue in the year 2016 must be approximately",
+  "passage": "The following table embodies data on the sales revenue (₹ in lakhs) generated by a publishing house during the years 2012–2015 while selling books, magazines and journals as three categories of items. Answer questions 31–33 based on the data given in the table.",
+  "table": {
+   "title": "Sales revenue (₹ in lakh)",
+   "columns": [
+    "Item",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+   ],
+   "rows": [
+    [
+     "Journals",
+     "46",
+     "47",
+     "45",
+     "44"
+    ],
+    [
+     "Magazines",
+     "31",
+     "39",
+     "46",
+     "51"
+    ],
+    [
+     "Books",
+     "73",
+     "77",
+     "78",
+     "78"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  "options": [
+   "₹194 lakh",
+   "₹187 lakh",
+   "₹172 lakh",
+   "₹177 lakh"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ₹177 lakh.**\n\nThe 2015 growth rate was 173 ÷ 169 ≈ 1.0237 (+2.37%). Applied again: 173 × 1.0237 ≈ **₹177 lakh**. Adding the same absolute increase (+4) would give the same result.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q34",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "How many female students are excellent?",
+  "passage": "A university professor maintains data on MCA students tabulated by performance and gender of the students. The data is kept on a computer hard disk, but accidentally some of its data are lost because of a computer virus. Only the following could be recovered.\n\nPanic buttons were pressed but to no avail. An expert committee was formed, which decided that the following facts were self-evident. (i) Half the students were either excellent or good. (ii) 40% of the students were females. (iii) One-third of the male students were average.\n\nAnswer questions 34–36 based on the data given above.",
+  "table": {
+   "title": "MCA students by performance and gender (recovered cells only)",
+   "columns": [
+    "Gender",
+    "Average",
+    "Good",
+    "Excellent",
+    "Total"
+   ],
+   "rows": [
+    [
+     "Male",
+     "",
+     "",
+     "10",
+     ""
+    ],
+    [
+     "Female",
+     "",
+     "",
+     "",
+     "32"
+    ],
+    [
+     "Total",
+     "",
+     "30",
+     "",
+     ""
+    ]
+   ]
+  },
+  "options": [
+   "0",
+   "8",
+   "16",
+   "32"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 0.**\n\n**Rebuilding the table.**\n\n- 40% are female and there are 32 females, so there are **80** students, of whom **48** are male.\n- Half are good or excellent, so **40 are average**.\n- One-third of the males are average: **16**. That leaves 48 − 16 − 10 = **22** good males.\n- 30 are good in all, so **8** females are good.\n- 40 − 16 = **24** females are average, so 32 − 24 − 8 = **0** females are excellent.\n\n| | Average | Good | Excellent | Total |\n|---|---|---|---|---|\n| Male | 16 | 22 | 10 | 48 |\n| Female | 24 | 8 | 0 | 32 |\n| Total | 40 | 30 | 10 | 80 |",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q35",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What proportion of female students are good?",
+  "passage": "A university professor maintains data on MCA students tabulated by performance and gender of the students. The data is kept on a computer hard disk, but accidentally some of its data are lost because of a computer virus. Only the following could be recovered.\n\nPanic buttons were pressed but to no avail. An expert committee was formed, which decided that the following facts were self-evident. (i) Half the students were either excellent or good. (ii) 40% of the students were females. (iii) One-third of the male students were average.\n\nAnswer questions 34–36 based on the data given above.",
+  "table": {
+   "title": "MCA students by performance and gender (recovered cells only)",
+   "columns": [
+    "Gender",
+    "Average",
+    "Good",
+    "Excellent",
+    "Total"
+   ],
+   "rows": [
+    [
+     "Male",
+     "",
+     "",
+     "10",
+     ""
+    ],
+    [
+     "Female",
+     "",
+     "",
+     "",
+     "32"
+    ],
+    [
+     "Total",
+     "",
+     "30",
+     "",
+     ""
+    ]
+   ]
+  },
+  "options": [
+   "0",
+   "0.25",
+   "0.50",
+   "0.75"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 0.25.** 8 good females out of 32.\n\n**Rebuilding the table.**\n\n- 40% are female and there are 32 females, so there are **80** students, of whom **48** are male.\n- Half are good or excellent, so **40 are average**.\n- One-third of the males are average: **16**. That leaves 48 − 16 − 10 = **22** good males.\n- 30 are good in all, so **8** females are good.\n- 40 − 16 = **24** females are average, so 32 − 24 − 8 = **0** females are excellent.\n\n| | Average | Good | Excellent | Total |\n|---|---|---|---|---|\n| Male | 16 | 22 | 10 | 48 |\n| Female | 24 | 8 | 0 | 32 |\n| Total | 40 | 30 | 10 | 80 |",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q36",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Approximately, what proportion of good students are male?",
+  "passage": "A university professor maintains data on MCA students tabulated by performance and gender of the students. The data is kept on a computer hard disk, but accidentally some of its data are lost because of a computer virus. Only the following could be recovered.\n\nPanic buttons were pressed but to no avail. An expert committee was formed, which decided that the following facts were self-evident. (i) Half the students were either excellent or good. (ii) 40% of the students were females. (iii) One-third of the male students were average.\n\nAnswer questions 34–36 based on the data given above.",
+  "table": {
+   "title": "MCA students by performance and gender (recovered cells only)",
+   "columns": [
+    "Gender",
+    "Average",
+    "Good",
+    "Excellent",
+    "Total"
+   ],
+   "rows": [
+    [
+     "Male",
+     "",
+     "",
+     "10",
+     ""
+    ],
+    [
+     "Female",
+     "",
+     "",
+     "",
+     "32"
+    ],
+    [
+     "Total",
+     "",
+     "30",
+     "",
+     ""
+    ]
+   ]
+  },
+  "options": [
+   "0",
+   "0.73",
+   "0.43",
+   "0.27"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 0.73.** 22 of the 30 good students are male: 22 ÷ 30 ≈ 0.73.\n\n**Rebuilding the table.**\n\n- 40% are female and there are 32 females, so there are **80** students, of whom **48** are male.\n- Half are good or excellent, so **40 are average**.\n- One-third of the males are average: **16**. That leaves 48 − 16 − 10 = **22** good males.\n- 30 are good in all, so **8** females are good.\n- 40 − 16 = **24** females are average, so 32 − 24 − 8 = **0** females are excellent.\n\n| | Average | Good | Excellent | Total |\n|---|---|---|---|---|\n| Male | 16 | 22 | 10 | 48 |\n| Female | 24 | 8 | 0 | 32 |\n| Total | 40 | 30 | 10 | 80 |",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q37",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statement(s) is/are TRUE?",
+  "items": [
+   "S1: The decimal number 11 is larger than the hexadecimal number 11.",
+   "S2: In the binary number 1110.101, the fractional part has the decimal value as 0.625."
+  ],
+  "item_style": "numbers",
+  "options": [
+   "S1 only",
+   "S2 only",
+   "Both S1 and S2",
+   "Neither S1 nor S2"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) S2 only.**\n\n- **S1 is false.** Hexadecimal 11 = 1×16 + 1 = 17, which is *larger* than decimal 11.\n- **S2 is true.** Binary .101 = 1×½ + 0×¼ + 1×⅛ = 0.5 + 0.125 = **0.625**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q38",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the above mentioned statement(s) is/are CORRECT?",
+  "items": [
+   "Information and Communication Technology (ICT) is considered as a subset of Information Technology (IT).",
+   "The 'right to use' a piece of software is termed as copyright."
+  ],
+  "item_style": "roman",
+  "options": [
+   "Both I and II",
+   "Neither I nor II",
+   "II only",
+   "I only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Neither I nor II.**\n\n- **I is false.** ICT is usually seen as *extending* IT, adding the communication technologies (telecom, networks, broadcasting). It is not a subset of IT.\n- **II is false.** The right to *use* software is granted by a **licence**. **Copyright** is the author's right to control copying and distribution.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q39",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "sequence",
+  "question_text": "Which of the following correctly lists the types of the computer memory from highest to lowest speed?",
+  "items": [
+   "Secondary storage",
+   "Main memory (RAM)",
+   "Cache memory",
+   "CPU registers"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii), (iii), (iv)",
+   "(iv), (iii), (i), (ii)",
+   "(iv), (iii), (ii), (i)",
+   "(iii), (iv), (ii), (i)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (iv), (iii), (ii), (i).**\n\nThe memory hierarchy, from fastest (and smallest) to slowest: **registers** inside the CPU → **cache** → **main memory** (RAM) → **secondary storage** (SSD or hard disk).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q40",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a characteristic of Web 2.0 applications?",
+  "options": [
+   "Multiple users schedule their time to use Web 2.0 applications one by one.",
+   "Web 2.0 applications are focused on the ability for people to collaborate and share information online.",
+   "Web 2.0 applications provide users with content rather than facilitating users to create it.",
+   "Web 2.0 applications use only static pages."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).**\n\nWeb 2.0 (a term popularised by Tim O'Reilly in 2004) is the participatory web: wikis, blogs, social networks, user-generated content. Options (3) and (4) describe the read-only \"Web 1.0\" of static pages.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q41",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "With regard to a word processing software, the process of combining static information in a publication together with variable information in a data source to create one merged publication is called",
+  "options": [
+   "Electronic mail",
+   "Data sourcing",
+   "Mail merge",
+   "Spam mail"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Mail merge.**\n\nA main document (the fixed letter) is merged with a data source (names, addresses) to produce one personalised copy per record.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q42",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "DVD technology uses an optical media to store the digital data. DVD is an acronym for",
+  "options": [
+   "Digital Vector Disc",
+   "Digital Volume Disc",
+   "Digital Versatile Disc",
+   "Digital Visualization Disc"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Digital Versatile Disc.**\n\nIt was first called \"Digital Video Disc\"; \"Versatile\" was adopted because the format stores any data, not only video. A single-layer DVD holds 4.7 GB.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q43",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct code:",
+  "assertion": "Sustainable development is critical to well-being of human society.",
+  "reason": "Environmentally sound policies do not harm the environment or deplete the natural resources.",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+   "(A) is true and (R) is false.",
+   "(A) is false and (R) is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both are correct, but (R) is not the correct explanation of (A).**\n\n- **(A) is true.** Sustainable development, meeting present needs without compromising those of future generations (Brundtland, 1987), is critical to human well-being.\n- **(R) is true by definition.** An environmentally sound policy is one that does not harm the environment or deplete resources.\n- **But (R) does not explain (A).** It defines one kind of policy; it does not say why sustainability matters to society.\n\n(The book prints option (3) as \"(A) is true and (R) is true\", a slip for \"(R) is false\".)",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q44",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The dominant source of pollution due to oxides of nitrogen (NOx) in urban areas is",
+  "options": [
+   "Road transport",
+   "Commercial Sector",
+   "Energy use in industry",
+   "Power plants"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Road transport.**\n\nNOx forms when fuel burns at high temperature. Nationally, coal power plants are big emitters, but in cities vehicle exhaust dominates: diesel vehicles especially, emitting at street level.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q45",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not a water-borne disease?",
+  "options": [
+   "Typhoid",
+   "Hepatitis",
+   "Cholera",
+   "Dengue"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Dengue.**\n\nDengue is a **vector-borne** viral disease spread by the *Aedes aegypti* mosquito. Stagnant water breeds the mosquito, but the disease is not carried by the water itself.\n\nTyphoid, cholera and hepatitis A/E spread through contaminated water and food.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q46",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The Government of India has set targets for power production from small hydro-projects by the year 2022 is",
+  "options": [
+   "1 Gigawatt",
+   "5 Gigawatt",
+   "10 Gigawatt",
+   "15 Gigawatt"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 5 GW.**\n\nIndia's 175 GW renewable target for 2022 comprised 100 GW solar, 60 GW wind, 10 GW biomass and **5 GW small hydro**. Small hydro means projects of up to 25 MW each.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q47",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which country, the recent international agreement on phasing out HydroFluoroCarbons (HFCs) was signed?",
+  "options": [
+   "Rwanda",
+   "Morocco",
+   "South Africa",
+   "Algeria"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Rwanda.**\n\nThe **Kigali Amendment** to the Montreal Protocol (Kigali, October 2016) phases down HFCs. These are ozone-safe refrigerants, but potent greenhouse gases.\n\nMorocco is the trap: it hosted the climate COP-22 at Marrakech a month later.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q48",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following natural hazards is not hydro-meteorological?",
+  "options": [
+   "Snow avalanche",
+   "Sea erosion",
+   "Tropical cyclone",
+   "Tsunami"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Tsunami.**\n\nA tsunami is **geological**: undersea earthquakes, landslides or eruptions displace the water. Cyclones, avalanches and coastal erosion are driven by weather and water.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q49",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following are the demerits of globalization of higher education?",
+  "items": [
+   "Exposure to global curriculum.",
+   "Promotion of elitism in education.",
+   "Commodification of higher education.",
+   "Increase in the cost of education."
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the following codes.",
+  "options": [
+   "(i) and (iv)",
+   "(i), (iii) and (iv)",
+   "(ii), (iii) and (iv)",
+   "(i), (ii), (iii) and (iv)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (ii), (iii) and (iv).**\n\nExposure to a global curriculum (i) is a *benefit* of globalisation. The criticisms are that education becomes a market commodity (iii), costs rise (iv), and access tilts towards those who can pay, which promotes elitism (ii).",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q50",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statements are correct about deemed universities?",
+  "items": [
+   "The Governor of the State is the chancellor of deemed universities.",
+   "They can design their own syllabus and course work.",
+   "They can frame their own guidelines regarding admission and fees.",
+   "They can grant degrees."
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the following codes.",
+  "options": [
+   "(i), (ii) and (iii)",
+   "(ii), (iii) and (iv)",
+   "(i), (iii) and (iv)",
+   "(i), (ii), (iii) and (iv)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (ii), (iii) and (iv).**\n\nDeemed universities are declared under **Section 3 of the UGC Act, 1956**. They award their own degrees and have academic autonomy over syllabi, admissions and (within limits) fees.\n\n(i) is false: they are not state universities, so the Governor is not their chancellor. Their chancellor is chosen under their own rules.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q51",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The purpose of value education is best served by focusing on",
+  "options": [
+   "Cultural practices prevailing in the society.",
+   "Norms of conduct laid down by a social group.",
+   "Concern for human values.",
+   "Religious and moral practices and instructions."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Concern for human values.**\n\nValue education aims at universal human values: truth, non-violence, compassion, justice. The other options tie it to a particular culture, group or religion, which may be narrow or even conflict with those values.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q52",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following statements are correct?",
+  "items": [
+   "Rajya Sabha is a permanent house that can be dissolved only during national emergency.",
+   "Rajya Sabha does not represent the local interests of the states.",
+   "Members of the Rajya Sabha are not bound to vote at the dictates of the states they represent.",
+   "No union territory has a representative in the Rajya Sabha."
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the following codes.",
+  "options": [
+   "(i) and (iv)",
+   "(ii) and (iii)",
+   "(ii), (iii) and (iv)",
+   "(i), (ii), (iii) and (iv)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (ii) and (iii).**\n\n- **(i) is false.** The Rajya Sabha is permanent and can **never** be dissolved, even in an emergency; one-third of its members retire every two years.\n- **(ii) and (iii) are true.** Its members are elected by state legislators but vote as party members, not as delegates bound by their states. In practice it does not act as a chamber for local state interests.\n- **(iv) is false.** Delhi and Puducherry (and, since 2019, Jammu and Kashmir) have Rajya Sabha seats.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q53",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following are not necessarily the immediate consequences of the proclamation of the President's Rule in a state?",
+  "items": [
+   "Dissolution of the State Legislative Assembly.",
+   "Removal of the Council of Ministers in the State.",
+   "Takeover of the State administration by the Union government.",
+   "Appointment of a new Chief Secretary."
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the following codes.",
+  "options": [
+   "(i) and (iv)",
+   "(i), (ii) and (iii)",
+   "(i), (ii), (iii) and (iv)",
+   "(ii) and (iii)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i) and (iv).**\n\nUnder Article 356, the President assumes the state government's functions: the Council of Ministers goes (ii) and the Union takes over the administration (iii). Those are immediate.\n\n- The Legislative Assembly (i) may be **dissolved or only kept in suspended animation**, so its dissolution is not necessary.\n- A new Chief Secretary (iv) is not required at all.\n\n(The book prints item (i) as \"Dissolution of the State of Ministers\"; the key only works if (i) is the dissolution of the Legislative Assembly, as in the original paper.)",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q54",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Instead of holding the office during the pleasure of the President who among the following hold(s) office during good behaviour?",
+  "items": [
+   "Governor of a state.",
+   "Attorney General of India.",
+   "Judges of the High Court.",
+   "Administrator of a Union Territory."
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the following codes.",
+  "options": [
+   "(i) only",
+   "(iii) only",
+   "(i) and (iii)",
+   "(i), (ii), (iii) and (iv)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (iii) only.**\n\nHigh Court judges serve until 62 and can be removed only by the impeachment-like process of Article 217/218 read with Article 124(4), for proved misbehaviour or incapacity. That tenure is what \"good behaviour\" means.\n\nThe Governor (Art. 156), the Attorney General (Art. 76) and a UT Administrator all hold office **during the pleasure of the President**.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q55",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the following set of statements represents acceptable propositions with respect to teaching–learning relationships? Choose the correct code to indicate your answer.",
+  "items": [
+   "When students fail in a test, it is the teacher who fails.",
+   "Every teaching must aim at ensuring learning.",
+   "There can be teaching without learning taking place.",
+   "There can be no learning without teaching.",
+   "A teacher teaches but learns also.",
+   "Real learning implies rote learning."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(ii), (iii), (iv) and (v)",
+   "(i), (ii), (iii) and (v)",
+   "(iii), (iv), (v) and (vi)",
+   "(i), (ii), (v) and (vi)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i), (ii), (iii) and (v).**\n\n- (iv) is false: people learn all the time without being taught, from experience, reading and peers.\n- (vi) is false: real learning means understanding, not rote.\n- The other four are accepted maxims: a failed test is partly the teacher's failure; teaching aims at learning; teaching can fail to produce learning; teachers learn as they teach.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q56",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "Learning is a lifelong process.",
+  "reason": "Learning to be useful must be linked with life processes.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both are true, but (R) is not the correct explanation of (A).**\n\n- **(A) is true.** Learning continues from birth to death.\n- **(R) is true.** Learning is useful when it connects with life.\n- **But (R) does not explain (A).** Learning is lifelong because we keep meeting new experiences, not because it *must be linked* with life to be useful. (R) is a claim about usefulness, (A) about duration.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q57",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Effectiveness of teaching has to be judged in terms of",
+  "options": [
+   "Course coverage.",
+   "Students' interest.",
+   "Learning outcomes of students.",
+   "Use of teaching aids in the classroom."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Learning outcomes of students.**\n\nTeaching is judged by its product, what students learn. Covering the course, arousing interest and using aids are means that may or may not produce learning.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q58",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which teaching method, the learner's participation is made optimal and proactive?",
+  "options": [
+   "Discussion method",
+   "Buzz session method",
+   "Brainstorming session method",
+   "Project method"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Project method.**\n\nIn Kilpatrick's project method, learners choose, plan, carry out and judge a purposeful activity themselves, so their participation is at its fullest and self-initiated. In discussions, buzz sessions and brainstorming, students take part only within a session the teacher frames.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q59",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "One of the most powerful factors affecting teaching effectiveness is related to the",
+  "options": [
+   "Social system of the country.",
+   "Economic status of the society.",
+   "Prevailing political system.",
+   "Educational system."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Educational system.**\n\nThe educational system directly shapes teaching: curriculum, examinations, class size, teacher preparation and institutional culture. Social, economic and political systems act on teaching only indirectly, *through* the educational system.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2017JAN-Q60",
+  "subject": "paper1",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper I",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Paper I: 60 questions, of which candidates answered 50. Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. A few obvious slips in the book are corrected and flagged in the explanations (Q11, Q19, Q26, Q27, Q43, Q53)."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer from the following code.",
+  "assertion": "Formative evaluation tends to accelerate the pace of learning.",
+  "reason": "As against summative evaluation, formative evaluation is highly reliable.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) is true, but (R) is false.**\n\n- **(A) is true.** Formative evaluation gives feedback while learning is under way, so gaps are fixed early and learning speeds up.\n- **(R) is false.** Formative checks are usually informal and low-stakes (quizzes, observation, questioning), so they are generally *less* reliable than carefully constructed summative tests. Their value lies in timely feedback, not reliability.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ }
+]

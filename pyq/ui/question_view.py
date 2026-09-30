@@ -41,6 +41,14 @@ def question_body(q: Question) -> None:
     if q.passage:
         with st.expander("Read the passage", icon=":material/article:", expanded=True):
             st.markdown(md(q.passage))
+    if q.table_columns:
+        with st.container(border=True):
+            if q.table_title:
+                st.markdown(md(q.table_title))
+            table = ["| " + " | ".join(f"**{md(c)}**" if c else " " for c in q.table_columns) + " |",
+                     "|" + "---|" * len(q.table_columns)]
+            table += ["| " + " | ".join(md(c) if c else " " for c in row) + " |" for row in q.table_rows]
+            st.markdown("\n".join(table))
     st.markdown(f"#### {md(q.question_text)}")
     if q.list_i:
         rows = max(len(q.list_i), len(q.list_ii))

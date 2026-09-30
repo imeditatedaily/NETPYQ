@@ -89,7 +89,7 @@ def read_topic_notes(path: Path) -> tuple[dict[str, dict[str, str]], list[Proble
     except json.JSONDecodeError as e:
         return {}, [Problem(path.name, "(whole file)", (f"not valid JSON: line {e.lineno}, column {e.colno}: {e.msg}",))]
     if not isinstance(data, dict) or not all(isinstance(v, dict) for v in data.values()):
-        return {}, [Problem(path.name, "(whole file)", ('must look like {"yoga": {"micro-topic": "note", …}, "iks": {…}}',))]
+        return {}, [Problem(path.name, "(whole file)", ('must look like {"yoga": {"micro-topic": "note", …}, "iks": {…}, "paper1": {…}}',))]
     return {s: {t: n for t, n in topics.items() if isinstance(n, str) and n.strip()} for s, topics in data.items()}, []
 
 

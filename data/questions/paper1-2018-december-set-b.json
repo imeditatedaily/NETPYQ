@@ -1,0 +1,1713 @@
+[
+ {
+  "id": "P1-2018DEC-B-Q01",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Poster sessions in research conferences provide better opportunities for",
+  "options": [
+   "Focus group discussions",
+   "Interpersonal interactions",
+   "Formal speeches",
+   "Display of common interest"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Interpersonal interactions.**\n\nAt a poster session the researcher stands by the poster and talks one-to-one with whoever stops by. That makes it more interactive than an oral presentation, which is a formal speech to an audience.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q02",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which among the following best describes emotional intelligence as a learner characteristic?",
+  "items": [
+   "Recognize their own and other people's emotions.",
+   "Expressing their emotions strongly.",
+   "Use emotional information to guide thinking and behaviour.",
+   "Good observation, scientific thinking and deductive reasoning.",
+   "Adjusting emotions to adapt to environments.",
+   "Being creative and open to diverse viewpoints."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(iii), (v) and (vi)",
+   "(i), (iv) and (vi)",
+   "(i), (iii) and (v)",
+   "(ii), (iv) and (v)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (iii) and (v).**\n\nSalovey and Mayer define emotional intelligence as the ability to:\n\n- **perceive** one's own and others' emotions (i)\n- **use** emotional information to guide thought and behaviour (iii)\n- **regulate** emotions to adapt (v)\n\nExpressing emotions *strongly* (ii) is not intelligence about emotions. Scientific thinking (iv) and creativity (vi) are cognitive traits.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q03",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In a school, in which there are large number of failures, you may like to develop test for eliminating those who are likely to have substantial difficulties in meeting the academic goals of teaching. For this you need to develop test which should be able to predict the individual's ability or readiness to undertake the study of a school subject successfully. What is the name of such tests?",
+  "options": [
+   "Prognostic tests",
+   "Attitude tests",
+   "Achievement tests",
+   "Analytical tests"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Prognostic tests.**\n\nA prognostic test forecasts how well a student will do in a *particular school subject* before they begin it: their readiness for that subject. Achievement tests measure what has already been learnt.\n\nCompare set A's Q2, where \"special lines\" and \"special training\" point to an aptitude test instead.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q04",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The goal of formative assessment is to",
+  "options": [
+   "Promote student to next level.",
+   "Form a group of students on the basis of their learning.",
+   "Compare student learning against a standard or benchmark.",
+   "Monitor student learning to provide ongoing feedback."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Monitor student learning to provide ongoing feedback.**\n\nFormative assessment is assessment *for* learning: continuous checks whose results feed back into teaching. Promotion (1) and comparison with a benchmark (3) belong to summative assessment.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q05",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "The characteristics of scientific method of research are",
+  "items": [
+   "Empiricism",
+   "Objectivity",
+   "Systematic",
+   "Secretive",
+   "Security related",
+   "Predictive"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii), (iii) and (vi)",
+   "(i), (ii), (iv) and (v)",
+   "(iv), (v), (vi) and (i)",
+   "(iii), (iv), (v) and (vi)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i), (ii), (iii) and (vi).**\n\nScientific research is **empirical**, **objective**, **systematic** and **predictive**: it yields laws that forecast. It is also public and replicable, which is the opposite of secretive (iv). \"Security-related\" (v) is not a characteristic at all.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q06",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The kind of numbers which do not represent amounts but instead represent kind (different qualities, types or categories) are known as",
+  "options": [
+   "Absolute",
+   "Ordinal",
+   "Prime",
+   "Nominal"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Nominal.**\n\nStevens' levels of measurement:\n\n- **nominal**: numbers as labels, such as roll numbers or 1 = male, 2 = female\n- **ordinal**: rank order\n- **interval**: equal units, no true zero\n- **ratio**: a true zero",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q07",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In a research setting, participants may act differently because they think they are getting special attention. This reaction of treatment group to the special attention rather than the treatment itself is known as",
+  "options": [
+   "Jung effect",
+   "Hawthorne effect",
+   "Attention deficit",
+   "Markov effect"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Hawthorne effect.**\n\nIt is named after the Western Electric Hawthorne Works studies (Elton Mayo, 1924–32). Output rose with almost any change in working conditions, because the workers knew they were being studied.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q08",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which among the following can best be used as an asynchronous teaching aid?",
+  "items": [
+   "Skype",
+   "Blog",
+   "Facebook post",
+   "Online chat",
+   "Email",
+   "Google Hangout"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (iii) and (vi)",
+   "(iii), (v) and (vi)",
+   "(i), (ii) and (iii)",
+   "(ii), (iii) and (v)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii), (iii) and (v).**\n\nAsynchronous tools do not require teacher and student to be online at the same time: a **blog**, a **Facebook post**, **e-mail**. Skype, online chat and Google Hangout are synchronous, happening in real time.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q09",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In teaching learning context, the results of an evaluation are useful to teachers in various ways. Which among the following is most important use for a teacher?",
+  "options": [
+   "To decide placement of students in other institutions.",
+   "Planning instruction and knowing the effectiveness of the teaching strategies used by them.",
+   "Getting information about student's study interests.",
+   "To identify home influence on students."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).**\n\nEvaluation results tell teachers what worked and what did not, so they can plan the next instruction. That feedback loop is the core purpose of evaluation within teaching.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q10",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "When a reviewer reviews a research article without knowing the author's name, it is referred to as",
+  "options": [
+   "Anonymous review",
+   "Uncategorized review",
+   "Blind review",
+   "Behind-the-curtain review"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Blind review.**\n\n- **Single-blind**: the reviewer knows the author, but not the other way round.\n- **Double-blind**: neither knows the other.\n\nHiding the author's identity from the reviewer is what makes a review blind.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q11",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "The crux of the passage contains the following statements.",
+  "passage": "Today, in the digital age, who owns information owns the future. In this digital world, we face a fundamental choice between open and closed. In an open world, information is shared by all and it is freely available to everyone. In a closed world, information is exclusively owned and controlled by a few. Today, we live in a closed world, a world of extraordinary and growing concentrations in power and wealth. A world where innovation is held back and distorted by the dead hand of monopoly, where essential medicines are affordable only to the rich, where freedom is threatened by manipulation, exclusion and exploitation; and each click you make, every step you take, they will be watching you.\n\nBy contrast, in an open world, all of us would be enriched by the freedom to use, enjoy and build on everything from statistics and research to newspaper stories and books, from software and films to music and medical formulae. In an open world, we would pay innovators and creators more and more fairly, using market-driven remuneration rights in place of intellectual property monopoly rights.\n\nAs they have improved, digital technologies have taken on ever more of the tasks that humans used to do, from manufacturing cars to scheduling appointments. And in the next few decades, artificial intelligence may well be not only driving our cars for us but drafting legal contracts and performing surgery. On the face of it, we have much to gain if machines can spare us tedious or routine tasks and perform them with greater accuracy. The danger, though, is that robots run on information (software, data, algorithms) and at present the ownership of this sort of information is unequal, because it is protected by our closed system of intellectual property rights.",
+  "items": [
+   "Digital technology is dangerous.",
+   "Those who own information will own the future.",
+   "Artificial intelligence will do the human tasks.",
+   "Monopoly of digital technology has led to unequal ownership of information.",
+   "Intellectual property rights should be protected in an open world."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(iv), (v) and (i)",
+   "(iii), (iv) and (v)",
+   "(i), (ii) and (iii)",
+   "(ii), (iii) and (iv)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii), (iii) and (iv).**\n\n- (ii) is the first sentence.\n- (iii) is the third paragraph's forecast.\n- (iv) is the danger it ends on.\n\nThe passage does not call digital technology itself dangerous (i). It wants intellectual property *monopoly* rights **replaced** in an open world, not protected (v).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q12",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the impact of digital technologies on the present day world?",
+  "passage": "Today, in the digital age, who owns information owns the future. In this digital world, we face a fundamental choice between open and closed. In an open world, information is shared by all and it is freely available to everyone. In a closed world, information is exclusively owned and controlled by a few. Today, we live in a closed world, a world of extraordinary and growing concentrations in power and wealth. A world where innovation is held back and distorted by the dead hand of monopoly, where essential medicines are affordable only to the rich, where freedom is threatened by manipulation, exclusion and exploitation; and each click you make, every step you take, they will be watching you.\n\nBy contrast, in an open world, all of us would be enriched by the freedom to use, enjoy and build on everything from statistics and research to newspaper stories and books, from software and films to music and medical formulae. In an open world, we would pay innovators and creators more and more fairly, using market-driven remuneration rights in place of intellectual property monopoly rights.\n\nAs they have improved, digital technologies have taken on ever more of the tasks that humans used to do, from manufacturing cars to scheduling appointments. And in the next few decades, artificial intelligence may well be not only driving our cars for us but drafting legal contracts and performing surgery. On the face of it, we have much to gain if machines can spare us tedious or routine tasks and perform them with greater accuracy. The danger, though, is that robots run on information (software, data, algorithms) and at present the ownership of this sort of information is unequal, because it is protected by our closed system of intellectual property rights.",
+  "options": [
+   "Tedious tasks see an upward trend.",
+   "Mechanical accuracy is distorted.",
+   "Creativity is sidelined.",
+   "Human tasks are performed by machines."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Human tasks are performed by machines.**\n\n\"Digital technologies have taken on ever more of the tasks that humans used to do.\" Machines *spare* us tedious tasks and do them with *greater* accuracy, which rules out (1) and (2).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q13",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of these are characteristics of a closed world?",
+  "passage": "Today, in the digital age, who owns information owns the future. In this digital world, we face a fundamental choice between open and closed. In an open world, information is shared by all and it is freely available to everyone. In a closed world, information is exclusively owned and controlled by a few. Today, we live in a closed world, a world of extraordinary and growing concentrations in power and wealth. A world where innovation is held back and distorted by the dead hand of monopoly, where essential medicines are affordable only to the rich, where freedom is threatened by manipulation, exclusion and exploitation; and each click you make, every step you take, they will be watching you.\n\nBy contrast, in an open world, all of us would be enriched by the freedom to use, enjoy and build on everything from statistics and research to newspaper stories and books, from software and films to music and medical formulae. In an open world, we would pay innovators and creators more and more fairly, using market-driven remuneration rights in place of intellectual property monopoly rights.\n\nAs they have improved, digital technologies have taken on ever more of the tasks that humans used to do, from manufacturing cars to scheduling appointments. And in the next few decades, artificial intelligence may well be not only driving our cars for us but drafting legal contracts and performing surgery. On the face of it, we have much to gain if machines can spare us tedious or routine tasks and perform them with greater accuracy. The danger, though, is that robots run on information (software, data, algorithms) and at present the ownership of this sort of information is unequal, because it is protected by our closed system of intellectual property rights.",
+  "items": [
+   "Concentration in power and wealth increases.",
+   "Innovation is controlled.",
+   "Only the rich have access to medicines.",
+   "Freedom is manipulated.",
+   "Information is shared by all.",
+   "Creativity is recognized."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(iii), (iv), (v) and (vi)",
+   "(i), (ii), (iii) and (iv)",
+   "(iv), (v), (vi) and (i)",
+   "(ii), (iii), (iv) and (v)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i), (ii), (iii) and (iv).**\n\nThe closed world is one of growing concentrations of power and wealth; innovation held back by monopoly; medicines affordable only to the rich; freedom threatened by manipulation. Information shared by all (v) and creativity rewarded (vi) describe the **open** world.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q14",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the status of intellectual property rights in an open world?",
+  "passage": "Today, in the digital age, who owns information owns the future. In this digital world, we face a fundamental choice between open and closed. In an open world, information is shared by all and it is freely available to everyone. In a closed world, information is exclusively owned and controlled by a few. Today, we live in a closed world, a world of extraordinary and growing concentrations in power and wealth. A world where innovation is held back and distorted by the dead hand of monopoly, where essential medicines are affordable only to the rich, where freedom is threatened by manipulation, exclusion and exploitation; and each click you make, every step you take, they will be watching you.\n\nBy contrast, in an open world, all of us would be enriched by the freedom to use, enjoy and build on everything from statistics and research to newspaper stories and books, from software and films to music and medical formulae. In an open world, we would pay innovators and creators more and more fairly, using market-driven remuneration rights in place of intellectual property monopoly rights.\n\nAs they have improved, digital technologies have taken on ever more of the tasks that humans used to do, from manufacturing cars to scheduling appointments. And in the next few decades, artificial intelligence may well be not only driving our cars for us but drafting legal contracts and performing surgery. On the face of it, we have much to gain if machines can spare us tedious or routine tasks and perform them with greater accuracy. The danger, though, is that robots run on information (software, data, algorithms) and at present the ownership of this sort of information is unequal, because it is protected by our closed system of intellectual property rights.",
+  "options": [
+   "Replaced by remuneration rights.",
+   "They are monopoly rights.",
+   "Protected proprietorial rights.",
+   "Medical formulae are restricted."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Replaced by remuneration rights.**\n\n\"In an open world, we would pay innovators and creators … using market-driven **remuneration rights in place of intellectual property monopoly rights**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q15",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "How will an open world function?",
+  "passage": "Today, in the digital age, who owns information owns the future. In this digital world, we face a fundamental choice between open and closed. In an open world, information is shared by all and it is freely available to everyone. In a closed world, information is exclusively owned and controlled by a few. Today, we live in a closed world, a world of extraordinary and growing concentrations in power and wealth. A world where innovation is held back and distorted by the dead hand of monopoly, where essential medicines are affordable only to the rich, where freedom is threatened by manipulation, exclusion and exploitation; and each click you make, every step you take, they will be watching you.\n\nBy contrast, in an open world, all of us would be enriched by the freedom to use, enjoy and build on everything from statistics and research to newspaper stories and books, from software and films to music and medical formulae. In an open world, we would pay innovators and creators more and more fairly, using market-driven remuneration rights in place of intellectual property monopoly rights.\n\nAs they have improved, digital technologies have taken on ever more of the tasks that humans used to do, from manufacturing cars to scheduling appointments. And in the next few decades, artificial intelligence may well be not only driving our cars for us but drafting legal contracts and performing surgery. On the face of it, we have much to gain if machines can spare us tedious or routine tasks and perform them with greater accuracy. The danger, though, is that robots run on information (software, data, algorithms) and at present the ownership of this sort of information is unequal, because it is protected by our closed system of intellectual property rights.",
+  "options": [
+   "With limited choices.",
+   "Information is available to everyone.",
+   "Information is controlled.",
+   "Information is exclusive."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Information is available to everyone.**\n\n\"In an open world, information is shared by all and it is freely available to everyone.\" (3) and (4) describe the closed world.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q16",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "If FACE is coded as HCEG, then the code for HIGH will be",
+  "options": [
+   "ZXYZ",
+   "KHIK",
+   "BEFB",
+   "JKIJ"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) JKIJ.**\n\nEvery letter moves two places forward: F→H, A→C, C→E, E→G. HIGH → **JKIJ**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q17",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Ram said to Shyam, 'That girl playing with the doll is the younger of the two daughters of my father's wife'. How is the girl playing with the doll related to Ram?",
+  "options": [
+   "Cousin",
+   "Sister-in-law",
+   "Sister",
+   "Aunty"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sister.**\n\nRam's father's wife is Ram's mother (or stepmother). Her daughter is Ram's **sister**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Blood relations",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q18",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next number in the series 12, 15, 21, 33, 57, ______ is",
+  "options": [
+   "97",
+   "95",
+   "107",
+   "105"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 105.**\n\nThe differences double: 3, 6, 12, 24, so the next is 48, giving 57 + 48 = **105**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q19",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Modern educational communication is described as",
+  "options": [
+   "Telescopic",
+   "Teleologic",
+   "Non-distributive",
+   "Unapproximate"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Teleologic.**\n\nTeleological means goal-directed, from Greek *telos*, \"end\". Educational communication is purposive: every message aims at a learning outcome.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q20",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In verbal communication, words act as",
+  "options": [
+   "Symbols",
+   "Decoratives",
+   "Passive barriers",
+   "Fillers"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Symbols.**\n\nWords are arbitrary **symbols**: they stand for things and ideas by convention. The sender encodes meaning into them and the receiver decodes it.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q21",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Classroom communication has a basis in",
+  "options": [
+   "Audience fragmentation",
+   "Intensive listener focus",
+   "Attention diversion",
+   "Non-informative cues"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Intensive listener focus.**\n\nClassroom communication is built around the listener, the student: it is planned for their attention, level and understanding. The other options are threats to it.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q22",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of these words is different from the rest?",
+  "options": [
+   "Sharp",
+   "Thin",
+   "Huge",
+   "Tall"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Sharp.**\n\nThin, huge and tall describe **size or dimension**. Sharp describes a quality of an edge.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Classification: odd one out",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q23",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which of the following instances, deductive argument is invalid?",
+  "options": [
+   "When its premises and conclusion are all true.",
+   "When its premises are false and conclusion is true.",
+   "When its premises and conclusion are all false.",
+   "When its premises are true but conclusion is false."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).**\n\nValid means that true premises cannot lead to a false conclusion. True premises with a false conclusion therefore prove invalidity. The other combinations can all occur in valid arguments.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q24",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Effective classroom communication would help students internalize",
+  "items": [
+   "Knowledge",
+   "Subject matter",
+   "Articulation",
+   "Language felicity",
+   "Non-responsiveness",
+   "Modalities of resistance"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii), (iii) and (iv)",
+   "(iii), (iv), (v) and (vi)",
+   "(ii), (iii), (iv) and (v)",
+   "(i), (iv), (v) and (vi)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i), (ii), (iii) and (iv).**\n\nGood classroom communication builds knowledge and subject mastery, and models articulate, apt language. Non-responsiveness (v) and ways of resisting (vi) are what *poor* communication produces.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q25",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The next term in the letter series DY, JX, OW, SV, VU, ______ is",
+  "options": [
+   "XS",
+   "YT",
+   "XT",
+   "VVV"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) XT.**\n\n- **1st letters:** D, J, O, S, V → +6, +5, +4, +3 → +2 = **X**\n- **2nd letters:** Y, X, W, V, U → **T**",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q26",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The reasoning which would be helpful in seeking new knowledge of facts about the world is",
+  "options": [
+   "Inductive",
+   "Speculative",
+   "Deductive",
+   "Demonstrative"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Inductive.**\n\nInduction generalises from observation, so it **extends** knowledge to new facts. Deduction only makes explicit what the premises already contain.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q27",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "The challenging behaviours of students as related to communication are",
+  "items": [
+   "Purposive challenges",
+   "Critical challenges",
+   "Procedural challenges",
+   "Evaluation challenges",
+   "Practicality challenges",
+   "Power challenges"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(iii), (iv), (v) and (vi)",
+   "(ii), (iii), (iv) and (vi)",
+   "(i), (ii), (iii) and (iv)",
+   "(iv), (v), (vi) and (i)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (iii), (iv), (v) and (vi).**\n\nSimonds' study of challenge behaviour in the college classroom (1997) sorts student challenges to teachers into four kinds:\n\n- **evaluation**: disputing grades\n- **procedural**: questioning class rules\n- **practicality**: \"why do we need this?\"\n- **power**: contesting the teacher's authority\n\n\"Purposive\" and \"critical\" challenges are not in the scheme.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q28",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Among the following statements, two are contradictory to each other. Select the code that represents them:",
+  "items": [
+   "All men are humans.",
+   "Some men are humans.",
+   "Some men are not humans.",
+   "No men are humans."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i) and (iii)",
+   "(ii) and (iii)",
+   "(i) and (ii)",
+   "(i) and (iv)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i) and (iii).**\n\n\"All men are humans\" (**A**) and \"Some men are not humans\" (**O**) are contradictories. (ii) and (iv), the I–E pair, would also be contradictories, but they are not offered. (i) and (iv) are contraries.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q29",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two premises with four conclusions drawn from them (taking singly or together). Which of the following conclusions could be validly drawn from the premises?",
+  "items": [
+   "Birds are not animals.",
+   "Cats are not birds.",
+   "All animals are cats.",
+   "Some animals are cats."
+  ],
+  "item_style": "roman",
+  "prompt": "Premises: (A) All cats are animals. (B) Birds are not cats. Select the correct answer from the code given below.",
+  "options": [
+   "(i) and (iii)",
+   "(ii), (iii) and (iv)",
+   "(ii) and (iv)",
+   "(i), (ii) and (iv)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (ii) and (iv)** (worked out; the book's key gives (4), which also includes (i)).\n\n- **(ii)** \"Cats are not birds\" is the simple converse of (B), and E propositions convert validly.\n- **(iv)** \"Some animals are cats\" converts (A) by limitation.\n- **(i)** \"Birds are not animals\" commits **illicit major**: \"animals\" is undistributed in (A) but distributed in the conclusion. Birds could be animals that are not cats, as they are.\n- **(iii)** converts an A proposition simply, which is invalid.\n\nThe book's key (4) cannot be right, because it accepts the invalid (i).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q30",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Inductive argument proceeds from",
+  "options": [
+   "Particulars to Universal.",
+   "Particulars to Particulars.",
+   "Universals to Particulars.",
+   "Universals to Universals."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Particulars to universal.**\n\nThe traditional definition of induction is reasoning from observed particular cases to a general law. Modern logicians note that induction can also go from particulars to particulars (analogy), but the standard answer is (1).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q31",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the difference between the number of failed students in Science and the number of students passed in Social Studies?",
+  "passage": "Study the table given above carefully. It shows the number of students appeared, passed and failed in five subjects. The full marks in each subject is also given. Some of the cells have missing data. You might need to determine some of the missing data to answer the questions below.",
+  "table": {
+   "title": "Students appeared, passed and failed in five subjects (– = missing data)",
+   "columns": [
+    "Subject",
+    "Total appeared",
+    "Passed",
+    "Failed",
+    "Full marks"
+   ],
+   "rows": [
+    [
+     "English",
+     "600",
+     "–",
+     "36",
+     "600"
+    ],
+    [
+     "Mathematics",
+     "–",
+     "240",
+     "60",
+     "–"
+    ],
+    [
+     "Science",
+     "300",
+     "216",
+     "–",
+     "400"
+    ],
+    [
+     "Social Studies",
+     "360",
+     "–",
+     "48",
+     "400"
+    ],
+    [
+     "Computer",
+     "–",
+     "168",
+     "32",
+     "400"
+    ]
+   ]
+  },
+  "options": [
+   "238",
+   "218",
+   "228",
+   "312"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 228.** Science failed = 300 − 216 = 84; Social Studies passed = 360 − 48 = 312; 312 − 84 = 228.\n\n**Filling the gaps** (appeared = passed + failed): English passed 564; Mathematics appeared 300; Science failed 84; Social Studies passed 312; Computer appeared 200.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q32",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which of the following could be the full marks in Mathematics if the pass marks in Mathematics was 35% and the person who just passed scored 70?",
+  "passage": "Study the table given above carefully. It shows the number of students appeared, passed and failed in five subjects. The full marks in each subject is also given. Some of the cells have missing data. You might need to determine some of the missing data to answer the questions below.",
+  "table": {
+   "title": "Students appeared, passed and failed in five subjects (– = missing data)",
+   "columns": [
+    "Subject",
+    "Total appeared",
+    "Passed",
+    "Failed",
+    "Full marks"
+   ],
+   "rows": [
+    [
+     "English",
+     "600",
+     "–",
+     "36",
+     "600"
+    ],
+    [
+     "Mathematics",
+     "–",
+     "240",
+     "60",
+     "–"
+    ],
+    [
+     "Science",
+     "300",
+     "216",
+     "–",
+     "400"
+    ],
+    [
+     "Social Studies",
+     "360",
+     "–",
+     "48",
+     "400"
+    ],
+    [
+     "Computer",
+     "–",
+     "168",
+     "32",
+     "400"
+    ]
+   ]
+  },
+  "options": [
+   "400",
+   "600",
+   "500",
+   "200"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 200.** 35% of full marks = 70, so full marks = 70 ÷ 0.35 = 200.\n\n**Filling the gaps** (appeared = passed + failed): English passed 564; Mathematics appeared 300; Science failed 84; Social Studies passed 312; Computer appeared 200.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q33",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the maximum marks that a student can score in all the five subjects together? (You may use the answer of the previous question)",
+  "passage": "Study the table given above carefully. It shows the number of students appeared, passed and failed in five subjects. The full marks in each subject is also given. Some of the cells have missing data. You might need to determine some of the missing data to answer the questions below.",
+  "table": {
+   "title": "Students appeared, passed and failed in five subjects (– = missing data)",
+   "columns": [
+    "Subject",
+    "Total appeared",
+    "Passed",
+    "Failed",
+    "Full marks"
+   ],
+   "rows": [
+    [
+     "English",
+     "600",
+     "–",
+     "36",
+     "600"
+    ],
+    [
+     "Mathematics",
+     "–",
+     "240",
+     "60",
+     "–"
+    ],
+    [
+     "Science",
+     "300",
+     "216",
+     "–",
+     "400"
+    ],
+    [
+     "Social Studies",
+     "360",
+     "–",
+     "48",
+     "400"
+    ],
+    [
+     "Computer",
+     "–",
+     "168",
+     "32",
+     "400"
+    ]
+   ]
+  },
+  "options": [
+   "500",
+   "1500",
+   "1000",
+   "2000"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2000.** 600 + 200 + 400 + 400 + 400 = 2000.\n\n**Filling the gaps** (appeared = passed + failed): English passed 564; Mathematics appeared 300; Science failed 84; Social Studies passed 312; Computer appeared 200.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q34",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In which subject, was the failure percentage the least?",
+  "passage": "Study the table given above carefully. It shows the number of students appeared, passed and failed in five subjects. The full marks in each subject is also given. Some of the cells have missing data. You might need to determine some of the missing data to answer the questions below.",
+  "table": {
+   "title": "Students appeared, passed and failed in five subjects (– = missing data)",
+   "columns": [
+    "Subject",
+    "Total appeared",
+    "Passed",
+    "Failed",
+    "Full marks"
+   ],
+   "rows": [
+    [
+     "English",
+     "600",
+     "–",
+     "36",
+     "600"
+    ],
+    [
+     "Mathematics",
+     "–",
+     "240",
+     "60",
+     "–"
+    ],
+    [
+     "Science",
+     "300",
+     "216",
+     "–",
+     "400"
+    ],
+    [
+     "Social Studies",
+     "360",
+     "–",
+     "48",
+     "400"
+    ],
+    [
+     "Computer",
+     "–",
+     "168",
+     "32",
+     "400"
+    ]
+   ]
+  },
+  "options": [
+   "Mathematics",
+   "Social Studies",
+   "Science",
+   "English"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) English.** Failure rates: English 36/600 = **6%**, Mathematics 20%, Science 28%, Social Studies 13.3%, Computer 16%.\n\n**Filling the gaps** (appeared = passed + failed): English passed 564; Mathematics appeared 300; Science failed 84; Social Studies passed 312; Computer appeared 200.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q35",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "What is the approximate difference in percentage between the pass % in Social Studies and the pass % in Mathematics?",
+  "passage": "Study the table given above carefully. It shows the number of students appeared, passed and failed in five subjects. The full marks in each subject is also given. Some of the cells have missing data. You might need to determine some of the missing data to answer the questions below.",
+  "table": {
+   "title": "Students appeared, passed and failed in five subjects (– = missing data)",
+   "columns": [
+    "Subject",
+    "Total appeared",
+    "Passed",
+    "Failed",
+    "Full marks"
+   ],
+   "rows": [
+    [
+     "English",
+     "600",
+     "–",
+     "36",
+     "600"
+    ],
+    [
+     "Mathematics",
+     "–",
+     "240",
+     "60",
+     "–"
+    ],
+    [
+     "Science",
+     "300",
+     "216",
+     "–",
+     "400"
+    ],
+    [
+     "Social Studies",
+     "360",
+     "–",
+     "48",
+     "400"
+    ],
+    [
+     "Computer",
+     "–",
+     "168",
+     "32",
+     "400"
+    ]
+   ]
+  },
+  "options": [
+   "6.5%",
+   "26.5%",
+   "2.5%",
+   "16.5%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 6.5%.** Social Studies 312/360 = 86.7%; Mathematics 240/300 = 80%; the difference is 6.7 points, closest to 6.5%.\n\n**Filling the gaps** (appeared = passed + failed): English passed 564; Mathematics appeared 300; Science failed 84; Social Studies passed 312; Computer appeared 200.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q36",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "DNS stands for",
+  "options": [
+   "Domain Name Standard",
+   "Domain Name System",
+   "Distributed Name System",
+   "Dynamic Name Standard"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Domain Name System.**\n\nDNS is the internet's directory: it translates names such as `ugc.gov.in` into the numeric IP addresses computers use.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q37",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "University and University-level institutions are categorized into",
+  "items": [
+   "Central Universities",
+   "State Universities",
+   "Private Universities",
+   "Deemed-to-be Universities",
+   "Institutions of Higher Learning",
+   "Civil Sector Institutions"
+  ],
+  "item_style": "roman",
+  "options": [
+   "(i), (ii), (iii) and (iv)",
+   "(ii), (iv), (v) and (vi)",
+   "(iii), (iv), (v) and (i)",
+   "(i), (iii), (v) and (vi)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i), (ii), (iii) and (iv).**\n\nThe UGC's categories of universities are **central**, **state**, **state private** and **deemed-to-be** universities. Institutions of National Importance form a further university-level group. \"Institutions of higher learning\" and \"civil sector institutions\" are not categories.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q38",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The Council of Rural Institutes Authority is situated at",
+  "options": [
+   "Pune",
+   "Hyderabad",
+   "Ahmedabad",
+   "Ludhiana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Hyderabad.**\n\nThe Mahatma Gandhi National Council of Rural Education (MGNCRE), set up by the Ministry of Human Resource Development to promote rural higher education and institutes, is at Hyderabad.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q39",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The first Open University established in India is at",
+  "options": [
+   "Bhim Rao Ambedkar Open University, Hyderabad.",
+   "Tamil Nadu Open University, Chennai.",
+   "Nalanda Open University, Patna.",
+   "Yashwantrao Chavan Maharashtra Open University, Nasik."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Dr B. R. Ambedkar Open University, Hyderabad.**\n\nIt was founded in 1982 as Andhra Pradesh Open University, India's first open university. IGNOU, the national one, followed in 1985.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q40",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "In 1948, under whose Chairmanship a University Education Commission was set up to reconstruct University Education in India?",
+  "options": [
+   "Sardar Vallabh Bhai Patel",
+   "Dr. Vikram Sarabhai",
+   "Prof. P. C. Joshi",
+   "Dr. S. Radhakrishnan"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Dr S. Radhakrishnan.**\n\nThe University Education Commission (1948–49) was independent India's first education commission. It recommended the creation of the UGC, which came into being in 1953 and gained statutory status in 1956.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q41",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'e-Pathshala' is an initiative by",
+  "options": [
+   "NCERT",
+   "UGC",
+   "CBSE",
+   "NCTE"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) NCERT.**\n\ne-Pathshala (2015, with the Ministry of Human Resource Development) puts NCERT textbooks and e-resources online and on mobile apps. The UGC's counterpart for postgraduate content is e-PG Pathshala.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q42",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The biggest hindrance in using biomass as a major energy source is",
+  "options": [
+   "Energy yield of low level.",
+   "Large amount of land required to grow energy crops.",
+   "Technology not well developed for commercialization.",
+   "Air pollution due to combustion."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Large amount of land required to grow energy crops.**\n\nPhotosynthesis captures only about 1% of sunlight. Biomass on a large scale would therefore need huge areas of land, competing with food crops and forests. That limits it more than technology or emissions do.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q43",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "A terabyte is equal to",
+  "options": [
+   "1024 Megabytes",
+   "1024 Kilobytes",
+   "1024 Gigabytes",
+   "1024 × 1024 Kilobytes"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 1024 gigabytes.**\n\n1 TB = 1024 GB = 1024² MB = 1024³ KB. Option (4), 1024 × 1024 KB, is one gigabyte.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q44",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "An earthquake is rated as 'major' if its magnitude in Richter Scale is in the range of",
+  "options": [
+   "4.0–4.9",
+   "6.0–6.9",
+   "7.0–7.9",
+   "5.0–5.9"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 7.0–7.9.**\n\nThe USGS magnitude classes: light 4.0–4.9, moderate 5.0–5.9, strong 6.0–6.9, **major 7.0–7.9**, great 8.0 and above. Each whole step releases about 32 times more energy.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q46",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Plants suitable for bio monitoring of sulphur dioxide pollution are",
+  "options": [
+   "Tomato and lettuce.",
+   "Apricot, peach and gladiolus.",
+   "Tobacco, grapes and garden bean.",
+   "White pine, moss and lichens."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) White pine, moss and lichens.**\n\nLichens and mosses absorb everything from air and rain and have no protective cuticle, so they die off where SO₂ is high. They are the classic SO₂ indicators, and white pine is also SO₂-sensitive.\n\n- Gladiolus, apricot and peach indicate **fluoride**.\n- Tobacco (the Bel-W3 variety), grapes and beans indicate **ozone**.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q47",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "The full form of PDF is",
+  "options": [
+   "Portable Data format",
+   "Portable Document Form",
+   "Portable Document Format",
+   "Portable Data Form"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Portable Document Format.**\n\nAdobe created PDF (1993) so that a document looks the same on any device or operating system. It became an open ISO standard in 2008.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q48",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "statements",
+  "question_text": "Which of the given statements are true?",
+  "items": [
+   "Modem is a networking device.",
+   "Modem is a voltage stabilizer.",
+   "Modem converts analogue signal to digital signal and vice versa."
+  ],
+  "item_style": "roman",
+  "options": [
+   "(ii) and (iii)",
+   "(i) and (iii)",
+   "(i) and (ii)",
+   "(i), (ii) and (iii)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i) and (iii).**\n\nA **modem** (modulator–demodulator) is a networking device. It converts the computer's digital signals to analogue for the line, and back again. It has nothing to do with stabilising voltage.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q49",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "Which among the following industries, consumes maximum water in India?",
+  "options": [
+   "Engineering",
+   "Textiles",
+   "Thermal power plants",
+   "Paper and pulp"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Thermal power plants.**\n\nThermal power stations account for the large majority of industrial water withdrawal in India, commonly put at about 85–90%. They draw it mainly for cooling.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ },
+ {
+  "id": "P1-2018DEC-B-Q50",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (set B)",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018 (NTA, computer-based, several shifts, 18–22 December 2018), Paper 1: 50 compulsory questions. The book prints two December 2018 sets without naming their shifts, and heads this one \"Paper 2\"; it is the second Paper 1 set (\"set B\"). Transcribed from the solved papers in K. V. S. Madaan, NTA UGC NET/SET/JRF Paper 1: Teaching and Research Aptitude (Pearson, 3rd edition, 2019), which is in your Google Drive (shared folder \"My book's\" → \"UGC NET paper 1 book's\": English Paper1 reference book 1.pdf). Question numbers follow the book, which may use a different booklet series from yours. Answers were worked out independently and checked against the book's key. Q45 is left out as flawed: −23 cannot be written in five-bit two's complement, the only length the options use. In Q29 the book's key includes a conclusion that does not follow; the logically valid option is used and marked unverified."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "Choose the correct answer.",
+  "assertion": "Climate change is going to increase social tension in India.",
+  "reason": "The frequency and intensity of the extreme weather events will have serious consequences for food security.",
+  "options": [
+   "(A) is false, but (R) is true.",
+   "Both (A) and (R) are true, and (R) is not the correct explanation of (A).",
+   "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+   "(A) is true, but (R) is false."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Both are true, and (R) is the correct explanation of (A).**\n\nMore frequent and intense droughts, floods and heatwaves threaten harvests. Food insecurity then drives price rises, migration and competition for water and land, which is how climate change raises social tension. (R) supplies the mechanism behind (A).\n\nNote that the options here are printed in a different order from the usual one.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "source_ids": [
+   "madaan-2019-paper1"
+  ]
+ }
+]
