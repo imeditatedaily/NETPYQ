@@ -1,0 +1,2932 @@
+[
+ {
+  "id": "YOGA-2019JUN-P2-Q01",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'योग कुण्डली उपनिषद्' में सहित कुम्भक के कितने प्रकार बताये गए हैं?",
+  "options": [
+   "दो",
+   "चार",
+   "छः",
+   "आठ"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Four.**\n\nYogakuṇḍalī 1.21: *sūryojjāyī śītalī ca bhastrī caiva caturthikā | bhedair eva samaṃ kumbho yaḥ syāt sahita-kumbhakaḥ*. The four kinds of sahita kumbhaka are sūryabhedana, ujjāyī, śītalī and bhastrikā. They are practised until kevala kumbhaka is attained.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q02",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "एक योगाभ्यासी को मिताहार करते समय उदर का कितना भाग रिक्त रखना चाहिए?",
+  "options": [
+   "एक-तिहाई भाग",
+   "एक-चौथाई भाग",
+   "आधा भाग",
+   "दो-तिहाई भाग"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) One quarter.**\n\n- Haṭha Pradīpikā 1.58 defines mitāhāra: *susnigdha-madhurāhāraś caturthāṃśa-vivarjitaḥ*, agreeable, sweet food leaving **a quarter** of the stomach empty.\n- Gheraṇḍa 5.22 divides it: half food, a quarter water, a quarter for air.\n\nĀyurveda (Caraka) instead leaves a third empty. Questions phrased \"according to Āyurveda\" use that figure.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika",
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q03",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित को 'भगवद्गीता' के अनुसार श्रेष्ठता की दृष्टि से क्रमबद्ध करें :",
+  "items": [
+   "अभ्यास",
+   "ज्ञान",
+   "परमेश्वर का ध्यान",
+   "सब कर्मों में फल त्याग"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a)–(c)–(b)–(d)",
+   "(a)–(b)–(c)–(d)",
+   "(a)–(d)–(b)–(c)",
+   "(b)–(c)–(d)–(a)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) a–b–c–d.**\n\nGītā 12.12: *śreyo hi jñānam abhyāsāj jñānād dhyānaṃ viśiṣyate | dhyānāt karma-phala-tyāgas tyāgāc chāntir anantaram*. Knowledge is better than practice, meditation better than knowledge, and giving up the fruits of all actions better than meditation; from that renunciation comes peace at once.\n\nIn rising order: abhyāsa, jñāna, dhyāna, karma-phala-tyāga.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q04",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "सिद्धसिद्धांत पद्धति में प्राणायाम के कितने प्रकारों का उल्लेख किया गया है?",
+  "options": [
+   "नौ",
+   "चार",
+   "आठ",
+   "छः"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Four.**\n\nIn its account of aṣṭāṅga yoga (upadeśa 2), SSP names four kinds of prāṇāyāma:\n- **recaka** (exhalation)\n- **pūraka** (inhalation)\n- **kumbhaka** (retention)\n- **saṅghaṭṭīkaraṇa** (joining the breaths)\n\nCompare its three āsanas and nine cakras, which are asked in other papers.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q05",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "महर्षि पतंजलि ने 'प्रच्छर्दनविधारणाभ्याम् वा प्राणस्य' सूत्र में किसका उपाय बताया है?",
+  "options": [
+   "चित्तस्थिरता",
+   "चित्तशुद्धि",
+   "समाधि",
+   "ईश्वरप्राप्ति"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Purity/clarity of the mind (citta-prasādana).**\n\nYS 1.34 is joined by *vā* (\"or\") to 1.33, which ends *citta-prasādanam*. Exhaling and holding the breath is another means to the same clear, calm mind.\n\nSūtras 1.35 onward then give the means of steadiness (*sthiti*). The four attitudes of 1.33 and this breath method are its alternatives.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q06",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'नादबिन्दु' उपनिषद् के अनुसार ओंकार की कितनी मात्राएँ बताई गई हैं?",
+  "options": [
+   "तीन",
+   "पाँच",
+   "बारह",
+   "पन्द्रह"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Twelve.**\n\nThe Nādabindu names twelve mātrās of Oṃ, from ghoṣiṇī to brāhmī, and says what becomes of a yogī who dies in each. The more common scheme of three and a half mātrās (a, u, m and the half) belongs to its opening verses and the Māṇḍūkya.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Nadabindu Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q07",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "घेरण्डसंहिता के अनुसार बहिष्कृत धौति किसका प्रकार है?",
+  "options": [
+   "मूलशोधन",
+   "दन्तधौति",
+   "अन्तधौति",
+   "हृदधौति"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Antar-dhauti.**\n\nGheraṇḍa 1.14: antar-dhauti has four kinds: vātasāra, vārisāra, vahnisāra and **bahiṣkṛta**. In bahiṣkṛta, air drawn in by kākī mudrā is held in the stomach and then expelled downward, and the rectum is washed standing in navel-deep water.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q08",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'हठप्रदीपिका' के अनुसार लय का लक्षण क्या है?",
+  "options": [
+   "विषय में प्रवृत्ति",
+   "विषय में गहन प्रतिष्ठा",
+   "विषय में तल्लीन होना",
+   "विषय विस्मृति"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Forgetting of objects.**\n\nHaṭha Pradīpikā 4.34: *layo laya iti prāhuḥ kīdṛśaṃ laya-lakṣaṇam | apunar-vāsanotthānāl layo viṣaya-vismṛtiḥ*. People say \"laya, laya\", but what is its mark? When latent impressions no longer rise, laya is the **forgetting of the objects** of the senses.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q09",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "समाधि प्राप्ति में सिद्धियाँ विघ्न हैं।",
+  "reason": "देवताओं के आमंत्रण पर भी योगी को साधना छोड़कर भोगों की ओर आसक्त नहीं होना चाहिए।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सही है, परन्तु (R) गलत है",
+   "(A) गलत है, परन्तु (R) सही है"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both true, but (R) does not explain (A)** (provisional).\n\n- (A) is YS 3.37: *te samādhāv upasargā vyutthāne siddhayaḥ*. The powers are obstacles to samādhi, though they count as achievements in the outward-turned mind.\n- (R) is YS 3.51: *sthāny-upanimantraṇe saṅga-smayākaraṇaṃ punar aniṣṭa-prasaṅgāt*. When the celestials invite him, the yogī should feel neither attachment nor pride, because that would bring back what is undesirable.\n\nR is a separate instruction, not the reason for A. Keys vary on whether it explains A, so treat this as provisional.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q10",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "योगसूत्रानुसार 'चित्त परिणामों' का कौन सा क्रम सही है?",
+  "options": [
+   "निरोध, एकाग्रता एवं समाधि",
+   "समाधि, निरोध एवं एकाग्रता",
+   "एकाग्रता, समाधि एवं निरोध",
+   "निरोध, समाधि एवं एकाग्रता"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Nirodha, samādhi, ekāgratā.**\n\nVibhūti pāda treats the three transformations in this order:\n1. **nirodha-pariṇāma** (3.9–10)\n2. **samādhi-pariṇāma** (3.11)\n3. **ekāgratā-pariṇāma** (3.12)",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q11",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (रोग)",
+    "items": [
+     "पेप्टिक अल्सर",
+     "डिस्क प्रोलैप्स",
+     "अवसाद",
+     "उच्च रक्त चाप"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (निषिद्ध योगाभ्यास)",
+    "items": [
+     "कपालभाति",
+     "शशांकासन",
+     "वस्त्र धौति",
+     "शवासन"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(iii); (b)–(ii); (c)–(iv); (d)–(i)",
+   "(a)–(iii); (b)–(i); (c)–(ii); (d)–(iv)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)",
+   "(a)–(i); (b)–(ii); (c)–(iv); (d)–(iii)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) a-iii, b-ii, c-iv, d-i.**\n\nContraindicated practices:\n- **Peptic ulcer** → **vastra dhauti**: a cloth swallowed into an ulcerated stomach does harm.\n- **Disc prolapse** → **śaśāṅkāsana**: a forward bend raises pressure on the disc.\n- **Depression** → **śavāsana**: long passive relaxation can deepen withdrawal; dynamic practice comes first.\n- **High blood pressure** → **kapālabhāti**: forceful breathing raises blood pressure.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "source_ids": [
+   "mondal-2025-yoga-trials"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q12",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'भगवद्गीता' के अनुसार ध्यान में बैठने की व्यवस्था में प्रयुक्त होने वाली सामग्रियों का क्रम है",
+  "options": [
+   "चर्म, कपड़ा, कुशाघास",
+   "कपड़ा, चर्म, कुशाघास",
+   "चर्म, कुशाघास, कपड़ा",
+   "कुशाघास, चर्म, कपड़ा"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Kuśa grass, skin, cloth.**\n\nGītā 6.11: *śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ | nātyucchritaṃ nātinīcaṃ cailājina-kuśottaram*. The seat is made of kuśa grass, with a deer or tiger skin on it and a cloth on top.\n\nThe verse names them top-down (*caila, ajina, kuśa*). Laid out from the ground up, the order is kuśa, skin, cloth, which is the order the key and the question (\"arrangement\") intend.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q13",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से किसमें प्रोटीन की सर्वाधिक मात्रा होती है?",
+  "options": [
+   "सोयाबीन",
+   "मूंग",
+   "अरहर",
+   "चना"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Soybean.**\n\nSoybean has about 36–43 g of protein per 100 g, far more than other pulses: mung has about 24 g, arhar (tur) about 22 g and chana (chickpea) about 17–20 g. It is also one of the few plant proteins with all the essential amino acids.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q14",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (रोग)",
+    "items": [
+     "मधुमेह",
+     "तमकश्वास",
+     "लम्बर स्पॉन्डिलोसिस",
+     "माइग्रेन"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (श्रेष्ठ योगाभ्यास)",
+    "items": [
+     "अर्द्धमत्स्येन्द्रासन",
+     "शवासन",
+     "ताड़ासन",
+     "गोमुखासन"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(iii); (c)–(iv); (d)–(ii)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)",
+   "(a)–(iv); (b)–(i); (c)–(ii); (d)–(iii)",
+   "(a)–(i); (b)–(iv); (c)–(iii); (d)–(ii)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) a-i, b-iv, c-iii, d-ii** (provisional).\n\n- **Diabetes** → **ardha-matsyendrāsana**: the twist massages the pancreas.\n- **Asthma** → **gomukhāsana**: it opens the chest and shoulders.\n- **Lumbar spondylosis** → **tāḍāsana**: it stretches and aligns the spine without flexion.\n- **Migraine** → **śavāsana**: deep relaxation.\n\nOptions (1) and (4) differ only in swapping tāḍāsana and gomukhāsana between asthma and back pain. Gomukhāsana's chest opening is the reason it is listed for asthma.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "source_ids": [
+   "mondal-2025-yoga-trials"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q15",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "ततो द्वन्द्वानभिघातः",
+     "धारणासु च योग्यता मनसः",
+     "ततः परमावश्यतेन्द्रियाणाम्",
+     "संतोषादनुत्तमसुखलाभः",
+     "अस्तेयप्रतिष्ठायां सर्वरत्नोपस्थानम्"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "प्राणायाम",
+     "यम",
+     "नियम",
+     "आसन",
+     "प्रत्याहार"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv); (e)–(v)",
+   "(a)–(ii); (b)–(i); (c)–(iv); (d)–(v); (e)–(iii)",
+   "(a)–(iii); (b)–(ii); (c)–(i); (d)–(iv); (e)–(v)",
+   "(a)–(iv); (b)–(i); (c)–(v); (d)–(iii); (e)–(ii)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) a-iv, b-i, c-v, d-iii, e-ii.**\n\n- *tato dvandvānabhighātaḥ* (2.48): the fruit of **āsana**\n- *dhāraṇāsu ca yogyatā manasaḥ* (2.53): the fruit of **prāṇāyāma**\n- *tataḥ paramā vaśyatendriyāṇām* (2.55): the fruit of **pratyāhāra**\n- *santoṣād anuttamaḥ sukhalābhaḥ* (2.42): contentment, a **niyama**\n- *asteya-pratiṣṭhāyāṃ sarva-ratnopasthānam* (2.37): non-stealing, a **yama**",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yama and niyama and their siddhis",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q16",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'तैत्तिरीयोपनिषद्' के अनुसार पंचभूत के उद्गम का सही क्रम क्या है?",
+  "options": [
+   "आकाश, अग्नि, पृथ्वी, जल, वायु",
+   "अग्नि, वायु, आकाश, जल, पृथ्वी",
+   "वायु, अग्नि, जल, आकाश, पृथ्वी",
+   "आकाश, वायु, अग्नि, जल, पृथ्वी"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Space, air, fire, water, earth.**\n\nTaittirīya 2.1: *ātmana ākāśaḥ sambhūtaḥ | ākāśād vāyuḥ | vāyor agniḥ | agner āpaḥ | adbhyaḥ pṛthivī*.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q17",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "परमेश्वर का स्वरूप व उसकी महिमा श्वेताश्वतर उपनिषद् के किस अध्याय में वर्णित नहीं है?",
+  "options": [
+   "द्वितीय अध्याय में",
+   "चतुर्थ अध्याय में",
+   "पंचम अध्याय में",
+   "षष्ठम् अध्याय में"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The second chapter.**\n\nChapter 2 of the Śvetāśvatara is the yoga chapter: posture, breath, place, the signs of progress (2.8–15). Chapters 3–6 describe the Lord (Rudra/Maheśvara), his māyā and his greatness, for example *māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaram* (4.10) and *eko devaḥ sarva-bhūteṣu gūḍhaḥ* (6.11).",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q18",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'मुण्डकोपनिषद्' के अनुसार हृदय-ग्रन्थियों के छेदन का क्या परिणाम होता है?",
+  "items": [
+   "समाधि प्राप्त होती है",
+   "सभी संशयों का निवारण करता है",
+   "सभी पूर्व कर्मों को समूल समाप्त करता है",
+   "समृद्धता प्राप्त होती है"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(c) और (d)",
+   "(a) और (d)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) b and c.**\n\nMuṇḍaka 2.2.8: *bhidyate hṛdaya-granthiś chidyante sarva-saṃśayāḥ | kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare*. When the higher and the lower are seen, the knot of the heart is cut, **all doubts are resolved** and **his karmas are destroyed**.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q19",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "प्रातिभ",
+     "श्रावण",
+     "आदर्श",
+     "वार्ता"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "दिव्य रूप देखना",
+     "सूक्ष्म वस्तु ज्ञान",
+     "दिव्य गन्ध ग्रहण",
+     "दिव्य शब्द सुनना"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv)",
+   "(a)–(iii); (b)–(i); (c)–(iv); (d)–(ii)",
+   "(a)–(ii); (b)–(iv); (c)–(i); (d)–(iii)",
+   "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) a-ii, b-iv, c-i, d-iii.**\n\nYS 3.36: *tataḥ prātibha-śrāvaṇa-vedanādarśāsvāda-vārtā jāyante*. From saṃyama on the puruṣa arise:\n- **prātibha**: intuitive knowledge of the subtle, hidden and distant\n- **śrāvaṇa**: divine hearing\n- vedana: divine touch (not listed)\n- **ādarśa**: divine sight\n- āsvāda: divine taste (not listed)\n- **vārtā**: divine smell",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q20",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "उस रोग का नाम बताइए, जिसका योग अभ्यास द्वारा प्रत्यक्ष रूप से उपचार किया जा सकता है।",
+  "options": [
+   "इश्चिमिक हार्ट डिजीज",
+   "हर्निया",
+   "डायबिटीज मेल्लीटस टाइप- I",
+   "एलर्जिक राइनाइटिस"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Allergic rhinitis.**\n\nJala-neti and sūtra-neti act directly on the nasal passages, and kapālabhāti and the breathing practices clear the airways. That is why allergic rhinitis is the standard example of a condition yoga treats directly.\n\nThe other three need medical management with yoga only as support:\n- type 1 diabetes needs insulin\n- hernia needs surgical repair\n- ischaemic heart disease needs cardiac care, though yoga-based lifestyle programmes help",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: respiratory disorders",
+  "source_ids": [
+   "mondal-2025-yoga-trials"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q21",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'घेरण्डसंहिता' में दन्तमूलधौति के लिये किस रस का प्रयोग बताया गया है?",
+  "options": [
+   "नीम रस",
+   "खदिर रस",
+   "बबूल रस",
+   "तिक्त रस"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Khadira (catechu) juice.**\n\nGheraṇḍa 1.27: *khādireṇa rasenātha mṛttikayā ca śuddhayā | mārjayed danta-mūlaṃ ca*. The roots of the teeth are rubbed with khadira juice or with clean earth. Danta-dhauti also includes cleaning the tongue root, the ears and the skull opening.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q22",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "अम्ल और लवण रस प्रधान आहार वात-शामक होता है।",
+  "reason": "अम्ल और लवण रस प्रधान आहार वातज विकारों से पीड़ित व्यक्तियों के लिए अपथ्य है।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सही है, परन्तु (R) गलत है",
+   "(A) गलत है, परन्तु (R) सही है"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) true, (R) false.**\n\n- Sour (amla) and salty (lavaṇa) tastes, with sweet, **pacify vāta**: they are warm, moist and heavy, the opposite of vāta's dry, light, cold nature. So (A) is right.\n- For that very reason such food is wholesome (*pathya*) for people with vāta disorders, not unwholesome (*apathya*). So (R) is wrong.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "bhishagratna-sushruta-samhita",
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q23",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "प्रश्नोपनिषद् के अनुसार ऋषि सत्यकाम का प्रश्न किस विषय से संबंधित है?",
+  "options": [
+   "वेद",
+   "प्राण",
+   "प्रणव",
+   "सृष्टि"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Praṇava (Oṃ).**\n\nThe fifth question: Śaibya Satyakāma asks which world is won by meditating on Oṃ until death. Pippalāda answers that Oṃ is both the higher and the lower Brahman, and describes the fruit of meditating on one, two or all three of its letters.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q24",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "प्रकाश संवेदक वर्णक नेत्र के शंकु में विद्यमान होते हैं।",
+  "reason": "तीन प्रकार के शंकु और उनके प्रकाशवर्णक के विभिन्न संयुग्मन द्वारा अलग-अलग वर्णों के संवेदक उत्पन्न नहीं होते हैं।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सही है, परन्तु (R) गलत है",
+   "(A) गलत है, परन्तु (R) सही है"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) true, (R) false.**\n\n- The cones contain light-sensitive pigments (photopsins); the rods contain rhodopsin. So (A) holds.\n- (R) denies the trichromatic theory. In fact the **three kinds of cone** (sensitive to red, green and blue) and the combinations of their signals **do** produce the perception of different colours. So (R) is false.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: eye and special senses"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q25",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "उड्डियान बंध के अभ्यास में मुख्यतः कौन सी माँसपेशियाँ प्रभावित होती हैं?",
+  "options": [
+   "उदरीय पेशियाँ",
+   "वक्षीय पेशियाँ",
+   "कन्ठीय पेशियाँ",
+   "पृष्ठवंशीय पेशियाँ"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The abdominal muscles.**\n\nIn uḍḍiyāna, after full exhalation, the abdomen is drawn in and up under the ribs by a mock inhalation. The abdominal wall and the diaphragm do the work. It tones the abdominal organs and is the basis for nauli.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q26",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "नेत्र की संवाहिका परत (वैस्कुलर कोट) निम्नलिखित में से किससे निर्मित होती है?",
+  "items": [
+   "श्वेतपटल (स्क्लेरा)",
+   "स्वच्छ मंडल (कॉर्निया)",
+   "रक्तक पटल (कोरॉयड)",
+   "परितारिका (आइरिस)"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(c) और (d)",
+   "(a) और (d)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) c and d.**\n\nThe eye has three coats:\n- the outer **fibrous** coat: sclera and cornea\n- the middle **vascular** coat (uvea): **choroid**, ciliary body and **iris**\n- the inner **nervous** coat: the retina",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: eye and special senses"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q27",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "\"नासतो विद्यते भावो ना भावो विद्यते सतः। उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।\" 'गीता' के अनुसार यह श्लोक किसके अमरत्व के बारे में कहता है?",
+  "options": [
+   "प्रकृति",
+   "आत्मा",
+   "शरीर",
+   "ईश्वर"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) The self (ātmā).**\n\nGītā 2.16: the unreal has no being and the real never ceases to be. The seers of truth have known the nature of both. In context (2.17–21), the real that never ceases is the **ātman**, which pervades everything and cannot be destroyed, while bodies are perishable.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q28",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन से योगाभ्यास अवसाद में सकारात्मक प्रभाव नहीं डालते हैं?",
+  "items": [
+   "भस्त्रिका प्राणायाम",
+   "शवासन",
+   "कपालभाति",
+   "भ्रामरी प्राणायाम"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (d)",
+   "(b) और (c)",
+   "(a) और (d)",
+   "(a) और (c)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) b and d.**\n\nDepression is marked by low energy and withdrawal. Energising practices help, such as **bhastrikā** and **kapālabhāti**. Calming and inward practices, such as **śavāsana** and **bhrāmarī**, do not help: they suit anxiety and hypertension, and can deepen lethargy in depression.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: psychiatric disorders",
+  "source_ids": [
+   "mondal-2025-yoga-trials"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q29",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "पातञ्जल योग सूत्रानुसार सूक्ष्म, व्यवधानयुक्त एवं दूर देश में स्थित वस्तुओं की ज्ञान प्राप्ति का उपाय क्या है?",
+  "options": [
+   "विषयवती प्रवृत्ति",
+   "ज्योतिष्मती प्रवृत्ति",
+   "संस्कार साक्षात्करणात्",
+   "बन्धकारण शैथिल्यात्"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Jyotiṣmatī pravṛtti.**\n\nYS 3.25: *pravṛtty-āloka-nyāsāt sūkṣma-vyavahita-viprakṛṣṭa-jñānam*. By directing the **light** of the luminous activity (*jyotiṣmatī*, 1.36) onto an object, one knows what is subtle, hidden or distant.\n\nThe other options:\n- saṃskāra-sākṣātkaraṇa gives knowledge of past births (3.18)\n- loosening the cause of bondage lets the mind enter another body (3.38)",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q30",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन-से क्लेश हैं?",
+  "items": [
+   "स्मिता",
+   "अस्मिता",
+   "दुःख",
+   "राग"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (d)",
+   "(a) और (b)",
+   "(a) और (c)",
+   "(b) और (c)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) b and d.**\n\nYS 2.3: the five kleśas are avidyā, **asmitā**, **rāga**, dveṣa and abhiniveśa. \"Smitā\" is a distractor built on asmitā, and duḥkha is the *result* of the kleśas, not one of them.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q31",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "आत्मा किसकी अवधारणा है?",
+  "options": [
+   "वेदान्त दर्शन",
+   "सांख्य दर्शन",
+   "न्याय दर्शन",
+   "योग दर्शन"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Vedānta** (as keyed).\n\n**Ātman** is the central term of the Upaniṣads and Vedānta; *ayam ātmā brahma* identifies it with Brahman. Sāṅkhya and Yoga call the conscious principle **puruṣa**.\n\nNyāya also speaks of the ātman as a substance, but the item intends the Vedāntic concept.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "source_ids": [
+   "dasgupta-1922-history-indian-philosophy",
+   "muller-1899-six-systems"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q32",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "योगतत्वोपनिषद् के अनुसार सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (पञ्चमहाभूत)",
+    "items": [
+     "पृथ्वी",
+     "जल",
+     "अग्नि",
+     "वायु",
+     "आकाश"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (आराध्य देव)",
+    "items": [
+     "भगवान रुद्र",
+     "विश्वतोमुख",
+     "चतुर्भुज नारायण",
+     "सदाशिव",
+     "चतुर्भुज चतुर्मुख ब्रह्मा"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(v); (e)–(iv)",
+   "(a)–(v); (b)–(iii); (c)–(i); (d)–(ii); (e)–(iv)",
+   "(a)–(ii); (b)–(iv); (c)–(v); (d)–(i); (e)–(iii)",
+   "(a)–(iv); (b)–(ii); (c)–(v); (d)–(iii); (e)–(i)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) a-v, b-iii, c-i, d-ii, e-iv.**\n\nIn the Yogatattva's five dhāraṇās, each element is held with its deity:\n- earth: four-faced, four-armed **Brahmā**\n- water: four-armed **Nārāyaṇa**\n- fire: **Rudra**\n- air: **Īśvara**, facing everywhere (*viśvatomukha*)\n- space: **Sadāśiva**\n\nEach dhāraṇā is held for five ghaṭikās.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q33",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "दुर्भीति (Phobia) कौन सा विकार है?",
+  "options": [
+   "सामान्य चिंता विकार",
+   "नींद की अधिकता एवं कमी",
+   "पाचन विकार",
+   "शारीरिक विकार"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) An anxiety disorder.**\n\nA phobia is an intense, irrational fear of a specific object or situation, and it belongs to the **anxiety disorders** (DSM/ICD). Generalised anxiety disorder is a different anxiety disorder, but among these options only (1) names the right family.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: mental health and disorders"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q34",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन सी कलाई की अस्थियाँ हैं?",
+  "items": [
+   "स्थूण (इन्कस)",
+   "अर्द्धचंद्राकार (लूनेट)",
+   "समुंड (कैपिटेट)",
+   "रकाब (स्टेपीज़)"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (d)",
+   "(a) और (b)",
+   "(c) और (d)",
+   "(b) और (c)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) b and c.**\n\nThe **lunate** and **capitate** are two of the eight carpal bones:\n- proximal row: scaphoid, lunate, triquetrum, pisiform\n- distal row: trapezium, trapezoid, capitate, hamate\n\nThe **incus** and **stapes** are ear ossicles.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q35",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "मंद और गुरु गुणयुक्त आहार किस प्रकृति के व्यक्तियों के लिए निषिद्ध हैं?",
+  "options": [
+   "वातज प्रकृति",
+   "पित्तज प्रकृति",
+   "कफ़ज प्रकृति",
+   "वातज-पित्तज प्रकृति"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Kapha prakṛti.**\n\nKapha is itself heavy (*guru*), slow (*manda*), cold and unctuous. Food with the same qualities increases it, so a kapha person should avoid heavy, slow-to-digest food and favour light, warm, dry food.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "bhishagratna-sushruta-samhita",
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q36",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'घेरण्डसंहिता' के अनुसार नाड़ीशुद्धि के प्रकार हैं",
+  "items": [
+   "समनु",
+   "निर्मनु",
+   "सगर्भ",
+   "निगर्भ"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(a) और (c)",
+   "(b) और (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) a and b.**\n\nGheraṇḍa 5.36: *nāḍī-śuddhir dvidhā proktā samanur nirmanus tathā | bījena samanuṃ kuryān nirmanuṃ dhauti-karmaṇā*. Nāḍī purification is of two kinds:\n- **samanu**, done with seed-mantras\n- **nirmanu**, done by the cleansing kriyās\n\nSagarbha and nigarbha are the two kinds of **sahita kumbhaka** (5.47), which is the trap.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q37",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'हठप्रदीपिका' के अनुसार कुलवधू किसे कहा गया है?",
+  "options": [
+   "खेचरीमुद्रा",
+   "शाम्भवी मुद्रा",
+   "महामुद्रा",
+   "शक्तिचालिनी मुद्रा"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Śāmbhavī mudrā.**\n\nHaṭha Pradīpikā 4.35: *veda-śāstra-purāṇāni sāmānya-gaṇikā iva | ekaiva śāmbhavī mudrā guptā kula-vadhūr iva*. The Vedas, śāstras and purāṇas are like common courtesans, open to all. Śāmbhavī mudrā alone is guarded like a woman of a noble family.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q38",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "ग्लूकोजेनेसिस की प्रक्रिया में निम्नलिखित में से किन से ग्लूकोज का निर्माण होता है?",
+  "items": [
+   "कार्बोहाइड्रेट",
+   "एमिनो अम्ल",
+   "वसीय अम्ल",
+   "विटामिन"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (d)",
+   "(a) और (b)",
+   "(a) और (c)",
+   "(b) और (c)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) b and c** (as keyed).\n\nGluconeogenesis makes glucose from **non-carbohydrate** sources, mainly in the liver: glucogenic amino acids, lactate and glycerol.\n\nStrictly, even-chain **fatty acids** cannot be turned into glucose in humans; the **glycerol** from fat can. The key reads \"fatty acids\" as fat-derived glycerol. Carbohydrates are excluded by definition, and vitamins supply no carbon.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: energy and metabolism"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q39",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'श्रीमद्भगवदगीता' के अनुसार योग शब्द के अर्थ हैं",
+  "items": [
+   "समाधि",
+   "कर्मसुकौशलम्",
+   "जीव-परमात्मा योग",
+   "समत्व भाव"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (d)",
+   "(b) और (d)",
+   "(a) और (b)",
+   "(c) और (b)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) b and d.**\n\nThe Gītā's definitions:\n- *yogaḥ karmasu kauśalam* (2.50): yoga is **skill in action**\n- *samatvaṃ yoga ucyate* (2.48): yoga is **equanimity**\n\n\"Yoga is samādhi\" is Vyāsa's gloss on YS 1.1, and \"union of jīva and paramātmā\" comes from the Yoga Yājñavalkya.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Etymology and definitions of Yoga",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q40",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'योगराज' उपनिषद् के अनुसार षष्ठम् चक्र है",
+  "options": [
+   "आज्ञा चक्र",
+   "भ्रू चक्र",
+   "ब्रह्म चक्र",
+   "तालुका चक्र"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) The tālu (palate) cakra.**\n\nThe Yogarāja follows the nine-cakra scheme of the Siddha Siddhānta Paddhati:\n1. brahma\n2. svādhiṣṭhāna\n3. nābhi\n4. hṛdaya\n5. kaṇṭha\n6. **tālu**\n7. bhrū\n8. brahmarandhra\n9. vyoma\n\nThe sixth is tālu. \"Ājñā\" is the sixth only in the six-cakra scheme, which is the trap.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogaraja Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q41",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "नारद एक भक्ति योगी हैं जो परम भक्ति के पक्षधर हैं जो आत्मसाक्षात्कार कराती है।",
+  "reason": "कबीर, मीराबाई, तुलसीदास और सूरदास ने भक्ति योग को अपनाया।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सही है, परन्तु (R) गलत है",
+   "(A) गलत है, परन्तु (R) सही है"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both true, but (R) does not explain (A).**\n\n- Nārada's Bhakti Sūtra teaches *parā bhakti*, supreme love (sūtra 2), which fulfils the devotee (4–6).\n- Kabīr, Mīrābāī, Tulasīdāsa and Sūradāsa did follow the path of bhakti.\n\nBut the practice of later saints does not explain Nārada's teaching.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Narada Bhakti Sutra"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q42",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'भगवद्गीता' के अनुसार रजोगुण का क्या परिणाम होता है?",
+  "options": [
+   "लोभ",
+   "मोह",
+   "काम",
+   "मद"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Lobha (greed).**\n\nGītā 14.17: *sattvāt sañjāyate jñānaṃ rajaso lobha eva ca | pramāda-mohau tamaso*. From sattva comes knowledge, from **rajas greed**, and from tamas heedlessness and delusion (*moha*, option 2). Also 14.12: *lobhaḥ pravṛttir ārambhaḥ … rajasy etāni jāyante*.\n\nGītā 3.37 also says desire (*kāma*) is born of rajas, so option (3) is defensible. But lobha is the word 14.17 names.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q43",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "ध्यान की शिक्षण-पद्धति के लिए शांत वातावरण उत्पन्न करना आवश्यक है ताकि ध्यानात्मक मनःस्थिति उत्पन्न हो सके।",
+  "reason": "समस्त योगाभ्यास ध्यानात्मक मनःस्थिति के निर्माण में योगदान करते हैं।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सही है, परन्तु (R) गलत है",
+   "(A) गलत है, परन्तु (R) सही है"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both true, but (R) does not explain (A).**\n\n- A calm environment is needed to teach meditation, so that a meditative state can arise.\n- All yoga practices prepare the mind for meditation.\n\nBut the second statement does not explain the need for a quiet teaching environment.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q44",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (अस्थि)",
+    "items": [
+     "मैलियस",
+     "मैक्सिला",
+     "स्केफॉयड",
+     "स्टर्नम"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (स्थान)",
+    "items": [
+     "कलाई",
+     "ऊपरी जबड़ा",
+     "कर्ण",
+     "वक्ष"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iv); (d)–(iii)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)",
+   "(a)–(iii); (b)–(ii); (c)–(i); (d)–(iv)",
+   "(a)–(ii); (b)–(iv); (c)–(iii); (d)–(i)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) a-iii, b-ii, c-i, d-iv.**\n\n- the **malleus** is an ear ossicle\n- the **maxilla** is the upper jaw\n- the **scaphoid** is a carpal bone of the wrist\n- the **sternum** is the breastbone of the chest",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q45",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'हठप्रदीपिका' के अनुसार महाक्लेश एवं मृत्यु का भय निम्न में से किस मुद्रा के अभ्यास से दूर होता है?",
+  "options": [
+   "महामुद्रा",
+   "महावेध मुद्रा",
+   "महाबन्ध मुद्रा",
+   "खेचरी मुद्रा"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Mahāmudrā.**\n\nHaṭha Pradīpikā 3.14: *mahākleśādayo doṣāḥ kṣīyante maraṇādayaḥ | mahāmudrāṃ ca tenaiva vadanti vibudhottamāḥ*. Because it destroys the great afflictions and death, the wise call it **mahā**mudrā.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q46",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'भगवद्गीता' के अनुसार 'सर्वभूतहितेरताः' किस योगी के लक्षण हैं?",
+  "options": [
+   "सांख्य योगी",
+   "ज्ञान योगी",
+   "भक्ति योगी",
+   "कर्म योगी"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bhakti yogī** (provisional).\n\nThe phrase occurs twice:\n- in **12.4**, in the Bhakti-yoga chapter, about those who worship the imperishable\n- in **5.25**, about sages who attain brahma-nirvāṇa\n\nThe published key reads it as a mark of the bhakti yogī, from chapter 12. Since 12.4 speaks of worshippers of the unmanifest, \"jñāna yogī\" (option 2) is also defensible. Treat as provisional.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q47",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "कफ़ दोष में किन महाभूतों की प्रधानता होती है :",
+  "items": [
+   "वायु महाभूत",
+   "जल महाभूत",
+   "पृथ्वी महाभूत",
+   "आकाश महाभूत"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (b)",
+   "(b) और (d)",
+   "(b) और (c)",
+   "(a) और (d)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) b and c.**\n\nThe doṣas are built from pairs of elements:\n- **kapha**: water and earth\n- pitta: fire and water\n- vāta: air and space\n\nThis is why kapha is heavy, stable and moist.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "bhishagratna-sushruta-samhita",
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q50",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित को क्रमानुसार व्यवस्थित कीजिए :",
+  "items": [
+   "मूत्रवाहिनी (यूरेटर)",
+   "वृक्क (किडनी)",
+   "मूत्राशय (यूरीनरी ब्लैडर)",
+   "मूत्रमार्ग (यूरेथ्रा)"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b)–(a)–(c)–(d)",
+   "(a)–(b)–(d)–(c)",
+   "(b)–(a)–(d)–(c)",
+   "(b)–(c)–(a)–(d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) b–a–c–d.**\n\nUrine flows from the **kidney** through the **ureter** to the **urinary bladder**, and out through the **urethra**.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: excretory system"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q51",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "बौद्ध दर्शन के अनुसार 'सम्यक् व्यायाम' का आशय है :",
+  "options": [
+   "वाक् शुद्धि",
+   "कर्म शुद्धि",
+   "आजीविका शुद्धि",
+   "विचार शुद्धि"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Purification of thought.**\n\n**Right effort** (*samyak vyāyāma*), the sixth step, is the fourfold effort of the mind:\n- prevent unwholesome states from arising\n- abandon those that have arisen\n- develop wholesome states\n- maintain them\n\nIt is mental work. Right speech, action and livelihood are the 3rd, 4th and 5th steps.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q52",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से किन आसनों का 'शिव संहिता' में वर्णन किया गया है?",
+  "items": [
+   "सिद्धासन",
+   "पद्मासन",
+   "स्वस्तिकासन",
+   "भद्रासन"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b), (c) और (d)",
+   "(a), (b) और (c)",
+   "(d), (a) और (b)",
+   "(c), (a) और (d)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) a, b and c.**\n\nThe Śiva Saṃhitā (chapter 3) describes four āsanas: **siddha, padma**, ugra (paścimottāna) and **svastika**. Bhadrāsana is in the Haṭha Pradīpikā and Gheraṇḍa, not here. The next item on this paper asks the reverse.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q53",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "व्याधि चित्तविक्षेप के साथ प्रकट होती है।",
+  "reason": "चित्तविक्षेप त्रिदोष में वैषम्य उत्पन्न करता है।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा संबंधित हैं",
+   "(A) और (R) दोनों सही हैं तथा संबंधित नहीं हैं",
+   "(A) गलत है, परन्तु (R) सही है",
+   "(A) सही है, परन्तु (R) गलत है"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true and related.**\n\n- (A): vyādhi (disease) is the first of the obstacles that distract the mind (YS 1.30). Vyāsa glosses it as *dhātu-rasa-karaṇa-vaiṣamyam*, an imbalance of the humours, the fluids and the organs.\n- (R): the link runs both ways in the yoga-therapy reading. A distracted mind disturbs the doṣas, as the Yoga Vāsiṣṭha's ādhi–vyādhi teaching explains.\n\nSo both statements hold, and they are related.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Causes of ill health: kleshas and antarayas",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q54",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं, जिनमें से एक अभिकथन (A) और दूसरा तर्क (R) है :",
+  "assertion": "योगाभ्यासों का स्थान शांत होना चाहिए।",
+  "reason": "योगाभ्यास शांत स्थान पर शरीर और मन को शिथिल करने के उद्देश्य से रिक्त उदर पर किए जाने चाहिए।",
+  "prompt": "उपर्युक्त दोनों कथनों के संदर्भ में निम्नलिखित में से सही विकल्प चुनिए :",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है",
+   "(A) सही है, परन्तु (R) गलत है",
+   "(A) गलत है, परन्तु (R) सही है"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and (R) explains (A)** (as keyed).\n\nA quiet place is needed because the aim of practice is to relax body and mind. R adds the empty stomach, but its point, relaxation in a quiet place, is the reason A gives. The published key reads it this way.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q55",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "महर्षि 'पतञ्जलि' के अनुसार यम-नियमों के अनुष्ठान में उत्पन्न बाधा को दूर करने का उपाय निम्न में से क्या है?",
+  "options": [
+   "योगाभ्यास",
+   "प्रतिपक्ष भावना",
+   "प्रत्याहार",
+   "संयम"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Pratipakṣa-bhāvanā.**\n\nYS 2.33: *vitarka-bādhane pratipakṣa-bhāvanam*. When contrary thoughts (vitarkas, such as violence) obstruct the yamas and niyamas, cultivate the opposite. Sūtra 2.34 adds: reflect that such thoughts bring endless suffering and ignorance.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yama and niyama and their siddhis",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q56",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से क्या-क्या सूक्ष्म पोषक तत्त्व हैं?",
+  "items": [
+   "वसा",
+   "विटामिन",
+   "खनिज लवण",
+   "प्रोटीन"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (c)",
+   "(a) और (b)",
+   "(a) और (c)",
+   "(c) और (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) b and c.**\n\n**Micronutrients**, needed in milligram or microgram amounts, are the vitamins and minerals. **Macronutrients**, needed in grams, are carbohydrates, proteins and fats.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q57",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "योग सूत्रानुसार किस अवस्था में स्थित होने पर पूर्वजन्म का ज्ञान होता है?",
+  "options": [
+   "अहिंसा",
+   "अस्तेय",
+   "अपरिग्रह",
+   "स्वाध्याय"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Aparigraha.**\n\nYS 2.39: *aparigraha-sthairye janma-kathantā-sambodhaḥ*. When non-possession is firm, one knows the \"how and why\" of one's births.\n\nThe other fruits:\n- ahiṃsā: hostility ceases (2.35)\n- asteya: all jewels come (2.37)\n- svādhyāya: communion with one's chosen deity (2.44)",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yama and niyama and their siddhis",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q58",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "आप योग कक्षा के आयोजन के लिए सर्वप्रथम क्या करते हैं?",
+  "options": [
+   "परिचय",
+   "प्रदर्शन",
+   "परिवेश का निर्माण",
+   "अभ्यास का विश्लेषण"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Creating the environment.**\n\nBefore any introduction or demonstration, the teacher prepares the setting: a clean, quiet, ventilated room, the seating arrangement and a calm atmosphere. Introduction, demonstration and analysis of the practice follow in the lesson itself.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q59",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से किन आसनों का 'शिव संहिता' में उल्लेख नहीं किया गया है?",
+  "items": [
+   "सिद्धासन",
+   "उग्रासन",
+   "भद्रासन",
+   "मुक्तासन"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (b)",
+   "(b) और (c)",
+   "(c) और (d)",
+   "(a) और (d)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) c and d.**\n\nThe Śiva Saṃhitā's four āsanas are siddha, padma, **ugra** (paścimottāna) and svastika. **Bhadrāsana** and **muktāsana** are not among them.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q60",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "योग सूत्रानुसार किस पर विजय से योगी का शरीर दैदीप्यमान् हो जाता है?",
+  "options": [
+   "समान वायु",
+   "उदान वायु",
+   "प्राण वायु",
+   "अपान वायु"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Samāna.**\n\nYS 3.40: *samāna-jayāj jvalanam*. Mastery of samāna, the digestive, \"fire\" breath, makes the body blaze with radiance.\n\nCompare 3.39: mastery of **udāna** brings non-contact with water, mud and thorns, and departure at will.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q61",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "यौगिक सूक्ष्म व्यायाम",
+     "भावातीत ध्यान",
+     "सविता की ध्यान-धारणा",
+     "चक्रीय ध्यान",
+     "योग निद्रा"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "महर्षि महेश योगी",
+     "देव संस्कृति विश्वविद्यालय",
+     "स्वामी धीरेन्द्र ब्रह्मचारी",
+     "एस. व्यासा",
+     "बिहार योग विद्यालय"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv); (e)–(v)",
+   "(a)–(ii); (b)–(iii); (c)–(v); (d)–(iv); (e)–(i)",
+   "(a)–(iii); (b)–(i); (c)–(ii); (d)–(iv); (e)–(v)",
+   "(a)–(v); (b)–(iv); (c)–(i); (d)–(ii); (e)–(iii)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) a-iii, b-i, c-ii, d-iv, e-v.**\n\nThe syllabus lists these contemporary practices with their sources:\n- **yogic sūkṣma vyāyāma**: Swami Dhirendra Brahmachari\n- **transcendental meditation**: Maharishi Mahesh Yogi\n- **Savitā dhyāna-dhāraṇā**: Dev Sanskriti Vishwavidyalaya\n- **cyclic meditation**: S-VYASA\n- **yoga nidrā**: Bihar School of Yoga",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Contemporary yogic practices"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q62",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "क्लेश की निम्नलिखित अवस्थाओं को क्रम में व्यवस्थित कीजिए :",
+  "items": [
+   "तनु",
+   "उदार",
+   "प्रसुप्त",
+   "विच्छिन्न"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b)–(a)–(c)–(d)",
+   "(b)–(c)–(d)–(a)",
+   "(a)–(c)–(b)–(d)",
+   "(c)–(a)–(d)–(b)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) c–a–d–b.**\n\nYS 2.4: *avidyā kṣetram uttareṣāṃ prasupta-tanu-vicchinnodārāṇām*. Avidyā is the field of the other kleśas, whether they are:\n1. **prasupta**: dormant\n2. **tanu**: weakened\n3. **vicchinna**: interrupted\n4. **udāra**: fully active",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q63",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "व्यक्तित्व के मनोविश्लेषणात्मक सिद्धान्त के जनक कौन हैं ?",
+  "options": [
+   "फ्रायड",
+   "एडलर",
+   "जुंग",
+   "हिप्पोक्रेट्स"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Freud.**\n\nSigmund Freud founded psychoanalysis:\n- id, ego and superego\n- conscious, preconscious and unconscious\n- the psychosexual stages\n\nAdler (individual psychology) and Jung (analytical psychology) broke away from him. Hippocrates proposed the four temperaments.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q64",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 64,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "चतुर्योग (मंत्र, लय, हठ और राज) का वर्णन किया गया है :",
+  "items": [
+   "त्रिशिखिब्राह्मण उपनिषद् में",
+   "योगतत्व उपनिषद् में",
+   "योगराज उपनिषद् में",
+   "नादबिन्दु उपनिषद् में"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (d)",
+   "(b) और (d)",
+   "(c) और (d)",
+   "(b) और (c)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) b and c.**\n\nThe **Yogatattva** and **Yogarāja** Upaniṣads both teach the four yogas: mantra, laya, haṭha and rāja. The syllabus names this under both. The Triśikhibrāhmaṇa teaches aṣṭāṅga with karma and jñāna yoga, and the Nādabindu teaches Oṃkāra and nāda.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yoga Upanishads: overview",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q65",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 65,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में कौन से उपविक्षेप हैं?",
+  "items": [
+   "द्वेष",
+   "दुःख",
+   "अनवस्थितत्व",
+   "अंगमेजयत्व"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (d)",
+   "(a) और (b)",
+   "(b) और (c)",
+   "(a) और (c)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) b and d.**\n\nThe *upavikṣepas* (sahabhuvas, YS 1.31) are duḥkha, daurmanasya, aṅgamejayatva and śvāsa-praśvāsa.\n- Dveṣa is a **kleśa** (2.8).\n- Anavasthitatva is one of the nine **antarāyas** (1.30).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q66",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 66,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'घेरण्डसंहिता' के अनुसार कौन से षट्कर्म दिव्य दृष्टि प्रदान करते हैं?",
+  "items": [
+   "नेति",
+   "त्राटक",
+   "कपालभाति",
+   "लौलिकी"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (c)",
+   "(b) और (c)",
+   "(b) और (d)",
+   "(a) और (b)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) a and b.**\n\nGheraṇḍa promises divine sight (*divya-dṛṣṭi*) from two of the six:\n- **neti** (1.51: *divya-dṛṣṭi-pradāyakam*)\n- **trāṭaka** (1.54: *divya-dṛṣṭiś ca jāyate*)\n\nKapālabhāti removes kapha (1.59), and laulikī (nauli) cures abdominal disease and kindles the gastric fire (1.52).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q67",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 67,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'मुण्डकोपनिषद्' में ईश्वर के सिर की किससे तुलना की गई है?",
+  "options": [
+   "अग्नि",
+   "वेद",
+   "ज्ञान",
+   "बुद्धि"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Fire.**\n\nMuṇḍaka 2.1.4 describes the cosmic form:\n- *agnir mūrdhā*: fire (the heavenly world) is his **head**\n- *cakṣuṣī candra-sūryau*: the moon and sun are his eyes\n- *diśaḥ śrotre*: the quarters are his ears\n- *vāg vivṛtāś ca vedāḥ*: the Vedas are his speech",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q69",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 69,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "हठप्रदीपिका के अनुसार एक योगाभ्यासी के लिए कौन से आहार द्रव्य निषिद्ध हैं?",
+  "items": [
+   "तिल",
+   "यव",
+   "सर्षप",
+   "शुन्ठी"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (c)",
+   "(b) और (d)",
+   "(c) और (d)",
+   "(b) और (c)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) a and c.**\n\n- HP 1.59 lists among the unwholesome foods *tila-sarṣapa*: **sesame** and **mustard**, along with sour, pungent and salty food, oil, alcohol and fish.\n- HP 1.62 recommends **barley** (*yava*) and **dry ginger** (*śuṇṭhī*).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q70",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 70,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'भगवद्गीता' के अनुसार सर्वकर्मसिद्धि के कितने कारणों का उल्लेख है?",
+  "options": [
+   "आठ",
+   "छः",
+   "पाँच",
+   "तीन"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Five.**\n\nGītā 18.13–14: *pañcaitāni mahābāho kāraṇāni nibodha me | sāṅkhye kṛtānte proktāni siddhaye sarva-karmaṇām*. Every action is accomplished through five factors:\n1. the seat (*adhiṣṭhāna*, the body)\n2. the doer\n3. the instruments\n4. the various efforts\n5. the divine (*daiva*)",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q71",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 71,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "योगतत्वोपनिषद् में नाड़ीशोधन के लिये प्राणायाम के अभ्यास हेतु निर्देश हैं :",
+  "items": [
+   "प्रतिदिन चार बार",
+   "प्रतिदिन तीन बार",
+   "तीन मास तक",
+   "चार मास तक"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a) और (c)",
+   "(a) और (d)",
+   "(b) और (d)",
+   "(b) और (c)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) a and c.**\n\nThe Yogatattva has prāṇāyāma done **four times a day** (dawn, noon, evening and midnight), building up the number of rounds. After **three months** the nāḍīs are purified and their signs appear: a light, lustrous body and a strong digestive fire. The Haṭha Pradīpikā gives the same four sittings (2.11).",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q72",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 72,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से किस आसन का सिद्धसिद्धांत पद्धति में उल्लेख नहीं किया गया है?",
+  "options": [
+   "स्वस्तिकासन",
+   "उग्रासन",
+   "सिद्धासन",
+   "पद्मासन"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ugrāsana.**\n\nSSP names three āsanas: **svastika, padma and siddha**. Ugrāsana (paścimottāna) belongs to the Śiva Saṃhitā's list of four.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q74",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 74,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "विटामिन सी के मुख्य स्रोत हैं",
+  "items": [
+   "ताजे फल",
+   "यकृत",
+   "हरी पत्तेदार सब्ज़ियाँ",
+   "अंडे का पीतक"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (d)",
+   "(a) और (c)",
+   "(a) और (b)",
+   "(c) और (d)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) a and c.**\n\nVitamin C comes mainly from **fresh fruit** (amla, citrus, guava) and **green leafy vegetables**. Liver and egg yolk are sources of vitamins A, D and B12, not C. Cooking and storage destroy vitamin C, hence \"fresh\".",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q75",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 75,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "श्यामाचरण लाहिड़ी",
+     "कृष्णमाचार्य",
+     "महर्षि महेश योगी",
+     "श्री रामशर्मा आचार्य"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "प्रज्ञा योग",
+     "भावातीत ध्यान",
+     "विन्यास योग",
+     "क्रिया योग"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)",
+   "(a)–(iv); (b)–(ii); (c)–(iii); (d)–(i)",
+   "(a)–(iii); (b)–(iv); (c)–(ii); (d)–(i)",
+   "(a)–(iv); (b)–(iii); (c)–(i); (d)–(ii)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) a-iv, b-iii, c-ii, d-i.**\n\n- **Lahiri Mahasaya** → kriyā yoga\n- **T. Krishnamacharya** → vinyāsa yoga\n- **Maharishi Mahesh Yogi** → transcendental meditation\n- **Pt. Shriram Sharma Acharya** → prajñā yoga (Gayatri Pariwar)",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q76",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 76,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "क्षणिकवाद का सिद्धान्त किस दर्शन से संबन्धित है?",
+  "options": [
+   "जैन",
+   "बौद्ध",
+   "सांख्य",
+   "चार्वाक"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Buddhism.**\n\n*Kṣaṇikavāda*, momentariness, holds that everything exists only for an instant. It follows from the Buddhist teaching of impermanence (*anitya*), was developed by the Sautrāntika and Yogācāra schools, and was attacked by Nyāya and Vedānta.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q78",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 78,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "sequence",
+  "question_text": "बौद्ध दर्शन के अष्टांगिक मार्ग के अनुसार निम्नलिखित के सही क्रम बताएँ :",
+  "items": [
+   "सम्यक् कर्मांत",
+   "सम्यक् वाक्",
+   "सम्यक् दृष्टि",
+   "सम्यक् संकल्प"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a)–(b)–(c)–(d)",
+   "(b)–(c)–(d)–(a)",
+   "(c)–(d)–(b)–(a)",
+   "(d)–(a)–(b)–(c)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) c–d–b–a.**\n\nThe eightfold path begins:\n1. right **view** (dṛṣṭi)\n2. right **resolve** (saṅkalpa)\n3. right **speech** (vāk)\n4. right **action** (karmānta)\n\nLivelihood, effort, mindfulness and samādhi follow.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q79",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 79,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'ध्यानबिन्दु' उपनिषद् के अनुसार ओंकार के आकार में कौन से वर्ण और गुण हैं?",
+  "options": [
+   "श्वेत वर्ण और सतोगुण",
+   "पीत वर्ण और रजोगुण",
+   "कृष्ण वर्ण और तमोगुण",
+   "ताम्र वर्ण और रजोगुण"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Yellow colour and rajas.**\n\nThe stem's \"आकार\" is a printing slip for **अकार**, the letter *a* of Oṃ. The Dhyānabindu gives each letter a colour, guṇa and god:\n- *a*: **yellow**, **rajas**, Brahmā\n- *u*: white, sattva, Viṣṇu\n- *m*: black, tamas, Rudra",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Dhyanabindu Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q80",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 80,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'त्रिशिखिब्राह्मणोपनिषद्' के अनुसार कन्द से निकलने वाली मुख्य नाड़ियाँ कितनी हैं ?",
+  "options": [
+   "दस",
+   "पन्द्रह",
+   "बहत्तर सौ",
+   "चार"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Ten** (as keyed).\n\nIn its account of the subtle body, the Triśikhibrāhmaṇa has the nāḍīs arise from the *kanda*, the bulb below the navel, and names the **ten** principal ones that carry the ten vāyus (iḍā, piṅgalā, suṣumnā and the rest). The key and the standard ten-nāḍī scheme agree.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Trishikhibrahmana Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q81",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 81,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन से ग्रन्थ में नौ कुम्भक का उल्लेख किया गया है?",
+  "options": [
+   "हठप्रदीपिका",
+   "घेरण्डसंहिता",
+   "हठरत्नावली",
+   "शिवसंहिता"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Haṭharatnāvalī.**\n\nThe Haṭharatnāvalī lists **nine** kumbhakas, adding bhujaṅgīkaraṇa to the Haṭha Pradīpikā's eight. Gheraṇḍa also has eight, with sahita and kevalī in place of sītkārī and plāvinī.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q82",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 82,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'पातञ्जल' योग सूत्र के अनुसार एकतत्त्व का अभ्यास किसे दूर करता है?",
+  "options": [
+   "विक्षेप",
+   "क्लेश",
+   "दुःख",
+   "मृत्युभय"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Vikṣepa (distraction).**\n\nYS 1.32: *tat-pratiṣedhārtham eka-tattvābhyāsaḥ*. To counter them (the distractions and their companions, 1.30–31), practise on a single principle. The kleśas are weakened by kriyā-yoga (2.2) and removed by dhyāna (2.11).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q83",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 83,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "'घेरण्डसंहिता' के अनुसार किस आसन से कुण्डलिनी जागरण संभव है?",
+  "options": [
+   "भुजंगासन",
+   "पश्चिमोत्तानासन",
+   "धनुरासन",
+   "मत्स्यासन"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Bhujaṅgāsana.**\n\nGheraṇḍa 2.42–43: bhujaṅgāsana kindles the digestive fire and destroys disease, and *bhujaṅgī jāgarti* — the serpent-power (kuṇḍalinī) awakens. Gheraṇḍa's other āsanas carry no such claim.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q84",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 84,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "sequence",
+  "question_text": "'त्रिशिखिब्राह्मणोपनिषद्' के अनुसार नियम का आरोही क्रम है",
+  "items": [
+   "तप",
+   "सन्तोष",
+   "दान",
+   "हरिआराधना",
+   "आस्तिक्य"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(a)–(b)–(c)–(d)–(e)",
+   "(a)–(b)–(e)–(c)–(d)",
+   "(b)–(a)–(c)–(d)–(e)",
+   "(b)–(c)–(e)–(a)–(d)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) a–b–e–c–d.**\n\nThe Triśikhibrāhmaṇa's niyamas begin, as in the Śāṇḍilya and Varāha Upaniṣads:\n1. tapas\n2. santoṣa\n3. āstikya\n4. dāna\n5. īśvara-pūjana (worship of Hari)\n\nSiddhānta-śravaṇa, hrī, mati, japa and vrata follow.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Trishikhibrahmana Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q85",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 85,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन सा आसन संतुलनात्मक नहीं है?",
+  "options": [
+   "वृक्षासन",
+   "ताड़ासन",
+   "गरुड़ासन",
+   "एकपादस्कन्धासन"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Eka-pāda-skandhāsana** (as keyed).\n\nVṛkṣāsana and garuḍāsana stand on one leg. Tāḍāsana, done on the toes with arms raised, is taught as a balance. **Eka-pāda-skandhāsana**, one foot behind the head, is done **seated**, so it is not a balancing posture in the usual sense.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q86",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 86,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'योगवाशिष्ठ' के अनुसार निम्नलिखित में से ज्ञान की कौन सी षष्ठ अवस्था है?",
+  "options": [
+   "तनुमानसा",
+   "असंसक्ति",
+   "तुर्यगा",
+   "पदार्थ भावना"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Padārthābhāvanī.**\n\nThe seven jñāna-bhūmikās:\n1. śubhecchā\n2. vicāraṇā\n3. tanumānasā\n4. sattvāpatti\n5. asaṃsakti\n6. **padārthābhāvanī**, where objects are no longer perceived as real\n7. turyagā",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q87",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 87,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "cross_checked",
+  "question_type": "mcq",
+  "question_text": "व्यक्तित्व के पदानुक्रम प्रारूप के प्रणेता कौन हैं?",
+  "options": [
+   "मैस्लो",
+   "जुंग",
+   "एडलर",
+   "ग्रेगर"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Maslow.**\n\nAbraham Maslow's **hierarchy of needs** (1943): physiological, safety, belonging, esteem, self-actualisation, and later self-transcendence. It is a humanistic model in which higher needs emerge as lower ones are met.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q88",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 88,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "तैत्तिरीयोपनिषद् के अनुसार सूची-I को सूची-II से सुमेलित कीजिए :",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (तत्व)",
+    "items": [
+     "श्रद्धा",
+     "ऋत्",
+     "सत्य",
+     "मह"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (अंग)",
+    "items": [
+     "पुच्छ",
+     "सिर",
+     "दायां पंख",
+     "बायां पंख"
+    ]
+   }
+  },
+  "prompt": "दिए गए विकल्प में से सही उत्तर चयन कीजिए :",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv)",
+   "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)",
+   "(a)–(iii); (b)–(i); (c)–(iv); (d)–(ii)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) a-ii, b-iii, c-iv, d-i.**\n\nTaittirīya 2.4 pictures the vijñānamaya self as a bird:\n- **śraddhā** is the head\n- **ṛta** the right wing\n- **satya** the left wing\n- yoga the trunk\n- **mahaḥ** the tail\n\nThe December 2019 paper asks the same image with yoga in place of mahaḥ.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q90",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 90,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "षटकर्म, आसन, प्राणायाम और ध्यान निम्नलिखित में से क्या बनाए रखने के महत्त्वपूर्ण साधन हैं?",
+  "passage": "योग समग्र जीवन का विज्ञान है जिससे 'जोड़ना' अभिप्रेत है। आध्यात्मिक जगत में इस संयोजन की व्याख्या व्यष्टि चेतना का सार्वभौम चेतना के साथ मिलन के रूप में की जाती है। व्यावहारिक स्तर पर योग शरीर, मन और भावनाओं में संतुलन और सामंजस्य स्थापित करने का साधन है। यह सामंजस्य और एकत्व के समग्र सिद्धांतों पर कार्य करता है। इससे व्यक्तित्व के सभी पक्ष अर्थात शारीरिक, मानसिक, सामाजिक, भावनात्मक और आध्यात्मिक प्रभावित होते हैं। यह अष्टांग योग और सप्तांग योग के अभ्यास से किया जा सकता है। इक्कीसवीं सदी में योग के आध्यात्मिक लक्ष्य के अलावा शारीरिक एवं मानसिक चिकित्सा योग की उपलब्धियाँ हैं। योग विभिन्न रोगों पर नियंत्रण के लिए चिकित्सा के रूप में सफल हुआ है। योग चिकित्सा तंत्रिका तंत्र और अन्तःस्रावी तंत्रों में संतुलन स्थापित करने में सफल है, जिसका शरीर के सभी अंगों पर प्रत्यक्ष प्रभाव पड़ता है। कार्य निष्पादन के दौरान और उसके पश्चात् योगाभ्यास के प्रभाव के बारे में वर्तमान में शोध किया जा रहा है। इसके परिणाम से ज्ञात हुआ है कि षटकर्म, आसन, प्राणयाम, ध्यान आदि शारीरिक और मानसिक स्वास्थ्य बनाए रखने के महत्त्वपूर्ण साधन हैं। इन तथ्यों के दृष्टिगत भारत और विदेश में लाखों लोग प्रतिदिन योगाभ्यास करने के साथ-साथ प्रत्येक वर्ष 21 जून को मनाए जानेवाले अन्तर्राष्ट्रीय योग दिवस में भाग लेते हैं। सदभाव, शांति और निरोग अवस्था प्राप्त करने के लिए लोगों और समुदाय के बीच जागरूकता फैलाने के लिए सामान्य योग अभ्यासक्रम तैयार किया गया है।",
+  "options": [
+   "शारीरिक और सामाजिक स्वास्थ्य",
+   "शारीरिक और मानसिक स्वास्थ्य",
+   "मानसिक और सामाजिक स्वास्थ्य",
+   "मानसिक और भावनात्मक स्वास्थ्य"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) शारीरिक और मानसिक स्वास्थ्य.**\n\n\"षटकर्म, आसन, प्राणयाम, ध्यान आदि शारीरिक और मानसिक स्वास्थ्य बनाए रखने के महत्त्वपूर्ण साधन हैं।\"",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q91",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 91,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "आध्यात्मिक पद 'जोड़ना' की व्याख्या निम्नलिखित में से किसके मिलन के रूप में की गई है?",
+  "passage": "योग समग्र जीवन का विज्ञान है जिससे 'जोड़ना' अभिप्रेत है। आध्यात्मिक जगत में इस संयोजन की व्याख्या व्यष्टि चेतना का सार्वभौम चेतना के साथ मिलन के रूप में की जाती है। व्यावहारिक स्तर पर योग शरीर, मन और भावनाओं में संतुलन और सामंजस्य स्थापित करने का साधन है। यह सामंजस्य और एकत्व के समग्र सिद्धांतों पर कार्य करता है। इससे व्यक्तित्व के सभी पक्ष अर्थात शारीरिक, मानसिक, सामाजिक, भावनात्मक और आध्यात्मिक प्रभावित होते हैं। यह अष्टांग योग और सप्तांग योग के अभ्यास से किया जा सकता है। इक्कीसवीं सदी में योग के आध्यात्मिक लक्ष्य के अलावा शारीरिक एवं मानसिक चिकित्सा योग की उपलब्धियाँ हैं। योग विभिन्न रोगों पर नियंत्रण के लिए चिकित्सा के रूप में सफल हुआ है। योग चिकित्सा तंत्रिका तंत्र और अन्तःस्रावी तंत्रों में संतुलन स्थापित करने में सफल है, जिसका शरीर के सभी अंगों पर प्रत्यक्ष प्रभाव पड़ता है। कार्य निष्पादन के दौरान और उसके पश्चात् योगाभ्यास के प्रभाव के बारे में वर्तमान में शोध किया जा रहा है। इसके परिणाम से ज्ञात हुआ है कि षटकर्म, आसन, प्राणयाम, ध्यान आदि शारीरिक और मानसिक स्वास्थ्य बनाए रखने के महत्त्वपूर्ण साधन हैं। इन तथ्यों के दृष्टिगत भारत और विदेश में लाखों लोग प्रतिदिन योगाभ्यास करने के साथ-साथ प्रत्येक वर्ष 21 जून को मनाए जानेवाले अन्तर्राष्ट्रीय योग दिवस में भाग लेते हैं। सदभाव, शांति और निरोग अवस्था प्राप्त करने के लिए लोगों और समुदाय के बीच जागरूकता फैलाने के लिए सामान्य योग अभ्यासक्रम तैयार किया गया है।",
+  "options": [
+   "शारीरिक और आध्यात्मिक चेतना",
+   "व्यष्टि और सार्वभौम चेतना",
+   "शारीरिक और मानसिक चेतना",
+   "मानसिक और आध्यात्मिक चेतना"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) व्यष्टि और सार्वभौम चेतना.**\n\n\"आध्यात्मिक जगत में इस संयोजन की व्याख्या व्यष्टि चेतना का सार्वभौम चेतना के साथ मिलन के रूप में की जाती है।\"",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q92",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 92,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "योग निम्नलिखित में से किन समग्र सिद्धांतों पर क्रियान्वित होता है?",
+  "passage": "योग समग्र जीवन का विज्ञान है जिससे 'जोड़ना' अभिप्रेत है। आध्यात्मिक जगत में इस संयोजन की व्याख्या व्यष्टि चेतना का सार्वभौम चेतना के साथ मिलन के रूप में की जाती है। व्यावहारिक स्तर पर योग शरीर, मन और भावनाओं में संतुलन और सामंजस्य स्थापित करने का साधन है। यह सामंजस्य और एकत्व के समग्र सिद्धांतों पर कार्य करता है। इससे व्यक्तित्व के सभी पक्ष अर्थात शारीरिक, मानसिक, सामाजिक, भावनात्मक और आध्यात्मिक प्रभावित होते हैं। यह अष्टांग योग और सप्तांग योग के अभ्यास से किया जा सकता है। इक्कीसवीं सदी में योग के आध्यात्मिक लक्ष्य के अलावा शारीरिक एवं मानसिक चिकित्सा योग की उपलब्धियाँ हैं। योग विभिन्न रोगों पर नियंत्रण के लिए चिकित्सा के रूप में सफल हुआ है। योग चिकित्सा तंत्रिका तंत्र और अन्तःस्रावी तंत्रों में संतुलन स्थापित करने में सफल है, जिसका शरीर के सभी अंगों पर प्रत्यक्ष प्रभाव पड़ता है। कार्य निष्पादन के दौरान और उसके पश्चात् योगाभ्यास के प्रभाव के बारे में वर्तमान में शोध किया जा रहा है। इसके परिणाम से ज्ञात हुआ है कि षटकर्म, आसन, प्राणयाम, ध्यान आदि शारीरिक और मानसिक स्वास्थ्य बनाए रखने के महत्त्वपूर्ण साधन हैं। इन तथ्यों के दृष्टिगत भारत और विदेश में लाखों लोग प्रतिदिन योगाभ्यास करने के साथ-साथ प्रत्येक वर्ष 21 जून को मनाए जानेवाले अन्तर्राष्ट्रीय योग दिवस में भाग लेते हैं। सदभाव, शांति और निरोग अवस्था प्राप्त करने के लिए लोगों और समुदाय के बीच जागरूकता फैलाने के लिए सामान्य योग अभ्यासक्रम तैयार किया गया है।",
+  "options": [
+   "सामंजस्य और समाधि",
+   "सामंजस्य और मोक्ष",
+   "शांति और मोक्ष",
+   "सामंजस्य और एकात्मता"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) सामंजस्य और एकात्मता.**\n\n\"यह सामंजस्य और एकत्व के समग्र सिद्धांतों पर कार्य करता है।\" Harmony and oneness (एकात्मता).",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q93",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 93,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "योग चिकित्सा निम्नलिखित में से किसके मध्य संतुलन बनाने में सफल है?",
+  "passage": "योग समग्र जीवन का विज्ञान है जिससे 'जोड़ना' अभिप्रेत है। आध्यात्मिक जगत में इस संयोजन की व्याख्या व्यष्टि चेतना का सार्वभौम चेतना के साथ मिलन के रूप में की जाती है। व्यावहारिक स्तर पर योग शरीर, मन और भावनाओं में संतुलन और सामंजस्य स्थापित करने का साधन है। यह सामंजस्य और एकत्व के समग्र सिद्धांतों पर कार्य करता है। इससे व्यक्तित्व के सभी पक्ष अर्थात शारीरिक, मानसिक, सामाजिक, भावनात्मक और आध्यात्मिक प्रभावित होते हैं। यह अष्टांग योग और सप्तांग योग के अभ्यास से किया जा सकता है। इक्कीसवीं सदी में योग के आध्यात्मिक लक्ष्य के अलावा शारीरिक एवं मानसिक चिकित्सा योग की उपलब्धियाँ हैं। योग विभिन्न रोगों पर नियंत्रण के लिए चिकित्सा के रूप में सफल हुआ है। योग चिकित्सा तंत्रिका तंत्र और अन्तःस्रावी तंत्रों में संतुलन स्थापित करने में सफल है, जिसका शरीर के सभी अंगों पर प्रत्यक्ष प्रभाव पड़ता है। कार्य निष्पादन के दौरान और उसके पश्चात् योगाभ्यास के प्रभाव के बारे में वर्तमान में शोध किया जा रहा है। इसके परिणाम से ज्ञात हुआ है कि षटकर्म, आसन, प्राणयाम, ध्यान आदि शारीरिक और मानसिक स्वास्थ्य बनाए रखने के महत्त्वपूर्ण साधन हैं। इन तथ्यों के दृष्टिगत भारत और विदेश में लाखों लोग प्रतिदिन योगाभ्यास करने के साथ-साथ प्रत्येक वर्ष 21 जून को मनाए जानेवाले अन्तर्राष्ट्रीय योग दिवस में भाग लेते हैं। सदभाव, शांति और निरोग अवस्था प्राप्त करने के लिए लोगों और समुदाय के बीच जागरूकता फैलाने के लिए सामान्य योग अभ्यासक्रम तैयार किया गया है।",
+  "options": [
+   "तंत्रिका तंत्र और अन्तःस्रावी तंत्र",
+   "तंत्रिका तंत्र और रक्तवाही तंत्र",
+   "रक्तवाही तंत्र और संचलन तंत्र",
+   "रक्तवाही तंत्र और अंतःस्रावी तंत्र"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) तंत्रिका तंत्र और अन्तःस्रावी तंत्र.**\n\n\"योग चिकित्सा तंत्रिका तंत्र और अन्तःस्रावी तंत्रों में संतुलन स्थापित करने में सफल है।\"",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q94",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 94,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "अन्तर्राष्ट्रीय योग दिवस कब मनाया जाता है?",
+  "passage": "योग समग्र जीवन का विज्ञान है जिससे 'जोड़ना' अभिप्रेत है। आध्यात्मिक जगत में इस संयोजन की व्याख्या व्यष्टि चेतना का सार्वभौम चेतना के साथ मिलन के रूप में की जाती है। व्यावहारिक स्तर पर योग शरीर, मन और भावनाओं में संतुलन और सामंजस्य स्थापित करने का साधन है। यह सामंजस्य और एकत्व के समग्र सिद्धांतों पर कार्य करता है। इससे व्यक्तित्व के सभी पक्ष अर्थात शारीरिक, मानसिक, सामाजिक, भावनात्मक और आध्यात्मिक प्रभावित होते हैं। यह अष्टांग योग और सप्तांग योग के अभ्यास से किया जा सकता है। इक्कीसवीं सदी में योग के आध्यात्मिक लक्ष्य के अलावा शारीरिक एवं मानसिक चिकित्सा योग की उपलब्धियाँ हैं। योग विभिन्न रोगों पर नियंत्रण के लिए चिकित्सा के रूप में सफल हुआ है। योग चिकित्सा तंत्रिका तंत्र और अन्तःस्रावी तंत्रों में संतुलन स्थापित करने में सफल है, जिसका शरीर के सभी अंगों पर प्रत्यक्ष प्रभाव पड़ता है। कार्य निष्पादन के दौरान और उसके पश्चात् योगाभ्यास के प्रभाव के बारे में वर्तमान में शोध किया जा रहा है। इसके परिणाम से ज्ञात हुआ है कि षटकर्म, आसन, प्राणयाम, ध्यान आदि शारीरिक और मानसिक स्वास्थ्य बनाए रखने के महत्त्वपूर्ण साधन हैं। इन तथ्यों के दृष्टिगत भारत और विदेश में लाखों लोग प्रतिदिन योगाभ्यास करने के साथ-साथ प्रत्येक वर्ष 21 जून को मनाए जानेवाले अन्तर्राष्ट्रीय योग दिवस में भाग लेते हैं। सदभाव, शांति और निरोग अवस्था प्राप्त करने के लिए लोगों और समुदाय के बीच जागरूकता फैलाने के लिए सामान्य योग अभ्यासक्रम तैयार किया गया है।",
+  "options": [
+   "21 मई",
+   "22 जून",
+   "21 जून",
+   "22 मई"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 21 जून.**\n\nThe passage says 21 June. The UN declared it in December 2014, and it has been observed since 2015; 21 June is the summer solstice.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions"
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q96",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 96,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन सा क्लेश बुद्धि के क्षेत्र से संबंधित है?",
+  "passage": "महर्षि पतंजलि के अनुसार चेतना-साम्य में व्यवधान उत्पन्न करने वाले पाँच क्लेश हैं—अविद्या, अस्मिता, राग, द्वेष और अभिनिवेश। सत्यज्ञान का अभाव सभी दुःखों का स्रोत है चाहे वे प्रसुप्त तनु विच्छिन्न या पूर्णरूपेण उदार हैं। अविद्या सभी क्लेशों की जननी है। शरीर और आत्मा भिन्न-भिन्न है किन्तु अस्मिता के कारण व्यक्ति को इनके एक होने की अनुभूति होती है। सुखद अनुभवों से काम और भावनात्मक आसक्ति उत्पन्न होती है। अप्रसन्नता के परिणामस्वरूप घृणा और महत्त्वहीनता का भाव उत्पन्न होता है। जीवन के प्रति आसक्ति अथवा मृत्यु भय सभी मनुष्यों में निहित है और विवेकीजन भी इससे अछूते नहीं हैं। ये पाँच क्लेश बौद्धिक, भावनात्मक और सहज इन तीन स्तरों वाले होते हैं। अविद्या और अस्मिता बुद्धि के क्षेत्र से संबंधित हैं। राग और द्वेष भावनाओं और अनुभूतियों से संबंधित हैं। अभिनिवेश क्लेश की प्रवृत्ति सहज होती है। इन पाँच क्लेशों के मूल कारण व्यवहारपरक प्रकार्य एवं चिंतन हैं। सभ्यता के आरम्भ से ही विचार और कर्म की प्रक्रियाएँ विद्यमान रही हैं और मनुष्य यथार्थ ज्ञान की खोज करता रहा है। साधना के संदर्भ में बुद्धि की विभेदक शक्ति अंततः विशुद्ध प्रज्ञा में परिणत होती है जो शाश्वत रहती हैं। सच्चा साधक योग के माध्यम से आरंभ में ही क्लेशों को नष्ट करने में सक्षम होता है।",
+  "items": [
+   "राग",
+   "अविद्या",
+   "अस्मिता",
+   "द्वेष"
+  ],
+  "prompt": "सही विकल्प चुनिए :",
+  "options": [
+   "(b) और (c)",
+   "(a) और (b)",
+   "(b) और (d)",
+   "(a) और (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (b) और (c).**\n\n\"अविद्या और अस्मिता बुद्धि के क्षेत्र से संबंधित हैं। राग और द्वेष भावनाओं और अनुभूतियों से संबंधित हैं।\"",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q97",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 97,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "बुद्धि की विभेदक शक्ति अंततः इनमें से किसमें परिणत होती है?",
+  "passage": "महर्षि पतंजलि के अनुसार चेतना-साम्य में व्यवधान उत्पन्न करने वाले पाँच क्लेश हैं—अविद्या, अस्मिता, राग, द्वेष और अभिनिवेश। सत्यज्ञान का अभाव सभी दुःखों का स्रोत है चाहे वे प्रसुप्त तनु विच्छिन्न या पूर्णरूपेण उदार हैं। अविद्या सभी क्लेशों की जननी है। शरीर और आत्मा भिन्न-भिन्न है किन्तु अस्मिता के कारण व्यक्ति को इनके एक होने की अनुभूति होती है। सुखद अनुभवों से काम और भावनात्मक आसक्ति उत्पन्न होती है। अप्रसन्नता के परिणामस्वरूप घृणा और महत्त्वहीनता का भाव उत्पन्न होता है। जीवन के प्रति आसक्ति अथवा मृत्यु भय सभी मनुष्यों में निहित है और विवेकीजन भी इससे अछूते नहीं हैं। ये पाँच क्लेश बौद्धिक, भावनात्मक और सहज इन तीन स्तरों वाले होते हैं। अविद्या और अस्मिता बुद्धि के क्षेत्र से संबंधित हैं। राग और द्वेष भावनाओं और अनुभूतियों से संबंधित हैं। अभिनिवेश क्लेश की प्रवृत्ति सहज होती है। इन पाँच क्लेशों के मूल कारण व्यवहारपरक प्रकार्य एवं चिंतन हैं। सभ्यता के आरम्भ से ही विचार और कर्म की प्रक्रियाएँ विद्यमान रही हैं और मनुष्य यथार्थ ज्ञान की खोज करता रहा है। साधना के संदर्भ में बुद्धि की विभेदक शक्ति अंततः विशुद्ध प्रज्ञा में परिणत होती है जो शाश्वत रहती हैं। सच्चा साधक योग के माध्यम से आरंभ में ही क्लेशों को नष्ट करने में सक्षम होता है।",
+  "options": [
+   "विशुद्ध मन में",
+   "विशुद्ध बुद्धि में",
+   "विशुद्ध प्रज्ञा में",
+   "विशुद्ध इन्द्रिय में"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) विशुद्ध प्रज्ञा में.**\n\n\"बुद्धि की विभेदक शक्ति अंततः विशुद्ध प्रज्ञा में परिणत होती है जो शाश्वत रहती हैं।\"",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q98",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 98,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "जीवन के प्रति आसक्ति अथवा मृत्यु भय का भाव निम्नलिखित में से किनमें निहित होता है?",
+  "passage": "महर्षि पतंजलि के अनुसार चेतना-साम्य में व्यवधान उत्पन्न करने वाले पाँच क्लेश हैं—अविद्या, अस्मिता, राग, द्वेष और अभिनिवेश। सत्यज्ञान का अभाव सभी दुःखों का स्रोत है चाहे वे प्रसुप्त तनु विच्छिन्न या पूर्णरूपेण उदार हैं। अविद्या सभी क्लेशों की जननी है। शरीर और आत्मा भिन्न-भिन्न है किन्तु अस्मिता के कारण व्यक्ति को इनके एक होने की अनुभूति होती है। सुखद अनुभवों से काम और भावनात्मक आसक्ति उत्पन्न होती है। अप्रसन्नता के परिणामस्वरूप घृणा और महत्त्वहीनता का भाव उत्पन्न होता है। जीवन के प्रति आसक्ति अथवा मृत्यु भय सभी मनुष्यों में निहित है और विवेकीजन भी इससे अछूते नहीं हैं। ये पाँच क्लेश बौद्धिक, भावनात्मक और सहज इन तीन स्तरों वाले होते हैं। अविद्या और अस्मिता बुद्धि के क्षेत्र से संबंधित हैं। राग और द्वेष भावनाओं और अनुभूतियों से संबंधित हैं। अभिनिवेश क्लेश की प्रवृत्ति सहज होती है। इन पाँच क्लेशों के मूल कारण व्यवहारपरक प्रकार्य एवं चिंतन हैं। सभ्यता के आरम्भ से ही विचार और कर्म की प्रक्रियाएँ विद्यमान रही हैं और मनुष्य यथार्थ ज्ञान की खोज करता रहा है। साधना के संदर्भ में बुद्धि की विभेदक शक्ति अंततः विशुद्ध प्रज्ञा में परिणत होती है जो शाश्वत रहती हैं। सच्चा साधक योग के माध्यम से आरंभ में ही क्लेशों को नष्ट करने में सक्षम होता है।",
+  "options": [
+   "सभी मानव में",
+   "केवल प्रज्ञावान व्यक्तियों में",
+   "केवल अज्ञानी व्यक्तियों में",
+   "केवल पशुओं में"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) सभी मानव में.**\n\n\"जीवन के प्रति आसक्ति अथवा मृत्यु भय सभी मनुष्यों में निहित है और विवेकीजन भी इससे अछूते नहीं हैं\", echoing YS 2.9 (*viduṣo 'pi tathārūḍho 'bhiniveśaḥ*).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q99",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 99,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "सभी क्लेशों की जननी है",
+  "passage": "महर्षि पतंजलि के अनुसार चेतना-साम्य में व्यवधान उत्पन्न करने वाले पाँच क्लेश हैं—अविद्या, अस्मिता, राग, द्वेष और अभिनिवेश। सत्यज्ञान का अभाव सभी दुःखों का स्रोत है चाहे वे प्रसुप्त तनु विच्छिन्न या पूर्णरूपेण उदार हैं। अविद्या सभी क्लेशों की जननी है। शरीर और आत्मा भिन्न-भिन्न है किन्तु अस्मिता के कारण व्यक्ति को इनके एक होने की अनुभूति होती है। सुखद अनुभवों से काम और भावनात्मक आसक्ति उत्पन्न होती है। अप्रसन्नता के परिणामस्वरूप घृणा और महत्त्वहीनता का भाव उत्पन्न होता है। जीवन के प्रति आसक्ति अथवा मृत्यु भय सभी मनुष्यों में निहित है और विवेकीजन भी इससे अछूते नहीं हैं। ये पाँच क्लेश बौद्धिक, भावनात्मक और सहज इन तीन स्तरों वाले होते हैं। अविद्या और अस्मिता बुद्धि के क्षेत्र से संबंधित हैं। राग और द्वेष भावनाओं और अनुभूतियों से संबंधित हैं। अभिनिवेश क्लेश की प्रवृत्ति सहज होती है। इन पाँच क्लेशों के मूल कारण व्यवहारपरक प्रकार्य एवं चिंतन हैं। सभ्यता के आरम्भ से ही विचार और कर्म की प्रक्रियाएँ विद्यमान रही हैं और मनुष्य यथार्थ ज्ञान की खोज करता रहा है। साधना के संदर्भ में बुद्धि की विभेदक शक्ति अंततः विशुद्ध प्रज्ञा में परिणत होती है जो शाश्वत रहती हैं। सच्चा साधक योग के माध्यम से आरंभ में ही क्लेशों को नष्ट करने में सक्षम होता है।",
+  "options": [
+   "अस्मिता",
+   "अविद्या",
+   "राग",
+   "द्वेष"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) अविद्या.**\n\n\"अविद्या सभी क्लेशों की जननी है\", which is YS 2.4: *avidyā kṣetram uttareṣām*.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2019JUN-P2-Q100",
+  "subject": "yoga",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 100,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, Yoga (100), Paper 2, Hindi version, from the NTA response sheet (\"07 - Hin 2019 june yoga\"). Question numbers as printed. Left out: Q48 and Q95 (the correct answer is not among the options), Q77 (no option gives the correct birth order), and Q49, Q68, Q73 and Q89, whose answers could not be established from the texts."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से किसके कारण ऐसी अनुभूति होती है कि शरीर और शाश्वत स्वरूप एक ही हैं?",
+  "passage": "महर्षि पतंजलि के अनुसार चेतना-साम्य में व्यवधान उत्पन्न करने वाले पाँच क्लेश हैं—अविद्या, अस्मिता, राग, द्वेष और अभिनिवेश। सत्यज्ञान का अभाव सभी दुःखों का स्रोत है चाहे वे प्रसुप्त तनु विच्छिन्न या पूर्णरूपेण उदार हैं। अविद्या सभी क्लेशों की जननी है। शरीर और आत्मा भिन्न-भिन्न है किन्तु अस्मिता के कारण व्यक्ति को इनके एक होने की अनुभूति होती है। सुखद अनुभवों से काम और भावनात्मक आसक्ति उत्पन्न होती है। अप्रसन्नता के परिणामस्वरूप घृणा और महत्त्वहीनता का भाव उत्पन्न होता है। जीवन के प्रति आसक्ति अथवा मृत्यु भय सभी मनुष्यों में निहित है और विवेकीजन भी इससे अछूते नहीं हैं। ये पाँच क्लेश बौद्धिक, भावनात्मक और सहज इन तीन स्तरों वाले होते हैं। अविद्या और अस्मिता बुद्धि के क्षेत्र से संबंधित हैं। राग और द्वेष भावनाओं और अनुभूतियों से संबंधित हैं। अभिनिवेश क्लेश की प्रवृत्ति सहज होती है। इन पाँच क्लेशों के मूल कारण व्यवहारपरक प्रकार्य एवं चिंतन हैं। सभ्यता के आरम्भ से ही विचार और कर्म की प्रक्रियाएँ विद्यमान रही हैं और मनुष्य यथार्थ ज्ञान की खोज करता रहा है। साधना के संदर्भ में बुद्धि की विभेदक शक्ति अंततः विशुद्ध प्रज्ञा में परिणत होती है जो शाश्वत रहती हैं। सच्चा साधक योग के माध्यम से आरंभ में ही क्लेशों को नष्ट करने में सक्षम होता है।",
+  "options": [
+   "अविद्या",
+   "अभिनिवेश",
+   "अस्मिता",
+   "राग"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) अस्मिता.**\n\n\"शरीर और आत्मा भिन्न-भिन्न है किन्तु अस्मिता के कारण व्यक्ति को इनके एक होने की अनुभूति होती है।\" This is YS 2.6: asmitā is taking the seer and the instrument of seeing as one.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ }
+]
