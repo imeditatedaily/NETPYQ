@@ -57,7 +57,7 @@ def test_real_paper_question_shows_its_source_answer_check_and_topic_note(app):
     assert app.success[0].value.startswith("**Correct.**")
     assert "published solved-papers key" in captions(app)
     md = texts(app)
-    assert "1 dated question(s)" in md and "Pattern." in md   # counted frequency, then the note from topics.json
+    assert "dated question(s)" in md and "Pattern." in md   # counted frequency, then the note from topics.json
 
 
 def test_passage_and_roman_labels_render_as_in_the_booklet(app):
