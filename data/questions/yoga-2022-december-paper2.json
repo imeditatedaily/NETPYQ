@@ -1,0 +1,519 @@
+[
+ {
+  "id": "YOGA-2022DEC-P2-Q51",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "As per Hatha Pradeepika, which of the following characteristics of Swatmaram are regarded as elite:",
+  "items": [
+   "Srishtisamharakarak",
+   "Sompanam Karoti Yah",
+   "Gomansam Bhakshayennityam",
+   "Pibedamarvarunim",
+   "Somkalapurnam dehi"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "C, D only",
+   "A, B only",
+   "B, C only",
+   "D, E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, D only.**\n\nHaṭha Pradīpikā 3.47, in the chapter on **khecarī**: *gomāṃsaṃ bhakṣayen nityaṃ pibed amara-vāruṇīm | kulīnaṃ tam ahaṃ manye itare kula-ghātakāḥ*. \"Whoever daily eats *gomāṃsa* and drinks *amara-vāruṇī*, him I consider of noble family (*kulīna*); the others destroy their line.\"\n\nThe words are coded, as the next verses (3.48–49) explain:\n- *go* = the tongue, so \"eating gomāṃsa\" is turning the tongue back into the palatal cavity\n- *amara-vāruṇī* = the nectar that flows from the moon at the crown\n\nA, B and E are other phrases from the khecarī passage (E echoes 3.46, where the body filled with the moon's nectar does not die), but 3.47 defines the *kulīna* by C and D alone.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q52",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "शिवसंहिता के अनुसार नियम हैं -",
+  "items": [
+   "धृति",
+   "सन्तोष",
+   "क्षमा",
+   "स्वाध्याय",
+   "शौच"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए:",
+  "options": [
+   "केवल B, C, E",
+   "केवल A, C, E",
+   "केवल C, D, A",
+   "केवल B, C, D"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C, E only.**\n\nŚiva Saṃhitā 3 (the verses on what a practitioner should cultivate) says *siddhānta-śravaṇaṃ nityaṃ vairāgya-gṛha-sevanam …* and then *dhṛtiḥ kṣamā tapaḥ śaucaṃ hrīr mati-guru-sevanam | sadaitāṃś ca paraṃ yogī niyamāṃś ca samācaret*.\n\nSo its niyamas include **dhṛti** (A), **kṣamā** (C) and **śauca** (E), along with tapas, hrī (modesty), mati and service of the guru. Santoṣa and svādhyāya are Patañjali's niyamas (YS 2.32) but are not in this verse, which is the trap.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q54",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Hormones secreted by the Pituitary Gland:-",
+  "items": [
+   "Adrenocorticotropic Hormone",
+   "Epinephrine",
+   "Thyroid Stimulating Hormone",
+   "Cortisol",
+   "Triidothyronine"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B only",
+   "A, C only",
+   "B, D only",
+   "C, E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C only.**\n\nThe anterior pituitary secretes GH, prolactin, **TSH**, **ACTH**, FSH and LH; the posterior pituitary releases oxytocin and ADH.\n\n- **Epinephrine** comes from the adrenal medulla.\n- **Cortisol** comes from the adrenal cortex, under ACTH's control.\n- **Triiodothyronine** (T3) comes from the thyroid, under TSH's control.\n\nThe distractors are the *target-gland* hormones of the two correct answers.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q55",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Total lungs capacity is combination of:",
+  "items": [
+   "Tidal Volume",
+   "Inspiratory Reserve Volume",
+   "Expiratory Reserve Volume",
+   "Vital Capacity",
+   "Residual Volume"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B only",
+   "B, C only",
+   "C, D only",
+   "D, E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) D, E only.**\n\nTotal lung capacity = **vital capacity + residual volume** (about 4.5 + 1.2 ≈ 5.7 L). Vital capacity itself is tidal volume + inspiratory reserve + expiratory reserve.\n\nSo A, B and C are parts of the vital capacity, and adding them to D would count them twice. The only complete two-item sum on offer is VC + RV.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q56",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "आपः (जल) की उत्पत्ति कहाँ से हुई है:",
+  "items": [
+   "आकाश",
+   "वायु",
+   "भू",
+   "काल (समय)",
+   "अग्नि"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए:",
+  "options": [
+   "केवल A, C, D",
+   "केवल C, D, E",
+   "केवल A, B, E",
+   "केवल A, C, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, B, E only.**\n\nTaittirīya 2.1: *tasmād vā etasmād ātmana **ākāśaḥ** sambhūtaḥ | ākāśād **vāyuḥ** | vāyor **agniḥ** | agner **āpaḥ** | adbhyaḥ pṛthivī*. Water arises from fire, which comes from air, which comes from space. So ākāśa (A), vāyu (B) and agni (E) are the chain from which *āpaḥ* arises.\n\nEarth (*bhū*) comes *after* water, and time (*kāla*) is not in the sequence.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q57",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Sadhaka should not adhere to strict rules and regulations such as:-",
+  "items": [
+   "Moderate Diet",
+   "Early morning bath",
+   "Cold Bath",
+   "Doing fasting",
+   "Should have firm resolution"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C, E only",
+   "B, C, D only",
+   "B, D, E only",
+   "A, D, E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C, D only.**\n\nHaṭha Pradīpikā 1.61–62 quotes Gorakṣa. At the beginning the practitioner should avoid fire, women and long journeys, and also *prātaḥ-snānopavāsādi kāya-kleśa-vidhiṃ tathā*: **early-morning baths, fasting** and other practices that **mortify the body**, such as a cold bath.\n\nModerate diet (A) and firm resolve (E) are the opposite. HP makes mitāhāra a rule (1.58), and it counts firm resolve (*niścaya*) among the six things that bring success (1.16).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Sadhaka and badhaka tattvas in Hatha Yoga",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q58",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "For the practice of 'Vyan Mudra' we have to touch the tips of:",
+  "items": [
+   "Thumb",
+   "Index finger",
+   "Middle finger",
+   "Ring finger",
+   "Little finger"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C only",
+   "B, C, D only",
+   "C, D, E only",
+   "A, D, E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B, C only.**\n\n**Vyāna mudrā** joins the tips of the **thumb, index and middle fingers**, leaving the ring and little fingers extended. The five fingers are linked with the five elements, with the thumb as fire. Different finger combinations make the other *prāṇa* mudrās, e.g. apāna mudrā joins the thumb, middle and ring fingers.\n\nThese hasta-mudrās come from modern practice manuals, not the Haṭha texts, whose mudrās are whole-body techniques.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q59",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Gheranda Samhita for the attainment of body like 'Kamadeva' the relevant Yogic practice are:",
+  "items": [
+   "Jala Basti",
+   "Khechari",
+   "Trataka",
+   "Sheet Kram - Kapalabhati",
+   "Nauli"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, D only",
+   "B, C only",
+   "B, E only",
+   "C, E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, D only.**\n\nGheraṇḍa ends two cleansing practices with the promise *kāmadeva-samo bhavet*, \"one becomes like Kāmadeva\" (beautiful and vigorous):\n- **jala-basti** (GS 1.46–47)\n- **śītkrama kapālabhāti** (GS 1.58–60, drawing water in through the mouth and expelling it through the nose)\n\nKhecarī, trāṭaka and nauli (laulikī) carry other promises in the text.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q60",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The most recommended Yogic practices for the nourishment of pelvic muscles are:-",
+  "items": [
+   "Mulabandha",
+   "Ashwini Mudra",
+   "Tadagi Mudra",
+   "Uddiyana Bandha",
+   "Vipareet Karani Mudra"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B only",
+   "B, C only",
+   "C, D only",
+   "D, E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B only.**\n\n- **Mūla bandha** contracts the perineum and works the pelvic floor directly.\n- **Aśvinī mudrā** rhythmically contracts and relaxes the anal sphincter.\n\nBoth are standard for pelvic-floor weakness, prolapse, piles and incontinence. Tāḍāgī mudrā and uḍḍiyāna bandha work on the abdomen, and viparīta-karaṇī is an inversion.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q61",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to book \"Teaching methods for Yogic Practices\" the essential factors for a class:",
+  "items": [
+   "Teaching",
+   "Communication aids",
+   "Students",
+   "Environment",
+   "Management"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C, D only",
+   "A, D, E only",
+   "B, C, E only",
+   "B, D, E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, C, D only** (provisional).\n\nGharote and Ganguly's *Teaching Methods for Yogic Practices* names the essentials of a class as the **teaching** (and teacher), the **students** and the **environment** in which learning happens. Communication aids and class management support these three but are not listed among them.\n\nThis follows the answer given in the notes; I could not check the page, so treat it as provisional.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q62",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the book \"Teaching methods for Yogic Practices\" teaching of yoga practices involve:-",
+  "items": [
+   "Reading Books",
+   "Observation",
+   "Demonstration",
+   "Understanding theories and models",
+   "Practice"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "B, C, E only",
+   "A, E, B only",
+   "C, D, E only",
+   "B, D, E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B, C, E only.**\n\nThe book says that teaching a practical subject involves **observation**, **demonstration** and **practice** by the student, with the teacher correcting faults and giving positive suggestions.\n\nReading books and learning theories and models belong to teaching theory subjects, not to teaching the practices themselves.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q63",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to book 'Teaching methods for Yogic Practices' the recommended teaching principles are:-",
+  "items": [
+   "Psychological Principles",
+   "Economical Principles",
+   "Anatomico-Physiological Principles",
+   "Communication Principles",
+   "Sociological Principles"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C only",
+   "B, C, D only",
+   "C, D, E only",
+   "A, C, E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, C, E only.**\n\nOf the listed items, the principles of teaching in Gharote and Ganguly are **psychological**, **anatomico-physiological** and **sociological**. The book also has yogic and educational principles, which the June 2024 paper asked about.\n\n\"Economical\" and \"communication\" principles are invented distractors.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q64",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 64,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which Practices for Dhyana are recommended by Maharshi Gheranda?",
+  "items": [
+   "Akash Dhyana",
+   "Sthula Dhyana",
+   "Chakra Dhyana",
+   "Jyoti Dhyana",
+   "Sukshma Dhyana"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C, E only",
+   "B, C, D only",
+   "B, D, E only",
+   "A, D, E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D, E only.**\n\nGheraṇḍa Saṃhitā 6.1: *sthūlaṃ jyotis tathā sūkṣmaṃ dhyānasya trividhaṃ viduḥ*. The three kinds of dhyāna are:\n- **sthūla** (gross): on a form, such as one's deity or guru in the heart lotus\n- **jyotir** (light)\n- **sūkṣma** (subtle): on bindu and kuṇḍalinī, which the text ranks highest\n\n\"Ākāśa dhyāna\" and \"cakra dhyāna\" are not Gheraṇḍa's categories.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Dhyana and samadhi in Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q65",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 65,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which yogasanas of Gheranda Samhita are not mentioned in hatha yoga pradipika:",
+  "items": [
+   "Virasana",
+   "Guptasana",
+   "Gomukhasana",
+   "Matsyasana",
+   "Utkatasana"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, D, E only",
+   "B, C, E only",
+   "B, D, E only",
+   "A, C, E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D, E only.**\n\nHP's fifteen āsanas are svastika, **gomukha**, **vīra**, kūrma, kukkuṭa, uttāna-kūrma, dhanura, matsyendra, paścimottāna, mayūra, śava, siddha, padma, siṃha and bhadra.\n\nGheraṇḍa's thirty-two include **gupta**, **matsya** and **utkaṭa**, none of which HP describes. Vīrāsana (A) and gomukhāsana (C) appear in both texts.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika",
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2022DEC-P2-Q66",
+  "subject": "yoga",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 66,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, Yoga (100), Paper 2, held in February–March 2023. Only Q51–66 are available: they come from screenshots of the NTA response sheet inside coaching notes (\"PYQ YOGA JRF FEB 2023 PART THREE\"). Q52, 56, 57, 61 and 65 carry no number in the notes; their numbers are inferred from their position. Q53 is left out because its options are incomplete in the notes. Two items appear there only in Hindi."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "What are the physiological concomitants of Vishuddhi Chakra:-",
+  "items": [
+   "Midway between the Scrotum and Anus",
+   "Centre of Chest",
+   "Pharyngeal",
+   "Utero-Vaginal Plexus",
+   "Laryngeal nerve plexi"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C only",
+   "C, E only",
+   "C, D only",
+   "B, E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) C, E only.**\n\nViśuddhi, the throat cakra, is correlated with the **pharyngeal** region and the **laryngeal nerve plexus**, i.e. speech and the thyroid area. The distractors are the correlates of other cakras:\n- between the scrotum and anus: mūlādhāra\n- the centre of the chest: anāhata\n- the utero-vaginal plexus: svādhiṣṭhāna",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing"
+ }
+]
