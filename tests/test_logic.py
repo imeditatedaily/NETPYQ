@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 import pytest
 
 from pyq import analytics as an
-from pyq.bank import build_bank, load_bank
-from pyq.config import QUESTION_DIR, SOURCE_DIR
+from pyq.bank import build_bank, load_bank, read_topic_notes
+from pyq.config import QUESTION_DIR, SOURCE_DIR, TOPIC_FILE
 from pyq.data.samples import SAMPLE_QUESTIONS
 from pyq.filters import ALL, Filters, apply, session_choices, topic_choices, unit_choices
 from pyq.library import load_library
@@ -30,14 +30,23 @@ def dated(qid, year, cycle, **overrides):
     return raw
 
 
-def bank_of(*raws):
-    return build_bank([(r, "test") for r in raws])
+def bank_of(*raws, notes=None):
+    return build_bank([(r, "test") for r in raws], topic_notes=notes)
+
+
+def samples_bank():
+    """The four built-in samples alone, whatever papers are in data/questions."""
+    return build_bank([(q, "samples") for q in SAMPLE_QUESTIONS])
+
+
+def shipped_bank():
+    return load_bank(QUESTION_DIR, include_samples=True, topic_file=TOPIC_FILE)
 
 
 # --- data -------------------------------------------------------------------------------
 
 def test_samples_all_pass_and_cover_four_formats():
-    bank = load_bank(QUESTION_DIR, include_samples=True)
+    bank = samples_bank()
     assert bank.problems == ()
     assert len(bank) == 4
     assert {q.question_type for q in bank.questions} == {"match", "sequence", "statements", "assertion_reason"}
@@ -60,11 +69,66 @@ def test_unit_labels_match_the_requested_pattern():
     ({"source": {"type": "model"}}, "cannot have an exam_year"),
     ({"question_type": "match"}, "list_i"),
     ({"question_type": "assertion_reason"}, "assertion"),
-    ({"trend_analysis": " "}, "trend_analysis"),
+    ({"answer_source": "my_guess"}, "answer_source"),
+    ({"question_no": 0}, "question_no"),
+    ({"paper": 2}, "paper"),
+    ({"question_type": "statements", "items": ["p", "q"], "item_style": "greek"}, "item_style"),
+    ({"question_type": "match", "lists": {"list_i": {"items": ["a"], "style": "x"}, "list_ii": {"items": ["b"]}}},
+     "style"),
 ])
 def test_bad_questions_are_rejected_with_a_reason(overrides, message):
     with pytest.raises(QuestionError, match=message):
         parse_question(dated("X", 2025, "June", **overrides))
+
+
+def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
+    bank = shipped_bank()
+    assert bank.problems == ()
+    papers = [q for q in bank.questions if q.is_dated]
+    jan17 = sorted((q for q in papers if q.session_key == "2017-January"), key=lambda q: q.question_no)
+    assert [q.question_no for q in jan17] == list(range(1, 51))
+    assert {q.paper for q in jan17} == {"Paper II"}
+    library = load_library(SOURCE_DIR)
+    notes, problems = read_topic_notes(TOPIC_FILE)
+    assert problems == []
+    for q in papers:
+        assert q.source_type == "official" and q.answer_source in ("official_key", "cross_checked", "unverified")
+        assert q.trend_analysis == notes[q.subject][q.micro_topic]   # filled from data/topics.json
+        assert q.detailed_explanation.startswith(f"**Answer: ({q.correct_answer})")
+        assert all(sid in library.by_id for sid in q.source_ids), q.id
+    assert jan17[0].source_label == "January 2017 · Paper II · Q1 · Official paper"
+
+
+def test_questions_without_trend_analysis_take_the_topic_note():
+    note = {"yoga": {"Kleshas and their removal": "Note from topics.json"}}
+    bank = bank_of(dated("A", 2025, "June", trend_analysis=""), dated("B", 2025, "June", trend_analysis="Own note"),
+                   dated("C", 2025, "June", trend_analysis="", micro_topic="Unknown topic"), notes=note)
+    assert [q.trend_analysis for q in bank.questions] == ["Note from topics.json", "Own note"]
+    assert bank.problems[0].question_id == "C" and "topics.json" in bank.problems[0].errors[0]
+
+
+def test_topic_file_problems_are_reported(tmp_path):
+    bad = tmp_path / "topics.json"
+    bad.write_text('["not", "a", "mapping"]', encoding="utf-8")
+    notes, problems = read_topic_notes(bad)
+    assert notes == {} and "must look like" in problems[0].errors[0]
+    bad.write_text("{", encoding="utf-8")
+    assert "not valid JSON" in read_topic_notes(bad)[1][0].errors[0]
+    assert read_topic_notes(tmp_path / "missing.json") == ({}, [])
+
+
+def test_sessions_are_months_in_calendar_order():
+    bank = bank_of(dated("J", 2017, "January"), dated("N", 2017, "November"), dated("Y", 2018, "July"),
+                   dated("D", 2019, "December", paper="Paper 2", question_no=7, answer_source="official_key",
+                         passage="Read me", question_type="statements", items=["p", "q"], item_style="roman"))
+    order = sorted(bank.questions, key=lambda q: q.session_order)
+    assert [q.id for q in order] == ["J", "N", "Y", "D"]
+    assert list(session_choices(bank.questions))[-3:] == ["2017", "2017-November", "2017-January"]
+    d = bank["D"]
+    assert (d.paper, d.question_no, d.answer_source, d.passage, d.item_style) == (
+        "Paper 2", 7, "official_key", "Read me", "roman")
+    assert d.source_label == "December 2019 · Paper 2 · Q7 · Official paper"
+    assert bank["J"].list_styles == ("letters", "roman")
 
 
 def test_undated_official_question_is_rejected():
@@ -112,7 +176,7 @@ def test_filters_and_choices():
 # --- tracking ---------------------------------------------------------------------------
 
 def test_practice_run_scores_and_restarts_on_the_same_deck():
-    bank = load_bank(QUESTION_DIR)
+    bank = samples_bank()
     ids = [q.id for q in bank.questions]
     run = new_run(1, ids, Filters(), shuffle=False)
     run.submit(ids[0], bank[ids[0]].correct_answer)
@@ -125,7 +189,7 @@ def test_practice_run_scores_and_restarts_on_the_same_deck():
 
 
 def test_outstanding_mistakes_follow_the_latest_answer():
-    bank = load_bank(QUESTION_DIR)
+    bank = shipped_bank()
     a, b = bank.questions[0], bank.questions[1]
     log = [
         make_answer(a, 9, "practice", 1, T0),
@@ -164,7 +228,7 @@ def test_empty_review_is_done_at_once():
 
 
 def test_log_round_trips_through_json():
-    bank = load_bank(QUESTION_DIR)
+    bank = shipped_bank()
     log = [make_answer(q, 1, "practice", 1, T0) for q in bank.questions]
     restored = answers_from_dicts(json.loads(json.dumps([a.to_dict() for a in log])))
     assert restored == log
@@ -177,7 +241,7 @@ def test_log_round_trips_through_json():
 # --- analytics --------------------------------------------------------------------------
 
 def test_accuracy_bands_and_revision_list():
-    bank = load_bank(QUESTION_DIR)
+    bank = samples_bank()
     by_topic = {q.micro_topic: q for q in bank.questions}
     klesha, shat = by_topic["Kleshas and their removal"], by_topic["Shatkarma in Hatha Pradipika and Gheranda Samhita"]
     log = (
@@ -204,8 +268,8 @@ def test_topic_frequency_counts_only_dated_papers():
     assert (f.topic_dated, f.unit_dated, f.subject_dated, f.sessions_loaded) == (2, 3, 4, 3)
     assert f.topic_sessions == ("June 2023", "June 2025")
     assert "2 dated question(s)" in f.sentence("Yoga")
-    none = an.topic_frequency(load_bank(QUESTION_DIR).questions, load_bank(QUESTION_DIR).questions[0])
-    assert "No dated Yoga papers" in none.sentence("Yoga")
+    samples = samples_bank().questions
+    assert "No dated Yoga papers" in an.topic_frequency(samples, samples[0]).sentence("Yoga")
 
 
 # --- library ----------------------------------------------------------------------------

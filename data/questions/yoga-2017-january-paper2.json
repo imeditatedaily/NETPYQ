@@ -1,0 +1,1653 @@
+[
+  {
+    "id": "YOGA-2017JAN-P2-Q01",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 1,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Which is the Sanskrit root (verb form) for the etymological derivation of the word “Yoga” ?",
+    "options": [
+      "Yug",
+      "Yuge",
+      "Yuj",
+      "Yuje"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Yuj.**\n\n*Yoga* comes from the verbal root **yuj** (युज्). The Pāṇinian Dhātupāṭha lists it in three senses:\n- *yujir yoge*: to join, to yoke (class 7)\n- *yuja samādhau*: to be absorbed, to concentrate (class 4)\n- *yuja saṃyamane*: to restrain (class 10)\n\nVyāsa's gloss on YS 1.1, *yogaḥ samādhiḥ*, draws on the second sense. \"Yug\", \"Yuge\" and \"Yuje\" are not roots; they are distractors built on the sound of the word.",
+    "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+    "micro_topic": "Etymology and definitions of Yoga",
+    "source_ids": [
+      "dasgupta-1924-yoga-philosophy",
+      "telang-1882-bhagavadgita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q02",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 2,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Who was the Yoga Guru of Swami Kuvalayananda ?",
+    "options": [
+      "Pattābhi Jois",
+      "T. Krishnamācharya",
+      "Mādhav Dās",
+      "Yogendra"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Mādhav Dās.**\n\nSwami Kuvalayananda (J. G. Gune, 1883–1966) learned yoga from **Paramahamsa Mādhavdāsjī of Malsar** (Gujarat) around 1919–20. He founded **Kaivalyadhama, Lonavla, in 1924** and the journal *Yoga Mīmāṃsā* the same year, pioneering laboratory research on yoga.\n\nThe distractors are linked names: Shri **Yogendra** was a fellow disciple of Mādhavdāsjī and founded The Yoga Institute, Santacruz (1918); **T. Krishnamācharya** was the teacher of **Pattābhi Jois**.",
+    "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+    "micro_topic": "Modern yoga masters and institutions"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q03",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 3,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Which of the following practice leads to immortality, according to Ishavasyopanishad ?",
+    "options": [
+      "Vairāgya",
+      "Viveka",
+      "Vidyā",
+      "Vishaya"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Vidyā.**\n\nĪśa Upaniṣad 11: *vidyāṃ cāvidyāṃ ca yas tad vedobhayaṃ saha | avidyayā mṛtyuṃ tīrtvā vidyayāmṛtam aśnute*: \"Whoever knows vidyā and avidyā together crosses death through avidyā (action) and attains immortality through **vidyā** (knowledge).\" Verse 14 repeats the pattern with *sambhūti* and *asambhūti*.\n\nVairāgya and viveka are general sādhana terms not used in this verse; *viṣaya* (sense object) is the opposite of what leads to immortality.",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Isha Upanishad",
+    "source_ids": [
+      "muller-upanishads"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q04",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 4,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Definition of Yoga according to Kathōpanishad is",
+    "options": [
+      "Control on mind",
+      "Control on sense organs, mind and intellect",
+      "Control on sense organs and intellect",
+      "Control on body and mind"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) Control on sense organs, mind and intellect.**\n\nKaṭha Upaniṣad 2.3.10–11: *yadā pañcāvatiṣṭhante jñānāni manasā saha | buddhiś ca na viceṣṭate tām āhuḥ paramāṃ gatim || tāṃ yogam iti manyante sthirām indriyadhāraṇām*: \"When the five senses are at rest together with the mind, and the intellect does not stir, that is the highest state. This steady holding of the senses they call yoga.\"\n\nAll three are named: the senses (*jñānāni*), the mind (*manas*) and the intellect (*buddhi*). The other options each leave one out.",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Katha Upanishad",
+    "source_ids": [
+      "muller-upanishads"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q05",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 5,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Which Upanishad described the ‘Shāndilya Vidyā’ ?",
+    "options": [
+      "Kathopanishad",
+      "Brihadaranyakopanishad",
+      "Aitareyopanishad",
+      "Chhandogyopanishad"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) Chhāndogya Upaniṣad.**\n\nThe Śāṇḍilya-vidyā is **Chāndogya 3.14**: *sarvaṃ khalv idaṃ brahma, taj-jalān iti śānta upāsīta*: \"All this is Brahman; one should meditate calmly on it as that from which the world arises, into which it dissolves and by which it lives.\" It ends with the self in the heart, \"smaller than a grain of rice… greater than the earth\".\n\nThe Chāndogya's named *vidyās* are a steady source of \"which Upaniṣad\" items:\n- Madhu (3.1–11)\n- Śāṇḍilya (3.14)\n- Pañcāgni (5.3–10)\n- Bhūmā (7.23–24)\n- Dahara (8.1)",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Chandogya Upanishad",
+    "source_ids": [
+      "muller-upanishads"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q06",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 6,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "What is the remedy (upāya) for abolition of sufferings according to Patanjali ?",
+    "options": [
+      "Samādhi",
+      "Dhyāna",
+      "Kriya-yoga",
+      "Viveka-khyāti"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) Viveka-khyāti.**\n\nYS 2.26: *vivekakhyātir aviplavā hānopāyaḥ*: unwavering discriminative discernment is the means (**upāya**) of removal. It completes the four-part \"medical\" scheme of the Sādhana-pāda:\n- **heya**, what is to be avoided: future suffering, *heyaṃ duḥkham anāgatam* (2.16)\n- **heya-hetu**, its cause: the conjunction of seer and seen (2.17)\n- **hāna**, removal: the end of that conjunction when avidyā ceases, which is kaivalya (2.25)\n- **hānopāya**, the means: viveka-khyāti (2.26)\n\nKriyā-yoga only *attenuates* the kleśas (2.2); dhyāna and samādhi are limbs, not the named upāya.",
+    "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+    "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+    "source_ids": [
+      "woods-1914-yoga-system",
+      "vivekananda-1896-raja-yoga"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q07",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 7,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "How many Asanas are described in Siddha Siddhānta Paddhati ?",
+    "options": [
+      "4",
+      "3",
+      "8",
+      "15"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) 3.**\n\nThe *Siddha Siddhānta Paddhati*, a Nātha text attributed to Gorakṣanātha, defines āsana as being settled in one's own nature (*sva-svarūpe samāsannatā*) and names three: **svastikāsana, padmāsana and siddhāsana**.\n\nContrast the Haṭha Pradīpikā (15 āsanas) and the Gheraṇḍa Saṃhitā (32 described out of 84 lakh). SSP is also examined for its nine cakras, sixteen ādhāras, three lakṣyas and five vyomas (see Q10).",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Siddha Siddhanta Paddhati"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q08",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 8,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "The types of Mahā-yoga according to Hatha Ratnāvali",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "3"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) 4.**\n\nŚrīnivāsa's *Haṭharatnāvalī* (17th century) teaches that the one **mahāyoga** is fourfold: **mantra-yoga, laya-yoga, haṭha-yoga and rāja-yoga**.\n\nThe same four-way division appears in the Yogatattva Upaniṣad and in Śiva Saṃhitā 5 (*mantrayogo haṭhaś caiva layayogas tṛtīyakaḥ | caturtho rājayogaḥ*), so \"four kinds of yoga\" can be asked from any of these texts.",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Hatha Ratnavali"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q09",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 9,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "In which of the following text ‘Bhujangikaran’ Prānāyāma is described ?",
+    "options": [
+      "Yoga Vāshishtha",
+      "Shiva Samhita",
+      "Hatha Ratnāvali",
+      "Siddha Siddhānta Paddhati"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Hatha Ratnāvalī.**\n\nEach Haṭha text has its own kumbhaka list, and the differences are what gets tested:\n- **Haṭha Pradīpikā**, eight: sūryabhedana, ujjāyī, sītkārī, śītalī, bhastrikā, bhrāmarī, mūrcchā, plāvinī\n- **Gheraṇḍa Saṃhitā** 5.46, eight: sahita, sūryabheda, ujjāyī, śītalī, bhastrikā, bhrāmarī, mūrcchā, kevalī\n- **Haṭharatnāvalī**, nine: it adds **bhujaṅgīkaraṇa**, drawing in air like a serpent",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Kumbhaka types across Hatha texts",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q10",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 10,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "Which of the following Chakras are mentioned in Siddha Siddhānta Paddhati ?",
+    "items": [
+      "Surya Chakra",
+      "Tālu Chakra",
+      "Ākāsh Chakra",
+      "Sahasrār Chakra"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer :",
+    "options": [
+      "III & IV",
+      "II & III",
+      "III & I",
+      "I & IV"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) II & III.**\n\nSSP (upadeśa 2) describes **nine cakras**: brahma/ādhāra, svādhiṣṭhāna, nābhi, hṛdaya, kaṇṭha, **tālu**, bhrū, nirvāṇa (at the brahmarandhra) and **ākāśa**.\n\nSo tālu-cakra (II) and ākāśa-cakra (III) are in the text. There is no sūrya-cakra, and the crown centre is called *nirvāṇa-cakra*, not \"sahasrāra\". The familiar seven-cakra scheme with sahasrāra comes from later tantric sources.",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Siddha Siddhanta Paddhati"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q11",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 11,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "The largest gland in human body is",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Parotid gland",
+      "Adrenal gland"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) Liver.**\n\nThe liver (about 1.2–1.5 kg in adults) is the largest gland. It secretes bile and handles protein, carbohydrate and fat metabolism, detoxification and storage of glycogen, iron and vitamins.\n\nThe pancreas is the second-largest gland. The parotid is the largest *salivary* gland. The adrenals are small endocrine glands on the kidneys.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Human biology: digestive system"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q12",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 12,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "“Pernicious Anaemia” occurs due to deficiency of vitamin –",
+    "options": [
+      "Niacin",
+      "Cyanocobalamin",
+      "Riboflavin",
+      "Thiamine"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) Cyanocobalamin (vitamin B12).**\n\nIn pernicious anaemia, autoimmune damage to the stomach's parietal cells removes **intrinsic factor**, so B12 cannot be absorbed. The result is megaloblastic anaemia, with nerve damage if untreated.\n\nThe other deficiencies:\n- Niacin (B3): pellagra\n- Riboflavin (B2): angular stomatitis and cheilosis\n- Thiamine (B1): beriberi and Wernicke's encephalopathy",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Nutrition: vitamins and deficiencies"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q13",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 13,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "“Samadoshah Samagnishch Samadhātu Malakriyah” are the characteristic features of ‘Swastha’ according to which Achārya of Ayurveda ?",
+    "options": [
+      "Achārya Charaka",
+      "Achārya Sushruta",
+      "Achārya Kashyapa",
+      "Achārya Vāgbhata"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) Āchārya Suśruta.**\n\nSuśruta Saṃhitā, Sūtrasthāna 15: *samadoṣaḥ samāgniś ca samadhātumalakriyaḥ | prasannātmendriyamanāḥ svastha ity abhidhīyate*. A person is healthy (*svastha*) when:\n- the doṣas, agni (digestive fire), dhātus (tissues) and excretory functions are in balance\n- the self, senses and mind are clear and content\n\nIt is the Āyurvedic counterpart to the WHO definition of health (Q34), and the two are often asked together.",
+    "macro_unit": "Yoga Unit 7: Yoga and Health",
+    "micro_topic": "Concepts of health (WHO, Ayurveda)",
+    "source_ids": [
+      "bhishagratna-sushruta-samhita",
+      "kaviratna-charaka-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q14",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 14,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Which type of personality is described by Kretschmer ?",
+    "options": [
+      "Mesomorphy",
+      "Ectomorphy",
+      "Pyknic",
+      "Endomorphy"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Pyknic.**\n\nErnst Kretschmer (1921) linked body build to temperament with three types, plus a mixed \"dysplastic\" group:\n- **pyknic**: stocky, rounded\n- **asthenic** (leptosomatic): lean\n- **athletic**: muscular\n\nEndomorphy, mesomorphy and ectomorphy are **William Sheldon's** somatotypes (1940s), so the three distractors all come from one rival theory. Matching theorist to typology is a standard psychology item.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Psychology: personality theories"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q15",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 15,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "What is the main therapeutic benefit of Kapālabhati practice ?",
+    "options": [
+      "to remove kapha disorders",
+      "to remove pitta disorders",
+      "to remove vāta disorders",
+      "to remove vāta-pitta disorders"
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) To remove kapha disorders.**\n\nHaṭha Pradīpikā 2.35: *bhastrāval lohakārasya recapūrau sasambhramau | kapālabhātir vikhyātā **kaphadoṣa-viśoṣaṇī***: rapid exhalation and inhalation like a blacksmith's bellows, which \"dries up kapha disorders\".\n\nThis fits HP 2.21, which prescribes the ṣaṭkarmas for those with excess fat or phlegm (*medaḥ-śleṣmādhika*).",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q16",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 16,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "What is the recommended time period for the practice of Kumbhaka (Pranayama) according to Hatha Pradeepika ?",
+    "options": [
+      "Before sunrise",
+      "After sunset",
+      "Morning and evening both time",
+      "Morning, midday, evening, midnight"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) Morning, midday, evening, midnight.**\n\nHaṭha Pradīpikā 2.11: *prātar madhyandine sāyam ardharātre ca kumbhakān | śanair aśītiparyantaṃ caturvāraṃ samabhyaset*. Practise kumbhakas **four times a day** (morning, midday, evening and midnight), gradually building to **eighty** at each sitting.\n\nThe numbers four and eighty are what the examiner checks. Nearby verses give the signs of progress: sweating, then trembling, then steadiness (2.12).",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Pranayama in Hatha Pradipika",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q17",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 17,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "The Yoga class usually begin with a",
+    "options": [
+      "A Prayer",
+      "Suryanamaskār",
+      "Yogic Sūkshma Vyāyāma",
+      "Yogāsana"
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) A prayer.**\n\nA standard yoga session, as in the Ministry of AYUSH *Common Yoga Protocol*, runs:\n- **prayer**\n- loosening practices (sūkṣma vyāyāma / calana kriyā)\n- āsanas\n- kapālabhāti and prāṇāyāma\n- dhyāna\n- saṅkalpa and a closing śānti-pāṭha\n\nSūkṣma vyāyāma and sūrya namaskāra are warm-ups that come *after* the opening prayer.",
+    "macro_unit": "Yoga Unit 9: Applications of Yoga",
+    "micro_topic": "Methods of teaching yoga"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q18",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 18,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The well known Āchāryatrayās of Vedānta are ________.",
+    "items": [
+      "Shankara",
+      "Nārada",
+      "Rāmānuja",
+      "Madhva"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for the correct answer.",
+    "options": [
+      "I, II & III",
+      "I, III & IV",
+      "II, III & IV",
+      "I, II & IV"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) I, III & IV.**\n\nThe three great Vedānta ācāryas each commented on the *prasthāna-trayī* (Q33):\n- **Śaṅkara**, Advaita (8th century)\n- **Rāmānuja**, Viśiṣṭādvaita (11th–12th century)\n- **Madhva**, Dvaita (13th century)\n\nNārada is the author of the *Bhakti Sūtras* and is not the founder of a Vedānta school.",
+    "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+    "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+    "source_ids": [
+      "thibaut-vedanta-sutras",
+      "dasgupta-1922-history-indian-philosophy"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q19",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 19,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The pillars to attain moksha (liberation), according to Yoga Vashishtha are",
+    "items": [
+      "Santosha",
+      "Vichāra",
+      "Vairāgya",
+      "Viveka"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer :",
+    "options": [
+      "I and II are correct.",
+      "II and III are correct.",
+      "III & IV are correct.",
+      "I and IV are correct."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I and II.**\n\nThe Yoga Vāsiṣṭha (Mumukṣu-prakaraṇa) names **four gatekeepers (dvārapālas) of liberation**: *śamo vicāraḥ santoṣaś caturthaḥ sādhusaṅgamaḥ*. They are:\n- śama (tranquillity)\n- **vicāra** (enquiry)\n- **santoṣa** (contentment)\n- sādhu-saṅgama (company of the wise)\n\nVairāgya and viveka belong to the Vedāntic *sādhana-catuṣṭaya*, which makes them tempting distractors.",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Yoga Vasishtha",
+    "source_ids": [
+      "mitra-yoga-vasishtha"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q20",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 20,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The following are included under Chittabhumi :",
+    "items": [
+      "Moodha",
+      "Vikalpa",
+      "Vikshipta",
+      "Niruddha"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer :",
+    "options": [
+      "I, III, IV are correct.",
+      "I, II, III are correct",
+      "II, III, IV are correct.",
+      "I, II, IV are correct"
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I, III, IV.**\n\nVyāsa (on YS 1.1) names **five citta-bhūmis**, levels of the mind:\n- kṣipta (restless)\n- **mūḍha** (dull)\n- **vikṣipta** (distracted)\n- ekāgra (one-pointed)\n- **niruddha** (restrained)\n\n**Vikalpa** is not a bhūmi. It is one of the five *vṛttis* of YS 1.6 (pramāṇa, viparyaya, vikalpa, nidrā, smṛti), and swapping bhūmis with vṛttis is the classic trap.",
+    "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+    "micro_topic": "Chitta-bhumis and chitta-vrittis",
+    "source_ids": [
+      "woods-1914-yoga-system",
+      "vivekananda-1896-raja-yoga"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q21",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 21,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "Which of the following are the types of Prānāyāma, according to Pātānjala Yoga Sutra ?",
+    "items": [
+      "Stambhavritti Prānāyāma",
+      "Sahita Prānāyāma",
+      "Bāhyābhyantara Vishayākshepi Prānāyāna",
+      "Kevali Prānāyāma"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer :",
+    "options": [
+      "I and II are correct.",
+      "II and III are correct.",
+      "I and III are correct.",
+      "II and IV are correct."
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) I and III.**\n\nThe Yoga Sūtra gives four kinds of prāṇāyāma:\n- **YS 2.50**: *bāhya* (external), *ābhyantara* (internal) and ***stambha-vṛtti*** (suspended), each regulated by place, time and number\n- **YS 2.51**: a fourth, ***bāhyābhyantara-viṣayākṣepī***, which goes beyond the external and internal spheres\n\n*Sahita* and *kevalī* kumbhaka come from the Haṭha texts (HP 2.71–74; Gheraṇḍa 5), not from Patañjali.",
+    "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+    "micro_topic": "Pranayama in the Yoga Sutra",
+    "source_ids": [
+      "woods-1914-yoga-system",
+      "vivekananda-1896-raja-yoga"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q22",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 22,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The purpose of the practice of Kriyā-yoga according to Patanjali are ________.",
+    "items": [
+      "Viveka-khyāti",
+      "Samādhi-bhāva",
+      "Kaivalya-prāpti",
+      "Klesha-tanūkarana"
+    ],
+    "item_style": "roman",
+    "prompt": "Find the correct combination according to the code :",
+    "options": [
+      "I, II and III are correct.",
+      "II, III and IV are correct.",
+      "II and IV are correct.",
+      "I and III are correct."
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) II and IV.**\n\nYS 2.2: *samādhi-bhāvanārthaḥ kleśa-tanūkaraṇārthaś ca*. Kriyā-yoga (tapas, svādhyāya, īśvara-praṇidhāna, YS 2.1) is practised **to cultivate samādhi** and **to attenuate the kleśas**.\n\nViveka-khyāti (2.26) and kaivalya are later outcomes of the path, not the purpose stated for kriyā-yoga.",
+    "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+    "micro_topic": "Kriya Yoga",
+    "source_ids": [
+      "woods-1914-yoga-system",
+      "vivekananda-1896-raja-yoga"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q23",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 23,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The following are the components of Freud model of personality :",
+    "items": [
+      "Self",
+      "Ego",
+      "Superego",
+      "Id"
+    ],
+    "item_style": "roman",
+    "prompt": "Find the correct combination according to the codes :",
+    "options": [
+      "I, II and III are correct.",
+      "IV, II and III are correct.",
+      "IV, I and II are correct.",
+      "I, III and IV are correct."
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) IV, II and III.**\n\nFreud's structural model has three parts:\n- **Id**: instinctual drives, run by the pleasure principle\n- **Ego**: mediates with reality, run by the reality principle\n- **Superego**: internalised morality\n\n\"Self\" is a Jungian and humanistic construct and is not part of Freud's triad.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Psychology: personality theories"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q24",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 24,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "According to Hatha Pradeepika which of the following are included under Pathya āhāra ?",
+    "items": [
+      "Shunthi",
+      "Yavaka",
+      "Patola",
+      "Masha"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer :",
+    "options": [
+      "I and II are correct.",
+      "III and IV are correct.",
+      "I and III are correct.",
+      "II and III are correct."
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) I and III.**\n\nThe Haṭha Pradīpikā's list of wholesome foods (1.62 in most editions; 1.65 in some) reads: *godhūma-śāli-yava-ṣāṣṭika-śobhanānnaṃ kṣīrājya-khaṇḍa-navanīta-sitā-madhūni | **śuṇṭhī-paṭola**-kaphalādika-pañcaśākaṃ mudgādi divyam udakaṃ ca yamīndra-pathyam*.\n\n- **Śuṇṭhī** (dry ginger) and **paṭola** (pointed gourd) are named outright, hence I and III.\n- **Māṣa** (black gram) is not in the list.\n- *Yava* (barley) is in the list, so \"yavaka\" is arguable. The accepted key goes with the two items the verse names word for word.",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q25",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 25,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "Which of the following are two main parts of central nervous system ?",
+    "items": [
+      "Spinal cord",
+      "Brain",
+      "Sympathetic Nervous system",
+      "Parasympathetic Nervous System"
+    ],
+    "item_style": "roman",
+    "prompt": "Codes :",
+    "options": [
+      "I and II are correct",
+      "III and IV are correct",
+      "II and III are correct",
+      "II and IV are correct"
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I and II.**\n\nThe central nervous system is the **brain and spinal cord**.\n\nThe sympathetic and parasympathetic systems are the two divisions of the *autonomic* nervous system, which belongs to the peripheral nervous system.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Human biology: nervous system"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q26",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 26,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "Risk factors of Hypertension are",
+    "items": [
+      "Obesity",
+      "Stress",
+      "Walking",
+      "Smoking"
+    ],
+    "item_style": "roman",
+    "prompt": "Find the correct answer according to the codes given below :",
+    "options": [
+      "I, II and III are correct.",
+      "II, III and IV are correct.",
+      "III and IV are correct.",
+      "I, II and IV are correct."
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) I, II and IV.**\n\n**Obesity, chronic stress and smoking** raise the risk of hypertension. Regular **walking** lowers it and is part of lifestyle management, so it is the odd one out.\n\nYoga-therapy protocols for hypertension stress:\n- weight control\n- relaxation practices (śavāsana, yoga nidrā)\n- slow breathing (nāḍī śodhana, bhrāmarī)\n- avoiding strain, kapālabhāti and inversions in uncontrolled cases",
+    "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+    "micro_topic": "Yoga therapy: hypertension",
+    "source_ids": [
+      "mondal-2025-yoga-trials"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q27",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 27,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The most important Yoga practices for the management of sinusitis are",
+    "items": [
+      "Neti Kriya",
+      "Kapāla bhāti",
+      "Ardha Chakrāsana",
+      "Mayurāsana"
+    ],
+    "item_style": "roman",
+    "prompt": "Find the correct combination according to the codes given below :",
+    "options": [
+      "I, II and III are correct",
+      "I, III & IV are correct",
+      "I, II & IV are correct",
+      "IV, III & II are correct"
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I, II and III.**\n\nThe accepted combination for sinusitis:\n- **Neti** (jala/sūtra) clears the nasal passages and sinus openings.\n- **Kapālabhāti** cleanses the frontal region and \"dries up kapha\" (HP 2.35).\n- **Ardha-cakrāsana**, a standing backbend, opens the chest and eases breathing.\n\n**Mayūrāsana** is a strenuous arm balance valued for digestion (HP 1.31) and is not a sinus practice.",
+    "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+    "micro_topic": "Yoga therapy: respiratory disorders",
+    "source_ids": [
+      "mondal-2025-yoga-trials"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q28",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 28,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The following are major stress hormones :",
+    "items": [
+      "Prolactin",
+      "Cortisol",
+      "Epinephrine",
+      "Glucagon"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer.",
+    "options": [
+      "I & II are correct.",
+      "III & IV are correct.",
+      "II & III are correct.",
+      "II & IV are correct."
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) II & III.**\n\nThe two classic stress axes each end in one of these hormones:\n- **Cortisol**, from the adrenal cortex via the hypothalamus–pituitary–adrenal (HPA) axis\n- **Epinephrine** (adrenaline), from the adrenal medulla via the sympathetic–adrenal axis\n\nProlactin and glucagon can rise under stress but are not counted as the major stress hormones. Yoga research usually measures salivary cortisol as its stress marker.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Human biology: endocrine system and stress"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q29",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 29,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "Which are the characteristics of Hatha siddhi according to Hatha Pradeepika ?",
+    "items": [
+      "Clarity in eyes",
+      "Slimness in body",
+      "Happiness on face",
+      "Increase in memory"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer.",
+    "options": [
+      "I, II & III are correct.",
+      "II, III & IV are correct.",
+      "I, III & IV are correct.",
+      "I, II, III & IV are correct."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I, II & III.**\n\nHaṭha Pradīpikā 2.78: *vapuḥ kṛśatvaṃ vadane prasannatā nādasphuṭatvaṃ nayane sunirmale | arogatā bindujayo'gnidīpanaṃ nāḍīviśuddhir haṭhasiddhilakṣaṇam*. The signs of success in haṭha are:\n- **slimness of body** and **a cheerful face**\n- clear inner sound (nāda)\n- **very clear eyes**\n- freedom from disease and mastery of bindu\n- kindled digestive fire and purified nāḍīs\n\n\"Increase in memory\" is not in the verse.",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Signs of success in Hatha Pradipika",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q30",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 30,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The benefits of Suryabhedan Prānāyāma according to Hatha Pardeepika are –",
+    "items": [
+      "Purifies the frontal sinus",
+      "Destroyes Worm",
+      "Balances the Vayus",
+      "Removes hunger and thirst"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer.",
+    "options": [
+      "I & II are correct.",
+      "II & III are correct.",
+      "III & IV are correct.",
+      "IV & I are correct."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I & II.**\n\nHaṭha Pradīpikā 2.50: *kapāla-śodhanaṃ vāta-doṣaghnaṃ kṛmi-doṣa-hṛt*. Sūryabhedana:\n- **cleanses the skull** (frontal region)\n- destroys vāta disorders\n- **removes worm infestation**\n\nIt does not \"balance the vāyus\". Relief from hunger and thirst belongs to **śītalī** (HP 2.58: *kṣudhāṃ tṛṣām … śītalī … nihanti*). Matching each kumbhaka to its benefit is a staple item.",
+    "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+    "micro_topic": "Pranayama in Hatha Pradipika",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q31",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 31,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "Backward bending of Vertebral column occurs during the practice of which asanas ?",
+    "items": [
+      "Bhujangasana",
+      "Vajrasana",
+      "Pashchimottanasana",
+      "Dhanurasana"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes given below for correct answer.",
+    "options": [
+      "I and II are correct.",
+      "II and IV are correct.",
+      "I and IV are correct.",
+      "II and III are correct."
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) I and IV.**\n\nBhujaṅgāsana and dhanurāsana **extend** the spine, bending it backward. The other two do not:\n- **Vajrāsana** is a kneeling meditative posture that keeps the spine neutral.\n- **Paścimottānāsana** flexes the spine forward.",
+    "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+    "micro_topic": "Asanas: classification and effects",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "ayush-common-yoga-protocol"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q32",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 32,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "statements",
+    "question_text": "The following are the non-verbal communication skills :",
+    "items": [
+      "Maintaining eye contact",
+      "Body postures",
+      "Facial expressions",
+      "Lecture cum demonstration"
+    ],
+    "item_style": "roman",
+    "prompt": "Find the correct combination according to the codes :",
+    "options": [
+      "I, II and III are correct.",
+      "I and IV are correct.",
+      "II, III and IV are correct.",
+      "III, IV and I are correct."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1) I, II and III.**\n\n**Eye contact, body posture and facial expression** are non-verbal channels that a yoga teacher uses constantly, for example demonstrating while watching the group.\n\n**Lecture-cum-demonstration** is a *teaching method*, and it relies on speech.",
+    "macro_unit": "Yoga Unit 9: Applications of Yoga",
+    "micro_topic": "Methods of teaching yoga"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q33",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 33,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "assertion_reason",
+    "question_text": "Given below are two statements, labelled as Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+    "assertion": "Prasthānatrayee shows the path to attain “Moksha” (liberation).",
+    "reason": "Upanishads, Brahmasutras and Bhagwadgeeta are the three authoritative primary sources of knowledge of Vedānta Darshana.",
+    "prompt": "In the context of above two statements, which one of the following is correct ?",
+    "options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A).\n\nThe **prasthāna-trayī** (\"three points of departure\") are Vedānta's canonical sources:\n- the Upaniṣads (*śruti-prasthāna*)\n- the Brahma Sūtra (*nyāya-prasthāna*)\n- the Bhagavad Gītā (*smṛti-prasthāna*)\n\nBecause these three are the authoritative sources of Vedānta, whose goal is mokṣa, the accepted key reads (R) as the explanation of (A). Every major ācārya (Q18) established his school by commenting on all three.",
+    "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+    "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+    "source_ids": [
+      "thibaut-vedanta-sutras",
+      "dasgupta-1922-history-indian-philosophy"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q34",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 34,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "assertion_reason",
+    "question_text": "Given below are two statements, labelled as Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+    "assertion": "Health of human beings is multidimensional.",
+    "reason": "Health is a state of complete physical, mental and social well being and not merely an absence of disease or infirmity.",
+    "prompt": "In the context of above two statements, which one of the following is correct ?",
+    "options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A).\n\n(R) is the WHO definition (1948 constitution): *\"Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.\"* Health is called **multidimensional** precisely because it spans these dimensions.\n\nLater additions (spiritual, emotional, occupational wellness) are also asked, as is the Āyurvedic definition of *svastha* (Q13).",
+    "macro_unit": "Yoga Unit 7: Yoga and Health",
+    "micro_topic": "Concepts of health (WHO, Ayurveda)",
+    "source_ids": [
+      "bhishagratna-sushruta-samhita",
+      "kaviratna-charaka-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q35",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 35,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "assertion_reason",
+    "question_text": "Given below are two statements, labelled as Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+    "assertion": "Pashchimōttānāsana is contraindicated in sciatica.",
+    "reason": "Pashchimōttānāsana is a type of forward bending asana. All types of forward bending asanas should be contraindicated in sciatica.",
+    "prompt": "In the context of above two statements, which one of the following is correct ?",
+    "options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A).\n\nPaścimottānāsana is a deep forward bend. Forward flexion raises pressure inside the lumbar discs and stretches the sciatic nerve, so yoga-therapy protocols avoid **forward bends** in sciatica and disc prolapse. They favour gentle backbends and prone postures (makarāsana, bhujaṅgāsana, śalabhāsana) instead.\n\nThe key treats (R)'s general rule as the reason for (A).",
+    "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+    "micro_topic": "Yoga therapy: musculoskeletal disorders",
+    "source_ids": [
+      "mondal-2025-yoga-trials"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q36",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 36,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "assertion_reason",
+    "question_text": "Given below are two statements, labelled as Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+    "assertion": "Practice of Shavāsana and Dhyāna improves the memory of a person.",
+    "reason": "Memory is the process of encoding, storage and retrieval of information. Relaxation practices of Yoga improve these functions of brain to increase the memory.",
+    "prompt": "In the context of above two statements, which one of the following is correct ?",
+    "options": [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correct_answer": 1,
+    "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A).\n\nMemory is the process of **encoding, storage and retrieval**. Relaxation (śavāsana) and meditation lower stress arousal and improve attention, and both support encoding and retrieval. That is why the key reads (R) as the mechanism behind (A).\n\nThe three-stage model of memory (encoding, storage, retrieval) is itself a recurring psychology fact.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Psychology: memory and cognition"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q37",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 37,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "sequence",
+    "question_text": "Arrange the following sub-divisions of the Vedas in order in which they appeared. Use the code given below :",
+    "items": [
+      "Upanishads",
+      "Āranyakās",
+      "Brāhmanas",
+      "Samhitas"
+    ],
+    "item_style": "roman",
+    "prompt": "Codes :",
+    "options": [
+      "I, II, III, IV",
+      "II, IV, III, I",
+      "III, I, II, IV",
+      "IV, III, II, I"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) IV, III, II, I:** Saṃhitā, Brāhmaṇa, Āraṇyaka, Upaniṣad.\n\nEach Veda grew in four layers:\n- **Saṃhitās**: collections of hymns and mantras\n- **Brāhmaṇas**: prose on ritual\n- **Āraṇyakas**: \"forest texts\" interpreting ritual symbolically\n- **Upaniṣads**: the philosophical culmination, hence \"Vedānta\", the end of the Veda\n\nThe first two form the *karma-kāṇḍa*, the last the *jñāna-kāṇḍa*.",
+    "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+    "micro_topic": "Vedic literature and its divisions"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q38",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 38,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "sequence",
+    "question_text": "Arrange the following elements in sequential order according to Bhagwad Geeta :",
+    "items": [
+      "Anger",
+      "Involvement in sense objects",
+      "Attachment",
+      "Desire"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes for the correct answer :",
+    "options": [
+      "I, III, IV, II",
+      "III, II, I, IV",
+      "II, III, IV, I",
+      "IV, II, III, I"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) II, III, IV, I.**\n\nGītā 2.62: *dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate | saṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate*. The chain runs:\n- dwelling on **sense objects** (II)\n- leads to **attachment** (III)\n- attachment breeds **desire** (IV)\n- thwarted desire breeds **anger** (I)\n\nGītā 2.63 continues: anger → delusion (*sammoha*) → confusion of memory (*smṛti-vibhraṃśa*) → loss of discrimination (*buddhi-nāśa*) → ruin. Examiners ask for either half of the chain.",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Bhagavad Gita",
+    "source_ids": [
+      "telang-1882-bhagavadgita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q39",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 39,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "sequence",
+    "question_text": "Arrange the following elements in sequential order from their origin :",
+    "items": [
+      "Prithivi",
+      "Vayu",
+      "Akash",
+      "Jala",
+      "Agni"
+    ],
+    "item_style": "roman",
+    "prompt": "Use the codes for the correct answer :",
+    "options": [
+      "II, IV, I, III, V",
+      "III, II, V, IV, I",
+      "IV, III, V, II, I",
+      "V, III, I, IV, II"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) III, II, V, IV, I:** ākāśa, vāyu, agni, jala, pṛthivī.\n\nTaittirīya Upaniṣad 2.1: *tasmād vā etasmād ātmana **ākāśaḥ** sambhūtaḥ | ākāśād **vāyuḥ** | vāyor **agniḥ** | agner **āpaḥ** | adbhyaḥ **pṛthivī***. From the Self arose space, from space air, from air fire, from fire water, and from water earth.\n\nThe same passage continues to plants, food and the person, which leads into the pañca-kośa teaching (Q41).",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Taittiriya Upanishad",
+    "source_ids": [
+      "muller-upanishads"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q40",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 40,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "sequence",
+    "question_text": "Arrange the following parts of Respiratory system in a sequential order. Use the code given below :",
+    "items": [
+      "Bronchioles",
+      "Trachea",
+      "Bronchi",
+      "Alveoli"
+    ],
+    "item_style": "roman",
+    "prompt": "Codes :",
+    "options": [
+      "III, I, II, IV",
+      "II, I, III, IV",
+      "IV, III, I, II",
+      "II, III, I, IV"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) II, III, I, IV:** trachea, bronchi, bronchioles, alveoli.\n\nInhaled air passes nose/mouth → pharynx → larynx → **trachea** → the two primary **bronchi** → branching **bronchioles** → **alveoli**, where gas exchange takes place across the respiratory membrane.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Human biology: respiratory system"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q41",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 41,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "sequence",
+    "question_text": "Arrange the Pancha Kosha in sequential order, from gross to subtle. Use the codes given below :",
+    "items": [
+      "Manomaya Kosha",
+      "Prānamaya Kosha",
+      "Ānandamaya Kosha",
+      "Annamaya Kosha",
+      "Vigyānamaya Kosha"
+    ],
+    "item_style": "roman",
+    "prompt": "Codes :",
+    "options": [
+      "II, IV, I, III, V",
+      "II, IV, III, I, V",
+      "IV, II, I, III, V",
+      "IV, II, I, V, III"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) IV, II, I, V, III.**\n\nThe Taittirīya Upaniṣad (Brahmānanda-vallī) describes five sheaths, each subtler one filling the grosser, from gross to subtle:\n- **annamaya** (food)\n- **prāṇamaya** (vital energy)\n- **manomaya** (mind)\n- **vijñānamaya** (intellect)\n- **ānandamaya** (bliss)\n\nOption (3) swaps the last two, the usual trap. Yoga therapy (e.g., S-VYASA's integrated approach) maps practices to each kośa.",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Pancha Kosha",
+    "source_ids": [
+      "muller-upanishads"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q42",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 42,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "match",
+    "question_text": "Match List – I with List – II and select the correct option by choosing from codes given below :",
+    "lists": {
+      "list_i": {
+        "title": "List – I",
+        "items": [
+          "Body",
+          "Soul",
+          "Mind",
+          "Sense Organs"
+        ],
+        "style": "roman"
+      },
+      "list_ii": {
+        "title": "List – II",
+        "items": [
+          "Charioteer",
+          "Rein",
+          "Horse",
+          "Chariot"
+        ],
+        "style": "letters"
+      }
+    },
+    "prompt": "Codes :",
+    "options": [
+      "I-A, II-C, III-B, IV-D",
+      "I-D, II-B, III-C, IV-A",
+      "I-D, II-A, III-B, IV-C",
+      "I-B, II-D, III-C, IV-A"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) I-D, II-A, III-B, IV-C.**\n\nKaṭha Upaniṣad 1.3.3–4: *ātmānaṃ rathinaṃ viddhi śarīraṃ ratham eva tu | buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca || indriyāṇi hayān āhuḥ…* The simile maps:\n- **body** → **chariot**\n- **mind** → **reins**\n- **senses** → **horses**\n- sense objects → the roads\n\nStrictly, the self is the *rider* (rathin) and the **intellect** is the charioteer. List II has no \"rider\", so the soul goes with the charioteer. Expect the simile to return with buddhi included.",
+    "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+    "micro_topic": "Katha Upanishad",
+    "source_ids": [
+      "muller-upanishads"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q43",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 43,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "unverified",
+    "question_type": "match",
+    "question_text": "Match List – I with List – II and select the correct option by choosing from codes given below :",
+    "lists": {
+      "list_i": {
+        "title": "List – I",
+        "items": [
+          "Klesha",
+          "Chittavritti",
+          "Sahabhuva",
+          "Antaraya"
+        ],
+        "style": "roman"
+      },
+      "list_ii": {
+        "title": "List – II",
+        "items": [
+          "Anavasthitattva",
+          "Angamejayatva",
+          "Vikalpa",
+          "Asmitā"
+        ],
+        "style": "letters"
+      }
+    },
+    "prompt": "Codes :",
+    "options": [
+      "I-C, II-D, III-B, IV-A",
+      "I-D, II-C, III-A, IV-B",
+      "I-D, II-C, III-B, IV-A",
+      "I-C, II-D, III-A, IV-B"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) I-D, II-C, III-B, IV-A.**\n\nEach List I term names a category, and List II gives one member of it:\n- **Kleśa** → *asmitā*, one of the five kleśas (YS 2.3).\n- **Citta-vṛtti** → *vikalpa*, one of the five vṛttis (1.6).\n- **Sahabhuva** → *aṅgamejayatva* (trembling of the limbs). The sahabhuvas are the symptoms that accompany distraction (1.31): duḥkha, daurmanasya, aṅgamejayatva, śvāsa-praśvāsa.\n- **Antarāya** → *anavasthitatva* (instability), the ninth obstacle (1.30).",
+    "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+    "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+    "source_ids": [
+      "woods-1914-yoga-system",
+      "vivekananda-1896-raja-yoga"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q44",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 44,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "unverified",
+    "question_type": "match",
+    "question_text": "Match the List – I with List – II and select the correct option using codes given below :",
+    "lists": {
+      "list_i": {
+        "title": "List – I",
+        "items": [
+          "Flat bones",
+          "Long bones",
+          "Short bones",
+          "Irregular bones"
+        ],
+        "style": "roman"
+      },
+      "list_ii": {
+        "title": "List – II",
+        "items": [
+          "Arms and Legs",
+          "Wrists",
+          "Sternum and Scapula",
+          "Vertebrae"
+        ],
+        "style": "letters"
+      }
+    },
+    "prompt": "Codes :",
+    "options": [
+      "I-D, II-A, III-B, IV-C",
+      "I-C, II-A, III-B, IV-D",
+      "I-C, II-A, III-D, IV-B",
+      "I-A, II-B, III-C, IV-D"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) I-C, II-A, III-B, IV-D.**\n\nBones are classified by shape:\n- **Flat**: sternum and scapula (also the skull vault and ribs)\n- **Long**: the limb bones, e.g. humerus and femur\n- **Short**: the carpals of the wrist (and the tarsals)\n- **Irregular**: the vertebrae\n- Sesamoid bones, such as the patella, form a fifth group, sometimes used as a distractor.",
+    "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+    "micro_topic": "Human biology: skeletal system"
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q45",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 45,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "match",
+    "question_text": "Match the List – I with List – II and select the correct option using codes given below :",
+    "lists": {
+      "list_i": {
+        "title": "List – I",
+        "items": [
+          "Styāna",
+          "Avirati",
+          "Alabdhabhumikatva",
+          "Anvasthitatva"
+        ],
+        "style": "roman"
+      },
+      "list_ii": {
+        "title": "List – II",
+        "items": [
+          "Inability to achieve the Samadhi Bhumi",
+          "Lack of Interest",
+          "Inability to maintain the chitta in achieved state",
+          "Sensual gratification"
+        ],
+        "style": "letters"
+      }
+    },
+    "prompt": "Codes :",
+    "options": [
+      "I-B, II-C, III-A, IV-D",
+      "I-B, II-D, III-A, IV-C",
+      "I-C, II-B, III-D, IV-A",
+      "I-D, II-C, III-A, IV-B"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) I-B, II-D, III-A, IV-C.**\n\nVyāsa's glosses on the obstacles of YS 1.30:\n- **Styāna**: *akarmaṇyatā*, the mind's unwillingness to work, i.e. lack of interest\n- **Avirati**: *viṣaya-saṃprayogātmā gardhaḥ*, craving through contact with sense objects\n- **Alabdha-bhūmikatva**: failing to reach a stage (bhūmi) of samādhi\n- **Anavasthitatva**: failing to *stay* in a stage once reached\n\nThe last two are easily confused. One is about reaching a stage, the other about holding it.",
+    "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+    "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+    "source_ids": [
+      "woods-1914-yoga-system",
+      "vivekananda-1896-raja-yoga"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q46",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 46,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Shatkarma procedure for cleansing of nasal passages is –",
+    "passage": "\"Shatkarmas\" include six groups of purification practices. They remove the toxins from body channels to improve the flow of Prana in different body parts. Shatkarmas create harmony between two major pranic flows, Ida and Pingala, to attain physical and mental purification and balance. These practices are advised before āsana, prānāyāma and other higher Yoga practices for successful progression of spiritual journey. The six main groups of Shatkarmas are Dhauti, Basti, Neti, Trātaka, Nauli and Kapālabhāti. These techniques should be taught by an experienced and qualified persons, not only theoretically but practically too. Dhauti kriyas are mainly meant for cleansing of upper part of gastro intestinal tract. 'Dhauti' is useful for patients of Hyper acidity, Flatulence and Bronchial Asthama. Basti is the process of cleansing the rectum and large intestine. It is useful for patients of constipation. Neti is the process of cleansing of nasal passages. Two major types of it are Jala Neti and Sutra Neti. Neti is beneficial in case of sinusities, Allergic Rhinitis and Migraine. Trātaka is the process of intense gazing at one point or object without blinking the eyes. It helps to improve eye-sight, concentration and memory power. Nauli Kriya is the process of massaging and strengthening of abdominal organs, by clockwise and anticlockwise rolling of Ractii muscles. Nauli improves appetite and digestion and removes constipation. Kapālbhāti is a cleansing technique intend to purify the frontal part of brain. It helps to destroy the imbalance of kapha dosha and facilitate to practice Prānāyāma.",
+    "options": [
+      "Dhauti",
+      "Neti",
+      "Basti",
+      "Nauli"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) Neti.** The passage: \"Neti is the process of cleansing of nasal passages.\"\n\nHaṭha Pradīpikā 2.29 describes sūtra-neti: a smooth thread one span long passed into the nose and out through the mouth. Gheraṇḍa 1.50–51 adds that neti gives *divya-dṛṣṭi* (clear vision) and removes kapha disorders.",
+    "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+    "micro_topic": "Shatkarma: practice and benefits",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q47",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 47,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Shatkarmas are advised to practice",
+    "passage": "\"Shatkarmas\" include six groups of purification practices. They remove the toxins from body channels to improve the flow of Prana in different body parts. Shatkarmas create harmony between two major pranic flows, Ida and Pingala, to attain physical and mental purification and balance. These practices are advised before āsana, prānāyāma and other higher Yoga practices for successful progression of spiritual journey. The six main groups of Shatkarmas are Dhauti, Basti, Neti, Trātaka, Nauli and Kapālabhāti. These techniques should be taught by an experienced and qualified persons, not only theoretically but practically too. Dhauti kriyas are mainly meant for cleansing of upper part of gastro intestinal tract. 'Dhauti' is useful for patients of Hyper acidity, Flatulence and Bronchial Asthama. Basti is the process of cleansing the rectum and large intestine. It is useful for patients of constipation. Neti is the process of cleansing of nasal passages. Two major types of it are Jala Neti and Sutra Neti. Neti is beneficial in case of sinusities, Allergic Rhinitis and Migraine. Trātaka is the process of intense gazing at one point or object without blinking the eyes. It helps to improve eye-sight, concentration and memory power. Nauli Kriya is the process of massaging and strengthening of abdominal organs, by clockwise and anticlockwise rolling of Ractii muscles. Nauli improves appetite and digestion and removes constipation. Kapālbhāti is a cleansing technique intend to purify the frontal part of brain. It helps to destroy the imbalance of kapha dosha and facilitate to practice Prānāyāma.",
+    "options": [
+      "Before Asana only",
+      "Before Asana and Pranayama",
+      "Before Pranayama only",
+      "After Asana and Pranayama"
+    ],
+    "correct_answer": 2,
+    "detailed_explanation": "**Answer: (2) Before Asana and Pranayama.** The passage: \"These practices are advised before āsana, prāṇāyāma and other higher Yoga practices.\"\n\nThe texts agree:\n- **Gheraṇḍa** makes ṣaṭkarma the first limb (*śodhana*) of his seven-limbed yoga.\n- **Haṭha Pradīpikā** 2.21 advises it first for those with excess fat or phlegm, before prāṇāyāma.",
+    "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+    "micro_topic": "Shatkarma: practice and benefits",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q48",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 48,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "Shatkarmas beneficial for the patients suffering from constipation are",
+    "passage": "\"Shatkarmas\" include six groups of purification practices. They remove the toxins from body channels to improve the flow of Prana in different body parts. Shatkarmas create harmony between two major pranic flows, Ida and Pingala, to attain physical and mental purification and balance. These practices are advised before āsana, prānāyāma and other higher Yoga practices for successful progression of spiritual journey. The six main groups of Shatkarmas are Dhauti, Basti, Neti, Trātaka, Nauli and Kapālabhāti. These techniques should be taught by an experienced and qualified persons, not only theoretically but practically too. Dhauti kriyas are mainly meant for cleansing of upper part of gastro intestinal tract. 'Dhauti' is useful for patients of Hyper acidity, Flatulence and Bronchial Asthama. Basti is the process of cleansing the rectum and large intestine. It is useful for patients of constipation. Neti is the process of cleansing of nasal passages. Two major types of it are Jala Neti and Sutra Neti. Neti is beneficial in case of sinusities, Allergic Rhinitis and Migraine. Trātaka is the process of intense gazing at one point or object without blinking the eyes. It helps to improve eye-sight, concentration and memory power. Nauli Kriya is the process of massaging and strengthening of abdominal organs, by clockwise and anticlockwise rolling of Ractii muscles. Nauli improves appetite and digestion and removes constipation. Kapālbhāti is a cleansing technique intend to purify the frontal part of brain. It helps to destroy the imbalance of kapha dosha and facilitate to practice Prānāyāma.",
+    "options": [
+      "Basti and Neti",
+      "Nauli and Neti",
+      "Basti and Nauli",
+      "Nauli and Kapālabhāti"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Basti and Nauli.** The passage says basti \"is useful for patients of constipation\" and nauli \"improves appetite and digestion and removes constipation\".\n\nNeti and kapālabhāti act on the head and respiratory passages, not the bowel.",
+    "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+    "micro_topic": "Shatkarma: practice and benefits",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q49",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 49,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "The two major types of Neti Kriya are",
+    "passage": "\"Shatkarmas\" include six groups of purification practices. They remove the toxins from body channels to improve the flow of Prana in different body parts. Shatkarmas create harmony between two major pranic flows, Ida and Pingala, to attain physical and mental purification and balance. These practices are advised before āsana, prānāyāma and other higher Yoga practices for successful progression of spiritual journey. The six main groups of Shatkarmas are Dhauti, Basti, Neti, Trātaka, Nauli and Kapālabhāti. These techniques should be taught by an experienced and qualified persons, not only theoretically but practically too. Dhauti kriyas are mainly meant for cleansing of upper part of gastro intestinal tract. 'Dhauti' is useful for patients of Hyper acidity, Flatulence and Bronchial Asthama. Basti is the process of cleansing the rectum and large intestine. It is useful for patients of constipation. Neti is the process of cleansing of nasal passages. Two major types of it are Jala Neti and Sutra Neti. Neti is beneficial in case of sinusities, Allergic Rhinitis and Migraine. Trātaka is the process of intense gazing at one point or object without blinking the eyes. It helps to improve eye-sight, concentration and memory power. Nauli Kriya is the process of massaging and strengthening of abdominal organs, by clockwise and anticlockwise rolling of Ractii muscles. Nauli improves appetite and digestion and removes constipation. Kapālbhāti is a cleansing technique intend to purify the frontal part of brain. It helps to destroy the imbalance of kapha dosha and facilitate to practice Prānāyāma.",
+    "options": [
+      "Jala Neti and Ghrita Neti",
+      "Sutra Neti and Dugdha Neti",
+      "Jala Neti and Sutra Neti",
+      "Sutra Neti and Madhu Neti"
+    ],
+    "correct_answer": 3,
+    "detailed_explanation": "**Answer: (3) Jala neti and sūtra neti.** The passage: \"Two major types of it are Jala Neti and Sutra Neti.\"\n\nGhṛta (ghee), dugdha (milk) and other neti variants exist in modern practice manuals but are minor. The Haṭha Pradīpikā itself describes only sūtra-neti.",
+    "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+    "micro_topic": "Shatkarma: practice and benefits",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  },
+  {
+    "id": "YOGA-2017JAN-P2-Q50",
+    "subject": "yoga",
+    "exam_year": 2017,
+    "exam_cycle": "January",
+    "paper": "Paper II",
+    "question_no": 50,
+    "source": {
+      "type": "official",
+      "note": "UGC NET (CBSE) January 2017, Yoga Paper II, booklet code JA-100-17, English version."
+    },
+    "answer_source": "cross_checked",
+    "question_type": "mcq",
+    "question_text": "The intense gazing at one point or object without blinking of eyes is called :",
+    "passage": "\"Shatkarmas\" include six groups of purification practices. They remove the toxins from body channels to improve the flow of Prana in different body parts. Shatkarmas create harmony between two major pranic flows, Ida and Pingala, to attain physical and mental purification and balance. These practices are advised before āsana, prānāyāma and other higher Yoga practices for successful progression of spiritual journey. The six main groups of Shatkarmas are Dhauti, Basti, Neti, Trātaka, Nauli and Kapālabhāti. These techniques should be taught by an experienced and qualified persons, not only theoretically but practically too. Dhauti kriyas are mainly meant for cleansing of upper part of gastro intestinal tract. 'Dhauti' is useful for patients of Hyper acidity, Flatulence and Bronchial Asthama. Basti is the process of cleansing the rectum and large intestine. It is useful for patients of constipation. Neti is the process of cleansing of nasal passages. Two major types of it are Jala Neti and Sutra Neti. Neti is beneficial in case of sinusities, Allergic Rhinitis and Migraine. Trātaka is the process of intense gazing at one point or object without blinking the eyes. It helps to improve eye-sight, concentration and memory power. Nauli Kriya is the process of massaging and strengthening of abdominal organs, by clockwise and anticlockwise rolling of Ractii muscles. Nauli improves appetite and digestion and removes constipation. Kapālbhāti is a cleansing technique intend to purify the frontal part of brain. It helps to destroy the imbalance of kapha dosha and facilitate to practice Prānāyāma.",
+    "options": [
+      "Dhauti",
+      "Neti",
+      "Kapālabhāti",
+      "Trātaka"
+    ],
+    "correct_answer": 4,
+    "detailed_explanation": "**Answer: (4) Trāṭaka.**\n\nHaṭha Pradīpikā 2.31: *nirīkṣen niścala-dṛśā sūkṣma-lakṣyaṃ samāhitaḥ | aśru-sampāta-paryantam ācāryais trāṭakaṃ smṛtam*: gazing steadily at a small object until tears flow.\n\nHP 2.32 praises it for eye diseases and calls it a secret practice to be guarded \"like a golden casket\". That is why a December 2019 item asked which kriyā HP calls secret.",
+    "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+    "micro_topic": "Shatkarma: practice and benefits",
+    "source_ids": [
+      "sinh-1914-hatha-yoga-pradipika",
+      "vasu-1895-gheranda-samhita"
+    ]
+  }
+]

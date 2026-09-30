@@ -10,11 +10,12 @@ import streamlit as st
 from ..analytics import topic_frequency
 from ..bank import Bank
 from ..library import Library
-from ..model import QUESTION_TYPES, Question
+from ..model import ANSWER_SOURCES, QUESTION_TYPES, Question
 from . import state
 
 LETTERS = "ABCDEFGHIJ"
 ROMAN = ("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X")
+LABELS = {"letters": LETTERS, "roman": ROMAN, "numbers": tuple(str(n) for n in range(1, 11))}
 _MD_SPECIAL = re.compile(r"([\\`*_\[\]<>#|$~])")
 
 
@@ -37,17 +38,22 @@ def syllabus_tags(q: Question) -> None:
 
 
 def question_body(q: Question) -> None:
+    if q.passage:
+        with st.expander("Read the passage", icon=":material/article:", expanded=True):
+            st.markdown(md(q.passage))
     st.markdown(f"#### {md(q.question_text)}")
     if q.list_i:
         rows = max(len(q.list_i), len(q.list_ii))
         table = [f"| {md(q.list_i_title)} | {md(q.list_ii_title)} |", "|---|---|"]
+        left_labels, right_labels = (LABELS[s] for s in q.list_styles)
         for i in range(rows):
-            left = f"**{LETTERS[i]}.** {md(q.list_i[i])}" if i < len(q.list_i) else ""
-            right = f"**{ROMAN[i]}.** {md(q.list_ii[i])}" if i < len(q.list_ii) else ""
+            left = f"**{left_labels[i]}.** {md(q.list_i[i])}" if i < len(q.list_i) else ""
+            right = f"**{right_labels[i]}.** {md(q.list_ii[i])}" if i < len(q.list_ii) else ""
             table.append(f"| {left} | {right} |")
         st.markdown("\n".join(table))
     if q.items:
-        st.markdown("\n\n".join(f"**{LETTERS[i]}.** {md(t)}" for i, t in enumerate(q.items)))
+        labels = LABELS[q.item_style]
+        st.markdown("\n\n".join(f"**{labels[i]}.** {md(t)}" for i, t in enumerate(q.items)))
     if q.assertion:
         with st.container(border=True):
             st.markdown(f"**Assertion (A):** {md(q.assertion)}")
@@ -123,6 +129,10 @@ def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: st
                  f"{md(q.correct_text)}", icon=":material/cancel:")
     if note:
         st.caption(note)
+    if q.answer_source:
+        icon = {"official_key": ":material/verified:", "cross_checked": ":material/fact_check:",
+                "unverified": ":material/help:"}[q.answer_source]
+        st.caption(f"{icon} {ANSWER_SOURCES[q.answer_source]}.")
     _options_review(q, chosen)
     st.markdown("##### Detailed explanation")
     st.markdown(q.detailed_explanation)

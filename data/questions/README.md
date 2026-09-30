@@ -1,8 +1,8 @@
 # Adding real PYQs
 
 Every `*.json` file in this folder is loaded as a list of questions, next to the
-four built-in samples in `pyq/data/samples.py`. One file per paper keeps things
-tidy, for example `yoga-2025-june.json` or `iks-2024-december.json`.
+four built-in samples in `pyq/data/samples.py`. Use one file per paper, for example
+`yoga-2017-january-paper2.json` (already here) or `yoga-2025-june.json`.
 
 A file holds a JSON list:
 
@@ -36,12 +36,15 @@ The id, session and note above only show the format.
 |---|---|---|
 | `id` | yes | Unique and permanent: saved logs refer to it. |
 | `subject` | yes | `yoga` or `iks` |
-| `exam_year`, `exam_cycle` | for real PYQs | e.g. `2025` and `"June"` or `"December"`. `null` for both on a model question. |
+| `exam_year`, `exam_cycle` | for real PYQs | The year and the month the session is named after: `"June"`/`"December"` for NTA papers, `"January"`, `"July"` or `"November"` for the CBSE papers of 2017–18. `null` for both on a model question. |
+| `paper`, `question_no` | no | As printed, e.g. `"Paper II"` and `12`. Shown as "January 2017 · Paper II · Q12". |
+| `answer_source` | recommended | `official_key` (from the official answer key), `cross_checked` (worked out and matching a published solved-papers key) or `unverified` |
 | `source.type` | recommended | `official`, `memory_based` or `model`. Defaults to `official` when a year is given. |
 | `question_type` | recommended | `mcq`, `match`, `assertion_reason`, `statements`, `sequence` (default `mcq`) |
 | `question_text` | yes | The stem |
-| `lists` | `match` | `{"list_i": {"title": "List I", "items": [...]}, "list_ii": {"title": "List II", "items": [...]}}`, labelled A–D and I–IV automatically |
-| `items` | `statements`, `sequence` | Labelled A, B, C… automatically |
+| `lists` | `match` | `{"list_i": {"title": "List I", "items": [...]}, "list_ii": {"title": "List II", "items": [...]}}`, labelled A–D and I–IV. Add `"style": "roman"`, `"letters"` or `"numbers"` to either list to match the booklet. |
+| `items` | `statements`, `sequence` | Labelled A, B, C…; set `item_style` to `"roman"` or `"numbers"` to match the booklet |
+| `passage` | no | A reading passage shared by a group of questions; repeat it on each question of the group |
 | `assertion`, `reason` | `assertion_reason` | |
 | `prompt` | no | e.g. "Choose the correct answer from the options given below:" |
 | `options` | yes | In the paper's order; shown as (1)–(4) |
@@ -49,12 +52,23 @@ The id, session and note above only show the format.
 | `detailed_explanation` | yes | Markdown |
 | `macro_unit` | yes | Exactly one of the labels in `pyq/syllabus.py`, e.g. `Yoga Unit 4: Patanjala Yoga Sutra`, `IKS Unit 3: Astronomy` |
 | `micro_topic` | yes | Spell it identically every time; frequencies group by this text |
-| `trend_analysis` | yes | Markdown, shown in the Trend Insight box |
+| `trend_analysis` | no | Markdown, shown in the Trend Insight box. Leave it out to use the note for the question's `micro_topic` in `data/topics.json`. |
 | `references` | no | Shown under the explanation |
 | `source_ids` | no | Ids from `sources/catalog.json`, shown as "Study this in" |
 
 A question with a problem is skipped and listed, with the reason, under
 **Question Bank → Data check**. The rest of the app keeps working.
+
+## Trend notes: `data/topics.json`
+
+One note per micro-topic, shared by every question on it:
+
+```json
+{ "yoga": { "Kriya Yoga": "**Pattern.** …" }, "iks": { … } }
+```
+
+A question with no `trend_analysis` of its own and no note for its micro-topic is
+listed under **Data check**, so a missing note is easy to spot.
 
 Once a real paper is in, the year filter, the unit × session grid and the
 "Frequency in loaded papers" line of every Trend Insight box count it

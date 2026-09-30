@@ -11,7 +11,7 @@ from datetime import datetime
 import streamlit as st
 
 from ..bank import Bank, folder_signature, load_bank
-from ..config import INCLUDE_SAMPLE_QUESTIONS, QUESTION_DIR, SOURCE_DIR
+from ..config import INCLUDE_SAMPLE_QUESTIONS, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
 from ..model import Question
@@ -25,11 +25,11 @@ FILTER_KEYS = {"subject": "f_subject", "session": "f_session", "unit": "f_unit",
 
 @st.cache_resource(show_spinner=False)
 def _bank(_signature: tuple) -> Bank:
-    return load_bank(QUESTION_DIR, INCLUDE_SAMPLE_QUESTIONS)
+    return load_bank(QUESTION_DIR, INCLUDE_SAMPLE_QUESTIONS, TOPIC_FILE)
 
 
 def get_bank() -> Bank:
-    return _bank(folder_signature(QUESTION_DIR))
+    return _bank(folder_signature(QUESTION_DIR, TOPIC_FILE))
 
 
 @st.cache_resource(show_spinner=False)

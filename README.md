@@ -14,9 +14,22 @@ Every answer, in Practice or Review, is logged in the background (`st.session_st
 
 ## About the data
 
-The app ships with **4 sample questions** (2 Yoga, 2 IKS; one each of the Match-the-List, Sequence, Multiple-statement and Assertion–Reason formats) in `pyq/data/samples.py`. They are **PYQ-pattern model questions**. They are written to NTA's formats and checked against the primary texts, but **they are not copied from a specific paper**, and they carry no exam year.
+**Real papers.** `data/questions/` holds official papers as they were printed, one JSON file per paper. It currently holds:
 
-This repository does **not yet contain historical papers**. Their `trend_analysis` therefore explains how each micro-topic is framed and what the examiner targets, and makes no claims like "asked 7 times since 2019". Instead, the app **counts frequency from the dated papers you load**. Once you add official papers (December 2018 to June 2026) to `data/questions/` with their `exam_year` and `exam_cycle`, the following fill in automatically and exactly:
+| Paper | Questions | Answers |
+|---|---|---|
+| UGC NET (CBSE) January 2017, Yoga Paper II (booklet JA-100-17, English version) | 50 | Worked out from the primary texts and matched against a published solved-papers key. Q43 and Q44 are marked *unverified*: their answers could not be lined up with that key in the scanned copy. |
+
+Each question keeps the booklet's wording, numbering and labels (List I in Roman numerals where the paper uses them, and the shared passage for Q46–50). Each is mapped to a syllabus unit and micro-topic, and has its own detailed explanation. The explanations are written for this app; none are copied from a guidebook. The feedback shows how the answer was checked: *official key*, *cross-checked* or *unverified*.
+
+**Samples.** The app also ships **4 sample questions** (2 Yoga, 2 IKS; one each of the Match-the-List, Sequence, Multiple-statement and Assertion–Reason formats) in `pyq/data/samples.py`. They are **PYQ-pattern model questions**, written to NTA's formats and checked against the primary texts. They are **not copied from a specific paper**, carry no exam year, and appear under *Undated / PYQ-pattern* in the session filter.
+
+**Trend analysis.** The Trend Insight box has two parts.
+
+- **The frequency line is counted, not written.** It comes from the dated papers loaded; for now that is one paper, so every count is from January 2017 alone.
+- **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
+
+As more papers go in, the following update automatically:
 
 - the "Frequency in loaded papers" line in every Trend Insight box
 - the year filter
@@ -59,14 +72,15 @@ pyq/
   config.py               revision threshold (75%), weak threshold (50%), folders, samples on/off
   syllabus.py             the 10 units of each subject and their labels
   model.py                the Question record and its checks
-  bank.py                 loads samples + data/questions/*.json, skips and reports bad entries
+  bank.py                 loads samples + data/questions/*.json + topic notes; skips and reports bad entries
   filters.py              sidebar filter logic
   tracker.py              attempt log, practice runs, the review loop
   analytics.py            accuracy tables, revision list, frequency counts (pandas)
   library.py              the Source Library catalog
   data/samples.py         the 4 sample questions
   ui/                     Streamlit pages and widgets (the only package that imports streamlit)
-data/questions/           your PYQ files (JSON)
+data/questions/           PYQ files, one JSON file per paper
+data/topics.json          trend notes per micro-topic, used by questions without their own trend_analysis
 sources/                  PDFs + catalog.json for the Source Library
 tests/                    pytest suite, including end-to-end runs with Streamlit's AppTest
 ```

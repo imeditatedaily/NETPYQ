@@ -8,6 +8,7 @@ from .syllabus import SUBJECTS, UNIT_INDEX, Subject
 
 type QuestionType = Literal["mcq", "match", "assertion_reason", "statements", "sequence"]
 type SourceType = Literal["official", "memory_based", "model"]
+type AnswerSource = Literal["official_key", "cross_checked", "unverified", ""]
 
 QUESTION_TYPES: dict[str, str] = {
     "mcq": "Single correct answer",
@@ -18,12 +19,21 @@ QUESTION_TYPES: dict[str, str] = {
 }
 
 SOURCE_TYPES: dict[str, str] = {
-    "official": "Official NTA paper",
+    "official": "Official paper",
     "memory_based": "Memory-based PYQ",
     "model": "PYQ-pattern model",
 }
 
-CYCLES = ("June", "December")
+ANSWER_SOURCES: dict[str, str] = {
+    "official_key": "Answer from the official NTA/UGC answer key",
+    "cross_checked": "Answer worked out independently and matching a published solved-papers key",
+    "unverified": "Answer worked out independently; not checked against an official key",
+}
+
+# Exam sessions are named by month: the CBSE-run papers of 2017-18 were held
+# in January, November and July; NTA's cycles are called June and December.
+CYCLES = ("January", "February", "March", "April", "May", "June", "July",
+          "August", "September", "October", "November", "December")
 UNDATED = "undated"
 
 
@@ -45,13 +55,19 @@ class Question:
     detailed_explanation: str
     macro_unit: str
     micro_topic: str
-    trend_analysis: str
+    trend_analysis: str = ""             # may be left empty; the micro-topic note in data/topics.json is used
     question_type: QuestionType = "mcq"
     exam_year: int | None = None
     exam_cycle: str | None = None
     source_type: SourceType = "model"
     source_note: str = ""
-    items: tuple[str, ...] = ()          # statements / sequence items, labelled A, B, C…
+    paper: str = ""                      # e.g. "Paper II" (CBSE era) or "Paper 2"
+    question_no: int | None = None       # number in the original booklet
+    answer_source: AnswerSource = ""
+    passage: str = ""                    # reading passage shared by a group of questions
+    items: tuple[str, ...] = ()          # statements / sequence items, labelled A, B, C… (see item_style)
+    item_style: str = "letters"          # "letters" (A, B…), "roman" (I, II…) or "numbers" (1, 2…)
+    list_styles: tuple[str, str] = ("letters", "roman")
     list_i_title: str = "List I"
     list_i: tuple[str, ...] = ()         # match: labelled A, B, C…
     list_ii_title: str = "List II"
@@ -87,13 +103,19 @@ class Question:
         """Chronological sort key; undated questions sort last."""
         if not self.is_dated:
             return 1_000_000
-        return self.exam_year * 2 + CYCLES.index(self.exam_cycle)
+        return self.exam_year * 12 + CYCLES.index(self.exam_cycle)
 
     @property
     def source_label(self) -> str:
         if self.source_type == "model":
             return "PYQ-pattern model, undated"
-        return f"{self.session_label} · {SOURCE_TYPES[self.source_type]}"
+        bits = [self.session_label]
+        if self.paper:
+            bits.append(self.paper)
+        if self.question_no is not None:
+            bits.append(f"Q{self.question_no}")
+        bits.append(SOURCE_TYPES[self.source_type])
+        return " · ".join(bits)
 
     @property
     def correct_text(self) -> str:
@@ -134,7 +156,7 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
     errors: list[str] = []
 
     for key in ("id", "subject", "question_text", "detailed_explanation",
-                "macro_unit", "micro_topic", "trend_analysis"):
+                "macro_unit", "micro_topic"):
         if not _text(raw, key):
             errors.append(f'"{key}" is missing or empty')
 
@@ -180,7 +202,7 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
         if not isinstance(year, int) or isinstance(year, bool) or not 2000 <= year <= 2100:
             errors.append('"exam_year" must be a year such as 2025')
         if cycle not in CYCLES:
-            errors.append('"exam_cycle" must be "June" or "December"')
+            errors.append('"exam_cycle" must be a month name such as "June" or "December"')
 
     source = raw.get("source") or {}
     source_type = source.get("type") if isinstance(source, Mapping) else None
@@ -198,6 +220,27 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
     source_ids = _texts(raw.get("source_ids") or [])
     if source_ids is None:
         errors.append('"source_ids" must be a list of Source Library ids')
+
+    answer_source = raw.get("answer_source", "")
+    if answer_source and answer_source not in ANSWER_SOURCES:
+        errors.append(f'answer_source "{answer_source}" is not one of: {", ".join(ANSWER_SOURCES)}')
+    qno = raw.get("question_no")
+    if qno is not None and (not isinstance(qno, int) or isinstance(qno, bool) or qno < 1):
+        errors.append('"question_no" must be a positive whole number')
+    paper = raw.get("paper", "")
+    if not isinstance(paper, str):
+        errors.append('"paper" must be text such as "Paper II"')
+
+    styles = ("letters", "roman", "numbers")
+    item_style = raw.get("item_style", "letters")
+    if item_style not in styles:
+        errors.append(f'item_style must be one of: {", ".join(styles)}')
+    lists = raw.get("lists") if isinstance(raw.get("lists"), Mapping) else {}
+    list_styles = tuple(
+        (lists.get(k) or {}).get("style", default) if isinstance(lists.get(k), Mapping) else default
+        for k, default in (("list_i", "letters"), ("list_ii", "roman")))
+    if any(st not in styles for st in list_styles):
+        errors.append(f'lists.*.style must be one of: {", ".join(styles)}')
 
     if errors:
         raise QuestionError(errors)
@@ -227,4 +270,10 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
         prompt=_text(raw, "prompt"),
         references=references,
         source_ids=source_ids,
+        paper=paper.strip() if isinstance(paper, str) else "",
+        question_no=qno,
+        answer_source=answer_source,
+        passage=_text(raw, "passage"),
+        item_style=item_style,
+        list_styles=list_styles,
     )

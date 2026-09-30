@@ -6,7 +6,7 @@ so one bad entry never takes the app down.
 
 import json
 from collections.abc import Iterable, Mapping
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from pathlib import Path
 from typing import Any
 
@@ -50,9 +50,15 @@ def _sort_key(q: Question) -> tuple:
     return (subject_order, q.unit_no, recency, q.id)
 
 
-def build_bank(entries: Iterable[tuple[Any, str]], problems: Iterable[Problem] = ()) -> Bank:
-    """entries: (raw question dict, where it came from) pairs."""
+def build_bank(entries: Iterable[tuple[Any, str]], problems: Iterable[Problem] = (),
+               topic_notes: Mapping[str, Mapping[str, str]] | None = None) -> Bank:
+    """entries: (raw question dict, where it came from) pairs.
+
+    A question without its own trend_analysis takes the note for its
+    micro-topic from topic_notes ({subject: {micro_topic: note}}).
+    """
     found = list(problems)
+    notes = topic_notes or {}
     questions: dict[str, Question] = {}
     for raw, origin in entries:
         qid = raw.get("id", "(no id)") if isinstance(raw, Mapping) else "(no id)"
@@ -64,8 +70,27 @@ def build_bank(entries: Iterable[tuple[Any, str]], problems: Iterable[Problem] =
         if q.id in questions:
             found.append(Problem(origin, q.id, (f'duplicate id "{q.id}"',)))
             continue
+        if not q.trend_analysis:
+            note = notes.get(q.subject, {}).get(q.micro_topic, "")
+            if not note:
+                found.append(Problem(origin, q.id, (
+                    f'no trend_analysis, and data/topics.json has no note for micro_topic "{q.micro_topic}"',)))
+                continue
+            q = replace(q, trend_analysis=note)
         questions[q.id] = q
     return Bank(tuple(sorted(questions.values(), key=_sort_key)), tuple(found))
+
+
+def read_topic_notes(path: Path) -> tuple[dict[str, dict[str, str]], list[Problem]]:
+    if not path.is_file():
+        return {}, []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        return {}, [Problem(path.name, "(whole file)", (f"not valid JSON: line {e.lineno}, column {e.colno}: {e.msg}",))]
+    if not isinstance(data, dict) or not all(isinstance(v, dict) for v in data.values()):
+        return {}, [Problem(path.name, "(whole file)", ('must look like {"yoga": {"micro-topic": "note", …}, "iks": {…}}',))]
+    return {s: {t: n for t, n in topics.items() if isinstance(n, str) and n.strip()} for s, topics in data.items()}, []
 
 
 def read_question_files(folder: Path) -> tuple[list[tuple[Any, str]], list[Problem]]:
@@ -86,14 +111,15 @@ def read_question_files(folder: Path) -> tuple[list[tuple[Any, str]], list[Probl
     return entries, problems
 
 
-def load_bank(folder: Path, include_samples: bool = True) -> Bank:
+def load_bank(folder: Path, include_samples: bool = True, topic_file: Path | None = None) -> Bank:
     entries: list[tuple[Any, str]] = [(q, SAMPLES_ORIGIN) for q in SAMPLE_QUESTIONS] if include_samples else []
     file_entries, problems = read_question_files(folder)
-    return build_bank(entries + file_entries, problems)
+    notes, note_problems = read_topic_notes(topic_file) if topic_file else ({}, [])
+    return build_bank(entries + file_entries, problems + note_problems, notes)
 
 
-def folder_signature(folder: Path) -> tuple[tuple[str, float], ...]:
-    """Changes whenever a question file is added, removed or edited (used as a cache key)."""
-    if not folder.is_dir():
-        return ()
-    return tuple((p.name, p.stat().st_mtime) for p in sorted(folder.glob("*.json")))
+def folder_signature(folder: Path, *extra: Path) -> tuple[tuple[str, float], ...]:
+    """Changes whenever a question file (or an extra file) is added, removed or edited (used as a cache key)."""
+    files = sorted(folder.glob("*.json")) if folder.is_dir() else []
+    files += [p for p in extra if p.is_file()]
+    return tuple((str(p), p.stat().st_mtime) for p in files)

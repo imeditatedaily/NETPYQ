@@ -28,11 +28,46 @@ def texts(at: AppTest) -> str:
     return "\n".join(m.value for m in at.markdown)
 
 
+def captions(at: AppTest) -> str:
+    return "\n".join(c.value for c in at.caption)
+
+
 @pytest.fixture
-def at() -> AppTest:
+def app() -> AppTest:
+    """The app as it opens: every loaded question, real papers first."""
     app = AppTest.from_file(APP, default_timeout=60).run()
     assert not app.exception, [e.message for e in app.exception]
     return app
+
+
+@pytest.fixture
+def at(app) -> AppTest:
+    """Scoped to the four built-in samples, so these flows do not depend on which papers are loaded."""
+    app.selectbox(key="f_session").set_value("undated").run()
+    assert not app.exception, [e.message for e in app.exception]
+    return app
+
+
+def test_real_paper_question_shows_its_source_answer_check_and_topic_note(app):
+    app.selectbox(key="f_session").set_value("2017-January").run()
+    md = texts(app)
+    assert "Yoga Unit 1: Fundamentals of Yoga" in md and "Etymology and definitions of Yoga" in md
+    assert "January 2017 · Paper II · Q1 · Official paper" in captions(app)
+    app = answer(app, 3)
+    assert app.success[0].value.startswith("**Correct.**")
+    assert "published solved-papers key" in captions(app)
+    md = texts(app)
+    assert "1 dated question(s)" in md and "Pattern." in md   # counted frequency, then the note from topics.json
+
+
+def test_passage_and_roman_labels_render_as_in_the_booklet(app):
+    app.selectbox(key="f_topic").set_value("Shatkarma: practice and benefits").run()
+    md = texts(app)
+    passage, stem = md.find('"Shatkarmas" include six groups'), md.find("Shatkarma procedure for cleansing")
+    assert 0 <= passage < stem   # the shared passage is shown above the question
+    app.selectbox(key="f_topic").set_value("Siddha Siddhanta Paddhati").run()
+    app.selectbox(key="f_qtype").set_value("statements").run()      # Q10, whose statements are numbered I–IV
+    assert "**I.** Surya Chakra" in texts(app) and "**II.** Tālu Chakra" in texts(app)
 
 
 def test_first_question_shows_syllabus_tags(at):
@@ -76,9 +111,10 @@ def test_full_loop_practice_review_to_100_percent_and_revision_plan(at):
 
 
 def test_same_quiz_can_be_retaken(at):
+    first = int(at.metric[0].value.lstrip("#"))
     at = answer(at, 3)
     at = click(at, "Restart this quiz")
-    assert at.metric[0].value == "#2"
+    assert at.metric[0].value == f"#{first + 1}"
     assert at.metric[1].value == "0 / 0"
     assert at.radio[0].value is None
 

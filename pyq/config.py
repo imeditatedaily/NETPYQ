@@ -16,5 +16,8 @@ INCLUDE_SAMPLE_QUESTIONS = True
 # Every *.json file here is loaded as a list of questions.
 QUESTION_DIR = Path(__file__).resolve().parent.parent / "data" / "questions"
 
+# Trend notes per micro-topic, used by questions that leave trend_analysis empty.
+TOPIC_FILE = Path(__file__).resolve().parent.parent / "data" / "topics.json"
+
 # The Source Library: PDFs plus sources/catalog.json.
 SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
