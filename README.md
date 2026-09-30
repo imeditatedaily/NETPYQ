@@ -19,6 +19,7 @@ Every answer, in Practice or Review, is logged in the background (`st.session_st
 | Paper | Questions | Answers |
 |---|---|---|
 | UGC NET (CBSE) January 2017, Yoga Paper II (booklet JA-100-17, English version) | 50 | Worked out from the primary texts and matched against a published solved-papers key. Q43 and Q44 are marked *unverified*: their answers could not be lined up with that key in the scanned copy. |
+| UGC NET June 2021 cycle (merged with December 2020; held Nov 2021 – Jan 2022), Yoga Paper 2, **Hindi** | 72 | Kept in Hindi as printed. Read from a text extraction of the scan, which has no question numbers, so the questions keep their source order. Answers worked out from the texts and marked *unverified*. Three items are left out (a Paper 1 item, an incomplete one, and one whose options are all historically wrong). |
 | UGC NET December 2022 cycle (held Feb–Mar 2023), Yoga Paper 2, Q51–66 | 15 | Only these questions were readable in your notes (NTA response-sheet screenshots); Q53 is incomplete there and left out. Answers worked out from the texts and marked *unverified*. |
 | UGC NET June 2024, Yoga Paper 2, Q51–150 (booklet series Y, English version) | 100 | Worked out from the primary texts. No official key was published: this is the pen-and-paper exam of 18 June 2024 that NTA cancelled, so every answer is marked *unverified*, and explanations say where an answer is provisional or the item is flawed. The session is inferred from the printed combined booklet. |
 
@@ -28,7 +29,7 @@ Each question keeps the booklet's wording, numbering and labels (List I in Roman
 
 **Trend analysis.** The Trend Insight box has two parts.
 
-- **The frequency line is counted, not written.** It comes from the dated papers loaded, currently January 2017, December 2022 (partial) and June 2024.
+- **The frequency line is counted, not written.** It comes from the dated papers loaded, currently January 2017, June 2021, December 2022 (partial) and June 2024.
 - **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
 
 As more papers go in, the following update automatically:

@@ -1,0 +1,2301 @@
+[
+ {
+  "id": "YOGA-2021JUN-P2-S01",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (विटामिन)",
+    "items": [
+     "विटामिन बी",
+     "विटामिन सी",
+     "विटामिन डी",
+     "विटामिन ई"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (कमी से होनेवाले रोग)",
+    "items": [
+     "कुपोषण",
+     "सूखारोग",
+     "स्कर्वी",
+     "पेलेग्रा"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+   "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-II, D-I.**\n\n- **Vitamin B** (niacin, B3) → **pellagra**\n- **Vitamin C** → **scurvy**\n- **Vitamin D** → **rickets** (सूखा रोग)\n- **Vitamin E** → the remaining item, *kupoṣaṇa* (malnutrition)\n\nPellagra, scurvy and rickets are the textbook deficiency diseases. Vitamin E deficiency has no single classic disease, so it pairs with the general item.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S02",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "किस पुस्तक में सगर्भ और निगर्भ कुंभकों का उल्लेख मिलता है?",
+  "options": [
+   "शिव संहिता",
+   "हठ प्रदीपिका",
+   "घेरण्ड संहिता",
+   "वशिष्ठ संहिता"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Gheraṇḍa Saṃhitā.**\n\nGS 5.47–48: *sahitaṃ dvividhaṃ proktaṃ sagarbhaṃ ca nigarbhakam | sagarbhaṃ bījam uccārya nigarbhaṃ bījavarjitam*. Sahita kumbhaka is of two kinds:\n- **sagarbha**, with the seed-mantra\n- **nigarbha**, without it\n\nThis is the classic source. The Vasiṣṭha Saṃhitā also uses the pair, so a later paper (June 2024) could list it for Vasiṣṭha. For \"which book\", Gheraṇḍa is the expected answer.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S03",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "निम्न में से शिव संहिता में बताये गये आसन हैं।",
+  "items": [
+   "स्वस्तिकासन",
+   "कुक्कुटासन",
+   "पश्चिमोत्तानासन",
+   "गोमुखासन",
+   "वीरासन"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (B), (C)",
+   "केवल (C), (D)",
+   "केवल (A), (C)",
+   "केवल (C), (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C only.**\n\nThe Śiva Saṃhitā (chapter 3) describes only four āsanas: siddha, padma, **ugra (paścimottāna)** and **svastika**. Kukkuṭa, gomukha and vīra are Haṭha Pradīpikā āsanas.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S04",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "प्राणायाम के अभ्यास का परामर्श दिया जाता है :",
+  "options": [
+   "षट्कर्म से पूर्व",
+   "आसन में दक्षता से पूर्व",
+   "आसन में दक्षता के पश्चात्",
+   "प्रत्याहार में दक्षता के पश्चात्"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) After mastery of āsana.**\n\nHaṭha Pradīpikā 2.1: *athāsane dṛḍhe yogī vaśī hita-mitāśanaḥ | gurūpadiṣṭa-mārgeṇa prāṇāyāmān samabhyaset*. Once āsana is steady, the self-controlled yogī on a wholesome, moderate diet practises prāṇāyāma as the guru teaches.\n\nPatañjali says the same: prāṇāyāma follows āsana (*tasmin sati*, YS 2.49). Ṣaṭkarma comes *before* prāṇāyāma, where it is needed at all (HP 2.21), and pratyāhāra comes after.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S05",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "ध्यानबिन्दु उपनिषद् के अनुसार 'उकार' से सम्बन्धित गुण है :",
+  "options": [
+   "रजोगुण",
+   "तमोगुण",
+   "सात्त्विक गुण",
+   "मिश्रित गुण"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sattva.**\n\nThe Dhyānabindu maps the three letters of Oṃ onto the three guṇas and the three gods:\n- **a**: rajas, Brahmā\n- **u**: **sattva**, Viṣṇu\n- **m**: tamas, Rudra\n\nThe same text assigns the three deities to the breath: Brahmā to inhalation, Viṣṇu to retention, Rudra to exhalation.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Dhyanabindu Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S06",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "भगवद्गीता में 'स्थितप्रज्ञ' के सन्दर्भ में इन्द्रिय-निग्रह का उदाहरण दिया गया है :",
+  "options": [
+   "नाव",
+   "मिट्टी",
+   "कूर्म",
+   "हस्ति"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The tortoise (kūrma).**\n\nGītā 2.58: *yadā saṃharate cāyaṃ **kūrmo 'ṅgānīva** sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā*. The person of steady wisdom withdraws the senses from their objects as a tortoise draws in its limbs.\n\nThe boat (2.67) is the opposite image: a mind that follows the roaming senses is carried off like a boat by the wind.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S07",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "पाठ योजना का उद्देश्य निम्नलिखित में से कौन हैं?",
+  "items": [
+   "कक्षा में अंतिम के समय के दबाव को कम करना",
+   "कक्षा में शरारती छात्रों को समझाना",
+   "आधुनिक शिक्षण पद्धति के महत्व को दर्शाना",
+   "शिक्षण सामग्रियों में अधिक रूचि दर्शाना",
+   "कक्षा को लक्ष्य केंद्रित बनाए रखना"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (C)",
+   "केवल (A), (B), (D)",
+   "केवल (A), (B), (E)",
+   "केवल (A), (D), (E)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, D, E only** (provisional).\n\nA lesson plan:\n- saves the teacher from last-minute time pressure (A)\n- builds interest in the teaching material (D)\n- keeps the class focused on its goal (E)\n\nHandling mischievous students (B) and showing off modern methods (C) are not aims of a lesson plan. Every option includes A, so the choice rests on B against D and E.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S08",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम्' उपरोक्त कथन के द्वारा किस उपनिषद् में ईश्वर का स्वरूप वर्णित है?",
+  "options": [
+   "योगराजोपनिषद्",
+   "योगतत्त्वोपनिषद्",
+   "श्वेताश्वतरोपनिषद्",
+   "त्रिशिखि ब्राह्मणोपनिषद्"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Śvetāśvatara Upaniṣad** (4.10).\n\n*māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaram | tasyāvayava-bhūtais tu vyāptaṃ sarvam idaṃ jagat*. Know prakṛti as māyā and the great Lord as its wielder; the whole world is pervaded by his parts.\n\nThe Śvetāśvatara is the theistic, Śaiva Upaniṣad of the syllabus. Its chapter 2 on dhyāna and its signs of progress (2.8–13) and its chapter 6 are the other favourites.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S09",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "योगसूत्र के अनुसार 'प्रकाश' शब्द संबंधित है :",
+  "options": [
+   "आत्मा से",
+   "सतोगुण से",
+   "रजोगुण से",
+   "सूर्य से"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sattva.**\n\nYS 2.18: *prakāśa-kriyā-sthiti-śīlaṃ bhūtendriyātmakaṃ bhogāpavargārthaṃ dṛśyam*. The seen has three natures:\n- **prakāśa** (illumination): **sattva**\n- **kriyā** (activity): rajas\n- **sthiti** (inertia): tamas\n\nIt consists of the elements and senses and exists for experience and liberation.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S10",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "नादबिन्दूपनिषद् के अनुसार",
+  "items": [
+   "द्वितीय मात्रा का नाम 'विद्युन्मात्रा' है",
+   "द्वितीय मात्रा का नाम 'पातङ्गी' है",
+   "दसवीं मात्रा को 'धृति' कहा गया है।",
+   "दसवीं मात्रा को 'ऐन्द्री' कहा गया है।",
+   "बारहवीं मात्रा को 'ब्राह्मी' कहा गया है।"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (B), (A), (D)",
+   "केवल (D), (C), (E)",
+   "केवल (A), (C), (E)",
+   "केवल (B), (C), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C, E only.**\n\nThe twelve mātrās of Oṃ in the Nādabindu run ghoṣiṇī, **vidyunmātrā** (2nd), pataṅginī (3rd), vāyuveginī, nāmadheyā, aindrī (6th), vaiṣṇavī, śāṅkarī, mahatī, **dhṛti** (10th), nārī and **brāhmī** (12th).\n\nSo A, C and E are true. B gives pataṅginī, which is the 3rd, and D gives aindrī, which is the 6th.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Nadabindu Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S11",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "सांख्य दर्शन का सुप्रसिद्ध सिद्धान्त है।",
+  "options": [
+   "सत्कार्यवाद",
+   "असत्कार्यवाद",
+   "विवर्तवाद",
+   "सदसत्ख्यातिवाद"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Satkāryavāda.**\n\nSāṅkhya holds that the effect already exists in its material cause before it appears (Sāṅkhya Kārikā 9: *asad-akaraṇād upādāna-grahaṇāt…*). This is the basis of its account of prakṛti evolving into the world.\n\nThe other schools:\n- asatkāryavāda: Nyāya–Vaiśeṣika (the effect is new)\n- vivartavāda: Advaita (the effect is an appearance)\n- sadasat-khyāti: a theory of error, not of causation",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "source_ids": [
+   "colebrooke-wilson-1837-sankhya-karika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S12",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "नीचे दो कथन दिए गए हैं : माण्डूक्य उपनिषद् के अनुसार",
+  "items": [
+   "स्वप्न स्थान वाला 'तैजस' ओंकार का तृतीय चरण है।",
+   "सुषुप्ति स्थान वाला 'प्राज्ञ' ओंकार का द्वितीय चरण है।"
+  ],
+  "item_style": "roman",
+  "prompt": "उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "कथन I और II दोनों सही हैं।",
+   "कथन I और II दोनों गलत हैं।",
+   "कथन I सही है, लेकिन कथन II गलत है।",
+   "कथन I गलत है, लेकिन कथन II सही है।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both statements are false.**\n\nIn the Māṇḍūkya the quarters run:\n1. vaiśvānara: waking\n2. **taijasa**: dream, the **second** quarter\n3. **prājña**: deep sleep, the **third** quarter\n4. turīya\n\nStatement I puts taijasa third and statement II puts prājña second. They are swapped, so both are wrong.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S13",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "एक स्वस्थ व्यक्ति के फेफड़ों के अंदर जानेवाली और उनसे निःसृत होनेवाली हवा की मात्रा कहलाती है।",
+  "options": [
+   "अवशिष्ट मात्रा",
+   "टाइडल वोल्यूम",
+   "जीवनी क्षमता",
+   "फेफड़ा क्षमता"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Tidal volume.**\n\nThe air breathed in and out in one quiet breath is the **tidal volume**, about 500 mL.\n- Residual volume (about 1.2 L) stays in the lungs even after a forced exhalation.\n- Vital capacity (about 4.5 L) is the most that can be exhaled after a full inhalation.\n- Total lung capacity is vital capacity + residual volume.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S14",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "श्रुति शब्द किसके लिए प्रयोग किया गया है?",
+  "options": [
+   "याज्ञवल्क्य स्मृति",
+   "भगवद् गीता",
+   "वेद",
+   "पुराण"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The Veda.**\n\n**Śruti** (\"what is heard\") is the revealed Veda: the Saṃhitās, Brāhmaṇas, Āraṇyakas and Upaniṣads.\n\n**Smṛti** (\"what is remembered\") covers texts of human authorship: the Dharmaśāstras such as the Yājñavalkya Smṛti, the epics (including the Gītā) and the Purāṇas. In Vedānta the Gītā is the *smṛti-prasthāna*.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedic literature and its divisions"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S15",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "श्री अरविन्द",
+     "महर्षि दयानन्द",
+     "श्यामाचरण लाहिड़ी",
+     "महर्षि रमण"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "ज्ञान योग",
+     "पूर्ण योग",
+     "उपासना योग",
+     "क्रिया योग"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+   "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)",
+   "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-II, B-III, C-IV, D-I.**\n\n- **Sri Aurobindo** → *pūrṇa yoga* (Integral Yoga)\n- **Maharṣi Dayānanda** → *upāsanā yoga*, Vedic worship and meditation as taught in the Satyārtha Prakāśa and the Ārya Samāj\n- **Śyāmācaraṇa Lāhiṛī** → *kriyā yoga*\n- **Ramaṇa Maharṣi** → *jñāna yoga*, self-enquiry (\"Who am I?\")",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S16",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (अभ्यास)",
+    "items": [
+     "जालंधर बंध",
+     "उड्डियान बंध",
+     "मूल बंध",
+     "जिह्वा बंध"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (शरीर का अंग)",
+    "items": [
+     "उदर",
+     "जीभ और तालू",
+     "कंठ",
+     "कटिस्थान और गुदाद्वार"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+   "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+   "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+   "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-I, C-IV, D-II.**\n\n- **Jālandhara bandha** → the **throat** (chin lock)\n- **Uḍḍiyāna bandha** → the **abdomen**, drawn up and in after exhalation\n- **Mūla bandha** → the **pelvic floor and anus** (कटिस्थान और गुदाद्वार)\n- **Jihvā bandha** → the **tongue and palate**, the tongue pressed against the palate",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S17",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "भगवद्गीता के अनुसार सही क्रम के विकल्प को चुनिए ।",
+  "options": [
+   "सम्मोह → क्रोध → स्मृतिविभ्रम → बुद्धिनाश",
+   "स्मृतिविभ्रम → सम्मोह → क्रोध → बुद्धिनाश",
+   "बुद्धिनाश → स्मृतिविभ्रम → क्रोध → सम्मोह",
+   "क्रोध → सम्मोह → स्मृतिविभ्रम → बुद्धिनाश"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) krodha → sammoha → smṛti-vibhrama → buddhi-nāśa.**\n\nGītā 2.63: *krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ | smṛti-bhraṃśād buddhi-nāśo buddhi-nāśāt praṇaśyati*. From anger comes delusion; from delusion, confusion of memory; from that, the loss of discernment; and with it, ruin.\n\nVerse 2.62 gives the first half of the chain: dwelling on objects → attachment → desire → anger.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S18",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "नादबिन्दूपनिषद् में बारहवीं मात्रा को कहा गया है :",
+  "options": [
+   "धृति",
+   "घोषिणी",
+   "वायुवेगिनी",
+   "ब्राह्मी"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Brāhmī.**\n\nThe twelfth and last mātrā of Oṃ in the Nādabindu is **brāhmī**. The others among the options:\n- ghoṣiṇī is the first\n- vāyuveginī is the fourth\n- dhṛti is the tenth",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Nadabindu Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S19",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "एक्रोमिगेली एक विकृति है, जो किसके अतिस्राव के कारण होती है ?",
+  "options": [
+   "एड्रीनलीन",
+   "ग्रोथ (वृद्धि) हार्मोन",
+   "कैल्शियम",
+   "वैसोप्रेसिन"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Growth hormone.**\n\nToo much growth hormone (usually from a pituitary adenoma) causes:\n- **gigantism** in children, before the growth plates close\n- **acromegaly** in adults, with enlarged hands, feet and jaw and coarse features\n\nToo little growth hormone in childhood causes dwarfism. Excess vasopressin (ADH) causes water retention (SIADH).",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S20",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "पातंजल योग सूत्र के अनुसार किनके व्यवधान के बावजूद स्मृति और संस्कार एकरूप रहते हैं?",
+  "items": [
+   "मृत्यु",
+   "रोग",
+   "जाति",
+   "देश",
+   "काल"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (C)",
+   "केवल (B), (C), (D)",
+   "केवल (C), (D), (E)",
+   "केवल (B), (D), (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) C, D, E only.**\n\nYS 4.9: *jāti-deśa-kāla-vyavahitānām apy ānantaryaṃ smṛti-saṃskārayor eka-rūpatvāt*. Even when separated by **birth (jāti), place (deśa) and time (kāla)**, vāsanās follow in unbroken sequence, because memory and saṃskāra are of one form.\n\nThis is how karma from far-off lives can still ripen now.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S21",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "कोशिका की खोज सर्वप्रथम किसने की थी ?",
+  "options": [
+   "वाट्सन और क्रिक ने 1685 में",
+   "रॉबर्ट हूक ने 1665 में",
+   "एंटोन वान ल्यूवेनहॉक ने 1674 में",
+   "थिओडोर श्वान और मैथियास श्लाइडन ने 1838 में"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Robert Hooke, 1665.**\n\nHooke saw the box-like \"cells\" of cork under his microscope and named them in *Micrographia* (1665). Later milestones:\n- Leeuwenhoek first saw living cells (1674)\n- Schleiden and Schwann proposed the cell theory (1838–39)\n- Watson and Crick described the DNA double helix (1953, not 1685)",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S22",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "अधिगमकर्त्ताओं के छोटे समूह में योगाभ्यास की सर्वाधिक उपयुक्त शिक्षण विधि कौन-सी है ?",
+  "options": [
+   "प्रदर्शन विधि",
+   "प्रत्यक्ष अभ्यास विधि",
+   "समूह चर्चा विधि",
+   "अनुदेश अनुक्रिया विधि"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Directed-practice method** (provisional).\n\n*Teaching Methods for Yogic Practices* describes several methods:\n- **response-to-instruction** suits large groups: the whole class follows the teacher's commands\n- **directed practice** suits small groups: learners practise while the teacher watches and corrects each one\n- individualised instruction suits one learner\n- demonstration and discussion support the practical methods rather than replacing them\n\nI could not check the book for the exact wording, so treat this as provisional.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S23",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "घेरण्ड संहिता के अनुसार, किसी व्यक्ति को इन मौसमों में योगाभ्यास शुरू नहीं करना चाहिए.",
+  "items": [
+   "हेमंत",
+   "शिशिर",
+   "वर्षा",
+   "वसंत",
+   "शरद"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (C)",
+   "केवल (B), (C), (D)",
+   "केवल (C), (D), (E)",
+   "केवल (A), (C), (E)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B, C only.**\n\nGheraṇḍa Saṃhitā 5.8–9: *hemante śiśire grīṣme varṣāyāṃ ca ṛtau tathā | yogārambhaṃ na kurvīta*. Do not begin in **hemanta**, **śiśira**, grīṣma or **varṣā**; begin in **vasanta** or **śarad**.\n\nThe June 2024 paper asks the reverse: which season *is* suitable.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S24",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं: एक अभिकथन (Assertion A) के रूप में लिखित है तो दूसरा उसके कारण (Reason R) के रूप में",
+  "assertion": "कुम्भक से पूर्व आसन एवं षटकर्म का अभ्यास आवश्यक है।",
+  "reason": "आसनों के द्वारा शरीर के दृढ होने पर तथा षटकर्मों द्वारा शरीर की शुद्धि होने पर ही कुम्भक का पूर्ण लाभ प्राप्त होता है।",
+  "prompt": "उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) सही नहीं है।",
+   "(A) सही नहीं है, लेकिन (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and (R) explains (A).**\n\nThe Haṭha order is purification, then steadiness, then retention:\n- Gheraṇḍa's seven limbs put ṣaṭkarma first (*śodhana*), āsana second (*dṛḍhatā*) and prāṇāyāma fifth.\n- HP 2.1 starts prāṇāyāma only \"when āsana is firm\".\n\nThe reason gives exactly this logic: kumbhaka pays off fully only in a body that is firm and clean.\n\nHP 2.21 adds that ṣaṭkarma is needed only where fat or phlegm is excessive. That qualifies the assertion but does not overturn it.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika",
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S25",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (अभ्यास)",
+    "items": [
+     "मत्स्येन्द्रासन",
+     "मयूरासन",
+     "पश्चिमोत्तानासन",
+     "त्राटक"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (लाभ)",
+    "items": [
+     "तन्द्रा का अभाव",
+     "जठरानलस्य उदयं",
+     "जठरप्रदीप्तिं",
+     "जारयेत् कालकूटम्"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+   "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+   "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-III, B-IV, C-II, D-I.**\n\nThe Haṭha Pradīpikā's phrases:\n- **Matsyendrāsana** (1.27): *jaṭhara-pradīptiṃ* … it kindles the gastric fire\n- **Mayūrāsana** (1.31): *jarayet kālakūṭam*, it digests even deadly poison\n- **Paścimottānāsana** (1.29): *udayaṃ jaṭharānalasya*, the rise of the gastric fire\n- **Trāṭaka** (2.32): *tandrādīnāṃ kapāṭakam*, a door shut against drowsiness\n\nMatsyendra and paścimottāna both concern the gastric fire; the exact wording decides.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S26",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "'कुपोषण' के लक्षण हैं-",
+  "items": [
+   "अति पोषण",
+   "उचित पोषण",
+   "अल्प पोषण",
+   "संतुलित पोषण",
+   "असंतुलित पोषण"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (D)",
+   "केवल (B), (C), (E)",
+   "केवल (A), (C), (E)",
+   "केवल (A), (B), (C)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C, E only.**\n\n**Malnutrition** means any faulty nutrition:\n- **over-nutrition** (obesity)\n- **under-nutrition** (wasting, stunting)\n- **imbalanced nutrition** (micronutrient deficiencies despite enough calories)\n\nProper and balanced nutrition (B, D) are its opposites. The WHO definition covers all three forms.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S27",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन नाथ संप्रदाय के अनुगामी नहीं है ?",
+  "items": [
+   "चौरंगी",
+   "चंड",
+   "सिद्धि-बुद्धि",
+   "कंठ",
+   "कपाली"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (C)",
+   "केवल (B), (D)",
+   "केवल (C), (E)",
+   "केवल (D), (E)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, D only** (provisional).\n\nHaṭha Pradīpikā 1.5–9 lists the mahāsiddhas of the Nātha line. It includes **Cauraṅgī**, **Siddhi** and **Buddha** (read as one item, \"Siddhi-Buddhi\"), and **Kapālī**. \"Caṇḍa\" and \"Kaṇṭha\" are not names on the list, though they resemble parts of Kākacaṇḍīśvara and Kanthaḍi.\n\nThe intended answer is therefore B and D. Treat it as provisional, because the item leans on near-miss spellings.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S28",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "प्रोटीन में कितने प्रकार के अमीनो एसिड पाये जाते हैं?",
+  "options": [
+   "22",
+   "25",
+   "27",
+   "29"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 22.**\n\nProteins are built from **20 standard amino acids**, 9 of them essential for adults. Two more are built into proteins by special mechanisms: **selenocysteine** (the 21st) and **pyrrolysine** (the 22nd, in some microbes).\n\nSo \"22\" is the count of *proteinogenic* amino acids; items that ask for the \"standard\" set expect 20.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S29",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "भगवद्गीता में दुःख नाश के लिए जीवन शैली के अंगों के रूप में वर्णन किया हैं :",
+  "items": [
+   "आसन",
+   "युक्त आहार",
+   "षट्कर्म",
+   "मुद्रा",
+   "युक्त विहार"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (C), (D)",
+   "केवल (D), (E)",
+   "केवल (B), (E)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, E only.**\n\nGītā 6.17: ***yuktāhāra-vihārasya** yukta-ceṣṭasya karmasu | yukta-svapnāvabodhasya yogo bhavati duḥkhahā*. Yoga becomes the destroyer of sorrow for one who is moderate in **food**, **recreation**, effort in work, and sleep and waking.\n\nĀsana appears in the Gītā only as the meditation seat (6.11–13). Ṣaṭkarma and mudrā are Haṭha terms.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S30",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'योगाभ्यासों की अध्यापन विधियां' के अनुसार, 'सरल से जटिल' और 'ज्ञात से अज्ञात' के संबंध है :",
+  "options": [
+   "मनोवैज्ञानिक सिद्धांत से",
+   "शैक्षणिक सिद्धांत से",
+   "समाजविज्ञानी सिद्धांत से",
+   "योग सिद्धांत से"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Educational (pedagogical) principles** (provisional).\n\n\"Simple to complex\" and \"known to unknown\" are the classic **maxims of teaching**. Gharote and Ganguly treat them as the principle of *progression*: skills are built in order, each on its prerequisites.\n\nPsychological principles in the book concern the learner's interest and motivation. I could not check the page to confirm which heading the book files these maxims under, so treat this as provisional.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S31",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "मैत्री",
+     "करुणा",
+     "मुदिता",
+     "उपेक्षा"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "पुण्यात्मा पुरुषों प्रति",
+     "सुखी मनुष्यों के प्रति",
+     "दुःखी मनुष्यों के प्रति",
+     "पापियों के प्रति"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+   "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+   "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-II, B-III, C-I, D-IV.**\n\nYS 1.33: *maitrī-karuṇā-muditopekṣāṇāṃ sukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam*. The mind becomes clear by cultivating:\n- **friendliness** towards the happy\n- **compassion** towards the suffering\n- **gladness** towards the virtuous\n- **indifference** towards the wicked\n\nThe two lists are in the same order in the sūtra, so pair them in sequence.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S32",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "'योगाभ्यासों की अध्यापन विधियां' पुस्तक के अनुसार योगाभ्यास कक्षा के निम्नांकित चरणों को कक्षा के प्रारंभ से समाप्ति के क्रम में सुव्यवस्थित करें",
+  "items": [
+   "प्रश्नोत्तर",
+   "समूह अभ्यास",
+   "वैयक्तिक अभ्यास",
+   "विश्राम",
+   "बैठने की व्यवस्था"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(E), (C), (B), (D), (A)",
+   "(A), (E), (C), (B), (D)",
+   "(E), (C), (B), (A), (D)",
+   "(A), (E), (B), (C), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) E, C, B, A, D** (provisional).\n\nA practical yoga class begins with **seating arrangement** (E). Learners then do **individual practice** (C), under correction, followed by **group practice** (B) of the same technique. Doubts are cleared in **questions and answers** (A), and the class closes with **relaxation** (D).\n\nOptions (1) and (3) differ only in whether relaxation or Q&A comes last. Ending with relaxation is the usual rule, but I could not check the book's exact sequence.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S33",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "एक्सिअल स्केलेटन की हड्डियाँ हैं :",
+  "items": [
+   "क्लैविकल",
+   "वर्टीब्रा",
+   "स्कैपुला",
+   "स्कल",
+   "हाइऑयड"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (C)",
+   "केवल (C), (D), (E)",
+   "केवल (A), (C), (E)",
+   "केवल (B), (D), (E)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, D, E only.**\n\nThe **axial skeleton** (80 bones) is the body's central axis: skull, **hyoid**, ear ossicles, **vertebrae**, ribs and sternum.\n\nThe **clavicle** and **scapula** belong to the appendicular skeleton (the shoulder girdle), which also includes the limbs and the pelvic girdle.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S34",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "नीचे दो कथन दिए गए हैं :",
+  "items": [
+   "आधुनिक समय में मूल्य परक शिक्षा का अभाव दिखाई देता है।",
+   "स्वयं के लिए अधिक सुख प्राप्त करना ही नैतिक मूल्य है।"
+  ],
+  "item_style": "roman",
+  "prompt": "उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "कथन I और II दोनों सत्य हैं।",
+   "कथन I और II दोनों असत्य हैं।",
+   "कथन I सत्य है, लेकिन कथन II असत्य है।",
+   "कथन I असत्य है, लेकिन कथन II सत्य है।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I true, statement II false.**\n\n- Statement I is a widely shared observation, and it is the reason the syllabus stresses value-based education.\n- Statement II confuses values with self-interest. Moral values are about what is right towards others, such as the yamas; seeking more pleasure for oneself is the opposite of *aparigraha* and *santoṣa*.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Value-based education and yama"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S35",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'चित्तस्य निश्चलीभावो धारणा', 'धारणा' की उपरोक्त व्याख्या किस उपनिषद् में की गई है ?",
+  "options": [
+   "श्वेताश्वतर उपनिषद्",
+   "योगकुण्डल्योपनिषद्",
+   "योगचूडामण्युपनिषद्",
+   "त्रिशिखि ब्राह्मणोपनिषद्"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Triśikhibrāhmaṇa Upaniṣad.**\n\nIn its account of the limbs, the Triśikhibrāhmaṇa defines **dhāraṇā** as the stillness of the mind (*cittasya niścalībhāvaḥ*). Its definitions of the other limbs are also examined.\n\nCompare Patañjali's definition, *deśa-bandhaś cittasya dhāraṇā* (YS 3.1): binding the mind to one place.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Trishikhibrahmana Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S36",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "योगवसिष्ठ के अनुसार 'आधि' एवं 'व्याधि' -",
+  "items": [
+   "ज्ञान के दो कारण है।",
+   "दुःख के दो कारण हैं।",
+   "से निवृत्ति सुख स्वरूप है।",
+   "का क्षय मोक्ष कहा गया है।",
+   "से निवृत्ति दुःख स्वरूप है।"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (C)",
+   "केवल (B), (D), (E)",
+   "केवल (A), (D), (E)",
+   "केवल (B), (C), (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, C, D only.**\n\nIn the Yoga Vāsiṣṭha's discourse, **ādhi** (mental affliction) and **vyādhi** (bodily disease) are the two sources of sorrow (B). Freedom from them is happiness (C), and their destruction is called liberation (D).\n\nThey are causes of *suffering*, not of knowledge (A), and freedom from them is not sorrow (E).",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S37",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "योगसूत्रानुसार निम्न का क्रम निर्धारण करें।",
+  "items": [
+   "स्त्यान",
+   "प्रमाद",
+   "संशय",
+   "भ्रान्तिदर्शन",
+   "आलस्य"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(B), (C), (D), (A), (E)",
+   "(A), (C), (B), (E), (D)",
+   "(C), (A), (E), (B), (D)",
+   "(E), (B), (C), (A), (D)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C, B, E, D.**\n\nYS 1.30 lists the obstacles in this order: *vyādhi, **styāna**, **saṃśaya**, **pramāda**, **ālasya**, avirati, **bhrānti-darśana**, alabdha-bhūmikatva, anavasthitatvāni*.\n\nAmong the five given: styāna (A), saṃśaya (C), pramāda (B), ālasya (E), bhrānti-darśana (D).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S38",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए। योगकुण्डल्युपनिषद् के अनुसार",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "खेचरी",
+     "व्यान",
+     "कृकल",
+     "जालन्धर"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "उपप्राण",
+     "मुद्रा",
+     "बन्ध",
+     "प्राण"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+   "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+   "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+   "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-II, B-IV, C-I, D-III.**\n\n- **Khecarī** → a **mudrā** (taught in chapter 2)\n- **Vyāna** → one of the five main **prāṇas**\n- **Kṛkala** → one of the five **upaprāṇas** (nāga, kūrma, kṛkala, devadatta, dhanañjaya); it causes hunger and sneezing\n- **Jālandhara** → a **bandha**",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S39",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'अभ्यासिना च भोक्तव्यं स्तोकं स्तोकमनेकधा । पूर्वोक्तकाले कुर्यात्तु कुम्भकान्प्रतिवासरे ॥' यह श्लोक शिव संहिता के किस पटल का है।",
+  "options": [
+   "प्रथम पटल",
+   "तृतीय पटल",
+   "चतुर्थ पटल",
+   "पञ्चम पटल"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) The third paṭala.**\n\nChapter 3 of the Śiva Saṃhitā covers prāṇāyāma and the practitioner's regimen. This verse (3.45 in common editions) says that once practice is steady, strict rules can relax: the practitioner should eat small amounts often and do kumbhakas daily at the prescribed times. Its neighbours list what to avoid and what to cultivate, including the niyamas asked in the December 2022 paper.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S40",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "आयुर्वेद के अनुसार, रस कितने प्रकार के होते हैं?",
+  "options": [
+   "छह",
+   "सात",
+   "आठ",
+   "नौ"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Six.**\n\nĀyurveda's six **rasas** (tastes) are madhura (sweet), amla (sour), lavaṇa (salty), kaṭu (pungent), tikta (bitter) and kaṣāya (astringent). A balanced meal contains all six.\n\nEach taste raises or lowers particular doṣas. For example, sweet, sour and salty pacify vāta.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "bhishagratna-sushruta-samhita",
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S41",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "निम्न में से गोरक्षनाथ द्वारा रचित ग्रन्थ हैं",
+  "items": [
+   "हठ रत्नावली",
+   "सिद्ध सिद्धान्त पद्धति",
+   "घेरण्ड संहिता",
+   "योग बीज",
+   "हठयोग प्रदीपिका"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (B), (C)",
+   "केवल (E), (D)",
+   "केवल (B), (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, D only.**\n\n**Siddha Siddhānta Paddhati** and **Yoga Bīja** are attributed to Gorakṣanātha, as are the Gorakṣa Śataka and Gorakṣa Saṃhitā. The other texts have different authors:\n- Haṭharatnāvalī: Śrīnivāsa\n- Gheraṇḍa Saṃhitā: the sage Gheraṇḍa\n- Haṭha Pradīpikā: Svātmārāma",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S42",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "हठ प्रदीपिका के अनुसार किस आसन की सिद्धि पर तीनों बन्ध अनायास ही लग जाते हैं ?",
+  "options": [
+   "सिद्धासन",
+   "पश्चिमोत्तानासन",
+   "कुक्कुटासन",
+   "उत्तानकूर्मासन"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Siddhāsana.**\n\nHaṭha Pradīpikā 1.41: when siddhāsana is mastered, the three bandhas (*bandha-trayam*) arise of themselves, without effort. HP calls siddhāsana the foremost of the 84 āsanas and \"the door to liberation\".",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S43",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "बॉडी मास इंडेक्स (बी एम आई) के आकलन हेतु निम्नलिखित में से कौन-सी मापनी (स्केल) सही है?",
+  "options": [
+   "वजन कि.ग्रा. में / लम्बाई वर्ग मी. में",
+   "वजन ग्रा. में / लम्बाई वर्ग मी. में",
+   "लम्बाई वर्ग मी. में / वजन कि.ग्रा. में",
+   "लम्बाई वर्ग मी. में / वजन ग्राम में"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Weight (kg) ÷ height² (m²).**\n\nBMI = kg/m². The WHO bands for adults:\n- below 18.5: underweight\n- 18.5–24.9: normal\n- 25–29.9: overweight\n- 30 and above: obese\n\nAsian cut-offs are lower: 23 for overweight and 25 for obese.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: energy and metabolism"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S44",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "नीचे दो कथन दिए गए हैं :",
+  "items": [
+   "चित्तवृत्तियों के निरोध को योग कहा जाता है।",
+   "सभी वृत्तियों के सर्वथा निरोध की स्थिति ही निर्बीज समाधि है।"
+  ],
+  "item_style": "roman",
+  "prompt": "उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "कथन I और II दोनों सत्य हैं।",
+   "कथन I और II दोनों असत्य हैं।",
+   "कथन I सत्य है, लेकिन कथन II असत्य है।",
+   "कथन I असत्य है, लेकिन कथन II सत्य है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both statements are true.**\n\n- Statement I is YS 1.2, *yogaś citta-vṛtti-nirodhaḥ*.\n- Statement II is YS 1.51, *tasyāpi nirodhe sarva-nirodhān nirbījaḥ samādhiḥ*: when even the saṃskāra of ṛtambharā prajñā is stilled, all being restrained, samādhi is seedless (*nirbīja*).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S45",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "योगकुण्डल्युपनिषद् के अनुसार",
+  "items": [
+   "चित्त की चंचलता के तीन कारण - वासना, वायु, अधिकभोजन",
+   "चित्त की चंचलता के दो कारण - वासना एवं वायु (प्राण)",
+   "प्राणों पर विजय के केवल दो साधन - आसन, शक्तिचालिनी मुद्रा",
+   "प्राणों पर विजय के तीन साधन - मिताहार, आसन, शक्तिचालिनी मुद्रा"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (C)",
+   "केवल (B), (C)",
+   "केवल (B), (D)",
+   "केवल (A), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D only.**\n\nYogakuṇḍalī 1.1–2:\n- The mind is restless for **two** reasons, *vāsanā* and *vāyu* (prāṇa) (B).\n- Prāṇa is conquered by **three** means: mitāhāra, āsana and śakti-cālana (D).\n\nA adds a third cause (overeating), and C drops mitāhāra from the means.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S46",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "भगवद्गीता के अनुसार सात्विक आहार के गुण हैं:",
+  "items": [
+   "बुद्धि प्रदान करने वाला",
+   "दाहकारक",
+   "सुख बढ़ाने वाला",
+   "चिन्ता उत्पन्न करने वाला",
+   "प्रीति बढ़ाने वाला"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (B), (D), (E)",
+   "केवल (A), (B), (D)",
+   "केवल (A), (C), (E)",
+   "केवल (C), (B), (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C, E only.**\n\nGītā 17.8: sāttvika food increases *āyuḥ-sattva-bala-ārogya-**sukha-prīti**-vivardhanāḥ*: life, purity (sattva, the clarity of the intellect), strength, health, **happiness** and **cheerfulness**. It is juicy, unctuous, substantial and agreeable.\n\nBurning (*vidāhin*) and causing grief or anxiety belong to rājasika food (17.9).",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S47",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं: एक अभिकथन (Assertion A) के रूप में लिखित है तो दूसरा उसके कारण (Reason R) के रूप में",
+  "assertion": "प्राणायाम करने से सभी प्रकार के रोगों का क्षय हो जाता है।",
+  "reason": "जिस प्रकार हाथी, बाघ आदि को धीरे-धीरे वश में किया जाता है उसी प्रकार प्राणवायु पर नियन्त्रण प्राप्त करना चाहिए।",
+  "prompt": "उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) सही नहीं है।",
+   "(A) सही नहीं है, लेकिन (R) सही है।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both true, but (R) does not explain (A)** (provisional).\n\n- (A) is HP 2.16: *prāṇāyāmena yuktena sarva-roga-kṣayo bhavet*. *Correct* prāṇāyāma destroys all disease; wrong practice causes it.\n- (R) is HP 2.15: *yathā siṃho gajo vyāghro bhaved vaśyaḥ śanaiḥ śanaiḥ | tathaiva sevito vāyuḥ*. The breath must be tamed gradually, like a lion, elephant or tiger.\n\nR describes *how* to practise; it does not explain *why* prāṇāyāma cures. One could argue R supplies the \"yukta\" condition of A, so keys to such pairs vary. Treat this as provisional.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S48",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "समाधिपाद",
+     "साधनपाद",
+     "विभूतिपाद",
+     "कैवल्यपाद"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "तस्य सप्तधा प्रान्तभूमिः प्रज्ञा ।",
+     "तस्य प्रशान्तवाहिता संस्कारात् ।",
+     "तीव्रसंवेगानाम् आसन्नः ।",
+     "तत्र ध्यानजम् अनाशयम्"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+   "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-I, C-II, D-IV.**\n\n- **Samādhi pāda** 1.21: *tīvra-saṃvegānām āsannaḥ*\n- **Sādhana pāda** 2.27: *tasya saptadhā prānta-bhūmiḥ prajñā*, the sevenfold final insight\n- **Vibhūti pāda** 3.10: *tasya praśānta-vāhitā saṃskārāt*, the calm flow of nirodha\n- **Kaivalya pāda** 4.6: *tatra dhyānajam anāśayam*",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S49",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "स्नायु तंतु की कौन-सी क्षमता संवेग को उद्दीपन क्षेत्र से अन्य क्षेत्रों की ओर संचारित करती है?",
+  "options": [
+   "उत्तेजन क्षमता",
+   "संकुचन क्षमता",
+   "तनुता",
+   "संवहन क्षमता"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Conductivity.**\n\nA nerve fibre has two defining properties:\n- **excitability**: it responds to a stimulus by generating an impulse\n- **conductivity**: it carries that impulse from the stimulated point along the fibre to other regions\n\nContractility belongs to muscle, not nerve.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S50",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "घेरंड संहिता में अष्ट कुंभक उल्लिखित है:",
+  "options": [
+   "अध्याय 5 श्लोक सं. 41 में",
+   "अध्याय 5 श्लोक सं. 44 में",
+   "अध्याय 5 श्लोक सं. 45 में",
+   "अध्याय 5 श्लोक सं. 46 में"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Chapter 5, verse 46.**\n\nGS 5.46: *sahitaḥ sūryabhedaś ca ujjāyī śītalī tathā | bhastrikā bhrāmarī mūrcchā kevalī cāṣṭa kumbhakāḥ*. This lists Gheraṇḍa's eight kumbhakas.\n\nCompare HP's eight (2.44): sūryabhedana, ujjāyī, sītkārī, śītalī, bhastrikā, bhrāmarī, mūrcchā, plāvinī.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S51",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "योगसूत्र के अनुसार 'शब्दार्थज्ञानविकल्पैः' किस समापत्ति से सम्बंधित है?",
+  "options": [
+   "सवितर्क",
+   "निर्वितर्क",
+   "निर्विचार",
+   "अस्मिता"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Savitarka.**\n\nYS 1.42: *tatra śabdārtha-jñāna-vikalpaiḥ saṅkīrṇā savitarkā samāpattiḥ*. In savitarka samāpatti, word, meaning and idea are mixed together.\n\nNirvitarka (1.43) is free of that mixing: memory is purified and the object shines alone.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S52",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "'शिक्षा' शब्द की उत्पत्ति लैटिन मूल के किस शब्द से हुई है ?",
+  "items": [
+   "एडुकियर",
+   "एडुकोल",
+   "एडुकेयर",
+   "एडुलोम"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (C), (D)",
+   "केवल (A), (C)",
+   "केवल (B), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C only.**\n\n\"Education\" is traced to two Latin words:\n- **educare**: to bring up, to nourish\n- **educere**: to lead out, to draw out what is within\n\nThe item's A and C are transliterations of these two. B and D are invented forms.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S53",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गए हैं: एक अभिकथन (Assertion A) के रूप में लिखित है तो दूसरा उसके कारण (Reason R) के रूप में",
+  "assertion": "विटामिन बी12, आर बी सी में डी एन ए के संश्लेषण के लिए अनिवार्य है।",
+  "reason": "इसकी कमी से कोशिका की परिपक्वता नहीं होती है और कोशिका विभाजन में कमी आती है।",
+  "prompt": "उपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) सही नहीं है।",
+   "(A) सही नहीं है, लेकिन (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and (R) explains (A).**\n\nVitamin B12, with folate, is needed to make DNA (via thymidine synthesis). In rapidly dividing bone-marrow cells, deficiency stalls DNA synthesis while the cytoplasm keeps growing. The cells fail to mature and divide less, giving large, immature **megaloblasts**: megaloblastic, or pernicious, anaemia.\n\nR describes that mechanism, which is why B12 is essential.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S54",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "योगतत्त्वोपनिषद् के अनुसार योगसिद्धि के प्रारम्भिक लक्षण कहे गए हैं।",
+  "items": [
+   "शरीरलघुता",
+   "अकृशत्व",
+   "स्थूलता",
+   "जठराग्निविवर्धन",
+   "जठराग्निमन्दन"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (B), (C)",
+   "केवल (B), (E)",
+   "केवल (A), (D)",
+   "केवल (C), (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, D only.**\n\nAmong the first signs of success, the Yogatattva Upaniṣad lists **lightness of body** (*laghutā*) and a **kindled gastric fire** (*jaṭharāgni-vivardhana*), with thinness and a clear complexion. HP 2.78 gives a similar list.\n\nThe options offer opposites as distractors: \"not thin\", \"stoutness\" and \"dulled digestion\".",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S55",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "पातंजल योग सूत्र के अनुसार 'पर वैराग्य' के लक्षण है-",
+  "items": [
+   "विषयों से विरक्ति",
+   "आनुश्रविक विषयों से विरक्ति",
+   "विवेकख्याति",
+   "पुरुष ख्याति",
+   "गुणों में तृष्णा का अभाव"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (B), (C)",
+   "केवल (C), (D)",
+   "केवल (D), (E)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) D, E only.**\n\n- YS 1.15 defines lower (*apara*) vairāgya: mastery over thirst for objects seen and heard of (*dṛṣṭānuśravika*). That is A and B.\n- YS 1.16 defines the higher: *tat paraṃ **puruṣa-khyāter guṇa-vaitṛṣṇyam***. From the vision of puruṣa comes freedom from thirst even for the guṇas. That is D and E.\n\nViveka-khyāti (C) is the discernment of 2.26, not the definition of para vairāgya.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Abhyasa and vairagya",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S56",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "ऐतरेयोपनिषद् में जिनकी चर्चा की गई है, वे हैं",
+  "items": [
+   "'संज्ञान'",
+   "'आज्ञान' (आदेश देने की शक्ति)",
+   "'विज्ञान'",
+   "'प्रज्ञान'",
+   "'महाज्ञान'"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B), (C), (E)",
+   "केवल (A), (C), (D), (E)",
+   "केवल (B), (C), (D), (E)",
+   "केवल (A), (B), (C), (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, C, D only.**\n\nAitareya 3.2 lists the powers of consciousness: *saṃjñānam ājñānaṃ vijñānaṃ prajñānaṃ medhā dṛṣṭir dhṛtir matir manīṣā…*. It then declares all of them to be names of *prajñāna*, and ends *prajñānaṃ brahma* (3.3), the mahāvākya of the Ṛgveda.\n\n\"Mahājñāna\" is not in the list.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S57",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "आयुर्वेद के अनुसार, भोजन के दौरान आमाशय के कितने भाग को रिक्त छोड़ा जाना चाहिए?",
+  "options": [
+   "1/3 भाग",
+   "1/2 भाग",
+   "1/4 भाग",
+   "2/3 भाग"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) One third** (options read from a garbled extraction).\n\nCaraka (Vimānasthāna 2.3) divides the stomach into three parts: one for solid food, one for liquids and **one left empty** for the doṣas (vāta, pitta and kapha) to move.\n\nThe Haṭha texts differ: Gheraṇḍa 5.22 fills half with food and a quarter with water, leaving **a quarter** for air, and HP's mitāhāra leaves a quarter empty. \"According to Āyurveda\" points to Caraka's third.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "bhishagratna-sushruta-samhita",
+   "kaviratna-charaka-samhita",
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S58",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "योगकुण्डल्युपनिषद् के अनुसार 'सहित कुम्भक' हैं :",
+  "options": [
+   "प्लावनी, मूर्छा, सीत्कारी",
+   "सूर्यभेदन, उज्जायी, शीतली एवं भस्त्रिका",
+   "बाह्य, आभ्यन्तर, स्तम्भ",
+   "मिताहार एवं आसन"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sūryabhedana, ujjāyī, śītalī and bhastrikā.**\n\nYogakuṇḍalī 1.21: *sūryojjāyī śītalī ca bhastrī caiva caturthikā | bhedair eva samaṃ kumbho yaḥ syāt sahita-kumbhakaḥ*. Sahita kumbhaka has **four** kinds, practised until kevala kumbhaka is attained.\n\n- Option (1) lists HP kumbhakas that are not in this text.\n- Option (3) is Patañjali's classification (YS 2.50).\n- Option (4) is two of the three means of conquering prāṇa.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S59",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "वसिष्ठ संहिता के अनुसार निम्न में से यम है।",
+  "items": [
+   "अपरिग्रह",
+   "धृतिः",
+   "दया",
+   "सन्तोष",
+   "तप"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (B), (C)",
+   "केवल (A), (B)",
+   "केवल (C), (D)",
+   "केवल (E), (C)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B, C only.**\n\nThe Vasiṣṭha Saṃhitā has **ten yamas**: ahiṃsā, satya, asteya, brahmacarya, **dayā**, ārjava, kṣamā, **dhṛti**, mitāhāra and śauca. So dhṛti (B) and dayā (C) are yamas.\n\nIts niyamas include **santoṣa** and **tapas** (D, E), and Patañjali's **aparigraha** (A) is not on its yama list. The Haṭha tradition's ten-and-ten lists regularly produce such items.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S60",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए कठोपनिषद् के अनुसार",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "आत्मा",
+     "शरीर",
+     "बुद्धि",
+     "मन"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "सारथि",
+     "लगाम",
+     "रथी",
+     "रथ"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-III, B-IV, C-I, D-II.**\n\nKaṭha 1.3.3: *ātmānaṃ **rathinaṃ** viddhi śarīraṃ **ratham** eva tu | buddhiṃ tu **sārathiṃ** viddhi manaḥ **pragraham** eva ca*.\n- the self → the rider (*rathī*)\n- the body → the chariot (*ratha*)\n- the intellect → the charioteer (*sārathi*)\n- the mind → the reins (*lagām*)\n\nUnlike the January 2017 version, this match includes *rathī*, so it follows the verse exactly.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S61",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन शिक्षण अधिगम उपागम है?",
+  "items": [
+   "शिक्षक-केंद्रित उपागम",
+   "विद्यार्थी केंद्रित उपागम",
+   "पाठ्यक्रम-केंद्रित उपागम",
+   "परंपरा-केंद्रित उपागम"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (C), (D)",
+   "केवल (A), (C)",
+   "केवल (B), (D)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B only** (provisional).\n\nTeaching–learning approaches are classed by who is at the centre: the **teacher-centred** approach (lecture, demonstration, instruction) and the **learner-centred** approach (discovery, discussion, project).\n\nCurriculum-centred and tradition-centred are ways of framing a curriculum, not teaching–learning approaches in this classification.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S62",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित अभ्यासों को घेरंड संहिता के सप्त साधन के अनुसार सुव्यवस्थित करें",
+  "items": [
+   "मुद्रा",
+   "आसन",
+   "षट्कर्म",
+   "ध्यान",
+   "प्राणायाम"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(C), (B), (E), (A), (D)",
+   "(C), (D), (B), (A), (E)",
+   "(C), (B), (A), (E), (D)",
+   "(C), (A), (B), (E), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) C, B, A, E, D.**\n\nGheraṇḍa's seven means (GS 1.10–11) in order:\n1. **ṣaṭkarma** (purification)\n2. **āsana** (firmness)\n3. **mudrā** (steadiness)\n4. pratyāhāra (calm)\n5. **prāṇāyāma** (lightness)\n6. **dhyāna** (direct perception)\n7. samādhi (non-attachment)\n\nPratyāhāra comes before prāṇāyāma in Gheraṇḍa, the reverse of Patañjali's order.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S63",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "अवसादग्रस्त मरीजों के लिए कौन-सा योगाभ्यास करने योग्य नहीं है?",
+  "options": [
+   "षट्कर्म",
+   "आसन",
+   "प्राणायाम",
+   "ध्यान"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Dhyāna (meditation)** (provisional).\n\nIn **severe depression**, long passive or introspective meditation can deepen withdrawal and rumination. Yoga-therapy protocols therefore start with dynamic practices: loosening, sūrya namaskāra and active āsanas, with energising breath such as bhastrikā and kapālabhāti where suitable. Meditation comes later, briefly and guided.\n\nṢaṭkarma, āsana and prāṇāyāma all have a place in the treatment.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: psychiatric disorders",
+  "source_ids": [
+   "mondal-2025-yoga-trials"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S64",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "नादानुसंधान के अभ्यास के किस चरण में विविध प्रकार के गम्भीर नाद सुनाई देते हैं ?",
+  "options": [
+   "प्रथम अभ्यास में",
+   "मध्य अभ्यास में",
+   "अभ्यास की पूर्णता पर",
+   "अभ्यास की शिथिल अवस्था में"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) At the beginning of practice.**\n\nHaṭha Pradīpikā 4.85–86 grades the inner sounds:\n- **beginning**: loud, deep sounds like the ocean, thunder-clouds and the kettle-drum (*jaladhi-jīmūta-bherī*)\n- **middle**: the mardala drum, conch, bell and horn\n- **end**: subtle sounds like tinkling bells, flute, vīṇā and bees\n\nAs practice deepens, the sounds grow finer.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S65",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "तुलसी कृत ग्रन्थ हैं।",
+  "items": [
+   "रामायण",
+   "रामचरित मानस",
+   "विनय पत्रिका",
+   "वैराग्य शतक",
+   "नीति शतक"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (B), (D)",
+   "केवल (E), (C)",
+   "केवल (B), (C)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, C only.**\n\nTulasīdāsa wrote the **Rāmacaritamānasa** and the **Vinaya Patrikā**, as well as the Kavitāvalī, Gītāvalī, Dohāvalī and Hanumān Cālīsā.\n\n- The *Rāmāyaṇa* is Vālmīki's.\n- The *Vairāgya Śataka* and *Nīti Śataka* are Bhartṛhari's.\n\nThe syllabus names Kabīr, Tulasī and Sūr as saint-poets with yoga elements.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in the literature of saints"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S66",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "योग सूत्र के अनुसार दुःख के प्रकार हैं :",
+  "items": [
+   "'आधिदैविक'",
+   "'आधिभौतिक'",
+   "'परिणाम दुःख'",
+   "'आध्यात्मिक'",
+   "'संस्कार दुःख'"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (B), (C)",
+   "केवल (C), (D)",
+   "केवल (C), (E)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C, E only.**\n\nYS 2.15: *pariṇāma-tāpa-saṃskāra-duḥkhair guṇa-vṛtti-virodhāc ca duḥkham eva sarvaṃ vivekinaḥ*. To the discerning, everything is sorrow because of:\n- the sorrow of **change** (*pariṇāma*)\n- the sorrow of anxiety (*tāpa*)\n- the sorrow of **impressions** (*saṃskāra*)\n- the conflict of the guṇas\n\nThe triad ādhyātmika, ādhibhautika and ādhidaivika is Sāṅkhya's (Kārikā 1) and the commentators', not the sūtra's.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S67",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "सूची I के साथ सूची II का मिलान कीजिए",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "प्रथम पटल",
+     "द्वितीय पटल",
+     "चतुर्थ पटल",
+     "पञ्चम पटल"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "योग के प्रकार एवं साधक",
+     "मुद्राएँ",
+     "दार्शनिक मान्यताएँ",
+     "शरीर विशाल ब्रह्माण्ड की प्रतिभूति है।"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-IV, C-II, D-I.**\n\nŚiva Saṃhitā chapters:\n- 1: **philosophical positions**, from the one knowledge to liberation\n- 2: the **body as a replica of the cosmos** (nāḍīs, fire, the jīva)\n- 4: the **mudrās**\n- 5: the **kinds of yoga and of aspirant**, obstacles and the cakras\n\nThe June 2024 paper matches the same chapters with different descriptions.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S68",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "यह निम्नलिखित में से किसका कथन है ? 'तनाव से तात्पर्य शरीर द्वारा आवश्यकतानुसार किए गए अविशिष्ट अनुक्रिया है ।'",
+  "options": [
+   "बेरॉन",
+   "हैंस सेली",
+   "मोर्गन एवं किंग",
+   "होल्म्स एवं मसूद"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Hans Selye.**\n\nSelye defined stress as \"the **non-specific response** of the body to any demand made upon it\". His General Adaptation Syndrome has three stages: alarm, resistance and exhaustion.\n\nHolmes and Rahe (with Masuda) built the life-events scale that measures stressors, not the response.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: mental health and disorders"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S69",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "तैत्तरीय उपनिषद् में 'यतो वाचो निवर्त्तन्ते । अप्राप्य मनसा सह ।' के द्वारा, किसका वर्णन किया गया है?",
+  "options": [
+   "जगत का",
+   "शिक्षा का",
+   "ब्रह्म का",
+   "कारण एवं कार्य का"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Brahman.**\n\nTaittirīya 2.4 and 2.9: *yato vāco nivartante aprāpya manasā saha | ānandaṃ brahmaṇo vidvān na bibheti kadācana*. Words turn back from it, along with the mind, unable to reach it; whoever knows the **bliss of Brahman** fears nothing.\n\nThe passage belongs to the Brahmānanda-vallī's teaching of the ānandamaya self.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S70",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "शब्द उच्चारण/कथन में कौन-सी वायु सहायता करती है?",
+  "options": [
+   "उदान वायु",
+   "समान वायु",
+   "अपान वायु",
+   "प्राण वायु"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Udāna.**\n\nThe five prāṇas and their functions:\n- **udāna**: in the throat; moves upward and governs **speech**, and at death leads the subtle body out\n- prāṇa: chest; breathing and intake\n- apāna: pelvis; elimination\n- samāna: navel; digestion\n- vyāna: the whole body; circulation",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas"
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S71",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "ध्यानबिन्दूपनिषद् के अनुसार",
+  "items": [
+   "आसन, प्राणसंरोध, प्रत्याहार, धारणा, ध्यान, समाधि - षट् योगांग है।",
+   "सिद्ध, भद्र, सिंह, पद्म - आसन चतुष्टय हैं।",
+   "प्राणायाम, धारणा, ध्यान, समाधि - योगांग हैं।",
+   "स्वस्तिक, कूर्म, सर्वांग, शीर्ष - आसन चतुष्टय हैं।",
+   "यम, नियम, आसन, प्रत्याहार, ध्यान, समाधि - षट् योगांग है।"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए :",
+  "options": [
+   "(A), (E)",
+   "(C), (D)",
+   "(A), (B)",
+   "(B), (E)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, B.**\n\nThe Dhyānabindu teaches **six-limbed** yoga: *āsanaṃ prāṇa-saṃrodhaḥ pratyāhāraś ca dhāraṇā | dhyānaṃ samādhir etāni yogāṅgāni bhavanti ṣaṭ*. That is A; E wrongly swaps in yama and niyama and drops prāṇa-saṃrodha.\n\nIts **four chief āsanas** are siddha, bhadra, siṃha and padma (B). The Yogacūḍāmaṇi opens with the same six limbs.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Dhyanabindu Upanishad",
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2021JUN-P2-S72",
+  "subject": "yoga",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2021 cycle (merged with December 2020; held November 2021 – January 2022), Yoga (100), Paper 2, Hindi version. Taken from a text extraction of the scanned paper, so question numbers are not available and obvious extraction slips in spellings are corrected. The source file holds about 75 questions. Three are left out: a Paper 1 item, one whose option B is missing, and one on Dayānanda's sannyāsa whose place options are both wrong."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "स्वामी धीरेंद्र ब्रह्मचारी के अनुसार निम्नलिखित में से किन्हें यौगिक सूक्ष्म व्यायाम के रूप में नहीं जाना जाता है?",
+  "items": [
+   "हृदगति",
+   "स्कंध शक्ति विकासक",
+   "पुष्टि",
+   "उच्चारणस्थल तथा विशुद्धि चक्र की शुद्धि"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+  "options": [
+   "केवल (A), (B)",
+   "केवल (C), (D)",
+   "केवल (A), (C)",
+   "केवल (B), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C only.**\n\nDhirendra Brahmachari divides his system into **sūkṣma vyāyāma** (fine practices, from the head down) and **sthūla vyāyāma** (gross practices).\n- **Hṛd-gati** (the \"engine run\") and **sarvāṅga-puṣṭi** are *sthūla* practices.\n- **Skandha-śakti-vikāsaka** and **uccāraṇa-sthala tathā viśuddha-cakra śuddhi**, the very first practice, are sūkṣma.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Contemporary yogic practices"
+ }
+]
