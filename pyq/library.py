@@ -14,6 +14,7 @@ from pathlib import Path
 from .syllabus import UNIT_INDEX
 
 KINDS: dict[str, str] = {
+    "syllabus": "Official syllabus",
     "primary": "Primary text (translation)",
     "study": "Study / history",
     "paper": "Research paper",

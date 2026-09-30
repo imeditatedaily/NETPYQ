@@ -280,7 +280,7 @@ def test_topic_frequency_counts_only_dated_papers():
 def test_shipped_library_catalog_is_clean_and_links_resolve():
     library = load_library(SOURCE_DIR)
     assert library.problems == ()
-    assert sum(s.available for s in library.sources) == 3
+    assert sum(s.available for s in library.sources) == 4
     for raw in SAMPLE_QUESTIONS:
         for sid in raw["source_ids"]:
             assert sid in library.by_id, sid

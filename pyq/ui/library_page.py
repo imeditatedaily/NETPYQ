@@ -29,7 +29,7 @@ def _clear_focus() -> None:
 def _card(source: Source) -> None:
     with st.container(border=True):
         with st.container(horizontal=True, gap="small"):
-            st.badge(KINDS[source.kind], color="violet" if source.kind == "notes" else "gray")
+            st.badge(KINDS[source.kind], color={"notes": "violet", "syllabus": "blue"}.get(source.kind, "gray"))
             if source.available:
                 st.badge("In your library", icon=":material/check:", color="green")
             else:
