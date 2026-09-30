@@ -100,6 +100,14 @@ tests/                    pytest suite, including end-to-end runs with Streamlit
   - your Ashtakavarga chapter draft
   - a saved ChatGPT conversation, labelled as notes, not a source
 - **7 entries for files in your Google Drive "notes ugc" folder** that are too large or not free to publish: Rama Prasad's *Yoga Sutras* with Vyāsa and Vācaspati (1912), the two Hindi *108 Upaniṣad* volumes, and your therapy, Kaivalya Pāda and February 2023 PYQ notes
+- **37 entries for the shared Google Drive folder "My book's"**, catalogued unit by unit with their exact file names. Examples:
+  - Unit 1: Nārada Bhakti Sūtra, Sāṃkhya Kārikā with Gauḍapāda, Yājñavalkya Smṛti
+  - Units 2–3: Gita Press *ईशादि नौ उपनिषद्* and Gītā, the five-Upaniṣad Hindi compilation, verse notes
+  - Unit 4: the UPRTOU and UOU Yoga Sūtra course books
+  - Unit 5: Kaivalyadhama's *Vasiṣṭha Saṃhitā* and *Haṭha Pradīpikā*, Mallik's *Siddha-Siddhānta-Paddhati*, *Haṭharatnāvalī*
+  - Units 6–8: psychology, anatomy and disease-wise therapy notes
+  - Unit 9: Gharote and Ganguly's *Teaching Methods for Yogic Practices*
+  - Unit 10: five of the six "contemporary practices" the syllabus names (Sūkṣma Vyāyāma, Cyclic Meditation, MSRT, Yoga Nidra, Savitā dhyāna; not Transcendental Meditation)
 - **33 recommended texts** still to add. All are public domain, except the Ayush *Common Yoga Protocol* (free from the official site, so link to it rather than redistributing) and Datta & Singh (public domain in India). Examples:
   - Woods's *Yoga-System of Patañjali* (1914, with Vyāsa's commentary)
   - Pancham Sinh's *Haṭha Pradīpikā* (1914)
