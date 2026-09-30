@@ -61,6 +61,7 @@ def test_real_paper_question_shows_its_source_answer_check_and_topic_note(app):
 
 
 def test_passage_and_roman_labels_render_as_in_the_booklet(app):
+    app.selectbox(key="f_session").set_value("2017-January").run()
     app.selectbox(key="f_topic").set_value("Shatkarma: practice and benefits").run()
     md = texts(app)
     passage, stem = md.find('"Shatkarmas" include six groups'), md.find("Shatkarma procedure for cleansing")
