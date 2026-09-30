@@ -99,7 +99,7 @@ tests/                    pytest suite, including end-to-end runs with Streamlit
   - an open-access (CC BY) paper on yoga trial trends
   - your Ashtakavarga chapter draft
   - a saved ChatGPT conversation, labelled as notes, not a source
-- **7 entries for files in your Google Drive "notes ugc" folder** that are too large or not free to publish: Rama Prasad's *Yoga Sutras* with Vyāsa and Vācaspati (1912), the two Hindi *108 Upaniṣad* volumes, and your therapy, Kaivalya Pāda and February 2023 PYQ notes
+- **8 entries for files in your Google Drive "notes UGC" folder** that are too large or not free to publish: Rama Prasad's *Yoga Sutras* with Vyāsa and Vācaspati (1912), the two Hindi *108 Upaniṣad* volumes, the *Mālinīvijayottara Tantra*, and your therapy, Kaivalya Pāda and February 2023 PYQ notes
 - **37 entries for the shared Google Drive folder "My book's"**, catalogued unit by unit with their exact file names. Examples:
   - Unit 1: Nārada Bhakti Sūtra, Sāṃkhya Kārikā with Gauḍapāda, Yājñavalkya Smṛti
   - Units 2–3: Gita Press *ईशादि नौ उपनिषद्* and Gītā, the five-Upaniṣad Hindi compilation, verse notes
