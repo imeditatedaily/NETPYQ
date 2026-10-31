@@ -1,0 +1,2748 @@
+[
+ {
+  "id": "YOGA-2018JUL-P2-Q01",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Māṇḍūkya Upaniṣad.**\n\nThe Māṇḍūkya's twelve verses analyse Oṃ into four quarters (*pāda*): **a** = waking (vaiśvānara), **u** = dream (taijasa), **m** = deep sleep (prājña), and the soundless fourth (*amātra*) = **turīya**, the Self beyond the three.\n\nPraśna 5 also discusses meditation on Oṃ, but by its three mātrās, not four quarters.",
+  "question_type": "mcq",
+  "question_text": "किस उपनिषद् में ओंकार के चार चरणों का उल्लेख किया गया है?",
+  "options": [
+   "प्रश्नोपनिषद्",
+   "मुण्डकोपनिषद्",
+   "माण्डूक्योपनिषद्",
+   "कठोपनिषद्"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q02",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) jñāna yoga.**\n\nYoga Vāsiṣṭha is an Advaita work: Vasiṣṭha teaches Rāma that the world is a projection of mind and that liberation comes through **knowledge** and enquiry (*vicāra*). Its seven *jñāna-bhūmikās* (śubhecchā, vicāraṇā, tanumānasā, sattvāpatti, asaṃsakti, padārthābhāvanī, turyagā) are stages of knowledge.\n\nIt also describes prāṇa-control, but as a support to knowledge.",
+  "question_type": "mcq",
+  "question_text": "योग वासिष्ठ में निम्नलिखित में से किस पर बल दिया गया है?",
+  "options": [
+   "ज्ञान योग",
+   "मंत्र योग",
+   "राजयोग",
+   "भक्ति योग"
+  ],
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q03",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sāṃkhya.**\n\nSāṃkhya is dualist: **puruṣa** (pure consciousness, many) and **prakṛti** (unconscious matter made of the three guṇas). Creation is prakṛti's evolution into 23 tattvas for the sake of puruṣa; liberation is discriminating puruṣa from prakṛti. Yoga accepts this metaphysics and adds Īśvara.\n\nVedānta (Advaita) holds one reality, Brahman; Vaiśeṣika works with categories and atoms; Mīmāṃsā with Vedic ritual.",
+  "question_type": "mcq",
+  "question_text": "पुरुष और प्रकृति निम्नलिखित में से किस दर्शन की दो मुख्य अवधारणाएं हैं?",
+  "options": [
+   "वेदांत",
+   "सांख्य",
+   "पूर्व मीमांसा",
+   "वैशेषिक"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q04",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Kūrma.**\n\nThe usual ten principal nāḍīs: iḍā, piṅgalā, suṣumnā, gāndhārī, hastijihvā, pūṣā, yaśasvinī, **alambuṣā**, **kuhū** and **śaṅkhinī**.\n\n**Kūrma** is not a nāḍī but one of the five *upaprāṇas* (nāga, kūrma, kṛkara, devadatta, dhanañjaya); kūrma governs blinking. YS 3.31 also names a *kūrma-nāḍī* in the chest for steadiness, but it is not among the ten.",
+  "question_type": "mcq",
+  "question_text": "निम्नांकित में से कौन-सी नाड़ी दस मुख्य नाड़ियों में शामिल नहीं है?",
+  "options": [
+   "अलम्बुषा",
+   "कुहू",
+   "कूर्म",
+   "शंखिनी"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q06",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) udāna vāyu.**\n\nPraśna 3.7: *athaikayordhva udānaḥ puṇyena puṇyaṃ lokaṃ nayati pāpena pāpam ubhābhyām eva manuṣya-lokam*. Rising through the one channel, **udāna** leads by merit to a good world, by sin to a bad one, and by both to the human world.\n\nPraśna 4.4 also says udāna leads the sacrificer to Brahman daily in deep sleep.",
+  "question_type": "mcq",
+  "question_text": "प्रश्नोपनिषद् के अनुसार, मनुष्य को विभिन्न लोकों में ले जाने का कार्य कौन करता है?",
+  "options": [
+   "प्राण वायु",
+   "उदान वायु",
+   "व्यान वायु",
+   "समान वायु"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q08",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) vidyā.**\n\nĪśa 11: *vidyāṃ cāvidyāṃ ca yas tad vedobhayaṃ saha | avidyayā mṛtyuṃ tīrtvā **vidyayāmṛtam aśnute***. \"Who knows both knowledge and action together crosses death by *avidyā* (ritual action) and attains immortality by *vidyā* (knowledge).\"\n\nSo avidyā is a means to cross death; immortality itself comes through vidyā.",
+  "question_type": "mcq",
+  "question_text": "ईशावास्योपनिषद् के अनुसार, अमरता की प्राप्ति का उपाय क्या है?",
+  "options": [
+   "विद्या",
+   "अविद्या",
+   "दान",
+   "तप"
+  ],
+  "source_ids": [
+   "muller-upanishads",
+   "gita-press-ishadi-nau-upanishad"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q09",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) prāṇāyāma.**\n\nYS 2.52–53 give two fruits of prāṇāyāma: *tataḥ kṣīyate prakāśāvaraṇam* (the covering of light thins away) and ***dhāraṇāsu ca yogyatā manasaḥ*** (the mind becomes fit for concentration). The next sūtra (2.54) moves on to pratyāhāra.",
+  "question_type": "mcq",
+  "question_text": "'धारणासु च योग्यता मनसः' किसका परिणाम है?",
+  "options": [
+   "ध्यान",
+   "प्रत्याहार",
+   "प्राणायाम",
+   "संयम"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q10",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Abhyasa and vairagya",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) vaśīkāra vairāgya.**\n\nYS 1.15: ***dṛṣṭānuśravika-viṣaya-vitṛṣṇasya vaśīkāra-saṃjñā vairāgyam***. Freedom from craving for objects seen or heard of (in scripture, e.g. heaven) is called *vaśīkāra*, mastery, the lower (*apara*) vairāgya.\n\n**Para vairāgya** (YS 1.16) goes further: indifference even to the guṇas, from knowledge of puruṣa.",
+  "question_type": "mcq",
+  "question_text": "\"दृष्टानुश्रविकविषयवितृष्णा\" किसका विशेष गुण है?",
+  "options": [
+   "वशीकार वैराग्य",
+   "पर वैराग्य",
+   "ऋतम्भरा प्रज्ञा",
+   "स्थितप्रज्ञ"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q11",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The seer and the seen.**\n\nYS 2.17: ***draṣṭṛ-dṛśyayoḥ saṃyogo heya-hetuḥ***. The conjunction of seer (puruṣa) and seen (prakṛti) is the cause of the suffering to be avoided.\n\nThe four-part scheme: heya (future suffering, 2.16), **heya-hetu** (2.17), hāna (removal, 2.25) and hānopāya (unwavering discrimination, 2.26). Its cause in turn is avidyā (2.24).",
+  "question_type": "mcq",
+  "question_text": "पतञ्जलि के अनुसार, 'हेयहेतु' निम्नलिखित में से किनका संयोग है?",
+  "options": [
+   "द्रष्टा और दृश्य",
+   "मन और इन्द्रिय",
+   "आत्मा और परमात्मा",
+   "मन और बुद्धि"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q12",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Dhāraṇā pariṇāma.**\n\nVibhūti Pāda describes three transformations of citta: **nirodha** (3.9), **samādhi** (3.11) and **ekāgratā** (3.12). Saṃyama on these three (*pariṇāma-traya*) gives knowledge of past and future (3.16).\n\nThere is no \"dhāraṇā pariṇāma\".",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन-सा परिणामत्रय में शामिल नहीं है?",
+  "options": [
+   "एकाग्रता परिणाम",
+   "निरोध परिणाम",
+   "समाधि परिणाम",
+   "धारणा परिणाम"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q13",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Saṃyama on saṃskāras.**\n\nYS 3.18: ***saṃskāra-sākṣātkaraṇāt pūrva-jāti-jñānam***. Direct perception of one's latent impressions gives knowledge of previous births.\n\nThe others: kūrma-nāḍī → steadiness (3.31); the sun → knowledge of the worlds (3.26); the body's form → invisibility (3.21).",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन-सा पूर्व जीवन का ज्ञान देने में समर्थ है?",
+  "options": [
+   "कूर्म नाड़ी संयम",
+   "सूर्य संयम",
+   "संस्कार संयम",
+   "कायरूप संयम"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q14",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) dṛk and darśana-śakti.**\n\nYS 2.6: ***dṛg-darśana-śaktyor ekātmatevāsmitā***. Asmitā is the apparent identity of the power of seeing (puruṣa) with the instrument of seeing (buddhi): \"I am the mind\".\n\nIt is the second of the five kleśas (YS 2.3).",
+  "question_type": "mcq",
+  "question_text": "\"अस्मिता\" का अभिप्राय ______ की एकात्मकता है।",
+  "options": [
+   "मन और आत्मा",
+   "दृक् और दर्शनशक्ति",
+   "शरीर और इन्द्रिय",
+   "सुख और दुःख"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q15",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Saṃyama on the relation of ear and space.**\n\nYS 3.41: ***śrotrākāśayoḥ sambandha-saṃyamād divyaṃ śrotram***. Sound is the property of ākāśa, so saṃyama on the relation between the ear and space gives divine hearing.",
+  "question_type": "mcq",
+  "question_text": "योगसूत्र के अनुसार, श्रवण की दैवीय शक्ति प्राप्त करने की विधि निम्नलिखित में से कौन-सी है?",
+  "options": [
+   "श्रोत्र-आकाश संबंध पर संयम",
+   "श्रोत्र-अग्नि संबंध पर संयम",
+   "श्रोत्र-पृथ्वी संबंध पर संयम",
+   "श्रोत्र-वायु संबंध पर संयम"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q16",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The sound of clouds (thunder).**\n\nHaṭha Pradīpikā 4.85–86 grades the inner sounds:\n\n- **beginning:** the ocean, **clouds (*jīmūta*)**, kettledrum, *jharjhara*\n- **middle:** drum (*mardala*), conch, bell, horn\n- **end:** tinkling bells, flute, vīṇā, **bee**\n\nConch and bell come in the middle stage, the bee at the end.",
+  "question_type": "mcq",
+  "question_text": "हठ प्रदीपिका के अनुसार नादानुसंधान अभ्यास के प्रारम्भ में किस प्रकार की ध्वनि सुनाई पड़ती है?",
+  "options": [
+   "मेघ की ध्वनि",
+   "शंख की ध्वनि",
+   "घंटे की ध्वनि",
+   "भ्रमर की ध्वनि"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q17",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) mitāhāra.**\n\nHaṭha Pradīpikā 1.38 (1.39 in some editions): *yameṣv iva **mitāhāram** ahiṃsā niyameṣv iva | mukhyaṃ sarvāsaneṣv ekaṃ siddhāḥ siddhāsanaṃ viduḥ*. \"As mitāhāra is chief among the yamas and ahiṃsā among the niyamas, so the siddhas know siddhāsana as chief among āsanas.\"",
+  "question_type": "mcq",
+  "question_text": "स्वात्माराम के अनुसार यम में कौन सा सर्वश्रेष्ठ है?",
+  "options": [
+   "मिताहार",
+   "सत्य",
+   "अस्तेय",
+   "ब्रह्मचर्य"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q18",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) prāṇa.**\n\nHaṭha Pradīpikā 4.24: *dugdhāmbuvat saṃmilitāv ubhau tau tulya-kriyau mānasa-mārutau hi*. Mind and prāṇa are mixed like milk and water; where the breath moves, the mind moves, and vice versa. Hence 2.2: *cale vāte calaṃ cittaṃ*, \"when the breath is unsteady, the mind is unsteady\".\n\nThis is why haṭha yoga stills the mind through the breath.",
+  "question_type": "mcq",
+  "question_text": "स्वात्माराम के अनुसार योगसाधना में मन किसके साथ निकटस्थ रूप में संबद्ध रहता है?",
+  "options": [
+   "इन्द्रिय",
+   "प्राण",
+   "शरीर",
+   "बुद्धि"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q19",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Bhagavad Gītā.**\n\nGītā 7.16: *catur-vidhā bhajante māṃ janāḥ sukṛtino 'rjuna | **ārto jijñāsur arthārthī jñānī** ca bharatarṣabha*. Four kinds of virtuous people worship Kṛṣṇa: the distressed, the seeker of knowledge, the seeker of wealth, and the wise. Of these, 7.17 calls the *jñānī* the best.",
+  "question_type": "mcq",
+  "question_text": "किस ग्रंथ में आर्त, जिज्ञासु, अर्थार्थी और ज्ञानी के रूप में व्यक्तियों के चार प्रकारों का उल्लेख किया गया है?",
+  "options": [
+   "रामायण",
+   "ब्रह्मसूत्र",
+   "कठोपनिषद्",
+   "भगवद्गीता"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q20",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Five.**\n\nGheraṇḍa Saṃhitā 1.26: *danta-mūlaṃ jihvā-mūlaṃ randhraṃ ca karṇa-yugmayoḥ | kapāla-randhraṃ **pañcaite** danta-dhautiṃ vidhīyate*. Root of the teeth, root of the tongue, the two ear holes and the frontal sinus: \"these five\" are danta dhauti.\n\nIf the two ears are counted as one place, it looks like four. That is why the source collection marks this item disputed, but the verse itself says *pañca*, and five is the expected answer.",
+  "question_type": "mcq",
+  "question_text": "घेरण्ड संहिता के अनुसार, दन्त धौति के प्रकार हैं:",
+  "options": [
+   "तीन",
+   "चार",
+   "पाँच",
+   "छः"
+  ],
+  "references": [
+   "Gheraṇḍa Saṃhitā 1.26–1.35"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q23",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Right atrium and right ventricle.**\n\nThe heart's four valves:\n\n- **tricuspid:** right atrium → right ventricle\n- pulmonary: right ventricle → pulmonary artery\n- mitral (bicuspid): left atrium → left ventricle\n- aortic: left ventricle → aorta\n\nThe mitral valve has two cusps; the tricuspid three.",
+  "question_type": "mcq",
+  "question_text": "ट्राइकस्पिड वाल्व किसके बीच पाया जाता है?",
+  "options": [
+   "बायें अलिन्द एवं बायें निलय",
+   "दायें अलिन्द एवं दायें निलय",
+   "दायें अलिन्द एवं फुफ्फुस धमनी",
+   "बायें अलिन्द एवं फुफ्फुस धमनी"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q24",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The ovary.**\n\nProgesterone is secreted mainly by the **corpus luteum** of the ovary after ovulation, and in pregnancy by the placenta. It prepares and maintains the uterine lining (\"the pregnancy hormone\").\n\nThe adrenal cortex makes only small amounts as a precursor.",
+  "question_type": "mcq",
+  "question_text": "प्रोजेस्टेरोन हार्मोन किस ग्रन्थि से स्रावित होता है?",
+  "options": [
+   "अण्डाशय से",
+   "एड्रीनल ग्रन्थि से",
+   "गुर्दों से",
+   "पैराथायरायड ग्रन्थि से"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q25",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The thyroid.**\n\nThe thyroid secretes **T4 (thyroxine)** and **T3 (triiodothyronine)**, which set the body's metabolic rate. Most T3 is made from T4 in the tissues.\n\nThe pituitary controls the thyroid through TSH, but does not make T3 itself.",
+  "question_type": "mcq",
+  "question_text": "टी-3 हार्मोन किस अन्तःस्रावी ग्रन्थि से स्रावित होता है?",
+  "options": [
+   "पिट्यूटरी",
+   "पीनियल",
+   "थायरायड",
+   "थाइमस"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q26",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Blood.**\n\nBlood is a **fluid connective tissue**: cells (RBCs, WBCs, platelets) in a liquid matrix (plasma). Other connective tissues include bone, cartilage, adipose and areolar tissue.\n\nCardiac and smooth muscle are muscle tissue; the spleen is an organ.",
+  "question_type": "mcq",
+  "question_text": "निम्नांकित में से कौन संयोजी ऊतक का उदाहरण है?",
+  "options": [
+   "हृद् पेशी",
+   "अरेखित पेशी",
+   "रक्त",
+   "प्लीहा"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q27",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The hypothalamus.**\n\nThe body's master clock is the **suprachiasmatic nucleus (SCN)** of the hypothalamus. It is set by light through the retina and drives the roughly 24-hour rhythms of sleep, body temperature and hormones, partly through melatonin from the pineal gland.",
+  "question_type": "mcq",
+  "question_text": "'सर्केडियन क्लॉक' मस्तिष्क के किस भाग में अवस्थित है?",
+  "options": [
+   "सेरेब्रम",
+   "सेरिबेलम",
+   "हाइपोथैलेमस",
+   "मेडुला ऑब्लांगेटा"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q28",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Concepts of health (WHO, Ayurveda)",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Manovṛtti.**\n\nCaraka (Śārīra 1.102) defines *prajñāparādha*, the \"offence against wisdom\", as ***dhī-dhṛti-smṛti-vibhraṃśa***: impairment of intellect (*dhī*), restraint (*dhṛti*) and memory (*smṛti*), leading to wrong action. It is one of the three root causes of disease, with misuse of the senses and the seasons.\n\n\"Manovṛtti\" is not one of its three components.",
+  "question_type": "mcq",
+  "question_text": "प्रज्ञापराध में सम्मिलित नहीं है:",
+  "options": [
+   "धी अंश",
+   "धृति अंश",
+   "मनोवृत्ति अंश",
+   "स्मृति अंश"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q29",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Hyperthyroidism.**\n\nMetabolic syndrome is a cluster of risk factors: **abdominal obesity, high blood pressure, high fasting blood sugar (insulin resistance), high triglycerides and low HDL (dyslipidaemia)**. Three or more make the diagnosis.\n\nHyperthyroidism is a separate endocrine disorder.",
+  "question_type": "mcq",
+  "question_text": "मेटाबोलिक सिन्ड्रोम में क्या नहीं होता है?",
+  "options": [
+   "उच्च रक्तचाप",
+   "उदरगत मोटापा",
+   "डिसलिपिडीमिया",
+   "हाइपरथायरॉयडिज़्म"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q30",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sympathetic nerves.**\n\nStress triggers the **sympathetic** \"fight or flight\" system: heart rate and blood pressure rise, breathing quickens, digestion slows and adrenaline is released. Internal organs are driven into overactivity.\n\nThe parasympathetic system does the opposite (\"rest and digest\"); yoga practices aim to strengthen it.",
+  "question_type": "mcq",
+  "question_text": "तनाव निम्नलिखित में से किसके माध्यम से अनैच्छिक अंगों में अतिसक्रियता लाता है?",
+  "options": [
+   "मेरुदण्ड तंत्रिकाओं का समूह",
+   "कपाल तंत्रिकाओं का समूह",
+   "सिम्पैथेटिक तंत्रिकाएं",
+   "पैरासिम्पैथेटिक तंत्रिकाएं"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q31",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A semicircle.**\n\nFor a small class, a semicircle with the teacher at the open side lets every student see the demonstration clearly and the teacher see every student. In a full circle the teacher has students behind them; in rows, those at the back cannot see well.\n\n(The source collection's answer letter is misprinted, but its explanation gives the semicircle.)",
+  "question_type": "mcq",
+  "question_text": "किसी छोटी योग कक्षा के लिए विद्यार्थियों के बैठने की सर्वाधिक उत्तम व्यवस्था निम्नलिखित में से कौन हो सकती है?",
+  "options": [
+   "सीधी पंक्ति",
+   "वृत्ताकार रूप",
+   "अर्द्ध-वृत्ताकार रूप",
+   "द्विवृत्तीय रूप"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q32",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The trainer's clear instruction.**\n\nLearning a specific practice depends above all on how clearly it is taught: clear demonstration, precise verbal instruction and correction. The trainer's concentration, strength or confidence help, but they do not themselves transfer the skill.",
+  "question_type": "mcq",
+  "question_text": "किसी विद्यार्थी द्वारा किसी विशिष्ट योग अभ्यास को सीखना निम्नलिखित में से किस पर निर्भर करता है?",
+  "options": [
+   "प्रशिक्षक की एकाग्रता पर",
+   "प्रशिक्षक की शक्ति पर",
+   "प्रशिक्षक के स्पष्ट प्रशिक्षण पर",
+   "प्रशिक्षक के आत्मविश्वास पर"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q34",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Maharishi Mahesh Yogi.**\n\n**Transcendental Meditation (TM)**, *bhāvātīta dhyāna*, is a silent mantra meditation that Maharishi Mahesh Yogi began teaching in the mid-1950s; it spread worldwide in the 1960s–70s.\n\nSwami Sivananda founded the Divine Life Society (Rishikesh); Dayananda founded the Ārya Samāj.",
+  "question_type": "mcq",
+  "question_text": "भावातीत ध्यान का प्रतिपादन किसने किया था?",
+  "options": [
+   "स्वामी रामदेव",
+   "महर्षि दयानन्द",
+   "स्वामी शिवानंद",
+   "महर्षि महेश योगी"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q35",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A change in the student.**\n\nTeaching aims at learning, and learning is a lasting change in the learner's knowledge, skills, attitudes and behaviour. The environment, subject and teacher are means to that end.",
+  "question_type": "mcq",
+  "question_text": "शिक्षण का उद्देश्य मुख्यतः ______ लाना है।",
+  "options": [
+   "वातावरण में बदलाव",
+   "विषय में बदलाव",
+   "विद्यार्थी में बदलाव",
+   "शिक्षक में बदलाव"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q36",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Value-based education and yama",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The traditional gurukula.**\n\nValues are absorbed by living them, not only by being told about them. In the gurukula the student lives with the teacher as part of the household, learning discipline, service, simplicity and respect from daily example. The key treats this as the most reliable way to impart values.",
+  "question_type": "mcq",
+  "question_text": "मूल्य शिक्षा प्रदान करने की सर्वाधिक विश्वसनीय विधि हो सकती है:",
+  "options": [
+   "पारम्परिक गुरुकुल शिक्षण",
+   "कक्षा-कक्ष शिक्षण",
+   "अभ्यास आधारित योग शिक्षण",
+   "सिद्धांत आधारित योग शिक्षण"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q37",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: gynaecological and urinary disorders",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Menopausal syndrome.**\n\nAs oestrogen falls around menopause, typical symptoms are **hot flushes**, night sweats, **disturbed sleep** and **mood changes** (irritability, low mood).\n\nPMS brings mood changes before each period, but not hot flushes; nephrotic syndrome is a kidney disorder (protein loss, oedema).",
+  "question_type": "mcq",
+  "question_text": "हॉट फ्लैश, बाधित निद्रा तथा भावात्मक परिवर्तन किसके विशिष्ट लक्षण हैं?",
+  "options": [
+   "प्री-मेन्स्ट्रुअल सिन्ड्रोम",
+   "मीनोपॉज़ल सिन्ड्रोम",
+   "मेटाबोलिक सिन्ड्रोम",
+   "नेफ्रोटिक सिन्ड्रोम"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q38",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kriya Yoga",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (4), (2) and (1).**\n\nYS 2.1: ***tapaḥ-svādhyāyeśvara-praṇidhānāni kriyā-yogaḥ***. Kriyā yoga is austerity, self-study and devotion to Īśvara.\n\n**Avidyā** is the opposite: the first kleśa, which kriyā yoga weakens (2.2).",
+  "question_type": "statements",
+  "question_text": "क्रिया योग में सम्मिलित हैं:",
+  "items": [
+   "स्वाध्याय",
+   "तप",
+   "अविद्या",
+   "ईश्वर प्रणिधान"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(3), (2) और (4) सही हैं।",
+   "(4), (3) और (1) सही हैं।",
+   "(1), (2) और (3) सही हैं।",
+   "(4), (2) और (1) सही हैं।"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q39",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (1), (2) and (3).**\n\nTattvārtha Sūtra 1.1: *samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ*. The Jain **three jewels (*triratna*)**: right faith/vision, right knowledge and right conduct.\n\n**Samyak vāk** (right speech) belongs to the **Buddhist** eightfold path.",
+  "question_type": "statements",
+  "question_text": "जैन दर्शन तीन रत्नों का उपदेश देता है:",
+  "items": [
+   "सम्यक् ज्ञान",
+   "सम्यक् चरित्र",
+   "सम्यक् दर्शन",
+   "सम्यक् वाक्"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1), (2) और (3) सही हैं।",
+   "(2), (1) और (4) सही हैं।",
+   "(3), (4) और (2) सही हैं।",
+   "(4), (3) और (1) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q40",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (1), (2) and (3).**\n\nWhen Naciketas asks what happens after death, Yama tries to put him off (Kaṭha 1.1.23–25). He offers sons and grandsons living a hundred years, cattle, elephants, gold and horses, vast lands and as long a life as he wishes, kingship over the earth, and celestial maidens. Naciketas refuses them all (1.1.26–29).\n\n**Self-knowledge** is what Naciketas asked for, not a temptation; Yama teaches it after testing him.",
+  "question_type": "statements",
+  "question_text": "कठोपनिषद् के अनुसार यमराज ने नचिकेता को क्या प्रलोभन दिए?",
+  "items": [
+   "शताधिक आयु के पुत्र और पौत्रादि",
+   "गौ, हाथी, अश्वादि",
+   "भूमण्डल का साम्राज्य",
+   "आत्म ज्ञान"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1), (2) और (3) सही हैं।",
+   "(1), (2) और (4) सही हैं।",
+   "(1), (3) और (4) सही हैं।",
+   "(2), (3) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q41",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (2), (3) and (1): Gaṅgā, Yamunā, Sarasvatī.**\n\nHaṭha Pradīpikā 3.110: *iḍā bhagavatī **gaṅgā** piṅgalā **yamunā** nadī | iḍā-piṅgalayor madhye bāla-raṇḍā ca kuṇḍalī*. Iḍā is Gaṅgā and piṅgalā Yamunā; suṣumnā between them is **Sarasvatī**, as at the Prayāga confluence (*triveṇī*).",
+  "question_type": "statements",
+  "question_text": "इड़ा, पिंगला और सुषुम्ना नाड़ियों को क्रमशः किस रूप में जाना जाता है?",
+  "items": [
+   "सरस्वती",
+   "गंगा",
+   "यमुना",
+   "कावेरी"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(2), (3) और (1) सही हैं।",
+   "(4), (2) और (1) सही हैं।",
+   "(3), (4) और (2) सही हैं।",
+   "(1), (2) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q43",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Abhyasa and vairagya",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (2) and (3).**\n\nYS 1.14: *sa tu **dīrgha-kāla-nairantarya**-satkārāsevito dṛḍha-bhūmiḥ*. Practice becomes firm when kept up **for a long time**, **without interruption** and with devotion (*satkāra*).\n\nOf the options, long duration and continuity are named. Bhakti and svādhyāya are not part of this sūtra.",
+  "question_type": "statements",
+  "question_text": "योगसूत्र के अनुसार, अभ्यास की सिद्धि के लिए निम्नलिखित में से कौन-से आवश्यक हैं?",
+  "items": [
+   "भक्ति",
+   "दीर्घकाल",
+   "निरंतरता",
+   "स्वाध्याय"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(2) और (3) सही हैं।",
+   "(1) और (2) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(3) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q44",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (3) and (4).**\n\nYS 1.31 lists the *vikṣepa-sahabhuvaḥ* (companions of distraction): duḥkha, **daurmanasya**, aṅgamejayatva, **śvāsa** and praśvāsa.\n\n**Styāna** (mental dullness) and **anavasthitatva** (instability) are among the nine *antarāyas* (YS 1.30), not their companions.",
+  "question_type": "statements",
+  "question_text": "सहभुवः के अंतर्गत निम्नलिखित में से कौन से सम्मिलित नहीं हैं?",
+  "items": [
+   "दौर्मनस्य",
+   "श्वास",
+   "स्त्यान",
+   "अनवस्थितत्व"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(2) और (3) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(1) और (3) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q45",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (1) and (3): cold and dry.**\n\nVāta is **cold, dry (*rūkṣa*)**, light, rough and mobile. Food with the same qualities aggravates it, so cold and dry food does not suit a vāta constitution.\n\nWarm, unctuous (*snigdha*) and heavier (*guru*), well-cooked food balances vāta.",
+  "question_type": "statements",
+  "question_text": "वात प्रकृति वाले व्यक्तियों के लिए आहार के कौन से प्रकार लाभदायी नहीं हैं?",
+  "items": [
+   "शीत",
+   "स्निग्ध",
+   "रूक्ष",
+   "गुरु"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(1) और (3) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q46",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Sadhaka and badhaka tattvas in Hatha Yoga",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (2) and (3).**\n\nHaṭha Pradīpikā 1.16 names six causes of success: ***utsāha*** (enthusiasm), ***sāhasa*** (courage), *dhairya* (perseverance), *tattva-jñāna*, *niścaya* (firm resolve) and avoiding company.\n\nHP 1.15 lists six that destroy yoga: overeating, overexertion, too much talk, ***niyamāgraha*** (rigid clinging to rules), company and fickleness.\n\n\"Prayāsa\" is a trap: in HP 1.15 it means overexertion, one of the destroyers.",
+  "question_type": "statements",
+  "question_text": "योग साधना में सफलता के लिए निम्नलिखित में से कौन से उत्तरदायी हैं?",
+  "items": [
+   "प्रयास",
+   "उत्साह",
+   "साहस",
+   "नियमाग्रह"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(1) और (3) सही हैं।"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q47",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (3) and (4).**\n\nHaṭha Pradīpikā 3.6–7 lists the ten mudrās: **mahāmudrā, mahābandha**, mahāvedha, khecarī, uḍḍīyāna, mūla bandha, jālandhara, viparītakaraṇī, vajrolī and śakticālana.\n\n**Śāmbhavī** appears in HP 4 (laya) but not among the ten; **aśvinī** is in Gheraṇḍa Saṃhitā's twenty-five mudrās.",
+  "question_type": "statements",
+  "question_text": "हठ प्रदीपिका के अनुसार दस मुद्राओं में कौन-सी सम्मिलित नहीं है?",
+  "items": [
+   "महाबन्ध",
+   "महामुद्रा",
+   "शाम्भवी मुद्रा",
+   "अश्विनी मुद्रा"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q48",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (1), (2) and (4).**\n\n- **Sītkārī:** HP 2.55, *na kṣudhā na tṛṣā nidrā naivālasyaṃ prajāyate*, no hunger, thirst, sleep or sloth.\n- **Śītalī:** HP 2.58 removes *kṣudhā-tṛṣā* (hunger and thirst).\n- **Khecarī:** HP 3.37, *na ca mūrcchā kṣudhā tṛṣṇā*.\n\n**Viparītakaraṇī** (HP 3.78–81) does the opposite: it *increases* the digestive fire, so the practitioner needs ample food.",
+  "question_type": "statements",
+  "question_text": "हठ प्रदीपिका के अनुसार किसको निष्पादित कर व्यक्ति भूख, प्यास आदि से पीड़ित नहीं होता है?",
+  "items": [
+   "सीत्कारी प्राणायाम",
+   "शीतली प्राणायाम",
+   "विपरीतकरणी मुद्रा",
+   "खेचरी मुद्रा"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1), (2) और (3) सही हैं।",
+   "(2), (3) और (4) सही हैं।",
+   "(1), (3) और (4) सही हैं।",
+   "(1), (2) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q52",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (1), (3) and (4).**\n\nGheraṇḍa Saṃhitā 5.23–31 lists foods to avoid, among them ***kuṣmāṇḍa*** (ash gourd), ***lakuca*** (a fruit like jackfruit) and ***kulattha*** (horse gram), along with bitter, sour, salty and pungent food.\n\n***Paṭola*** (pointed gourd) is among the recommended vegetables.",
+  "question_type": "statements",
+  "question_text": "घेरण्ड संहिता के अनुसार योगाभ्यासी के लिए कौन से खाद्य पदार्थ वर्जित होने चाहिए?",
+  "items": [
+   "कूष्माण्ड",
+   "पटोल",
+   "लकुच",
+   "कुलत्थ"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(2), (3) और (4) सही हैं।",
+   "(1), (2) और (3) सही हैं।",
+   "(1), (3) और (4) सही हैं।",
+   "(1), (2) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q53",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (2) and (3): hypertension and hernia.**\n\nKapālabhāti's forceful abdominal strokes raise intra-abdominal and intrathoracic pressure, so it is avoided in **high blood pressure** and **hernia** (also heart disease, epilepsy, recent abdominal surgery and pregnancy).\n\nIt is usually recommended for obesity.",
+  "question_type": "statements",
+  "question_text": "कपालभाति सामान्य रूप से किन व्याधियों में निषिद्ध है?",
+  "items": [
+   "निम्न रक्तचाप",
+   "उच्च रक्तचाप",
+   "हर्निया",
+   "मोटापा"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (4) सही हैं।",
+   "(1) और (3) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(2) और (3) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q54",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (1) and (2): vertigo and slipped disc.**\n\nŚaśāṅkāsana is a deep forward bend with the head lowered to the floor:\n\n- **Vertigo:** lowering the head can bring on giddiness.\n- **Slipped disc:** forward flexion pushes the disc further backward; backward bends are preferred.\n\nIt is commonly recommended for constipation and in diabetes (pressure on the abdomen).",
+  "question_type": "statements",
+  "question_text": "शशांकासन किस रोग में निषिद्ध है?",
+  "items": [
+   "वर्टिगो",
+   "स्लिप डिस्क",
+   "कब्ज",
+   "मधुमेह"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(2) और (3) सही हैं।",
+   "(1) और (2) सही हैं।",
+   "(1) और (3) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q55",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (3) and (4).**\n\nThe **humanistic** approach stresses personal growth and self-actualisation:\n\n- **Carl Rogers:** the self-concept, unconditional positive regard, the fully functioning person.\n- **Abraham Maslow:** the hierarchy of needs, self-actualisation.\n\nJung belongs to analytical (depth) psychology; Bandura to social-cognitive theory.",
+  "question_type": "statements",
+  "question_text": "किसने व्यक्तित्व के मानवीय दृष्टिकोण को विकसित किया?",
+  "items": [
+   "कार्ल जुंग",
+   "अल्बर्ट बन्दुरा",
+   "कार्ल रोजर्स",
+   "अब्राहम मैस्लो"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (4) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q56",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: memory and cognition",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (2), (4) and (1): encoding, storage, retrieval.**\n\nThe three stages of memory are **encoding** (putting information into memory), **storage** (keeping it over time) and **retrieval** (getting it back when needed).\n\n**Rehearsal** is a strategy that helps move information into long-term memory; it is not a stage.",
+  "question_type": "statements",
+  "question_text": "स्मृति के तीन चरण हैं:",
+  "items": [
+   "पुनर्प्राप्ति",
+   "कूटबद्ध करना",
+   "पूर्वाभ्यास",
+   "संग्रहण"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(3), (1) और (4) सही हैं।",
+   "(1), (3) और (2) सही हैं।",
+   "(2), (4) और (1) सही हैं।",
+   "(4), (2) और (3) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q57",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Value-based education and yama",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (2) and (3): a peaceful and a healthy society.**\n\nValue education builds character: non-violence, truthfulness, restraint and care for others. Its direct fruits are a **peaceful** and a **healthy** society.\n\nProsperity and political stability depend on many other factors, so the key does not count them as direct outcomes.",
+  "question_type": "statements",
+  "question_text": "मूल्याभिमुखी शिक्षा से निम्नलिखित में से किनका निर्माण होता है?",
+  "items": [
+   "सम्पन्न समाज",
+   "शांतिपूर्ण समाज",
+   "स्वस्थ समाज",
+   "राजनीतिक रूप से स्थिर समाज"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(1) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q58",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (1) and (4).**\n\nGheraṇḍa Saṃhitā 1.55 names three kinds of kapālabhāti: **vātakrama**, **vyutkrama** and **śītkrama**.\n\n**Vātasāra** and **vahnisāra** are two of the four *antar-dhautis*, a different shatkarma.",
+  "question_type": "statements",
+  "question_text": "घेरण्ड संहिता के अनुसार कपालभाति के प्रकार हैं:",
+  "items": [
+   "शीतक्रम",
+   "वातसार",
+   "वह्निसार",
+   "व्युत्क्रम"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(1) और (4) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(3) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q59",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (1), (3) and (4).**\n\nHaṭha Pradīpikā 3.28 (3.29 in some editions): mahāvedha is *mahā-siddhi-pradāyakaḥ | **valī-palita-vepa-ghnaḥ***. It removes **wrinkles (*valī*)**, **grey hair (*palita*)** and **trembling (*vepa*)**, the signs of old age.\n\nSleeplessness is not mentioned.",
+  "question_type": "statements",
+  "question_text": "हठयोगप्रदीपिका के अनुसार महावेध मुद्रा दूर करती है:",
+  "items": [
+   "झुर्रियाँ",
+   "अनिद्रा",
+   "बाल पकना",
+   "कम्पन"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(3), (4) और (2) सही हैं।",
+   "(2), (1) और (4) सही हैं।",
+   "(3), (2) और (1) सही हैं।",
+   "(1), (3) और (4) सही हैं।"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q60",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (1), (2) and (4).**\n\nA written lesson plan mainly helps the **teacher**: it organises their thinking, gives them confidence, and keeps the lesson on its objectives. Understanding students' ability comes from observing and assessing them in class, not from the plan itself.",
+  "question_type": "statements",
+  "question_text": "लिखित पाठ योजना के लाभ अधिकांशतया होते हैं:",
+  "items": [
+   "शिक्षक के चिंतन को व्यवस्थित करने में",
+   "शिक्षक का आत्मविश्वास बढ़ाने में",
+   "छात्र की क्षमता समझने में",
+   "शिक्षण के लक्ष्यों को बनाए रखने में"
+  ],
+  "item_style": "numbers",
+  "prompt": "कूट के अनुसार सही संयोजन चुनें:",
+  "options": [
+   "(2), (3) और (4) सही हैं।",
+   "(1), (3) और (4) सही हैं।",
+   "(1), (4) और (3) सही हैं।",
+   "(1), (2) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q61",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nIn dhanurāsana the body rests on the abdomen while arching back, which stretches and presses the front abdominal wall. In a hernia, organs push through a weak spot in that wall, so the pose can worsen it. R gives exactly why A holds.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "धनुरासन हर्निया व्याधि में निषिद्ध है।",
+  "reason": "धनुरासन पीछे झुकने संबंधी आसन है, जिससे उदर की अग्रवर्ती दीवार पर दबाव में वृद्धि होती है, इसलिए यह आसन हर्निया में नुकसानदायक है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q62",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both true, but R does not explain A.**\n\nGītā 3.3: *loke 'smin dvi-vidhā niṣṭhā **purā proktā** mayānagha | jñāna-yogena sāṃkhyānāṃ karma-yogena yoginām*. \"Two paths were taught of old: the path of knowledge for the Sāṃkhyas and of action for the yogis.\"\n\nSo both statements are true. But that Sāṃkhya is knowledge and Yoga action does not explain why they are the most ancient.\n\n(The source collection prints options (1) and (2) swapped; its stated answer is this one.)",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "भगवद्गीता के अनुसार, सांख्य और योग दर्शन पद्धतियाँ दो सर्वाधिक प्राचीन पद्धतियाँ हैं।",
+  "reason": "सांख्य और योग पद्धतियाँ क्रमशः ज्ञान और कर्म के मार्ग हैं।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q63",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nA teacher passes on information; a guru guides the student along a path he has walked himself. Because the guru draws out in the student what he has already realised, he acts as a guide more than an instructor. R gives the reason for A.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "गुरु छात्रों के लिए शिक्षक से अधिक एक मार्गदर्शक होता है।",
+  "reason": "गुरु छात्रों में उन्हीं क्षमताओं के विकास का प्रयास करता है, जिन्हें वह स्वयं पहले अनुभव कर चुका है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q64",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 64,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nStress is the body's response to harmful stimuli (stressors): a state, not a disease in itself. Prolonged, it leads to disease (hypertension, diabetes, anxiety and others).\n\nR explains why stress is seen as a symptom or state that produces diseases, rather than a disease itself.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "तनाव अपने आपमें एक लक्षण है, लेकिन व्याधि नहीं है।",
+  "reason": "हानिकारक बाह्य उद्दीपकों का तात्कालिक परिणाम तनाव की अवस्था के रूप में सामने आता है, जिससे विभिन्न व्याधियाँ उत्पन्न होती हैं।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q66",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 66,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nGītā 17.9: *kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ | āhārā rājasasyeṣṭāḥ*. Bitter, sour, salty, very hot, pungent, dry and burning foods are liked by the rājasic and cause pain, grief and disease.\n\nRajas brings restlessness, which obstructs yoga, so R explains A.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "राजसिक आहार योगाभ्यासी के लिए लाभदायी नहीं होता है।",
+  "reason": "कटु, लवणीय और तीक्ष्ण आहार रजस् गुण में वृद्धि करता है, जो योग साधना में एक बाधक है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q67",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 67,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nIn Āyurveda the pungent, bitter and astringent tastes are light, dry and (except pungent) cold, the qualities of vāta, so they **increase vāta**. Sweet, sour and salty pacify it. R is the reason for A.\n\n(The source collection prints options (1) and (2) swapped; its stated answer is this one.)",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "कटु, तिक्त और कषाय रस प्रधान आहार वात प्रकृति के व्यक्तियों के लिए लाभदायी नहीं होता है।",
+  "reason": "कटु, तिक्त और कषाय रस प्रधान आहार का अत्यधिक सेवन करने से वात दोष में वृद्धि होती है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q70",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 70,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nThe key's reasoning: a good teacher leads students to look within and find the truth themselves, which is worth more than the external rituals a priest performs. R gives the reason for A.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "एक अच्छा शिक्षक हजार पुजारियों के बराबर होता है।",
+  "reason": "शिक्षक विद्यार्थियों को अपने अंदर झांकने के लिए प्रेरित करता है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q71",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 71,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nHaṭha Pradīpikā 2.16–17: properly done, prāṇāyāma destroys all diseases, but *ayukta-abhyāsa-yogena sarva-roga-samudbhavaḥ*: wrong practice gives rise to all diseases. The disturbed vāyu causes ***hikkā** (hiccup), **śvāsa** (asthma), **kāsa** (cough), **śiraḥ-karṇākṣi-vedanā*** (pain in head, ears and eyes).\n\nR states the mechanism behind A. (The source collection prints options (1) and (2) swapped.)",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "प्राणायाम के गलत अभ्यास से विभिन्न व्याधियाँ उत्पन्न होती हैं।",
+  "reason": "प्राणायाम के गलत अभ्यास से वायु में व्यवधान उत्पन्न होता है, जिससे हिक्का, श्वास, कास, शिरःशूल, कर्णशूल और अन्य व्याधियाँ होती हैं।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-X01",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (2), (4), (1), (3).**\n\nGheraṇḍa Saṃhitā 5.2: *ādau **sthānaṃ** tathā **kālaṃ** **mitāhāraṃ** tathāparam | **nāḍī-śuddhiṃ** tataḥ paścāt prāṇāyāmaṃ ca sādhayet*. First the place, then the time, then moderate diet, then purification of the nāḍīs; only then prāṇāyāma.\n\nChapter 5 then treats them in this order.",
+  "question_type": "sequence",
+  "question_text": "घेरण्ड संहिता के अनुसार (प्राणायाम के अभ्यास के दौरान) निम्नलिखित को उचित क्रम में व्यवस्थित कीजिए:",
+  "items": [
+   "मिताहार",
+   "स्थान",
+   "नाड़ी शोधन",
+   "काल"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(1), (2), (3), (4)",
+   "(4), (2), (1), (3)",
+   "(2), (4), (1), (3)",
+   "(2), (1), (4), (3)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q72",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 72,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (2), (5), (3), (4), (1).**\n\nYS 3.36: *tataḥ prātibha-**śrāvaṇa-vedanādarśāsvāda-vārtā** jāyante*. After intuition (prātibha), the higher senses arise in the order hearing (śrāvaṇa), touch (vedana), sight (ādarśa), taste (āsvāda), smell (vārtā). This follows the order of the elements (space, air, fire, water, earth).",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित सिद्धियों को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "वार्ता",
+   "श्रावण",
+   "आदर्श",
+   "आस्वाद",
+   "वेदना"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(1), (2), (3), (5), (4)",
+   "(2), (5), (3), (4), (1)",
+   "(2), (3), (4), (1), (5)",
+   "(5), (3), (2), (4), (1)"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q73",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 73,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Chitta-bhumis and chitta-vrittis",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (3), (1), (2), (5), (4).**\n\nYS 1.6: ***pramāṇa-viparyaya-vikalpa-nidrā-smṛtayaḥ***. The five vṛttis in order: right knowledge, error, conceptualisation, sleep, memory. Sūtras 1.7–1.11 define them one by one in the same order.\n\nThe source collection gives (3) but its own explanation lists this order, which is option (4).",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित को उचित क्रम में व्यवस्थित करें (योगसूत्र के अनुसार वृत्तियाँ):",
+  "items": [
+   "विपर्यय",
+   "विकल्प",
+   "प्रमाण",
+   "स्मृति",
+   "निद्रा"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(3), (2), (1), (5), (4)",
+   "(1), (2), (3), (4), (5)",
+   "(3), (1), (2), (4), (5)",
+   "(3), (1), (2), (5), (4)"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q74",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 74,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (4), (2), (5), (1), (3).**\n\nSiddha Siddhānta Paddhati (chapter 1) gives each of the five great elements five qualities. For air (*mahāvāyu*) the order is: **sañcāra** (movement), **sañcālana** (setting in motion), **sparśa** (touch), **śoṣaṇa** (drying) and **dhūmra-varṇa** (smoky colour).\n\nThis follows the source collection's key; it could not be checked against a printed edition here.",
+  "question_type": "sequence",
+  "question_text": "सिद्ध सिद्धांत पद्धति के अनुसार महावायु के गुणों को आनुक्रमिक क्रम में व्यवस्थित कीजिए:",
+  "items": [
+   "शोषण",
+   "संचालन",
+   "धूम्र वर्ण",
+   "संचार",
+   "स्पर्श"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(2), (4), (5), (3), (1)",
+   "(2), (4), (1), (5), (3)",
+   "(4), (2), (5), (1), (3)",
+   "(4), (5), (1), (3), (2)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q76",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 76,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (3), (4), (2), (1).**\n\nFrom top to bottom: **cervical** (7, neck) → **thoracic** (12, chest, bearing the ribs) → **lumbar** (5, lower back) → **sacral** (5, fused into the sacrum) → coccygeal (4, fused).",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित कशेरुकाओं के समूहों को अवरोही क्रम में व्यवस्थित करें (शरीर में स्थिति के अनुसार):",
+  "items": [
+   "सेक्रल कशेरुकाएँ",
+   "लंबर कशेरुकाएँ",
+   "सर्वाइकल कशेरुकाएँ",
+   "थोरैसिक कशेरुकाएँ"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(1), (2), (3), (4)",
+   "(1), (3), (2), (4)",
+   "(3), (4), (2), (1)",
+   "(2), (3), (4), (1)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q77",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 77,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (4), (1), (3), (2).**\n\nGītā 2.62: ***dhyāyato viṣayān*** *puṃsaḥ **saṅgas** teṣūpajāyate | saṅgāt sañjāyate **kāmaḥ** kāmāt **krodho** 'bhijāyate*. Brooding on objects → attachment → desire → anger. 2.63 continues: anger → delusion → loss of memory → loss of discrimination → ruin.",
+  "question_type": "sequence",
+  "question_text": "भगवद्गीता के अनुसार निम्नलिखित अवस्थाओं को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "आसक्ति",
+   "क्रोध",
+   "काम",
+   "सांसारिक विषयों के बारे में सोचना"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(2), (3), (4), (1)",
+   "(4), (1), (3), (2)",
+   "(3), (2), (1), (4)",
+   "(1), (4), (2), (3)"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q78",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 78,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(ii), B–(iv), C–(i), D–(iii).**\n\nFour classic definitions of yoga:\n\n- *samatvaṃ yoga ucyate*: evenness is yoga (**Gītā 2.48**)\n- *yogaś citta-vṛtti-nirodhaḥ*: yoga is the stilling of the mind's fluctuations (**Yoga Sūtra 1.2**)\n- *yogaḥ karmasu kauśalam*: yoga is skill in action (**Gītā 2.50**)\n- *duḥkha-saṃyoga-viyogaṃ yoga-saṃjñitam*: yoga is disconnection from union with pain (**Gītā 6.23**)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "समत्वं योग उच्यते",
+     "योगश्चित्तवृत्तिनिरोधः",
+     "योगः कर्मसु कौशलम्",
+     "दुःखसंयोगवियोगं योगसंज्ञितम्"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "गीता 2/50",
+     "गीता 2/48",
+     "गीता 6/23",
+     "योगसूत्र 1/2"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (ii) (iii) (iv)",
+   "(iii) (i) (iv) (ii)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (iii) (ii) (i)"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita",
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q79",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 79,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(ii), B–(iv), C–(i), D–(iii).**\n\n- **Satkāryavāda** (the effect pre-exists in its cause): **Sāṃkhya**\n- **Vivartavāda** (the world is an apparent transformation of Brahman): **Advaita Vedānta**\n- **Syādvāda** (\"in some respect\": the sevenfold predication): **Jainism**\n- **Kṣaṇabhaṅgavāda** (everything is momentary): **Buddhism**",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (सिद्धांत)",
+    "items": [
+     "सत्कार्यवाद",
+     "विवर्तवाद",
+     "स्याद्वाद",
+     "क्षणभंगवाद"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (दर्शन)",
+    "items": [
+     "जैन दर्शन",
+     "सांख्य दर्शन",
+     "बौद्ध दर्शन",
+     "वेदान्त दर्शन"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iii) (ii) (iv)",
+   "(iii) (ii) (iv) (i)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (i) (iii) (ii)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q80",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 80,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(iii), B–(i), C–(iv), D–(ii).**\n\nMāṇḍūkya 9–12 maps the parts of Oṃ to the states:\n\n- **a**-kāra: waking (vaiśvānara)\n- **u**-kāra: dream (taijasa)\n- **m**-kāra: deep sleep (prājña)\n- **amātra** (the soundless part): **turīya**",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "जाग्रत अवस्था",
+     "स्वप्न अवस्था",
+     "सुषुप्ति अवस्था",
+     "तुरीय अवस्था"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "उकार",
+     "अमात्र",
+     "अकार",
+     "मकार"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (ii) (iv) (iii)",
+   "(ii) (i) (iii) (iv)",
+   "(iii) (i) (iv) (ii)",
+   "(ii) (iii) (iv) (i)"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-X02",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A–(ii), B–(iv), C–(i), D–(iii).**\n\nCommentaries on the Yoga Sūtra and their authors:\n\n- *Tattva-vaiśāradī*: **Vācaspati Miśra** (on Vyāsa's bhāṣya)\n- *Yoga-vārttika*: **Vijñānabhikṣu**\n- *Maṇiprabhā*: **Rāmānanda Yati**\n- *Yoga-sudhākara*: **Sadāśivendra Sarasvatī**\n\n(Bhoja's is the *Rāja-mārtaṇḍa*.)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (टीका)",
+    "items": [
+     "तत्त्ववैशारदी",
+     "योगवार्तिक",
+     "मणिप्रभा",
+     "योगसुधाकर"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (लेखक)",
+    "items": [
+     "रामानन्द यति",
+     "वाचस्पति मिश्र",
+     "सदाशिवेन्द्र सरस्वती",
+     "विज्ञानभिक्षु"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iii) (iv) (ii)",
+   "(ii) (iv) (i) (iii)",
+   "(iii) (i) (ii) (iv)",
+   "(iv) (ii) (iii) (i)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-X03",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: memory and cognition",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A–(ii), B–(i), C–(iv), D–(iii).**\n\n- **Mike Anderson:** theory of intelligence and cognitive development (a basic processing mechanism plus specific modules).\n- **Howard Gardner:** **multiple intelligences** (linguistic, logical-mathematical, spatial, musical, bodily-kinaesthetic, interpersonal, intrapersonal, naturalistic).\n- **Robert Sternberg:** **triarchic** theory (analytical, creative, practical).\n- **Stephen Ceci:** **bio-ecological** theory (intelligence develops through biological potential interacting with context).",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "एंडरसन",
+     "गार्डनर",
+     "स्टर्नबर्ग",
+     "सेसी"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "बहु-बुद्धि का सिद्धांत",
+     "बुद्धि का सिद्धांत (बुद्धि एवं संज्ञानात्मक विकास)",
+     "बुद्धि का जैव-पारिस्थितिकीय सिद्धांत",
+     "बुद्धि का त्रितंत्रीय सिद्धांत"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(ii) (i) (iv) (iii)",
+   "(iv) (ii) (i) (iii)",
+   "(iv) (i) (iii) (ii)",
+   "(iii) (iv) (ii) (i)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-X04",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A–(iv), B–(iii), C–(i), D–(ii).**\n\n- **Apara vairāgya** (YS 1.15) supports **samprajñāta** samādhi.\n- **Kriyā yoga** is practised for *kleśa-tanūkaraṇa*, weakening the kleśas (2.2).\n- **Para vairāgya** (1.16) leads to **asamprajñāta** samādhi (1.18, *virāma-pratyayābhyāsa-pūrvaḥ*).\n- **Asamprajñāta** (seedless, nirbīja) samādhi culminates in **kaivalya**.\n\n(The option-(4) code is partly illegible in the scan; it is restored from the key's matching.)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (अभ्यास)",
+    "items": [
+     "अपर वैराग्य",
+     "क्रिया योग",
+     "पर वैराग्य",
+     "असम्प्रज्ञात समाधि"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (परिणाम)",
+    "items": [
+     "असम्प्रज्ञात समाधि",
+     "कैवल्य",
+     "क्लेशतनुकरण",
+     "सम्प्रज्ञात समाधि"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (ii) (iii) (iv)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (iii) (ii) (i)",
+   "(iv) (iii) (i) (ii)"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-X05",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A–(ii), B–(iii), C–(iv), D–(i).**\n\n- **B1 (thiamine):** beriberi\n- **B2 (riboflavin):** angular stomatitis (cracks at the corners of the mouth), glossitis\n- **B12 (cobalamin):** megaloblastic (pernicious) anaemia\n- **B3 (niacin):** pellagra (dermatitis, diarrhoea, dementia)\n\n(The subscripts are lost in the scan; they are restored from the key's matching.)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "विटामिन B1",
+     "विटामिन B2",
+     "विटामिन B12",
+     "विटामिन B3"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "पेलाग्रा",
+     "बेरीबेरी",
+     "एंगुलर स्टोमेटाइटिस",
+     "मेगालोब्लास्टिक एनीमिया"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iii) (iv) (ii)",
+   "(i) (iv) (iii) (ii)",
+   "(ii) (iii) (i) (iv)",
+   "(ii) (iii) (iv) (i)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q86",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 86,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A–(iii), B–(i), C–(iv), D–(ii).**\n\n- **Obesity → naukāsana:** strong work for the abdominal muscles.\n- **Cervical spondylosis → bhujaṅgāsana:** gentle backward extension of the neck and upper back.\n- **Diabetes → ardha-matsyendrāsana:** the twist massages the abdomen and pancreas.\n- **Pregnancy → titalī (butterfly):** opens the hips and pelvis.",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "मोटापा",
+     "सर्वाइकल स्पॉन्डिलोसिस",
+     "मधुमेह",
+     "गर्भावस्था"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "भुजंगासन",
+     "तितली आसन",
+     "नौकासन",
+     "अर्द्धमत्स्येन्द्रासन"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(iii) (ii) (iv) (i)",
+   "(iii) (i) (iv) (ii)",
+   "(i) (iii) (ii) (iv)",
+   "(i) (ii) (iv) (iii)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q87",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 87,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A–(ii), B–(iii), C–(iv), D–(i).**\n\nHaṭha Pradīpikā 2.24–32:\n\n- **Neti** destroys diseases above the collarbone (***jatrūrdhva***) (2.30).\n- **Dhauti** cures *kāsa-śvāsa* (cough and **asthma**) and kapha disorders (2.25).\n- **Basti** cures ***gulma*** (abdominal lumps), splenic and dropsy disorders (2.27).\n- **Trāṭaka** removes eye diseases and ***tandrā*** (drowsiness) (2.32).",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "नेति",
+     "धौति",
+     "बस्ति",
+     "त्राटक"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "तन्द्रा रोग",
+     "जत्रूर्ध्व रोग",
+     "श्वास रोग",
+     "गुल्म रोग"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iii) (iv) (ii)",
+   "(ii) (iii) (i) (iv)",
+   "(i) (ii) (iv) (iii)",
+   "(ii) (iii) (iv) (i)"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q88",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 88,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(iii), B–(iv), C–(i), D–(ii).**\n\n- **Lecture:** formal teaching\n- **Group discussion:** working out solutions together\n- **Demonstration:** showing a skill\n- **Directed practice:** assigned practice or home work\n\n(Option (2)'s code is partly illegible in the scan.)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "व्याख्यान विधि",
+     "समूह चर्चा विधि",
+     "प्रदर्शन विधि",
+     "निर्देशित अभ्यास विधि"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "कौशल",
+     "गृह कार्य",
+     "औपचारिक शिक्षण",
+     "समाधान"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(ii) (i) (iv) (iii)",
+   "(iv) (iii) (ii) (i)",
+   "(iii) (iv) (i) (ii)",
+   "(ii) (iii) (iv) (i)"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q89",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 89,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Manovṛtti.**\n\nThe passage, following YS 2.50–51, names four kinds of prāṇāyāma: bāhya-vṛtti (external), ābhyantara-vṛtti (internal), stambha-vṛtti (suspended) and the fourth, bāhyābhyantara-viṣayākṣepī. \"Manovṛtti\" is not among them.",
+  "question_type": "mcq",
+  "question_text": "प्राणायाम का निम्नलिखित में से कौन सा एक प्रकार नहीं है?",
+  "options": [
+   "बाह्यवृत्ति",
+   "स्तंभवृत्ति",
+   "मनोवृत्ति",
+   "आभ्यांतरवृत्ति"
+  ],
+  "passage": "महर्षि पतंजलि ने कैवल्य प्राप्ति के लिए योग के आठ अंग बताए हैं। योग के ये अंग हैं: यम (सार्वभौमिक नैतिक निर्देश), नियम (अनुशासन द्वारा आत्मशुद्धि), आसन, प्राणायाम (प्राण का लयात्मक नियंत्रण), प्रत्याहार (इंद्रियों का निग्रह और समग्र वशीकरण), धारणा, ध्यान और समाधि (परम चेतना की स्थिति)। इनमें से प्रथम पाँच अंगों को बहिरंग योग तथा शेष तीन अंगों को अंतरंग योग माना गया है। 'यम' समाज और व्यक्ति के लिए नैतिक नियम हैं, जिनमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह हैं। नियम वे आचार संहिता हैं, जो व्यक्तिगत अनुशासन के लिए लागू होते हैं। पाँच नियम हैं: शौच, संतोष, तप, स्वाध्याय और ईश्वर प्रणिधान।\n\nअष्टांग योग का तीसरा अंग आसन है। आसन के अभ्यास से स्थिरता और सुख प्राप्त होते हैं तथा व्यक्ति ताप-शीत, प्यास-भूख, राग-द्वेष आदि के द्वंद्वों से आसानी से प्रभावित नहीं होता है। प्राणायाम का अभिप्राय श्वास अथवा जीवनदायिनी शक्ति का विस्तार अथवा विनियमन है। यह चार प्रकार का होता है, यथा बाह्यवृत्ति, आभ्यांतरवृत्ति, स्तंभवृत्ति और बाह्याभ्यांतर विषयाक्षेपी। आसन में सिद्धि के बाद ही प्राणायाम का अभ्यास किया जाना चाहिए। प्राणायाम ज्ञान के प्रकाश के ऊपर पड़े आवरण को हटाता है और मन को धारणा के लिए समर्थ बनाता है। प्रत्याहार इन्द्रियों, मन और चेतना को बाह्य विषयों से उनके सम्पर्क का निग्रह करने और उन्हें अंदर आत्मा की ओर खींचने का अभ्यास है। प्रत्याहार की परिणति ज्ञानेन्द्रियों पर सम्पूर्ण नियंत्रण के रूप में होती है। धारणा का अभिप्राय शरीर के अंदर या बाहर के किसी चयनित बिन्दु या क्षेत्र पर ध्यान केन्द्रित करना है। ध्यान किसी एक ही बिन्दु या क्षेत्र पर चित्त को सतत रूप से केन्द्रित करना है। समाधि परम चेतना की स्थिति है जहाँ आत्मबोध खो जाता है। अष्टांग योग कैवल्य प्राप्त करने का सर्वश्रेष्ठ मार्ग है।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q90",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 90,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) dhāraṇā.**\n\nYS 2.29 order: yama (1), niyama (2), āsana (3), prāṇāyāma (4), pratyāhāra (5), **dhāraṇā (6)**, dhyāna (7), samādhi (8). Dhāraṇā begins the antaraṅga (inner) limbs.",
+  "question_type": "mcq",
+  "question_text": "महर्षि पतंजलि के अनुसार, योग का छठा अंग कौन सा है?",
+  "options": [
+   "यम",
+   "नियम",
+   "धारणा",
+   "ध्यान"
+  ],
+  "passage": "महर्षि पतंजलि ने कैवल्य प्राप्ति के लिए योग के आठ अंग बताए हैं। योग के ये अंग हैं: यम (सार्वभौमिक नैतिक निर्देश), नियम (अनुशासन द्वारा आत्मशुद्धि), आसन, प्राणायाम (प्राण का लयात्मक नियंत्रण), प्रत्याहार (इंद्रियों का निग्रह और समग्र वशीकरण), धारणा, ध्यान और समाधि (परम चेतना की स्थिति)। इनमें से प्रथम पाँच अंगों को बहिरंग योग तथा शेष तीन अंगों को अंतरंग योग माना गया है। 'यम' समाज और व्यक्ति के लिए नैतिक नियम हैं, जिनमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह हैं। नियम वे आचार संहिता हैं, जो व्यक्तिगत अनुशासन के लिए लागू होते हैं। पाँच नियम हैं: शौच, संतोष, तप, स्वाध्याय और ईश्वर प्रणिधान।\n\nअष्टांग योग का तीसरा अंग आसन है। आसन के अभ्यास से स्थिरता और सुख प्राप्त होते हैं तथा व्यक्ति ताप-शीत, प्यास-भूख, राग-द्वेष आदि के द्वंद्वों से आसानी से प्रभावित नहीं होता है। प्राणायाम का अभिप्राय श्वास अथवा जीवनदायिनी शक्ति का विस्तार अथवा विनियमन है। यह चार प्रकार का होता है, यथा बाह्यवृत्ति, आभ्यांतरवृत्ति, स्तंभवृत्ति और बाह्याभ्यांतर विषयाक्षेपी। आसन में सिद्धि के बाद ही प्राणायाम का अभ्यास किया जाना चाहिए। प्राणायाम ज्ञान के प्रकाश के ऊपर पड़े आवरण को हटाता है और मन को धारणा के लिए समर्थ बनाता है। प्रत्याहार इन्द्रियों, मन और चेतना को बाह्य विषयों से उनके सम्पर्क का निग्रह करने और उन्हें अंदर आत्मा की ओर खींचने का अभ्यास है। प्रत्याहार की परिणति ज्ञानेन्द्रियों पर सम्पूर्ण नियंत्रण के रूप में होती है। धारणा का अभिप्राय शरीर के अंदर या बाहर के किसी चयनित बिन्दु या क्षेत्र पर ध्यान केन्द्रित करना है। ध्यान किसी एक ही बिन्दु या क्षेत्र पर चित्त को सतत रूप से केन्द्रित करना है। समाधि परम चेतना की स्थिति है जहाँ आत्मबोध खो जाता है। अष्टांग योग कैवल्य प्राप्त करने का सर्वश्रेष्ठ मार्ग है।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q91",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 91,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) āsana.**\n\nThe passage, following YS 2.48 (***tato dvandvānabhighātaḥ***), says mastery of āsana makes one unaffected by the pairs of opposites: heat and cold, hunger and thirst, and so on.",
+  "question_type": "mcq",
+  "question_text": "योग के निम्नलिखित में से किस अंग के अभ्यास द्वारा व्यक्ति द्वंद्वों से आसानी से प्रभावित नहीं होता है?",
+  "options": [
+   "यम",
+   "आसन",
+   "नियम",
+   "प्राणायाम"
+  ],
+  "passage": "महर्षि पतंजलि ने कैवल्य प्राप्ति के लिए योग के आठ अंग बताए हैं। योग के ये अंग हैं: यम (सार्वभौमिक नैतिक निर्देश), नियम (अनुशासन द्वारा आत्मशुद्धि), आसन, प्राणायाम (प्राण का लयात्मक नियंत्रण), प्रत्याहार (इंद्रियों का निग्रह और समग्र वशीकरण), धारणा, ध्यान और समाधि (परम चेतना की स्थिति)। इनमें से प्रथम पाँच अंगों को बहिरंग योग तथा शेष तीन अंगों को अंतरंग योग माना गया है। 'यम' समाज और व्यक्ति के लिए नैतिक नियम हैं, जिनमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह हैं। नियम वे आचार संहिता हैं, जो व्यक्तिगत अनुशासन के लिए लागू होते हैं। पाँच नियम हैं: शौच, संतोष, तप, स्वाध्याय और ईश्वर प्रणिधान।\n\nअष्टांग योग का तीसरा अंग आसन है। आसन के अभ्यास से स्थिरता और सुख प्राप्त होते हैं तथा व्यक्ति ताप-शीत, प्यास-भूख, राग-द्वेष आदि के द्वंद्वों से आसानी से प्रभावित नहीं होता है। प्राणायाम का अभिप्राय श्वास अथवा जीवनदायिनी शक्ति का विस्तार अथवा विनियमन है। यह चार प्रकार का होता है, यथा बाह्यवृत्ति, आभ्यांतरवृत्ति, स्तंभवृत्ति और बाह्याभ्यांतर विषयाक्षेपी। आसन में सिद्धि के बाद ही प्राणायाम का अभ्यास किया जाना चाहिए। प्राणायाम ज्ञान के प्रकाश के ऊपर पड़े आवरण को हटाता है और मन को धारणा के लिए समर्थ बनाता है। प्रत्याहार इन्द्रियों, मन और चेतना को बाह्य विषयों से उनके सम्पर्क का निग्रह करने और उन्हें अंदर आत्मा की ओर खींचने का अभ्यास है। प्रत्याहार की परिणति ज्ञानेन्द्रियों पर सम्पूर्ण नियंत्रण के रूप में होती है। धारणा का अभिप्राय शरीर के अंदर या बाहर के किसी चयनित बिन्दु या क्षेत्र पर ध्यान केन्द्रित करना है। ध्यान किसी एक ही बिन्दु या क्षेत्र पर चित्त को सतत रूप से केन्द्रित करना है। समाधि परम चेतना की स्थिति है जहाँ आत्मबोध खो जाता है। अष्टांग योग कैवल्य प्राप्त करने का सर्वश्रेष्ठ मार्ग है।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q92",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 92,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) pratyāhāra.**\n\nYS 2.54: *sva-viṣayāsamprayoge cittasya svarūpānukāra ivendriyāṇāṃ pratyāhāraḥ*. When the senses are withdrawn from their objects and follow the mind inward, that is pratyāhāra. YS 2.55: from it comes supreme mastery of the senses.",
+  "question_type": "mcq",
+  "question_text": "बाह्य विषयों के सम्पर्क से इन्द्रियों का निग्रह करने का अभ्यास कहलाता है:",
+  "options": [
+   "यम",
+   "नियम",
+   "प्राणायाम",
+   "प्रत्याहार"
+  ],
+  "passage": "महर्षि पतंजलि ने कैवल्य प्राप्ति के लिए योग के आठ अंग बताए हैं। योग के ये अंग हैं: यम (सार्वभौमिक नैतिक निर्देश), नियम (अनुशासन द्वारा आत्मशुद्धि), आसन, प्राणायाम (प्राण का लयात्मक नियंत्रण), प्रत्याहार (इंद्रियों का निग्रह और समग्र वशीकरण), धारणा, ध्यान और समाधि (परम चेतना की स्थिति)। इनमें से प्रथम पाँच अंगों को बहिरंग योग तथा शेष तीन अंगों को अंतरंग योग माना गया है। 'यम' समाज और व्यक्ति के लिए नैतिक नियम हैं, जिनमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह हैं। नियम वे आचार संहिता हैं, जो व्यक्तिगत अनुशासन के लिए लागू होते हैं। पाँच नियम हैं: शौच, संतोष, तप, स्वाध्याय और ईश्वर प्रणिधान।\n\nअष्टांग योग का तीसरा अंग आसन है। आसन के अभ्यास से स्थिरता और सुख प्राप्त होते हैं तथा व्यक्ति ताप-शीत, प्यास-भूख, राग-द्वेष आदि के द्वंद्वों से आसानी से प्रभावित नहीं होता है। प्राणायाम का अभिप्राय श्वास अथवा जीवनदायिनी शक्ति का विस्तार अथवा विनियमन है। यह चार प्रकार का होता है, यथा बाह्यवृत्ति, आभ्यांतरवृत्ति, स्तंभवृत्ति और बाह्याभ्यांतर विषयाक्षेपी। आसन में सिद्धि के बाद ही प्राणायाम का अभ्यास किया जाना चाहिए। प्राणायाम ज्ञान के प्रकाश के ऊपर पड़े आवरण को हटाता है और मन को धारणा के लिए समर्थ बनाता है। प्रत्याहार इन्द्रियों, मन और चेतना को बाह्य विषयों से उनके सम्पर्क का निग्रह करने और उन्हें अंदर आत्मा की ओर खींचने का अभ्यास है। प्रत्याहार की परिणति ज्ञानेन्द्रियों पर सम्पूर्ण नियंत्रण के रूप में होती है। धारणा का अभिप्राय शरीर के अंदर या बाहर के किसी चयनित बिन्दु या क्षेत्र पर ध्यान केन्द्रित करना है। ध्यान किसी एक ही बिन्दु या क्षेत्र पर चित्त को सतत रूप से केन्द्रित करना है। समाधि परम चेतना की स्थिति है जहाँ आत्मबोध खो जाता है। अष्टांग योग कैवल्य प्राप्त करने का सर्वश्रेष्ठ मार्ग है।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q93",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 93,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) yama.**\n\nYS 2.30: *ahiṃsā-satyāsteya-brahmacaryāparigrahā yamāḥ*. **Aparigraha** (non-possessiveness) is the fifth yama. YS 2.39: when it is firm, knowledge of the how and why of one's births arises.",
+  "question_type": "mcq",
+  "question_text": "अपरिग्रह निम्नलिखित में से किसके अंतर्गत सम्मिलित है?",
+  "options": [
+   "नियम",
+   "यम",
+   "अंतरंग योग",
+   "समाधि"
+  ],
+  "passage": "महर्षि पतंजलि ने कैवल्य प्राप्ति के लिए योग के आठ अंग बताए हैं। योग के ये अंग हैं: यम (सार्वभौमिक नैतिक निर्देश), नियम (अनुशासन द्वारा आत्मशुद्धि), आसन, प्राणायाम (प्राण का लयात्मक नियंत्रण), प्रत्याहार (इंद्रियों का निग्रह और समग्र वशीकरण), धारणा, ध्यान और समाधि (परम चेतना की स्थिति)। इनमें से प्रथम पाँच अंगों को बहिरंग योग तथा शेष तीन अंगों को अंतरंग योग माना गया है। 'यम' समाज और व्यक्ति के लिए नैतिक नियम हैं, जिनमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह हैं। नियम वे आचार संहिता हैं, जो व्यक्तिगत अनुशासन के लिए लागू होते हैं। पाँच नियम हैं: शौच, संतोष, तप, स्वाध्याय और ईश्वर प्रणिधान।\n\nअष्टांग योग का तीसरा अंग आसन है। आसन के अभ्यास से स्थिरता और सुख प्राप्त होते हैं तथा व्यक्ति ताप-शीत, प्यास-भूख, राग-द्वेष आदि के द्वंद्वों से आसानी से प्रभावित नहीं होता है। प्राणायाम का अभिप्राय श्वास अथवा जीवनदायिनी शक्ति का विस्तार अथवा विनियमन है। यह चार प्रकार का होता है, यथा बाह्यवृत्ति, आभ्यांतरवृत्ति, स्तंभवृत्ति और बाह्याभ्यांतर विषयाक्षेपी। आसन में सिद्धि के बाद ही प्राणायाम का अभ्यास किया जाना चाहिए। प्राणायाम ज्ञान के प्रकाश के ऊपर पड़े आवरण को हटाता है और मन को धारणा के लिए समर्थ बनाता है। प्रत्याहार इन्द्रियों, मन और चेतना को बाह्य विषयों से उनके सम्पर्क का निग्रह करने और उन्हें अंदर आत्मा की ओर खींचने का अभ्यास है। प्रत्याहार की परिणति ज्ञानेन्द्रियों पर सम्पूर्ण नियंत्रण के रूप में होती है। धारणा का अभिप्राय शरीर के अंदर या बाहर के किसी चयनित बिन्दु या क्षेत्र पर ध्यान केन्द्रित करना है। ध्यान किसी एक ही बिन्दु या क्षेत्र पर चित्त को सतत रूप से केन्द्रित करना है। समाधि परम चेतना की स्थिति है जहाँ आत्मबोध खो जाता है। अष्टांग योग कैवल्य प्राप्त करने का सर्वश्रेष्ठ मार्ग है।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q94",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 94,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) prāṇāyāma.**\n\nYS 2.52: ***tataḥ kṣīyate prakāśāvaraṇam***. Through prāṇāyāma the covering over the light (of discriminative knowledge) thins away.",
+  "question_type": "mcq",
+  "question_text": "ज्ञान के प्रकाश पर पड़ा आवरण निम्नलिखित में से किसके द्वारा हटता है?",
+  "options": [
+   "प्राणायाम",
+   "प्रत्याहार",
+   "यम",
+   "आसन"
+  ],
+  "passage": "महर्षि पतंजलि ने कैवल्य प्राप्ति के लिए योग के आठ अंग बताए हैं। योग के ये अंग हैं: यम (सार्वभौमिक नैतिक निर्देश), नियम (अनुशासन द्वारा आत्मशुद्धि), आसन, प्राणायाम (प्राण का लयात्मक नियंत्रण), प्रत्याहार (इंद्रियों का निग्रह और समग्र वशीकरण), धारणा, ध्यान और समाधि (परम चेतना की स्थिति)। इनमें से प्रथम पाँच अंगों को बहिरंग योग तथा शेष तीन अंगों को अंतरंग योग माना गया है। 'यम' समाज और व्यक्ति के लिए नैतिक नियम हैं, जिनमें अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह हैं। नियम वे आचार संहिता हैं, जो व्यक्तिगत अनुशासन के लिए लागू होते हैं। पाँच नियम हैं: शौच, संतोष, तप, स्वाध्याय और ईश्वर प्रणिधान।\n\nअष्टांग योग का तीसरा अंग आसन है। आसन के अभ्यास से स्थिरता और सुख प्राप्त होते हैं तथा व्यक्ति ताप-शीत, प्यास-भूख, राग-द्वेष आदि के द्वंद्वों से आसानी से प्रभावित नहीं होता है। प्राणायाम का अभिप्राय श्वास अथवा जीवनदायिनी शक्ति का विस्तार अथवा विनियमन है। यह चार प्रकार का होता है, यथा बाह्यवृत्ति, आभ्यांतरवृत्ति, स्तंभवृत्ति और बाह्याभ्यांतर विषयाक्षेपी। आसन में सिद्धि के बाद ही प्राणायाम का अभ्यास किया जाना चाहिए। प्राणायाम ज्ञान के प्रकाश के ऊपर पड़े आवरण को हटाता है और मन को धारणा के लिए समर्थ बनाता है। प्रत्याहार इन्द्रियों, मन और चेतना को बाह्य विषयों से उनके सम्पर्क का निग्रह करने और उन्हें अंदर आत्मा की ओर खींचने का अभ्यास है। प्रत्याहार की परिणति ज्ञानेन्द्रियों पर सम्पूर्ण नियंत्रण के रूप में होती है। धारणा का अभिप्राय शरीर के अंदर या बाहर के किसी चयनित बिन्दु या क्षेत्र पर ध्यान केन्द्रित करना है। ध्यान किसी एक ही बिन्दु या क्षेत्र पर चित्त को सतत रूप से केन्द्रित करना है। समाधि परम चेतना की स्थिति है जहाँ आत्मबोध खो जाता है। अष्टांग योग कैवल्य प्राप्त करने का सर्वश्रेष्ठ मार्ग है।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q95",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 95,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 21 June 2016.**\n\nThe first IDY was 21 June 2015 (Rajpath, New Delhi), the **second 21 June 2016 (Capitol Complex, Chandigarh)**, and the third 21 June 2017 (Lucknow). The UN resolution was adopted in December 2014, so no IDY was held in 2014.",
+  "question_type": "mcq",
+  "question_text": "द्वितीय अन्तर्राष्ट्रीय योग दिवस कब मनाया गया?",
+  "options": [
+   "21 जून, 2014",
+   "21 जून, 2015",
+   "21 जून, 2016",
+   "21 जून, 2017"
+  ],
+  "passage": "भारत के माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने 27 सितम्बर, 2014 को संयुक्त राष्ट्र महासभा (यू.एन.जी.ए.) के 69वें सत्र को सम्बोधित करते हुए विश्व समुदाय से किसी एक दिवस को 'अन्तर्राष्ट्रीय योग दिवस' के रूप में मनाने का आह्वान किया। 11 दिसंबर, 2014 को संयुक्त राष्ट्र महासभा के 193 सदस्यों ने रिकॉर्ड 177 सह-समर्थक देशों के साथ मिलकर 21 जून को 'अन्तर्राष्ट्रीय योग दिवस' मनाने का संकल्प सर्वसम्मति से अनुमोदित किया। योग अभ्यास मन एवं शरीर, विचार एवं कर्म, आत्मसंयम एवं पूर्णता की एकात्मता तथा मानव एवं प्रकृति के बीच सामंजस्य स्थापित करता है। यह स्वास्थ्य एवं कल्याण का पूर्णतावादी दृष्टिकोण है। योग स्वास्थ्य संवर्धन, रोगों से बचाव तथा जीवनशैली सम्बन्धी विभिन्न बीमारियों के प्रबंधन के लिए जाना जाता है। विश्व की जनसंख्या के बीच योगाभ्यासों की विधि व लाभ सम्बन्धी जानकारी का प्रसार करने के लिए 'सामान्य योग अभ्यास क्रम' तैयार किया गया।\n\nआयुष मंत्रालय ने 21 जून, 2015 को राजपथ, नई दिल्ली में प्रथम अन्तर्राष्ट्रीय योग दिवस का सफल आयोजन किया। इस समारोह में दो गिनीज़ विश्व रिकॉर्ड बने, यथा 35,985 प्रतिभागियों के साथ सबसे बड़ा योग सत्र तथा एक ही योग अभ्यास सत्र में सर्वाधिक देशों (84) के नागरिकों की प्रतिभागिता। द्वितीय अन्तर्राष्ट्रीय योग दिवस का आयोजन 21 जून, 2016 को कैपिटल कॉम्प्लेक्स, चंडीगढ़ में किया गया, जिसमें 30,000 से अधिक लोग हमारे माननीय प्रधानमंत्री श्री नरेन्द्र मोदी के साथ सम्मिलित हुए। 150 दिव्यांगों ने पहली बार कैपिटल कॉम्प्लेक्स, चंडीगढ़ में आयोजित अंतर्राष्ट्रीय योग दिवस समारोह में सामान्य योग अभ्यास क्रम का प्रदर्शन किया। विज्ञान भवन, नई दिल्ली में 21 एवं 22 जून, 2016 को \"काया एवं कायातीत के लिए योग\" विषय पर दो दिवसीय अंतर्राष्ट्रीय संगोष्ठी आयोजित हुई। श्री नरेन्द्र मोदी ने 21 जून, 2017 को लखनऊ में तृतीय अंतर्राष्ट्रीय योग दिवस का उत्सव मनाया।"
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q96",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 96,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Yoga for Body and Beyond.**\n\nThe passage says the two-day international conference at Vigyan Bhawan, New Delhi (21–22 June 2016) was on \"Yoga for Body and Beyond\" (*kāyā evaṃ kāyātīta ke lie yoga*). The 2015 conference theme was \"Yoga for Holistic Health\".",
+  "question_type": "mcq",
+  "question_text": "21 व 22 जून, 2016 को आयोजित अन्तर्राष्ट्रीय संगोष्ठी की विषय वस्तु थी:",
+  "options": [
+   "स्वास्थ्य के लिए योग",
+   "काया एवं कायातीत के लिए योग",
+   "समग्र स्वास्थ्य के लिए योग",
+   "सामंजस्य एवं शान्ति के लिए योग"
+  ],
+  "passage": "भारत के माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने 27 सितम्बर, 2014 को संयुक्त राष्ट्र महासभा (यू.एन.जी.ए.) के 69वें सत्र को सम्बोधित करते हुए विश्व समुदाय से किसी एक दिवस को 'अन्तर्राष्ट्रीय योग दिवस' के रूप में मनाने का आह्वान किया। 11 दिसंबर, 2014 को संयुक्त राष्ट्र महासभा के 193 सदस्यों ने रिकॉर्ड 177 सह-समर्थक देशों के साथ मिलकर 21 जून को 'अन्तर्राष्ट्रीय योग दिवस' मनाने का संकल्प सर्वसम्मति से अनुमोदित किया। योग अभ्यास मन एवं शरीर, विचार एवं कर्म, आत्मसंयम एवं पूर्णता की एकात्मता तथा मानव एवं प्रकृति के बीच सामंजस्य स्थापित करता है। यह स्वास्थ्य एवं कल्याण का पूर्णतावादी दृष्टिकोण है। योग स्वास्थ्य संवर्धन, रोगों से बचाव तथा जीवनशैली सम्बन्धी विभिन्न बीमारियों के प्रबंधन के लिए जाना जाता है। विश्व की जनसंख्या के बीच योगाभ्यासों की विधि व लाभ सम्बन्धी जानकारी का प्रसार करने के लिए 'सामान्य योग अभ्यास क्रम' तैयार किया गया।\n\nआयुष मंत्रालय ने 21 जून, 2015 को राजपथ, नई दिल्ली में प्रथम अन्तर्राष्ट्रीय योग दिवस का सफल आयोजन किया। इस समारोह में दो गिनीज़ विश्व रिकॉर्ड बने, यथा 35,985 प्रतिभागियों के साथ सबसे बड़ा योग सत्र तथा एक ही योग अभ्यास सत्र में सर्वाधिक देशों (84) के नागरिकों की प्रतिभागिता। द्वितीय अन्तर्राष्ट्रीय योग दिवस का आयोजन 21 जून, 2016 को कैपिटल कॉम्प्लेक्स, चंडीगढ़ में किया गया, जिसमें 30,000 से अधिक लोग हमारे माननीय प्रधानमंत्री श्री नरेन्द्र मोदी के साथ सम्मिलित हुए। 150 दिव्यांगों ने पहली बार कैपिटल कॉम्प्लेक्स, चंडीगढ़ में आयोजित अंतर्राष्ट्रीय योग दिवस समारोह में सामान्य योग अभ्यास क्रम का प्रदर्शन किया। विज्ञान भवन, नई दिल्ली में 21 एवं 22 जून, 2016 को \"काया एवं कायातीत के लिए योग\" विषय पर दो दिवसीय अंतर्राष्ट्रीय संगोष्ठी आयोजित हुई। श्री नरेन्द्र मोदी ने 21 जून, 2017 को लखनऊ में तृतीय अंतर्राष्ट्रीय योग दिवस का उत्सव मनाया।"
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q97",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 97,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 35,985 participants and 84 countries.**\n\nThe two Guinness World Records set at Rajpath on 21 June 2015: the largest yoga session (**35,985** participants) and the most nationalities in one session (**84**).\n\nThe distractors shuffle the same digits; read numbers carefully.",
+  "question_type": "mcq",
+  "question_text": "प्रथम अन्तर्राष्ट्रीय योग दिवस के आयोजन के समय कितने प्रतिभागियों और देशों के नागरिकों की एक ही योग अभ्यास सत्र में प्रतिभागिता रही?",
+  "options": [
+   "35,985 प्रतिभागी व 84 देश",
+   "35,895 प्रतिभागी व 82 देश",
+   "35,585 प्रतिभागी व 86 देश",
+   "35,985 प्रतिभागी व 85 देश"
+  ],
+  "passage": "भारत के माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने 27 सितम्बर, 2014 को संयुक्त राष्ट्र महासभा (यू.एन.जी.ए.) के 69वें सत्र को सम्बोधित करते हुए विश्व समुदाय से किसी एक दिवस को 'अन्तर्राष्ट्रीय योग दिवस' के रूप में मनाने का आह्वान किया। 11 दिसंबर, 2014 को संयुक्त राष्ट्र महासभा के 193 सदस्यों ने रिकॉर्ड 177 सह-समर्थक देशों के साथ मिलकर 21 जून को 'अन्तर्राष्ट्रीय योग दिवस' मनाने का संकल्प सर्वसम्मति से अनुमोदित किया। योग अभ्यास मन एवं शरीर, विचार एवं कर्म, आत्मसंयम एवं पूर्णता की एकात्मता तथा मानव एवं प्रकृति के बीच सामंजस्य स्थापित करता है। यह स्वास्थ्य एवं कल्याण का पूर्णतावादी दृष्टिकोण है। योग स्वास्थ्य संवर्धन, रोगों से बचाव तथा जीवनशैली सम्बन्धी विभिन्न बीमारियों के प्रबंधन के लिए जाना जाता है। विश्व की जनसंख्या के बीच योगाभ्यासों की विधि व लाभ सम्बन्धी जानकारी का प्रसार करने के लिए 'सामान्य योग अभ्यास क्रम' तैयार किया गया।\n\nआयुष मंत्रालय ने 21 जून, 2015 को राजपथ, नई दिल्ली में प्रथम अन्तर्राष्ट्रीय योग दिवस का सफल आयोजन किया। इस समारोह में दो गिनीज़ विश्व रिकॉर्ड बने, यथा 35,985 प्रतिभागियों के साथ सबसे बड़ा योग सत्र तथा एक ही योग अभ्यास सत्र में सर्वाधिक देशों (84) के नागरिकों की प्रतिभागिता। द्वितीय अन्तर्राष्ट्रीय योग दिवस का आयोजन 21 जून, 2016 को कैपिटल कॉम्प्लेक्स, चंडीगढ़ में किया गया, जिसमें 30,000 से अधिक लोग हमारे माननीय प्रधानमंत्री श्री नरेन्द्र मोदी के साथ सम्मिलित हुए। 150 दिव्यांगों ने पहली बार कैपिटल कॉम्प्लेक्स, चंडीगढ़ में आयोजित अंतर्राष्ट्रीय योग दिवस समारोह में सामान्य योग अभ्यास क्रम का प्रदर्शन किया। विज्ञान भवन, नई दिल्ली में 21 एवं 22 जून, 2016 को \"काया एवं कायातीत के लिए योग\" विषय पर दो दिवसीय अंतर्राष्ट्रीय संगोष्ठी आयोजित हुई। श्री नरेन्द्र मोदी ने 21 जून, 2017 को लखनऊ में तृतीय अंतर्राष्ट्रीय योग दिवस का उत्सव मनाया।"
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q98",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 98,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 11 December 2014.**\n\nThe Prime Minister **proposed** the day in his UNGA address on **27 September 2014**; the General Assembly **adopted** the resolution (69/131) on **11 December 2014**, with a record 177 co-sponsors. Option (1) is the date of the proposal.",
+  "question_type": "mcq",
+  "question_text": "संयुक्त राष्ट्र महासभा के 193 सदस्यों ने किस तिथि को सर्वसम्मति से 21 जून को \"अन्तर्राष्ट्रीय योग दिवस\" मनाने का संकल्प अनुमोदित किया?",
+  "options": [
+   "27 सितम्बर, 2014",
+   "11 सितम्बर, 2014",
+   "27 दिसम्बर, 2014",
+   "11 दिसम्बर, 2014"
+  ],
+  "passage": "भारत के माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने 27 सितम्बर, 2014 को संयुक्त राष्ट्र महासभा (यू.एन.जी.ए.) के 69वें सत्र को सम्बोधित करते हुए विश्व समुदाय से किसी एक दिवस को 'अन्तर्राष्ट्रीय योग दिवस' के रूप में मनाने का आह्वान किया। 11 दिसंबर, 2014 को संयुक्त राष्ट्र महासभा के 193 सदस्यों ने रिकॉर्ड 177 सह-समर्थक देशों के साथ मिलकर 21 जून को 'अन्तर्राष्ट्रीय योग दिवस' मनाने का संकल्प सर्वसम्मति से अनुमोदित किया। योग अभ्यास मन एवं शरीर, विचार एवं कर्म, आत्मसंयम एवं पूर्णता की एकात्मता तथा मानव एवं प्रकृति के बीच सामंजस्य स्थापित करता है। यह स्वास्थ्य एवं कल्याण का पूर्णतावादी दृष्टिकोण है। योग स्वास्थ्य संवर्धन, रोगों से बचाव तथा जीवनशैली सम्बन्धी विभिन्न बीमारियों के प्रबंधन के लिए जाना जाता है। विश्व की जनसंख्या के बीच योगाभ्यासों की विधि व लाभ सम्बन्धी जानकारी का प्रसार करने के लिए 'सामान्य योग अभ्यास क्रम' तैयार किया गया।\n\nआयुष मंत्रालय ने 21 जून, 2015 को राजपथ, नई दिल्ली में प्रथम अन्तर्राष्ट्रीय योग दिवस का सफल आयोजन किया। इस समारोह में दो गिनीज़ विश्व रिकॉर्ड बने, यथा 35,985 प्रतिभागियों के साथ सबसे बड़ा योग सत्र तथा एक ही योग अभ्यास सत्र में सर्वाधिक देशों (84) के नागरिकों की प्रतिभागिता। द्वितीय अन्तर्राष्ट्रीय योग दिवस का आयोजन 21 जून, 2016 को कैपिटल कॉम्प्लेक्स, चंडीगढ़ में किया गया, जिसमें 30,000 से अधिक लोग हमारे माननीय प्रधानमंत्री श्री नरेन्द्र मोदी के साथ सम्मिलित हुए। 150 दिव्यांगों ने पहली बार कैपिटल कॉम्प्लेक्स, चंडीगढ़ में आयोजित अंतर्राष्ट्रीय योग दिवस समारोह में सामान्य योग अभ्यास क्रम का प्रदर्शन किया। विज्ञान भवन, नई दिल्ली में 21 एवं 22 जून, 2016 को \"काया एवं कायातीत के लिए योग\" विषय पर दो दिवसीय अंतर्राष्ट्रीय संगोष्ठी आयोजित हुई। श्री नरेन्द्र मोदी ने 21 जून, 2017 को लखनऊ में तृतीय अंतर्राष्ट्रीय योग दिवस का उत्सव मनाया।"
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q99",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 99,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 150.**\n\nThe passage says 150 *divyāṅgjan* (people with disabilities) performed the Common Yoga Protocol for the first time at the Chandigarh celebration in 2016.",
+  "question_type": "mcq",
+  "question_text": "द्वितीय अन्तर्राष्ट्रीय योग दिवस के आयोजन के समय कितने दिव्यांगों ने योग अभ्यास क्रम का प्रदर्शन किया?",
+  "options": [
+   "1001",
+   "160",
+   "150",
+   "200"
+  ],
+  "passage": "भारत के माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने 27 सितम्बर, 2014 को संयुक्त राष्ट्र महासभा (यू.एन.जी.ए.) के 69वें सत्र को सम्बोधित करते हुए विश्व समुदाय से किसी एक दिवस को 'अन्तर्राष्ट्रीय योग दिवस' के रूप में मनाने का आह्वान किया। 11 दिसंबर, 2014 को संयुक्त राष्ट्र महासभा के 193 सदस्यों ने रिकॉर्ड 177 सह-समर्थक देशों के साथ मिलकर 21 जून को 'अन्तर्राष्ट्रीय योग दिवस' मनाने का संकल्प सर्वसम्मति से अनुमोदित किया। योग अभ्यास मन एवं शरीर, विचार एवं कर्म, आत्मसंयम एवं पूर्णता की एकात्मता तथा मानव एवं प्रकृति के बीच सामंजस्य स्थापित करता है। यह स्वास्थ्य एवं कल्याण का पूर्णतावादी दृष्टिकोण है। योग स्वास्थ्य संवर्धन, रोगों से बचाव तथा जीवनशैली सम्बन्धी विभिन्न बीमारियों के प्रबंधन के लिए जाना जाता है। विश्व की जनसंख्या के बीच योगाभ्यासों की विधि व लाभ सम्बन्धी जानकारी का प्रसार करने के लिए 'सामान्य योग अभ्यास क्रम' तैयार किया गया।\n\nआयुष मंत्रालय ने 21 जून, 2015 को राजपथ, नई दिल्ली में प्रथम अन्तर्राष्ट्रीय योग दिवस का सफल आयोजन किया। इस समारोह में दो गिनीज़ विश्व रिकॉर्ड बने, यथा 35,985 प्रतिभागियों के साथ सबसे बड़ा योग सत्र तथा एक ही योग अभ्यास सत्र में सर्वाधिक देशों (84) के नागरिकों की प्रतिभागिता। द्वितीय अन्तर्राष्ट्रीय योग दिवस का आयोजन 21 जून, 2016 को कैपिटल कॉम्प्लेक्स, चंडीगढ़ में किया गया, जिसमें 30,000 से अधिक लोग हमारे माननीय प्रधानमंत्री श्री नरेन्द्र मोदी के साथ सम्मिलित हुए। 150 दिव्यांगों ने पहली बार कैपिटल कॉम्प्लेक्स, चंडीगढ़ में आयोजित अंतर्राष्ट्रीय योग दिवस समारोह में सामान्य योग अभ्यास क्रम का प्रदर्शन किया। विज्ञान भवन, नई दिल्ली में 21 एवं 22 जून, 2016 को \"काया एवं कायातीत के लिए योग\" विषय पर दो दिवसीय अंतर्राष्ट्रीय संगोष्ठी आयोजित हुई। श्री नरेन्द्र मोदी ने 21 जून, 2017 को लखनऊ में तृतीय अंतर्राष्ट्रीय योग दिवस का उत्सव मनाया।"
+ },
+ {
+  "id": "YOGA-2018JUL-P2-Q100",
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "July",
+  "paper": "Paper II",
+  "question_no": 100,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) July 2018 (held 8 July 2018), Yoga (100), Paper II: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Thirteen items are left out: Q5 and Q7 are garbled or self-contradictory in the scan; Q21, Q22, Q33, Q50 and Q51 are marked disputed in the key; Q42, Q49, Q65 and Q69 have option codes or answers that could not be lined up; and the items on the order of vāk and on Gheraṇḍa's samādhis and mudrās are too garbled to reconstruct. Some middle items (sequence and matching) have no legible number in the scan and keep ids X01–X05. In Q73 the collection's answer letter contradicts its own explanation; the order from Yoga Sūtra 1.6 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga and health: concepts and dimensions",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Thought and dream.**\n\nThe passage says yoga harmonises body and mind, thought and action, restraint and fulfilment, and human and nature. \"Thought and dream\" is not in the list.",
+  "question_type": "mcq",
+  "question_text": "योग निम्नांकित में से किनके बीच सामंजस्य स्थापित नहीं करता है?",
+  "options": [
+   "मन और शरीर",
+   "विचार और कर्म",
+   "मानव और प्रकृति",
+   "विचार और स्वप्न"
+  ],
+  "passage": "भारत के माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने 27 सितम्बर, 2014 को संयुक्त राष्ट्र महासभा (यू.एन.जी.ए.) के 69वें सत्र को सम्बोधित करते हुए विश्व समुदाय से किसी एक दिवस को 'अन्तर्राष्ट्रीय योग दिवस' के रूप में मनाने का आह्वान किया। 11 दिसंबर, 2014 को संयुक्त राष्ट्र महासभा के 193 सदस्यों ने रिकॉर्ड 177 सह-समर्थक देशों के साथ मिलकर 21 जून को 'अन्तर्राष्ट्रीय योग दिवस' मनाने का संकल्प सर्वसम्मति से अनुमोदित किया। योग अभ्यास मन एवं शरीर, विचार एवं कर्म, आत्मसंयम एवं पूर्णता की एकात्मता तथा मानव एवं प्रकृति के बीच सामंजस्य स्थापित करता है। यह स्वास्थ्य एवं कल्याण का पूर्णतावादी दृष्टिकोण है। योग स्वास्थ्य संवर्धन, रोगों से बचाव तथा जीवनशैली सम्बन्धी विभिन्न बीमारियों के प्रबंधन के लिए जाना जाता है। विश्व की जनसंख्या के बीच योगाभ्यासों की विधि व लाभ सम्बन्धी जानकारी का प्रसार करने के लिए 'सामान्य योग अभ्यास क्रम' तैयार किया गया।\n\nआयुष मंत्रालय ने 21 जून, 2015 को राजपथ, नई दिल्ली में प्रथम अन्तर्राष्ट्रीय योग दिवस का सफल आयोजन किया। इस समारोह में दो गिनीज़ विश्व रिकॉर्ड बने, यथा 35,985 प्रतिभागियों के साथ सबसे बड़ा योग सत्र तथा एक ही योग अभ्यास सत्र में सर्वाधिक देशों (84) के नागरिकों की प्रतिभागिता। द्वितीय अन्तर्राष्ट्रीय योग दिवस का आयोजन 21 जून, 2016 को कैपिटल कॉम्प्लेक्स, चंडीगढ़ में किया गया, जिसमें 30,000 से अधिक लोग हमारे माननीय प्रधानमंत्री श्री नरेन्द्र मोदी के साथ सम्मिलित हुए। 150 दिव्यांगों ने पहली बार कैपिटल कॉम्प्लेक्स, चंडीगढ़ में आयोजित अंतर्राष्ट्रीय योग दिवस समारोह में सामान्य योग अभ्यास क्रम का प्रदर्शन किया। विज्ञान भवन, नई दिल्ली में 21 एवं 22 जून, 2016 को \"काया एवं कायातीत के लिए योग\" विषय पर दो दिवसीय अंतर्राष्ट्रीय संगोष्ठी आयोजित हुई। श्री नरेन्द्र मोदी ने 21 जून, 2017 को लखनऊ में तृतीय अंतर्राष्ट्रीय योग दिवस का उत्सव मनाया।"
+ }
+]
