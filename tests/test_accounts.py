@@ -190,3 +190,12 @@ def test_answers_are_saved_and_come_back_in_a_new_session():
     again = AppTest.from_file(APP, default_timeout=60).run()       # a new browser session
     assert len(again.session_state["log"]) == 1
     assert again.session_state["log"][0].chosen == 1
+
+
+@pytest.mark.parametrize("path", ["pricing", "privacy", "terms", "refund", "shipping", "contact"])
+def test_policy_pages_render(path):
+    at = as_user()
+    at.session_state["goto"] = path
+    at.run()
+    assert not at.exception, [e.message for e in at.exception]
+    assert at.title and "NTA" in "\n".join(c.value for c in at.caption)

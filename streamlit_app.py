@@ -9,8 +9,8 @@ import streamlit as st
 
 from pyq.filters import ALL
 from pyq.syllabus import SUBJECTS
-from pyq.ui import (account, admin_page, analytics_page, bank_page, library_page, plans_page, practice_page, review_page,
-                    sidebar, state, style)
+from pyq.ui import (account, admin_page, analytics_page, bank_page, legal, library_page, plans_page, practice_page,
+                    review_page, sidebar, state, style)
 
 st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
@@ -30,18 +30,20 @@ if admin:   # the Source Library lists the owner's own Drive files and notes
     PAGES["library"] = st.Page(library_page.render, title="Source Library", icon=":material/menu_book:", url_path="library")
     PAGES["admin"] = st.Page(admin_page.render, title="Admin", icon=":material/admin_panel_settings:", url_path="admin")
 
-page = st.navigation(list(PAGES.values()), position="top")
+# Pricing and policies stay reachable after sign-in, in a "Help" menu.
+HELP = dict(zip((p[0] for p in legal.PAGES), legal.st_pages()))
+page = st.navigation({"": list(PAGES.values()), "Help": list(HELP.values())}, position="top")
 
 # Buttons ask for a page change through a callback (state.go); act on it here.
-if (target := st.session_state.pop("goto", None)) and target in PAGES:
-    st.switch_page(PAGES[target])
+if (target := st.session_state.pop("goto", None)) and (target in PAGES or target in HELP):
+    st.switch_page(PAGES.get(target) or HELP[target])
 
 bank = state.get_bank()
 sidebar.render(bank)
 state.show_notice()
 
 # Tell a user who hasn't unlocked the subject they're looking at how to get it.
-if not admin and page.url_path not in ("plans",):
+if not admin and page.url_path not in ("plans", *HELP):
     subject, unlocked = st.session_state.f_subject, st.session_state.unlocked
     if subject != ALL and subject not in unlocked:
         with st.container(border=True, horizontal=True, vertical_alignment="center"):

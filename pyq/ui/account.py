@@ -87,7 +87,8 @@ def _login_screen() -> None:
                     "- Each subject (Yoga, IKS, Paper 1) unlocks with its own monthly plan")
         st.button("Sign in with Google", type="primary", icon=":material/login:", on_click=st.login,
                   args=("google",), width="stretch")
-        st.caption("We only use your Google account's name and email address to keep your progress.")
+        st.caption("We only use your Google account's name and email address to keep your progress. "
+                   "See Pricing, Privacy Policy and Terms in the menu above.")
 
 
 def gate() -> str:
@@ -100,7 +101,10 @@ def gate() -> str:
                      icon=":material/construction:")
             st.stop()
         if not st.user.is_logged_in:
-            _login_screen()
+            # Signed out: the sign-in screen plus the public pricing and policy pages.
+            from . import legal
+            home = st.Page(_login_screen, title="Sign in", icon=":material/login:", default=True)
+            st.navigation([home, *legal.st_pages()], position="top").run()
             st.stop()
         email = str(st.user.email).strip().lower()
     _start_user_session(email)
