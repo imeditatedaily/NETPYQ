@@ -1,4 +1,8 @@
-# Tested on Python 3.14. streamlit[pdf] adds the in-app PDF reader used by the Source Library.
-streamlit[pdf]==1.64.0
+# Tested on Python 3.14. streamlit[pdf] adds the in-app PDF reader used by the Source Library;
+# streamlit[auth] adds Google sign-in (st.login).
+streamlit[pdf,auth]==1.64.0
 pandas==3.0.6
 altair==6.3.0
+# Saved progress and subscriptions: SQLAlchemy with PostgreSQL (Supabase) in production.
+sqlalchemy==2.1.6
+psycopg[binary]==3.3.6

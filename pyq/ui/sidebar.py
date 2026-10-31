@@ -17,10 +17,21 @@ def _select(label: str, choices: dict[str, str], key: str, **kwargs) -> str:
     return st.selectbox(label, list(choices), format_func=choices.__getitem__, key=key, **kwargs)
 
 
+def _account() -> None:
+    from . import account
+    ss = st.session_state
+    with st.container(horizontal=True, vertical_alignment="center"):
+        st.markdown(f":material/account_circle: **{ss.get('user', '')}**" + (" · :blue-badge[admin]" if ss.get("is_admin") else ""))
+        if not account.dev_mode():
+            st.button("Log out", icon=":material/logout:", on_click=st.logout, type="tertiary")
+
+
 def render(bank: Bank) -> None:
     ss = st.session_state
     questions = bank.questions
     with st.sidebar:
+        _account()
+        st.divider()
         st.header("Filters", anchor=False)
         subject = st.segmented_control(
             "Subject", [ALL, *SUBJECTS], key="f_subject", required=True,
@@ -37,7 +48,7 @@ def render(bank: Bank) -> None:
         st.caption(f"**{matched}** of {len(questions)} questions match")
 
         st.divider()
-        st.header("This session", anchor=False)
+        st.header("Your progress", anchor=False)
         log = state.log()
         correct = sum(a.is_correct for a in log)
         c1, c2 = st.columns(2)
@@ -54,7 +65,7 @@ def render(bank: Bank) -> None:
         uploader_key = f"log_upload_{ss.upload_nonce}"
         st.file_uploader("Load a saved log (JSON)", type=["json"], key=uploader_key,
                          on_change=state.load_log_file, args=(uploader_key,))
-        with st.popover("Clear session", icon=":material/delete:", width="stretch"):
-            st.write("Delete every logged answer and the current attempt? Download the log first if you want to keep it.")
+        with st.popover("Clear my progress", icon=":material/delete:", width="stretch"):
+            st.write("Delete every answer saved to your account? Download the log first if you want to keep it.")
             st.button("Yes, clear everything", type="primary", on_click=state.reset_session)
-        st.caption("Answers are kept for this browser tab only. Refreshing starts a new session, so download the log to keep it.")
+        st.caption("Every answer is saved to your account, so your progress is here after a refresh or on another device.")

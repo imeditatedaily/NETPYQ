@@ -1,15 +1,22 @@
-"""UGC NET PYQ Analytical Dashboard: Paper 1, Yoga (100) and Indian Knowledge System (103).
+"""UGC NET PYQ practice: Paper 1, Yoga (100) and Indian Knowledge System (103).
 
-Run locally:  streamlit run streamlit_app.py
+Users sign in with Google; each subject unlocks with a monthly Razorpay plan.
+
+Run locally without sign-in or payments:  NETPYQ_DEV_MODE=1 streamlit run streamlit_app.py
 """
 
 import streamlit as st
 
-from pyq.ui import analytics_page, bank_page, library_page, practice_page, review_page, sidebar, state, style
+from pyq.filters import ALL
+from pyq.syllabus import SUBJECTS
+from pyq.ui import (account, admin_page, analytics_page, bank_page, library_page, plans_page, practice_page, review_page,
+                    sidebar, state, style)
 
-st.set_page_config(page_title="UGC NET PYQ Analytics", page_icon=":material/insights:", layout="wide")
+st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
 state.init()
+account.gate()            # stops here with the sign-in screen until the user is signed in
+admin = st.session_state.is_admin
 
 PAGES = {
     # The default page always lives at "/", so it takes no url_path.
@@ -17,16 +24,34 @@ PAGES = {
     "review": st.Page(review_page.render, title="Review Mistakes", icon=":material/replay:", url_path="review"),
     "analytics": st.Page(analytics_page.render, title="Performance Analytics", icon=":material/monitoring:", url_path="analytics"),
     "bank": st.Page(bank_page.render, title="Question Bank", icon=":material/table_chart:", url_path="bank"),
-    "library": st.Page(library_page.render, title="Source Library", icon=":material/menu_book:", url_path="library"),
+    "plans": st.Page(plans_page.render, title="Subscription", icon=":material/workspace_premium:", url_path="plans"),
 }
+if admin:   # the Source Library lists the owner's own Drive files and notes
+    PAGES["library"] = st.Page(library_page.render, title="Source Library", icon=":material/menu_book:", url_path="library")
+    PAGES["admin"] = st.Page(admin_page.render, title="Admin", icon=":material/admin_panel_settings:", url_path="admin")
 
 page = st.navigation(list(PAGES.values()), position="top")
 
 # Buttons ask for a page change through a callback (state.go); act on it here.
-if target := st.session_state.pop("goto", None):
+if (target := st.session_state.pop("goto", None)) and target in PAGES:
     st.switch_page(PAGES[target])
 
 bank = state.get_bank()
 sidebar.render(bank)
 state.show_notice()
+
+# Tell a user who hasn't unlocked the subject they're looking at how to get it.
+if not admin and page.url_path not in ("plans",):
+    subject, unlocked = st.session_state.f_subject, st.session_state.unlocked
+    if subject != ALL and subject not in unlocked:
+        with st.container(border=True, horizontal=True, vertical_alignment="center"):
+            st.markdown(f":material/lock: **{SUBJECTS[subject].display}** is locked. You can try the free sample "
+                        "questions; subscribe to practise every real paper.")
+            st.button("See plans", icon=":material/workspace_premium:", on_click=state.go, args=("plans",))
+    elif subject == ALL and not unlocked:
+        with st.container(border=True, horizontal=True, vertical_alignment="center"):
+            st.markdown(":material/lock: You're using the **free sample questions**. Subscribe to a subject to "
+                        "practise its real previous-year papers.")
+            st.button("See plans", icon=":material/workspace_premium:", on_click=state.go, args=("plans",))
+
 page.run()

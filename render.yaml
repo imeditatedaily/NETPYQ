@@ -1,0 +1,12 @@
+# Render Blueprint: Dashboard → New → Blueprint → pick this repository.
+# Secrets are NOT stored here: add secrets.toml under the service's Environment → Secret Files.
+services:
+  - type: web
+    name: netpyq
+    runtime: python
+    plan: starter            # stays on; the free plan sleeps when idle
+    region: singapore        # closest Render region to India
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+    healthCheckPath: /_stcore/health
+    autoDeploy: true

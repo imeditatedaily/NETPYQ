@@ -117,9 +117,12 @@ def study_links(q: Question, library: Library, context: str) -> None:
     if not sources:
         return
     st.markdown("##### :material/menu_book: Study this in")
+    admin = st.session_state.get("is_admin", False)
     for s in sources:
-        status = ":green-badge[in your library]" if s.available else ":gray-badge[not added yet]"
+        status = (":green-badge[in your library]" if s.available else ":gray-badge[not added yet]") if admin else ""
         st.markdown(f"- {md(s.citation)} {status}")
+    if not admin:   # the Source Library (with the owner's own files) is for admins only
+        return
     st.button("Open the Source Library", icon=":material/menu_book:", key=f"lib-{context}-{q.id}",
               on_click=open_library_for, args=(q.macro_unit,))
 

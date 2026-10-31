@@ -1,8 +1,8 @@
 """Everything the app keeps in st.session_state, and the callbacks that change it.
 
-Session state lasts as long as the browser tab. Refreshing or closing the
-tab starts a new session, which is why the sidebar offers a download of
-the attempt log and a way to load it back.
+Every answer is also saved to the signed-in user's account (see account.py),
+so the log comes back after a refresh or on another device. The current
+practice attempt and review loop live only in the browser tab.
 """
 
 import json
@@ -10,6 +10,7 @@ from datetime import datetime
 
 import streamlit as st
 
+from ..access import visible_bank
 from ..bank import Bank, folder_signature, load_bank
 from ..config import INCLUDE_SAMPLE_QUESTIONS, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE
 from ..filters import ALL, Filters, apply
@@ -28,8 +29,15 @@ def _bank(_signature: tuple) -> Bank:
     return load_bank(QUESTION_DIR, INCLUDE_SAMPLE_QUESTIONS, TOPIC_FILE)
 
 
-def get_bank() -> Bank:
+def get_full_bank() -> Bank:
+    """Every loaded question, whatever the user has paid for."""
     return _bank(folder_signature(QUESTION_DIR, TOPIC_FILE))
+
+
+def get_bank() -> Bank:
+    """The questions this user may see: free samples plus the subjects they subscribe to."""
+    ss = st.session_state
+    return visible_bank(get_full_bank(), admin=ss.get("is_admin", False), unlocked=ss.get("unlocked", set()))
 
 
 @st.cache_resource(show_spinner=False)
@@ -53,6 +61,9 @@ def init() -> None:
     ss.setdefault("loops_started", 0)
     ss.setdefault("upload_nonce", 0)
     ss.setdefault("shuffle", False)
+    ss.setdefault("is_admin", False)
+    ss.setdefault("unlocked", set())
+    ss.setdefault("subs", [])
     for key in FILTER_KEYS.values():
         ss.setdefault(key, ALL)
 
@@ -71,8 +82,10 @@ def mistakes(bank: Bank) -> list[str]:
 
 
 def record(q: Question, chosen: int, mode: str, run_no: int) -> Answer:
+    from . import account
     answer = make_answer(q, chosen, mode, run_no, datetime.now())
     st.session_state.log.append(answer)
+    account.save_answer(answer)
     return answer
 
 
@@ -184,13 +197,17 @@ def load_log_file(uploader_key: str) -> None:
     except (ValueError, UnicodeDecodeError) as e:
         notice(f"Could not load that file: {e}", ":material/error:")
     else:
+        from . import account
         ss.log = restored
         ss.review = None
+        account.save_all_answers(restored)
         notice(f"Restored {len(restored)} logged answers.", ":material/upload:")
     ss.upload_nonce += 1  # a fresh uploader widget, so the same file can be loaded again
 
 
 def reset_session() -> None:
     ss = st.session_state
+    from . import account
     ss.log, ss.run, ss.review = [], None, None
-    notice("Session cleared.", ":material/delete:")
+    account.save_all_answers([])
+    notice("Your progress was cleared.", ":material/delete:")

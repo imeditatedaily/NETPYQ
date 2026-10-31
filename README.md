@@ -10,7 +10,7 @@ A Streamlit app for UGC NET practice (the General Paper, Paper 1, and Paper 2 fo
 | **Question Bank** | Coverage by unit and exam session, plus the data check. |
 | **Source Library** | Study texts mapped to syllabus units: your PDFs (readable in the app) and recommended public-domain translations still to add. |
 
-Every answer, in Practice or Review, is logged in the background (`st.session_state`) with its question, macro unit, micro-topic, chosen option and result. The sidebar filters by subject, exam year or session, syllabus unit, micro-topic and question format.
+Every answer, in Practice or Review, is logged with its question, macro unit, micro-topic, chosen option and result, and saved to the user's account. The sidebar filters by subject, exam year or session, syllabus unit, micro-topic and question format.
 
 ## About the data
 
@@ -57,30 +57,20 @@ See [`data/questions/README.md`](data/questions/README.md) for the format.
 
 The syllabus unit titles in `pyq/syllabus.py` follow NTA's published syllabi via exam portals. Check them against the official PDFs at ugcnet.nta.ac.in.
 
-## Deploy on Streamlit Community Cloud (private repository)
+## Accounts, saved progress and subscriptions
 
-1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with the GitHub account that owns this repository.
-2. Select **Create app**, then choose to deploy from an existing GitHub repository. If the repository is not listed, Streamlit asks for permission to read your **private** repositories. Grant it.
-3. Fill in the form: repository `imeditatedaily/NETPYQ`, branch `main`, main file path `streamlit_app.py`. Pick an app URL.
-4. Open **Advanced settings** and set **Python version** to **3.14**. Community Cloud ignores `.python-version` and `runtime.txt`; only this setting counts.
-5. Select **Deploy**. The first build installs `requirements.txt` and takes a few minutes.
+Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
 
-An app deployed from a private repository is **private**: only you can open it. To let someone else in, open the app and use **Share → Invite** with their email address. Community Cloud allows **one private app per account**.
-
-Every push to `main` redeploys the app. Adding a question file or a PDF needs no code change.
+**To go live, follow [`SETUP.md`](SETUP.md)** (Supabase, Render, Google sign-in, Razorpay). Streamlit Community Cloud's terms don't allow commercial apps, so the paid app runs on Render (`render.yaml`).
 
 ## Run it on your computer
 
 ```bash
 python3.14 -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements-dev.txt
-streamlit run streamlit_app.py
-pytest                                                  # 33 tests: data, filters, tracking, analytics, full app flows
+NETPYQ_DEV_MODE=1 streamlit run streamlit_app.py        # no sign-in, full access, local SQLite file
+pytest                                                  # 68 tests: data, filters, tracking, analytics, accounts, payments, app flows
 ```
-
-## Your progress
-
-Session state lasts as long as the browser tab. Refreshing or closing the tab starts a new session. Use **Download log (JSON)** in the sidebar to keep your history, and **Load a saved log** to bring it back later or on another device. The CSV download opens in Excel.
 
 ## Project layout
 
@@ -96,11 +86,18 @@ pyq/
   analytics.py            accuracy tables, revision list, frequency counts (pandas)
   library.py              the Source Library catalog
   data/samples.py         the 4 sample questions
+  access.py               who sees what: free samples, paid subjects, book-sourced questions
+  store.py                the database: answers and subscriptions per user (SQLAlchemy)
+  payments.py             Razorpay Subscriptions over its REST API
   ui/                     Streamlit pages and widgets (the only package that imports streamlit)
+    account.py            Google sign-in gate, per-user session, subscription actions
+    plans_page.py         Subscription page;  admin_page.py: subscribers and usage
 data/questions/           PYQ files, one JSON file per paper
 data/topics.json          trend notes per micro-topic, used by questions without their own trend_analysis
 sources/                  PDFs + catalog.json for the Source Library
 tests/                    pytest suite, including end-to-end runs with Streamlit's AppTest
+SETUP.md                  step-by-step: accounts and secrets needed to go live
+render.yaml               Render hosting blueprint
 ```
 
 ## Source Library

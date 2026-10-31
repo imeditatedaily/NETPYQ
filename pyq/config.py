@@ -21,3 +21,17 @@ TOPIC_FILE = Path(__file__).resolve().parent.parent / "data" / "topics.json"
 
 # The Source Library: PDFs plus sources/catalog.json.
 SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
+
+# --- accounts and subscriptions ------------------------------------------------------
+
+# Monthly price of one subject (Paper 1, Yoga or IKS), in rupees. The amount
+# actually charged is set on the Razorpay plan; keep the two the same.
+SUBJECT_PRICE_INR = 500
+
+# Questions whose source note mentions any of these are transcribed from a
+# published book. Subscribers never see them (only admins do), and they do
+# not count towards making a subject available for sale.
+BOOK_SOURCE_MARKERS = ("Madaan",)
+
+# Where progress is kept when no [database] url is set (local development only).
+LOCAL_DB_FILE = Path(__file__).resolve().parent.parent / ".data" / "netpyq.db"
