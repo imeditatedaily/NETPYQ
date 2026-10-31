@@ -1,0 +1,1518 @@
+[
+ {
+  "id": "YOGA-2017NOV-P2-Q01",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2/48.**\n\nGītā 2.48: *yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya | siddhy-asiddhyoḥ samo bhūtvā **samatvaṃ yoga ucyate***. \"Established in yoga, act without attachment, even-minded in success and failure: evenness is called yoga.\"\n\nThe distractor 2/50 is the Gītā's *other* definition of yoga: ***yogaḥ karmasu kauśalam*** (skill in action). Keep the pair together: 2.48 = samatva, 2.50 = kauśala.",
+  "question_type": "mcq",
+  "question_text": "भगवद्गीता के किस श्लोक में \"समत्वं योग उच्यते\" का वर्णन है?",
+  "options": [
+   "3/48",
+   "2/50",
+   "3/50",
+   "2/48"
+  ],
+  "references": [
+   "Bhagavad Gītā 2.48, 2.50"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q02",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kapila.**\n\nThe founders traditionally assigned to the six āstika darśanas:\n\n| Darśana | Founder |\n|---|---|\n| Nyāya | Gautama (Akṣapāda) |\n| Vaiśeṣika | Kaṇāda |\n| **Sāṃkhya** | **Kapila** |\n| Yoga | Patañjali |\n| Pūrva Mīmāṃsā | Jaimini |\n| Uttara Mīmāṃsā (Vedānta) | Bādarāyaṇa (Vyāsa) |\n\nThe oldest surviving Sāṃkhya text is Īśvarakṛṣṇa's *Sāṃkhya Kārikā*.",
+  "question_type": "mcq",
+  "question_text": "सांख्य दर्शन के प्रवर्तक हैं:",
+  "options": [
+   "गौतम",
+   "कपिल",
+   "कणाद",
+   "जैमिनी"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q03",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) aśuklākṛṣṇa.**\n\nYS 4.7: ***karmāśuklākṛṣṇaṃ yoginas** trividham itareṣām*. \"The yogi's action is neither white nor black; for others it is of three kinds.\"\n\nVyāsa explains the three: *kṛṣṇa* (black, harmful), *śukla-kṛṣṇa* (mixed, most ordinary action) and *śukla* (white, e.g. austerity and study). The yogi acts without desire for fruit, so the action leaves no karmic residue: neither white nor black.",
+  "question_type": "mcq",
+  "question_text": "पतंजलि के अनुसार, योगी का कर्म किस प्रकार का है?",
+  "options": [
+   "शुक्ल",
+   "कृष्ण",
+   "अशुक्लाकृष्ण",
+   "शुक्लकृष्ण"
+  ],
+  "references": [
+   "Yoga Sūtra 4.7 with Vyāsa's bhāṣya"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q04",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 101.**\n\nKaṭha Upaniṣad 2.3.16: ***śataṃ caikā ca hṛdayasya nāḍyas** tāsāṃ mūrdhānam abhiniḥsṛtaikā | tayordhvam āyann amṛtatvam eti …* \"A hundred and one are the channels of the heart; one of them goes up to the crown. Rising by it, one reaches immortality; the others lead in all directions.\"\n\nThe same verse appears in Chāndogya 8.6.6. The one channel to the crown is later identified with suṣumnā.",
+  "question_type": "mcq",
+  "question_text": "कठोपनिषद् में कितनी प्रधान नाड़ियों का वर्णन किया गया है?",
+  "options": [
+   "100",
+   "101",
+   "110",
+   "111"
+  ],
+  "references": [
+   "Kaṭha Upaniṣad 2.3.16"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q05",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Bhadrāsana.**\n\nŚiva Saṃhitā (3.84–3.97 in most editions) describes only **four** āsanas: **siddhāsana, padmāsana, ugrāsana** (= paścimottānāsana) and **svastikāsana**.\n\nBhadrāsana is described in Haṭha Pradīpikā (1.53–54) and Gheraṇḍa Saṃhitā, not in Śiva Saṃhitā.",
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से किस आसन का वर्णन शिव संहिता में नहीं किया गया है?",
+  "options": [
+   "पद्मासन",
+   "उग्रासन",
+   "स्वस्तिकासन",
+   "भद्रासन"
+  ],
+  "references": [
+   "Śiva Saṃhitā, chapter 3 (āsanas)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q07",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1 g per kg body weight.**\n\nAt the time of this paper, India's ICMR recommendation for adults was about **1 g of protein per kg of body weight per day**, and that is the answer the examiners expected.\n\nNote for current study: ICMR–NIN's 2020 revision sets the adult RDA at **0.83 g/kg/day** of good-quality protein. Of these four options, 1 g/kg is still the closest.",
+  "question_type": "mcq",
+  "question_text": "किसी वयस्क के लिये प्रोटीन की संस्तुत दैनिक मात्रा है:",
+  "options": [
+   "2 ग्राम / कि.ग्रा. शरीर भार",
+   "1 ग्राम / कि.ग्रा. शरीर भार",
+   "0.5 ग्राम / कि.ग्रा. शरीर भार",
+   "1.5 ग्राम / कि.ग्रा. शरीर भार"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q08",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Lysosome.**\n\nLysosomes are membrane-bound sacs of hydrolytic (digestive) enzymes. They digest worn-out organelles and engulfed material. If the membrane ruptures, the enzymes digest the cell itself (autolysis), hence \"suicide bags\".\n\n- Ribosome: protein synthesis.\n- Golgi apparatus: packaging and secretion (it also forms lysosomes).\n- Centrosome: organises the spindle in cell division.",
+  "question_type": "mcq",
+  "question_text": "जीवित कोशिका की कौन-सी संरचना \"आत्महत्या की थैली\" कहलाती है?",
+  "options": [
+   "सेंट्रोसोम",
+   "राइबोसोम",
+   "लाइसोसोम",
+   "गोल्गी ऐपरेटस"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q09",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Taittirīya Upaniṣad.**\n\nThe Brahmānanda Vallī (Taittirīya 2.1–2.5) describes the self as five sheaths, each inside the last: **annamaya, prāṇamaya, manomaya, vijñānamaya and ānandamaya**. The Bhṛgu Vallī (chapter 3) retells it as Bhṛgu's step-by-step discovery that food, breath, mind, understanding and bliss are Brahman.\n\nMāṇḍūkya is the Upaniṣad of the four states and Oṃ; Chāndogya and Muṇḍaka do not set out the five kośas.",
+  "question_type": "mcq",
+  "question_text": "पंचकोश की अवधारणा का किसमें उल्लेख किया गया है?",
+  "options": [
+   "छान्दोग्य उपनिषद्",
+   "तैत्तिरीय उपनिषद्",
+   "माण्डूक्य उपनिषद्",
+   "मुण्डक उपनिषद्"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q10",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: nature, scope and methods",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Human behaviour and mental processes.**\n\nThe accepted modern definition: psychology is the scientific study of **behaviour and mental processes**.\n\nThe other options mark the subject's history. It was once called the study of the soul (from *psyche*), then of the mind, then of consciousness (Wundt, Titchener). Behaviourists (Watson) narrowed it to observable behaviour, and the cognitive revolution brought mental processes back in.",
+  "question_type": "mcq",
+  "question_text": "मनोविज्ञान किसका वैज्ञानिक अध्ययन है?",
+  "options": [
+   "आत्मा का",
+   "मन का",
+   "मानव व्यवहार और मानसिक प्रक्रियाओं का",
+   "चेतना का"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q12",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) All-round development (sarvāṅgīṇa vikāsa).**\n\nYoga education aims at the whole person: physical health, emotional balance, mental clarity, social and moral conduct (yama–niyama) and spiritual growth.\n\nThe three distractors each say \"only\", so they are partial by design.",
+  "question_type": "mcq",
+  "question_text": "योग शिक्षा के उद्देश्य का केन्द्र है:",
+  "options": [
+   "केवल ज्ञान",
+   "केवल शक्ति",
+   "केवल सामाजिक संबंध",
+   "सर्वांगीण विकास"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q14",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Abhyasa and vairagya",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (2) and (3).**\n\n- **Abhyāsa–vairāgya:** YS 1.12, *abhyāsa-vairāgyābhyāṃ tan-nirodhaḥ*, is the primary means to stilling the mind.\n- **Īśvara-praṇidhāna:** YS 1.23 offers it as another path to samādhi, and YS 2.45 says *samādhi-siddhir īśvara-praṇidhānāt*: \"samādhi is perfected through devotion to Īśvara\".\n\nPrāṇāyāma and pratyāhāra are limbs of aṣṭāṅga yoga, preparatory stages, but Patañjali does not name them as the means to samādhi-siddhi.",
+  "question_type": "statements",
+  "question_text": "महर्षि पतंजलि के अनुसार, समाधि सिद्धि की विधि है:",
+  "items": [
+   "प्राणायाम",
+   "ईश्वर प्रणिधान",
+   "अभ्यास-वैराग्य",
+   "प्रत्याहार"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (4) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(3) और (4) सही हैं।"
+  ],
+  "references": [
+   "Yoga Sūtra 1.12, 1.23, 2.45"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q15",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (2) and (4): śarad and vasanta.**\n\nGheraṇḍa Saṃhitā 5.8–9 warns against beginning yoga in *hemanta*, *śiśira*, *grīṣma* and *varṣā*, and says to begin in **vasanta (spring) or śarad (autumn)**, when the weather is moderate and success comes easily.\n\nHemanta and śiśira (the cold seasons) appear in the distractors.",
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से किन मौसमों में नये योगाभ्यासियों को योगाभ्यास शुरू करना चाहिये?",
+  "items": [
+   "हेमन्त",
+   "शरद",
+   "शिशिर",
+   "वसंत"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(3) और (4) सही हैं।",
+   "(1) और (2) सही हैं।",
+   "(1) और (3) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ],
+  "references": [
+   "Gheraṇḍa Saṃhitā 5.8–9"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q16",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (1), (2) and (4).**\n\nŚrīnivāsa's Haṭha Ratnāvalī lists **nine** kumbhakas: sūryabhedana, ujjāyī, **sītkārī, śītalī, bhastrikā, bhrāmarī, mūrcchā, kevala** and **bhujaṅgīkaraṇa** (\"the ninth\").\n\nCompared with Haṭha Pradīpikā's eight, it **drops plāvinī** and adds kevala and bhujaṅgīkaraṇa. So pair (3) fails because of plāvinī, even though mūrcchā is in the list.",
+  "question_type": "statements",
+  "question_text": "हठ रत्नावली में वर्णित कुंभकों के प्रकार हैं:",
+  "items": [
+   "भस्त्रिका, भ्रामरी",
+   "केवल, भुजंगीकरण",
+   "मूर्च्छा, प्लावनी",
+   "सीत्कारी, शीतली"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1), (2) और (3) सही हैं।",
+   "(2), (3) और (4) सही हैं।",
+   "(1), (2) और (4) सही हैं।",
+   "(1), (3) और (4) सही हैं।"
+  ],
+  "references": [
+   "Haṭha Ratnāvalī, chapter 2 (kumbhakas)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q17",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (1) and (4).**\n\nThe fat-soluble vitamins are **A, D, E and K**. They are absorbed with dietary fat and stored in the liver and fatty tissue, so excess can build up.\n\nThe B-complex vitamins and vitamin C are water-soluble: little is stored, and the surplus is passed in urine.",
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन से विटामिन वसा विलेय हैं?",
+  "items": [
+   "विटामिन A",
+   "विटामिन B",
+   "विटामिन C",
+   "विटामिन D"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(2) और (3) सही हैं।",
+   "(1) और (4) सही हैं।",
+   "(1) और (2) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q18",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (2) and (3): laghu and rūkṣa.**\n\nKapha is heavy (*guru*), oily (*snigdha*), cold and stable. Āyurveda balances a dosha with opposite qualities, so a kapha constitution does well on **light (*laghu*)** and **dry (*rūkṣa*)** food, warm and pungent.\n\nUnctuous and heavy food (*snigdha*, *guru*) increases kapha.",
+  "question_type": "statements",
+  "question_text": "कफ प्रकृति वाले व्यक्तियों के लिए आहार के निम्नलिखित में से कौन से प्रकार लाभदायक हैं?",
+  "items": [
+   "स्निग्ध",
+   "लघु",
+   "रूक्ष",
+   "गुरु"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(2) और (3) सही हैं।",
+   "(1) और (4) सही हैं।",
+   "(3) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q19",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (1) and (3): curd and buttermilk.**\n\nHaṭha Pradīpikā 1.59 lists the unwholesome foods (*apathya*). Among them are ***dadhi*** (curd) and ***takra*** (buttermilk), along with sour, pungent, salty and fried foods, alcohol and fish.\n\nHP 1.62 lists the wholesome foods (*pathya*), which include **milk (*kṣīra*), ghee and *navanīta*** (fresh butter). So milk and navanīta are pathya.",
+  "question_type": "statements",
+  "question_text": "हठ प्रदीपिका के अनुसार योगाभ्यासी के लिए कौन से खाद्य पदार्थ अपथ्य हैं?",
+  "items": [
+   "दही",
+   "दूध",
+   "तक्र",
+   "नवनीत"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (3) सही हैं।",
+   "(1) और (4) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(2) और (4) सही हैं।"
+  ],
+  "references": [
+   "Haṭha Pradīpikā 1.59, 1.62"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q20",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (2) and (4): basti and nauli.**\n\nThe question asks which methods are **not** helpful for the eyes.\n\n- **Trāṭaka** \"removes eye diseases\" (HP 2.32), and **neti** \"gives divine sight\" (HP 2.30). Both help the eyes.\n- **Basti** cleans the colon, and **nauli** works on the abdominal organs and digestive fire. Neither is prescribed for the eyes.",
+  "question_type": "statements",
+  "question_text": "नेत्र विकारों के लिए कौन सी शुद्धिकरण विधियाँ लाभदायक नहीं हैं?",
+  "items": [
+   "त्राटक",
+   "बस्ति",
+   "नेति",
+   "नौलि"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (4) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(1) और (3) सही हैं।",
+   "(2) और (3) सही हैं।"
+  ],
+  "references": [
+   "Haṭha Pradīpikā 2.26–2.35"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q21",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (2) and (4): lung problems and back pain.**\n\nIn gomukhāsana the clasped arms open the chest and shoulders and lift the ribcage, which helps breathing. The upright spine and the stretch across the shoulders and upper back ease back stiffness and pain.\n\nIt is not a practice for eye defects or skin disease.",
+  "question_type": "statements",
+  "question_text": "गोमुखासन निम्न में से मुख्यतः किन में लाभप्रद होता है?",
+  "items": [
+   "नेत्र-दोष",
+   "फेफड़ों के रोग",
+   "त्वचा रोग",
+   "पीठ दर्द"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (2) सही हैं।",
+   "(1) और (3) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(3) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q22",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (3) and (4): śaśāṅkāsana and pādahastāsana.**\n\nCervical spondylosis gets worse with **forward bending of the neck**, which loads the cervical discs. Śaśāṅkāsana and pādahastāsana both drop the head forward and down, so they are avoided.\n\n**Makarāsana** (prone relaxation) and gentle **bhujaṅgāsana** (backward extension) are standard recommended practices for neck and back problems.",
+  "question_type": "statements",
+  "question_text": "सर्वाइकल स्पाँडिलोसिस में कौन-से आसन नहीं करने चाहिये?",
+  "items": [
+   "मकरासन",
+   "भुजंगासन",
+   "शशांकासन",
+   "पादहस्तासन"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (3) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(1) और (2) सही हैं।",
+   "(2) और (3) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q23",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (1), (2) and (3).**\n\nTension headache, essential hypertension and type 2 diabetes are classic **stress-related (psychosomatic) disorders**. Chronic stress raises cortisol and sympathetic tone, which pushes up blood pressure and blood sugar. This is why yoga therapy targets them.\n\n**Autism** is a neurodevelopmental condition present from early childhood. Stress does not cause it.",
+  "question_type": "statements",
+  "question_text": "निम्न में से कौन तनाव जनित रोग हैं?",
+  "items": [
+   "सिर-दर्द",
+   "उच्च रक्तचाप",
+   "मधुमेह",
+   "ऑटिज़्म"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1), (2) और (3) सही हैं।",
+   "(1), (2) और (4) सही हैं।",
+   "(2), (3) और (4) सही हैं।",
+   "(1) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q24",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (1) and (4): hypertension and hernia.**\n\nDhanurāsana puts strong pressure on the abdomen and brings on a Valsalva-like strain, so it is avoided in **high blood pressure** and **hernia** (also peptic ulcer and heart disease).\n\nConstipation and abdominal fat are conditions it is usually said to *help*.",
+  "question_type": "statements",
+  "question_text": "धनुरासन निम्न में से किन में निषिद्ध है?",
+  "items": [
+   "उच्च रक्तचाप",
+   "विबन्ध",
+   "पेट का मोटापा",
+   "हार्निया"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(2) और (3) सही हैं।",
+   "(1) और (4) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(1) और (2) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q25",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (1) and (3).**\n\nYogic practice is slow, steady and done with awareness and breath, so it brings **mental calm** and leaves you refreshed. Strenuous exercise leaves you fatigued.\n\nThis is the standard contrast drawn between yogic practices and physical exercise.",
+  "question_type": "statements",
+  "question_text": "यौगिक अभ्यास में:",
+  "items": [
+   "मंद और सतत व्यायाम सम्मिलित हैं।",
+   "थकावट होती है।",
+   "मन की शांति मिलती है।",
+   "कठोर व्यायाम सम्मिलित हैं।"
+  ],
+  "item_style": "numbers",
+  "prompt": "नीचे दिये गये कूट से सही संयोजन चुनें:",
+  "options": [
+   "(1) और (3) सही हैं।",
+   "(2) और (4) सही हैं।",
+   "(3) और (4) सही हैं।",
+   "(1) और (4) सही हैं।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q26",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kriya Yoga",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\n- YS 2.1: *tapaḥ-svādhyāyeśvarapraṇidhānāni kriyāyogaḥ*. Kriyā yoga **consists of** tapas, svādhyāya and īśvara-praṇidhāna.\n- YS 2.2: it is practised *samādhi-bhāvanārthaḥ kleśa-tanūkaraṇārthaś ca*, to bring about samādhi and to weaken the kleśas.\n\nA states the purpose (YS 2.2); R names the three practices that do this (YS 2.1). R gives the reason A is true.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "क्रिया योग से क्लेश की निवृत्ति होती है जिससे समाधि प्राप्त होती है।",
+  "reason": "तप, स्वाध्याय और ईश्वर प्रणिधान समाधि-प्राप्ति हेतु क्रिया-योग के शक्तिशाली साधन हैं।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ],
+  "references": [
+   "Yoga Sūtra 2.1–2.2"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q28",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\n\"Micronutrient\" means a nutrient that is essential but needed only in small amounts (milligrams or micrograms a day). Minerals such as iron, zinc and iodine, and the vitamins, fit this. Carbohydrate, protein and fat are macronutrients, needed in grams.\n\nR is the defining reason minerals count as micronutrients. (The source collection prints options (1) and (2) swapped here; its stated answer is this option.)",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "खनिज, सूक्ष्म पोषक तत्त्व हैं।",
+  "reason": "खनिज पोषाहार के लिये आवश्यक हैं, यद्यपि उनकी आवश्यकता कम मात्रा में होती है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q29",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both true, but R does not explain A.**\n\n- **A:** YS 1.30 lists the nine *antarāyas* (vyādhi, styāna, saṃśaya, pramāda, ālasya, avirati, bhrānti-darśana, alabdha-bhūmikatva, anavasthitatva) as *citta-vikṣepas*, the obstacles to yoga.\n- **R:** YS 1.31 lists duḥkha, daurmanasya, aṅgamejayatva, śvāsa and praśvāsa as ***vikṣepa-sahabhuvaḥ***, the symptoms that *accompany* the distractions.\n\nBoth are correct, but the companions are not the antarāyas and do not explain why the antarāyas obstruct yoga.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "अन्तराय, योग साधना में बाधक हैं।",
+  "reason": "दुःख, दौर्मनस्य, अंगमेजयत्व, श्वास और प्रश्वास चित्त को भटकाते हैं।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ],
+  "references": [
+   "Yoga Sūtra 1.30–1.31"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q31",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\nThe answer the examiners expected: tāḍāsana stretches the whole body upward (muscles, ligaments and spine) and is commonly recommended for growing children for that reason.\n\nIn real life, height is mainly set by genes, nutrition and hormones. Stretching and good posture help a child reach that potential; they cannot add height beyond it.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "ताड़ासन से बच्चों की लंबाई बढ़ती है।",
+  "reason": "ताड़ासन से पेशियों, अस्थिबंध और पूरे मेरुदण्ड में खिंचाव आता है जो लंबाई बढ़ाने में सहायक होता है।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q32",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both true, and R explains A.**\n\n*Brahma-muhūrta* is the period of about 96 minutes before sunrise. It is traditionally held best for yoga and meditation: the air is fresh, surroundings are quiet, and the mind, rested after sleep, is not yet crowded with the day's impressions.\n\nR gives exactly these reasons.",
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दिये गये दो कथनों में से एक को अभिकथन (A) और दूसरे को तर्क (R) की संज्ञा दी गई है। उपरोक्त दो कथनों के संदर्भ में निम्नलिखित में से कौन-सा सही है?",
+  "assertion": "यौगिक अभ्यास का उत्तम समय ब्रह्ममुहूर्त है।",
+  "reason": "ब्रह्ममुहूर्त के समय वातावरण शुद्ध और शांत रहता है, तथा चेतना के स्तर पर मन पर कोई गहरी छाप नहीं होती।",
+  "options": [
+   "(A) और (R) दोनों सही हैं और (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, लेकिन (R) गलत है।",
+   "(A) गलत है, लेकिन (R) सही है।"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q33",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (3), (4), (2), (1).**\n\nTaittirīya 2.1 traces creation from the Self: space → air → fire → water → earth, and then ***pṛthivyā oṣadhayaḥ, oṣadhībhyo 'nnam, annāt puruṣaḥ***.\n\nFrom earth come plants, from plants food, and from food the person (*puruṣa*, made of food: the annamaya kośa).\n\nSo: **pṛthvī → oṣadhi → anna → puruṣa**.",
+  "question_type": "sequence",
+  "question_text": "तैत्तिरीयोपनिषद् में उल्लिखित उनके उद्भव के अनुसार निम्नलिखित को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "पुरुष",
+   "अन्न",
+   "पृथ्वी",
+   "औषधि"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(1), (2), (4), (3)",
+   "(3), (4), (2), (1)",
+   "(3), (1), (2), (4)",
+   "(2), (1), (3), (4)"
+  ],
+  "references": [
+   "Taittirīya Upaniṣad 2.1"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q34",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (3), (2), (4), (1).**\n\nYoga Vāsiṣṭha (Utpatti Prakaraṇa 118) gives seven stages of knowledge (*jñāna-bhūmikā*):\n\n1. **śubhecchā**: the wish for the good\n2. **vicāraṇā**: enquiry\n3. **tanumānasā**: the mind made subtle\n4. **sattvāpatti**: attainment of pure being\n5. asaṃsakti, 6. padārthābhāvanī, 7. turyagā\n\nThe first four in order: śubhecchā, vicāraṇā, tanumānasā, sattvāpatti.",
+  "question_type": "sequence",
+  "question_text": "योग वासिष्ठ के अनुसार, ज्ञान की निम्नलिखित अवस्थाओं को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "सत्त्वापत्ति",
+   "विचारणा",
+   "शुभेच्छा",
+   "तनुमानसा"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(2), (1), (4), (3)",
+   "(3), (2), (4), (1)",
+   "(2), (3), (4), (1)",
+   "(1), (4), (2), (3)"
+  ],
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q35",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (3), (1), (4), (2).**\n\nYS 1.17: *vitarka-vicārānandāsmitā-rūpānugamāt saṃprajñātaḥ*. Samprajñāta samādhi deepens through four stages, from gross to subtle:\n\n**vitarka** (gross object) → **vicāra** (subtle object) → **ānanda** (bliss) → **asmitā** (pure I-sense).",
+  "question_type": "sequence",
+  "question_text": "सम्प्रज्ञात समाधि के निम्नलिखित प्रकारों को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "विचारानुगत",
+   "अस्मितानुगत",
+   "वितर्कानुगत",
+   "आनंदानुगत"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(1), (3), (4), (2)",
+   "(1), (3), (2), (4)",
+   "(3), (1), (2), (4)",
+   "(3), (1), (4), (2)"
+  ],
+  "references": [
+   "Yoga Sūtra 1.17"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q36",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (1), (4), (2), (3).**\n\nHaṭha Pradīpikā 4.69: *ārambhaś ca ghaṭaś caiva tathā paricayo 'pi ca | niṣpattiḥ sarva-yogeṣu syād avasthā-catuṣṭayam*.\n\nThe four stages: **ārambha** (beginning: brahma-granthi pierced) → **ghaṭa** (vessel: viṣṇu-granthi) → **paricaya** (familiarity) → **niṣpatti** (consummation: rudra-granthi).\n\nThe source collection gives its answer as (4), but its own explanation lists this same order, which is option (3).",
+  "question_type": "sequence",
+  "question_text": "नादानुसंधान की निम्नलिखित अवस्थाओं को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "आरम्भावस्था",
+   "परिचयावस्था",
+   "निष्पत्ति अवस्था",
+   "घटावस्था"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(1), (2), (3), (4)",
+   "(1), (2), (4), (3)",
+   "(1), (4), (2), (3)",
+   "(2), (1), (4), (3)"
+  ],
+  "references": [
+   "Haṭha Pradīpikā 4.69–4.76"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q37",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (2), (1), (3), (4).**\n\nGheraṇḍa Saṃhitā 1.10–11 gives seven limbs (*saptāṅga*), each with its fruit:\n\nṣaṭkarma (purification) → **āsana** (firmness) → **mudrā** (steadiness) → **pratyāhāra** (calm) → **prāṇāyāma** (lightness) → dhyāna (perception) → samādhi (detachment).\n\nNote that in Gheraṇḍa, **pratyāhāra comes before prāṇāyāma**, the reverse of Patañjali's order. Option (4) is the trap.",
+  "question_type": "sequence",
+  "question_text": "घेरण्ड संहिता के अनुसार, निम्नलिखित अभ्यासों को उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "मुद्रा",
+   "आसन",
+   "प्रत्याहार",
+   "प्राणायाम"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(2), (1), (3), (4)",
+   "(1), (2), (3), (4)",
+   "(1), (2), (4), (3)",
+   "(2), (1), (4), (3)"
+  ],
+  "references": [
+   "Gheraṇḍa Saṃhitā 1.10–11"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q38",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (2), (4), (1), (3), (5).**\n\nThe Indian year has six seasons (*ṛtu*), each about two months: **śiśira** (late winter) → **vasanta** (spring) → **grīṣma** (summer) → **varṣā** (rains) → **śarad** (autumn) → hemanta (early winter).\n\nStarting from śiśira, the five given fall in that order.",
+  "question_type": "sequence",
+  "question_text": "निम्नलिखित ऋतुओं को, शिशिर से प्रारम्भ करते हुए उचित क्रम में व्यवस्थित करें:",
+  "items": [
+   "ग्रीष्म",
+   "शिशिर",
+   "वर्षा",
+   "वसंत",
+   "शरद"
+  ],
+  "item_style": "numbers",
+  "prompt": "सही उत्तर के लिए निम्नलिखित कूट का उपयोग करें:",
+  "options": [
+   "(2), (1), (3), (4), (5)",
+   "(5), (1), (3), (4), (2)",
+   "(2), (3), (4), (1), (5)",
+   "(2), (4), (1), (3), (5)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q39",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A–(ii), B–(i), C–(iv), D–(iii).**\n\nYS 4.11: *hetu-phalāśrayālambanaiḥ saṅgṛhītatvād eṣām abhāve tad-abhāvaḥ*. Vāsanās are held together by cause, fruit, substratum and support; when these disappear, so do the vāsanās. Vyāsa explains:\n\n- **hetu** (cause): the kleśas and karma\n- **phala** (fruit): birth, length of life and experience (*jāti, āyu, bhoga*, as in YS 2.13)\n- **āśraya** (substratum): the citta\n- **ālambana** (support): the sense objects (*viṣaya*)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "वासना हेतु",
+     "वासना फल",
+     "वासना आश्रय",
+     "वासना आलम्बन"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "जन्म, आयु, भोग",
+     "क्लेश, कर्म",
+     "विषय",
+     "चित्त"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(ii) (i) (iv) (iii)",
+   "(i) (ii) (iii) (iv)",
+   "(iii) (i) (iv) (ii)",
+   "(iv) (iii) (ii) (i)"
+  ],
+  "references": [
+   "Yoga Sūtra 4.11 with Vyāsa's bhāṣya"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q40",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A–(iv), B–(i), C–(ii), D–(iii).**\n\n- **Vārisāra** is one of Gheraṇḍa's four ***antar-dhautis*** (internal cleansings), with vātasāra, vahnisāra and bahiṣkṛta.\n- **Vastra dhauti** (swallowing a cloth strip) is one of the ***hṛd-dhautis*** (cleansing of the chest region), with daṇḍa and vamana.\n- **Nauli** stirs the abdominal muscles and is said to kindle the ***jaṭharāgni*** (digestive fire) (HP 2.34).\n- **Basti** cleanses the colon (***large intestine***).",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "वारिसार धौति",
+     "वस्त्र धौति",
+     "नौलि",
+     "वस्ति क्रिया"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "हृद् धौति",
+     "जठराग्नि",
+     "बड़ी आंत",
+     "अन्तर्धौति"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iv) (ii) (iii)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (ii) (iii) (i)",
+   "(iv) (i) (ii) (iii)"
+  ],
+  "references": [
+   "Gheraṇḍa Saṃhitā 1.13–1.45",
+   "Haṭha Pradīpikā 2.26–2.35"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q41",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(iii), B–(iv), C–(i), D–(ii).**\n\n- **Vivekananda:** Neo-Vedānta, Advaita presented as a universal, practical spirituality.\n- **Śrī Aurobindo:** **Integral Yoga** (*pūrṇa* or *samagra yoga*), the transformation of the whole being.\n- **Maharishi Mahesh Yogi:** **Transcendental Meditation (TM)**, *bhāvātīta dhyāna*.\n- **The Buddha:** **Vipassanā**, insight meditation.",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "स्वामी विवेकानन्द",
+     "श्री अरविन्द",
+     "महर्षि महेश योगी",
+     "भगवान बुद्ध"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "भावातीत ध्यान",
+     "विपस्सना",
+     "नव्य वेदान्त",
+     "समग्र योग"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iv) (iii) (ii)",
+   "(ii) (iii) (iv) (i)",
+   "(iii) (iv) (i) (ii)",
+   "(iv) (iii) (ii) (i)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q42",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(iv), B–(i), C–(ii), D–(iii).**\n\n- *Haṭha Pradīpikā*: **Svātmārāma** (15th century)\n- *Satyārtha Prakāśa*: **Svāmī Dayānanda Sarasvatī**, founder of the Ārya Samāj (1875)\n- *Haṭha Ratnāvalī*: **Śrīnivāsa** (Śrīnivāsa Bhaṭṭa, 17th century)\n- *Siddha Siddhānta Paddhati*: **Gorakṣanātha**",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "हठ प्रदीपिका",
+     "सत्यार्थ प्रकाश",
+     "हठ रत्नावली",
+     "सिद्ध सिद्धान्त पद्धति"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "स्वामी दयानन्द",
+     "श्रीनिवास",
+     "गोरक्षनाथ",
+     "स्वात्माराम"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (iv) (ii) (iii)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (i) (ii) (iii)",
+   "(iv) (i) (iii) (ii)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q44",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A–(iii), B–(i), C–(iv), D–(ii).**\n\nIn Āyurveda each taste (*rasa*) raises some doshas and lowers others:\n\n| Rasa | Lowers | Raises |\n|---|---|---|\n| madhura (sweet) | vāta, pitta | kapha |\n| amla (sour) | vāta | pitta, kapha |\n| kaṭu (pungent) | kapha | vāta, pitta |\n| kaṣāya (astringent) | pitta, kapha | vāta |\n\n(Lavaṇa, salty, lowers vāta; tikta, bitter, lowers pitta and kapha.)",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "मधुर रस",
+     "अम्ल रस",
+     "कटु रस",
+     "कषाय रस"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "वात को घटाता है",
+     "पित्त और कफ को घटाता है",
+     "वात और पित्त को घटाता है",
+     "कफ को घटाता है"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(iii) (ii) (i) (iv)",
+   "(iii) (i) (iv) (ii)",
+   "(i) (iii) (ii) (iv)",
+   "(i) (iv) (iii) (ii)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q45",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A–(iv), B–(ii), C–(i), D–(iii).**\n\n- **Pavanamuktāsana:** supine (lying on the back), knees hugged to the chest.\n- **Paścimottānāsana:** sitting, forward bend over the legs.\n- **Bhujaṅgāsana:** prone (lying on the stomach), the chest raised.\n- **Kaṭicakrāsana:** standing waist rotation.",
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II के साथ सुमेलित करें:",
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "पवनमुक्तासन",
+     "पश्चिमोत्तानासन",
+     "भुजंगासन",
+     "कटिचक्रासन"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "पेट के बल लेटकर",
+     "बैठकर",
+     "खड़ा होकर",
+     "पीठ के बल लेटकर"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर चुनें:",
+  "options": [
+   "(i) (ii) (iv) (iii)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (ii) (i) (iii)",
+   "(iv) (i) (iii) (ii)"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q46",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) niyamana (regulation).**\n\nThe passage says *āyāma* means stretching, extension and **regulation**. Of the options, only *niyamana* is among them.\n\n(Etymologically *āyāma* is from *ā-yam*, to extend or restrain. Some read *prāṇa + āyāma* as extension of prāṇa; others take *prāṇa + yama* as control.)",
+  "question_type": "mcq",
+  "question_text": "'आयाम' शब्द का अर्थ है:",
+  "options": [
+   "प्रकार",
+   "नियमन",
+   "पहलू",
+   "मापन"
+  ],
+  "passage": "प्राणायाम अष्टांग योग का चतुर्थ चरण है। 'प्राणायाम' शब्द के दो घटक हैं, प्राण और आयाम। प्राण का अर्थ है ऊर्जा, जीवन और चेतना का स्व-ऊर्जाकारी तत्व। यह ब्रह्मांड के समस्त जीवों का सर्जक है। 'आयाम' का अर्थ है खिंचाव, विस्तार और नियमन। जब स्व-ऊर्जाकारी तत्व विस्तार और नियमन के साथ शरीर को अंगीकृत करता है तो यह प्राणायाम कहलाता है। यह एक लयबद्ध क्रम में धारण के साथ श्वासों के अंतर्मुखी और बहिर्मुखी गमन का नियमन है। इसका अभ्यास आसन में सिद्धि प्राप्त करने के बाद किया जाना चाहिए। प्राणायाम के कुल चार प्रकारों में से पहले तीन प्रकार आभ्यान्तरवृत्ति, बाह्यवृत्ति और स्तंभवृत्ति हैं। प्राणायाम के इन घटकों का अभ्यास और इनकी अवधि व्यक्ति की क्षमता के अनुसार होनी चाहिए। ये तीनों प्रकार सबीज प्राणायाम हैं क्योंकि इनके अभ्यास के दौरान ध्यान श्वास पर ही होता है। चौथे प्राणायाम में श्वास-प्रवाह और धारणा के नियमन से परे जाया जाता है। यह श्वास-निःश्वास की गति के परे प्रयत्नरहित और सहज होता है और इसलिये इसे निर्बीज प्राणायाम कहा जाता है। प्राणायाम ज्ञान-ज्योति के आवरण को हटाता है और बुद्धि को अंतःप्रकाशमान बनाता है। प्राणायाम के अभ्यास के द्वारा मस्तिष्क भी धारणा के योग्य बन जाता है। प्राणायाम, जो बहिरंग योग का एक महत्त्वपूर्ण घटक है, न सिर्फ मस्तिष्क को शांत करने की एक विधि है, बल्कि यह धारणा का भी प्रवेश द्वार है। प्राणायाम के बाद योग का अगला चरण प्रत्याहार है।",
+  "references": [
+   "Yoga Sūtra 2.49–2.53"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q47",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) After mastery of āsana.**\n\nThe passage says prāṇāyāma should be practised after attaining mastery in āsana. This follows YS 2.49: ***tasmin sati*** *śvāsa-praśvāsayor gati-vicchedaḥ prāṇāyāmaḥ*. \"When that (āsana) is accomplished, prāṇāyāma is the regulation of inhalation and exhalation.\"",
+  "question_type": "mcq",
+  "question_text": "प्राणायाम के अभ्यास की सलाह दी जाती है:",
+  "options": [
+   "षट्कर्म के पूर्व",
+   "आसन सिद्धि के पूर्व",
+   "आसन सिद्धि के पश्चात्",
+   "प्रत्याहार सिद्धि के पश्चात्"
+  ],
+  "passage": "प्राणायाम अष्टांग योग का चतुर्थ चरण है। 'प्राणायाम' शब्द के दो घटक हैं, प्राण और आयाम। प्राण का अर्थ है ऊर्जा, जीवन और चेतना का स्व-ऊर्जाकारी तत्व। यह ब्रह्मांड के समस्त जीवों का सर्जक है। 'आयाम' का अर्थ है खिंचाव, विस्तार और नियमन। जब स्व-ऊर्जाकारी तत्व विस्तार और नियमन के साथ शरीर को अंगीकृत करता है तो यह प्राणायाम कहलाता है। यह एक लयबद्ध क्रम में धारण के साथ श्वासों के अंतर्मुखी और बहिर्मुखी गमन का नियमन है। इसका अभ्यास आसन में सिद्धि प्राप्त करने के बाद किया जाना चाहिए। प्राणायाम के कुल चार प्रकारों में से पहले तीन प्रकार आभ्यान्तरवृत्ति, बाह्यवृत्ति और स्तंभवृत्ति हैं। प्राणायाम के इन घटकों का अभ्यास और इनकी अवधि व्यक्ति की क्षमता के अनुसार होनी चाहिए। ये तीनों प्रकार सबीज प्राणायाम हैं क्योंकि इनके अभ्यास के दौरान ध्यान श्वास पर ही होता है। चौथे प्राणायाम में श्वास-प्रवाह और धारणा के नियमन से परे जाया जाता है। यह श्वास-निःश्वास की गति के परे प्रयत्नरहित और सहज होता है और इसलिये इसे निर्बीज प्राणायाम कहा जाता है। प्राणायाम ज्ञान-ज्योति के आवरण को हटाता है और बुद्धि को अंतःप्रकाशमान बनाता है। प्राणायाम के अभ्यास के द्वारा मस्तिष्क भी धारणा के योग्य बन जाता है। प्राणायाम, जो बहिरंग योग का एक महत्त्वपूर्ण घटक है, न सिर्फ मस्तिष्क को शांत करने की एक विधि है, बल्कि यह धारणा का भी प्रवेश द्वार है। प्राणायाम के बाद योग का अगला चरण प्रत्याहार है।",
+  "references": [
+   "Yoga Sūtra 2.49–2.53"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q48",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) nirbīja.**\n\nThe passage calls the first three types (ābhyantara, bāhya and stambha vṛtti) *sabīja*, because attention stays on the breath. It calls the fourth, which goes beyond regulating the breath, ***nirbīja***.\n\nPatañjali describes this fourth as YS 2.51: *bāhyābhyantara-viṣayākṣepī caturthaḥ*, \"the fourth goes beyond the external and internal spheres\". The sabīja/nirbīja labels are the passage's own wording.",
+  "question_type": "mcq",
+  "question_text": "प्राणायाम का चतुर्थ प्रकार क्या कहलाता है?",
+  "options": [
+   "निर्बीज",
+   "सबीज",
+   "बाह्यवृत्ति",
+   "आभ्यांतरवृत्ति"
+  ],
+  "passage": "प्राणायाम अष्टांग योग का चतुर्थ चरण है। 'प्राणायाम' शब्द के दो घटक हैं, प्राण और आयाम। प्राण का अर्थ है ऊर्जा, जीवन और चेतना का स्व-ऊर्जाकारी तत्व। यह ब्रह्मांड के समस्त जीवों का सर्जक है। 'आयाम' का अर्थ है खिंचाव, विस्तार और नियमन। जब स्व-ऊर्जाकारी तत्व विस्तार और नियमन के साथ शरीर को अंगीकृत करता है तो यह प्राणायाम कहलाता है। यह एक लयबद्ध क्रम में धारण के साथ श्वासों के अंतर्मुखी और बहिर्मुखी गमन का नियमन है। इसका अभ्यास आसन में सिद्धि प्राप्त करने के बाद किया जाना चाहिए। प्राणायाम के कुल चार प्रकारों में से पहले तीन प्रकार आभ्यान्तरवृत्ति, बाह्यवृत्ति और स्तंभवृत्ति हैं। प्राणायाम के इन घटकों का अभ्यास और इनकी अवधि व्यक्ति की क्षमता के अनुसार होनी चाहिए। ये तीनों प्रकार सबीज प्राणायाम हैं क्योंकि इनके अभ्यास के दौरान ध्यान श्वास पर ही होता है। चौथे प्राणायाम में श्वास-प्रवाह और धारणा के नियमन से परे जाया जाता है। यह श्वास-निःश्वास की गति के परे प्रयत्नरहित और सहज होता है और इसलिये इसे निर्बीज प्राणायाम कहा जाता है। प्राणायाम ज्ञान-ज्योति के आवरण को हटाता है और बुद्धि को अंतःप्रकाशमान बनाता है। प्राणायाम के अभ्यास के द्वारा मस्तिष्क भी धारणा के योग्य बन जाता है। प्राणायाम, जो बहिरंग योग का एक महत्त्वपूर्ण घटक है, न सिर्फ मस्तिष्क को शांत करने की एक विधि है, बल्कि यह धारणा का भी प्रवेश द्वार है। प्राणायाम के बाद योग का अगला चरण प्रत्याहार है।",
+  "references": [
+   "Yoga Sūtra 2.49–2.53"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q49",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) dhāraṇā.**\n\nThe passage calls prāṇāyāma \"the gateway to dhāraṇā\". This follows YS 2.53: ***dhāraṇāsu ca yogyatā manasaḥ***, \"and the mind becomes fit for concentration\".\n\nNote: prāṇāyāma is itself *part* of bahiraṅga yoga, so it cannot be the gateway to it.",
+  "question_type": "mcq",
+  "question_text": "प्राणायाम निम्न में से किसका प्रवेश द्वार है?",
+  "options": [
+   "आसन",
+   "यम और नियम",
+   "बहिरंग योग",
+   "धारणा"
+  ],
+  "passage": "प्राणायाम अष्टांग योग का चतुर्थ चरण है। 'प्राणायाम' शब्द के दो घटक हैं, प्राण और आयाम। प्राण का अर्थ है ऊर्जा, जीवन और चेतना का स्व-ऊर्जाकारी तत्व। यह ब्रह्मांड के समस्त जीवों का सर्जक है। 'आयाम' का अर्थ है खिंचाव, विस्तार और नियमन। जब स्व-ऊर्जाकारी तत्व विस्तार और नियमन के साथ शरीर को अंगीकृत करता है तो यह प्राणायाम कहलाता है। यह एक लयबद्ध क्रम में धारण के साथ श्वासों के अंतर्मुखी और बहिर्मुखी गमन का नियमन है। इसका अभ्यास आसन में सिद्धि प्राप्त करने के बाद किया जाना चाहिए। प्राणायाम के कुल चार प्रकारों में से पहले तीन प्रकार आभ्यान्तरवृत्ति, बाह्यवृत्ति और स्तंभवृत्ति हैं। प्राणायाम के इन घटकों का अभ्यास और इनकी अवधि व्यक्ति की क्षमता के अनुसार होनी चाहिए। ये तीनों प्रकार सबीज प्राणायाम हैं क्योंकि इनके अभ्यास के दौरान ध्यान श्वास पर ही होता है। चौथे प्राणायाम में श्वास-प्रवाह और धारणा के नियमन से परे जाया जाता है। यह श्वास-निःश्वास की गति के परे प्रयत्नरहित और सहज होता है और इसलिये इसे निर्बीज प्राणायाम कहा जाता है। प्राणायाम ज्ञान-ज्योति के आवरण को हटाता है और बुद्धि को अंतःप्रकाशमान बनाता है। प्राणायाम के अभ्यास के द्वारा मस्तिष्क भी धारणा के योग्य बन जाता है। प्राणायाम, जो बहिरंग योग का एक महत्त्वपूर्ण घटक है, न सिर्फ मस्तिष्क को शांत करने की एक विधि है, बल्कि यह धारणा का भी प्रवेश द्वार है। प्राणायाम के बाद योग का अगला चरण प्रत्याहार है।",
+  "references": [
+   "Yoga Sūtra 2.49–2.53"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "id": "YOGA-2017NOV-P2-Q50",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "November",
+  "paper": "Paper II",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) November 2017 (held 5 November 2017), Yoga (100), Paper II: 50 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q13 (the key marks it disputed), Q43 (its answer codes are garbled in the scan), and Q6, Q11, Q27 and Q30, whose intended answer could not be settled from the texts. In Q36 the collection's answer letter contradicts its own explanation; the answer from Haṭha Pradīpikā 4.69 is used."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) prāṇāyāma.**\n\nYS 2.29: *yama-niyamāsana-prāṇāyāma-pratyāhāra-dhāraṇā-dhyāna-samādhayo 'ṣṭāv aṅgāni*. In order: yama, niyama, āsana, **prāṇāyāma** (4th), pratyāhāra, dhāraṇā, dhyāna, samādhi.",
+  "question_type": "mcq",
+  "question_text": "अष्टांग योग का चतुर्थ चरण है:",
+  "options": [
+   "प्रत्याहार",
+   "आसन",
+   "प्राणायाम",
+   "धारणा"
+  ],
+  "passage": "प्राणायाम अष्टांग योग का चतुर्थ चरण है। 'प्राणायाम' शब्द के दो घटक हैं, प्राण और आयाम। प्राण का अर्थ है ऊर्जा, जीवन और चेतना का स्व-ऊर्जाकारी तत्व। यह ब्रह्मांड के समस्त जीवों का सर्जक है। 'आयाम' का अर्थ है खिंचाव, विस्तार और नियमन। जब स्व-ऊर्जाकारी तत्व विस्तार और नियमन के साथ शरीर को अंगीकृत करता है तो यह प्राणायाम कहलाता है। यह एक लयबद्ध क्रम में धारण के साथ श्वासों के अंतर्मुखी और बहिर्मुखी गमन का नियमन है। इसका अभ्यास आसन में सिद्धि प्राप्त करने के बाद किया जाना चाहिए। प्राणायाम के कुल चार प्रकारों में से पहले तीन प्रकार आभ्यान्तरवृत्ति, बाह्यवृत्ति और स्तंभवृत्ति हैं। प्राणायाम के इन घटकों का अभ्यास और इनकी अवधि व्यक्ति की क्षमता के अनुसार होनी चाहिए। ये तीनों प्रकार सबीज प्राणायाम हैं क्योंकि इनके अभ्यास के दौरान ध्यान श्वास पर ही होता है। चौथे प्राणायाम में श्वास-प्रवाह और धारणा के नियमन से परे जाया जाता है। यह श्वास-निःश्वास की गति के परे प्रयत्नरहित और सहज होता है और इसलिये इसे निर्बीज प्राणायाम कहा जाता है। प्राणायाम ज्ञान-ज्योति के आवरण को हटाता है और बुद्धि को अंतःप्रकाशमान बनाता है। प्राणायाम के अभ्यास के द्वारा मस्तिष्क भी धारणा के योग्य बन जाता है। प्राणायाम, जो बहिरंग योग का एक महत्त्वपूर्ण घटक है, न सिर्फ मस्तिष्क को शांत करने की एक विधि है, बल्कि यह धारणा का भी प्रवेश द्वार है। प्राणायाम के बाद योग का अगला चरण प्रत्याहार है।",
+  "references": [
+   "Yoga Sūtra 2.49–2.53"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ }
+]
