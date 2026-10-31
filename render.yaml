@@ -4,7 +4,7 @@ services:
   - type: web
     name: netpyq
     runtime: python
-    plan: starter            # stays on; the free plan sleeps when idle
+    plan: free               # sleeps when idle; switch to "starter" (paid, always on) before real students pay
     region: singapore        # closest Render region to India
     buildCommand: pip install -r requirements.txt
     startCommand: streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
