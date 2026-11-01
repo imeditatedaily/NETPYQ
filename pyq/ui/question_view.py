@@ -175,6 +175,9 @@ def knowledge_box(q: Question, bank: Bank, library: Library, context: str, limit
         if note:
             st.markdown("**Key facts**")
             st.markdown("\n".join(f"- {f}" for f in note.facts))
+            if note.traps:
+                st.markdown("**Common traps**")
+                st.markdown("\n".join(f"- :orange[:material/warning:] {t}" for t in note.traps))
             cites = [library.by_id[s].citation for s in note.sources if s in library.by_id]
             if cites:
                 st.caption("From: " + "; ".join(md(c) for c in cites))

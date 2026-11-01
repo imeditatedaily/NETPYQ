@@ -2,7 +2,9 @@
 
 data/knowledge.json holds written facts:
 
-    {"yoga": {"Bhagavad Gita": {"facts": ["…", "…"], "sources": ["telang-1882-bhagavadgita"]}}, "paper1": {…}}
+    {"yoga": {"Bhagavad Gita": {"facts": ["…", "…"], "traps": ["…"], "sources": ["telang-1882-bhagavadgita"]}}, "paper1": {…}}
+
+"traps" is optional: options that are easily confused, and how to tell them apart.
 
 The question patterns are not written: they are counted from the loaded
 papers, so they grow as papers are added. Nothing here imports Streamlit.
@@ -21,6 +23,7 @@ from .model import QUESTION_TYPES, Question
 class TopicNote:
     facts: tuple[str, ...] = ()
     sources: tuple[str, ...] = ()
+    traps: tuple[str, ...] = ()       # look-alike options and common confusions
 
 
 @dataclass(frozen=True, slots=True)
@@ -50,7 +53,12 @@ def load_knowledge(path: Path) -> KnowledgeBase:
                 problems.append(f'{subject} / {topic}: "facts" must be a list of text')
                 continue
             sources = entry.get("sources") or []
-            notes.setdefault(subject, {})[topic] = TopicNote(tuple(facts), tuple(s for s in sources if isinstance(s, str)))
+            traps = entry.get("traps") or []
+            if not isinstance(traps, list) or not all(isinstance(t, str) and t.strip() for t in traps):
+                problems.append(f'{subject} / {topic}: "traps" must be a list of text')
+                traps = []
+            notes.setdefault(subject, {})[topic] = TopicNote(tuple(facts), tuple(s for s in sources if isinstance(s, str)),
+                                                             tuple(traps))
     return KnowledgeBase(notes, tuple(problems))
 
 
