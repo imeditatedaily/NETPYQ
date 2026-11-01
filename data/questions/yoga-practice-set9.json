@@ -1,0 +1,571 @@
+[
+ {
+  "id": "YOGA-PRAC9-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "mcq",
+  "question_text": "The Goraksha Samhita (Goraksha Shataka) teaches a yoga of how many limbs?",
+  "options": [
+   "Eight",
+   "Six",
+   "Four",
+   "Seven"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Six (shadanga)** — asana, pranayama, pratyahara, dharana, dhyana and samadhi, without yama and niyama."
+ },
+ {
+  "id": "YOGA-PRAC9-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which two asanas does the Goraksha Shataka single out?",
+  "options": [
+   "Siddhasana and kamalasana (padmasana)",
+   "Svastikasana and gomukhasana",
+   "Simhasana and bhadrasana",
+   "Vajrasana and virasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Of the 84 lakh asanas, Shiva made 84; of these two are best — siddhasana and kamalasana."
+ },
+ {
+  "id": "YOGA-PRAC9-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Goraksha Shataka, what must a yogi know? Which of the following is NOT in its list?",
+  "options": [
+   "The six chakras",
+   "The sixteen adharas",
+   "The forms of dhyana",
+   "The five vyomas (spaces)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** The yogi must know the six chakras, the sixteen adharas, the two lakshyas and the five vyomas in his own body — otherwise how can he succeed?"
+ },
+ {
+  "id": "YOGA-PRAC9-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Goraksha Shataka, which vayu does not leave even a dead body?",
+  "options": [
+   "Naga",
+   "Kurma",
+   "Devadatta",
+   "Dhananjaya"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Dhananjaya**, all-pervading (*na jahāti mṛtaṃ cāpi sarvavyāpī dhanañjayaḥ*). Naga causes belching, kurma blinking, krikara hunger and sneezing, devadatta yawning."
+ },
+ {
+  "id": "YOGA-PRAC9-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "match",
+  "question_text": "Match the five main pranas with their seats in the Goraksha Shataka.",
+  "options": [
+   "A-i, B-ii, C-iii, D-v, E-iv",
+   "A-iii, B-ii, C-i, D-v, E-iv",
+   "A-iii, B-ii, C-v, D-i, E-iv",
+   "A-ii, B-iii, C-i, D-v, E-iv"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Prana dwells in the heart, apana in the anus, samana in the navel, udana in the throat and vyana throughout the body.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Prana",
+     "Apana",
+     "Samana",
+     "Udana",
+     "Vyana"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Navel",
+     "Anus",
+     "Heart",
+     "Whole body",
+     "Throat"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "match",
+  "question_text": "Match the chakras with their number of petals as given in the Goraksha Shataka.",
+  "options": [
+   "A-v, B-ii, C-vi, D-iii, E-iv, F-i",
+   "A-ii, B-v, C-iii, D-vi, E-iv, F-i",
+   "A-v, B-ii, C-iii, D-iv, E-vi, F-i",
+   "A-v, B-ii, C-iii, D-vi, E-iv, F-i"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Four, six, ten, twelve, sixteen and two petals.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Muladhara",
+     "Svadhishthana",
+     "Manipura",
+     "Anahata",
+     "Vishuddhi",
+     "Ajna (bhrumadhya)"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "2",
+     "6",
+     "10",
+     "16",
+     "4",
+     "12"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT among the five mudras of the Goraksha Shataka?",
+  "options": [
+   "Mahamudra",
+   "Uddiyana",
+   "Jalandhara",
+   "Viparita karani"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** The five are mahamudra, nabho mudra, uddiyana, jalandhara and mula bandha."
+ },
+ {
+  "id": "YOGA-PRAC9-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "match",
+  "question_text": "Match the three grades of pranayama in the Goraksha Shataka with their measure and sign.",
+  "options": [
+   "A-iii, B-ii, C-i",
+   "A-ii, B-i, C-iii",
+   "A-i, B-iii, C-ii",
+   "A-iii, B-i, C-ii"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Twelve matras in the lowest, twice that in the middle, three times in the highest; they produce sweat, trembling and rising (*sthānam āpnoti*) respectively.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Lowest (adhama)",
+     "Middle (madhyama)",
+     "Highest (uttama)"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "24 matras — trembling",
+     "36 matras — the body rises",
+     "12 matras — sweating"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Goraksha Shataka, twelve pranayamas make one pratyahara and twelve pratyaharas make one dharana. What do 144 pranayamas make?",
+  "options": [
+   "Pratyahara",
+   "Dharana",
+   "Dhyana",
+   "Samadhi"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Dharana** (12 × 12). Twelve dharanas make dhyana, and twelve dhyanas samadhi."
+ },
+ {
+  "id": "YOGA-PRAC9-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "match",
+  "question_text": "In the Goraksha Shataka, match each limb with what it removes or brings.",
+  "options": [
+   "A-i, B-ii, C-iv, D-iii, E-vi, F-v",
+   "A-ii, B-i, C-iv, D-iii, E-vi, F-v",
+   "A-ii, B-iv, C-i, D-iii, E-v, F-vi",
+   "A-ii, B-i, C-iii, D-iv, E-vi, F-v"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** *āsanena rujo hanti prāṇāyāmena pātakam, vikāraṃ mānasaṃ yogī pratyāhāreṇa muñcati; dhāraṇābhir mano-dhairyaṃ yāti caitanyam adbhutam; samādhau mokṣam āpnoti tyaktvā karma śubhāśubham*.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Asana",
+     "Pranayama",
+     "Pratyahara",
+     "Dharana",
+     "Dhyana",
+     "Samadhi"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Sin",
+     "Disease",
+     "Steadiness of mind",
+     "Mental disturbance",
+     "Abandoning good and bad karma",
+     "Wonderful awareness (chaitanya)"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "match",
+  "question_text": "Match the five dharanas of the Goraksha Shataka with their power.",
+  "options": [
+   "A-ii, B-i, C-iii, D-v, E-iv",
+   "A-ii, B-iii, C-i, D-iv, E-v",
+   "A-ii, B-i, C-iv, D-v, E-iii",
+   "A-i, B-ii, C-iii, D-v, E-iv"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Earth fixes, water melts, fire burns, air moves and space dries.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Earth",
+     "Water",
+     "Fire",
+     "Air",
+     "Space"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Dravini (melting)",
+     "Stambhini (fixing)",
+     "Dahini (burning)",
+     "Shoshini (drying)",
+     "Bhramini (moving)"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "mcq",
+  "question_text": "The Yoga Bija is presented as a dialogue between",
+  "options": [
+   "Shiva and Parvati",
+   "Valmiki and Rama",
+   "Vasishtha and Shakti",
+   "Gheranda and Chanda Kapali"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Parvati asks and Shiva (Ishvara) answers. (The Gheranda Samhita is Gheranda's teaching to Chanda Kapali; the Yoga Vasishtha is Vasishtha's to Rama.)"
+ },
+ {
+  "id": "YOGA-PRAC9-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "mcq",
+  "question_text": "How does the Yoga Bija define yoga?",
+  "options": [
+   "The cessation of the modifications of the mind",
+   "Union of prana and apana, of sun and moon, and of the individual and supreme self",
+   "Equanimity in success and failure",
+   "Skill in action"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The union of apana and prana, of one's rajas and retas, of sun and moon, and of jivatma and paramatma — the joining of all pairs of opposites — is called yoga."
+ },
+ {
+  "id": "YOGA-PRAC9-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "match",
+  "question_text": "The Yoga Bija describes one mahayoga in four forms. Match them.",
+  "options": [
+   "A-iv, B-ii, C-iii, D-i",
+   "A-ii, B-iii, C-iv, D-i",
+   "A-ii, B-iv, C-iii, D-i",
+   "A-ii, B-iv, C-i, D-iii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** *hakāreṇa tu sūryaḥ syāt ṭhakāreṇendur ucyate, sūryācandramasor aikyaṃ haṭha ity abhidhīyate*.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Mantra yoga",
+     "Hatha yoga",
+     "Laya yoga",
+     "Raja yoga"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Union of rajas and retas",
+     "Repetition of 'so'ham' (ajapa)",
+     "Union of kshetra and kshetrajna",
+     "Union of the sun (ha) and moon (tha)"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In the Yoga Bija, kumbhaka is of how many kinds?",
+  "options": [
+   "Four",
+   "Three",
+   "Two",
+   "One"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Two** — sahita and kevala. Sahita in turn has four forms: suryabheda, ujjayi, shitali and bhastrika."
+ },
+ {
+  "id": "YOGA-PRAC9-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which four pranayamas make up sahita kumbhaka in the Yoga Bija?",
+  "options": [
+   "Suryabheda, ujjayi, sitkari, bhastrika",
+   "Suryabheda, ujjayi, kevali, murchha",
+   "Ujjayi, sitkari, bhramari, shitali",
+   "Suryabheda, ujjayi, shitali, bhastrika"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Suryabheda removes vata disorders, ujjayi may be done at any time, shitali removes pitta and bhastrika removes all three doshas and awakens kundalini."
+ },
+ {
+  "id": "YOGA-PRAC9-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "match",
+  "question_text": "In the Yoga Bija, match the granthis with where they are pierced.",
+  "options": [
+   "A-iii, B-i, C-ii",
+   "A-i, B-iii, C-ii",
+   "A-ii, B-i, C-iii",
+   "A-iii, B-ii, C-i"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** As kundalini rises, the brahma granthi opens at the mouth of sushumna, the vishnu granthi at the heart and the rudra granthi at the crown. Asamprajnata samadhi comes when prana with kundalini reaches the sahasrara.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Brahma granthi",
+     "Vishnu granthi",
+     "Rudra granthi"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "At the anahata chakra",
+     "At the sahasrara",
+     "At the mouth of sushumna"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC9-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 12 (Goraksha Samhita / Goraksha Shataka and Yoga Bija). From the GPYS (Pundlik) Goraksha Samhita and Yogabija MCQ PDFs in the notes folder; only items confirmable from the texts kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Yoga Bija, how many siddhis are there, in kind?",
+  "options": [
+   "Four",
+   "Two — kalpita and akalpita",
+   "Five",
+   "Eight"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Kalpita (artificial) siddhis come from herbs, mantras and rites and are weak and short-lived; akalpita (natural) ones arise from yoga itself and are lasting."
+ }
+]
