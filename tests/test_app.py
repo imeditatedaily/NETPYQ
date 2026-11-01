@@ -139,9 +139,16 @@ def test_filters_scope_practice(at):
     assert at.metric[3].value == "1 of 1"
 
 
-@pytest.mark.parametrize("page", ["analytics", "bank", "library", "review"])
+@pytest.mark.parametrize("page", ["analytics", "bank", "knowledge", "library", "review"])
 def test_every_page_renders_without_errors(at, page):
     at.session_state["goto"] = page
     at = at.run()
     assert not at.exception, [e.message for e in at.exception]
     assert at.title
+
+
+def test_every_answer_is_followed_by_the_knowledge_base_box(app):
+    app = answer(app, 1)
+    md = texts(app)
+    assert "Knowledge Base:" in md and "How this topic is asked" in md
+    assert "Key facts for this topic are being written" not in md

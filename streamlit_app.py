@@ -9,8 +9,8 @@ import streamlit as st
 
 from pyq.filters import ALL
 from pyq.syllabus import SUBJECTS
-from pyq.ui import (account, admin_page, analytics_page, bank_page, legal, library_page, plans_page, practice_page,
-                    review_page, sidebar, state, style)
+from pyq.ui import (account, admin_page, analytics_page, bank_page, knowledge_page, legal, library_page, plans_page,
+                    practice_page, review_page, sidebar, state, style)
 
 st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
@@ -23,6 +23,7 @@ PAGES = {
     "practice": st.Page(practice_page.render, title="Practice", icon=":material/quiz:", default=True),
     "review": st.Page(review_page.render, title="Review Mistakes", icon=":material/replay:", url_path="review"),
     "analytics": st.Page(analytics_page.render, title="Performance Analytics", icon=":material/monitoring:", url_path="analytics"),
+    "knowledge": st.Page(knowledge_page.render, title="Knowledge Base", icon=":material/school:", url_path="knowledge"),
     "bank": st.Page(bank_page.render, title="Question Bank", icon=":material/table_chart:", url_path="bank"),
     "plans": st.Page(plans_page.render, title="Subscription", icon=":material/workspace_premium:", url_path="plans"),
 }

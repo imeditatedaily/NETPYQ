@@ -19,6 +19,9 @@ QUESTION_DIR = Path(__file__).resolve().parent.parent / "data" / "questions"
 # Trend notes per micro-topic, used by questions that leave trend_analysis empty.
 TOPIC_FILE = Path(__file__).resolve().parent.parent / "data" / "topics.json"
 
+# Knowledge base: key facts per micro-topic, shown after every answer.
+KNOWLEDGE_FILE = Path(__file__).resolve().parent.parent / "data" / "knowledge.json"
+
 # The Source Library: PDFs plus sources/catalog.json.
 SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
 

@@ -62,6 +62,10 @@ See [`data/questions/README.md`](data/questions/README.md) for the format.
 
 The syllabus unit titles in `pyq/syllabus.py` follow NTA's published syllabi via exam portals. Check them against the official PDFs at ugcnet.nta.ac.in.
 
+## Knowledge Base
+
+`data/knowledge.json` holds key facts for every micro-topic in the loaded papers (154 topics), each with the Source Library texts it comes from. After every answer, right or wrong, the question view shows a **Knowledge Base** box: the topic's key facts, how the topic has been asked (how often, in which sessions, in which formats) and the earlier questions on it with their answers. The **Knowledge Base** page lists the same by syllabus unit, with a button to practise each topic. `tests/test_knowledge.py` fails if a topic in the bank has no facts, or if a fact cites a source that isn't in `sources/catalog.json`.
+
 ## Accounts, saved progress and subscriptions
 
 Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers, and the Yoga November 2017, July 2018 and December 2018 papers from a solved-papers collection) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
@@ -90,6 +94,7 @@ pyq/
   tracker.py              attempt log, practice runs, the review loop
   analytics.py            accuracy tables, revision list, frequency counts (pandas)
   library.py              the Source Library catalog
+  knowledge.py            the knowledge base: key facts per topic, and how each topic is asked
   data/samples.py         the 4 sample questions
   access.py               who sees what: free samples, paid subjects, book-sourced questions
   store.py                the database: answers and subscriptions per user (SQLAlchemy)
@@ -98,6 +103,7 @@ pyq/
     account.py            Google sign-in gate, per-user session, subscription actions
     plans_page.py         Subscription page;  admin_page.py: subscribers and usage
 data/questions/           PYQ files, one JSON file per paper
+data/knowledge.json       key facts per micro-topic, with their sources
 data/topics.json          trend notes per micro-topic, used by questions without their own trend_analysis
 sources/                  PDFs + catalog.json for the Source Library
 tests/                    pytest suite, including end-to-end runs with Streamlit's AppTest

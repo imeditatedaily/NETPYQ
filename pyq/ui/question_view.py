@@ -8,6 +8,7 @@ from collections.abc import Callable
 import streamlit as st
 
 from ..analytics import topic_frequency
+from ..knowledge import short_stem, topic_pattern
 from ..bank import Bank
 from ..library import Library
 from ..model import ANSWER_SOURCES, QUESTION_TYPES, Question
@@ -112,6 +113,32 @@ def trend_insight(q: Question, bank: Bank, context: str) -> None:
                       args=(q.subject, q.macro_unit, q.micro_topic))
 
 
+def knowledge_box(q: Question, bank: Bank, library: Library, context: str, limit: int = 8) -> None:
+    """Shown after every answer, right or wrong: the topic's key facts, how it is asked, and earlier questions on it."""
+    kb = state.get_knowledge()
+    note = kb.note(q.subject, q.micro_topic)
+    pattern = topic_pattern(bank.questions, q.subject, q.micro_topic)
+    with st.container(border=True, key=f"kb-{context}-{_css_key(q.id)}"):
+        st.markdown(f"#### :material/school: Knowledge Base: {md(q.micro_topic)}")
+        if note:
+            st.markdown("**Key facts**")
+            st.markdown("\n".join(f"- {f}" for f in note.facts))
+            cites = [library.by_id[s].citation for s in note.sources if s in library.by_id]
+            if cites:
+                st.caption("From: " + "; ".join(md(c) for c in cites))
+        else:
+            st.caption("Key facts for this topic are being written. The explanation above covers this question.")
+        st.markdown(f"**How this topic is asked.** {pattern.sentence()}")
+        earlier = [x for x in pattern.questions if x.id != q.id]
+        if earlier:
+            with st.expander(f"Earlier questions on this topic ({len(earlier)})", icon=":material/history:"):
+                for x in earlier[:limit]:
+                    st.markdown(f"- **{md(x.session_label)}** · {md(short_stem(x))}  \n"
+                                f"  :green[Answer: ({x.correct_answer}) {md(x.correct_text)}]")
+                if len(earlier) > limit:
+                    st.caption(f"…and {len(earlier) - limit} more. Use the button in Trend Insight to practise them all.")
+
+
 def study_links(q: Question, library: Library, context: str) -> None:
     sources = [library.by_id[s] for s in q.source_ids if s in library.by_id]
     if not sources:
@@ -149,5 +176,6 @@ def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: st
     st.markdown(q.detailed_explanation)
     if q.references:
         st.caption("Sources: " + "; ".join(md(r) for r in q.references))
+    knowledge_box(q, bank, library, context)
     trend_insight(q, bank, context)
     study_links(q, library, context)

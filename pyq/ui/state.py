@@ -12,7 +12,8 @@ import streamlit as st
 
 from ..access import visible_bank
 from ..bank import Bank, folder_signature, load_bank
-from ..config import INCLUDE_SAMPLE_QUESTIONS, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE
+from ..config import INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE
+from ..knowledge import KnowledgeBase, load_knowledge
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
 from ..model import Question
@@ -38,6 +39,15 @@ def get_bank() -> Bank:
     """The questions this user may see: free samples plus the subjects they subscribe to."""
     ss = st.session_state
     return visible_bank(get_full_bank(), admin=ss.get("is_admin", False), unlocked=ss.get("unlocked", set()))
+
+
+@st.cache_resource(show_spinner=False)
+def _knowledge(_mtime: float) -> KnowledgeBase:
+    return load_knowledge(KNOWLEDGE_FILE)
+
+
+def get_knowledge() -> KnowledgeBase:
+    return _knowledge(KNOWLEDGE_FILE.stat().st_mtime if KNOWLEDGE_FILE.is_file() else 0.0)
 
 
 @st.cache_resource(show_spinner=False)
