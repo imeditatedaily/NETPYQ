@@ -77,18 +77,8 @@ def _setup_missing() -> list[str]:
 
 
 def _login_screen() -> None:
-    _, mid, _ = st.columns([1, 2, 1])
-    with mid:
-        st.title("UGC NET PYQ Practice")
-        st.markdown(
-            "Real UGC NET previous-year questions, mapped to the syllabus, with a detailed explanation for "
-            "every answer, a mistake-review loop and topic-wise analytics. Your progress is saved to your account.")
-        st.markdown("- Free: try the sample questions after signing in\n"
-                    "- Each subject (Yoga, IKS, Paper 1) unlocks with its own monthly plan")
-        st.button("Sign in with Google", type="primary", icon=":material/login:", on_click=st.login,
-                  args=("google",), width="stretch")
-        st.caption("We only use your Google account's name and email address to keep your progress. "
-                   "See Pricing, Privacy Policy and Terms in the menu above.")
+    from . import landing
+    landing.render()
 
 
 def gate() -> str:
