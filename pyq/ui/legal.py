@@ -65,6 +65,7 @@ syllabus, a detailed explanation for every answer, a mistake-review loop and top
 - Prices are in Indian rupees and include any applicable taxes.
 - Payment is by UPI, debit/credit card or net banking through Razorpay. The subscription renews every
   month until you cancel it on the Subscription page, and runs for at most 12 months.
+- **No refunds.** Payments are final once made. Try the free sample questions first.
 - Access starts as soon as the payment is confirmed.
 """)
     _footer()
@@ -123,8 +124,8 @@ By signing in to or paying for {APP_NAME} you agree to these terms.
 2. **Your account.** You sign in with your own Google account. A subscription is for one person: do not
    share your account or copy, download in bulk, resell or republish the questions or explanations.
 3. **Subscriptions and payment.** Each subject costs ₹{SUBJECT_PRICE_INR} per month, charged through Razorpay
-   and renewed automatically every month (for at most 12 months) until you cancel. See the Pricing and the
-   Cancellation and Refund Policy pages.
+   and renewed automatically every month (for at most 12 months) until you cancel. **Payments are
+   non-refundable**, except for billing errors. See the Pricing and the Cancellation and Refund Policy pages.
 4. **Availability.** We aim to keep the service running but it may occasionally be unavailable for
    maintenance or reasons outside our control.
 5. **Changes.** We may change these terms or prices with notice on this site. A price change applies from
@@ -149,15 +150,14 @@ def refund() -> None:
 or by writing to {d['email']}. No further payments are taken, and you keep access until the end of the month
 you have already paid for.
 
-**Refunds.** Because access to the full question bank starts immediately, monthly payments are generally not
-refundable once the period has started. We do refund in full when:
+**No refunds.** Access to the full question bank starts the moment your payment is confirmed, so **all
+payments are final and non-refundable**, including partly used months. Please try the free sample questions
+before you subscribe. Cancelling stops future payments; it does not refund the current month.
 
-- you were charged twice for the same subject and period, or charged after cancelling;
-- a payment went through but the subject was not unlocked and we could not fix it; or
-- you ask within **48 hours** of your **first** payment for a subject.
-
-Write to **{d['email']}** with your sign-in email and the Razorpay payment ID. Approved refunds are sent to
-the original payment method within **5–7 business days**.
+**Billing errors.** The only exception is a mistake in the charge itself: if you were charged twice for the
+same subject and month, charged after you cancelled, or paid but the subject never unlocked and we could not
+fix it, write to **{d['email']}** with your sign-in email and the Razorpay payment ID. We return the wrong
+charge to the original payment method within **5–7 business days**.
 """)
     _footer()
 
@@ -167,7 +167,7 @@ def shipping() -> None:
     st.markdown(f"""
 {APP_NAME} is a purely online service. **Nothing is shipped.** After payment is confirmed, the subject is
 unlocked in your account straight away, usually within a minute. If it isn't, press *I've paid: check now*
-on the Subscription page, or contact us and we will fix it or refund you.
+on the Subscription page, or contact us and we will fix it (or, if we can't, return the payment).
 """)
     _footer()
 

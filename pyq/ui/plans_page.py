@@ -68,6 +68,9 @@ def render() -> None:
         st.info("Payments aren't open yet. Please check back soon.", icon=":material/construction:")
     st.markdown("Each subject is a separate monthly plan. Pay by UPI, card or net banking on Razorpay's secure page; "
                 "it renews every month until you cancel. The free sample questions stay available to everyone.")
+    st.warning("**No refunds.** Payments are final once made, including partly used months. Cancelling stops "
+               "the next payment only. Please try the free sample questions before subscribing.",
+               icon=":material/info:")
     for subject in SUBJECTS:
         _subject_card(subject, full, sellable)
     st.button("Refresh payment status", icon=":material/sync:", on_click=account.check_payments, type="tertiary")

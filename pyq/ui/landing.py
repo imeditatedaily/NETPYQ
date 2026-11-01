@@ -253,7 +253,7 @@ def _stats_strip(yoga: SubjectStats, total_papers: int, topics: int) -> str:
         (f"{yoga.questions}", "Yoga (100) previous-year questions"),
         (f"{total_papers}", "full exam papers, tagged by year"),
         (f"{topics}", "micro-topics tracked for you"),
-        (f"₹{SUBJECT_PRICE_INR}", "a month per subject. Cancel anytime"),
+        (f"₹{SUBJECT_PRICE_INR}", "a month per subject. Cancel renewal anytime"),
     ]
     return '<div class="lp-stats">' + "".join(
         f'<div class="lp-stat"><strong>{escape(n)}</strong><span>{escape(t)}</span></div>' for n, t in items) + "</div>"
@@ -366,7 +366,7 @@ def _price_card(subject: str, s: SubjectStats, hot: bool) -> str:
 <h3>{escape(title)}</h3><div class="code">{sub}</div>
 <div class="amt">₹{SUBJECT_PRICE_INR}<small> / month</small></div>
 <ul><li>{s.questions} real questions from {s.papers} {paper_word}{span}</li><li>{s.topics} micro-topics with trend insight</li>
-<li>Explanations, review loop and analytics</li><li>Cancel anytime, keep access to period end</li></ul></div>"""
+<li>Explanations, review loop and analytics</li><li>Cancel renewal anytime. No refunds</li></ul></div>"""
 
 
 FREE_CARD = """<div class="lp-price"><h3>Free</h3><div class="code">For everyone who signs in</div>
@@ -385,7 +385,7 @@ def _faq(years_by_subject: dict[str, str]) -> str:
         ("How do I pay, and can I cancel?",
          f"₹{SUBJECT_PRICE_INR} a month per subject, paid by UPI, debit or credit card, or net banking on Razorpay's "
          "secure page. It renews monthly until you cancel on the Subscription page, and you keep access until the end "
-         "of the month you paid for."),
+         "of the month you paid for. Payments are non-refundable, so try the free sample questions first."),
         ("Do I need a separate plan for Paper 1?",
          "Each subject is its own plan, so you pay only for what you're preparing. Most candidates take Paper 1 "
          "plus one Paper 2 subject."),
@@ -434,7 +434,7 @@ def render() -> None:
 
     st.html('<div class="lp-section"><p class="lp-eyebrow">Pricing</p><h2 class="lp-h2">Pay only for the subject '
             '<em>you\'re taking.</em></h2><p class="lp-sub">One simple monthly plan per subject. No bundles, no '
-            'lock-in.</p></div>')
+            'lock-in. All payments are final.</p></div>')
     order = ["free", *SUBJECTS]
     cols = st.columns(len(order), gap="small")
     for col, key in zip(cols, order):
