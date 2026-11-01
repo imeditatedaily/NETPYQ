@@ -11,13 +11,15 @@ from pyq.access import free_paper_label
 from pyq.filters import ALL
 from pyq.syllabus import SUBJECTS
 from pyq.ui import (account, admin_page, analytics_page, bank_page, knowledge_page, legal, library_page, plans_page,
-                    daily_page, mock_page, practice_page, review_page, sidebar, state, style, trends_page)
+                    daily_page, mock_page, practice_page, protect, review_page, sidebar, state, style,
+                    trends_page)
 
 st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
 state.init()
 account.gate()            # stops here with the sign-in screen until the user is signed in
 admin = st.session_state.is_admin
+protect.apply()           # no copying/saving/printing, and an email watermark (not for admins)
 
 PAGES = {
     # The default page always lives at "/", so it takes no url_path.

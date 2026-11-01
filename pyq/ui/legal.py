@@ -103,8 +103,8 @@ support, and keep the service secure. We do not sell your data or use it for adv
 **How long we keep it.** For as long as your account is in use. Payment records may be kept longer where the
 law requires.
 
-**Your rights.** You can download your practice log at any time from the sidebar, clear it with
-*Clear my progress*, and ask us to correct or delete all your data by writing to **{d['email']}**. We reply
+**Your rights.** You can see your progress in the app at any time, clear it with
+*Clear my progress*, and ask us for a copy of your data, or to correct or delete it, by writing to **{d['email']}**. We reply
 within 30 days.
 
 **Cookies.** We use one cookie to keep you signed in. No advertising or tracking cookies.

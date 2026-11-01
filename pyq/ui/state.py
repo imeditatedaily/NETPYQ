@@ -5,7 +5,6 @@ so the log comes back after a refresh or on another device. The current
 practice attempt and review loop live only in the browser tab.
 """
 
-import json
 from datetime import datetime
 
 import streamlit as st
@@ -17,7 +16,7 @@ from ..knowledge import KnowledgeBase, load_knowledge
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
 from ..model import Question
-from ..tracker import (Answer, PracticeRun, ReviewLoop, answers_from_dicts, make_answer, new_run,
+from ..tracker import (Answer, PracticeRun, ReviewLoop, make_answer, new_run,
                        outstanding_mistakes, start_review)
 
 FILTER_KEYS = {"subject": "f_subject", "session": "f_session", "unit": "f_unit", "topic": "f_topic", "qtype": "f_qtype"}
@@ -69,7 +68,6 @@ def init() -> None:
     ss.setdefault("review", None)       # current ReviewLoop
     ss.setdefault("runs_started", 0)
     ss.setdefault("loops_started", 0)
-    ss.setdefault("upload_nonce", 0)
     ss.setdefault("shuffle", False)
     ss.setdefault("is_admin", False)
     ss.setdefault("unlocked", set())
@@ -199,30 +197,6 @@ def advance_review() -> None:
 
 def close_loop() -> None:
     st.session_state.review = None
-
-
-# --- saving and restoring the log --------------------------------------------------------
-
-def log_json() -> str:
-    return json.dumps([a.to_dict() for a in log()], ensure_ascii=False, indent=1)
-
-
-def load_log_file(uploader_key: str) -> None:
-    ss = st.session_state
-    upload = ss.get(uploader_key)
-    if upload is None:
-        return
-    try:
-        restored = answers_from_dicts(json.loads(upload.getvalue().decode("utf-8")))
-    except (ValueError, UnicodeDecodeError) as e:
-        notice(f"Could not load that file: {e}", ":material/error:")
-    else:
-        from . import account
-        ss.log = restored
-        ss.review = None
-        account.save_all_answers(restored)
-        notice(f"Restored {len(restored)} logged answers.", ":material/upload:")
-    ss.upload_nonce += 1  # a fresh uploader widget, so the same file can be loaded again
 
 
 def reset_session() -> None:
