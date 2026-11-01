@@ -18,7 +18,7 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 
 | Paper | Questions | Answers |
 |---|---|---|
-| UGC NET (CBSE) January 2017, Yoga Paper II (booklet JA-100-17, English version) | 50 | Worked out from the primary texts and matched against a published solved-papers key. Q43 and Q44 are marked *unverified*: their answers could not be lined up with that key in the scanned copy. |
+| UGC NET (CBSE) January 2017, Yoga Paper II (booklet JA-100-17, English version) | 50 | Worked out from the primary texts and matched against a published solved-papers key. All 50 now match it (Q43 and Q44 were confirmed against the collection's Hindi edition). |
 | UGC NET (CBSE) November 2017, Yoga Paper II, **Hindi** | 44 | From a published solved-papers collection (admins only). Answers worked out from the texts and checked against its key; six items left out. |
 | UGC NET (CBSE) July 2018, Yoga Paper II, **Hindi** | 87 | From the same collection (admins only); thirteen garbled or disputed items left out. |
 | UGC NET (NTA) December 2018, Yoga Paper 2, **Hindi** | 80 | From the same collection (admins only), with both reading passages. Q12 and Q26 were cancelled by NTA; eighteen garbled or unsettled items left out. |
