@@ -1,0 +1,1928 @@
+[
+ {
+  "id": "P1-2022DEC-Q01",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The ratio of the number of females to the number of males in City-E working in SBI, UCO and IOB together is:",
+  "options": [
+   "173 : 175",
+   "173 : 177",
+   "172 : 177",
+   "172 : 175"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 172 : 177.** City E females: SBI 120 + UCO 234 + IOB 334 = 688; males: 234 + 350 + 124 = 708. 688 : 708 = 172 : 177.",
+  "passage": "The table below shows the number of males (M) and females (F) working in six Nationalized Banks in India, namely SBI, PNB, UCO, BOB, IOB and UBI, located across six cities A–F. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of Employees in Banks",
+   "columns": [
+    "City",
+    "SBI M",
+    "SBI F",
+    "PNB M",
+    "PNB F",
+    "UCO M",
+    "UCO F",
+    "BOB M",
+    "BOB F",
+    "IOB M",
+    "IOB F",
+    "UBI M",
+    "UBI F"
+   ],
+   "rows": [
+    [
+     "A",
+     "553",
+     "224",
+     "673",
+     "116",
+     "443",
+     "500",
+     "534",
+     "454",
+     "256",
+     "235",
+     "556",
+     "357"
+    ],
+    [
+     "B",
+     "254",
+     "456",
+     "346",
+     "256",
+     "366",
+     "345",
+     "478",
+     "285",
+     "256",
+     "166",
+     "346",
+     "287"
+    ],
+    [
+     "C",
+     "457",
+     "388",
+     "346",
+     "456",
+     "124",
+     "456",
+     "235",
+     "235",
+     "574",
+     "599",
+     "589",
+     "190"
+    ],
+    [
+     "D",
+     "114",
+     "378",
+     "124",
+     "235",
+     "235",
+     "388",
+     "255",
+     "175",
+     "324",
+     "198",
+     "189",
+     "256"
+    ],
+    [
+     "E",
+     "234",
+     "120",
+     "241",
+     "156",
+     "350",
+     "234",
+     "124",
+     "165",
+     "124",
+     "334",
+     "155",
+     "181"
+    ],
+    [
+     "F",
+     "353",
+     "325",
+     "348",
+     "174",
+     "399",
+     "439",
+     "358",
+     "234",
+     "125",
+     "235",
+     "278",
+     "192"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2022DEC-Q02",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The approximate percentage of the number of females with respect to the number of males across all the banks together in City-B is:",
+  "options": [
+   "88%",
+   "98%",
+   "78%",
+   "86%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 88%.** City B females 456+256+345+285+166+287 = 1795; males 254+346+366+478+256+346 = 2046; 1795 ÷ 2046 ≈ 87.7%.",
+  "passage": "The table below shows the number of males (M) and females (F) working in six Nationalized Banks in India, namely SBI, PNB, UCO, BOB, IOB and UBI, located across six cities A–F. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of Employees in Banks",
+   "columns": [
+    "City",
+    "SBI M",
+    "SBI F",
+    "PNB M",
+    "PNB F",
+    "UCO M",
+    "UCO F",
+    "BOB M",
+    "BOB F",
+    "IOB M",
+    "IOB F",
+    "UBI M",
+    "UBI F"
+   ],
+   "rows": [
+    [
+     "A",
+     "553",
+     "224",
+     "673",
+     "116",
+     "443",
+     "500",
+     "534",
+     "454",
+     "256",
+     "235",
+     "556",
+     "357"
+    ],
+    [
+     "B",
+     "254",
+     "456",
+     "346",
+     "256",
+     "366",
+     "345",
+     "478",
+     "285",
+     "256",
+     "166",
+     "346",
+     "287"
+    ],
+    [
+     "C",
+     "457",
+     "388",
+     "346",
+     "456",
+     "124",
+     "456",
+     "235",
+     "235",
+     "574",
+     "599",
+     "589",
+     "190"
+    ],
+    [
+     "D",
+     "114",
+     "378",
+     "124",
+     "235",
+     "235",
+     "388",
+     "255",
+     "175",
+     "324",
+     "198",
+     "189",
+     "256"
+    ],
+    [
+     "E",
+     "234",
+     "120",
+     "241",
+     "156",
+     "350",
+     "234",
+     "124",
+     "165",
+     "124",
+     "334",
+     "155",
+     "181"
+    ],
+    [
+     "F",
+     "353",
+     "325",
+     "348",
+     "174",
+     "399",
+     "439",
+     "358",
+     "234",
+     "125",
+     "235",
+     "278",
+     "192"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2022DEC-Q03",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The number of females working in UCO from City-A is approximately ___ % more than the number of females working in PNB from the same city.",
+  "options": [
+   "278%",
+   "182%",
+   "180%",
+   "331%"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 331%.** City A females: UCO 500, PNB 116. (500 − 116) ÷ 116 ≈ 331%.",
+  "passage": "The table below shows the number of males (M) and females (F) working in six Nationalized Banks in India, namely SBI, PNB, UCO, BOB, IOB and UBI, located across six cities A–F. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of Employees in Banks",
+   "columns": [
+    "City",
+    "SBI M",
+    "SBI F",
+    "PNB M",
+    "PNB F",
+    "UCO M",
+    "UCO F",
+    "BOB M",
+    "BOB F",
+    "IOB M",
+    "IOB F",
+    "UBI M",
+    "UBI F"
+   ],
+   "rows": [
+    [
+     "A",
+     "553",
+     "224",
+     "673",
+     "116",
+     "443",
+     "500",
+     "534",
+     "454",
+     "256",
+     "235",
+     "556",
+     "357"
+    ],
+    [
+     "B",
+     "254",
+     "456",
+     "346",
+     "256",
+     "366",
+     "345",
+     "478",
+     "285",
+     "256",
+     "166",
+     "346",
+     "287"
+    ],
+    [
+     "C",
+     "457",
+     "388",
+     "346",
+     "456",
+     "124",
+     "456",
+     "235",
+     "235",
+     "574",
+     "599",
+     "589",
+     "190"
+    ],
+    [
+     "D",
+     "114",
+     "378",
+     "124",
+     "235",
+     "235",
+     "388",
+     "255",
+     "175",
+     "324",
+     "198",
+     "189",
+     "256"
+    ],
+    [
+     "E",
+     "234",
+     "120",
+     "241",
+     "156",
+     "350",
+     "234",
+     "124",
+     "165",
+     "124",
+     "334",
+     "155",
+     "181"
+    ],
+    [
+     "F",
+     "353",
+     "325",
+     "348",
+     "174",
+     "399",
+     "439",
+     "358",
+     "234",
+     "125",
+     "235",
+     "278",
+     "192"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2022DEC-Q04",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The total number of females working across all the six cities together is more than 1700 in:",
+  "options": [
+   "all the six banks",
+   "exactly three banks",
+   "exactly four banks",
+   "exactly two banks"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) exactly three banks.** Female totals: SBI 1891, PNB 1393, UCO 2362, BOB 1548, IOB 1767, UBI 1463 — only SBI, UCO and IOB exceed 1700.",
+  "passage": "The table below shows the number of males (M) and females (F) working in six Nationalized Banks in India, namely SBI, PNB, UCO, BOB, IOB and UBI, located across six cities A–F. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of Employees in Banks",
+   "columns": [
+    "City",
+    "SBI M",
+    "SBI F",
+    "PNB M",
+    "PNB F",
+    "UCO M",
+    "UCO F",
+    "BOB M",
+    "BOB F",
+    "IOB M",
+    "IOB F",
+    "UBI M",
+    "UBI F"
+   ],
+   "rows": [
+    [
+     "A",
+     "553",
+     "224",
+     "673",
+     "116",
+     "443",
+     "500",
+     "534",
+     "454",
+     "256",
+     "235",
+     "556",
+     "357"
+    ],
+    [
+     "B",
+     "254",
+     "456",
+     "346",
+     "256",
+     "366",
+     "345",
+     "478",
+     "285",
+     "256",
+     "166",
+     "346",
+     "287"
+    ],
+    [
+     "C",
+     "457",
+     "388",
+     "346",
+     "456",
+     "124",
+     "456",
+     "235",
+     "235",
+     "574",
+     "599",
+     "589",
+     "190"
+    ],
+    [
+     "D",
+     "114",
+     "378",
+     "124",
+     "235",
+     "235",
+     "388",
+     "255",
+     "175",
+     "324",
+     "198",
+     "189",
+     "256"
+    ],
+    [
+     "E",
+     "234",
+     "120",
+     "241",
+     "156",
+     "350",
+     "234",
+     "124",
+     "165",
+     "124",
+     "334",
+     "155",
+     "181"
+    ],
+    [
+     "F",
+     "353",
+     "325",
+     "348",
+     "174",
+     "399",
+     "439",
+     "358",
+     "234",
+     "125",
+     "235",
+     "278",
+     "192"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2022DEC-Q05",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The difference between the number of males working across all the six banks together in City-C and the number of males working across all the six banks together in City-D is:",
+  "options": [
+   "1022",
+   "1214",
+   "1198",
+   "1084"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 1084.** Males in City C: 457+346+124+235+574+589 = 2325; City D: 114+124+235+255+324+189 = 1241; difference 1084.",
+  "passage": "The table below shows the number of males (M) and females (F) working in six Nationalized Banks in India, namely SBI, PNB, UCO, BOB, IOB and UBI, located across six cities A–F. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of Employees in Banks",
+   "columns": [
+    "City",
+    "SBI M",
+    "SBI F",
+    "PNB M",
+    "PNB F",
+    "UCO M",
+    "UCO F",
+    "BOB M",
+    "BOB F",
+    "IOB M",
+    "IOB F",
+    "UBI M",
+    "UBI F"
+   ],
+   "rows": [
+    [
+     "A",
+     "553",
+     "224",
+     "673",
+     "116",
+     "443",
+     "500",
+     "534",
+     "454",
+     "256",
+     "235",
+     "556",
+     "357"
+    ],
+    [
+     "B",
+     "254",
+     "456",
+     "346",
+     "256",
+     "366",
+     "345",
+     "478",
+     "285",
+     "256",
+     "166",
+     "346",
+     "287"
+    ],
+    [
+     "C",
+     "457",
+     "388",
+     "346",
+     "456",
+     "124",
+     "456",
+     "235",
+     "235",
+     "574",
+     "599",
+     "589",
+     "190"
+    ],
+    [
+     "D",
+     "114",
+     "378",
+     "124",
+     "235",
+     "235",
+     "388",
+     "255",
+     "175",
+     "324",
+     "198",
+     "189",
+     "256"
+    ],
+    [
+     "E",
+     "234",
+     "120",
+     "241",
+     "156",
+     "350",
+     "234",
+     "124",
+     "165",
+     "124",
+     "334",
+     "155",
+     "181"
+    ],
+    [
+     "F",
+     "353",
+     "325",
+     "348",
+     "174",
+     "399",
+     "439",
+     "358",
+     "234",
+     "125",
+     "235",
+     "278",
+     "192"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2022DEC-Q06",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Both students and teachers work harder and persist longer when they have a high sense of efficacy. Which of the following does not enhance self-efficacy in both students and teachers?",
+  "options": [
+   "Day to day success in achieving tasks",
+   "Formal school relationships that focus solely on skills",
+   "Assistance from more knowledgeable partners",
+   "High expectations from those in the environment"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Self-efficacy grows from mastery experiences, help from more capable others and high expectations; relationships that focus solely on skills do not build it."
+ },
+ {
+  "id": "P1-2022DEC-Q07",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Direct instruction is most suited when teachers:",
+  "options": [
+   "teach basic skills",
+   "have their students explore pathways to solve a mathematics problems",
+   "encourage their students to refine their creativity in art",
+   "assign critical thinking exercises"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Direct (explicit) instruction works best for teaching basic skills and well-structured content; open exploration, creativity and critical thinking suit learner-centred methods."
+ },
+ {
+  "id": "P1-2022DEC-Q08",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-III, B-IV, C-II, D-I",
+   "A-III, B-I, C-IV, D-II",
+   "A-IV, B-I, C-II, D-III",
+   "A-IV, B-I, C-IIL, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-I, C-IV, D-II.** Kolb: converger — abstract conceptualisation + active experimentation; diverger — concrete experience + reflective observation; assimilator — abstract conceptualisation + reflective observation; accommodator — concrete experience + active experimentation.",
+  "lists": {
+   "list_i": {
+    "title": "List I (learning style)",
+    "items": [
+     "Converger",
+     "Diverger",
+     "Assimilator",
+     "Accommodator"
+    ]
+   },
+   "list_ii": {
+    "title": "List II (Learning characteristics)",
+    "items": [
+     "Concrete experience and reflective observation",
+     "Concrete experience and active experimentation",
+     "Abstract conceptualization and Active experimentation",
+     "Abstract conceptualization and reflective observation"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q09",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-III, B-IV, C-II, D-I",
+   "A-II, B-IV, C-IIl, D-I",
+   "A-III, B-II, C-IV, D-I",
+   "A-III, B-I, C-II, D-IV"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-III, B-IV, C-II, D-I.** Semantic — general knowledge; episodic — life events; autobiographical — sense of self and own history; spatial — remembering a route.",
+  "lists": {
+   "list_i": {
+    "title": "List I (Type of memory)",
+    "items": [
+     "Semantic",
+     "Episodic",
+     "Autobiographical",
+     "Spatial"
+    ]
+   },
+   "list_ii": {
+    "title": "List II (Meaning)",
+    "items": [
+     "Memory of remembering the route to drive home",
+     "Memory that contributes to your sense of self, your own history or identity",
+     "Memory of General knowledge",
+     "Memory of life events that happened to you or around you"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q10",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "If you want to assess the students performance and want to give them immediate feedback, which software will you select?",
+  "options": [
+   "Kahoot",
+   "Animaker",
+   "Plotagon",
+   "Powtoon"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Kahoot** — a game-based quiz platform that scores answers instantly. Animaker, Plotagon and Powtoon make animated videos."
+ },
+ {
+  "id": "P1-2022DEC-Q11",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "question_type": "sequence",
+  "question_text": "Arrange the following research components in correct sequence:",
+  "options": [
+   "A, D, B, E, C",
+   "D, A, B, E, C",
+   "B, D, A, C, E",
+   "A, B, D, C, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) D, A, B, E, C.** Research question → research plan → data collection → analysis → conclusion.",
+  "items": [
+   "Preparing a research plan",
+   "Collecting Data",
+   "Drawing conclusion",
+   "Formulating a research question/objectives",
+   "Analyzing data"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q12",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "In a data set any extreme value, either very large or very small, compared to the rest of the data, is said to be:",
+  "options": [
+   "Exceedance",
+   "Outlier",
+   "Extreme",
+   "Outsider"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Outlier** — a value far from the rest of the data."
+ },
+ {
+  "id": "P1-2022DEC-Q13",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "statements",
+  "question_text": "In online surveys, which of the following are sampling issues ?",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "A, C and D only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B and C only.** Shared computers, multiple e-mail IDs per person and the bias of internet users all distort the sample; cheapness and government restrictions are not sampling issues.",
+  "items": [
+   "People in a household may use the same computer, as they have access to only one.",
+   "Many respondents may have multiple email IDS.",
+   "Internet users constitute a biased sample of the population",
+   "Sampling frames for online surveys are cheap.",
+   "The governments restrict online surveys."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q14",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "Mean of a data set is equivalent to:",
+  "options": [
+   "First quartile of that data",
+   "Second quartile of that data",
+   "Third quartile of that data",
+   "Interquartile range of that data"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2)** (as printed the question says 'mean'). The second quartile equals the **median**; the mean equals it only in a symmetric distribution. NTA most likely intended 'median'."
+ },
+ {
+  "id": "P1-2022DEC-Q15",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: Like correlation, statistical regression examines the association or relationship between variables. Statement II: The primary purpose of regression is prediction.",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Regression, like correlation, studies the relationship between variables, and its main purpose is prediction."
+ },
+ {
+  "id": "P1-2022DEC-Q16",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "In governance, communication is normally used as a means of:",
+  "options": [
+   "Gender division",
+   "Preserving power",
+   "Encouraging illegal actions",
+   "Alienating the masses"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Preserving power.**"
+ },
+ {
+  "id": "P1-2022DEC-Q17",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "question_type": "mcq",
+  "question_text": "A good part of communication in human society is through:",
+  "options": [
+   "Para language",
+   "Infographics",
+   "Formal language",
+   "Hidden emotions"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Paralanguage** — tone, pitch and other vocal cues carry much of human communication."
+ },
+ {
+  "id": "P1-2022DEC-Q18",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "statements",
+  "question_text": "Which of the following elements involving social positions are determinants of communication from the eastern perspectives?",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "A, C and E only",
+   "C, D and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C, D and E only.** Eastern perspectives stress social position: role, status and power, rather than ego-centric individualism.",
+  "items": [
+   "Absence of leadership",
+   "Ego-centric individualism",
+   "Role",
+   "Status",
+   "Power"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q19",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: The linear model of communication is used for generating intentional results. Statement II: The linear model of communication was the basis of propaganda during the World War II.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The one-way linear (transmission) model aims at intended effects and underpinned wartime propaganda."
+ },
+ {
+  "id": "P1-2022DEC-Q20",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: Coercive communication is ethical, powerful and result-oriented. Statement II: In international power politics, unethical propagandist communication promotes national prestige and security.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Coercive communication is not ethical, and unethical propaganda does not truly promote national prestige and security."
+ },
+ {
+  "id": "P1-2022DEC-Q21",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "question_type": "mcq",
+  "question_text": "Find the next term in the series given below: −7, −5, −1, 5, 13, ?",
+  "options": [
+   "18",
+   "20",
+   "23",
+   "17"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 23.** Differences +2, +4, +6, +8, so next +10: 13 + 10 = 23."
+ },
+ {
+  "id": "P1-2022DEC-Q22",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "N men can complete a job in 12 days. The same job can be completed by (N+6) men in 8 days. Find the value of N",
+  "options": [
+   "9",
+   "11",
+   "8",
+   "12"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 12.** 12N = 8(N + 6) → 4N = 48 → N = 12."
+ },
+ {
+  "id": "P1-2022DEC-Q23",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "A beggar has Rs. 15 comprising of 50 coins of 25 paisa and 50 paisa. How many 25 paisa and 50 paisa coins are there with the beggar respectively?",
+  "options": [
+   "40, 10",
+   "30, 20",
+   "35,15",
+   "36, 14"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 40, 10.** x + y = 50 and 25x + 50y = 1500 → y = 10, x = 40."
+ },
+ {
+  "id": "P1-2022DEC-Q24",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "If the price of sugar increases by 25%, determine the percentage by which its consumption be reduced so as not to increase the expenditure on it?",
+  "options": [
+   "25%",
+   "30%",
+   "20%",
+   "35%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 20%.** Reduction = 25 ÷ 125 = 20%."
+ },
+ {
+  "id": "P1-2022DEC-Q25",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Directions and distances",
+  "question_type": "mcq",
+  "question_text": "A lady while going to her college in a car drove 20 kms towards north and then 15 kms towards west. She then turned to the south and covered 10 kms. Further she turned to the east and moved 12 kms. Finally she turned right and drove 10 kms. How far and in which direction is the lady from her starting point ?",
+  "options": [
+   "5 km, South",
+   "5 km West",
+   "3 km, West",
+   "3 km, North"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 3 km, West.** N20, W15, S10, E12 leaves her at (−3, +10); turning right while facing east means driving 10 km south, back to the starting line 3 km west."
+ },
+ {
+  "id": "P1-2022DEC-Q26",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "mcq",
+  "question_text": "\"Environmentalists are continually harping about the dangers of nuclear power. Unfortunately, electricity is dangerous no matter where it comes from. Every year hundreds of people are electrocuted by accident. Since most of these accidents are caused by carelessness they could be avoided if people would just exercise greater caution.\" Which fallacy is committed in the above argument?",
+  "options": [
+   "Red Herring",
+   "Slippery Slope",
+   "Strawman",
+   "Hasty Generalization"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Red herring** — the argument switches from the dangers of nuclear power to electrocution accidents in general."
+ },
+ {
+  "id": "P1-2022DEC-Q27",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "question_type": "mcq",
+  "question_text": "Which of the following statement is logically equivalent to \"No birds are mammals\"?",
+  "options": [
+   "Some birds are not mammals.",
+   "Some non-birds are mammals.",
+   "No mammals are birds.",
+   "All non-birds are mammals."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** An E proposition converts simply: 'No birds are mammals' = 'No mammals are birds'."
+ },
+ {
+  "id": "P1-2022DEC-Q28",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "question_type": "mcq",
+  "question_text": "Which of the following is contrary to the statement \"No mammals are birds\"?",
+  "options": [
+   "No birds are mammals.",
+   "Some mammals are birds.",
+   "All mammals are birds.",
+   "Some birds are mammals."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** The contrary of the E proposition 'No mammals are birds' is the A proposition 'All mammals are birds'."
+ },
+ {
+  "id": "P1-2022DEC-Q29",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "question_type": "mcq",
+  "question_text": "If the statement \"Some animals are birds\" is given as false then which of the following statements can be immediately inferred to be false?",
+  "options": [
+   "Some birds fly.",
+   "Some animals are not birds.",
+   "No animals are birds.",
+   "All animals are birds."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** If the I proposition is false, its contradictory E ('No animals are birds') is true and its superaltern A ('All animals are birds') is false."
+ },
+ {
+  "id": "P1-2022DEC-Q30",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: According to Classical Indian School of logic (Nyaya) one can infer for oneself. Statement II: According to Nyaya school inferring for oneself is a psychological process and does not require the formal statement of the different members of a syllogism.",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Nyāya distinguishes svārthānumāna (inference for oneself, a mental process needing no formal statement) from parārthānumāna (the five-membered syllogism for others)."
+ },
+ {
+  "id": "P1-2022DEC-Q31",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "question_type": "mcq",
+  "question_text": "_______ is a set of rules that must be obeyed when transferring files across the Internet.",
+  "options": [
+   "HTML",
+   "URL",
+   "HTTP",
+   "ISP"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) HTTP** — the protocol (set of rules) for transferring files on the web. HTML is a markup language, URL an address, ISP a provider."
+ },
+ {
+  "id": "P1-2022DEC-Q32",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "The action of sending emails to fraudulently obtain another person's bank details is called:",
+  "options": [
+   "Phishing",
+   "Pharming",
+   "Spamming",
+   "Smishing"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Phishing.** Pharming redirects to fake sites, spamming is bulk mail, smishing uses SMS."
+ },
+ {
+  "id": "P1-2022DEC-Q33",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Which of the following are the advantages in using Solid State Drives (SSDs) rather than Hard Disk Drives (HDDs) in Laptop computers?",
+  "options": [
+   "A and B only",
+   "A and C only",
+   "B and C only",
+   "A, B and C"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A and B only.** SSDs are lighter and use less power; they are thinner, not thicker.",
+  "items": [
+   "SSD is much lighter than HDD.",
+   "SSD has a lower power consumption than HDD.",
+   "SSDs are thick compared to HDDs due to no moving parts."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q34",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-II, B-IV, C-I, D-III",
+   "A-III, B-IV, C-I, D-II",
+   "A-I, B-II, C-IV, D-III",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-IV, C-I, D-II.** 100000₂ = 32; 80 MB = 640 Mb ÷ 80 Mbps = 8 s; 80 MB compressed by 90% = 8 MB, 800 ÷ 8 = 100 files; hex E = 14.",
+  "lists": {
+   "list_i": {
+    "title": "List I (Statement)",
+    "items": [
+     "Base-10 (denary) value of the binary number: 100000",
+     "Internet service provider advertises a download speed of 80 megabits per second. What is the time taken in seconds to download an 80 megabyte file?",
+     "A music file is 80 megabytes in size and MP3 file compression reduces the size of a music file by 90%. The number of MP3 files of the size after compression that can be stored on an 800 MB CD",
+     "What is the denary (base-10) equivalent to the hexadecimal digit E?"
+    ]
+   },
+   "list_ii": {
+    "title": "List II (Value)",
+    "items": [
+     "100",
+     "14",
+     "32",
+     "8"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q35",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: CDs and DVDs are described as magnetic storage devices. Statement II: Laser printers are made up of a print head consisting of nozzles that sprays droplets of ink onto the paper to form characters.",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** CDs and DVDs are optical, not magnetic; nozzles spraying ink describe an inkjet printer, not a laser printer."
+ },
+ {
+  "id": "P1-2022DEC-Q36",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: The Montreal Protocol to protect the Earth's ozone layer is to date the only United Nations environment agreement to be ratified by every country in the world. Statement II: Paris agreement establishes voluntary commitments by all parties to prepare, communicate and maintain a Nationally Determined Contribution (NDC).",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The Montreal Protocol is the first UN treaty ratified by every country (2009); the Paris Agreement asks each party to prepare, communicate and maintain an NDC."
+ },
+ {
+  "id": "P1-2022DEC-Q37",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: Thermal pollution, usually effluent from cooling systems of power plants or other industries, alters water temperature in a lake or stream. Statement II: Humans also cause thermal pollution by altering vegetation cover and run-off patterns.",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Heated effluent from cooling systems is the classic cause; removing shade vegetation and changing run-off also warm streams."
+ },
+ {
+  "id": "P1-2022DEC-Q38",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "question_type": "mcq",
+  "question_text": "Which of the following substances has the least Ozone Depleting Potential?",
+  "options": [
+   "Chlorofluorocarbons",
+   "Hydro chlorofluorocarbons",
+   "Carbon tetrachloride",
+   "Halons"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) HCFCs** have ODPs of about 0.01–0.1, far below CFCs (≈1), carbon tetrachloride (≈1.1) and halons (3–10)."
+ },
+ {
+  "id": "P1-2022DEC-Q39",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "question_type": "statements",
+  "question_text": "Potential regions of geothermal sites are:",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "A, B and D only",
+   "A, D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, B and D only.** Geothermal potential lies along plate margins: the Pacific Ring of Fire, the Himalayan belt and subduction zones.",
+  "items": [
+   "Circum pacific belt",
+   "Himalayan Region",
+   "Delta",
+   "Subduction zones",
+   "Rann of Kachchh"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q40",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "question_type": "mcq",
+  "question_text": "International Solar Alliance (ISA) has its head quarter in:",
+  "options": [
+   "United States",
+   "Switzerland",
+   "India",
+   "France"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) India** — the ISA secretariat is at Gurugram (Haryana)."
+ },
+ {
+  "id": "P1-2022DEC-Q41",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "question_type": "mcq",
+  "question_text": "National Council for Vocational Education and Training (NCVET), an overarching skills regulator, was notified in the year:",
+  "options": [
+   "2018",
+   "2015",
+   "1956",
+   "1961"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 2018** — NCVET was notified on 5 December 2018, merging NCVT and NSDA."
+ },
+ {
+  "id": "P1-2022DEC-Q42",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "question_type": "statements",
+  "question_text": "Which of the following are the ancient Indian texts on Astronomy?",
+  "options": [
+   "A, B and C only",
+   "B and C only",
+   "A, B, C and D",
+   "A, B and D only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and C only.** Siddhānta Śiromaṇi (Bhāskara II) and Sūrya Siddhānta are astronomical; Sāṃkhyakārikā is philosophy and the Gṛhya Sūtras are domestic ritual.",
+  "items": [
+   "Sankhyakarika",
+   "Siddhanta Siromani",
+   "Surya Siddhanta",
+   "Grihya Sutras"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q43",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "statements",
+  "question_text": "Which of the following are the characteristics of conventional learning?",
+  "options": [
+   "C, D and E only",
+   "B, D and E only",
+   "A, D and E only",
+   "A, B and D only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, D and E only.** Conventional learning is teacher-centred, follows a prescribed curriculum and needs regular attendance; cost-effectiveness and learner orientation describe open and distance learning.",
+  "items": [
+   "Cost-effective",
+   "Teacher-centered learning",
+   "Learner oriented",
+   "Prescribed curriculum",
+   "Require regular attendance."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2022DEC-Q44",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Higher order thinking skills can be promoted through:",
+  "options": [
+   "Rote learning",
+   "Active learning",
+   "Passive learning",
+   "Tutorials"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Active learning.**"
+ },
+ {
+  "id": "P1-2022DEC-Q45",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "question_type": "mcq",
+  "question_text": "Who among the following was the Governor-General and the Viceroy who passed the acts of incorporation in January 1857, which provided for the establishment of universities at Calcutta, Bombay and Madras?",
+  "options": [
+   "Lord Curzon",
+   "Lord Dalhousie",
+   "Lord Lansdowne",
+   "Lord Canning"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Lord Canning**, Governor-General when the Acts of Incorporation of January 1857 set up the universities of Calcutta, Bombay and Madras."
+ },
+ {
+  "id": "P1-2022DEC-Q46",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "What was the initial response of western press to Gandhiji's salt march?",
+  "options": [
+   "Skeptical",
+   "Appreciative",
+   "Deceptive",
+   "Neutral"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Skeptical.** Time's first report doubted the marchers would reach their destination.",
+  "passage": "The progress of salt march can also be traced from another source: The American news magazine Time. This, to begin with, wrote with disdain of Gandhi's \"Spindly frame\" and his \"spidery loins\". In its first report, Time was deeply skeptical of the marchers reaching their destination. It claimed that Gandhi \"sank to the ground\" at the end of the second day's walking: the magazine did not believe that \"the emaciated saint would be physically able to much further\". Within a week, it had changed its mind. The massive popular following that the march had gathered, wrote Time, had made the British rulers \"desperately anxious\". Gandhi himself they now saluted as a \"saint\" and a \"statesman who was using \"Christian acts as a weapon against men with Christian beliefs\". The salt march was notable for at least three reasons. First, it brought Gandhi to world attention, with the march being widely covered by the European and American press. Second, it was the first nationalist activity in which women participated in large numbers. The socialist Kamaladevi Chattopadhyay had persuaded Gandhi not to restrict the protests to men alone. Kamaladevi was herself one of numerous women who courted arrest by breaking the salt or liquor laws. Third, and perhaps, the most significant, it was the salt march that forced upon the British the realization that their raj may not last for ever and that they would have to devolve some powers to Indians."
+ },
+ {
+  "id": "P1-2022DEC-Q47",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "How did Time magazine describe Gandhi's salt march in its first report?",
+  "options": [
+   "People would reject the march.",
+   "He would not be able to complete it.",
+   "The British supported the march.",
+   "Gandhiji had the physical strength to lead the march."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Time claimed Gandhi 'sank to the ground' and doubted he could go much further.",
+  "passage": "The progress of salt march can also be traced from another source: The American news magazine Time. This, to begin with, wrote with disdain of Gandhi's \"Spindly frame\" and his \"spidery loins\". In its first report, Time was deeply skeptical of the marchers reaching their destination. It claimed that Gandhi \"sank to the ground\" at the end of the second day's walking: the magazine did not believe that \"the emaciated saint would be physically able to much further\". Within a week, it had changed its mind. The massive popular following that the march had gathered, wrote Time, had made the British rulers \"desperately anxious\". Gandhi himself they now saluted as a \"saint\" and a \"statesman who was using \"Christian acts as a weapon against men with Christian beliefs\". The salt march was notable for at least three reasons. First, it brought Gandhi to world attention, with the march being widely covered by the European and American press. Second, it was the first nationalist activity in which women participated in large numbers. The socialist Kamaladevi Chattopadhyay had persuaded Gandhi not to restrict the protests to men alone. Kamaladevi was herself one of numerous women who courted arrest by breaking the salt or liquor laws. Third, and perhaps, the most significant, it was the salt march that forced upon the British the realization that their raj may not last for ever and that they would have to devolve some powers to Indians."
+ },
+ {
+  "id": "P1-2022DEC-Q48",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "What was the first effect of the salt March?",
+  "options": [
+   "People were confused.",
+   "Gandhi's followers were reluctant.",
+   "Gandhi was able to garner world attention",
+   "Gandhiji's faith in Christianity got reinforced."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** First, the march brought Gandhi to world attention.",
+  "passage": "The progress of salt march can also be traced from another source: The American news magazine Time. This, to begin with, wrote with disdain of Gandhi's \"Spindly frame\" and his \"spidery loins\". In its first report, Time was deeply skeptical of the marchers reaching their destination. It claimed that Gandhi \"sank to the ground\" at the end of the second day's walking: the magazine did not believe that \"the emaciated saint would be physically able to much further\". Within a week, it had changed its mind. The massive popular following that the march had gathered, wrote Time, had made the British rulers \"desperately anxious\". Gandhi himself they now saluted as a \"saint\" and a \"statesman who was using \"Christian acts as a weapon against men with Christian beliefs\". The salt march was notable for at least three reasons. First, it brought Gandhi to world attention, with the march being widely covered by the European and American press. Second, it was the first nationalist activity in which women participated in large numbers. The socialist Kamaladevi Chattopadhyay had persuaded Gandhi not to restrict the protests to men alone. Kamaladevi was herself one of numerous women who courted arrest by breaking the salt or liquor laws. Third, and perhaps, the most significant, it was the salt march that forced upon the British the realization that their raj may not last for ever and that they would have to devolve some powers to Indians."
+ },
+ {
+  "id": "P1-2022DEC-Q49",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "The salt march was the first nationalist movement to attract/incur",
+  "options": [
+   "The attention of American press",
+   "comments by the European press",
+   "The wrath of the British Government",
+   "A large number of women participants"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** It was the first nationalist activity in which women took part in large numbers.",
+  "passage": "The progress of salt march can also be traced from another source: The American news magazine Time. This, to begin with, wrote with disdain of Gandhi's \"Spindly frame\" and his \"spidery loins\". In its first report, Time was deeply skeptical of the marchers reaching their destination. It claimed that Gandhi \"sank to the ground\" at the end of the second day's walking: the magazine did not believe that \"the emaciated saint would be physically able to much further\". Within a week, it had changed its mind. The massive popular following that the march had gathered, wrote Time, had made the British rulers \"desperately anxious\". Gandhi himself they now saluted as a \"saint\" and a \"statesman who was using \"Christian acts as a weapon against men with Christian beliefs\". The salt march was notable for at least three reasons. First, it brought Gandhi to world attention, with the march being widely covered by the European and American press. Second, it was the first nationalist activity in which women participated in large numbers. The socialist Kamaladevi Chattopadhyay had persuaded Gandhi not to restrict the protests to men alone. Kamaladevi was herself one of numerous women who courted arrest by breaking the salt or liquor laws. Third, and perhaps, the most significant, it was the salt march that forced upon the British the realization that their raj may not last for ever and that they would have to devolve some powers to Indians."
+ },
+ {
+  "id": "P1-2022DEC-Q50",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2022 cycle, held 21 February 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printed NTA response sheet (\"2023 old paper yoga.pdf\" in the notes folder), where they are Sl. No. 101–150; here they are numbered 1–50. The English version is used. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "According to the passage, the most significant outcome of the salt march was that",
+  "options": [
+   "The British were able to nullify the effects of the movement.",
+   "Gandhiji could not achieve his aim of breaking the salt law.",
+   "The British realized the need for devolution of power with Indians.",
+   "The salt march ended as a mere local movement of tokenism."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** The most significant result was the British realisation that they would have to devolve some powers to Indians.",
+  "passage": "The progress of salt march can also be traced from another source: The American news magazine Time. This, to begin with, wrote with disdain of Gandhi's \"Spindly frame\" and his \"spidery loins\". In its first report, Time was deeply skeptical of the marchers reaching their destination. It claimed that Gandhi \"sank to the ground\" at the end of the second day's walking: the magazine did not believe that \"the emaciated saint would be physically able to much further\". Within a week, it had changed its mind. The massive popular following that the march had gathered, wrote Time, had made the British rulers \"desperately anxious\". Gandhi himself they now saluted as a \"saint\" and a \"statesman who was using \"Christian acts as a weapon against men with Christian beliefs\". The salt march was notable for at least three reasons. First, it brought Gandhi to world attention, with the march being widely covered by the European and American press. Second, it was the first nationalist activity in which women participated in large numbers. The socialist Kamaladevi Chattopadhyay had persuaded Gandhi not to restrict the protests to men alone. Kamaladevi was herself one of numerous women who courted arrest by breaking the salt or liquor laws. Third, and perhaps, the most significant, it was the salt march that forced upon the British the realization that their raj may not last for ever and that they would have to devolve some powers to Indians."
+ }
+]
