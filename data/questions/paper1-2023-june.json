@@ -1,0 +1,1640 @@
+[
+ {
+  "id": "P1-2023JUN-Q01",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The number of females qualified from City-B in 2021 is approximately ___ % more than the number of males qualified from City-E in the year 2020.",
+  "options": [
+   "71.42",
+   "73.68",
+   "75.13",
+   "77.56"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 73.68.** City B 2021: 15% of 4600 = 690, females 11/23 → 330. City E 2020: 8% of 3800 = 304, males 5/8 → 190. (330 − 190) ÷ 190 ≈ 73.68%.",
+  "passage": "The table given below shows the distribution percentage of number of candidates qualifying a Common Entrance Test (CET) in six cities A–F during the years 2020 and 2021, along with the ratio of males (M) to females (F) among the qualified candidates. The total number of qualified candidates in all the six cities together during 2020 and 2021 are 3800 and 4600 respectively. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of CET Qualified Candidates",
+   "columns": [
+    "City",
+    "2020: Distribution % of Qualified Candidates",
+    "2020: Ratio M:F",
+    "2021: Distribution % of Qualified Candidates",
+    "2021: Ratio M:F"
+   ],
+   "rows": [
+    [
+     "A",
+     "13%",
+     "8:5",
+     "24%",
+     "5:7"
+    ],
+    [
+     "B",
+     "27%",
+     "11:8",
+     "15%",
+     "12:11"
+    ],
+    [
+     "C",
+     "11%",
+     "7:4",
+     "23%",
+     "15:8"
+    ],
+    [
+     "D",
+     "20%",
+     "2:3",
+     "17%",
+     "8:9"
+    ],
+    [
+     "E",
+     "8%",
+     "5:3",
+     "8%",
+     "1:3"
+    ],
+    [
+     "F",
+     "21%",
+     "13:8",
+     "13%",
+     "5:8"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2023JUN-Q02",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The ratio of number of females qualified from City-D in 2020 to that of City-E in 2021 is",
+  "options": [
+   "23:13",
+   "31:27",
+   "35:23",
+   "38:23"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 38 : 23.** D 2020: 760 × 3/5 = 456 females; E 2021: 368 × 3/4 = 276. 456 : 276 = 38 : 23.",
+  "passage": "The table given below shows the distribution percentage of number of candidates qualifying a Common Entrance Test (CET) in six cities A–F during the years 2020 and 2021, along with the ratio of males (M) to females (F) among the qualified candidates. The total number of qualified candidates in all the six cities together during 2020 and 2021 are 3800 and 4600 respectively. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of CET Qualified Candidates",
+   "columns": [
+    "City",
+    "2020: Distribution % of Qualified Candidates",
+    "2020: Ratio M:F",
+    "2021: Distribution % of Qualified Candidates",
+    "2021: Ratio M:F"
+   ],
+   "rows": [
+    [
+     "A",
+     "13%",
+     "8:5",
+     "24%",
+     "5:7"
+    ],
+    [
+     "B",
+     "27%",
+     "11:8",
+     "15%",
+     "12:11"
+    ],
+    [
+     "C",
+     "11%",
+     "7:4",
+     "23%",
+     "15:8"
+    ],
+    [
+     "D",
+     "20%",
+     "2:3",
+     "17%",
+     "8:9"
+    ],
+    [
+     "E",
+     "8%",
+     "5:3",
+     "8%",
+     "1:3"
+    ],
+    [
+     "F",
+     "21%",
+     "13:8",
+     "13%",
+     "5:8"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2023JUN-Q03",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The average of the number of females qualified from all the six cities together in 2021 is",
+  "options": [
+   "320",
+   "360",
+   "400",
+   "440"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 400.** Females in 2021: A 644, B 330, C 368, D 414, E 276, F 368 = 2400; 2400 ÷ 6 = 400.",
+  "passage": "The table given below shows the distribution percentage of number of candidates qualifying a Common Entrance Test (CET) in six cities A–F during the years 2020 and 2021, along with the ratio of males (M) to females (F) among the qualified candidates. The total number of qualified candidates in all the six cities together during 2020 and 2021 are 3800 and 4600 respectively. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of CET Qualified Candidates",
+   "columns": [
+    "City",
+    "2020: Distribution % of Qualified Candidates",
+    "2020: Ratio M:F",
+    "2021: Distribution % of Qualified Candidates",
+    "2021: Ratio M:F"
+   ],
+   "rows": [
+    [
+     "A",
+     "13%",
+     "8:5",
+     "24%",
+     "5:7"
+    ],
+    [
+     "B",
+     "27%",
+     "11:8",
+     "15%",
+     "12:11"
+    ],
+    [
+     "C",
+     "11%",
+     "7:4",
+     "23%",
+     "15:8"
+    ],
+    [
+     "D",
+     "20%",
+     "2:3",
+     "17%",
+     "8:9"
+    ],
+    [
+     "E",
+     "8%",
+     "5:3",
+     "8%",
+     "1:3"
+    ],
+    [
+     "F",
+     "21%",
+     "13:8",
+     "13%",
+     "5:8"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2023JUN-Q04",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The difference between the number of male candidates qualified from City-B in 2020 and City-A in 2021 is",
+  "options": [
+   "134",
+   "144",
+   "168",
+   "182"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 134.** B 2020: 1026 × 11/19 = 594 males; A 2021: 1104 × 5/12 = 460 males; 594 − 460 = 134.",
+  "passage": "The table given below shows the distribution percentage of number of candidates qualifying a Common Entrance Test (CET) in six cities A–F during the years 2020 and 2021, along with the ratio of males (M) to females (F) among the qualified candidates. The total number of qualified candidates in all the six cities together during 2020 and 2021 are 3800 and 4600 respectively. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of CET Qualified Candidates",
+   "columns": [
+    "City",
+    "2020: Distribution % of Qualified Candidates",
+    "2020: Ratio M:F",
+    "2021: Distribution % of Qualified Candidates",
+    "2021: Ratio M:F"
+   ],
+   "rows": [
+    [
+     "A",
+     "13%",
+     "8:5",
+     "24%",
+     "5:7"
+    ],
+    [
+     "B",
+     "27%",
+     "11:8",
+     "15%",
+     "12:11"
+    ],
+    [
+     "C",
+     "11%",
+     "7:4",
+     "23%",
+     "15:8"
+    ],
+    [
+     "D",
+     "20%",
+     "2:3",
+     "17%",
+     "8:9"
+    ],
+    [
+     "E",
+     "8%",
+     "5:3",
+     "8%",
+     "1:3"
+    ],
+    [
+     "F",
+     "21%",
+     "13:8",
+     "13%",
+     "5:8"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2023JUN-Q05",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "The number of females qualified from City-F in 2020 is ___ % of the number of candidates qualified from City-E in the same year.",
+  "options": [
+   "60",
+   "75",
+   "80",
+   "100"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 100.** F 2020: 798 × 8/21 = 304 females; E 2020 total = 304. So 100%.",
+  "passage": "The table given below shows the distribution percentage of number of candidates qualifying a Common Entrance Test (CET) in six cities A–F during the years 2020 and 2021, along with the ratio of males (M) to females (F) among the qualified candidates. The total number of qualified candidates in all the six cities together during 2020 and 2021 are 3800 and 4600 respectively. Based on the data in the table, answer the questions.",
+  "table": {
+   "title": "City-wise Distribution of CET Qualified Candidates",
+   "columns": [
+    "City",
+    "2020: Distribution % of Qualified Candidates",
+    "2020: Ratio M:F",
+    "2021: Distribution % of Qualified Candidates",
+    "2021: Ratio M:F"
+   ],
+   "rows": [
+    [
+     "A",
+     "13%",
+     "8:5",
+     "24%",
+     "5:7"
+    ],
+    [
+     "B",
+     "27%",
+     "11:8",
+     "15%",
+     "12:11"
+    ],
+    [
+     "C",
+     "11%",
+     "7:4",
+     "23%",
+     "15:8"
+    ],
+    [
+     "D",
+     "20%",
+     "2:3",
+     "17%",
+     "8:9"
+    ],
+    [
+     "E",
+     "8%",
+     "5:3",
+     "8%",
+     "1:3"
+    ],
+    [
+     "F",
+     "21%",
+     "13:8",
+     "13%",
+     "5:8"
+    ]
+   ]
+  }
+ },
+ {
+  "id": "P1-2023JUN-Q06",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "mcq",
+  "question_text": "Which informal fallacy is committed in the following statements- \" Your argument that I should stop stealing chocolates from the corner store is no good. You told me yourself just a month ago that you, too, stole chocolates when you were a kid\".",
+  "options": [
+   "Red Herring",
+   "Strawman",
+   "Missing the point (Ignoratio Elenchi)",
+   "Ad hominem"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Ad hominem** (tu quoque) — the argument is rejected because the arguer did the same thing, not on its merits."
+ },
+ {
+  "id": "P1-2023JUN-Q07",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "question_type": "mcq",
+  "question_text": "A 30 dB increase in noise pollution level represents:",
+  "options": [
+   "30-fold increase in sound intensity",
+   "100-fold increase in sound intensity",
+   "1000-fold increase in sound intensity",
+   "15-fold increase in sound intensity"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 1000-fold.** Every 10 dB is a tenfold rise in intensity, so 30 dB = 10³."
+ },
+ {
+  "id": "P1-2023JUN-Q08",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "statements",
+  "question_text": "Both Wi-Fi and Bluetooth offer wireless communication between devices. Bluetooth is useful when",
+  "options": [
+   "A and B only",
+   "A and C only",
+   "B and C only",
+   "A, B and C"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A and B only.** Bluetooth suits short-range links where speed is not critical; high-bandwidth tasks need Wi-Fi.",
+  "items": [
+   "Transferring data between two or more devices which are less than 30 meters apart.",
+   "The speed of data transmission is not critical.",
+   "Using high bandwidth applications (for example, sending music files from a mobile phone to a headset)."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q09",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "question_type": "mcq",
+  "question_text": "Which of the following activities has contributed maximum to global warming?",
+  "options": [
+   "Industrial processes",
+   "Deforestation",
+   "Agriculture",
+   "Fossil fuel combustion"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Fossil fuel combustion**, the largest source of CO₂."
+ },
+ {
+  "id": "P1-2023JUN-Q10",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "question_type": "mcq",
+  "question_text": "जनसंचार माध्यम अधिकांशतः संचालित होते हैं",
+  "options": [
+   "वैयक्तिक क्षेत्र में",
+   "नौकरशाही क्षेत्र में",
+   "सार्वजनिक क्षेत्र में",
+   "नैतिक क्षेत्र में"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) सार्वजनिक क्षेत्र में** — mass media operate mostly in the public sphere."
+ },
+ {
+  "id": "P1-2023JUN-Q11",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "In MOOCs (Massive Open Online Courses), an initiative under NME-ICT Programme, the fourth quadrant is related to:",
+  "options": [
+   "e- content",
+   "Self-Assessment",
+   "e-Tutarial",
+   "Web Resources"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Self-assessment.** SWAYAM's four quadrants: e-tutorial, e-content, discussion forum/web resources, and assessment."
+ },
+ {
+  "id": "P1-2023JUN-Q12",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: According to Classical Indian School of logic (Nyaya) the middle term must be present in the minor term. Statement II: According to Nyaya School the middle term must be absent in all negative instances in which the major term is absent.",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** In Nyāya the hetu must be present in the pakṣa (minor term) and absent from every vipakṣa, where the sādhya is absent."
+ },
+ {
+  "id": "P1-2023JUN-Q13",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "In Communication, metonyms reflect",
+  "options": [
+   "Reality",
+   "Artificiality",
+   "Fantasy",
+   "Hidden secrets"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Reality** — a metonym stands for something by a real association with it."
+ },
+ {
+  "id": "P1-2023JUN-Q14",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "question_type": "mcq",
+  "question_text": "Covert research in ethnography is beset with",
+  "options": [
+   "Personal issues",
+   "Ethical issues",
+   "Political issues",
+   "Historical issues"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ethical issues** — covert observation lacks informed consent."
+ },
+ {
+  "id": "P1-2023JUN-Q15",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "One of the characteristics of probability sampling is",
+  "options": [
+   "Population bias",
+   "Sampling bias",
+   "Random selection",
+   "Accidental selection"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Random selection.**"
+ },
+ {
+  "id": "P1-2023JUN-Q16",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "Find a single discount equivalent to a series discount of 20%, 10% and 5%",
+  "options": [
+   "30%",
+   "31.6%",
+   "30.6%",
+   "32%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 31.6%.** 0.80 × 0.90 × 0.95 = 0.684, so the single discount is 31.6%."
+ },
+ {
+  "id": "P1-2023JUN-Q17",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "In 1965. Gardon Moore. Co-founder of Intel, made a prediction about the future of computer processing. What does his prediction, known as Moore's Law, say?",
+  "options": [
+   "As technology continues to advance, computer chips will become obsolete.",
+   "Computer processing power will double every 18 months to two year.",
+   "There will eventually be no need for transistors in high tech electronics.",
+   "As the number of transistors increases, computer processing power will be reduced by half every two years."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Moore's law: transistor density, and so processing power, doubles roughly every 18 months to two years."
+ },
+ {
+  "id": "P1-2023JUN-Q18",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "A batsman has a certain average of runs for 16 innings. In the 17th inning he makes a score of 85 runs, thus increasing his average by 3 runs. What is average of the batsman after 17 innings?",
+  "options": [
+   "35",
+   "37",
+   "45",
+   "40"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 37.** 16x + 85 = 17(x + 3) → x = 34; new average 37."
+ },
+ {
+  "id": "P1-2023JUN-Q19",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "A teacher divided the students of a class into four small groups and in each group three students are present. They have to complete a project in online mode by adding all the related material. Which tool is most appropriate according to you?",
+  "options": [
+   "Padlet",
+   "Camera",
+   "Quizzes",
+   "Screen-castomatic"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Padlet** — a shared online board where a group adds material together."
+ },
+ {
+  "id": "P1-2023JUN-Q20",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "question_type": "mcq",
+  "question_text": "A section of the Muslim Community opened a number of Azad schools in Uttar Pradesh and led by Maulana Mohammad Ali in 1920 established the Jamia Milia Islamia or Muslim National University in which of the following Indian Cities?",
+  "options": [
+   "Delhi",
+   "Hyderabad",
+   "Lucknow",
+   "Aligarh"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Aligarh.** Jamia Millia Islamia was founded at Aligarh in 1920 and moved to Delhi in 1925."
+ },
+ {
+  "id": "P1-2023JUN-Q21",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: In explicit long term memory bits of information may be stored and interrelated in terms of propositional networks. Statement II: Implicit long term memories are out-of-awareness memories that can't affect thinking and behavior.",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Explicit memories can be organised in propositional networks; implicit memories, though outside awareness, do influence thought and behaviour."
+ },
+ {
+  "id": "P1-2023JUN-Q22",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "question_type": "mcq",
+  "question_text": "In case of nuclear energy, the objective of enrichment process is",
+  "options": [
+   "Separation of Uranium from its ores",
+   "Increasing the concentration of fissile U-235",
+   "Increasing the concentration of U-238",
+   "Enhancing the quantity of moderator"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2)** — enrichment raises the proportion of fissile U-235."
+ },
+ {
+  "id": "P1-2023JUN-Q23",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "statements",
+  "question_text": "Which of the following factors must be taken into account in quantitative research?",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "A, C and D only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B and C only** — measurement, causality and replication; quantitative research relies on statistics and standardisation.",
+  "items": [
+   "Measurement",
+   "Causality",
+   "Replication",
+   "Exclusion of statistical analysis",
+   "Less importance to standarisation"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q24",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "question_type": "mcq",
+  "question_text": "Turbidity, one of the important water quality parameters, is measured in",
+  "options": [
+   "Color units",
+   "pH units",
+   "NTU",
+   "Microgram m³"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) NTU** (nephelometric turbidity units)."
+ },
+ {
+  "id": "P1-2023JUN-Q25",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: mp4 and .gif are two file extensions used with files containing moving images. Statement II: .rar and .zip are two file extensions used with files containing compressed data.",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is true but Statement IT is false.",
+   "Statement I is true but Statement IT is false."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** .mp4 and .gif hold moving images; .rar and .zip are compressed archives."
+ },
+ {
+  "id": "P1-2023JUN-Q26",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "question_type": "statements",
+  "question_text": "Which of the following were considered as Vedangas in the ancient education system of India?",
+  "options": [
+   "A, B and C only",
+   "A, B, C and E only",
+   "B and C only",
+   "A, B, C, D and E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, C, D and E.** The six Vedāṅgas: śikṣā (phonetics), kalpa (ritual), vyākaraṇa (grammar), nirukta, chandas (metrics), jyotiṣa (astronomy/astrology).",
+  "items": [
+   "Metrics",
+   "Grammar",
+   "Phonetics",
+   "Ritual",
+   "Astrology"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q27",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "question_type": "mcq",
+  "question_text": "International Solar Alliance (ISA) was launched in the year",
+  "options": [
+   "2015",
+   "2016",
+   "2017",
+   "2018"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 2015** — launched by India and France at COP21 in Paris."
+ },
+ {
+  "id": "P1-2023JUN-Q28",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: A large portion of mediated cultural transmission involves traditions, language, beliefs, attitudes and values from one generation to another. Statement II; Such a process will contribute for the unconscious cultural development of individuals in the society.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement IT is false",
+   "Statement I is false but Statement IT is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1)** (no official key). Mediated cultural transmission passes traditions, language and values across generations, and shapes individuals largely unconsciously."
+ },
+ {
+  "id": "P1-2023JUN-Q29",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: Gaining access to a public or social setting is an important issue in ethnographic research. Statement II: There is no distinction between overt and covert ethnography in terms of access and participation.",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement I] are false",
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Access is a key issue in ethnography, and overt and covert ethnography differ precisely in access and participation."
+ },
+ {
+  "id": "P1-2023JUN-Q30",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "question_type": "mcq",
+  "question_text": "National Council for Vocational Education and Training (NCVET) is under:",
+  "options": [
+   "Ministry of Education",
+   "University Grants Commission (UGC)",
+   "Ministry of Skill Development and Entrepreneurship",
+   "All India Council for Technical Education"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Ministry of Skill Development and Entrepreneurship.**"
+ },
+ {
+  "id": "P1-2023JUN-Q31",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-IV, B-II, C-I, D-III",
+   "A-IV, B-III, C-II, D-I",
+   "A-II, B-IV, C-III, D-I",
+   "A-I, B-IV, C-II, D-III"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-IV, B-III, C-II, D-I.** Behavioural — Skinner; individual constructivist — Piaget; social constructivist — Vygotsky; social cognitive — Bandura.",
+  "lists": {
+   "list_i": {
+    "title": "List I (Type of learning theory)",
+    "items": [
+     "Behavioral theory of learning",
+     "Individual constructivist theory of learning",
+     "Social constructivist theory of learning",
+     "Social cognitive theory of learning"
+    ]
+   },
+   "list_ii": {
+    "title": "List II (Theorist)",
+    "items": [
+     "Albert Bandura",
+     "Lev Vygotsky",
+     "J. Piaget",
+     "B.F. Skinner"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q32",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "The action of illegally installing malicious code which redirects a person to a fraudulent website with the purpose of obtaining that person's bank details is called",
+  "options": [
+   "Phishing",
+   "Pharming",
+   "Spamming",
+   "Smishing"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Pharming** — malicious code redirects to a fake site; phishing uses deceptive e-mails."
+ },
+ {
+  "id": "P1-2023JUN-Q33",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "question_type": "mcq",
+  "question_text": "National Skill Qualification Framework (NSQF) is a competency based framework related to",
+  "options": [
+   "Knowledge, Skills and Attitude",
+   "Understanding, Application and Analysis",
+   "Knowledge, Skills and Aptitude",
+   "Understanding, Analysis and Synthesis"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Knowledge, skills and aptitude** — the NSQF organises qualifications by levels of knowledge, skills and aptitude."
+ },
+ {
+  "id": "P1-2023JUN-Q34",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "question_type": "mcq",
+  "question_text": "Find the next term in the series given below: 2, 6, 12, 20, .....",
+  "options": [
+   "24",
+   "28",
+   "30",
+   "36"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 30.** Terms are n(n + 1): 2, 6, 12, 20, 30."
+ },
+ {
+  "id": "P1-2023JUN-Q35",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "statements",
+  "question_text": "Which of the following are characteristics of qualitative interview?",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "A, C and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, C and E only.** Qualitative interviews are less structured, allowed to ramble and flexible; standardised questions reflecting the researcher's concerns mark quantitative interviews.",
+  "items": [
+   "It is less structured.",
+   "It reflects researcher's concerns.",
+   "The interview is allowed to ramble.",
+   "The interview has standardized questions.",
+   "It is flexible in approach."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q36",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "A teacher is preparing a course of science. He/She wants to add an exercise that promotes collaboration and problem solving among learners. What kind of group should he she form?",
+  "options": [
+   "Independent student assignment",
+   "Teacher-centric groups",
+   "Student-centric groups",
+   "Social groups"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Student-centric groups.**"
+ },
+ {
+  "id": "P1-2023JUN-Q37",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Directions and distances",
+  "question_type": "mcq",
+  "question_text": "A man walks 1km towards east and then turns southwards and walks 5 km. Again he turns to east and walks 2 kms. After this he turns to the north and walks 9 kms. How far is the man from his starting point?",
+  "options": [
+   "5 km",
+   "6 km",
+   "6.5 km",
+   "7 km"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 5 km.** Net 3 km east and 4 km north; √(9 + 16) = 5."
+ },
+ {
+  "id": "P1-2023JUN-Q38",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: The circular model of communication does not favour feedback. Statement II: The linear model of communication demands continuity of communication and enables immediate feedback.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true Ara dt we feu ee: wer], Sas or ais wites tse wag & ve A ae star 21 per: Shs & wala aise A aa St race aaa Ste S she Sas Tepra UAT PS ued Ges H Gfaen Sit SI SRI HUF & oscil Fre fay Ty famed FS Waa TYEE GU GT UA SST:"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The circular model builds in feedback; the linear model is one-way with no immediate feedback."
+ },
+ {
+  "id": "P1-2023JUN-Q39",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "question_type": "mcq",
+  "question_text": "Which of the following is contradictory to the statement- \"No birds are mammals\"?",
+  "options": [
+   "Some birds are not mammals.",
+   "Some birds are mammals.",
+   "All birds are mammals.",
+   "All mammals are birds."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The contradictory of the E proposition 'No birds are mammals' is the I proposition 'Some birds are mammals'."
+ },
+ {
+  "id": "P1-2023JUN-Q40",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "12 Men are assigned a job to be finished in 30 days. After 10 days it is observed that only 1/6th of the job is completed. How many extra men are required to be deployed to do the rest of the job so that the job is completed within scheduled time?",
+  "options": [
+   "20",
+   "22",
+   "18",
+   "16"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 18.** 120 man-days did 1/6, so the job is 720 man-days; 600 remain in 20 days → 30 men, i.e. 18 more."
+ },
+ {
+  "id": "P1-2023JUN-Q41",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-III, B-IV, C-I, D-II",
+   "A-II, B-IV, C-I, D-III",
+   "A-IV, B-III, C-II, D-I",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-II, B-IV, C-I, D-III.** 60 MB = 480 Mb ÷ 40 Mbps = 12 s; 1000001₂ = 65; 500 GB ÷ 8 MB = 64000 (binary units); B + C = 11 + 12 = 23 = 17₁₆.",
+  "lists": {
+   "list_i": {
+    "title": "List I (Question)",
+    "items": [
+     "If the broadband data download rate is 40 megabits per second, then how many seconds will it take to download a 60 megabytes file?",
+     "Base-10 (denary) value of the binary number: 1000001",
+     "Number of 8 megabyte files that can be stored on a backup memory device having 500 gigabyte of storage",
+     "What hexadecimal value is obtained when the two hexadecimal digits B and C are added together?"
+    ]
+   },
+   "list_ii": {
+    "title": "List II (Value)",
+    "items": [
+     "64000",
+     "12",
+     "17",
+     "65"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q42",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "question_type": "mcq",
+  "question_text": "Which of the following statements is contrapositive of \"All whales are mammals\"?",
+  "options": [
+   "Some whales are mammals.",
+   "All non-mammals are non-whales.",
+   "Some mammals are whales.",
+   "All mammals are whales."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The contrapositive of 'All S are P' is 'All non-P are non-S': all non-mammals are non-whales."
+ },
+ {
+  "id": "P1-2023JUN-Q43",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "question_type": "mcq",
+  "question_text": "If the statement \"Some animals are birds\" is given as true. Which of the following statements can be immediately inferred to be false?",
+  "options": [
+   "No animals are birds.",
+   "All animals are birds.",
+   "Some animals are not birds.",
+   "All animals cannot fly."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** If the I proposition is true, its contradictory E ('No animals are birds') is false."
+ },
+ {
+  "id": "P1-2023JUN-Q44",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "question_type": "match",
+  "question_text": "According to NEP 2020, match the functions of independent verticals of HECI",
+  "options": [
+   "A-III, B-II, C-IV, D-I",
+   "A-III, B-IV, C-II, D-I",
+   "A-III, B-I, C-II, D-IV",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-III, B-I, C-IV, D-II.** Under NEP 2020's HECI: NHERC regulates, NAC accredits, HEGC funds and GEC sets academic standards.",
+  "lists": {
+   "list_i": {
+    "title": "List I (Verticals of HECI)",
+    "items": [
+     "NHERC",
+     "NAC",
+     "HEGC",
+     "GEC"
+    ]
+   },
+   "list_ii": {
+    "title": "List II (Functions)",
+    "items": [
+     "Accreditation of institution",
+     "Academic standard setting",
+     "Regulator for higher education",
+     "Funding and financing of higher education"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q45",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "statements",
+  "question_text": "The criteria for good public service communication by media are:",
+  "options": [
+   "A, B and C",
+   "B, C and D",
+   "C, E and A",
+   "C, D and E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C, D and E** — even-handedness, avoiding rancour and separating facts from opinion.",
+  "items": [
+   "Limit on audience action and reaction",
+   "Subjective slant",
+   "Evenhandedness",
+   "Avoidance of rancour",
+   "Separating facts from opinion"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q46",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "What is the western reaction to the things happening in Asia, Africa and Latin America?",
+  "options": [
+   "The West is yet to reach their stage.",
+   "The West has the same issues as theirs.",
+   "The West does not have the same problems.",
+   "The West has plenty of alternatives."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** The West answers that developed countries do not have the same problems.",
+  "passage": "Alternatives are not lacking in the world. What is indeed missing is an alternative thinking of alternatives. Whenever it is said that there are very interesting things happening in Asia, Africa and Latin America, the Western answer is that developed countries do not have same problems. As such, the West does not need their kinds of solutions. There are two inferences from this: First, the understanding of the world is much broader than the western understanding of the world. This means that the progressive transformation of the world may also occur in ways not foreseen by western thinking. It includes critical western thinking. Second, the diversity of the world is infinite. It is a diversity that encompasses very distinct modes of being, thinking and feeling: ways of conceiving of time and the relations among human beings and between humans and non-humans, ways of facing the past and the future and of collectively organizing life, the production of goods and services, as well as leisure. This immensity of alternatives of life, comforts and interaction with the world is largely wasted because the theories and concepts developed in the global North and employed in the entire academic world do not identify such alternatives. When they do, they do not valorize them as being valid contributions towards constructing a better society. The knowledge of the south is dubbed as outmoded and considered as no knowledge at all."
+ },
+ {
+  "id": "P1-2023JUN-Q47",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "statements",
+  "question_text": "The diversity of the world is reflected in:",
+  "options": [
+   "A and B only",
+   "A, B and C only",
+   "A and C only",
+   "A, B, C and D"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, C and D** — the passage lists all four as aspects of the world's diversity.",
+  "passage": "Alternatives are not lacking in the world. What is indeed missing is an alternative thinking of alternatives. Whenever it is said that there are very interesting things happening in Asia, Africa and Latin America, the Western answer is that developed countries do not have same problems. As such, the West does not need their kinds of solutions. There are two inferences from this: First, the understanding of the world is much broader than the western understanding of the world. This means that the progressive transformation of the world may also occur in ways not foreseen by western thinking. It includes critical western thinking. Second, the diversity of the world is infinite. It is a diversity that encompasses very distinct modes of being, thinking and feeling: ways of conceiving of time and the relations among human beings and between humans and non-humans, ways of facing the past and the future and of collectively organizing life, the production of goods and services, as well as leisure. This immensity of alternatives of life, comforts and interaction with the world is largely wasted because the theories and concepts developed in the global North and employed in the entire academic world do not identify such alternatives. When they do, they do not valorize them as being valid contributions towards constructing a better society. The knowledge of the south is dubbed as outmoded and considered as no knowledge at all.",
+  "items": [
+   "Production of goods and leisure",
+   "Collective organisation of life",
+   "Conceiving time",
+   "Relations among human beings"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-2023JUN-Q48",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "The author of the passage",
+  "options": [
+   "is critical of alternative thinking.",
+   "favors the recognition of alternative thinking and solution.",
+   "emphasizes the adoption of Western concepts.",
+   "suggests uniformity of problems and solutions."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The author argues for recognising alternative thinking and solutions.",
+  "passage": "Alternatives are not lacking in the world. What is indeed missing is an alternative thinking of alternatives. Whenever it is said that there are very interesting things happening in Asia, Africa and Latin America, the Western answer is that developed countries do not have same problems. As such, the West does not need their kinds of solutions. There are two inferences from this: First, the understanding of the world is much broader than the western understanding of the world. This means that the progressive transformation of the world may also occur in ways not foreseen by western thinking. It includes critical western thinking. Second, the diversity of the world is infinite. It is a diversity that encompasses very distinct modes of being, thinking and feeling: ways of conceiving of time and the relations among human beings and between humans and non-humans, ways of facing the past and the future and of collectively organizing life, the production of goods and services, as well as leisure. This immensity of alternatives of life, comforts and interaction with the world is largely wasted because the theories and concepts developed in the global North and employed in the entire academic world do not identify such alternatives. When they do, they do not valorize them as being valid contributions towards constructing a better society. The knowledge of the south is dubbed as outmoded and considered as no knowledge at all."
+ },
+ {
+  "id": "P1-2023JUN-Q49",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "The Western theories and concepts",
+  "options": [
+   "reject the alternative knowledge.",
+   "valorize the knowledge of the South.",
+   "support the creation of single knowledge world.",
+   "identify the immensity of alternative ways of life and interaction."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Western theories fail to identify alternatives and, when they do, do not value them, dismissing southern knowledge as no knowledge at all.",
+  "passage": "Alternatives are not lacking in the world. What is indeed missing is an alternative thinking of alternatives. Whenever it is said that there are very interesting things happening in Asia, Africa and Latin America, the Western answer is that developed countries do not have same problems. As such, the West does not need their kinds of solutions. There are two inferences from this: First, the understanding of the world is much broader than the western understanding of the world. This means that the progressive transformation of the world may also occur in ways not foreseen by western thinking. It includes critical western thinking. Second, the diversity of the world is infinite. It is a diversity that encompasses very distinct modes of being, thinking and feeling: ways of conceiving of time and the relations among human beings and between humans and non-humans, ways of facing the past and the future and of collectively organizing life, the production of goods and services, as well as leisure. This immensity of alternatives of life, comforts and interaction with the world is largely wasted because the theories and concepts developed in the global North and employed in the entire academic world do not identify such alternatives. When they do, they do not valorize them as being valid contributions towards constructing a better society. The knowledge of the south is dubbed as outmoded and considered as no knowledge at all."
+ },
+ {
+  "id": "P1-2023JUN-Q50",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, held 21 June 2023 (15:00–18:00 shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder), question numbers as printed (Part A, 1–50). The English version is used except where only Hindi is shown. No NTA answer key was available, so answers are worked out and marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "The West should know that",
+  "options": [
+   "Developing nations need western solutions.",
+   "The world is more than what the West understands.",
+   "The West should not share knowledge with others.",
+   "It is always advisable to keep the world divided."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The first inference: the understanding of the world is much broader than the Western understanding.",
+  "passage": "Alternatives are not lacking in the world. What is indeed missing is an alternative thinking of alternatives. Whenever it is said that there are very interesting things happening in Asia, Africa and Latin America, the Western answer is that developed countries do not have same problems. As such, the West does not need their kinds of solutions. There are two inferences from this: First, the understanding of the world is much broader than the western understanding of the world. This means that the progressive transformation of the world may also occur in ways not foreseen by western thinking. It includes critical western thinking. Second, the diversity of the world is infinite. It is a diversity that encompasses very distinct modes of being, thinking and feeling: ways of conceiving of time and the relations among human beings and between humans and non-humans, ways of facing the past and the future and of collectively organizing life, the production of goods and services, as well as leisure. This immensity of alternatives of life, comforts and interaction with the world is largely wasted because the theories and concepts developed in the global North and employed in the entire academic world do not identify such alternatives. When they do, they do not valorize them as being valid contributions towards constructing a better society. The knowledge of the south is dubbed as outmoded and considered as no knowledge at all."
+ }
+]
