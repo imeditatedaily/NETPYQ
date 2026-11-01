@@ -1,0 +1,795 @@
+[
+ {
+  "id": "YOGA-PRAC8-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "question_type": "match",
+  "question_text": "Match the three prasthanas of Vedanta with their texts.",
+  "options": [
+   "A-i, B-ii, C-iii",
+   "A-ii, B-iii, C-i",
+   "A-iii, B-i, C-ii",
+   "A-ii, B-i, C-iii"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** The Upanishads are the revealed (shruti) basis, the Gita the remembered (smriti) one and the Brahma Sutra the reasoned (nyaya) one. Every Vedanta acharya wrote commentaries on all three.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Shruti prasthana",
+     "Smriti prasthana",
+     "Nyaya prasthana"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Bhagavad Gita",
+     "Upanishads",
+     "Brahma Sutra"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT part of the Prasthanatrayi?",
+  "options": [
+   "Bhagavad Gita",
+   "Mahabharata",
+   "Upanishads",
+   "Brahma Sutra"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mahabharata.** The Gita is a part of the Mahabharata, but the epic as a whole is not a prasthana."
+ },
+ {
+  "id": "YOGA-PRAC8-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Purushartha chatushtaya",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT one of the four purusharthas?",
+  "options": [
+   "Dharma",
+   "Artha",
+   "Shraddha",
+   "Moksha"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Shraddha.** The four aims of life are dharma, artha, kama and moksha; the first three together are the *trivarga*."
+ },
+ {
+  "id": "YOGA-PRAC8-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Purushartha chatushtaya",
+  "question_type": "mcq",
+  "question_text": "How many characteristics of dharma does the Manusmriti give?",
+  "options": [
+   "5",
+   "6",
+   "10",
+   "15"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Ten.** Manusmriti 6.92: *dhṛtiḥ kṣamā damo 'steyaṃ śaucam indriya-nigrahaḥ, dhīr vidyā satyam akrodho* — patience, forgiveness, self-control, non-stealing, purity, restraint of the senses, wisdom, learning, truth and freedom from anger. Ahimsa is not in this list."
+ },
+ {
+  "id": "YOGA-PRAC8-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Purushartha chatushtaya",
+  "question_type": "mcq",
+  "question_text": "'यतोऽभ्युदयनिःश्रेयससिद्धिः स धर्मः' — dharma is that from which come worldly prosperity and the highest good. This definition is from the",
+  "options": [
+   "Nyaya Sutra",
+   "Vaisheshika Sutra",
+   "Purva Mimamsa Sutra",
+   "Brahma Sutra"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vaisheshika Sutra (1.1.2)** of Kanada. The Mimamsa Sutra defines dharma differently: *codanā-lakṣaṇo 'rtho dharmaḥ* — what is enjoined by the Veda."
+ },
+ {
+  "id": "YOGA-PRAC8-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Purushartha chatushtaya",
+  "question_type": "mcq",
+  "question_text": "'मनुष्याणां वृत्तिः अर्थः' — artha is the livelihood of human beings. This is the definition of",
+  "options": [
+   "Vatsyayana",
+   "Chanakya (Kautilya)",
+   "Kapila",
+   "Gautama"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kautilya's Arthashastra (15.1).** Vatsyayana, author of the Kama Sutra, defines artha as acquiring learning, land, gold, cattle, grain and friends."
+ },
+ {
+  "id": "YOGA-PRAC8-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "Who is regarded as the founder of the Samkhya darshana, and to whom did he first teach it?",
+  "options": [
+   "Ishvarakrishna, to Kapila",
+   "Kapila, to Asuri",
+   "Asuri, to Panchashikha",
+   "Panchashikha, to Ishvarakrishna"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Kapila taught Asuri, who taught Panchashikha (traditionally the author of the *Ṣaṣṭitantra*). Ishvarakrishna's *Samkhya Karika* is the oldest surviving text; Gaudapada, the *Māṭhara-vṛtti* and Vachaspati Mishra's *Tattva-kaumudi* comment on it."
+ },
+ {
+  "id": "YOGA-PRAC8-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "According to Samkhya, the tattva that arises directly from prakriti is",
+  "options": [
+   "the senses",
+   "ahamkara",
+   "mahat (buddhi)",
+   "the tanmatras"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Mahat.** Prakriti (the equilibrium of the three gunas) → mahat → ahamkara → the eleven senses and five tanmatras → the five gross elements: 24 tattvas, with Purusha the 25th."
+ },
+ {
+  "id": "YOGA-PRAC8-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "Arrange the order of creation according to Samkhya: (A) mahat (B) ahamkara (C) prakriti (D) the five gross elements (E) the five tanmatras.",
+  "options": [
+   "A, B, C, D, E",
+   "C, A, B, E, D",
+   "A, C, D, E, B",
+   "B, A, C, D, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Prakriti → mahat → ahamkara → tanmatras → mahabhutas.** (Asked in UGC NET December 2023.)"
+ },
+ {
+  "id": "YOGA-PRAC8-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "'असदकरणादुपादानग्रहणात् सर्वसम्भवाभावात्। शक्तस्य शक्यकरणात् कारणभावाच्च सत्कार्यम्॥' belongs to which darshana?",
+  "options": [
+   "Nyaya",
+   "Vaisheshika",
+   "Samkhya",
+   "Mimamsa"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Samkhya** — Samkhya Karika 9, which proves *satkāryavāda* (the effect pre-exists in its cause) by five reasons."
+ },
+ {
+  "id": "YOGA-PRAC8-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "match",
+  "question_text": "Match the doctrines with the schools.",
+  "options": [
+   "A-ii, B-iv, C-i, D-iii",
+   "A-i, B-ii, C-iii, D-iv",
+   "A-iv, B-iii, C-ii, D-i",
+   "A-ii, B-iv, C-iii, D-i"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Satkaryavada is Samkhya's; vivartavada (the world as apparent transformation) Advaita Vedanta's; syadvada (conditional predication) Jainism's; momentariness Buddhism's.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Satkaryavada",
+     "Vivartavada",
+     "Syadvada",
+     "Kshanabhangavada"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Jaina darshana",
+     "Samkhya darshana",
+     "Bauddha darshana",
+     "Vedanta"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "match",
+  "question_text": "Match the darshanas with their founders.",
+  "options": [
+   "A-ii, B-i, C-iii, D-iv",
+   "A-i, B-ii, C-iii, D-iv",
+   "A-ii, B-i, C-iv, D-iii",
+   "A-iv, B-i, C-ii, D-iii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Yoga's founder is Patanjali and Vedanta's (Uttara Mimamsa) Badarayana, author of the Brahma Sutra.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Vaisheshika",
+     "Nyaya",
+     "Purva Mimamsa",
+     "Samkhya"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Gautama (Akshapada)",
+     "Kanada",
+     "Kapila",
+     "Jaimini"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "Which of the following are the six padarthas of Vaisheshika? Pick the set that contains only Vaisheshika padarthas: (A) prameya (B) dravya (C) prayojana (D) guna (E) karma",
+  "options": [
+   "Only A, B, C",
+   "Only B, C, D",
+   "Only B, D, E",
+   "Only C, D, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** The Vaisheshika padarthas are dravya, guna, karma, samanya, vishesha and samavaya (abhava was added later). Prameya and prayojana are among Nyaya's sixteen padarthas. (Asked in December 2023.)"
+ },
+ {
+  "id": "YOGA-PRAC8-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "How many padarthas does the Nyaya darshana enumerate?",
+  "options": [
+   "7",
+   "16",
+   "25",
+   "26"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sixteen** (Nyaya Sutra 1.1.1), beginning with pramana and prameya. Vaisheshika has six (later seven)."
+ },
+ {
+  "id": "YOGA-PRAC8-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "The four kinds of atoms (paramanu) in Vaisheshika are of",
+  "options": [
+   "space, air, fire and water",
+   "earth, space, air and water",
+   "earth, water, fire and air",
+   "space, air, earth and fire"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Akasha is one, all-pervading and not atomic; atoms are only of earth, water, fire and air."
+ },
+ {
+  "id": "YOGA-PRAC8-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "Which darshanas are regarded as non-theistic (anishvaravadi)?",
+  "options": [
+   "Samkhya and Yoga",
+   "Nyaya and Vaisheshika",
+   "Mimamsa and Vedanta",
+   "Samkhya and Purva Mimamsa"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Classical Samkhya and Purva Mimamsa do not accept a creator God. Yoga is called *seshvara* Samkhya because it admits Ishvara."
+ },
+ {
+  "id": "YOGA-PRAC8-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "The three kinds of suffering — adhyatmika, adhibhautika and adhidaivika — are associated with which darshana?",
+  "options": [
+   "Nyaya",
+   "Vaisheshika",
+   "Samkhya",
+   "Yoga"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Samkhya.** Samkhya Karika 1 begins with the enquiry into removing the threefold suffering: from oneself (body and mind), from other beings, and from the gods or nature."
+ },
+ {
+  "id": "YOGA-PRAC8-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "question_type": "mcq",
+  "question_text": "Sadhana chatushtaya — viveka, vairagya, shat-sampatti and mumukshutva — belongs to",
+  "options": [
+   "Mimamsa",
+   "Vedanta",
+   "Samkhya",
+   "Yoga"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vedanta**, as the qualification of a seeker (Shankara's *Tattvabodha* and *Vivekachudamani*). The six treasures are shama, dama, uparati, titiksha, shraddha and samadhana."
+ },
+ {
+  "id": "YOGA-PRAC8-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "question_type": "match",
+  "question_text": "Match the acharyas with their schools of Vedanta.",
+  "options": [
+   "A-iii, B-i, C-ii, D-iv, E-v",
+   "A-iii, B-i, C-ii, D-v, E-iv",
+   "A-iii, B-i, C-v, D-iv, E-ii",
+   "A-i, B-ii, C-iii, D-iv, E-v"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Ramanuja's Brahma Sutra commentary is the *Śrībhāṣya*; Shankara's is the *Śārīraka Bhāṣya*.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Shankaracharya",
+     "Ramanujacharya",
+     "Nimbarkacharya",
+     "Madhvacharya",
+     "Vallabhacharya"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Vishishtadvaita",
+     "Dvaitadvaita",
+     "Advaita",
+     "Shuddhadvaita",
+     "Dvaita"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "question_type": "mcq",
+  "question_text": "The 'Shribhashya' on the Brahma Sutra was written by",
+  "options": [
+   "Shankaracharya",
+   "Ramanujacharya",
+   "Madhvacharya",
+   "Vallabhacharya"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ramanuja**, founder of Vishishtadvaita. Shankara's is the *Śārīraka Bhāṣya*, Madhva's the *Brahmasūtra-bhāṣya* (*Aṇuvyākhyāna*)."
+ },
+ {
+  "id": "YOGA-PRAC8-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "match",
+  "question_text": "Match the theories of error (khyativada) with their proponents.",
+  "options": [
+   "A-iii, B-i, C-iv, D-ii",
+   "A-ii, B-iv, C-i, D-iii",
+   "A-iii, B-iv, C-i, D-ii",
+   "A-iv, B-iii, C-i, D-ii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Advaita calls the illusory object indescribable as real or unreal; Kumarila calls error a contrary apprehension; Prabhakara says it is non-apprehension of a difference; the Yogacharas hold that a mental idea is projected outward.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Anirvachaniya-khyati",
+     "Viparita-khyati",
+     "Akhyati",
+     "Atma-khyati"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Prabhakara Mimamsa",
+     "Yogachara Buddhism",
+     "Advaita (Shankara)",
+     "Kumarila Bhatta Mimamsa"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "The term 'Tripitaka' belongs to",
+  "options": [
+   "Jainism",
+   "Buddhism",
+   "Bahai faith",
+   "Vedic religion"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Buddhism** — the three baskets: Vinaya (monastic rules), Sutta (discourses) and Abhidhamma (philosophical analysis)."
+ },
+ {
+  "id": "YOGA-PRAC8-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a niyama, not a yama, in the Vasishtha Samhita?",
+  "options": [
+   "Shaucha",
+   "Vrata",
+   "Mitahara",
+   "Arjava"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vrata.** The ten yamas: ahimsa, satya, asteya, brahmacharya, daya, arjava, kshama, dhriti, mitahara and shaucha. The ten niyamas: tapas, santosha, astikya, dana, Ishvara-pujana, siddhanta-shravana, hri, mati, japa and vrata."
+ },
+ {
+  "id": "YOGA-PRAC8-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "mcq",
+  "question_text": "Which pair are yamas (not niyamas) in the Vasishtha Samhita?",
+  "options": [
+   "Japa and tapas",
+   "Kshama and dhriti",
+   "Astikya and hri",
+   "Santosha and dana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kshama (forbearance) and dhriti (fortitude).** The rest are niyamas."
+ },
+ {
+  "id": "YOGA-PRAC8-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "match",
+  "question_text": "The Vasishtha Samhita prescribes the measure of mitahara for different people. Match them.",
+  "options": [
+   "A-iii, B-ii, C-i, D-iv",
+   "A-ii, B-iv, C-i, D-iii",
+   "A-iv, B-ii, C-i, D-iii",
+   "A-iv, B-i, C-ii, D-iii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Householder 32, forest-dweller 16, renunciate 8 mouthfuls, and the student as much as he needs; for others, less than a full stomach.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Householder",
+     "Sannyasi",
+     "Brahmachari",
+     "Vanaprastha"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "As much as needed",
+     "Eight mouthfuls",
+     "Sixteen mouthfuls",
+     "Thirty-two mouthfuls"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "match",
+  "question_text": "Match the five elements of panchadharana in the Vasishtha Samhita with their bija mantras and deities.",
+  "options": [
+   "A-ii, B-iv, C-i, D-iii, E-v",
+   "A-ii, B-iv, C-iii, D-i, E-v",
+   "A-ii, B-i, C-iv, D-iii, E-v",
+   "A-iv, B-ii, C-i, D-iii, E-v"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Earth with Brahma, water with Vishnu, fire with Rudra, air with Maheshvara (Ishvara) and space with Sadashiva — the same scheme as in the Gheranda Samhita's five dharanas.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Prithvi (लं)",
+     "Apah (वं)",
+     "Agni (रं)",
+     "Vayu (यं)",
+     "Akasha (हं)"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Rudra",
+     "Brahma",
+     "Maheshvara",
+     "Vishnu",
+     "Sadashiva"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC8-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "mcq",
+  "question_text": "In the panchadharana of the Vasishtha Samhita, the region of the earth element is",
+  "options": [
+   "from the feet to the knees",
+   "from the knees to the anus",
+   "from the anus to the heart",
+   "from the eyebrows to the crown"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Earth: feet to knees; water: knees to anus; fire: anus to heart; air: heart to the eyebrows; space: eyebrows to the crown."
+ },
+ {
+  "id": "YOGA-PRAC8-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 11 (Darshanas, Prasthanatrayi, purusharthas, Vasishtha Samhita). From the Guru Parampara Yog Sansthan Prasthanatrayi/darshana MCQ PDF and the GPYS (Pundlik) Vasishtha Samhita test in the notes folder; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "mcq",
+  "question_text": "How many kinds of dhyana does the Vasishtha Samhita describe?",
+  "options": [
+   "Three",
+   "Two",
+   "One",
+   "Four"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Two** — saguna (with form) and nirguna (formless). Meditation on the formless Self, 'I am the unmanifest Supreme Brahman', is nirguna dhyana."
+ }
+]
