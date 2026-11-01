@@ -7,12 +7,13 @@ Run locally without sign-in or payments:  NETPYQ_DEV_MODE=1 streamlit run stream
 
 import streamlit as st
 
+from pyq import config
 from pyq.access import free_paper_label
 from pyq.filters import ALL
 from pyq.syllabus import SUBJECTS
 from pyq.ui import (account, admin_page, analytics_page, bank_page, knowledge_page, legal, library_page, plans_page,
-                    daily_page, mock_page, practice_page, protect, review_page, sidebar, state, style,
-                    trends_page)
+                    daily_page, home_page, mock_page, practice_page, protect, review_page, sidebar, state,
+                    style, trends_page)
 
 st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
@@ -21,9 +22,13 @@ account.gate()            # stops here with the sign-in screen until the user is
 admin = st.session_state.is_admin
 protect.apply()           # no copying/saving/printing, and an email watermark (not for admins)
 
+home_first = config.START_PAGE != "practice"
 PAGES = {
     # The default page always lives at "/", so it takes no url_path.
-    "practice": st.Page(practice_page.render, title="Practice", icon=":material/quiz:", default=True),
+    "home": st.Page(home_page.render, title="Home", icon=":material/home:", default=home_first,
+                    **({} if home_first else {"url_path": "home"})),
+    "practice": st.Page(practice_page.render, title="Practice", icon=":material/quiz:", default=not home_first,
+                        **({"url_path": "practice"} if home_first else {})),
     "mock": st.Page(mock_page.render, title="Mock Test", icon=":material/timer:", url_path="mock"),
     "review": st.Page(review_page.render, title="Review Mistakes", icon=":material/replay:", url_path="review"),
     "analytics": st.Page(analytics_page.render, title="Performance Analytics", icon=":material/monitoring:", url_path="analytics"),
@@ -50,7 +55,7 @@ sidebar.render(bank)
 state.show_notice()
 
 # Tell a user who hasn't unlocked the subject they're looking at how to get it.
-if not admin and page.url_path not in ("plans", "trends", "mock", "daily", *HELP):
+if not admin and page.url_path not in ("plans", "trends", "mock", "daily", *HELP) and page.title != "Home":
     subject, unlocked = st.session_state.f_subject, st.session_state.unlocked
     if subject != ALL and subject not in unlocked:
         with st.container(border=True, horizontal=True, vertical_alignment="center"):

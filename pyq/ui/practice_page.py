@@ -2,15 +2,20 @@
 
 import streamlit as st
 
-from . import question_view, state
+from . import question_view, state, style
 
 
 def _score_row(run, score) -> None:
-    c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Attempt", f"#{run.number}")
-    c2.metric("Score", f"{score.correct} / {score.answered}", help="Correct answers out of those answered in this attempt.")
-    c3.metric("Accuracy", f"{score.accuracy:.0%}" if score.accuracy is not None else "—")
-    c4.metric("Question", f"{min(run.position + 1, len(run.deck))} of {len(run.deck)}")
+    """A compact strip of chips: attempt, score, accuracy, position, wrong and skipped."""
+    wrong = score.answered - score.correct
+    skipped = max(0, min(run.position, len(run.deck)) - score.answered)
+    with st.container(key="practice-strip", horizontal=True, gap="small"):
+        st.metric("Attempt", f"#{run.number}")
+        st.metric("Score", f"{score.correct} / {score.answered}", help="Correct answers out of those answered in this attempt.")
+        st.metric("Accuracy", f"{score.accuracy:.0%}" if score.accuracy is not None else "—")
+        st.metric("Question", f"{min(run.position + 1, len(run.deck))} of {len(run.deck)}")
+        st.metric("Wrong", str(wrong))
+        st.metric("Skipped", str(skipped))
 
 
 def _finished(run, score, bank) -> None:
@@ -33,7 +38,11 @@ def render() -> None:
     run = state.ensure_run(bank)
     filters = state.current_filters()
 
-    st.title("Practice", anchor=False)
+    with st.container(horizontal=True, vertical_alignment="center"):
+        st.title("Practice", anchor=False)
+        st.toggle("Focus mode", key="focus", help="Hides the sidebar and widens the question card. Turn off to change filters.")
+    if st.session_state.get("focus"):
+        style.focus_mode()
     st.caption(filters.describe())
 
     if run.filters != filters:
@@ -65,7 +74,7 @@ def render() -> None:
             question_view.feedback(q, chosen, bank, library, "practice", note)
 
     n_mistakes = len(state.mistakes(bank))
-    with st.container(horizontal=True):
+    with st.container(horizontal=True, key="practice-nav"):
         if chosen is not None:
             last = run.position == len(run.deck) - 1
             st.button("See my score" if last else "Next question", type="primary",

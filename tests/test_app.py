@@ -168,3 +168,26 @@ def test_a_mock_test_runs_from_start_to_score(app):
     assert not app.exception, [e.message for e in app.exception]
     assert app.title[0].value == "Mock test result"
     assert any(a.mode == "mock" for a in app.session_state["log"])
+
+
+def test_home_dashboard_opens_first_and_leads_to_practice(monkeypatch):
+    import pyq.config as config
+    monkeypatch.setattr(config, "START_PAGE", "home")
+    at = AppTest.from_file(APP, default_timeout=60).run()
+    assert not at.exception, [e.message for e in at.exception]
+    assert at.title[0].value.startswith("Welcome")
+    md = texts(at)
+    assert "Start practising" in md and "Question of the day" in md and "Practice sets" in md
+    labels = [b.label for b in at.button]
+    assert "Practise" in labels and any(label.startswith("Yoga:") for label in labels)   # subject tile, practice-set button
+    at = click(at, "Start now", page="practice")
+    assert not at.exception, [e.message for e in at.exception]
+    assert at.title[0].value == "Practice"
+
+
+def test_focus_mode_and_option_cards(at):
+    at.toggle(key="focus").set_value(True).run()
+    assert not at.exception
+    at = answer(at, 1)
+    md = texts(at)
+    assert "correct answer" in md and "Knowledge Base" in md and "Detailed explanation" in md

@@ -99,8 +99,68 @@ h2, h3 { color: var(--g2) !important; }
   background: #eaf1e1;
   border: 2px solid var(--g) !important;
 }
+
+/* Practice: the score strip as small chips instead of big tiles. */
+.st-key-practice-strip [data-testid="stMetric"] { padding: .35rem .7rem; border-left-width: .25rem; min-width: 6.5rem; flex: 1 1 0; }
+.st-key-practice-strip [data-testid="stMetricValue"] { font-size: 1.15rem; }
+.st-key-practice-strip [data-testid="stMetricLabel"] p { font-size: .75rem; }
+
+/* Answer options as big, tappable cards. */
+[data-testid="stForm"] [data-testid="stElementContainer"]:has([data-testid="stRadio"]),
+[data-testid="stForm"] [data-testid="stRadio"], [data-testid="stForm"] [data-testid="stRadio"] > div { width: 100% !important; }
+[data-testid="stForm"] [data-testid="stRadioGroup"] { gap: .55rem; width: 100%; align-items: stretch; }
+[data-testid="stForm"] [data-testid="stRadioGroup"] > div { width: 100%; }
+[data-testid="stForm"] [data-testid="stRadioOption"] {
+  width: 100%; margin: 0; padding: .8rem 1rem; border: 1.5px solid var(--line); border-radius: .9rem;
+  background: #fff; cursor: pointer; transition: border-color .15s, background .15s;
+}
+[data-testid="stForm"] [data-testid="stRadioOption"]:hover { border-color: var(--g2); background: #f3f7ec; }
+[data-testid="stForm"] [data-testid="stRadioOption"]:has(input:checked) {
+  border-color: var(--g); background: #eaf1e1; box-shadow: inset .3rem 0 0 var(--g);
+}
+[data-testid="stForm"] [data-testid="stRadioOption"] p { font-size: 1.02rem; }
+
+/* After submitting: each option as a coloured card. */
+[class*="st-key-opt-"] { border-radius: .9rem; padding: .6rem 1rem; margin-bottom: .1rem; border: 1.5px solid var(--line); background: #fff; }
+[class*="st-key-opt-right-"] { border-color: #2e8b57; background: #e6f4ea; }
+[class*="st-key-opt-right-"] p { color: #1b5e3a; }
+[class*="st-key-opt-wrong-"] { border-color: #c0392b; background: #fdecea; }
+[class*="st-key-opt-wrong-"] p { color: #8e2a20; }
+[class*="st-key-opt-plain-"] p { color: var(--muted); }
+[class*="st-key-explain-"] { border-left: .3rem solid var(--lime); padding: .2rem 0 .2rem 1rem; margin-top: .6rem; }
+
+/* On phones the Next / Skip row sticks to the bottom of the screen. */
+@media (max-width: 640px) {
+  .st-key-practice-nav {
+    position: sticky; bottom: 0; z-index: 20; background: var(--cream);
+    padding: .6rem .4rem; border-top: 2px solid var(--lime); margin: 0 -1rem; justify-content: center;
+  }
+  .st-key-practice-strip [data-testid="stMetric"] { min-width: 4.6rem; }
+}
+
+/* Home dashboard cards. */
+[class*="st-key-home-card-"] { border-radius: 1.1rem; padding: 1.1rem 1.2rem; background: var(--card); border: 1px solid var(--line);
+  box-shadow: 0 6px 18px -12px rgba(29, 68, 51, .3); height: 100%; }
+.st-key-home-card-continue { background: linear-gradient(135deg, var(--g), var(--g2)); border: 0; }
+.st-key-home-card-continue p, .st-key-home-card-continue h3, .st-key-home-card-continue h4 { color: var(--cream) !important; }
+.st-key-home-card-continue button { background: var(--lime) !important; color: var(--ink) !important; border: 0 !important; }
+.st-key-home-card-continue button p { color: var(--ink) !important; }
+[class*="st-key-home-subject-"] { border-radius: 1rem; padding: 1rem 1.1rem; border: 2px solid var(--line); background: #fff; }
+[class*="st-key-home-subject-"][class*="-open"] { border-color: var(--g2); background: linear-gradient(135deg, #f1f7dd, #fff); }
 </style>
 """
+
+FOCUS = """
+<style>
+[data-testid="stSidebar"], [data-testid="stSidebarCollapsedControl"], [data-testid="stExpandSidebarButton"] { display: none !important; }
+.stMainBlockContainer { max-width: 860px; margin: 0 auto; }
+</style>
+"""
+
+
+def focus_mode() -> None:
+    """Practice without the sidebar: just the question, centred."""
+    st.markdown(FOCUS, unsafe_allow_html=True)
 
 
 def inject() -> None:

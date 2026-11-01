@@ -69,6 +69,7 @@ def init() -> None:
     ss.setdefault("runs_started", 0)
     ss.setdefault("loops_started", 0)
     ss.setdefault("shuffle", False)
+    ss.setdefault("focus", False)
     ss.setdefault("is_admin", False)
     ss.setdefault("unlocked", set())
     ss.setdefault("subs", [])

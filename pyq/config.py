@@ -1,5 +1,6 @@
 """Settings you may want to change."""
 
+import os
 from pathlib import Path
 
 # A micro-topic whose accuracy across your attempts is below this goes on
@@ -52,3 +53,7 @@ BOOK_SOURCE_MARKERS = ("Madaan", "solved-papers collection")
 
 # Where progress is kept when no [database] url is set (local development only).
 LOCAL_DB_FILE = Path(__file__).resolve().parent.parent / ".data" / "netpyq.db"
+
+
+# The page "/" opens on: the Home dashboard. Tests set NETPYQ_START_PAGE=practice so they open on Practice.
+START_PAGE = os.environ.get("NETPYQ_START_PAGE", "home")

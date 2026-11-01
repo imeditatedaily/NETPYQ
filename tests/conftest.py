@@ -5,6 +5,7 @@ import os
 import pytest
 
 os.environ["NETPYQ_DEV_MODE"] = "1"
+os.environ.setdefault("NETPYQ_START_PAGE", "practice")   # most tests drive the Practice page
 
 
 @pytest.fixture(autouse=True)

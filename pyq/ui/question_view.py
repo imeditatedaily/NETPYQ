@@ -108,15 +108,16 @@ def answer_form(q: Question, key: str, on_submit: Callable, bank: Bank) -> None:
 
 
 def _options_review(q: Question, chosen: int) -> None:
-    lines = []
+    """Each option as its own card after submitting: green for the answer, red for a wrong pick."""
     for n, text in enumerate(q.options, start=1):
         if n == q.correct_answer:
-            lines.append(f":green[:material/check_circle:] **({n}) {md(text)}**, correct answer")
+            kind, line = "right", f":material/check_circle: **({n}) {md(text)}**, correct answer"
         elif n == chosen:
-            lines.append(f":red[:material/cancel:] ~~({n}) {md(text)}~~, your answer")
+            kind, line = "wrong", f":material/cancel: ~~({n}) {md(text)}~~, your answer"
         else:
-            lines.append(f":gray[:material/radio_button_unchecked: ({n}) {md(text)}]")
-    st.markdown("  \n".join(lines))
+            kind, line = "plain", f"({n}) {md(text)}"
+        with st.container(key=f"opt-{kind}-{n}-{_css_key(q.id)}"):
+            st.markdown(line)
 
 
 def trend_insight(q: Question, bank: Bank, context: str) -> None:
@@ -203,10 +204,13 @@ def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: st
                 "unverified": ":material/help:"}[q.answer_source]
         st.caption(f"{icon} {ANSWER_SOURCES[q.answer_source]}.")
     _options_review(q, chosen)
-    st.markdown("##### Detailed explanation")
-    st.markdown(q.detailed_explanation if state.is_admin() else _public(q.detailed_explanation))
-    if q.references and state.is_admin():
-        st.caption("Sources: " + "; ".join(md(r) for r in q.references))
-    knowledge_box(q, bank, library, context)
-    trend_insight(q, bank, context)
-    study_links(q, library, context)
+    with st.container(key=f"explain-{context}-{_css_key(q.id)}"):
+        st.markdown("##### :material/lightbulb: Detailed explanation")
+        st.markdown(q.detailed_explanation if state.is_admin() else _public(q.detailed_explanation))
+        if q.references and state.is_admin():
+            st.caption("Sources: " + "; ".join(md(r) for r in q.references))
+    # The extras fold away, so the answer and its explanation stay in view.
+    with st.expander(f"More on this topic: {q.micro_topic}", icon=":material/auto_stories:"):
+        knowledge_box(q, bank, library, context)
+        trend_insight(q, bank, context)
+        study_links(q, library, context)
