@@ -52,3 +52,11 @@ def test_bad_file_is_reported_not_raised(tmp_path):
     f = tmp_path / "k.json"
     f.write_text("{ nope")
     assert load_knowledge(f).problems
+
+
+def test_traps_are_loaded_and_checked(tmp_path):
+    f = tmp_path / "k.json"
+    f.write_text('{"yoga": {"A": {"facts": ["x"], "traps": ["y"]}, "B": {"facts": ["x"], "traps": "nope"}}}')
+    kb = load_knowledge(f)
+    assert kb.note("yoga", "A").traps == ("y",)
+    assert kb.note("yoga", "B").traps == () and kb.problems
