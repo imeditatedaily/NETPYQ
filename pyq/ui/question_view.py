@@ -25,6 +25,24 @@ def md(text: str) -> str:
     return _MD_SPECIAL.sub(r"\\\1", text)
 
 
+_PROVENANCE = re.compile(r"\s*\((?:no official key|as keyed|provisional|as printed[^)]*)\)", re.I)
+
+
+_ADMIN_SENTENCE = re.compile(r"source collection|could not be checked|I could not|handout|coaching|transcri|response sheet|"
+                             r"printed edition|solved-papers|Madaan", re.I)
+
+
+def _public(text: str) -> str:
+    """Explanations as users see them: notes about keys, books and transcription are for admins."""
+    text = _PROVENANCE.sub("", text)
+    out = []
+    for para in text.split("\n"):
+        sentences = re.split(r"(?<=[.!?])\s+", para)
+        kept = [x for x in sentences if not _ADMIN_SENTENCE.search(x)]
+        out.append(" ".join(kept).replace("()", "").strip() if kept != sentences else para)
+    return "\n".join(out)
+
+
 def _css_key(text: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_-]", "-", text)
 
@@ -35,7 +53,10 @@ def syllabus_tags(q: Question) -> None:
         st.badge(q.subject_info.display, icon=":material/school:", color="gray")
         st.badge(q.macro_unit, icon=":material/layers:", color="blue")
         st.badge(q.micro_topic, icon=":material/target:", color="orange")
-    st.caption(f"{QUESTION_TYPES[q.question_type]} · {q.source_label} · `{q.id}`", help=q.source_note or None)
+    if state.is_admin():
+        st.caption(f"{QUESTION_TYPES[q.question_type]} · {q.source_label} · `{q.id}`", help=q.source_note or None)
+    else:   # where a question came from is never shown to users, only its exam session
+        st.caption(f"{QUESTION_TYPES[q.question_type]} · {q.session_label}")
 
 
 def question_body(q: Question) -> None:
@@ -105,6 +126,11 @@ def trend_insight(q: Question, bank: Bank, context: str) -> None:
         st.markdown("#### :material/trending_up: Trend Insight")
         st.caption(f"{q.micro_topic} · {q.macro_unit}")
         st.markdown(f"**Frequency in loaded papers.** {freq.sentence(q.subject_info.short)}")
+        if not state.has_full_access(q.subject):
+            st.markdown(":material/lock: **The full trend analysis for this topic is for subscribers.**")
+            st.button("See plans", icon=":material/workspace_premium:", key=f"trend-lock-{context}-{q.id}",
+                      on_click=state.go, args=("plans",))
+            return
         st.markdown(q.trend_analysis)
         others = sum(x.micro_topic == q.micro_topic and x.subject == q.subject for x in bank.questions)
         if others > 1:
@@ -130,13 +156,18 @@ def knowledge_box(q: Question, bank: Bank, library: Library, context: str, limit
             st.caption("Key facts for this topic are being written. The explanation above covers this question.")
         st.markdown(f"**How this topic is asked.** {pattern.sentence()}")
         earlier = [x for x in pattern.questions if x.id != q.id]
+        if not state.has_full_access(q.subject):
+            limit = 2
         if earlier:
             with st.expander(f"Earlier questions on this topic ({len(earlier)})", icon=":material/history:"):
                 for x in earlier[:limit]:
                     st.markdown(f"- **{md(x.session_label)}** · {md(short_stem(x))}  \n"
                                 f"  :green[Answer: ({x.correct_answer}) {md(x.correct_text)}]")
                 if len(earlier) > limit:
-                    st.caption(f"…and {len(earlier) - limit} more. Use the button in Trend Insight to practise them all.")
+                    if state.has_full_access(q.subject):
+                        st.caption(f"…and {len(earlier) - limit} more. Use the button in Trend Insight to practise them all.")
+                    else:
+                        st.caption(f":material/lock: …and {len(earlier) - limit} more for subscribers.")
 
 
 def study_links(q: Question, library: Library, context: str) -> None:
@@ -167,14 +198,14 @@ def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: st
                  f"{md(q.correct_text)}", icon=":material/cancel:")
     if note:
         st.caption(note)
-    if q.answer_source:
+    if q.answer_source and state.is_admin():
         icon = {"official_key": ":material/verified:", "cross_checked": ":material/fact_check:",
                 "unverified": ":material/help:"}[q.answer_source]
         st.caption(f"{icon} {ANSWER_SOURCES[q.answer_source]}.")
     _options_review(q, chosen)
     st.markdown("##### Detailed explanation")
-    st.markdown(q.detailed_explanation)
-    if q.references:
+    st.markdown(q.detailed_explanation if state.is_admin() else _public(q.detailed_explanation))
+    if q.references and state.is_admin():
         st.caption("Sources: " + "; ".join(md(r) for r in q.references))
     knowledge_box(q, bank, library, context)
     trend_insight(q, bank, context)

@@ -40,7 +40,7 @@ class Filters:
         if self.subject != ALL:
             parts.append(SUBJECTS[self.subject].name)
         if self.session != ALL:
-            parts.append("Undated" if self.session == UNDATED else self.session.replace("-", " "))
+            parts.append("Practice sets" if self.session == UNDATED else self.session.replace("-", " "))
         if self.unit != ALL:
             parts.append(self.unit)
         if self.topic != ALL:
@@ -68,7 +68,7 @@ def session_choices(questions: Sequence[Question]) -> dict[str, str]:
             choices[key] = f"   {labels[key]} ({per_session[key]})"
     undated = len(questions) - len(dated)
     if undated:
-        choices[UNDATED] = f"Undated / PYQ-pattern ({undated})"
+        choices[UNDATED] = f"Practice sets and samples ({undated})"
     return choices
 
 

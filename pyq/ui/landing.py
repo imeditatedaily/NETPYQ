@@ -458,7 +458,7 @@ def _combo_card(stats: dict) -> str:
 def _free_card(n_free: int) -> str:
     paper = f"<li><b>A full real paper: {escape(free_paper_label())}</b> ({n_free} questions)</li>" if n_free else ""
     return f"""<div class="lp-price"><h3>Free</h3><div class="code">For everyone who signs in</div>
-<div class="amt">₹0</div><ul>{paper}<li>Sample questions in every NTA format</li><li>Full explanations and trend insight</li><li>Unit-wise and topic-wise PYQ trends</li>
+<div class="amt">₹0</div><ul>{paper}<li>Sample questions in every NTA format</li><li>Full explanations</li><li>A preview of the PYQ trends</li>
 <li>Timed mock test on the free paper</li><li>No card needed</li></ul></div>"""
 
 
@@ -466,12 +466,12 @@ def _faq(years_by_subject: dict[str, str]) -> str:
     covered = "; ".join(f"{SUBJECTS[k].name}: {v}" for k, v in years_by_subject.items() if v) or "being added"
     qa = [
         ("Are these the real UGC NET questions?",
-         "Yes. Every question in a paid subject comes from an actual UGC NET paper, checked against the official "
-         "answer key, and is tagged with its exam session. The extra sample questions are written in NTA's pattern and are "
-         "marked as such. We are not affiliated with NTA or UGC."),
+         "Yes. Each subject has the real UGC NET papers, tagged by exam session, plus practice sets written in "
+         "NTA's exact pattern so you never run out of questions. Every question comes with a full explanation. "
+         "We are not affiliated with NTA or UGC."),
         ("What do I get for free?",
          f"A complete real paper ({free_paper_label()}) with every explanation, the timed mock test on it, the "
-         "question of the day, PYQ trends for every unit and topic, and sample questions in every NTA format. "
+         "question of the day, a preview of the PYQ trends, and sample questions in every NTA format. "
          "No card needed."),
         ("Which exam sessions are covered?", f"Right now: {covered}. New papers are added to your subject at no extra cost."),
         ("How do I pay, and can I cancel?",

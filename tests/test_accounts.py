@@ -205,3 +205,31 @@ def test_policy_pages_render(path):
     at.run()
     assert not at.exception, [e.message for e in at.exception]
     assert at.title and "NTA" in "\n".join(c.value for c in at.caption)
+
+
+def _trends(unlocked=()):
+    at = as_user(unlocked)
+    at.session_state["goto"] = "trends"
+    at = at.run()
+    assert not at.exception, [e.message for e in at.exception]
+    return " ".join(m.value for m in at.markdown)
+
+
+def test_free_user_sees_only_a_preview_of_the_trends():
+    text = _trends()
+    assert "is for subscribers" in text and "Every micro-topic" not in text
+
+
+def test_subscriber_sees_the_full_trends():
+    at = as_user({"yoga", "paper1"})
+    at.session_state["goto"] = "trends"
+    at = at.run()
+    assert not [m for m in at.markdown if "is for subscribers" in m.value]
+    assert any(s.value == "Every micro-topic" for s in at.subheader)
+
+
+def test_users_are_not_told_where_a_question_came_from():
+    at = as_user({"yoga"})
+    at.segmented_control(key="f_subject").set_value("yoga").run()
+    captions = " ".join(c.value for c in at.caption)
+    assert "Official paper" not in captions and "YOGA-" not in captions

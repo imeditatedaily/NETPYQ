@@ -14,8 +14,14 @@ headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:ital,o
 baseRadius = "0.75rem"
 greenColor = "#2f6b4f"
 
+# The sidebar is the deep green band of the sign-in page, with cream text and lime accents.
 [theme.sidebar]
-backgroundColor = "#ebe4d2"
+backgroundColor = "#1d4433"
+secondaryBackgroundColor = "#2a5a44"
+textColor = "#f5f0e4"
+primaryColor = "#d8f45a"
+borderColor = "#3d6b55"
+linkColor = "#d8f45a"
 
 [client]
 toolbarMode = "viewer"

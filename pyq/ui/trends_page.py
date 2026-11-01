@@ -90,6 +90,16 @@ def _topic_table(topics: pd.DataFrame, p: trends.Pattern) -> None:
         })
 
 
+def _locked(what: str, key: str) -> None:
+    """Teaser shown in place of a section a free user cannot see."""
+    with st.container(border=True, key=f"locked-{key}"):
+        st.markdown(f":material/lock: **{what}** is for subscribers.")
+        st.caption("Subscribe to this subject to see the full paper-by-paper pattern, rising and fading topics, "
+                   "and every micro-topic counted.")
+        st.button("See plans", icon=":material/workspace_premium:", key=f"lock-btn-{key}",
+                  on_click=state.go, args=("plans",), type="primary")
+
+
 def render() -> None:
     full = state.get_full_bank()
     available = sellable_subjects(full)
@@ -108,6 +118,7 @@ def render() -> None:
                                    format_func=lambda s: SUBJECTS[s].display)
     p = trends.pattern(sellable_questions(full, subject))
     info = SUBJECTS[subject]
+    full_access = state.has_full_access(subject)
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Papers analysed", p.papers)
@@ -131,6 +142,20 @@ def render() -> None:
     st.markdown("**The top three units make up " + f"{top['share'].sum():.0%}" + " of all questions:** " +
                 ", ".join(f"{_short_unit(u).split(' · ', 1)[1]} ({s:.0%})" for u, s in zip(top["unit"], top["share"])) + ".")
     st.altair_chart(_unit_chart(p.units), width="stretch")
+    if not full_access:
+        st.header("Topic-wise pattern", anchor=False)
+        regular = trends.regular_topics(p)
+        if not regular.empty:
+            st.subheader("Asked almost every time: a preview", anchor=False)
+            cols = st.columns(3)
+            for i, r in enumerate(regular.head(3).itertuples()):
+                with cols[i].container(border=True):
+                    st.markdown(f"**{r.topic}**")
+                    st.caption(_short_unit(r.unit))
+                    st.progress(float(r.asked_share), text=f"Asked in {r.papers_asked} of {p.papers} papers")
+            st.caption(f"{len(p.topics)} micro-topics are counted in all.")
+        _locked("The full topic-wise pattern", "topics")
+        return
     if p.papers > 1:
         st.subheader("Unit × paper", anchor=False)
         st.caption("Each cell is the number of questions from that unit in that paper. Read across a row to see if a "

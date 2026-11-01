@@ -111,6 +111,16 @@ def show_notice() -> None:
 
 # --- navigation: callbacks set a target, streamlit_app.py switches page ------------------
 
+def has_full_access(subject: str) -> bool:
+    """Admins, and subscribers to this subject, see everything (full trends, sources stay hidden for all but admins)."""
+    ss = st.session_state
+    return ss.get("is_admin", False) or subject in ss.get("unlocked", set())
+
+
+def is_admin() -> bool:
+    return st.session_state.get("is_admin", False)
+
+
 def go(page: str) -> None:
     st.session_state["goto"] = page
 

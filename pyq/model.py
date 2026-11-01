@@ -7,7 +7,7 @@ from typing import Any, Literal
 from .syllabus import SUBJECTS, UNIT_INDEX, Subject
 
 type QuestionType = Literal["mcq", "match", "assertion_reason", "statements", "sequence"]
-type SourceType = Literal["official", "memory_based", "model"]
+type SourceType = Literal["official", "memory_based", "model", "practice"]
 type AnswerSource = Literal["official_key", "cross_checked", "unverified", ""]
 
 QUESTION_TYPES: dict[str, str] = {
@@ -22,6 +22,7 @@ SOURCE_TYPES: dict[str, str] = {
     "official": "Official paper",
     "memory_based": "Memory-based PYQ",
     "model": "PYQ-pattern model",
+    "practice": "Practice question",
 }
 
 ANSWER_SOURCES: dict[str, str] = {
@@ -99,7 +100,9 @@ class Question:
 
     @property
     def session_label(self) -> str:
-        return f"{self.exam_cycle} {self.exam_year}" if self.is_dated else "Undated"
+        if self.is_dated:
+            return f"{self.exam_cycle} {self.exam_year}"
+        return "Practice set" if self.source_type == "practice" else "Undated"
 
     @property
     def session_order(self) -> int:
@@ -112,6 +115,8 @@ class Question:
     def source_label(self) -> str:
         if self.source_type == "model":
             return "PYQ-pattern model, undated"
+        if self.source_type == "practice":
+            return "Practice question"
         bits = [self.session_label]
         if self.paper:
             bits.append(self.paper)
@@ -233,7 +238,9 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
         errors.append(f'source.type "{source_type}" is not one of: {", ".join(SOURCE_TYPES)}')
     elif source_type == "model" and dated:
         errors.append("a model question cannot have an exam_year or exam_cycle")
-    elif source_type != "model" and not dated:
+    elif source_type == "practice" and dated:
+        errors.append("a practice question cannot have an exam_year or exam_cycle")
+    elif source_type not in ("model", "practice") and not dated:
         errors.append(f"a {source_type} question needs exam_year and exam_cycle")
 
     references = _texts(raw.get("references") or [])
