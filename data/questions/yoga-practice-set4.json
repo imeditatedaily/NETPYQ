@@ -1,0 +1,393 @@
+[
+ {
+  "id": "YOGA-PRAC4-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "How many upadeshas (chapters) does the Siddha Siddhanta Paddhati have?",
+  "options": [
+   "Four",
+   "Five",
+   "Six",
+   "Seven"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Six.** 1 Pindotpatti (origin of the body), 2 Pinda-vichara (reflection on the body), 3 Pinda-samvitti (knowledge of the body), 4 Pinda-adhara (support of the body), 5 Pinda-pada-samarasya (union of body and the supreme state), 6 Avadhuta yogi. The text is ascribed to Gorakshanatha."
+ },
+ {
+  "id": "YOGA-PRAC4-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "Match the upadeshas of the Siddha Siddhanta Paddhati with their subjects: (A) first (B) second (C) fourth (D) sixth — with (1) Pinda-adhara (2) Avadhuta yogi (3) Pindotpatti (4) Pinda-vichara.",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-1, D-2",
+   "A-3, B-4, C-2, D-1",
+   "A-3, B-1, C-4, D-2"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The first upadesha tells how the body arises from Shiva; the second reflects on the body's chakras, adharas, lakshyas and vyomas; the third finds the cosmos in the body; the fourth treats kundalini as the body's support; the fifth the union of body and supreme state; the sixth describes the avadhuta."
+ },
+ {
+  "id": "YOGA-PRAC4-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "In the Siddha Siddhanta Paddhati, the first of the five shaktis of Shiva, the shakti of the nameless (anama) Para Brahman, is",
+  "options": [
+   "Nija",
+   "Para",
+   "Apara",
+   "Sukshma"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Nija shakti.** SSP 1: from the nameless arises nija shakti; from it para, then apara, sukshma and kundalini — the five shaktis from which creation unfolds."
+ },
+ {
+  "id": "YOGA-PRAC4-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "Arrange the five shaktis in the order in which they arise according to the Siddha Siddhanta Paddhati: (a) Apara (b) Para (c) Nija (d) Kundalini (e) Sukshma",
+  "options": [
+   "(a), (b), (c), (d), (e)",
+   "(e), (d), (c), (b), (a)",
+   "(c), (b), (a), (d), (e)",
+   "(c), (b), (a), (e), (d)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Nija → Para → Apara → Sukshma → Kundalini.** Each has five gunas, giving the twenty-five gunas of the *para piṇḍa*."
+ },
+ {
+  "id": "YOGA-PRAC4-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "How many chakras are described in the second upadesha of the Siddha Siddhanta Paddhati?",
+  "options": [
+   "6",
+   "7",
+   "9",
+   "12"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Nine.** Brahma (adhara), svadhishthana, nabhi, hridaya (anahata), kantha, talu, bhru, nirvana (brahmarandhra) and akasha chakras — with nine chakras, sixteen adharas, three lakshyas and five vyomas making up the 'pinda vichara'."
+ },
+ {
+  "id": "YOGA-PRAC4-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "According to the Siddha Siddhanta Paddhati, the akasha chakra, the ninth, is a lotus of how many petals?",
+  "options": [
+   "10,000",
+   "16",
+   "12",
+   "1,000"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sixteen.** SSP 2.9: the ninth, akasha chakra, has sixteen petals; in its centre one should meditate on the void beyond form (*śūnya*)."
+ },
+ {
+  "id": "YOGA-PRAC4-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "How many adharas does the Siddha Siddhanta Paddhati describe?",
+  "options": [
+   "18",
+   "16",
+   "5",
+   "9"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sixteen**, from the big toe (*pādāṅguṣṭha*) up through the mula, guda, medhra, uddiyana, nabhi, hridaya, kantha, ghantika, talu, jihva, bhrumadhya, nasa, nasamula and lalata to the brahmarandhra."
+ },
+ {
+  "id": "YOGA-PRAC4-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "The three lakshyas of the Siddha Siddhanta Paddhati are",
+  "options": [
+   "antar, bahir and madhya lakshya",
+   "antar, bahir and parama lakshya",
+   "bahir, madhya and shunya lakshya",
+   "sthula, sukshma and karana lakshya"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The inner (antar), outer (bahir) and middle (madhya) lakshyas — points of attention within the body, outside it, and in space before it."
+ },
+ {
+  "id": "YOGA-PRAC4-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "Arrange the five vyomas of the Siddha Siddhanta Paddhati in order: (A) Akasha (B) Parakasha (C) Tattvakasha (D) Mahakasha (E) Suryakasha",
+  "options": [
+   "(A), (B), (C), (D), (E)",
+   "(A), (B), (D), (C), (E)",
+   "(E), (C), (D), (B), (A)",
+   "(A), (B), (D), (E), (C)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Akasha → Parakasha → Mahakasha → Tattvakasha → Suryakasha.** The five spaces of the second upadesha, each to be meditated on in turn."
+ },
+ {
+  "id": "YOGA-PRAC4-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "How many angas (limbs) of yoga does the Siddha Siddhanta Paddhati describe?",
+  "options": [
+   "Four",
+   "Six",
+   "Eight",
+   "Two"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Eight** — yama, niyama, asana, pranayama, pratyahara, dharana, dhyana and samadhi, given in the second upadesha with its own definitions. (The Goraksha Shataka, by contrast, has six limbs.)"
+ },
+ {
+  "id": "YOGA-PRAC4-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "How many asanas does the Siddha Siddhanta Paddhati name?",
+  "options": [
+   "Three",
+   "Four",
+   "Ten",
+   "Fifteen"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Three** — svastikasana, padmasana and siddhasana. Asana is defined as sitting steady, established in one's own nature, in any one of them."
+ },
+ {
+  "id": "YOGA-PRAC4-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "The four lakshanas of pranayama in the Siddha Siddhanta Paddhati are",
+  "options": [
+   "rechaka, puraka, kumbhaka and holding the breath steady at a particular place",
+   "puraka, kumbhaka, rechaka and bandha",
+   "rechaka, puraka, kevala and sahita",
+   "ida, pingala, sushumna and kundalini"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** SSP 2: pranayama is rechaka, puraka, kumbhaka and *saṅghaṭṭīkaraṇa* — fixing the breath steady at a chosen point."
+ },
+ {
+  "id": "YOGA-PRAC4-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "In the Siddha Siddhanta Paddhati, the 'dashama dvara' (tenth door) is located at",
+  "options": [
+   "the ghantika (talu chakra)",
+   "the bhru chakra",
+   "the akasha chakra",
+   "the muladhara"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Ghantika.** In the talu chakra are the ghantika and lambika; it is called the tenth door and the *rājadanta*. Meditating on the void there brings the mind to dissolution."
+ },
+ {
+  "id": "YOGA-PRAC4-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "In which chakra does the Siddha Siddhanta Paddhati place meditation on the hamsa-kala jyoti?",
+  "options": [
+   "Nabhi chakra",
+   "Hridaya (anahata) chakra",
+   "Kantha chakra",
+   "Bhru chakra"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Hridaya.** In the eight-petalled heart lotus one meditates on the *haṃsa-kalā* in the form of light (*jyoti*); success there brings control of the senses."
+ },
+ {
+  "id": "YOGA-PRAC4-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "The fifth upadesha of the Siddha Siddhanta Paddhati is called",
+  "options": [
+   "Pindotpatti",
+   "Pinda-vichara",
+   "Avadhuta yoga",
+   "Pinda-pada-samarasya"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Pinda-pada-samarasya** — the union of the individual body with the supreme state, attained through the guru's grace."
+ },
+ {
+  "id": "YOGA-PRAC4-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "According to the Siddha Siddhanta Paddhati, how many kinds of kundalini are there?",
+  "options": [
+   "Two",
+   "Three",
+   "Four",
+   "Eight"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Two.** SSP 4: kundalini is twofold — *prabuddhā* (awakened) and *aprabuddhā* (sleeping). As shakti it is threefold: adhah (lower), madhya (middle) and urdhva (upper)."
+ },
+ {
+  "id": "YOGA-PRAC4-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 4 (Siddha Siddhanta Paddhati). Written from 'SSP ALL MCQ- GPYS.pdf' (Guru Parampara Yog Sansthan) in the notes folder; only items whose keys could be confirmed from the SSP were kept."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "mcq",
+  "question_text": "In the sixth upadesha of the Siddha Siddhanta Paddhati, the avadhuta is described as one who",
+  "options": [
+   "lives in any of the four ashramas, beyond all of them",
+   "must live only as a sannyasi",
+   "belongs only to the brahmachari ashrama",
+   "rejects every ashrama"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The avadhuta has shaken off all bonds; he may appear in any of the four ashramas, sometimes behaving as an enjoyer, sometimes as a yogi, a madman, a king or a guru, while his mind rests in the supreme."
+ }
+]
