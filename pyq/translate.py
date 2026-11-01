@@ -6,7 +6,8 @@ need the real sentences. Nothing here imports Streamlit.
 
 A translation file is a JSON object: {question_id: {field: text or [texts]}}.
 In a list, null means "translate this entry by rule". "@<question id>" as a
-field's value reuses that question's translation (shared passages and tables).
+field's value reuses that question's translation (shared passages and tables);
+"=" keeps the field as it is (a passage already in the target language).
 Fields: question_text, options, items, list_i_title, list_i, list_ii_title,
 list_ii, assertion, reason, prompt, passage, table_title, table_columns,
 table_rows.
@@ -265,6 +266,9 @@ def translated(q: Question, to: str, table: Mapping[str, dict]) -> tuple[Questio
     changes: dict = {}
     for name, value in _fields(q).items():
         v = given.get(name)
+        if v == "=":                                        # already in the target language: keep it
+            changes[name] = value if not isinstance(value, list) else tuple(value)
+            continue
         if isinstance(v, str) and v.startswith("@"):        # shared passage/table: "@<question id>"
             v = table.get(v[1:], {}).get(name)
         if v is not None:
