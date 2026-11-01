@@ -2,7 +2,6 @@
 
 import streamlit as st
 
-from ..analytics import log_frame
 from ..bank import Bank
 from ..filters import ALL, apply, session_choices, topic_choices, type_choices, unit_choices
 from ..syllabus import SUBJECTS
@@ -27,7 +26,6 @@ def _account() -> None:
 
 
 def render(bank: Bank) -> None:
-    ss = st.session_state
     questions = bank.questions
     with st.sidebar:
         _account()
@@ -56,16 +54,7 @@ def render(bank: Bank) -> None:
         c2.metric("Accuracy", f"{correct / len(log):.0%}" if log else "—")
         st.caption(f"{len(state.mistakes(bank))} question(s) waiting in Review Mistakes.")
 
-        st.download_button("Download log (JSON)", state.log_json(), file_name="ugc-net-attempt-log.json",
-                           mime="application/json", icon=":material/download:", on_click="ignore",
-                           disabled=not log, width="stretch",
-                           help="Keeps your history: load it back after a refresh or on another device.")
-        st.download_button("Download log (CSV)", log_frame(log).to_csv(index=False), file_name="ugc-net-attempt-log.csv",
-                           mime="text/csv", icon=":material/table:", on_click="ignore", disabled=not log, width="stretch")
-        uploader_key = f"log_upload_{ss.upload_nonce}"
-        st.file_uploader("Load a saved log (JSON)", type=["json"], key=uploader_key,
-                         on_change=state.load_log_file, args=(uploader_key,))
         with st.popover("Clear my progress", icon=":material/delete:", width="stretch"):
-            st.write("Delete every answer saved to your account? Download the log first if you want to keep it.")
+            st.write("Delete every answer saved to your account? This cannot be undone.")
             st.button("Yes, clear everything", type="primary", on_click=state.reset_session)
         st.caption("Every answer is saved to your account, so your progress is here after a refresh or on another device.")
