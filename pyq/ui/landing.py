@@ -77,6 +77,9 @@ CSS = """
 .lp-fine span { white-space: nowrap; }
 .lp-fine span::before { content: "✓ "; color: var(--lp-green-2); font-weight: 700; }
 
+.lp-maker { display: inline-block; background: var(--lp-lime); color: var(--lp-ink); font-size: .82rem; font-weight: 600;
+  border-radius: 999px; padding: .3rem .85rem; margin: -.3rem 0 1.1rem; }
+
 /* Sign-in buttons */
 [class*="st-key-lp-signin"] button { border-radius: 999px; padding: .85rem 1.7rem; font-weight: 600;
   font-size: 1rem; border: 0; box-shadow: 0 6px 18px rgba(29, 68, 51, .18); transition: transform .15s ease; }
@@ -221,6 +224,7 @@ def _hero_copy(total: int, papers: int, years: str) -> str:
     span = f" ({years})" if years else ""
     return f"""
 <p class="lp-eyebrow">UGC NET · Yoga (100) · Paper 1 · IKS (103)</p>
+<p class="lp-maker">Built by a doctoral fellow in the science of yoga</p>
 <h1 class="lp-h1">Every question NTA has asked.<em>Every answer explained.</em></h1>
 <p class="lp-lead">Practise <b>{total} real previous-year questions</b> from <b>{papers} UGC NET papers</b>{span}, each mapped
 to its syllabus unit and micro-topic. Every option gets an explanation, so you learn why the wrong answers are wrong too.</p>
@@ -442,7 +446,7 @@ def render() -> None:
 
     with st.container(key="lp-final"):
         st.html('<h2 class="lp-final-h">The best predictor of the next paper<br><em>is every paper before it.</em></h2>'
-                '<p class="lp-final-p">Sign in, try the free questions, and see your weak topics within your first session.</p>')
+                '<p class="lp-final-p">Written and checked by a doctoral fellow in the science of yoga. Sign in, try the free questions, and see your weak topics within your first session.</p>')
         _signin("lp-signin-final", "Start practising free")
     st.html('<p class="lp-foot">Sign-in uses only your Google name and email, to save your progress. '
             'Not affiliated with the National Testing Agency (NTA) or the University Grants Commission (UGC). '
