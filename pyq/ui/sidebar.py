@@ -30,6 +30,8 @@ def render(bank: Bank) -> None:
     with st.sidebar:
         _account()
         st.divider()
+        from .question_view import language_toggle
+        language_toggle()
         st.header("Filters", anchor=False)
         subject = st.segmented_control(
             "Subject", [ALL, *SUBJECTS], key="f_subject", required=True,

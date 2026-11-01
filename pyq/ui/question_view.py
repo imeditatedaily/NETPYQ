@@ -11,6 +11,7 @@ from ..analytics import topic_frequency
 from ..knowledge import short_stem, topic_pattern
 from ..bank import Bank
 from ..library import Library
+from .. import translate
 from ..model import ANSWER_SOURCES, QUESTION_TYPES, Question
 from . import state
 
@@ -45,6 +46,30 @@ def _public(text: str) -> str:
 
 def _css_key(text: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_-]", "-", text)
+
+
+def language_toggle(key: str = "lang") -> None:
+    """English / हिन्दी: which language questions are shown in."""
+    if st.session_state.get(key) not in translate.LANG_NAMES:
+        st.session_state[key] = translate.EN
+    st.segmented_control("Question language", list(translate.LANG_NAMES), key=key, required=True,
+                         format_func=translate.LANG_NAMES.get,
+                         help="Questions appear in the language of the paper they come from. Pick a language to "
+                              "see every question in it; translated questions are marked.")
+
+
+def localize(q: Question, note: bool = True) -> Question:
+    """q in the chosen language, with a one-line note when it is a translation."""
+    lang = st.session_state.get("lang", translate.EN)
+    out, status = translate.translated(q, lang, state.get_translations())
+    if note and status == "translated":
+        src = "Hindi" if lang == translate.EN else "English"
+        st.caption(f":material/translate: Translated from the {src} paper"
+                   if lang == translate.EN else ":material/translate: अंग्रेज़ी प्रश्नपत्र से अनूदित")
+    elif note and status == "missing":
+        st.caption(":material/translate: English translation coming soon; shown as printed."
+                   if lang == translate.EN else ":material/translate: हिन्दी अनुवाद शीघ्र; मूल रूप में दिखाया गया है।")
+    return out
 
 
 def syllabus_tags(q: Question) -> None:

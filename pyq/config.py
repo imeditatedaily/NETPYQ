@@ -20,6 +20,9 @@ QUESTION_DIR = Path(__file__).resolve().parent.parent / "data" / "questions"
 # Trend notes per micro-topic, used by questions that leave trend_analysis empty.
 TOPIC_FILE = Path(__file__).resolve().parent.parent / "data" / "topics.json"
 
+# The other language of each question (see pyq/translate.py).
+TRANSLATION_DIR = Path(__file__).resolve().parent.parent / "data" / "translations"
+
 # Knowledge base: key facts per micro-topic, shown after every answer.
 KNOWLEDGE_FILE = Path(__file__).resolve().parent.parent / "data" / "knowledge.json"
 
@@ -39,10 +42,10 @@ SUBJECT_PRICE_INR = 500
 # subjects for PASS_DAYS from the day of payment, and never renews.
 #   key: (name, price in rupees, subjects)
 PASSES = {
-    "yoga": ("Yoga exam pass", 1499, ("yoga",)),
-    "paper1": ("Paper 1 exam pass", 1499, ("paper1",)),
-    "iks": ("IKS exam pass", 1499, ("iks",)),
-    "combo": ("Paper 1 + Yoga exam pass", 1999, ("paper1", "yoga")),
+    "yoga": ("Yoga exam pass", 999, ("yoga",)),
+    "paper1": ("Paper 1 exam pass", 999, ("paper1",)),
+    "iks": ("IKS exam pass", 999, ("iks",)),
+    "combo": ("Paper 1 + Yoga exam pass", 1499, ("paper1", "yoga")),
 }
 PASS_DAYS = 182          # about six months: one NET cycle
 

@@ -11,7 +11,7 @@ import streamlit as st
 
 from ..access import visible_bank
 from ..bank import Bank, folder_signature, load_bank
-from ..config import INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE
+from ..config import INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE, TRANSLATION_DIR
 from ..knowledge import KnowledgeBase, load_knowledge
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
@@ -38,6 +38,17 @@ def get_bank() -> Bank:
     """The questions this user may see: free samples plus the subjects they subscribe to."""
     ss = st.session_state
     return visible_bank(get_full_bank(), admin=ss.get("is_admin", False), unlocked=ss.get("unlocked", set()))
+
+
+@st.cache_resource(show_spinner=False)
+def _translations(_signature: tuple) -> dict:
+    from ..translate import load
+    return load(TRANSLATION_DIR)
+
+
+def get_translations() -> dict:
+    files = sorted(TRANSLATION_DIR.glob("*.json")) if TRANSLATION_DIR.is_dir() else []
+    return _translations(tuple((p.name, p.stat().st_mtime) for p in files))
 
 
 @st.cache_resource(show_spinner=False)
@@ -73,6 +84,7 @@ def init() -> None:
     ss.setdefault("is_admin", False)
     ss.setdefault("unlocked", set())
     ss.setdefault("subs", [])
+    ss.setdefault("lang", "en")         # question language: "en" or "hi"
     for key in FILTER_KEYS.values():
         ss.setdefault(key, ALL)
 

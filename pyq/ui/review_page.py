@@ -70,6 +70,7 @@ def render() -> None:
     chosen = loop.answers.get(q.id)
     with st.container(border=True):
         question_view.syllabus_tags(q)
+        q = question_view.localize(q)
         question_view.question_body(q)
         if chosen is None:
             question_view.answer_form(q, f"r{loop.number}-{loop.round}-{q.id}", state.submit_review, bank)

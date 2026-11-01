@@ -168,6 +168,7 @@ def _in_progress(test: MockTest) -> None:
         with st.container(border=True):
             st.caption(f"Question {test.position + 1} of {len(test.question_ids)} · "
                        f"{mock.MARKS_PER_QUESTION} marks · no negative marking")
+            q = question_view.localize(q)
             question_view.question_body(q)
             key = _choice_key(test, q.id)
             if key not in st.session_state:
@@ -233,6 +234,7 @@ def _result(test: MockTest) -> None:
             continue
         icon = {"Correct": ":material/check_circle:", "Wrong": ":material/cancel:", "Not attempted": ":material/remove:"}[verdict]
         with st.expander(f"Q{i} · {verdict} · {q.micro_topic}", icon=icon):
+            q = question_view.localize(q, note=False)
             question_view.question_body(q)
             if chosen is None:
                 st.markdown(f":green[**Answer: ({q.correct_answer}) {question_view.md(q.correct_text)}**]")
