@@ -1,0 +1,990 @@
+[
+ {
+  "id": "YOGA-PRAC5-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, the seven means (saptasadhana) give the body seven qualities. Which pair is correctly matched?",
+  "options": [
+   "Shatkarma — dhairya",
+   "Asana — dridhata (firmness)",
+   "Mudra — laghava",
+   "Pranayama — sthirata"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** GS 1.10–11: shatkarma gives purification (shodhana), asana firmness (dridhata), mudra steadiness (sthirata), pratyahara patience (dhairya), pranayama lightness (laghava), dhyana perception of the Self (pratyaksha) and samadhi detachment (nirliptata)."
+ },
+ {
+  "id": "YOGA-PRAC5-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "question_type": "sequence",
+  "question_text": "Arrange the seven limbs of the Gheranda Samhita in order.",
+  "options": [
+   "(B), (D), (A), (E), (C)",
+   "(B), (A), (D), (E), (C)",
+   "(D), (B), (A), (C), (E)",
+   "(B), (D), (E), (A), (C)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Shatkarma → asana → mudra → pratyahara → pranayama**, then dhyana and samadhi. Note that in the GS pratyahara comes before pranayama.",
+  "items": [
+   "Mudra",
+   "Shatkarma",
+   "Pranayama",
+   "Asana",
+   "Pratyahara"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC5-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita's list of the six cleansing acts, which pair completes 'dhautir vastis tathā netir ___ ___ tathā, kapālabhātiś caitāni'?",
+  "options": [
+   "Trataka, lauliki",
+   "Lauliki, trataka",
+   "Lauliki, chakri",
+   "Trataka, gajakarani"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** GS 1.12: dhauti, vasti, neti, lauliki, trataka and kapalabhati. (HP 2.22 has the same six, with nauli for lauliki.)"
+ },
+ {
+  "id": "YOGA-PRAC5-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "How many kinds of dhauti does the Gheranda Samhita describe?",
+  "options": [
+   "Four",
+   "Ten",
+   "Twelve",
+   "Six"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Four** — antar dhauti, danta dhauti, hrid dhauti and mula shodhana (GS 1.13), with thirteen practices among them in all."
+ },
+ {
+  "id": "YOGA-PRAC5-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a type of antar dhauti in the Gheranda Samhita?",
+  "options": [
+   "Vatasara",
+   "Varisara",
+   "Vahnisara",
+   "Kapalarandhra"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Kapalarandhra**, which is a kind of danta dhauti. The four antar dhautis are vatasara, varisara, vahnisara (agnisara) and bahishkrita (GS 1.14)."
+ },
+ {
+  "id": "YOGA-PRAC5-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Which three practices make up hrid dhauti in the Gheranda Samhita?",
+  "options": [
+   "Danda, vamana and vasa",
+   "Danda, vamana and kapalarandhra",
+   "Vamana, vasa and vatasara",
+   "Vasa, danda and karnarandhra"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 1.36: hrid (heart) dhauti is of three kinds — with a stick (danda), by vomiting (vamana) and with a cloth (vasa)."
+ },
+ {
+  "id": "YOGA-PRAC5-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, the stick for danda dhauti may be a stalk of",
+  "options": [
+   "plantain, turmeric or cane",
+   "neem or babul",
+   "bamboo only",
+   "kusha grass"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 1.37: a stalk of plantain (rambha), turmeric (haridra) or cane (vetra) is slowly inserted into the oesophagus and drawn out, removing phlegm and bile."
+ },
+ {
+  "id": "YOGA-PRAC5-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "The cloth used in vasa dhauti, according to the Gheranda Samhita, is",
+  "options": [
+   "one span wide",
+   "four fingers wide",
+   "nine inches wide",
+   "one cubit wide"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Four fingers wide** (GS 1.40), a fine cloth slowly swallowed and drawn out. It cures gulma, fever, spleen disorders, leprosy and disorders of phlegm and bile."
+ },
+ {
+  "id": "YOGA-PRAC5-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Vatasara dhauti is said in the Gheranda Samhita to",
+  "options": [
+   "destroy all diseases and increase the gastric fire",
+   "give a divine body",
+   "remove cruelty of apana",
+   "give divine sight"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 1.15–16: drawing air in through the mouth shaped like a crow's beak (kaki mudra), moving it in the belly and expelling it below purifies the body, destroys all diseases and kindles the fire."
+ },
+ {
+  "id": "YOGA-PRAC5-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, which dhauti makes the body 'divine' (deva-deha)?",
+  "options": [
+   "Vatasara",
+   "Varisara",
+   "Vahnisara",
+   "Danta dhauti"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Varisara.** GS 1.17–18: drink water up to the throat, move it in the belly and expel it below; this most secret practice purifies the body and makes it divine. It is called the best of dhautis."
+ },
+ {
+  "id": "YOGA-PRAC5-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In vahnisara (agnisara) dhauti of the Gheranda Samhita, the navel knot is pressed back towards the spine",
+  "options": [
+   "50 times",
+   "100 times",
+   "108 times",
+   "1,000 times"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A hundred times** (GS 1.20). It removes abdominal diseases, increases the digestive fire and is hard even for the gods to attain."
+ },
+ {
+  "id": "YOGA-PRAC5-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, for how long is the air held in the belly in bahishkrita dhauti?",
+  "options": [
+   "half a yama (about 1.5 hours)",
+   "one yama",
+   "three hours",
+   "one hour"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Half a yama.** GS 1.21–22: fill the belly with air by kaki mudra, hold it for an ardha-yama, then send it down; standing navel-deep in water, the yogi then draws out and washes the shakti nadi (the rectum)."
+ },
+ {
+  "id": "YOGA-PRAC5-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Danta dhauti in the Gheranda Samhita has how many kinds?",
+  "options": [
+   "Four",
+   "Five",
+   "Six",
+   "One"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Five** — dantamula (teeth), jihvamula (tongue root), the two karnarandhras (ears) and kapalarandhra (the hollow of the forehead) (GS 1.26)."
+ },
+ {
+  "id": "YOGA-PRAC5-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Jihva shodhana (cleaning of the tongue) in the Gheranda Samhita is done with",
+  "options": [
+   "the index finger only",
+   "the index, middle and ring fingers",
+   "the thumb and little finger",
+   "all four fingers"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** GS 1.29–30: the three fingers joined are put into the throat and the root of the tongue is rubbed; then butter is applied and the tongue gently drawn out (as with tongs), which lengthens it and prevents old age, disease and death."
+ },
+ {
+  "id": "YOGA-PRAC5-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, mula shodhana (cleaning of the rectum) is done with",
+  "options": [
+   "a turmeric root or the middle finger",
+   "a cane stalk",
+   "a cloth",
+   "water drawn through the anus"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 1.42–44: wash the rectum repeatedly with a turmeric root or the middle finger. It removes constipation and indigestion, increases beauty and the digestive fire, and removes the cruelty (krurata) of apana."
+ },
+ {
+  "id": "YOGA-PRAC5-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "statements",
+  "question_text": "Which of the following pairs on vasti in the Gheranda Samhita are correct?",
+  "options": [
+   "(a) and (d) only",
+   "(a), (b) and (c) only",
+   "(b) and (d) only",
+   "(c) and (d) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** GS 1.45–49: jala vasti is done sitting in utkatasana navel-deep in water, contracting and dilating the anus; sthala (dry) vasti is done in paschimottanasana, moving the abdomen with ashvini mudra.",
+  "items": [
+   "Jala vasti — in utkatasana",
+   "Sthala vasti — in paschimottanasana",
+   "Sthala vasti — with ashvini mudra",
+   "Jala vasti — in paschimottanasana"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC5-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, which practice makes the body as handsome as Kamadeva, the god of love?",
+  "options": [
+   "Jala vasti",
+   "Trataka",
+   "Lauliki",
+   "Kapalarandhra"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Jala vasti.** GS 1.47–48: it cures urinary disorders, digestive disorders and wind; the body becomes like Kamadeva's. Shitkrama kapalabhati is praised in the same words (1.60)."
+ },
+ {
+  "id": "YOGA-PRAC5-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, the thread for neti is",
+  "options": [
+   "half a cubit (vitasti) long",
+   "one cubit long",
+   "one and a half cubits long",
+   "fifteen inches long"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A span (vitasti)** of fine thread, passed through the nostril and drawn out by the mouth (GS 1.50–51). It gives khechari siddhi, removes disorders of phlegm and gives divine sight."
+ },
+ {
+  "id": "YOGA-PRAC5-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "'अमन्दवेगेन तुन्दं भ्रामयेदुभपार्श्वयोः' — moving the abdomen vigorously from side to side — describes which of the Gheranda Samhita's karmas?",
+  "options": [
+   "Lauliki",
+   "Agnisara",
+   "Kapalabhati",
+   "Vatasara"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Lauliki** (GS 1.52) — the GS name for nauli. It destroys all diseases and increases the digestive fire."
+ },
+ {
+  "id": "YOGA-PRAC5-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "'निमेषोन्मेषकं त्यक्त्वा सूक्ष्मलक्ष्यं निरीक्षयेत्' — gazing at a small point without blinking — is the Gheranda Samhita's description of",
+  "options": [
+   "neti",
+   "lauliki",
+   "trataka",
+   "dhauti"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Trataka** (GS 1.53–54): gaze until tears fall. It gives shambhavi mudra, removes eye diseases and gives divine sight."
+ },
+ {
+  "id": "YOGA-PRAC5-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT one of the three kinds of kapalabhati in the Gheranda Samhita?",
+  "options": [
+   "Vatakrama",
+   "Varisara",
+   "Vyutkrama",
+   "Shitkrama"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Varisara**, which is an antar dhauti. GS 1.55–60: vatakrama (breathing like bellows), vyutkrama (water drawn in by the nose and expelled through the mouth) and shitkrama (water sucked in by the mouth and expelled through the nose)."
+ },
+ {
+  "id": "YOGA-PRAC5-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Drawing water in through the nostrils and expelling it through the mouth is, in the Gheranda Samhita, called",
+  "options": [
+   "vatakrama",
+   "vyutkrama",
+   "shitkrama",
+   "jala neti"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vyutkrama kapalabhati** (GS 1.58). The reverse — water in through the mouth and out through the nose — is shitkrama (1.59)."
+ },
+ {
+  "id": "YOGA-PRAC5-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, kapalabhati (bhalabhati) removes disorders of",
+  "options": [
+   "vata",
+   "pitta",
+   "kapha",
+   "all three doshas"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Kapha.** GS 1.55: *bhālabhātiṃ tridhā kuryāt kaphadoṣaṃ nivārayet* — kapalabhati, done three ways, removes the disorders of phlegm."
+ },
+ {
+  "id": "YOGA-PRAC5-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, by practising pranayama a person becomes like a",
+  "options": [
+   "gandharva",
+   "rakshasa",
+   "Brahma",
+   "god (deva)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** GS 5.1: *yena sādhana-mātreṇa jāyate devatā-samaḥ* — by its practice alone one becomes like a god."
+ },
+ {
+  "id": "YOGA-PRAC5-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "question_type": "sequence",
+  "question_text": "Before taking up pranayama, the Gheranda Samhita says four things must be attended to. Arrange them in its order.",
+  "options": [
+   "(A), (B), (C), (D)",
+   "(C), (A), (D), (B)",
+   "(A), (C), (D), (B)",
+   "(B), (D), (C), (A)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Place → time → moderate diet → purification of the nadis.** GS 5.2: *ādau sthānaṃ tathā kālaṃ mitāhāraṃ tathāparam, nāḍīśuddhiṃ tataḥ paścāt prāṇāyāmaṃ ca sādhayet*.",
+  "items": [
+   "Sthana (place)",
+   "Nadi shuddhi",
+   "Kala (time)",
+   "Mitahara"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC5-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, where should yoga practice NOT be begun?",
+  "options": [
+   "In a distant country",
+   "In a forest",
+   "In a capital city or a crowded place",
+   "All of these"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** GS 5.3–4: in a distant land faith is lost, in a forest one is unprotected, in a crowded place one is exposed. Choose a good, righteous kingdom with plenty of food and no disturbances."
+ },
+ {
+  "id": "YOGA-PRAC5-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "question_type": "mcq",
+  "question_text": "In which seasons does the Gheranda Samhita say yoga practice should be begun?",
+  "options": [
+   "Vasanta (spring) and sharad (autumn)",
+   "Grishma and varsha",
+   "Sharad and shishira",
+   "Vasanta and hemanta"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.8–9: begin in spring or autumn; beginning in winter, the cool season, summer or the rains brings disease."
+ },
+ {
+  "id": "YOGA-PRAC5-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "The two kinds of nadi shuddhi in the Gheranda Samhita are",
+  "options": [
+   "samanu and nirmanu",
+   "sagarbha and nigarbha",
+   "sahita and kevala",
+   "bahya and abhyantara"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.36: samanu is done with bija mantras; nirmanu by the dhauti karmas. Sagarbha and nigarbha are the two forms of sahita kumbhaka."
+ },
+ {
+  "id": "YOGA-PRAC5-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In samanu nadi shuddhi of the Gheranda Samhita, the ratio of puraka, kumbhaka and rechaka is",
+  "options": [
+   "12 : 16 : 20",
+   "20 : 80 : 40",
+   "16 : 64 : 32",
+   "12 : 48 : 24"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 16 : 64 : 32.** GS 5.38–44: seated in padmasana, inhale through ida repeating the vayu bija *yam* 16 times, hold for 64 and exhale by pingala for 32; then repeat with the fire bija *ram* through pingala, and so on."
+ },
+ {
+  "id": "YOGA-PRAC5-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which of the following are NOT among the eight kumbhakas of the Gheranda Samhita? (A) Kevali (B) Sitkari (C) Shitali (D) Plavini",
+  "options": [
+   "(A) and (B)",
+   "(B) and (C)",
+   "(C) and (D)",
+   "(B) and (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Sitkari and plavini.** GS 5.46: sahita, suryabheda, ujjayi, shitali, bhastrika, bhramari, murchha and kevali. HP's eight include sitkari and plavini instead of sahita and kevali."
+ },
+ {
+  "id": "YOGA-PRAC5-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In sagarbha pranayama of the Gheranda Samhita, puraka, kumbhaka and rechaka are joined with meditation on",
+  "options": [
+   "Brahma (rajas, red, 'A'), Hari (sattva, dark, 'U') and Shiva (tamas, white, 'M')",
+   "Shiva, Vishnu and Brahma in that order",
+   "Agni, Vayu and Surya",
+   "Ida, pingala and sushumna"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.49–53: sitting in sukhasana facing east or north, inhale for 16 counts on the red, rajasic Brahma with *a*; hold for 64 on the dark, sattvic Hari with *u*; exhale for 32 on the white, tamasic Shiva with *m*."
+ },
+ {
+  "id": "YOGA-PRAC5-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Match the three grades of nigarbha pranayama in the Gheranda Samhita with their counts and signs: (A) lowest (B) middle (C) highest — with (1) 20, rising off the ground (2) 12, perspiration (3) 16, trembling of the spine.",
+  "options": [
+   "A-2, B-3, C-1",
+   "A-1, B-2, C-3",
+   "A-3, B-2, C-1",
+   "A-2, B-1, C-3"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.55–56: the lowest (adhama) is 12 matras and brings sweat; the middle 16, trembling of the spine; the highest 20, rising from the ground (levitation)."
+ },
+ {
+  "id": "YOGA-PRAC5-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In suryabhedana as taught in the Gheranda Samhita, kumbhaka is held with",
+  "options": [
+   "uddiyana bandha",
+   "jalandhara bandha",
+   "mula bandha",
+   "maha bandha"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Jalandhara.** GS 5.58–59: inhale through the right nostril and hold with jalandhara until sweat breaks out from the nails to the roots of the hair. It is in this context that the GS describes the ten pranas (5.60–65)."
+ },
+ {
+  "id": "YOGA-PRAC5-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, which pranayama awakens kundalini and destroys old age and death?",
+  "options": [
+   "Bhastrika",
+   "Suryabhedana",
+   "Sahita",
+   "Sitkari"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Suryabhedana.** GS 5.67: it destroys decay and death, awakens kundalini and increases the bodily fire."
+ },
+ {
+  "id": "YOGA-PRAC5-035",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita's shitali, the air, after being drawn in through the tongue, is held",
+  "options": [
+   "for a moment (kshanam)",
+   "for 64 counts",
+   "until sweat appears",
+   "for half a yama"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.73: draw in air through the tongue, hold it a little (*kṣaṇaṃ ca kumbhakaṃ kṛtvā*) and exhale through both nostrils. It cures indigestion, phlegm and bile disorders."
+ },
+ {
+  "id": "YOGA-PRAC5-036",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In bhastrika of the Gheranda Samhita, how many bellows-like breaths are taken before kumbhaka, and how many rounds are done?",
+  "options": [
+   "40 breaths, 3 rounds",
+   "20 breaths, 3 rounds",
+   "60 breaths, 3 rounds",
+   "120 breaths, 1 round"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** GS 5.75–76: like a blacksmith's bellows, breathe in and out twenty times, then hold; do this three times. The yogi is never ill and grows healthier day by day."
+ },
+ {
+  "id": "YOGA-PRAC5-037",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, bhramari should be practised",
+  "options": [
+   "after midnight, where there is no sound of living creatures",
+   "at sunrise",
+   "at brahma muhurta",
+   "at sunset"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.77–78: after midnight, in a place free of sound, close the ears with the hands and practise; the inner sound is heard in the right ear."
+ },
+ {
+  "id": "YOGA-PRAC5-038",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 38,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, success in samadhi comes from",
+  "options": [
+   "bhastrika",
+   "ujjayi",
+   "suryabhedana",
+   "bhramari"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Bhramari.** GS 5.83: *bhrāmarī-kumbhaka-siddhyā samādhi-siddhim āpnuyāt*. Murchha, by contrast, gives bliss (5.84)."
+ },
+ {
+  "id": "YOGA-PRAC5-039",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 39,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In murchha pranayama of the Gheranda Samhita, the mind is fixed",
+  "options": [
+   "in the heart",
+   "between the eyebrows",
+   "at the brahmarandhra",
+   "at the muladhara"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Between the eyebrows.** GS 5.84: hold the breath comfortably, withdraw the mind from objects and fix it at the bhrumadhya; joining mind and Self brings bliss."
+ },
+ {
+  "id": "YOGA-PRAC5-040",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 40,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, how many times does the ajapa (hamsa) mantra go on in a day and night?",
+  "options": [
+   "21,600",
+   "10,800",
+   "5,150",
+   "1,000"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 21,600.** GS 5.86–87: the breath goes out with the sound *ham* and comes in with *sah*; every living being repeats this 'ajapa gayatri' 21,600 times a day — 15 times a minute."
+ },
+ {
+  "id": "YOGA-PRAC5-041",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 41,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, when is the outgoing breath longest?",
+  "options": [
+   "During sexual union",
+   "While singing",
+   "During sleep",
+   "During exercise"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Exercise.** GS 5.89–90: normally the breath goes 12 fingers out; 16 in singing, 20 in eating, 24 in walking, 30 in sleep, 36 in sexual union, and more in exercise. Shortening it lengthens life."
+ },
+ {
+  "id": "YOGA-PRAC5-042",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 42,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 8 (Gheranda Samhita). From the GPYS (Pundlik) GS shatkarma and pranayama MCQ PDFs in the notes folder; Hindi text was garbled, so items were rebuilt from the GS verses and keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, how many kevali kumbhakas should be done on the first day?",
+  "options": [
+   "100",
+   "64",
+   "85",
+   "70"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 64** (GS 5.94). The practice is then increased day by day, done eight times a day — once every three hours."
+ }
+]
