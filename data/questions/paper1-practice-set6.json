@@ -1,0 +1,784 @@
+[
+ {
+  "id": "P1-PRAC6-001",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "question_type": "mcq",
+  "question_text": "The basic requirement for organising teaching at the reflective level is",
+  "options": [
+   "systematic, sequential presentation of facts by the teacher",
+   "helping students explore and explain problems and their solutions",
+   "students translating and interpreting facts",
+   "the teacher giving concrete facts and action sequences"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Reflective-level teaching (Hunt) is problem-centred: students raise problems, form hypotheses and test them. Memory level (Herbart) presents facts in sequence; understanding level (Morrison) builds insight into relationships."
+ },
+ {
+  "id": "P1-PRAC6-002",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "statements",
+  "question_text": "Which of the following belong to the category of learner-centred approaches?",
+  "options": [
+   "(a) and (c)",
+   "(b) and (c)",
+   "(b) and (d)",
+   "(c) and (e)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) SWAYAM and MOOCs.** Self-paced online courses put the learner in charge of when, where and how fast to learn.",
+  "items": [
+   "SWAYAM",
+   "Computer-aided instruction",
+   "MOOCs",
+   "Quizzes",
+   "Buzz sessions"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-003",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "question_type": "mcq",
+  "question_text": "Which learning outcome is intended when teaching is organised at the understanding level?",
+  "options": [
+   "longer recall and retention of facts",
+   "seeing relationships and patterns among facts",
+   "creative construction and critical interpretation of ideas",
+   "mastery of facts and information"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Understanding-level teaching (Morrison) aims at insight — generalisations and relationships between facts. Recall is the memory level's aim; critical and creative thinking is the reflective level's."
+ },
+ {
+  "id": "P1-PRAC6-004",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "statements",
+  "question_text": "Which of the following statements differentiate teaching from learning?",
+  "options": [
+   "(a), (c) and (e)",
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(c), (d) and (e)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** (b) and (d) describe how teaching and learning are related, not how they differ.",
+  "items": [
+   "Teaching is a social act while learning is a personal act",
+   "Teaching implies learning",
+   "Teaching is like selling while learning is like buying",
+   "Teaching can occur without learning taking place",
+   "In teaching, influence is directed towards the learner, while in learning it is usually towards oneself"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-005",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "statements",
+  "question_text": "Which of the following are classroom-related factors that influence the effectiveness of teaching?",
+  "options": [
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(a), (b) and (d)",
+   "(c), (d) and (e)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** (a), (b) and (d) arise in the classroom itself. Socio-economic status and cultural background are home and social factors.",
+  "items": [
+   "Prior task-related behaviour of students",
+   "Adherence to a linear pattern of communication by the teacher",
+   "Socio-economic status of the learners' families",
+   "Inappropriate use of technological resources by the teacher",
+   "Cultural background of students"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-006",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "In which kind of learning material are presentations highly structured and individualised?",
+  "options": [
+   "Textbooks prescribed by universities",
+   "Journals and recommended articles",
+   "Writings of great thinkers for reflective reading",
+   "Programmed instruction and modular material"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Programmed instruction (B.F. Skinner) breaks content into small frames with immediate feedback, and learners move at their own pace."
+ },
+ {
+  "id": "P1-PRAC6-007",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "To encourage 'learning to learn', the most appropriate emphasis is on",
+  "options": [
+   "educational technology gadgets",
+   "organising teaching to increase the opportunity for transfer of learning",
+   "assigning tasks to be mastered",
+   "frequent tests"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Learning to learn means being able to apply what one has learnt to new problems — transfer — rather than mastering a fixed body of tasks."
+ },
+ {
+  "id": "P1-PRAC6-008",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "Which sequence depicts outcome-based curriculum design for college teaching programmes?",
+  "options": [
+   "Content, teaching-learning, learning outcomes, evaluation",
+   "Desired learning outcomes, content, teaching-learning, assessment and evaluation",
+   "Teaching-learning, content, learning outcomes, evaluation",
+   "Content, desired learning outcomes, teaching-learning, evaluation"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Outcome-based education (Spady) designs backwards: decide what students should be able to do, then choose content and methods, and assess against those outcomes."
+ },
+ {
+  "id": "P1-PRAC6-009",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "question_type": "mcq",
+  "question_text": "At which level of teaching are lower-level learning outcomes the focus?",
+  "options": [
+   "Memory level",
+   "Understanding level",
+   "Reflective level",
+   "Autonomous development level"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Memory level** — recall and recognition of facts, the lowest rung of Bloom's cognitive domain."
+ },
+ {
+  "id": "P1-PRAC6-010",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "The main purpose of using ICT in classroom teaching is to",
+  "options": [
+   "make instruction interesting",
+   "divert students' attention",
+   "keep students engaged",
+   "optimise the learning outcomes of teaching"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Interest and engagement are means; ICT is used because it improves what students learn."
+ },
+ {
+  "id": "P1-PRAC6-011",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "statements",
+  "question_text": "In the spectrum of teaching methods, which of the following would be called dialogic?",
+  "options": [
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(c), (d) and (e)",
+   "(b), (e) and (f)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Dialogic methods depend on two-way exchange between teacher and students: problem solving, interactive presentation and tutorials. Demonstration and chalk-and-talk are largely one-way.",
+  "items": [
+   "Demonstration method",
+   "Problem-solving method",
+   "Chalk-and-talk method",
+   "Team-teaching",
+   "Interactive presentation",
+   "Tutorials"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-012",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "statements",
+  "question_text": "Which of the following are key teaching behaviours in the category of effectiveness?",
+  "options": [
+   "(a), (b) and (c) only",
+   "(a), (b) and (e) only",
+   "(b), (c) and (d) only",
+   "(c), (d) and (e) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Borich's five key behaviours are lesson clarity, instructional variety, task orientation, student engagement and success rate — (a), (b) and (e). Using student ideas and probing are 'helping' behaviours.",
+  "items": [
+   "Making ideas clear to learners at different levels of understanding",
+   "Showing enthusiasm and animation through variation in eye contact, voice and gestures",
+   "Using student ideas by acknowledging and summarising",
+   "Probing through general questions and shifting discussion to a higher level of thought",
+   "Using meaningful verbal praise to get and keep students actively participating"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-013",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Identify the sequence of teaching-learning activities in the constructivist 5E model.",
+  "options": [
+   "Explore, Explain, Engage, Extend, Evaluate",
+   "Evaluate, Extend, Engage, Explain, Explore",
+   "Explain, Engage, Explore, Evaluate, Extend",
+   "Engage, Explore, Explain, Evaluate, Extend"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4)** — the only option that starts with Engage, Explore, Explain. The BSCS 5E model (Bybee) is usually given as Engage, Explore, Explain, Elaborate (Extend), Evaluate."
+ },
+ {
+  "id": "P1-PRAC6-014",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "question_type": "match",
+  "question_text": "Match the levels of teaching in Set I with their focus in Set II.",
+  "options": [
+   "A-i, B-ii, C-iv, D-v",
+   "A-i, B-iv, C-iii, D-ii",
+   "A-ii, B-iii, C-iv, D-i",
+   "A-v, B-iv, C-iii, D-ii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Memory → recall; understanding → relationships; reflective → problem solving; autonomous development → affects and feelings.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Autonomous development level",
+     "Memory level",
+     "Understanding level",
+     "Reflective level"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "style": "roman",
+    "items": [
+     "Problem raising and problem solving",
+     "Affects and feelings",
+     "Recall of facts and information",
+     "Seeing relationships among facts",
+     "Peer learning"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC6-015",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "In classroom teaching, the foundation on which a warm and nurturing relationship with learners is built is called",
+  "options": [
+   "probing",
+   "teacher affect",
+   "structuring",
+   "feedback"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Teacher affect** — the teacher's warmth, empathy and enthusiasm, which create the climate in which learners feel safe."
+ },
+ {
+  "id": "P1-PRAC6-016",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "statements",
+  "question_text": "Which of the following are high-level learning outcomes?",
+  "options": [
+   "(b), (e) and (f)",
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(a), (c) and (f)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The top levels of each domain: analysis and synthesis (cognitive, Bloom), articulation and naturalisation (psychomotor, Dave) and organisation and characterisation (affective, Krathwohl).",
+  "items": [
+   "Learning facts and rules",
+   "The ability to analyse and synthesise",
+   "Awareness, responding and valuing",
+   "Imitation, manipulation and precision",
+   "Articulation and naturalisation",
+   "Organisation and characterisation"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-017",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "statements",
+  "question_text": "Which of the following factors affecting teaching relate to a positive learning environment in an institution?",
+  "options": [
+   "(a) and (c)",
+   "(b) and (c)",
+   "(d) and (e)",
+   "(b) and (d)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Open discussion and positive reinforcement shape the climate of the place. Clarity, mastery and availability are qualities of individual teachers.",
+  "items": [
+   "The extent to which teachers make clear presentations",
+   "Scope for sharing and open discussion in the classroom and the institution",
+   "Teachers' mastery of content, shown in answering students' questions",
+   "Frequent use of positive reinforcement in the institution or classroom",
+   "Availability of the teacher and his or her guidance"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-018",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a key teaching behaviour that makes a teacher effective?",
+  "options": [
+   "comments made to organise the coming lesson",
+   "use of content or process questions",
+   "engagement of students in the learning process",
+   "using students' ideas"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Student engagement** is one of Borich's five key behaviours. Structuring comments, questioning and using student ideas are helping behaviours."
+ },
+ {
+  "id": "P1-PRAC6-019",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which of the following competencies of an effective teacher belong to the domain of personality and attitude?",
+  "options": [
+   "(a), (b) and (c)",
+   "(a), (d) and (e)",
+   "(b), (c) and (d)",
+   "(d), (e) and (f)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Locus of control, self-efficacy and enthusiasm are traits and attitudes; communicating and managing are behavioural competencies.",
+  "items": [
+   "Locus of control",
+   "Communicating",
+   "Managing",
+   "Self-efficacy",
+   "Teacher enthusiasm",
+   "Being organised and orderly"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-020",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "match",
+  "question_text": "Match the domains of teaching competencies in Set I with the specific competencies in Set II.",
+  "options": [
+   "A-iii, B-i, C-ii, D-v",
+   "A-i, B-ii, C-iii, D-iv",
+   "A-iv, B-v, C-ii, D-i",
+   "A-ii, B-iii, C-iv, D-v"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Personality → self-efficacy and locus of control; behavioural → teaching and managing; substantive → knowledge; style → dynamism and flexibility.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Personality and attitude",
+     "Behavioural",
+     "Substantive",
+     "Style-related"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "style": "roman",
+    "items": [
+     "Dynamism and flexibility",
+     "Subject and general knowledge",
+     "Good physique and appearance",
+     "Self-efficacy and locus of control",
+     "Teaching and managing"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC6-021",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "match",
+  "question_text": "Match each generation, as popularly named, with its birth years.",
+  "options": [
+   "A-i, B-v, C-ii, D-iii, E-iv",
+   "A-iv, B-iii, C-v, D-ii, E-i",
+   "A-ii, B-i, C-iii, D-iv, E-v",
+   "A-iii, B-iv, C-i, D-v, E-ii"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Traditionalists → Baby Boomers → Generation X → Generation Y (Millennials) → Generation Z. Gen Y and Z are the 'digital natives'.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Born 1945 and before",
+     "Born 1946–1964",
+     "Born 1965–1976",
+     "Born 1977–1995",
+     "Born 1996 and after"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "style": "roman",
+    "items": [
+     "Generation Z",
+     "Generation Y",
+     "Baby Boomers",
+     "Traditionalists",
+     "Generation X"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC6-022",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "The study of methods and principles used in adult education is called",
+  "options": [
+   "pedagogy",
+   "andragogy",
+   "anthropology",
+   "gerontology"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Andragogy**, popularised by Malcolm Knowles: adults are self-directed, draw on experience and want learning they can apply at once."
+ },
+ {
+  "id": "P1-PRAC6-023",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "The theory and practice of self-determined learning, focused on knowing how to learn, is called",
+  "options": [
+   "epistemology",
+   "andragogy",
+   "pedagogy",
+   "heutagogy"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Heutagogy** (Hase and Kenyon, 2000) — the learner decides what and how to learn. The sequence of learner autonomy runs pedagogy → andragogy → heutagogy."
+ },
+ {
+  "id": "P1-PRAC6-024",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which of the following best describe emotional intelligence as a learner characteristic?",
+  "options": [
+   "(c), (e) and (f)",
+   "(a), (d) and (f)",
+   "(a), (c) and (e)",
+   "(b), (d) and (e)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Salovey and Mayer's model: perceiving emotions, using them to guide thought, understanding them and managing them. Strong expression is not the same as intelligent use.",
+  "items": [
+   "Recognising one's own and other people's emotions",
+   "Expressing emotions strongly",
+   "Using emotional information to guide thinking and behaviour",
+   "Good observation, scientific thinking and deductive reasoning",
+   "Adjusting emotions to adapt to environments",
+   "Being creative and open to diverse viewpoints"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-025",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a cognitive characteristic of a learner?",
+  "options": [
+   "level of visual literacy",
+   "belief",
+   "academic self-concept",
+   "sensory perception"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Visual literacy — the ability to interpret and make meaning from images — is a cognitive skill. Belief and self-concept are affective; sensory perception is physical."
+ },
+ {
+  "id": "P1-PRAC6-026",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which of the following learner characteristics help ensure the effectiveness of teaching?",
+  "options": [
+   "(a), (c) and (e)",
+   "(c), (d) and (e)",
+   "(a), (b) and (c)",
+   "(b), (e) and (f)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Motivation, prior experience and interpersonal relations directly affect how well learners learn from teaching.",
+  "items": [
+   "The extent to which the learner obeys the school system",
+   "The learner's level of motivation",
+   "Learners' feelings towards the social system",
+   "The learner's interest in sports and games",
+   "The learner's prior experience",
+   "Interpersonal relations of learners"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC6-027",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 6 (Teaching Aptitude). From '7. Teaching E Qs-2(Pdf).pdf' in the notes folder (a coaching compilation of NTA-style teaching questions, with key); keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "statements",
+  "question_text": "For organising an effective teaching-learning system, which concerns are most appropriate?",
+  "options": [
+   "(c), (d), (e) and (f)",
+   "(a), (b), (d) and (f)",
+   "(a), (b), (c) and (d)",
+   "(a), (c), (d) and (e)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Outcomes, strategy, evaluation and the learner's entry behaviour are the elements of an instructional system (Glaser). Qualifications and room size are administrative matters.",
+  "items": [
+   "Determining the intended learning outcomes",
+   "Deciding the strategy and tactics to be used",
+   "Formally approving teachers' academic qualifications",
+   "Determining the evaluation tool to be used",
+   "Deciding the size of the classroom",
+   "Assessing the learner's prior academic experience"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ }
+]
