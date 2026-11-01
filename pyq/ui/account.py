@@ -11,6 +11,7 @@ with missing secrets never gives the questions away.
 
 import os
 import time
+import uuid
 
 import streamlit as st
 
@@ -65,6 +66,29 @@ def engine():
     return _engine(url)
 
 
+# --- funnel tracking ---------------------------------------------------------------------
+
+def visitor_id() -> str:
+    return st.session_state.setdefault("visitor", uuid.uuid4().hex)
+
+
+def track(event: str, detail: str = "", once: bool = False) -> None:
+    """Records a funnel step. Never breaks a page: tracking errors are ignored.
+    once=True records it at most once per browser session."""
+    ss = st.session_state
+    if once:
+        seen = ss.setdefault("tracked", set())
+        if (event, detail) in seen:
+            return
+        seen.add((event, detail))
+    if dev_mode() and not os.environ.get("NETPYQ_TRACK_IN_DEV"):
+        return
+    try:
+        store.add_event(engine(), event, visitor_id(), ss.get("user"), detail)
+    except Exception:
+        pass
+
+
 # --- the gate ----------------------------------------------------------------------------
 
 def _setup_missing() -> list[str]:
@@ -92,9 +116,10 @@ def gate() -> str:
             st.stop()
         if not st.user.is_logged_in:
             # Signed out: the sign-in screen plus the public pricing and policy pages.
-            from . import legal
-            home = st.Page(_login_screen, title="Sign in", icon=":material/login:", default=True)
-            st.navigation([home, *legal.st_pages()], position="top").run()
+            from . import daily_page, legal
+            home = st.Page(_login_screen, title="Home", icon=":material/home:", default=True)
+            today = st.Page(daily_page.render, title="Question of the day", icon=":material/today:", url_path="daily")
+            st.navigation([home, today, *legal.st_pages()], position="top").run()
             st.stop()
         email = str(st.user.email).strip().lower()
     _start_user_session(email)
@@ -108,6 +133,7 @@ def _start_user_session(email: str) -> None:
         return
     ss.user = email
     ss.is_admin = dev_mode() or email in admin_emails()
+    track("signin", once=True)
     ss.run, ss.review = None, None
     try:
         ss.log = store.load_answers(engine(), email)
@@ -162,6 +188,27 @@ def start_subscription(subject: str) -> None:
     except Exception as e:
         state.notice(f"Could not start the payment: {e}", ":material/error:")
         return
+    track("checkout", subject)
+    sync_subscriptions(force=False)
+    state.notice("Payment page ready: open it below to pay.", ":material/payments:")
+
+
+def start_pass(key: str) -> None:
+    """Callback: creates a one-time Razorpay payment link for an exam pass."""
+    ss = st.session_state
+    client = razorpay()
+    if not client or key not in config.PASSES:
+        state.notice("Payments aren't set up yet.", ":material/error:")
+        return
+    name, price, subjects = config.PASSES[key]
+    try:
+        sub = client.create_pass(price, ss.user, subjects, f"{name}: {config.PASS_DAYS // 30} months of access",
+                                 callback_url=str(_secret("app_url", default="") or ""))
+        store.save_subscription(engine(), sub)
+    except Exception as e:
+        state.notice(f"Could not start the payment: {e}", ":material/error:")
+        return
+    track("checkout", key)
     sync_subscriptions(force=False)
     state.notice("Payment page ready: open it below to pay.", ":material/payments:")
 

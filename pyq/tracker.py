@@ -13,7 +13,7 @@ from typing import Literal
 from .filters import Filters
 from .model import Question
 
-type Mode = Literal["practice", "review"]
+type Mode = Literal["practice", "review", "mock"]
 
 
 @dataclass(frozen=True, slots=True)
@@ -64,7 +64,7 @@ def answers_from_dicts(rows: Iterable[dict]) -> list[Answer]:
         if not isinstance(row, dict) or not names <= row.keys():
             raise ValueError(f"row {i} is not an answer from this app")
         values = {k: row[k] for k in names}
-        if not isinstance(values["is_correct"], bool) or values["mode"] not in ("practice", "review"):
+        if not isinstance(values["is_correct"], bool) or values["mode"] not in ("practice", "review", "mock"):
             raise ValueError(f"row {i} has an invalid value")
         log.append(Answer(**values))
     return log
