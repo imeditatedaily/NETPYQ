@@ -1,10 +1,21 @@
-# Separate light and dark sections keep Streamlit following the viewer's
-# system setting (a plain [theme] section would force light mode).
-[theme.light]
-primaryColor = "#256abf"
+# Brand theme: deep forest green on warm cream with a lime accent, the same
+# look as the Neuroscience of Meditation site. Fixed to light so the brand
+# colours hold on every device.
+[theme]
+base = "light"
+primaryColor = "#1d4433"
+backgroundColor = "#f5f0e4"
+secondaryBackgroundColor = "#ebe4d2"
+textColor = "#161b15"
+linkColor = "#1d4433"
+borderColor = "#ddd4bf"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500..800;1,9..144,500..800&display=swap"
+baseRadius = "0.75rem"
+greenColor = "#2f6b4f"
 
-[theme.dark]
-primaryColor = "#3987e5"
+[theme.sidebar]
+backgroundColor = "#ebe4d2"
 
 [client]
 toolbarMode = "viewer"
