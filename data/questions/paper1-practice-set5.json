@@ -1,0 +1,1382 @@
+[
+ {
+  "id": "P1-PRAC5-001",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Epistemology is concerned with",
+  "options": [
+   "the study of diseases",
+   "what counts as acceptable knowledge in a field and how it is obtained",
+   "a type of interviewing technique",
+   "the nature of external reality"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Epistemology is the theory of knowledge — what we can know and how. Ontology, by contrast, asks what exists: the nature of reality (option 4)."
+ },
+ {
+  "id": "P1-PRAC5-002",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "An ontological question in research is usually about",
+  "options": [
+   "diagnosing a problem",
+   "the nature of reality — what exists outside ourselves",
+   "the use of questionnaires",
+   "the acceptable level of knowledge"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Ontology deals with the nature of being and reality (objectivism vs constructionism); epistemology with knowledge (positivism vs interpretivism)."
+ },
+ {
+  "id": "P1-PRAC5-003",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "The position of a positivist on acquiring knowledge is that",
+  "options": [
+   "research needs a positive attitude",
+   "scientific research should rest on value-free, empirical observation",
+   "exact knowledge comes from society",
+   "knowledge is constructed by participants"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Positivism (Comte) holds that only what can be observed and measured counts as knowledge, and that social phenomena can be studied like natural ones, by cause and effect. Interpretivism stresses meanings constructed by people."
+ },
+ {
+  "id": "P1-PRAC5-004",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "An empiricist believes that",
+  "options": [
+   "natural science methods should not be used in social science",
+   "social science methods cannot be used in natural science",
+   "knowledge is acquired through sensory experience",
+   "reason alone gives knowledge"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Empiricism (Locke, Hume): knowledge comes from experience and observation. Rationalism (Descartes) holds that reason is the main source of knowledge."
+ },
+ {
+  "id": "P1-PRAC5-005",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "The term 'phenomenology' is associated with",
+  "options": [
+   "qualitative research",
+   "analysis of variance",
+   "correlational study",
+   "probability sampling"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Qualitative research.** Phenomenology (Husserl) studies lived experience as people perceive it — a qualitative approach using in-depth interviews."
+ },
+ {
+  "id": "P1-PRAC5-006",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "The theory and method of interpreting human action and texts in the social sciences is called",
+  "options": [
+   "theology",
+   "hermeneutics",
+   "ontology",
+   "positivism"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Hermeneutics** — originally the interpretation of scriptures, extended by Dilthey, Heidegger and Gadamer to understanding human action and meaning."
+ },
+ {
+  "id": "P1-PRAC5-007",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Which research paradigm rests on a pragmatic view of reality?",
+  "options": [
+   "Quantitative research",
+   "Qualitative research",
+   "Mixed methods research",
+   "None of these"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Mixed methods.** Pragmatism holds that what works to answer the question matters, so it combines quantitative and qualitative approaches."
+ },
+ {
+  "id": "P1-PRAC5-008",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Research in which a qualitative approach is used in one phase and a quantitative approach in another is known as",
+  "options": [
+   "action research",
+   "basic research",
+   "quantitative research",
+   "mixed methods research"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Mixed methods research** — e.g. an exploratory sequential design starts with interviews and then builds a survey from them."
+ },
+ {
+  "id": "P1-PRAC5-009",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Qualitative research is usually",
+  "options": [
+   "deductive",
+   "inductive",
+   "always both",
+   "neither"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Inductive.** Qualitative research builds patterns and theory from data (bottom-up). Quantitative research typically tests hypotheses derived from theory (deductive, top-down)."
+ },
+ {
+  "id": "P1-PRAC5-010",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Which method moves from observation to patterns and then to theory?",
+  "options": [
+   "Inductive",
+   "Deductive",
+   "Top-down",
+   "Hypothetico-deductive"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Inductive.** Induction is bottom-up and theory-generating; deduction is top-down and theory-testing (theory → hypothesis → observation → confirmation)."
+ },
+ {
+  "id": "P1-PRAC5-011",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Which form of reasoning draws a specific conclusion from a set of general premises?",
+  "options": [
+   "Rationalism",
+   "Deductive reasoning",
+   "Inductive reasoning",
+   "Probabilistic reasoning"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Deductive reasoning.** If the premises are true and the argument valid, the conclusion must be true. Induction generalises from particular cases, with only probable conclusions."
+ },
+ {
+  "id": "P1-PRAC5-012",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Action research is best described as",
+  "options": [
+   "research done in a laboratory to build theory",
+   "research carried out by practitioners to solve an immediate, local problem",
+   "a longitudinal study",
+   "a simulation study"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Action research (Kurt Lewin; in education, Stephen Corey) is done by teachers, counsellors and other practitioners to improve their own practice, in cycles of plan–act–observe–reflect."
+ },
+ {
+  "id": "P1-PRAC5-013",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Fundamental (basic) research is mainly aimed at",
+  "options": [
+   "solving an immediate classroom problem",
+   "developing generalisations, principles and theories",
+   "evaluating a programme",
+   "commercialising a product"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Basic research extends knowledge and builds theory, often in controlled conditions. Applied research uses that knowledge to solve practical problems; the difference lies in utility."
+ },
+ {
+  "id": "P1-PRAC5-014",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Match the research types with their main focus: (A) Historical (B) Action (C) Survey (D) Experimental — with (1) current status (2) control of variables (3) local problem (4) past events.",
+  "options": [
+   "A-4, B-3, C-1, D-2",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-1, C-3, D-2",
+   "A-1, B-3, C-4, D-2"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Historical research studies the past; action research a local problem; a survey describes current status; an experiment controls and manipulates variables."
+ },
+ {
+  "id": "P1-PRAC5-015",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Which research method gives the strongest evidence of a cause-and-effect relationship?",
+  "options": [
+   "Correlational",
+   "Causal-comparative",
+   "Experimental",
+   "Historical"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Experimental.** Only the experiment manipulates the independent variable and controls other influences (ideally with random assignment), so a change in the outcome can be attributed to the treatment."
+ },
+ {
+  "id": "P1-PRAC5-016",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "The essence of the experimental method is",
+  "options": [
+   "calculating Pearson's correlation",
+   "obtaining reports of subjective experience",
+   "careful record keeping",
+   "using control to identify cause-and-effect connections"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Manipulation of the independent variable and control of extraneous variables are what make a study experimental."
+ },
+ {
+  "id": "P1-PRAC5-017",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "A study in which the investigator starts from an effect that has already occurred and traces back possible causes is called",
+  "options": [
+   "survey research",
+   "ex post facto research",
+   "historical research",
+   "summative research"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ex post facto** ('after the fact'), also called causal-comparative research: the independent variable cannot be manipulated, so groups that already differ are compared."
+ },
+ {
+  "id": "P1-PRAC5-018",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a longitudinal design?",
+  "options": [
+   "Panel study",
+   "Cross-sectional study",
+   "Trend study",
+   "Cohort study"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Cross-sectional.** It collects data from different groups at one point in time. Panel (same people), cohort (same cohort, different samples) and trend (same population, different samples) studies follow change over time."
+ },
+ {
+  "id": "P1-PRAC5-019",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "A study finds that nine-year-olds are taller than seven-year-olds by measuring both age groups at the same time. This is an example of a",
+  "options": [
+   "longitudinal study",
+   "cross-sectional study",
+   "experimental study",
+   "case study"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Cross-sectional.** Different age groups are compared at a single point in time, instead of following the same children for two years."
+ },
+ {
+  "id": "P1-PRAC5-020",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "A study finds that the more hours students spend surfing the internet, the lower their exam marks. The method used is",
+  "options": [
+   "experimental",
+   "correlational",
+   "case study",
+   "ex post facto"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Correlational.** It shows a (negative) relationship between two variables but not that one causes the other."
+ },
+ {
+  "id": "P1-PRAC5-021",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "A researcher spends several years observing the social behaviour of people in their native setting without intervening. This method is",
+  "options": [
+   "case study",
+   "experimental method",
+   "correlational study",
+   "naturalistic observation"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Naturalistic observation** — observing behaviour as it occurs in its natural setting, as in ethnography."
+ },
+ {
+  "id": "P1-PRAC5-022",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "The decennial Census of India is an example of which method of research?",
+  "options": [
+   "Case study",
+   "Developmental",
+   "Survey",
+   "Experimental"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Survey.** The census collects standardised information from the whole population; Charles Booth's study of London poverty is often called the first social survey."
+ },
+ {
+  "id": "P1-PRAC5-023",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Who is regarded as the father of the scientific social survey?",
+  "options": [
+   "John Best",
+   "Charles Booth",
+   "Charles Darwin",
+   "Auguste Comte"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Charles Booth**, for *Life and Labour of the People in London* (1889–1903). Comte is the father of positivism and of sociology."
+ },
+ {
+  "id": "P1-PRAC5-024",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "In which data-collection technique does a facilitator lead a small group of participants in discussing a specific topic?",
+  "options": [
+   "Case study",
+   "Focus group",
+   "Ethnography",
+   "Questionnaire"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Focus group** — usually 6–10 people, used to explore opinions and the interaction between them."
+ },
+ {
+  "id": "P1-PRAC5-025",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Which method is most directly associated with a lack of informed consent?",
+  "options": [
+   "In-depth interviewing",
+   "Content analysis",
+   "Covert observation",
+   "Case study"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Covert observation.** Participants do not know they are being studied, which raises ethical concerns about consent and deception."
+ },
+ {
+  "id": "P1-PRAC5-026",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Responding to an inert substance such as a sugar pill as if it were a drug is called",
+  "options": [
+   "the placebo effect",
+   "the Hawthorne effect",
+   "the halo effect",
+   "the John Henry effect"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Placebo effect.** The Hawthorne effect is a change in behaviour because people know they are being observed; the halo effect lets one trait colour judgement of others."
+ },
+ {
+  "id": "P1-PRAC5-027",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "The problem of researchers seeing only what they expect to see is called",
+  "options": [
+   "researcher (expectancy) bias",
+   "the leniency effect",
+   "the halo effect",
+   "regression to the mean"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Experimenter expectancy (Rosenthal effect) can be controlled by double-blind designs."
+ },
+ {
+  "id": "P1-PRAC5-028",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "question_type": "mcq",
+  "question_text": "The first step in research is",
+  "options": [
+   "collecting data",
+   "identifying the problem",
+   "formulating hypotheses",
+   "selecting a sample"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The usual sequence: identify and define the problem → review the literature → formulate hypotheses → design the study and sample → collect data → analyse → interpret and report."
+ },
+ {
+  "id": "P1-PRAC5-029",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "question_type": "mcq",
+  "question_text": "In survey research, arrange these steps in order: (I) sampling (II) inference (III) data analysis (IV) defining the population",
+  "options": [
+   "(II), (III), (I), (IV)",
+   "(I), (IV), (III), (II)",
+   "(III), (II), (IV), (I)",
+   "(IV), (I), (III), (II)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Define the population, draw the sample, analyse the data and only then draw inferences about the population."
+ },
+ {
+  "id": "P1-PRAC5-030",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "question_type": "mcq",
+  "question_text": "Moving from a broad research question to a specific one is done by",
+  "options": [
+   "making it broader to make it more significant",
+   "defining its terms more clearly",
+   "adding more variables",
+   "removing the hypothesis"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** A broad question becomes researchable as its terms are defined operationally and its scope is narrowed."
+ },
+ {
+  "id": "P1-PRAC5-031",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "A null hypothesis states that",
+  "options": [
+   "there is no relationship or difference between the variables",
+   "there is a difference between the groups",
+   "the research hypothesis is true",
+   "the result is subjective"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** H₀ assumes no effect or difference; statistical tests ask whether the data give enough evidence to reject it."
+ },
+ {
+  "id": "P1-PRAC5-032",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a directional hypothesis?",
+  "options": [
+   "There will be a difference between students taught by lecture and by group work",
+   "There is no difference between the two groups",
+   "Group instruction is more effective than lecture instruction",
+   "Learning will change"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** A directional (one-tailed) hypothesis states which way the difference goes. A non-directional (two-tailed) hypothesis only says there will be a difference."
+ },
+ {
+  "id": "P1-PRAC5-033",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "In which type of study is formulating a hypothesis usually NOT necessary?",
+  "options": [
+   "Experimental studies",
+   "Exploratory and fact-finding (e.g. historical or survey) studies",
+   "Hypothesis-testing studies",
+   "Causal studies"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Exploratory and descriptive fact-finding studies may proceed with research questions alone; experiments and causal studies are built around hypotheses."
+ },
+ {
+  "id": "P1-PRAC5-034",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "An operational definition defines a concept",
+  "options": [
+   "in abstract, theoretical terms",
+   "in terms of specific, observable and measurable operations",
+   "by its dictionary meaning",
+   "by its relation to other concepts only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** E.g. 'anxiety' operationalised as a score on a named anxiety inventory — the procedure that measures it."
+ },
+ {
+  "id": "P1-PRAC5-035",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "The variable that a researcher manipulates in an experiment is the",
+  "options": [
+   "dependent variable",
+   "independent variable",
+   "extraneous variable",
+   "intervening variable"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The independent (active, treatment) variable is manipulated; the dependent (outcome, response) variable is measured to see its effect."
+ },
+ {
+  "id": "P1-PRAC5-036",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "An experiment tests the effect of sleep deprivation on rote memory. The dependent variable is",
+  "options": [
+   "the number of hours without sleep",
+   "the rote memory scores",
+   "the number of subjects",
+   "the correlation between sleep and fatigue"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Memory is what is measured; hours of sleep deprivation is the independent variable."
+ },
+ {
+  "id": "P1-PRAC5-037",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "The experimental group and the control group are treated exactly alike except for the",
+  "options": [
+   "dependent variable",
+   "independent variable",
+   "extraneous variables",
+   "measuring instrument"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Only the experimental group receives the treatment (independent variable); everything else is held constant, so differences in outcome can be attributed to the treatment."
+ },
+ {
+  "id": "P1-PRAC5-038",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "Which of the following independent variables cannot be manipulated by a researcher?",
+  "options": [
+   "Teaching method",
+   "Gender",
+   "Amount of practice",
+   "Type of feedback"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Gender.** Attribute (subject) variables such as gender, age or ethnicity can only be compared, not assigned — which is why such studies are causal-comparative, not experimental."
+ },
+ {
+  "id": "P1-PRAC5-039",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a categorical variable?",
+  "options": [
+   "Age",
+   "Annual income",
+   "Grade point average",
+   "Religion"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Religion.** Categorical variables place cases in groups with no numerical meaning; age, income and GPA are quantitative."
+ },
+ {
+  "id": "P1-PRAC5-040",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "Which is the simplest scale of measurement?",
+  "options": [
+   "Nominal",
+   "Ordinal",
+   "Interval",
+   "Ratio"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Nominal** — it only names or classifies (e.g. roll numbers, gender). Stevens' four levels, in increasing order: nominal, ordinal, interval and ratio."
+ },
+ {
+  "id": "P1-PRAC5-041",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "Arrange Stevens' four levels of measurement from the lowest to the highest.",
+  "options": [
+   "Ordinal, nominal, ratio, interval",
+   "Nominal, ordinal, interval, ratio",
+   "Interval, nominal, ordinal, ratio",
+   "Ratio, interval, nominal, ordinal"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Nominal (categories) → ordinal (rank order) → interval (equal intervals, no true zero, e.g. °C) → ratio (true zero, e.g. weight)."
+ },
+ {
+  "id": "P1-PRAC5-042",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "Which of the following correlation coefficients shows the strongest relationship?",
+  "options": [
+   "+0.10",
+   "−0.95",
+   "+0.90",
+   "−1.00"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) −1.00**, a perfect negative correlation. Strength depends on the absolute value; the sign only shows the direction."
+ },
+ {
+  "id": "P1-PRAC5-043",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "When one variable increases as another decreases, the correlation is",
+  "options": [
+   "positive",
+   "zero",
+   "negative",
+   "curvilinear"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Negative** (inverse). When both rise together the correlation is positive."
+ },
+ {
+  "id": "P1-PRAC5-044",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "A statistical technique used with many variables to find which of them group together is",
+  "options": [
+   "simple correlation",
+   "multiple correlation",
+   "factor analysis",
+   "t-test"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Factor analysis** reduces a large set of correlated variables to a few underlying factors (e.g. in test construction)."
+ },
+ {
+  "id": "P1-PRAC5-045",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "Combining the results of several independent studies of the same problem statistically is called",
+  "options": [
+   "factor analysis",
+   "meta-analysis",
+   "systematic sampling",
+   "content analysis"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Meta-analysis** (Gene Glass, 1976) pools effect sizes across studies."
+ },
+ {
+  "id": "P1-PRAC5-046",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "The Likert scale is widely used to measure",
+  "options": [
+   "attitudes",
+   "intelligence",
+   "height",
+   "reaction time"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Attitudes.** Rensis Likert's summated rating scale (1932) asks for degrees of agreement — typically five points from strongly agree to strongly disagree."
+ },
+ {
+  "id": "P1-PRAC5-047",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "A measuring instrument that gives inconsistent results on repeated use has",
+  "options": [
+   "low validity",
+   "high validity",
+   "low reliability",
+   "high reliability"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Low reliability.** Reliability is consistency; validity is whether the instrument measures what it is meant to. A test can be reliable without being valid, but not valid without being reliable."
+ },
+ {
+  "id": "P1-PRAC5-048",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "The extent to which an instrument measures an abstract trait that cannot be observed directly (such as intelligence) is its",
+  "options": [
+   "face validity",
+   "construct validity",
+   "criterion validity",
+   "content validity"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Construct validity.** Content validity is coverage of the domain; criterion validity is agreement with an outside measure (concurrent or predictive); face validity is how valid the test looks."
+ },
+ {
+  "id": "P1-PRAC5-049",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "mcq",
+  "question_text": "The extent to which the findings of a study can be generalised to other people, settings and times is its",
+  "options": [
+   "external validity",
+   "internal validity",
+   "construct validity",
+   "reliability"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) External validity.** Internal validity is the extent to which the design lets us conclude that the independent variable caused the change in the dependent variable."
+ },
+ {
+  "id": "P1-PRAC5-050",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Selecting a subset of a population for study is known as",
+  "options": [
+   "triangulation",
+   "representation",
+   "sampling",
+   "survey"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sampling.** A measure computed from the sample is a *statistic*; the corresponding value for the whole population is a *parameter*."
+ },
+ {
+  "id": "P1-PRAC5-051",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 51,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "In which type of sampling does every member of the population have a known, equal chance of selection?",
+  "options": [
+   "Probability (simple random) sampling",
+   "Quota sampling",
+   "Judgement sampling",
+   "Snowball sampling"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Probability methods: simple random, systematic, stratified, cluster and multistage. Non-probability methods: convenience, purposive (judgement), quota and snowball."
+ },
+ {
+  "id": "P1-PRAC5-052",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 52,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a non-probability sampling method?",
+  "options": [
+   "Cluster sampling",
+   "Quota sampling",
+   "Systematic sampling",
+   "Stratified random sampling"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Quota sampling** — the researcher fixes how many to take from each group but chooses them non-randomly."
+ },
+ {
+  "id": "P1-PRAC5-053",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 53,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "When the population is heterogeneous, the most suitable sampling method is",
+  "options": [
+   "cluster sampling",
+   "stratified sampling",
+   "convenience sampling",
+   "lottery method"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Stratified sampling.** Dividing the population into homogeneous strata and sampling from each ensures that every subgroup is represented."
+ },
+ {
+  "id": "P1-PRAC5-054",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 54,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "A researcher selects five schools at random and then interviews every teacher in those five schools. This is",
+  "options": [
+   "simple random sampling",
+   "stratified random sampling",
+   "cluster sampling",
+   "quota sampling"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Cluster sampling.** Whole natural groups (clusters) are chosen at random and everyone in them is studied — useful when the population is spread over a wide area."
+ },
+ {
+  "id": "P1-PRAC5-055",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 55,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "A researcher can keep the sample size small when the population is",
+  "options": [
+   "heterogeneous",
+   "inaccessible",
+   "homogeneous",
+   "very large"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Homogeneous.** The less the population varies, the fewer cases are needed to represent it."
+ },
+ {
+  "id": "P1-PRAC5-056",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 56,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "mcq",
+  "question_text": "Data originally collected at an earlier time by someone else for a different purpose are called",
+  "options": [
+   "primary data",
+   "secondary data",
+   "experimental data",
+   "raw data"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Secondary data** — e.g. census reports, published statistics or another researcher's dataset."
+ },
+ {
+  "id": "P1-PRAC5-057",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 57,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "question_type": "mcq",
+  "question_text": "The act of publishing the same data and results in more than one journal is called",
+  "options": [
+   "partial publication",
+   "duplicate (redundant) publication",
+   "full publication",
+   "salami slicing"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Duplicate publication**, a form of research misconduct. Salami slicing is splitting one study into many small papers."
+ },
+ {
+  "id": "P1-PRAC5-058",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 58,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "question_type": "mcq",
+  "question_text": "Research is not considered ethical if it",
+  "options": [
+   "tries to answer a particular question",
+   "does not ensure the privacy and anonymity of respondents",
+   "uses a small sample",
+   "is not published in a top journal"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Core ethical principles: informed consent, voluntary participation, no harm, confidentiality and anonymity, and honest reporting."
+ },
+ {
+  "id": "P1-PRAC5-059",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 59,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "question_type": "mcq",
+  "question_text": "Personal data of research participants are kept confidential mainly",
+  "options": [
+   "to hide the findings from participants",
+   "to protect participants from harm through identification or disclosure",
+   "so government can access them",
+   "to learn more about their private lives"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Confidentiality protects participants from the social, legal or psychological harm that could follow if they were identified."
+ },
+ {
+  "id": "P1-PRAC5-060",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 60,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 5 (Research Aptitude). Picked from '15. Research Questions (English)(Pdf).pdf' in the notes folder (a coaching question bank); only unambiguous items kept, reworded where needed, answers re-derived."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "question_type": "mcq",
+  "question_text": "Which academic event is the most suitable for hands-on training in SPSS?",
+  "options": [
+   "Seminar",
+   "Conference",
+   "Workshop",
+   "Symposium"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Workshop** — small, practical and skill-oriented. A seminar discusses a topic; a conference presents research papers; a symposium has several experts speaking on one theme."
+ }
+]
