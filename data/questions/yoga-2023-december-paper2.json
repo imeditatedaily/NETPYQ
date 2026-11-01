@@ -1,0 +1,520 @@
+[
+ {
+  "id": "YOGA-2023DEC-P2-YS01",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "statements",
+  "question_text": "योग सूत्र में शरीर की संपदाएँ बताई गई हैं:",
+  "options": [
+   "केवल A, B, C",
+   "केवल A, C, D",
+   "केवल B, D, E",
+   "केवल A, C, E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल A, C, E.**\n\nYS 3.46: *rūpa-lāvaṇya-bala-vajra-saṃhananatvāni kāya-sampat* — beauty, grace, strength and adamantine firmness are the perfection of the body. Mahimā and vaśitva are among the eight siddhis (aṇimā etc., 3.45), not kāya-sampat.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "रूप",
+   "महिमा",
+   "लावण्य",
+   "वशित्व",
+   "बल"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS02",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "mcq",
+  "question_text": "दुराचारी (अपुण्य) व्यक्तियों के लिए किस सद्गुण का विकास किया जाना चाहिए?",
+  "options": [
+   "प्रसन्नता (मुदिता)",
+   "करुणा",
+   "मित्रता",
+   "उपेक्षा"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) उपेक्षा.**\n\nYS 1.33: *maitrī-karuṇā-muditopekṣāṇāṃ sukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam* — friendliness to the happy, compassion to the suffering, gladness towards the virtuous and **indifference (upekṣā) towards the wicked** make the mind serene.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ]
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS03",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "mcq",
+  "question_text": "योगसूत्र में ‘प्रच्छर्दनविधारणाभ्यां वा प्राणस्य’ चित्त-प्रसादन का कौन-सा उपाय है?",
+  "options": [
+   "प्रथम",
+   "द्वितीय",
+   "तृतीय",
+   "चतुर्थ"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) द्वितीय.**\n\nThe means of making the mind serene run from YS 1.33 to 1.39. The first is the four bhāvanās (1.33); the **second** is expelling and retaining the breath (*pracchardana-vidhāraṇābhyāṃ vā prāṇasya*, 1.34); then sense-object awareness (1.35), the luminous state (1.36), a mind free of passion (1.37), dream and sleep knowledge (1.38) and any chosen object (1.39).",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ]
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS04",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "question_type": "mcq",
+  "question_text": "दृश्य का वर्णन योगसूत्र में कहाँ मिलता है?",
+  "options": [
+   "1/17",
+   "2/18",
+   "3/21",
+   "4/12"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 2/18.**\n\nYS 2.18: *prakāśa-kriyā-sthiti-śīlaṃ bhūtendriyātmakaṃ bhogāpavargārthaṃ dṛśyam* — the seen has the nature of light, activity and inertia, consists of the elements and senses, and exists for experience and liberation.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ]
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS05",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "question_type": "statements",
+  "question_text": "योग सूत्र के अनुसार प्रणव के बारे में विधि बताई गई है:",
+  "options": [
+   "केवल A, C, E",
+   "केवल B, C, D",
+   "केवल C, D, E",
+   "केवल A, D, E"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल A, C, E.**\n\nYS 1.27 *tasya vācakaḥ praṇavaḥ*; 1.28 *taj-japas tad-artha-bhāvanam* — repeat it (japa), with its meaning, dwelling on that meaning (bhāvanā). Gazing at praṇava and so'haṃ japa are not in the sūtras.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "प्रणव जप",
+   "प्रणव पर दृष्टि",
+   "प्रणव का अर्थ",
+   "सोऽहं का जप",
+   "प्रणव अर्थ की भावना"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS06",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "question_type": "statements",
+  "question_text": "योगसूत्र के अनुसार दृश्य के भेद बताए गए हैं:",
+  "options": [
+   "केवल A, B, C",
+   "केवल A, C, D",
+   "केवल A, B, E",
+   "केवल B, C, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) केवल A, C, D.**\n\nYS 2.19: *viśeṣāviśeṣa-liṅgamātrāliṅgāni guṇa-parvāṇi* — the stages of the guṇas are the particular, the unparticularised, the merely indicated and the unmanifest. *Pratyayānupaśya* (2.20) and *dṛśimātra* describe the seer, not the seen.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "विशेष",
+   "प्रत्ययानुपश्य",
+   "अविशेष",
+   "अलिंग",
+   "दृशिमात्र"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS07",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "statements",
+  "question_text": "योगसूत्र में धर्ममेघ समाधि की अवस्था में ज्ञान की प्राप्ति के अंतर्गत वर्णित है:",
+  "options": [
+   "केवल A, B",
+   "केवल B, C",
+   "केवल C, D",
+   "केवल D, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) केवल B, C.**\n\nAfter dharmamegha samādhi (4.29) and the end of kleśa and karma (4.30) comes 4.31: *tadā sarvāvaraṇa-malāpetasya jñānasya ānantyāj jñeyam alpam* — knowledge, freed of every covering, becomes **infinite**, and what is left to know is **little**.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "क्लेशकर्म निवृत्ति",
+   "आनन्त्यात्",
+   "ज्ञेयम् अल्पम्",
+   "चित्तं सर्वार्थम्",
+   "हानमेषां क्लेशवदुक्तम्"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS08",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "match",
+  "question_text": "सूची-I का सूची-II से मिलान कीजिए:",
+  "options": [
+   "A-III, B-I, C-IV, D-II",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-III, C-II, D-I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-III, B-I, C-IV, D-II.**\n\n- *tatra niratiśayaṃ sarvajña-bījam* (1.25) — **Īśvara**\n- *tasya saptadhā prānta-bhūmiḥ prajñā* (2.27) — the sevenfold insight of one who has **discriminative knowledge**\n- *dhāraṇāsu ca yogyatā manasaḥ* (2.53) — a fruit of **prāṇāyāma**\n- *jātyantara-pariṇāmaḥ prakṛtyāpūrāt* (4.2) — **Kaivalya Pāda**",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (योगसूत्र)",
+    "items": [
+     "तत्र निरतिशयं सर्वज्ञबीजम्।",
+     "तस्य सप्तधा प्रान्तभूमिः प्रज्ञा।",
+     "धारणासु च योग्यता मनसः।",
+     "जात्यन्तरपरिणामः प्रकृत्यापूरात्।"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (संबंधित विषय)",
+    "items": [
+     "विवेकज्ञान प्राप्त होने पर",
+     "कैवल्यपाद",
+     "ईश्वर",
+     "प्राणायाम"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS09",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "match",
+  "question_text": "सूची-I का सूची-II से मिलान कीजिए:",
+  "options": [
+   "A-II, B-IV, C-I, D-III",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-IV, C-III, D-I",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-II, B-IV, C-I, D-III.**\n\n- *mahāvrata* (2.31) — **Sādhana Pāda**\n- *sūkṣma-viṣayatvaṃ cāliṅga-paryavasānam* (1.45) — **Samādhi Pāda**\n- *kṣaṇa-tat-kramayoḥ saṃyamād vivekajaṃ jñānam* (3.52) — **Vibhūti Pāda**\n- *pariṇāmaikatvād vastu-tattvam* (4.14) — **Kaivalya Pāda**",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "महाव्रत",
+     "सूक्ष्मविषयत्वं चालिंगपर्यवसानम्।",
+     "क्षणतत्क्रमयोः संयमाद्विवेकजं ज्ञानम्।",
+     "परिणामैकत्वाद्वस्तुतत्त्वम्।"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "विभूतिपाद",
+     "साधनपाद",
+     "कैवल्यपाद",
+     "समाधिपाद"
+    ]
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS10",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "पातंजल योगसूत्र में निर्माणचित्त केवल अस्मिता से उत्पन्न होता है:",
+  "options": [
+   "1/30",
+   "2/15",
+   "3/9",
+   "4/4"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 4/4.**\n\nYS 4.4: *nirmāṇa-cittāny asmitā-mātrāt* — created minds arise from I-ness alone.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ]
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS11",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "question_type": "mcq",
+  "question_text": "योगसूत्र के अनुसार अविद्या का अभाव होने पर संयोग का अभाव होता है, जिसे कहा गया है:",
+  "options": [
+   "कैवल्य",
+   "समाधि",
+   "विवेकख्याति",
+   "धर्ममेघ समाधि"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) कैवल्य.**\n\nYS 2.25: *tad-abhāvāt saṃyogābhāvo hānaṃ tad dṛśeḥ kaivalyam* — when avidyā is absent, saṃyoga ceases; that removal is the seer's **kaivalya**. The means is unwavering viveka-khyāti (2.26).",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ]
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS12",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "question_type": "statements",
+  "question_text": "कौन-सा दुःख हेय है, और उसका वर्णन योगसूत्र के किस पाद में किया गया है?",
+  "options": [
+   "केवल B, C",
+   "केवल A, B",
+   "केवल C, D",
+   "केवल D, E"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल B, C.**\n\nYS 2.16 (Sādhana Pāda): *heyaṃ duḥkham anāgatam* — suffering yet to come is to be avoided. Past suffering is spent and present suffering is already being experienced.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "वर्तमान दुःख",
+   "अनागत दुःख",
+   "साधन पाद",
+   "विभूति पाद",
+   "अतीत दुःख"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS13",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "statements",
+  "question_text": "योग सूत्र के अनुसार सकारात्मक अभिवृत्ति के लिए क्या आवश्यक है?",
+  "options": [
+   "केवल B, C, E",
+   "केवल A, B, D",
+   "केवल C, D, E",
+   "केवल E, B, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल B, C, E.**\n\nThe four bhāvanās of YS 1.33 are maitrī (friendliness), karuṇā (compassion), muditā (gladness) and upekṣā (indifference). Sahajatā and dayālutā are not on the list.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "सहजता",
+   "करुणा",
+   "उपेक्षा",
+   "दयालुता",
+   "मित्रता"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS14",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "question_type": "mcq",
+  "question_text": "योगसूत्र के अनुसार सुनने और अनुमान से प्राप्त बुद्धि की अपेक्षा किस बुद्धि का विषय भिन्न है?",
+  "options": [
+   "अध्यात्म प्रसाद",
+   "ऋतंभरा प्रज्ञा",
+   "सविचार",
+   "एकाग्र अवस्था"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ऋतंभरा प्रज्ञा.**\n\nIn nirvicāra samādhi comes *ṛtambharā prajñā* (1.48), whose object differs from that of knowledge by testimony and inference because it grasps the particular (*śrutānumāna-prajñābhyām anya-viṣayā viśeṣārthatvāt*, 1.49).",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ]
+ },
+ {
+  "id": "YOGA-2023DEC-P2-YS15",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "sequence",
+  "question_text": "योगसूत्र के पादों के अनुसार निम्न सूत्रों का क्रम बताइए:",
+  "options": [
+   "D, C, A, B, E",
+   "A, B, D, C, E",
+   "A, B, C, E, D",
+   "D, C, B, A, E"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) D, C, A, B, E.**\n\n*tīvra-saṃvegānām āsannaḥ* 1.21 → *tad-artha eva dṛśyasyātmā* 2.21 → *kramānyatvaṃ pariṇāmānyatve hetuḥ* 3.15 → *pratyayasya para-citta-jñānam* 3.19 → *draṣṭṛ-dṛśyoparaktaṃ cittaṃ sarvārtham* 4.23.",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "randhir-patanjal-yog-sutra"
+  ],
+  "items": [
+   "क्रमान्यत्वं परिणामान्यत्वे हेतुः",
+   "प्रत्ययस्य परचित्तज्ञानम्",
+   "तदर्थ एव दृश्यस्यात्मा",
+   "तीव्रसंवेगानामासन्नः",
+   "द्रष्टृदृश्योपरक्तं चित्तं सर्वार्थम्"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+ }
+]
