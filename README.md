@@ -27,6 +27,7 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 | UGC NET June 2021 cycle (merged with December 2020; held Nov 2021 – Jan 2022), Yoga Paper 2, **Hindi** | 72 | Kept in Hindi as printed. Read from a text extraction of the scan, which has no question numbers, so the questions keep their source order. Answers worked out from the texts and marked *unverified*. Three items are left out (a Paper 1 item, an incomplete one, and one whose options are all historically wrong). |
 | UGC NET December 2022 cycle (held Feb–Mar 2023), Yoga Paper 2, Q51–66 plus seven of Q26–50 | 22 | Only these questions were readable in your notes (NTA response-sheet screenshots, Parts Two and Three); Q53 is incomplete there and left out, and the rest of Q26–50 appear only as answer notes. Answers worked out from the texts and marked *unverified*. |
 | UGC NET June 2024, Yoga Paper 2, Q51–150 (booklet series Y, English version) | 100 | Worked out from the primary texts. No official key was published: this is the pen-and-paper exam of 18 June 2024 that NTA cancelled, so every answer is marked *unverified*, and explanations say where an answer is provisional or the item is flawed. The session is inferred from the printed combined booklet. |
+| UGC NET June 2025 (27 June, second shift), Yoga Paper 2, Q51–150 | 100 | The official NTA response sheet, question numbers as printed, Hindi or English as on the sheet. Every answer follows **NTA's final answer key** (matched by question ID); where the key accepts two options the explanation says so. |
 
 **Paper 1** (General Paper on Teaching and Research Aptitude), from the solved papers in K. V. S. Madaan's *NTA UGC NET/SET/JRF Paper 1* (Pearson, 3rd ed., 2019) in your shared Drive folder "My book's". Question numbers follow the book. Every answer was worked out independently and checked against the book's key; they are marked *cross-checked* except where noted.
 
@@ -38,8 +39,9 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 | UGC NET (CBSE) July 2018, Paper I | 50 | All 50 match the key. |
 | UGC NET (NTA) December 2018, Paper 1, set A | 50 | Q41 (a current-affairs item) is *unverified*. |
 | UGC NET (NTA) December 2018, Paper 1, set B | 49 | A second December 2018 shift. Q45 left out as flawed; in Q29 the book's key accepts an invalid conclusion, so the valid option is used and marked *unverified*. |
+| UGC NET (NTA) June 2025, Paper 1 (27 June, second shift) | 49 | From the **official NTA response sheet**, with answers from **NTA's final answer key**; Q8 was dropped by NTA. Unlike the book papers above, subscribers see these. |
 
-Paper 1 data-interpretation tables are stored as real tables (the `table` field) and shown above their questions. Paper 1s from 2019 onwards are not in your Drive yet. Add the PDFs there, or allow this project's network access to ugcnet.nta.ac.in, and they can go in the same way.
+Paper 1 data-interpretation tables are stored as real tables (the `table` field) and shown above their questions. Paper 1s from 2019 to 2024 are not in your Drive yet. Add the PDFs there, or allow this project's network access to ugcnet.nta.ac.in, and they can go in the same way.
 
 Each question keeps the booklet's wording, numbering and labels (List I in Roman numerals where the paper uses them, and shared reading passages). Each is mapped to a syllabus unit and micro-topic, and has its own detailed explanation. The explanations are written for this app; none are copied from a guidebook. The feedback shows how the answer was checked: *official key*, *cross-checked* or *unverified*.
 
@@ -47,7 +49,7 @@ Each question keeps the booklet's wording, numbering and labels (List I in Roman
 
 **Trend analysis.** The Trend Insight box has two parts.
 
-- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017, November 2017, July 2018, December 2018, June 2019, December 2019, June 2021, December 2022 (partial) and June 2024; for Paper 1, July 2016 to December 2018.
+- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017, November 2017, July 2018, December 2018, June 2019, December 2019, June 2021, December 2022 (partial), June 2024 and June 2025; for Paper 1, July 2016 to December 2018 and June 2025.
 - **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
 
 As more papers go in, the following update automatically:

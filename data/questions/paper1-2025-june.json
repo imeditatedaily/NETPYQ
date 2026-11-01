@@ -1,0 +1,1738 @@
+[
+ {
+  "id": "P1-2025JUN-Q01",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "प्रतिष्ठान A द्वारा विक्रय की गई हार्डबाउंड पुस्तकों की संख्या, प्रतिष्ठान C द्वारा विक्रय की गई पेपरबैक पुस्तकों की संख्या से, लगभग कितने प्रतिशत कम है ?",
+  "options": [
+   "32",
+   "36",
+   "38",
+   "42"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 36.**\n\nA's hardbound = 3500; C's paperback = 5500.\n\nShortfall = 5500 − 3500 = 2000, and 2000 ÷ 5500 × 100 = 36.4% ≈ **36%**. The base of \"less than C\" is C's figure.",
+  "table": {
+   "title": "चार पुस्तक प्रतिष्ठानों द्वारा विक्रय की गई हार्डबाउंड और पेपरबैक पुस्तकें",
+   "columns": [
+    "प्रतिष्ठान",
+    "विक्रय की गई हार्डबाउंड पुस्तकों की संख्या",
+    "विक्रय की गई पेपरबैक पुस्तकों की संख्या"
+   ],
+   "rows": [
+    [
+     "A",
+     "3500",
+     "2000"
+    ],
+    [
+     "B",
+     "3900",
+     "5200"
+    ],
+    [
+     "C",
+     "4400",
+     "5500"
+    ],
+    [
+     "D",
+     "5500",
+     "6600"
+    ]
+   ]
+  },
+  "passage": "तालिका का ध्यानपूर्वक अध्ययन करें और प्रश्नों के उत्तर दें : दिए गए आँकड़े, चार भिन्न पुस्तक प्रतिष्ठानों A, B, C और D द्वारा विक्रय की गई पत्रावरणबद्ध (पेपरबैक) और दृढ़ावरणबद्ध (हार्डबाउंड) पुस्तकों के सन्दर्भ में हैं :",
+  "nta_question_id": "42558910731"
+ },
+ {
+  "id": "P1-2025JUN-Q02",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "सर्वाधिक विक्रय वाले प्रतिष्ठान द्वारा विक्रय की गई कुल पुस्तकों (हार्डबाउंड और पेपरबैक मिलाकर) की संख्या, न्यूनतम विक्रय वाले प्रतिष्ठान द्वारा विक्रय की गई कुल पुस्तकों की संख्या से, कितने प्रतिशत अधिक है ?",
+  "options": [
+   "50%",
+   "100%",
+   "120%",
+   "150%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 120%.**\n\nTotals (hardbound + paperback): A = 5500, B = 9100, C = 9900, D = 12100.\n\nHighest D (12100), lowest A (5500): (12100 − 5500) ÷ 5500 × 100 = 6600 ÷ 5500 × 100 = **120%**.",
+  "table": {
+   "title": "चार पुस्तक प्रतिष्ठानों द्वारा विक्रय की गई हार्डबाउंड और पेपरबैक पुस्तकें",
+   "columns": [
+    "प्रतिष्ठान",
+    "विक्रय की गई हार्डबाउंड पुस्तकों की संख्या",
+    "विक्रय की गई पेपरबैक पुस्तकों की संख्या"
+   ],
+   "rows": [
+    [
+     "A",
+     "3500",
+     "2000"
+    ],
+    [
+     "B",
+     "3900",
+     "5200"
+    ],
+    [
+     "C",
+     "4400",
+     "5500"
+    ],
+    [
+     "D",
+     "5500",
+     "6600"
+    ]
+   ]
+  },
+  "passage": "तालिका का ध्यानपूर्वक अध्ययन करें और प्रश्नों के उत्तर दें : दिए गए आँकड़े, चार भिन्न पुस्तक प्रतिष्ठानों A, B, C और D द्वारा विक्रय की गई पत्रावरणबद्ध (पेपरबैक) और दृढ़ावरणबद्ध (हार्डबाउंड) पुस्तकों के सन्दर्भ में हैं :",
+  "nta_question_id": "42558910730"
+ },
+ {
+  "id": "P1-2025JUN-Q03",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "प्रतिष्ठानों A और C द्वारा एक साथ मिलाकर कुल विक्रय का, प्रतिष्ठानों B और D द्वारा एक साथ मिलाकर कुल विक्रय के साथ, अनुपात क्या है ?",
+  "options": [
+   "77 : 106",
+   "73 : 102",
+   "17 : 33",
+   "21 : 27"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 77 : 106.**\n\nTotals (hardbound + paperback): A = 5500, B = 9100, C = 9900, D = 12100.\n\nA + C = 5500 + 9900 = 15400; B + D = 9100 + 12100 = 21200. 15400 : 21200 = 154 : 212 = **77 : 106**.",
+  "table": {
+   "title": "चार पुस्तक प्रतिष्ठानों द्वारा विक्रय की गई हार्डबाउंड और पेपरबैक पुस्तकें",
+   "columns": [
+    "प्रतिष्ठान",
+    "विक्रय की गई हार्डबाउंड पुस्तकों की संख्या",
+    "विक्रय की गई पेपरबैक पुस्तकों की संख्या"
+   ],
+   "rows": [
+    [
+     "A",
+     "3500",
+     "2000"
+    ],
+    [
+     "B",
+     "3900",
+     "5200"
+    ],
+    [
+     "C",
+     "4400",
+     "5500"
+    ],
+    [
+     "D",
+     "5500",
+     "6600"
+    ]
+   ]
+  },
+  "passage": "तालिका का ध्यानपूर्वक अध्ययन करें और प्रश्नों के उत्तर दें : दिए गए आँकड़े, चार भिन्न पुस्तक प्रतिष्ठानों A, B, C और D द्वारा विक्रय की गई पत्रावरणबद्ध (पेपरबैक) और दृढ़ावरणबद्ध (हार्डबाउंड) पुस्तकों के सन्दर्भ में हैं :",
+  "nta_question_id": "42558910733"
+ },
+ {
+  "id": "P1-2025JUN-Q04",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "प्रतिष्ठानों A, B और D द्वारा विक्रय की गई हार्डबाउंड पुस्तकों की औसत संख्या और प्रतिष्ठानों C और D द्वारा विक्रय की गई पेपरबैक पुस्तकों की औसत संख्या के बीच का अन्तर कितना है ?",
+  "options": [
+   "267",
+   "400",
+   "1570",
+   "1750"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 1750.**\n\nHardbound average of A, B, D = (3500 + 3900 + 5500) ÷ 3 = 12900 ÷ 3 = 4300.\nPaperback average of C, D = (5500 + 6600) ÷ 2 = 6050.\n\nDifference = 6050 − 4300 = **1750**.",
+  "table": {
+   "title": "चार पुस्तक प्रतिष्ठानों द्वारा विक्रय की गई हार्डबाउंड और पेपरबैक पुस्तकें",
+   "columns": [
+    "प्रतिष्ठान",
+    "विक्रय की गई हार्डबाउंड पुस्तकों की संख्या",
+    "विक्रय की गई पेपरबैक पुस्तकों की संख्या"
+   ],
+   "rows": [
+    [
+     "A",
+     "3500",
+     "2000"
+    ],
+    [
+     "B",
+     "3900",
+     "5200"
+    ],
+    [
+     "C",
+     "4400",
+     "5500"
+    ],
+    [
+     "D",
+     "5500",
+     "6600"
+    ]
+   ]
+  },
+  "passage": "तालिका का ध्यानपूर्वक अध्ययन करें और प्रश्नों के उत्तर दें : दिए गए आँकड़े, चार भिन्न पुस्तक प्रतिष्ठानों A, B, C और D द्वारा विक्रय की गई पत्रावरणबद्ध (पेपरबैक) और दृढ़ावरणबद्ध (हार्डबाउंड) पुस्तकों के सन्दर्भ में हैं :",
+  "nta_question_id": "42558910734"
+ },
+ {
+  "id": "P1-2025JUN-Q05",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "question_type": "mcq",
+  "question_text": "प्रतिष्ठानों C और D द्वारा एक साथ मिलाकर विक्रय की गई हार्डबाउंड पुस्तकों की कुल संख्या और प्रतिष्ठान D द्वारा विक्रय की गई पेपरबैक पुस्तकों की संख्या के बीच का अनुपात क्या है?",
+  "options": [
+   "2 : 1",
+   "5 : 4",
+   "3 : 2",
+   "9 : 7"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 3 : 2.**\n\nHardbound C + D = 4400 + 5500 = 9900; D's paperback = 6600. 9900 : 6600 = **3 : 2**.",
+  "table": {
+   "title": "चार पुस्तक प्रतिष्ठानों द्वारा विक्रय की गई हार्डबाउंड और पेपरबैक पुस्तकें",
+   "columns": [
+    "प्रतिष्ठान",
+    "विक्रय की गई हार्डबाउंड पुस्तकों की संख्या",
+    "विक्रय की गई पेपरबैक पुस्तकों की संख्या"
+   ],
+   "rows": [
+    [
+     "A",
+     "3500",
+     "2000"
+    ],
+    [
+     "B",
+     "3900",
+     "5200"
+    ],
+    [
+     "C",
+     "4400",
+     "5500"
+    ],
+    [
+     "D",
+     "5500",
+     "6600"
+    ]
+   ]
+  },
+  "passage": "तालिका का ध्यानपूर्वक अध्ययन करें और प्रश्नों के उत्तर दें : दिए गए आँकड़े, चार भिन्न पुस्तक प्रतिष्ठानों A, B, C और D द्वारा विक्रय की गई पत्रावरणबद्ध (पेपरबैक) और दृढ़ावरणबद्ध (हार्डबाउंड) पुस्तकों के सन्दर्भ में हैं :",
+  "nta_question_id": "42558910732"
+ },
+ {
+  "id": "P1-2025JUN-Q06",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "question_type": "mcq",
+  "question_text": "Under which section of the UGC Act, Inter-University Centres (IUCs) were established ?",
+  "options": [
+   "12 (ccc)",
+   "12 (B)",
+   "12 (a)",
+   "12 (h)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 12 (ccc).**\n\nSection **12(ccc)** of the UGC Act, 1956 (added in 1972) empowers the Commission to establish institutions for common facilities, services and programmes for a group of universities — the **Inter-University Centres**, such as IUAC (New Delhi), CEC, INFLIBNET and UGC-DAE CSR.\n\nSection 12B concerns eligibility of universities and colleges for central grants.",
+  "nta_question_id": "42558910740"
+ },
+ {
+  "id": "P1-2025JUN-Q07",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "question_type": "mcq",
+  "question_text": "What is the full form of ARPANET ?",
+  "options": [
+   "Advanced Research Project Agency Network",
+   "Advanced Resource Project Agency Network",
+   "Applied Research Project Agency Network",
+   "American Research Project Agency Network"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Advanced Research Project Agency Network.**\n\nARPANET, the forerunner of the Internet, was built in 1969 by the US Defense Department's **Advanced Research Projects Agency** (ARPA). It was the first network to use packet switching and, from 1983, TCP/IP.",
+  "nta_question_id": "42558910745"
+ },
+ {
+  "id": "P1-2025JUN-Q09",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "question_type": "mcq",
+  "question_text": "When was the Paris agreement adopted ?",
+  "options": [
+   "5 October 2020",
+   "12 December 2015",
+   "7 November 2018",
+   "8 July 1998"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 12 December 2015.**\n\nThe Paris Agreement was adopted at **COP21 in Paris on 12 December 2015**, opened for signature on 22 April 2016 and entered into force on **4 November 2016**. It aims to hold warming well below 2 °C, pursuing 1.5 °C, through nationally determined contributions (NDCs).",
+  "nta_question_id": "42558910770"
+ },
+ {
+  "id": "P1-2025JUN-Q10",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "sequence",
+  "question_text": "Arrange chronologically the establishment of given digital initiatives :",
+  "options": [
+   "C, D, B, A",
+   "D, B, C, A",
+   "B, D, A, C",
+   "B, C, A, D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D, A, C.**\n\n- **Shodhganga** (INFLIBNET's repository of Indian theses): 2010\n- **DIKSHA** (school teachers' and students' platform): September 2017\n- **National Digital Library of India** (IIT Kharagpur, MoE): dedicated to the nation in June 2018, after a pilot from 2016\n- **Academic Bank of Credits** (under NEP 2020): July 2021\n\nThe intended order counts NDL from its 2018 national launch; if the 2016 pilot were counted it would come before DIKSHA, and no option fits — so the paper evidently uses 2018.",
+  "items": [
+   "National Digital Library (N.D.L.)",
+   "Shodhganga",
+   "Academic Bank of Credit (A.B.C.)",
+   "DIKSHA"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910742"
+ },
+ {
+  "id": "P1-2025JUN-Q11",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Choose the correct statements :",
+  "options": [
+   "A and B Only",
+   "A and C Only",
+   "C and D Only",
+   "A and D Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A and C Only.**\n\n- **A** ✓ MS-Word's document format is .doc (and .docx from Word 2007).\n- **B** ✗ SQL Server is Microsoft's **database** management server, not a local-network server.\n- **C** ✓ MATLAB (\"matrix laboratory\") is numerical computing software.\n- **D** ✗ A bootstrap loader is **system** software that loads the operating system at start-up.",
+  "items": [
+   "MS-Word saves the files in ‘.doc’ format",
+   "SQL server is a local network server",
+   "‘MATLAB’ is a mathematical software",
+   "Bootstrap loader is an example of entertainment software"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910768"
+ },
+ {
+  "id": "P1-2025JUN-Q12",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "question_type": "mcq",
+  "question_text": "How many Millenium Development Goals (MDG) were adopted by United Nations ?",
+  "options": [
+   "8",
+   "7",
+   "5",
+   "10"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 8.**\n\nThe UN Millennium Declaration (September 2000) set **8 MDGs** for 2015, from ending extreme poverty and hunger to a global partnership for development. They were succeeded in 2015 by the **17 Sustainable Development Goals** (169 targets) for 2030.",
+  "nta_question_id": "42558910771"
+ },
+ {
+  "id": "P1-2025JUN-Q13",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "question_type": "statements",
+  "question_text": "Major thrusts of National Policy on Education (NPE), 1986, were :",
+  "options": [
+   "A, C and D Only",
+   "C, D and E Only",
+   "A, B and D Only",
+   "B, C, D and E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, B and D Only.**\n\nNPE 1986 (revised 1992) called for **State Councils of Higher Education** for planning and coordination, **expansion of open universities and distance education** (IGNOU had just been set up, 1985) and **autonomous colleges**.\n\n**PARAKH** (a national assessment centre) and **MERUs** are proposals of **NEP 2020**, not NPE 1986.",
+  "items": [
+   "State level planning and coordination through state council for higher education",
+   "Expansion of open universities and distance education system",
+   "Establishment of National Assessment Centre PARAKH",
+   "Conferring autonomous status on selected colleges",
+   "Establishment of two multidisciplinary education and research universities (MERU) in each state"
+  ],
+  "prompt": "Choose the most appropriate answer from the options given below :",
+  "nta_question_id": "42558910743"
+ },
+ {
+  "id": "P1-2025JUN-Q14",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "match",
+  "question_text": "Match List - I with List - II :",
+  "options": [
+   "A-III, B-IV, C-II, D-I",
+   "A-II, B-III, C-I, D-IV",
+   "A-I, B-II, C-IV, D-III",
+   "A-IV, B-I, C-II, D-III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-III, B-IV, C-II, D-I.**\n\n- **Harvard Mark I** (Aiken with IBM): designed and built 1937–44.\n- **UNIVAC I**, the first commercial computer in the US: delivered 1951.\n- **IBM 701**, IBM's first commercial scientific computer: announced 1952.\n- **IBM 650**, the first mass-produced computer: announced 1953.",
+  "lists": {
+   "list_i": {
+    "title": "List - I (System Name)",
+    "items": [
+     "The Mark I computer",
+     "IBM - 701",
+     "IBM - 650",
+     "The Universal Automatic Computer One (UNIVAC - I)"
+    ]
+   },
+   "list_ii": {
+    "title": "List - II (Year/Time period)",
+    "items": [
+     "1951",
+     "1953",
+     "1937-44",
+     "1952"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910769"
+ },
+ {
+  "id": "P1-2025JUN-Q15",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "statements",
+  "question_text": "सही कथनों की पहचान करें।",
+  "options": [
+   "केवल A, B और C",
+   "केवल B, C और D",
+   "केवल A, B और D",
+   "केवल A और B"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल A और B.**\n\n- **A** ✓ 256/√2 = 2⁸ ÷ 2^½ = 2^7.5, so x = 15/2.\n- **B** ✓ 50% of 150 = 75; one third = 25; √576 = 24; 25 > 24.\n- **C** ✗ 5th from the top of 20 is 20 − 5 + 1 = **16th** from the bottom.\n- **D** ✗ (20 × 45 + 10 × 40) ÷ 30 = 1300 ÷ 30 ≈ **43.3 kg**, not 42.5 (that would be the simple average of the two averages).",
+  "items": [
+   "यदि 2ˣ = 256/√2 है; तो x = 15/2 है।",
+   "150 के 50% का 1/3, √576 से बड़ा है।",
+   "एक परीक्षा के परिणाम की योग्यता-क्रम सूची में, एक छात्र का स्थिति-क्रम, 20 छात्रों में से शीर्ष से 5वाँ है। सूची में नीचे से उसका स्थिति-क्रम 15 वें स्थान पर है।",
+   "30 छात्रों की एक कक्षा में, 20 छात्रों के भारों का औसत 45 kg और शेष छात्रों का औसत भार 40 kg है। सम्पूर्ण कक्षा का औसत भार 42.5 kg है।"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910753"
+ },
+ {
+  "id": "P1-2025JUN-Q16",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "question_type": "statements",
+  "question_text": "एक संचार माध्यम का चयन करते समय विचार किए जाने वाले कारक क्या हैं?",
+  "options": [
+   "केवल A, B और C",
+   "केवल B, C और D",
+   "केवल C, D और E",
+   "केवल B, D और E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल B, D और E.**\n\nWhen choosing a channel, one weighs its **reliability**, the **confidentiality** it offers and its **availability** to both parties (along with speed, cost and the nature of the message).\n\nA is wrong: the receiver is central to the choice. C is wrong: the channel need not be expensive (\"valuable\") — if anything, low cost is a point in its favour.",
+  "items": [
+   "ग्राहित्र के विषय में चिन्तन की आवश्यकता नहीं",
+   "विश्वसनीयता",
+   "यह मूल्यवान होना चाहिए",
+   "गोपनीयता",
+   "उपलब्धता"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910748"
+ },
+ {
+  "id": "P1-2025JUN-Q17",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "mcq",
+  "question_text": "मस्तिष्क किस प्रकार ज्ञान का सृजन करता है, इसके अध्ययन के परिणाम को शिक्षण के ___________ दृष्टिकोण से वर्तमान में सन्दर्भित किया जाता है।",
+  "options": [
+   "प्रयोजनमूलक",
+   "आदर्शवादी",
+   "अधिसंज्ञानात्मक",
+   "रचनात्मक"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) रचनात्मक (constructivist).**\n\n**Constructivism** (Piaget, Vygotsky, Bruner) holds that learners actively *construct* knowledge by linking new experience to what they already know. Brain-based research on how the mind builds knowledge is today referred to as the constructivist approach to teaching.\n\nPragmatism and idealism are philosophies of education; metacognition is thinking about one's own thinking.",
+  "nta_question_id": "42558910761"
+ },
+ {
+  "id": "P1-2025JUN-Q18",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "question_type": "sequence",
+  "question_text": "शोध समस्या को अन्तिम रूप देने के सही क्रम का चयन करें।",
+  "options": [
+   "B, C, D, A, E",
+   "D, B, C, E, A",
+   "B, D, C, E, A",
+   "D, B, A, C, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D, C, E, A.**\n\nA research problem is narrowed step by step: choose the **broad area** (B) → **review the literature** and earlier reports (D) → find the **research gap** it leaves (C) → **identify** the problem within that gap (E) → **define** it precisely, with its scope and variables (A).",
+  "items": [
+   "शोध समस्या को परिभाषित करना",
+   "शोध के विषय-क्षेत्र का चयन करना",
+   "शोध अन्तराल की खोज करना",
+   "सन्दर्भ सामग्री और पूर्व के शोधकर्त्ताओं के प्रतिवेदनों का अध्ययन करना",
+   "शोध समस्या की पहचान करना"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910736"
+ },
+ {
+  "id": "P1-2025JUN-Q19",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "question_type": "mcq",
+  "question_text": "In a categorical proposition, the subject and predicate are connected by :",
+  "options": [
+   "A question",
+   "A fallacy",
+   "A copula",
+   "A mood"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A copula.**\n\nA standard categorical proposition has four parts: quantifier, subject term, **copula** and predicate term — e.g. \"All (quantifier) men (subject) **are** (copula) mortal (predicate)\". The copula is a form of \"to be\" that links the subject to the predicate. *Mood* describes the pattern of A/E/I/O propositions in a syllogism.",
+  "nta_question_id": "42558910756"
+ },
+ {
+  "id": "P1-2025JUN-Q20",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "question_type": "sequence",
+  "question_text": "Arrange the steps of evaluating a deductive argument :",
+  "options": [
+   "A, B, C, D",
+   "A, C, B, D",
+   "B, C, A, D",
+   "D, B, A, C"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, C, A, D.**\n\nFirst **identify** the premises and conclusion (B); then test the **form** — is it valid, i.e. would true premises guarantee the conclusion? (C); then check whether the premises are actually **true** (A); a valid argument with true premises is **sound** (D).",
+  "items": [
+   "Assess the truth of premises",
+   "Identify premises and conclusion",
+   "Test logical structure",
+   "Determine soundness"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910757"
+ },
+ {
+  "id": "P1-2025JUN-Q21",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "नीचे 'सही' संयोजनों को ज्ञात करें।",
+  "options": [
+   "केवल A और D",
+   "केवल B और C",
+   "केवल A और B",
+   "केवल C और D"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल A और D.**\n\nBoth claims are popular **myths** about bilingualism: second-language learning takes considerable time and effort, and bilinguals do not all maintain both languages easily — without use, one language often weakens (language attrition). So the correct pairings are A (myth) and D (myth).",
+  "items": [
+   "द्वितीय भाषा का अधिगम कम समय और प्रयास लेता है। - मिथक",
+   "सभी द्विभाषी सरलता से दोनों भाषाओं का अनुरक्षण करते हैं। - सत्य",
+   "द्वितीय भाषा का अधिगम कम समय और प्रयास लेता है। - सत्य",
+   "सभी द्विभाषी सरलता से दोनों भाषाओं का अनुरक्षण करते हैं। - मिथक"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910763"
+ },
+ {
+  "id": "P1-2025JUN-Q22",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not an element of communication within the communication process cycle ?",
+  "options": [
+   "Channel",
+   "Receiver",
+   "Sender",
+   "Time"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Time.**\n\nThe communication cycle consists of **sender** (encoder), **message**, **channel** (medium), **receiver** (decoder) and **feedback**, with noise as interference. Time is a context in which communication happens, not one of the elements of the cycle.",
+  "nta_question_id": "42558910746"
+ },
+ {
+  "id": "P1-2025JUN-Q23",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Choose the ‘WRONG’ statement :",
+  "options": [
+   "A and B Only",
+   "B and C Only",
+   "A and C Only",
+   "C and D Only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C and D Only.**\n\nLow-level languages are machine language and assembly language. FORTRAN, **C** and **SQL** are all high-level languages (C is sometimes called \"middle-level\" because it gives low-level access, but it is classed as high-level; SQL is a declarative query language). So C and D are wrong.",
+  "items": [
+   "Machine Language is a low level language",
+   "‘FORTRAN’ is a high level language",
+   "‘C’ is a low level language",
+   "‘SQL’ is a low level language"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910767"
+ },
+ {
+  "id": "P1-2025JUN-Q24",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Environment and human health",
+  "question_type": "sequence",
+  "question_text": "उत्पादों के पर्यावरणीय प्रभावों पर सूचना के लिए जीवन चक्र विश्लेषण की प्रावस्थाओं को (पहले से अन्तिम में) व्यवस्थित करें।",
+  "options": [
+   "A, B, D, C",
+   "C, D, A, B",
+   "D, C, B, A",
+   "B, A, C, D"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, A, C, D.**\n\nA life-cycle assessment (LCA) runs: **initiation** (goal and scope definition) → **inventory** analysis of inputs and outputs → **impact** assessment → **improvement** (interpretation and improvement analysis). This is the classic SETAC sequence that ISO 14040 later formalised.",
+  "items": [
+   "उत्पाद सूची (इन्वेन्ट्री)",
+   "प्रारम्भ (इनिशिएशन)",
+   "प्रभाव (इम्पैक्ट)",
+   "सुधार (इम्प्रूवमेन्ट)"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910772"
+ },
+ {
+  "id": "P1-2025JUN-Q25",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "question_type": "match",
+  "question_text": "Match List - I with List - II :",
+  "options": [
+   "A-III, B-I, C-IV, D-II",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-I, C-II, D-III",
+   "A-II, B-IV, C-I, D-III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-III, B-I, C-IV, D-II.**\n\n- National Institutes of Technology Act: **2007**\n- Indian Institutes of Management Act: **2017**\n- Indian Institutes of Information Technology Act: **2014**\n- Institutes of Technology Act (the IITs): **1961**",
+  "lists": {
+   "list_i": {
+    "title": "List - I (Institutions of National Importance (INI) Acts)",
+    "items": [
+     "National Institute of Technology Act",
+     "Indian Institute of Management Act",
+     "Indian Institutes of Information Technology Act",
+     "Institutes of Technology Act"
+    ]
+   },
+   "list_ii": {
+    "title": "List - II (Year of Enactment)",
+    "items": [
+     "2017",
+     "1961",
+     "2007",
+     "2014"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910744"
+ },
+ {
+  "id": "P1-2025JUN-Q26",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "question_type": "mcq",
+  "question_text": "ऋग्वेद में ___________ ऋचाएँ हैं।",
+  "options": [
+   "1028",
+   "10600",
+   "1064",
+   "11300"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 1028 (as per NTA's final key).**\n\nNTA's final answer key gives **1028**. Strictly, 1028 is the number of **sūktas** (hymns) in the Ṛgveda's 10 maṇḍalas (1017 plus the 11 Vālakhilya hymns); the number of individual **ṛcās** (verses) is about 10,552, often rounded to 10,600. The examiners evidently used \"ṛcā\" loosely for hymn. Remember both figures: 10 maṇḍalas, 1028 sūktas, about 10,600 mantras.",
+  "nta_question_id": "42558910741"
+ },
+ {
+  "id": "P1-2025JUN-Q27",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "sequence",
+  "question_text": "Arrange the areas for following shapes in descending order of their values :",
+  "options": [
+   "D, B, C, A",
+   "A, B, C, D",
+   "B, A, C, D",
+   "C, A, B, D"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, B, C, D.**\n\nWork in cm:\n- A: 2πrl = 2π × 0.1 × 3.5 = 0.7π ≈ **2.20 cm²**\n- B: 4πr² = 4π × 0.35² = 0.49π ≈ **1.54 cm²**\n- C: ½ × d₁ × d₂ = ½ × 1.5 × 1.8 = **1.35 cm²**\n- D: πr² = π × 0.35² ≈ **0.385 cm²**\n\nDescending: A > B > C > D.",
+  "items": [
+   "The area of the curved surface of a cylindrical wire of radius 1.0 mm and length 3.5 cm",
+   "The surface of a spherical ball of radius 3.5 mm",
+   "The area of a rhombus having diagonals 1.5 cm and 1.8 cm",
+   "The area of a circle of diameter 7.0 mm"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910752"
+ },
+ {
+  "id": "P1-2025JUN-Q28",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "sequence",
+  "question_text": "Arrange the following in sequence as they are introduced in increasing order of age of the students :",
+  "options": [
+   "A, D, B, C",
+   "B, A, D, C",
+   "C, A, D, B",
+   "C, D, A, B"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, A, D, C.**\n\nRead \"in increasing order of age\" as the order in which these were introduced, oldest first:\n- **Team teaching**: J. Lloyd Trump's experiments, mid-1950s\n- **Bloom's Taxonomy** of educational objectives (cognitive domain): 1956\n- **Flanders' interaction analysis** model of teaching: 1960s\n- **Keller's Personalised System of Instruction** (PSI): 1968\n\nThis is the order in NTA's final key.",
+  "items": [
+   "Taxonomy of Educational Objectives",
+   "Team Teaching",
+   "Personalised system of Instructions",
+   "Concept of Interaction model of Teaching"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910762"
+ },
+ {
+  "id": "P1-2025JUN-Q29",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "question_type": "match",
+  "question_text": "सूची - I को सूची - II से सुमेलित करे :",
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-III, B-IV, C-II, D-I",
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-IV, C-I, D-II"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-IV, B-III, C-II, D-I.**\n\n- Collecting and analysing data in cycles until a satisfying theory emerges (theoretical saturation) is **grounded theory** (Glaser and Strauss).\n- Studying change in emotional maturity over time is **developmental** research.\n- Studying one variable's effect on another under control is **experimental** research.\n- Studying the social problems faced by working women is a typical **survey**.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I (शोध का संदर्भ)",
+    "items": [
+     "शोधकर्त्ता आँकड़ों का संग्रहण निरंतर करता है और तब तक विश्लेषण करता है जब तक सन्तुष्टिजनक निष्कर्षों की व्युत्पत्ति नहीं होती है",
+     "समय के व्यतीत होने के साथ शिक्षार्थियों की सांवेगिक परिपक्वता में परिवर्तन का अध्ययन",
+     "नियंत्रित स्थिति में एक चर के दूसरे चर पर प्रभाव का अध्ययन",
+     "कामकाजी स्त्रियों द्वारा सामना की जाने वाली सामाजिक समस्याओं का अध्ययन"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II (विधि)",
+    "items": [
+     "सर्वेक्षण",
+     "प्रयोगात्मक",
+     "विकासात्मक",
+     "आधार सिद्धान्त (ग्राउन्डेड थ्योरी)"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910739"
+ },
+ {
+  "id": "P1-2025JUN-Q30",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "शैक्षणिक मूल्यों के अनुभव के लिए, ___________ शुद्ध अर्थ का निष्कर्षण किया जाना चाहिए।",
+  "options": [
+   "चिंतनों के माध्यम से",
+   "संचार के माध्यम से",
+   "परिणामों के माध्यम से",
+   "निर्णयों के माध्यम से"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) चिंतनों के माध्यम से (through reflections).**\n\nValues in education are not transmitted like facts; the learner experiences them by drawing out their pure meaning through **reflection** — thinking over experiences, discussions and examples until their significance is internalised. Communication, results and judgements may support this, but reflection is what turns them into experienced values. This is NTA's keyed answer.",
+  "nta_question_id": "42558910760"
+ },
+ {
+  "id": "P1-2025JUN-Q31",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "question_type": "match",
+  "question_text": "Match List - I with List - II :",
+  "options": [
+   "A-II, B-IV, C-III, D-I",
+   "A-II, B-I, C-III, D-IV",
+   "A-III, B-IV, C-I, D-II",
+   "A-II, B-III, C-IV, D-I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-II, B-IV, C-III, D-I.**\n\nWallace's biogeographic realms: Europe and northern Asia → **Palearctic**; South and South-East Asia → **Oriental** (Indo-Malayan); North America → **Nearctic**; South and Central America → **Neotropical**. (The others are Ethiopian/Afrotropical, Australian, Oceanian and Antarctic.)",
+  "lists": {
+   "list_i": {
+    "title": "List - I (Ecosystem)",
+    "items": [
+     "Eurasia",
+     "South and South East Asia",
+     "North America",
+     "South America"
+    ]
+   },
+   "list_ii": {
+    "title": "List - II (Biogeographic Realms)",
+    "items": [
+     "Neotropical realm",
+     "Palearctic realms",
+     "Nearctic realm",
+     "Oriental realm"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910774"
+ },
+ {
+  "id": "P1-2025JUN-Q32",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "match",
+  "question_text": "Match List - I with List - II :",
+  "options": [
+   "A-IV, B-II, C-I, D-III",
+   "A-IV, B-III, C-I, D-II",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-I, C-IV, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-IV, B-III, C-I, D-II.**\n\n- **Educational technology** works at the level of the whole system, so its goals are set by national needs.\n- **Instructional technology** is applied in a particular teaching situation, so feedback is gathered locally, from the learners being taught.\n- **Team teaching** is one of the innovations of modern teaching technology.\n- In **traditional** teaching every student gets the same time to finish a task, unlike self-paced methods such as programmed instruction or PSI.",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Goals are decided in the context of the needs of a nation",
+     "Feedback is obtained at local level",
+     "Team Teaching",
+     "Time for completion of a task is same for all students"
+    ]
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Modern Teaching Technology",
+     "Traditional Teaching Technology",
+     "Instructional Technology",
+     "Educational Technology"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910764"
+ },
+ {
+  "id": "P1-2025JUN-Q33",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "question_type": "match",
+  "question_text": "Match List - I with List - II :",
+  "options": [
+   "A-IV, B-III, C-II, D-I",
+   "A-IV, B-I, C-III, D-II",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-II, D-I.**\n\nGeographical distance is a **physical** barrier; individual differences, attitudes, anxiety and prejudice are **psychological**; faulty expression, poor translation and ambiguous words are **linguistic** (semantic); poor audio or video signal is a **technical** barrier.",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "The source is not visible to the receiver because of Geographical distance",
+     "The people are having individual differences, motivation and attitude and anxiety and prejudice",
+     "With faulty expression, poor translation, ambiguous words",
+     "With poor quality of audio and video signals, the message may not be sent to target group"
+    ]
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Technical Barriers to Communication",
+     "Linguistic Barriers to Communication",
+     "Psychological Barriers to Communication",
+     "Physical Barriers to Communication"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910749"
+ },
+ {
+  "id": "P1-2025JUN-Q34",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "question_type": "mcq",
+  "question_text": "CD - ROM stands for :",
+  "options": [
+   "Compressed Disk Read Only Memory",
+   "Compact Device for Reading out Messages",
+   "Compact Device for Read/Write Over Mobiles",
+   "Compact Disk Read Only Memory"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Compact Disk Read Only Memory.**\n\nA CD-ROM (**Compact Disc Read-Only Memory**) is an optical disc, typically holding about 700 MB, whose data is written at manufacture and can only be read. CD-R and CD-RW are the writable kinds.",
+  "nta_question_id": "42558910766"
+ },
+ {
+  "id": "P1-2025JUN-Q35",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "mcq",
+  "question_text": "भारतीय तर्क में व्याप्ति निर्दिष्ट करती है :",
+  "options": [
+   "तर्कपरक प्रतिवाद",
+   "साक्षात् प्रत्यक्षण",
+   "नियत साहचर्य",
+   "शाब्दिक प्रमाण"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) नियत साहचर्य.**\n\nIn Nyāya, **vyāpti** is the **invariable concomitance** between the middle term (*hetu*, e.g. smoke) and the major term (*sādhya*, e.g. fire): \"wherever there is smoke, there is fire\". It is the logical basis of inference (*anumāna*). Direct perception is *pratyakṣa* and verbal testimony is *śabda*.",
+  "nta_question_id": "42558910755"
+ },
+ {
+  "id": "P1-2025JUN-Q36",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "match",
+  "question_text": "सूची - I को सूची - II से सुमेलित करे :",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-IV, C-III, D-I",
+   "A-II, B-III, C-I, D-IV",
+   "A-III, B-IV, C-II, D-I"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-II, B-IV, C-III, D-I.**\n\nThese are the Nyāya **hetvābhāsas** (fallacies of the middle term):\n- **Asiddha**: the middle term is itself unproved.\n- **Bādhita**: the conclusion is contradicted by another valid source of knowledge (a contradicted middle).\n- **Viruddha**: the middle term proves the opposite of what is intended.\n- **Savyabhicāra**: the middle term is irregular — found with and without the major term — so it is not relevant evidence for the conclusion.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I (शब्द)",
+    "items": [
+     "असिद्ध",
+     "बाधित",
+     "विरुद्ध",
+     "साव्यभिचार"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II (विवरण)",
+    "items": [
+     "अप्रासंगिक मध्य पद",
+     "असिद्ध मध्य पद",
+     "विपरीत मध्य पद",
+     "व्याघाती मध्य पद"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910759"
+ },
+ {
+  "id": "P1-2025JUN-Q37",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "question_type": "sequence",
+  "question_text": "Arrange the following steps in model of listening in sequence :",
+  "options": [
+   "E, C, A, B, D",
+   "D, E, C, A, B",
+   "D, A, B, C, E",
+   "A, B, D, E, C"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) D, E, C, A, B.**\n\nJudi Brownell's **HURIER** model of listening: **H**earing → **U**nderstanding → **R**emembering → **I**nterpreting → **E**valuating → **R**esponding. Evaluating is not listed here, so the order is D, E, C, A, B.",
+  "items": [
+   "Interpreting",
+   "Responding",
+   "Remembering",
+   "Hearing",
+   "Understanding"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910747"
+ },
+ {
+  "id": "P1-2025JUN-Q38",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "mcq",
+  "question_text": "रुपये 10,000 की एक राशि का 2½ वर्ष के लिए वार्षिक चक्रवृद्धि की 8% ब्याज दर पर निवेश किया जाता है। भुगतान-तिथि (मैच्योरिटी) पर धनराशि होगी।",
+  "options": [
+   "12520.50 रुपये",
+   "12024.62 रुपये",
+   "12130.56 रुपये",
+   "11664.48 रुपये"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 12130.56 रुपये.**\n\nCompounded annually for 2 full years, then simple interest for the half year:\n\n10000 × 1.08² = 11664; then 11664 × (1 + 0.08 × ½) = 11664 × 1.04 = **12130.56**.",
+  "nta_question_id": "42558910751"
+ },
+ {
+  "id": "P1-2025JUN-Q39",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "question_type": "match",
+  "question_text": "सूची - I को सूची - II से सुमेलित करे :",
+  "options": [
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-II, C-IV, D-I",
+   "A-IV, B-III, C-I, D-II",
+   "A-IV, B-III, C-II, D-I"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-IV, B-III, C-II, D-I.**\n\n- A: (1.25x) ÷ (1.5y) = 5/3 ⇒ x/y = 5/3 × 1.5/1.25 = **2/1**.\n- B: 13/3 − 7/2 = 26/6 − 21/6 = **5/6**.\n- C: 40% = 40/100 = **2/5**.\n- D: 3.20 × (3.25 − 3.05) = 3.20 × 0.20 = 0.64; 0.064 ÷ 0.64 = **1/10**.",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "एक भिन्न के अंश को 25% बढ़ाया जाता है और हर को 50% बढ़ाया जाता है जिससे मान 5/3 हो जाता है। मूल भिन्न ___ है।",
+     "4⅓ − 3½ = ___",
+     "40% का भिन्नात्मक तुल्यांक ___ है।",
+     "0.064 ÷ (3.25 × 3.20 − 3.20 × 3.05)"
+    ]
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "1/10",
+     "2/5",
+     "5/6",
+     "2/1"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910754"
+ },
+ {
+  "id": "P1-2025JUN-Q40",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "question_type": "statements",
+  "question_text": "Which of the following are considered as fallacies of relevance ?",
+  "options": [
+   "A and D Only",
+   "B and C Only",
+   "A, C and D Only",
+   "A, B, and C Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C and D Only.**\n\nFallacies of relevance offer premises that are logically irrelevant to the conclusion: **ad hominem** (attacking the person), **straw man** (attacking a distorted version of the claim) and **red herring** (diverting to another issue).\n\n**False cause** (*post hoc*, *non causa pro causa*) is a fallacy of weak induction: the premises are relevant but too weak to support the causal claim.",
+  "items": [
+   "Ad hominem",
+   "False cause",
+   "Straw man",
+   "Red herring"
+  ],
+  "prompt": "Choose the most appropriate answer from the options given below :",
+  "nta_question_id": "42558910758"
+ },
+ {
+  "id": "P1-2025JUN-Q41",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "question_type": "statements",
+  "question_text": "In which conditions, Karl Pearson’s correlation coefficient can be calculated ?",
+  "options": [
+   "C and D Only",
+   "C, D and E Only",
+   "B, D and E Only",
+   "A, C and D Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C and D Only.**\n\nPearson's product-moment *r* assumes a **linear** relationship and that **both** variables are measured on an **interval or ratio** scale (ideally roughly normally distributed).\n\nThe means need not be equal (A); with one ordinal variable, Spearman's rank correlation is used instead (B); and the direction of the relationship is what *r* tells you, not a precondition (E).",
+  "items": [
+   "If means of both the variables are equal",
+   "If one variable is measured in interval scale and another is measured in ordinal scale",
+   "If there is linear relationship between two variables",
+   "If data are obtained in interval or ratio scale for both the variables",
+   "If direction of relationship between two variables is known"
+  ],
+  "prompt": "Choose the most appropriate answer from the options given below :",
+  "nta_question_id": "42558910738"
+ },
+ {
+  "id": "P1-2025JUN-Q42",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "An IP address consists of a :",
+  "options": [
+   "16 - bit integer",
+   "32 - bit integer",
+   "64 - bit integer",
+   "96 - bit integer"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 32 - bit integer.**\n\nAn **IPv4** address is a 32-bit number, usually written as four 8-bit octets in dotted decimal (e.g. 192.168.1.1), giving about 4.3 billion addresses. IPv6 addresses are 128 bits long.",
+  "nta_question_id": "42558910765"
+ },
+ {
+  "id": "P1-2025JUN-Q43",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "statements",
+  "question_text": "Which are the characteristics of research ?",
+  "options": [
+   "B, C and D Only",
+   "A, B and C Only",
+   "B, C and E Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, C and E Only.**\n\nResearch is a **systematic, scientific process** (B), guided by **logical reasoning** at each decision (C), that **collects and analyses evidence** to reach findings (E).\n\nIt does not *always* build new theory — applied and action research solve practical problems (A); and not every study tests hypotheses — exploratory, descriptive and much qualitative research does not (D).",
+  "items": [
+   "It always aims to develop new theory.",
+   "It is a scientific process.",
+   "Logical reasoning is used in decision making during research process.",
+   "Hypothesis testing is done in every kind of research.",
+   "It collects and analyses evidences to derive findings."
+  ],
+  "prompt": "Choose the most appropriate answer from the options given below :",
+  "nta_question_id": "42558910737"
+ },
+ {
+  "id": "P1-2025JUN-Q44",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "question_type": "mcq",
+  "question_text": "Which of the following statements is false in the context of research ?",
+  "options": [
+   "Inductive and deductive reasoning are applied in the research process.",
+   "Verifiable findings are derived by the research process.",
+   "Research is conducted to find answers of meaningful questions scientifically.",
+   "It necessarily improves quality of functioning of the area in which it is conducted."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).**\n\nResearch uses both induction and deduction, aims at verifiable findings and answers meaningful questions scientifically — (1)–(3) are true. But it does not *necessarily* improve practice in its field: basic research may have no immediate application, and findings may not be adopted. \"Necessarily\" makes (4) false.",
+  "nta_question_id": "42558910735"
+ },
+ {
+  "id": "P1-2025JUN-Q45",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "question_type": "statements",
+  "question_text": "आपदा प्रबन्धन के लिए निम्नलिखित प्रक्रियाओं को अपनाया जाना चाहिए।",
+  "options": [
+   "केवल B और C",
+   "केवल B और E",
+   "केवल A, B और C",
+   "केवल A, C, D और E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल A, C, D और E.**\n\nThe disaster-management cycle includes preparedness (with **training** and **early warning/communication**), **mitigation**, **response**, and recovery. These match A, C, D and E.\n\nMigration or relocation of populations (B) is not a standard process of disaster management (evacuation is temporary and part of response).",
+  "items": [
+   "प्रशिक्षण",
+   "स्थानान्तरण/प्रवसन",
+   "प्रशमन/न्यूनीकरण",
+   "अनुक्रिया",
+   "संसूचन"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910773"
+ },
+ {
+  "id": "P1-2025JUN-Q46",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "सत्य का एक यथार्थ प्रेमी :",
+  "options": [
+   "भोजन की गुणवत्ता की प्रशंसा करेगा।",
+   "परिस्थिति के साथ समझौता करेगा।",
+   "जो उसे पसन्द नहीं है उसकी आलोचना करेगा।",
+   "अपने चारों ओर के लोगों की सहमति से पूर्ण रूप से मुक्त होगा।"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) अपने चारों ओर के लोगों की सहमति से पूर्ण रूप से मुक्त होगा।.**\n\nThe first paragraph: if he is a true lover of truth, seeing things as they are, \"वह पूर्ण रूप से अपने चारों ओर के लोगों की सहमति से मुक्त होगा\" — he will be entirely free of the agreement of those around him.",
+  "passage": "निम्नलिखित गद्यांश को पढ़ें और प्रश्नों के उत्तर दीजिए :\n\nएक व्यक्ति जो अपने स्वयं के विचारों और मतों के निर्माण का कष्ट उठाता है, वह ऐसा अनुभव करेगा कि उसके निष्कर्षों के लिए बहुसंख्यक मत के प्रति उसका कोई उत्तरदायित्व नहीं है। यदि वह सत्य का यथार्थ प्रेमी है, यदि वह घटनाओं/बातों/वस्तुओं को उसी प्रकार से देखने जैसी वे हैं और तथ्यों के अनुरूप न होने वाले विचारों के धारण के प्रति असंगतता/विद्वेष से प्रेरित है, तो वह पूर्ण रूप से अपने चारों ओर के लोगों की सहमति से मुक्त होगा। जब वह जीवन के व्यावहारिक आचरण में अपने मतों के अनुप्रयोग के लिए अग्रसर होता है, तो स्थिति भिन्न होती है। तब इसके अच्छे कारण होते हैं कि उसका आचार व्यवहार क्यों कम कठोर होना चाहिए। वह जिस समाज में है वह प्राचीन और संयुक्त विकास है। वे लोग जिनसे वह असहमति में है, उनके विचार और परंपरायें केवल संयोग से नहीं प्राप्त हुए हैं।\n\nइन विचारों और परंपराओं, सभी का मूल एक निश्चित वास्तविक अनुमानित क्षमता (फिटनेस) में है। उनकी वर्तमान पीढ़ी के एक अंश के जीवनों में कुछ निश्चित गहराई तक मूल पर पकड़ है। एक दूसरे के साथ उनकी अनुरूपता अब समाप्त हो गई हो सकती है। यह सत्य का मात्र एक पक्ष है। सर्वाधिक उत्साहपूर्ण प्रचारबाज़ी उनमें व्याप्त नहीं हो सकती। सामान्य भाषा में, हम एक पीढ़ी का कुछ ऐसे के रूप में उल्लेख करते हैं जिसमें इसके सभी अंग और सदस्य सजातीय होने के साथ सच्ची एकता का एक प्रकार होते हैं। फिर भी, यह मात्र ऐसा नहीं है। यह समग्र है किंतु समग्र निरंतर परिवर्तन में है, इसके कारक और तत्व आंतरिक रूप से बदल रहे हैं। यह एक नहीं, बल्कि कई पीढ़ियाँ हैं।",
+  "nta_question_id": "42558910776"
+ },
+ {
+  "id": "P1-2025JUN-Q47",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "लेखक के अनुसार, आत्म विचारित व्यक्ति का आचार व्यवहार व्यावहारिक सामाजिक जीवन में होना चाहिए।",
+  "options": [
+   "लचीला",
+   "कठोर",
+   "उदासीन/तटस्थ",
+   "अग्र-सक्रिय"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) लचीला.**\n\nWhen he applies his views in practical life, the passage says there are good reasons why his conduct should be **less rigid** (कम कठोर) — society's ideas and traditions did not arise by chance. Less rigid means **flexible**.",
+  "passage": "निम्नलिखित गद्यांश को पढ़ें और प्रश्नों के उत्तर दीजिए :\n\nएक व्यक्ति जो अपने स्वयं के विचारों और मतों के निर्माण का कष्ट उठाता है, वह ऐसा अनुभव करेगा कि उसके निष्कर्षों के लिए बहुसंख्यक मत के प्रति उसका कोई उत्तरदायित्व नहीं है। यदि वह सत्य का यथार्थ प्रेमी है, यदि वह घटनाओं/बातों/वस्तुओं को उसी प्रकार से देखने जैसी वे हैं और तथ्यों के अनुरूप न होने वाले विचारों के धारण के प्रति असंगतता/विद्वेष से प्रेरित है, तो वह पूर्ण रूप से अपने चारों ओर के लोगों की सहमति से मुक्त होगा। जब वह जीवन के व्यावहारिक आचरण में अपने मतों के अनुप्रयोग के लिए अग्रसर होता है, तो स्थिति भिन्न होती है। तब इसके अच्छे कारण होते हैं कि उसका आचार व्यवहार क्यों कम कठोर होना चाहिए। वह जिस समाज में है वह प्राचीन और संयुक्त विकास है। वे लोग जिनसे वह असहमति में है, उनके विचार और परंपरायें केवल संयोग से नहीं प्राप्त हुए हैं।\n\nइन विचारों और परंपराओं, सभी का मूल एक निश्चित वास्तविक अनुमानित क्षमता (फिटनेस) में है। उनकी वर्तमान पीढ़ी के एक अंश के जीवनों में कुछ निश्चित गहराई तक मूल पर पकड़ है। एक दूसरे के साथ उनकी अनुरूपता अब समाप्त हो गई हो सकती है। यह सत्य का मात्र एक पक्ष है। सर्वाधिक उत्साहपूर्ण प्रचारबाज़ी उनमें व्याप्त नहीं हो सकती। सामान्य भाषा में, हम एक पीढ़ी का कुछ ऐसे के रूप में उल्लेख करते हैं जिसमें इसके सभी अंग और सदस्य सजातीय होने के साथ सच्ची एकता का एक प्रकार होते हैं। फिर भी, यह मात्र ऐसा नहीं है। यह समग्र है किंतु समग्र निरंतर परिवर्तन में है, इसके कारक और तत्व आंतरिक रूप से बदल रहे हैं। यह एक नहीं, बल्कि कई पीढ़ियाँ हैं।",
+  "nta_question_id": "42558910780"
+ },
+ {
+  "id": "P1-2025JUN-Q48",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "According to the author, a generation is a whole but it is always :",
+  "options": [
+   "Constant",
+   "Growing",
+   "Homogeneous",
+   "Heterogeneous"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Heterogeneous.**\n\nThe passage: a generation is a whole, but a whole in **constant change** whose elements change internally — \"not one but many generations\". So it is not homogeneous or constant; it is **heterogeneous** and changing. NTA's final key accepts both **(2) growing** and **(4) heterogeneous**.",
+  "passage": "निम्नलिखित गद्यांश को पढ़ें और प्रश्नों के उत्तर दीजिए :\n\nएक व्यक्ति जो अपने स्वयं के विचारों और मतों के निर्माण का कष्ट उठाता है, वह ऐसा अनुभव करेगा कि उसके निष्कर्षों के लिए बहुसंख्यक मत के प्रति उसका कोई उत्तरदायित्व नहीं है। यदि वह सत्य का यथार्थ प्रेमी है, यदि वह घटनाओं/बातों/वस्तुओं को उसी प्रकार से देखने जैसी वे हैं और तथ्यों के अनुरूप न होने वाले विचारों के धारण के प्रति असंगतता/विद्वेष से प्रेरित है, तो वह पूर्ण रूप से अपने चारों ओर के लोगों की सहमति से मुक्त होगा। जब वह जीवन के व्यावहारिक आचरण में अपने मतों के अनुप्रयोग के लिए अग्रसर होता है, तो स्थिति भिन्न होती है। तब इसके अच्छे कारण होते हैं कि उसका आचार व्यवहार क्यों कम कठोर होना चाहिए। वह जिस समाज में है वह प्राचीन और संयुक्त विकास है। वे लोग जिनसे वह असहमति में है, उनके विचार और परंपरायें केवल संयोग से नहीं प्राप्त हुए हैं।\n\nइन विचारों और परंपराओं, सभी का मूल एक निश्चित वास्तविक अनुमानित क्षमता (फिटनेस) में है। उनकी वर्तमान पीढ़ी के एक अंश के जीवनों में कुछ निश्चित गहराई तक मूल पर पकड़ है। एक दूसरे के साथ उनकी अनुरूपता अब समाप्त हो गई हो सकती है। यह सत्य का मात्र एक पक्ष है। सर्वाधिक उत्साहपूर्ण प्रचारबाज़ी उनमें व्याप्त नहीं हो सकती। सामान्य भाषा में, हम एक पीढ़ी का कुछ ऐसे के रूप में उल्लेख करते हैं जिसमें इसके सभी अंग और सदस्य सजातीय होने के साथ सच्ची एकता का एक प्रकार होते हैं। फिर भी, यह मात्र ऐसा नहीं है। यह समग्र है किंतु समग्र निरंतर परिवर्तन में है, इसके कारक और तत्व आंतरिक रूप से बदल रहे हैं। यह एक नहीं, बल्कि कई पीढ़ियाँ हैं।",
+  "nta_question_id": "42558910778"
+ },
+ {
+  "id": "P1-2025JUN-Q49",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "According to the passage, customs and traditions originate from :",
+  "options": [
+   "Conflicts of life",
+   "Ignorance",
+   "The old generation",
+   "Beliefs"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The old generation.**\n\nSociety is an ancient, accumulated growth; the ideas and traditions of those one disagrees with were not acquired by chance but have their roots in a real fitness, held over from earlier generations. Of the options, they originate from **the old generation**, which is NTA's keyed answer.",
+  "passage": "निम्नलिखित गद्यांश को पढ़ें और प्रश्नों के उत्तर दीजिए :\n\nएक व्यक्ति जो अपने स्वयं के विचारों और मतों के निर्माण का कष्ट उठाता है, वह ऐसा अनुभव करेगा कि उसके निष्कर्षों के लिए बहुसंख्यक मत के प्रति उसका कोई उत्तरदायित्व नहीं है। यदि वह सत्य का यथार्थ प्रेमी है, यदि वह घटनाओं/बातों/वस्तुओं को उसी प्रकार से देखने जैसी वे हैं और तथ्यों के अनुरूप न होने वाले विचारों के धारण के प्रति असंगतता/विद्वेष से प्रेरित है, तो वह पूर्ण रूप से अपने चारों ओर के लोगों की सहमति से मुक्त होगा। जब वह जीवन के व्यावहारिक आचरण में अपने मतों के अनुप्रयोग के लिए अग्रसर होता है, तो स्थिति भिन्न होती है। तब इसके अच्छे कारण होते हैं कि उसका आचार व्यवहार क्यों कम कठोर होना चाहिए। वह जिस समाज में है वह प्राचीन और संयुक्त विकास है। वे लोग जिनसे वह असहमति में है, उनके विचार और परंपरायें केवल संयोग से नहीं प्राप्त हुए हैं।\n\nइन विचारों और परंपराओं, सभी का मूल एक निश्चित वास्तविक अनुमानित क्षमता (फिटनेस) में है। उनकी वर्तमान पीढ़ी के एक अंश के जीवनों में कुछ निश्चित गहराई तक मूल पर पकड़ है। एक दूसरे के साथ उनकी अनुरूपता अब समाप्त हो गई हो सकती है। यह सत्य का मात्र एक पक्ष है। सर्वाधिक उत्साहपूर्ण प्रचारबाज़ी उनमें व्याप्त नहीं हो सकती। सामान्य भाषा में, हम एक पीढ़ी का कुछ ऐसे के रूप में उल्लेख करते हैं जिसमें इसके सभी अंग और सदस्य सजातीय होने के साथ सच्ची एकता का एक प्रकार होते हैं। फिर भी, यह मात्र ऐसा नहीं है। यह समग्र है किंतु समग्र निरंतर परिवर्तन में है, इसके कारक और तत्व आंतरिक रूप से बदल रहे हैं। यह एक नहीं, बल्कि कई पीढ़ियाँ हैं।",
+  "nta_question_id": "42558910777"
+ },
+ {
+  "id": "P1-2025JUN-Q50",
+  "subject": "paper1",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched); Q8 is left out because NTA dropped it."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "question_type": "mcq",
+  "question_text": "एक व्यक्ति की स्थिति सामान्य रूप से भिन्न होती है जब वह व्यक्ति ___________ ।",
+  "options": [
+   "दूसरे क्या कहते हैं इसको अनसुना कर देता है।",
+   "लोग क्या कहते हैं, उस पर ध्यान देता है।",
+   "जीवन के व्यावहारिक आचार में अपने विश्वासों का अनुप्रयोग करता है।",
+   "अपने आसपास की घटनाओं के प्रति अनजान रहता है।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) जीवन के व्यावहारिक आचार में अपने विश्वासों का अनुप्रयोग करता है।.**\n\n\"जब वह जीवन के व्यावहारिक आचरण में अपने मतों के अनुप्रयोग के लिए अग्रसर होता है, तो स्थिति भिन्न होती है\" — the situation changes when he **applies his beliefs in practical life**.",
+  "passage": "निम्नलिखित गद्यांश को पढ़ें और प्रश्नों के उत्तर दीजिए :\n\nएक व्यक्ति जो अपने स्वयं के विचारों और मतों के निर्माण का कष्ट उठाता है, वह ऐसा अनुभव करेगा कि उसके निष्कर्षों के लिए बहुसंख्यक मत के प्रति उसका कोई उत्तरदायित्व नहीं है। यदि वह सत्य का यथार्थ प्रेमी है, यदि वह घटनाओं/बातों/वस्तुओं को उसी प्रकार से देखने जैसी वे हैं और तथ्यों के अनुरूप न होने वाले विचारों के धारण के प्रति असंगतता/विद्वेष से प्रेरित है, तो वह पूर्ण रूप से अपने चारों ओर के लोगों की सहमति से मुक्त होगा। जब वह जीवन के व्यावहारिक आचरण में अपने मतों के अनुप्रयोग के लिए अग्रसर होता है, तो स्थिति भिन्न होती है। तब इसके अच्छे कारण होते हैं कि उसका आचार व्यवहार क्यों कम कठोर होना चाहिए। वह जिस समाज में है वह प्राचीन और संयुक्त विकास है। वे लोग जिनसे वह असहमति में है, उनके विचार और परंपरायें केवल संयोग से नहीं प्राप्त हुए हैं।\n\nइन विचारों और परंपराओं, सभी का मूल एक निश्चित वास्तविक अनुमानित क्षमता (फिटनेस) में है। उनकी वर्तमान पीढ़ी के एक अंश के जीवनों में कुछ निश्चित गहराई तक मूल पर पकड़ है। एक दूसरे के साथ उनकी अनुरूपता अब समाप्त हो गई हो सकती है। यह सत्य का मात्र एक पक्ष है। सर्वाधिक उत्साहपूर्ण प्रचारबाज़ी उनमें व्याप्त नहीं हो सकती। सामान्य भाषा में, हम एक पीढ़ी का कुछ ऐसे के रूप में उल्लेख करते हैं जिसमें इसके सभी अंग और सदस्य सजातीय होने के साथ सच्ची एकता का एक प्रकार होते हैं। फिर भी, यह मात्र ऐसा नहीं है। यह समग्र है किंतु समग्र निरंतर परिवर्तन में है, इसके कारक और तत्व आंतरिक रूप से बदल रहे हैं। यह एक नहीं, बल्कि कई पीढ़ियाँ हैं।",
+  "nta_question_id": "42558910779"
+ }
+]

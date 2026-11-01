@@ -1,0 +1,3642 @@
+[
+ {
+  "id": "YOGA-2025JUN-P2-Q051",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "question_type": "match",
+  "question_text": "Match List I and II as per endocrine glands and respective hormones.",
+  "options": [
+   "A-II, B-IV, C-III, D-I",
+   "A-II, B-IV, C-I, D-III",
+   "A-III, B-I, C-II, D-IV",
+   "A-III, B-IV, C-I, D-II"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-III, B-IV, C-I, D-II.**\n\n- Adrenal **medulla** → epinephrine (adrenaline) and norepinephrine, the fight-or-flight hormones.\n- **Pituitary** → oxytocin (made in the hypothalamus, released from the posterior pituitary).\n- Adrenal **cortex** → cortisol (and aldosterone, sex steroids).\n- **Ovaries** → estrogen and progesterone.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Adrenal Medulla",
+     "Pituitary Gland",
+     "Adrenal Cortex",
+     "Ovaries"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Cortisol",
+     "Estrogen",
+     "Epinephrine",
+     "Oxytocin"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "nta_question_id": "42558910866"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q052",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "question_type": "mcq",
+  "question_text": "Parasympathetic activation results in –",
+  "options": [
+   "Increased Metabolic rate",
+   "Activation of energy reserve",
+   "Increased secretion of digestive juices",
+   "Increased mental alertness"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Increased secretion of digestive juices.**\n\nThe parasympathetic system governs \"rest and digest\": it slows the heart, constricts the pupils and **increases digestive secretions and gut movement**. Raised metabolic rate, mobilising energy reserves and heightened alertness are sympathetic (fight-or-flight) effects.",
+  "nta_question_id": "42558910810"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q053",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "कौन सी धौति क्रिया पित्त एवं कफ का नियमन करती है?",
+  "options": [
+   "वारिसार-धौति",
+   "वन्हिसार-धौति",
+   "हृद्-धौति",
+   "मूल-शोधन"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) हृद्-धौति.**\n\nGheraṇḍa Saṃhitā 1.36–41: **hṛd-dhauti**, done with a stick (*daṇḍa*), by vomiting (*vamana*) or with a cloth (*vāsa*), expels **kapha and pitta** from the chest and throat (*kapha-pittaṃ tathā kledaṃ recayet*).\n\nVārisāra cleanses the whole gut, vahnisāra kindles the digestive fire, and mūla-śodhana cleans the rectum.",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 1.36–41"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita",
+   "gheranda-samhita-niranjanananda"
+  ],
+  "nta_question_id": "42558910809"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q054",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "question_type": "statements",
+  "question_text": "The advantages of a written lesson plan are –",
+  "options": [
+   "B, C, E Only",
+   "A, C, D Only",
+   "E, B, A Only",
+   "C, B, E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C, D Only.**\n\nA written lesson plan **organises the teacher's thinking**, **builds confidence** and is **a record to build future plans on**.\n\nB and E are not advantages: they are guidelines for *how* to prepare a plan (in time, and in specific detail).",
+  "items": [
+   "It helps the teacher to organize his thinking.",
+   "It should be prepared shortly before use.",
+   "It increases the teacher’s confidence.",
+   "It serves as an aid for future plans.",
+   "It should be specific and detailed."
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "nta_question_id": "42558910854"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q055",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "अथर्ववेद की पिप्पलाद शाखा से सम्बद्ध उपनिषद है।",
+  "options": [
+   "ईशावास्योपनिषद",
+   "केनोपनिषद",
+   "प्रश्नोपनिषद",
+   "मुण्डकोपनिषद"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) प्रश्नोपनिषद.**\n\nThe **Praśna Upaniṣad** belongs to the **Pippalāda** recension of the Atharvaveda; in it the sage Pippalāda answers six questions put by six seekers. The Muṇḍaka belongs to the Śaunaka recension of the same Veda; the Īśa to the Śukla Yajurveda; the Kena to the Sāmaveda.",
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910781"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q056",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "statements",
+  "question_text": "बृहदरण्यकोपनिषद के अनुसार परमेश्वर निम्न भागों में विभक्त हुआ।",
+  "options": [
+   "केवल A, B, E",
+   "केवल A, C, D",
+   "केवल A, D, E",
+   "केवल A, C, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) केवल A, C, D.**\n\nBṛhadāraṇyaka Upaniṣad 1.2.3: *sa tredhātmānaṃ vyakuruta, ādityaṃ tṛtīyaṃ, vāyuṃ tṛtīyam* — he divided himself into three: **fire (agni)**, the **sun (āditya)** as a third, and **air (vāyu)** as a third. Water and colour are not among them.",
+  "items": [
+   "अग्नि",
+   "जल",
+   "वायु",
+   "सूर्य",
+   "रंग"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Bṛhadāraṇyaka Upaniṣad 1.2.3"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910847"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q057",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "question_type": "sequence",
+  "question_text": "हठयोगप्रदीपिका श्लोक के अनुसार हठयोगाभ्यास के योग्य देश के वर्णन को अनुक्रम में कीजिए।",
+  "options": [
+   "A, B, C, D, E",
+   "D, A, E, C, B",
+   "D, C, B, A, E",
+   "D, E, C, B, A"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) D, C, B, A, E.**\n\nHaṭha Pradīpikā 1.12 follows this order: *surājye dhārmike deśe subhikṣe nirupadrave | dhanuḥ pramāṇa-paryantaṃ śilāgni-jala-varjite | ekānte maṭhikā-madhye…* — in a **well-governed** kingdom, a **righteous** land with **plenty of alms** and no disturbance, in a hut free of **stones, fire and water** for a bow's length around, in a **solitary** place.",
+  "items": [
+   "शिला अग्नि सुभिक्ष से रहित",
+   "सुभिक्ष",
+   "धार्मिक",
+   "सुराज्य",
+   "एकांत स्थान"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Haṭha Pradīpikā 1.12"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910828"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q058",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "घेरण्ड के अनुसार दण्ड धौति से ________ नष्ट होता है।",
+  "options": [
+   "मस्तिष्क रोग",
+   "कण्ठ रोग",
+   "हृद् रोग",
+   "उदर रोग"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) हृद् रोग.**\n\nDaṇḍa dhauti is the first of Gheraṇḍa's three forms of **hṛd-dhauti** (heart or chest cleansing). A plantain, turmeric or cane stalk is inserted into the oesophagus and withdrawn, bringing up kapha, pitta and mucus; Gheraṇḍa says it destroys **disorders of the heart region** (GS 1.37–38).",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 1.36–38"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910816"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q059",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "question_type": "statements",
+  "question_text": "हठरत्नावली के अनुसार कर्मों को बताएँ।",
+  "options": [
+   "केवल A, B, C, D",
+   "केवल E, A, B, C",
+   "केवल B, C, D, E",
+   "केवल B, C, E"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल A, B, C, D.**\n\nŚrīnivāsa's Haṭharatnāvalī (1.27) expands the six karmas into **eight (aṣṭakarma)**: *cakri, nauli, dhauti, neti, basti, gajakaraṇī, trāṭaka* and ***mastaka-bhrānti***. **Cakri**, **nauli**, **gajakaraṇī** and **mastakabhrānti** are all on the list; **śaṅkhaprakṣālana** is a modern name, not one of its karmas.",
+  "items": [
+   "चक्रि",
+   "नौलि",
+   "गजकरणी",
+   "मस्तकभ्रान्ति",
+   "शंख प्रक्षालन"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "hatharatnavali-hindi"
+  ],
+  "nta_question_id": "42558910843"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q060",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "question_type": "mcq",
+  "question_text": "अच्छी पाठ्ययोजना का गुण नहीं है।",
+  "options": [
+   "सभी योग-अभ्यासो हेतु सामान्य पाठ्य-योजना",
+   "विस्तृत पाठ्य-योजन",
+   "आवश्यक सामग्री की पुष्टि करने वाली पाठ-योजना",
+   "साधकों की भिन्नता को समाहित करने वाली पाठ्य-योजना"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) सभी योग-अभ्यासो हेतु सामान्य पाठ्य-योजना.**\n\nA good lesson plan is **specific** to the practice, class and objectives: it is detailed, lists the materials needed and allows for differences among learners. One **general plan for all practices** defeats the purpose of planning.",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "nta_question_id": "42558910820"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q061",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "statements",
+  "question_text": "गोरखनाथ के बारह पंन्थों में इनका वर्णन नहीं है।",
+  "options": [
+   "केवल A, C",
+   "केवल B, C",
+   "केवल B, D",
+   "केवल D, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल B, D.**\n\nThe Nāth sampradāya is traditionally organised in **twelve panths** (*bārah panth*), among them Satyanāthī, **Dharmanāthī**, Rāmapanth, Naṭeśvarī, Kanhaḍ, Kapilānī, **Vairāg**, Mannāthī, Āīpanth, Pāgalpanth, **Dhajpanth** and Gaṅgānāthī. **Kṛṣṇanāthī** and **Yamunānāthī** are not among them.",
+  "items": [
+   "धर्मनाथी",
+   "कृष्णनाथी",
+   "वैराग पंथी",
+   "यमुनानाथी",
+   "धज-पंथी"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "nta_question_id": "42558910846"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q062",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas: practice and benefits",
+  "question_type": "statements",
+  "question_text": "तड़ागी मुद्रा के संदर्भ में कौनसी बात सत्य नहीं है?",
+  "options": [
+   "केवल A, D",
+   "केवल D, E",
+   "केवल B, C",
+   "केवल A, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल B, C.**\n\nGheraṇḍa Saṃhitā 3.61: *paścimottānavat kṛtvā udare tānayet tataḥ … taḍāgī sā parā mudrā **jarā-mṛtyu-vināśinī*** — sit as in paścimottānāsana, draw the abdomen in like a tank (*taḍāga*); this supreme mudrā destroys **old age and death**.\n\nSo A, D and E are in the text. Freedom from grey hair and wrinkles (B, C) is claimed for other practices (viparītakaraṇī, mahāvedha), not for taḍāgī.",
+  "items": [
+   "पश्चिमोत्तानासन में बैठे।",
+   "इसके अभ्यास से बाल नहीं पकते।",
+   "शरीर पर झुर्रिया नही पड़ती।",
+   "यह मुद्रा जरा का विनाश करती है।",
+   "यह मुद्रा मृत्यु का विनाश करती है।"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 3.61"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910855"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q063",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "question_type": "sequence",
+  "question_text": "Arrange in sequence according to lesson plan –",
+  "options": [
+   "B, D, E, A, C",
+   "B, D, A, C, E",
+   "B, D, C, A, E",
+   "A, B, D, C, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, D, A, C, E.**\n\nA practical yoga lesson (Gharote and Ganguly) runs: **verbal introduction** of the practice → **demonstration** → **salient points** (technical details to watch) → **advantages** (benefits, with precautions) → **question-answer** to clear doubts, followed by students' practice and correction.",
+  "items": [
+   "Salient Points",
+   "Verbal Introduction",
+   "Advantages",
+   "Demonstration",
+   "Question Answer"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "nta_question_id": "42558910833"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q064",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 64,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Causes of ill health: kleshas and antarayas",
+  "question_type": "statements",
+  "question_text": "मानसिक एवं भावनात्मक स्वास्थ्य को निम्न में से कौन नकारात्मक रूप से प्रभावित करता है?",
+  "options": [
+   "केवल A, E, D",
+   "केवल A, C, E",
+   "केवल A, C, D",
+   "केवल B, C, D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल A, C, D.**\n\n**Pramāda** (carelessness), **bhrānti-darśana** (false perception) and **avirati** (sensual craving) are among Patañjali's nine **antarāyas** (YS 1.30), obstacles that disturb the mind.\n\n**Karuṇā** (compassion) and **muditā** (gladness) are two of the four bhāvanās of YS 1.33, which make the mind clear and calm.",
+  "items": [
+   "प्रमाद",
+   "करूणा",
+   "भ्रान्तिदर्शन",
+   "अविरति",
+   "मुदिता"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Yoga Sūtra 1.30, 1.33"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910852"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q065",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 65,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "match",
+  "question_text": "लेश्या ध्यान के अनुसार सूची - I को सूची - II से मिलाए।",
+  "options": [
+   "A-I, B-III, C-IV, D-II",
+   "A-III, B-II, C-I, D-IV",
+   "A-III, B-I, C-II, D-IV",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-III, B-I, C-II, D-IV.**\n\nIn **leśyā dhyāna**, part of Ācārya Mahāprajña's **prekṣā dhyāna** (Jain Viśva Bhāratī), the meditator visualises colours at psychic centres:\n- **jyoti kendra** (forehead) → white\n- **ānanda kendra** (heart) → green\n- **viśuddhi kendra** (throat) → blue\n- **darśana kendra** (between the eyebrows) → bright red (*aruṇa*)",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "ज्योती केन्द्र",
+     "आनन्द केन्द्र",
+     "विशुद्धि केन्द्र",
+     "दर्शन केन्द्र"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "हरा रंग",
+     "नीला रंग",
+     "सफेद रंग",
+     "अरूण रंग"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910868"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q066",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 66,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "question_type": "sequence",
+  "question_text": "शिवसंहिता में वर्णित विषयों को अध्यायों के अनुसार क्रमबद्ध करें।",
+  "options": [
+   "C, D, A, B, E",
+   "C, A, B, E, D",
+   "C, B, A, D, E",
+   "A, B, C, D, E"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, D, A, B, E.**\n\nThe five chapters (*paṭalas*) of the Śiva Saṃhitā:\n1. philosophical doctrine (C)\n2. the body as microcosm — nāḍīs, fire and the jīva (tattva-jñāna, D)\n3. prāṇa, practice, and the **four stages** of yoga, ārambha to niṣpatti (A)\n4. the **ten mudrās** (B)\n5. obstacles, the four kinds of yoga, and meditation leading to **self-realisation** (E)",
+  "items": [
+   "योग की चार अवस्थाएँ",
+   "दश मुद्राओं का विवेचन",
+   "दार्शनिक सिद्धान्त",
+   "तत्वाज्ञान-प्रकरण",
+   "आत्मसाक्षात्कार"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "vasu-1914-siva-samhita",
+   "shiva-samhita-hindi"
+  ],
+  "nta_question_id": "42558910834"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q067",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 67,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Dhyana and samadhi in Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "घेरण्ड-संहिता के अनुसार द्वादश दलयुक्त कमल-दल क्रमशः कौन से है?",
+  "options": [
+   "ह क्ष म ल व र ह स ख फ्रे यूं ल",
+   "क्ष ह म ल व स ह फ्रे यूं ल र ह",
+   "ह स क्ष म ल व र यूं ह स ख फ्रें",
+   "ह ल क्ष म स र व यूं ह स ख फ्रें"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) ह स क्ष म ल व र यूं ह स ख फ्रें.**\n\nIn the **sthūla dhyāna** of Gheraṇḍa Saṃhitā chapter 6, the meditator visualises in the head a twelve-petalled lotus whose petals bear, in order, the seed letters ***ha sa kṣa ma la va ra yuṃ ha sa kha phreṃ***. Inside is a triangle with *ha, la, kṣa* at its corners and the praṇava, where the guru is meditated upon.",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 6.9–11"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910798"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q068",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 68,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "question_type": "match",
+  "question_text": "घेरण्डसंहिता के अनुसार सूची - I को सूची - II से मिलान करें।",
+  "options": [
+   "A-I, B-III, C-II, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-II, B-IV, C-III, D-I",
+   "A-I, B-III, C-IV, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-II, B-III, C-IV, D-I.**\n\nGheraṇḍa Saṃhitā 1.10–11 gives the fruit of each limb of saptāṅga yoga: **śodhana** (purification) from ṣaṭkarma, **dṛḍhatā** (strength) from āsana, **sthairya** (steadiness) from mudrā, **dhairya** (calm) from pratyāhāra, **lāghava** (lightness) from prāṇāyāma, **pratyakṣa** (perception of the Self) from dhyāna, and **nirliptatā** (detachment, liberation) from samādhi.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "शोधन",
+     "स्थैर्य",
+     "लाघव",
+     "धैर्य"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "प्रत्याहार",
+     "षट्कर्म",
+     "मुद्रा",
+     "प्राणायाम"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 1.10–11"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910869"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q069",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 69,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Dhyanabindu Upanishad",
+  "question_type": "mcq",
+  "question_text": "ध्यानयोग से पर्वत के समान ______ नाश होता है।",
+  "options": [
+   "कर्म",
+   "अधर्म",
+   "पाप",
+   "पुण्य"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) पाप.**\n\nDhyānabindu Upaniṣad 1 opens: *yadi śaila-samaṃ pāpaṃ vistīrṇaṃ bahu-yojanam | bhidyate dhyāna-yogena nānyo bhedaḥ kadācana* — even if one's **sin** is as vast as a mountain, stretching many yojanas, it is destroyed by dhyāna yoga; by nothing else is it ever destroyed.",
+  "refs": [
+   "Dhyānabindu Upaniṣad 1"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ],
+  "nta_question_id": "42558910791"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q070",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 70,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions",
+  "question_type": "sequence",
+  "question_text": "जन्म-काल के अनुसार क्रमबद्ध करें।",
+  "options": [
+   "D, A, B, C, E",
+   "E, A, D, C, B",
+   "E, B, A, C, D",
+   "A, C, B, D, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) E, B, A, C, D.**\n\n- **Lahiri Mahāśaya** (Śyāmācaraṇ Lāhiṛī): 1828\n- **Svāmī Śivānanda Sarasvatī** (Rishikesh): 1887\n- **T. Krishnamacharya**: 1888\n- **Maharshi Mahesh Yogi** (Transcendental Meditation): 1918\n- **Svāmī Rāma** (Himalayan Institute): 1925",
+  "items": [
+   "टी. कृष्णामाचार्य",
+   "स्वामी शिवानन्द सरस्वती",
+   "महर्शि महेश योगी",
+   "स्वामी राम",
+   "श्रीश्यामाचरण लाहिड़ी"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "nta_question_id": "42558910822"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q071",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 71,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "sequence",
+  "question_text": "घेरण्ड के अनुसार क्रमबद्ध करें।",
+  "options": [
+   "E, B, A, D, C",
+   "A, B, D, E, C",
+   "B, E, D, A, C",
+   "C, B, A, E, D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, E, D, A, C.**\n\nGheraṇḍa Saṃhitā chapter 1 takes the ṣaṭkarmas in this order:\n- **dhauti**: antar-dhauti (vātasāra, **vārisāra**, vahnisāra, bahiṣkṛta), then **danta-dhauti** (beginning with danta-mūla), then hṛd-dhauti (daṇḍa, **vamana**, vāsa), then mūla-śodhana\n- basti, neti, laulikī, **trāṭaka**\n- finally kapālabhāti, whose first form is **vātakrama**",
+  "items": [
+   "त्राटक",
+   "वारिसार",
+   "वातक्रम",
+   "वमन-धौती",
+   "दन्तमूल-धौती"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 1.12–60"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910827"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q072",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 72,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "question_type": "sequence",
+  "question_text": "घेरण्ड-संहिता के श्लोकानुसार क्रमबद्ध करें।",
+  "options": [
+   "A, C, B, E, D",
+   "E, C, D, B, A",
+   "C, E, D, B, A",
+   "B, C, D, E, A"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) E, C, D, B, A.**\n\nThese are foods Gheraṇḍa forbids (*apathya*, GS 5.23–26), in the order the verses name them: *kaṭv-amlaṃ lavaṇaṃ tiktaṃ bhṛṣṭaṃ ca **dadhi** takrakam … **kulatthaṃ** masūraṃ … tumbī kola **kapitthaṃ** ca … kadambaṃ **jambīraṃ** bimbaṃ lakucaṃ laśunaṃ* … and, later, onion (*palāṇḍu*). So: curd → horse gram → wood-apple → citron → onion.",
+  "items": [
+   "प्याज़",
+   "जम्बीर",
+   "कुलथी की दाल",
+   "कपित्थ",
+   "दधि"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 5.23–26"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910831"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q073",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 73,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "question_type": "mcq",
+  "question_text": "योगकुण्डल्युपनिषद के अनुसार प्राणायाम का भेद नहीं हैं।",
+  "options": [
+   "सीत्कारी",
+   "शीतली",
+   "उज्यायी",
+   "केवल"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) सीत्कारी.**\n\nYogakuṇḍalī Upaniṣad 1.21: *sūryojjāyī śītalī ca bhastrī caiva caturthikā* — the four kinds of **sahita kumbhaka** are sūrya-bhedana, ujjāyī, śītalī and bhastrikā, practised until **kevala kumbhaka** is attained. **Sītkārī** is not among them (it appears in Haṭha Pradīpikā's eight).",
+  "refs": [
+   "Yogakuṇḍalī Upaniṣad 1.21"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ],
+  "nta_question_id": "42558910792"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q074",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 74,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "question_type": "mcq",
+  "question_text": "कौन सी वायु विशुद्धि चक्र से संबन्धित शारीरिक क्रियाओं को नियन्त्रित करती है?",
+  "options": [
+   "प्राण-वायु",
+   "उदान-वायु",
+   "समान-वायु",
+   "व्यान-वायु"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) उदान-वायु.**\n\n**Udāna** is seated in the throat and governs speech, swallowing and the upward movement of energy — the region of the **viśuddhi** (throat) cakra. Prāṇa rules the chest (heart and lungs), samāna the navel and digestion, vyāna circulation through the whole body, and apāna the pelvis and elimination.",
+  "nta_question_id": "42558910805"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q075",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 75,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "वात का संचय, प्रकोप व प्रशमन क्रमशः किन ऋतुओं में होता है?",
+  "options": [
+   "ग्रीष्म, वर्षा, शरद्",
+   "वर्षा, शरद, वसन्त",
+   "हेमन्त, वसन्त, वर्षा",
+   "वर्षा, शरद, हेमन्त"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) ग्रीष्म, वर्षा, शरद्.**\n\nĀyurveda's seasonal cycle of the doṣas (*caya-prakopa-praśama*):\n- **vāta**: accumulates in **grīṣma** (summer), is aggravated in **varṣā** (rains), subsides in **śarad** (autumn)\n- pitta: varṣā, śarad, hemanta\n- kapha: śiśira, vasanta, grīṣma",
+  "refs": [
+   "Aṣṭāṅga Hṛdaya, Sūtrasthāna 12.24–25"
+  ],
+  "source_ids": [
+   "ayurveda-books"
+  ],
+  "nta_question_id": "42558910808"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q076",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 76,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "question_type": "mcq",
+  "question_text": "दो न्यूरॉन के मध्य सन्धिस्थल को कहते हैं।",
+  "options": [
+   "नेफरान (वृक्काणु)",
+   "तंत्रिका",
+   "न्यूरो ट्रांसमीटर",
+   "साइनेप्स (अन्तर्ग्रथनक)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) साइनेप्स (अन्तर्ग्रथनक).**\n\nThe junction between two neurons is the **synapse**. An impulse reaching the axon terminal releases **neurotransmitters** into the synaptic cleft, which carry the signal to the next neuron. A nephron is the kidney's unit; a nerve is a bundle of axons.",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910802"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q077",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 77,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Narada Bhakti Sutra",
+  "question_type": "mcq",
+  "question_text": "नारदभक्ति सूत्र के अनुसार कौन एक दूसरे पर आश्रित है?",
+  "options": [
+   "कर्म एवं ज्ञान",
+   "ज्ञान एवं भक्ति",
+   "लय एवं ज्ञान",
+   "भक्ति एवं कर्म"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ज्ञान एवं भक्ति.**\n\nNārada Bhakti Sūtra 28–30: some say **knowledge** is the means to bhakti (*tasyā jñānam eva sādhanam ity eke*); others say **knowledge and devotion depend on each other** (*anyonyāśrayatvam ity anye*, sūtra 29); Brahmakumāra (Nārada's own view) says bhakti is its own fruit (sūtra 30).",
+  "refs": [
+   "Nārada Bhakti Sūtra 28–30"
+  ],
+  "source_ids": [
+   "narada-bhakti-sutra"
+  ],
+  "nta_question_id": "42558910784"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q078",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 78,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "question_type": "mcq",
+  "question_text": "हठरत्नावली के अनुसार महामुद्रा करने का क्रम कैसा होता है?",
+  "options": [
+   "बांया पैर मुडा, दायें को पकड़ना, सर उपर",
+   "बांया पैर सीधा, दाया मुडा, जालन्धर बन्ध",
+   "बांया पैर मुड़ा, दांया सीधा, जालन्धर बन्ध",
+   "दाया पैर मुड़ा, बायां सीधा, महाबन्ध"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) बांया पैर मुड़ा, दांया सीधा, जालन्धर बन्ध.**\n\nAs in Haṭha Pradīpikā 3.10–11, which Haṭharatnāvalī follows: press the perineum with the **left heel**, stretch the **right leg** out, hold the toes with both hands, and contract the throat (**jālandhara**) while holding the breath; then repeat on the other side.",
+  "source_ids": [
+   "hatharatnavali-hindi",
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910799"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q079",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 79,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "statements",
+  "question_text": "निम्न में से कौनसे आसन हठयोगप्रदिपिका में नहीं वर्णित है?",
+  "options": [
+   "केवल A, B, D",
+   "केवल B, C, D",
+   "केवल A, C, E",
+   "केवल B, C, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) केवल B, C, D.**\n\nHaṭha Pradīpikā chapter 1 describes 15 āsanas: svastika, gomukha, vīra, kūrma, kukkuṭa, uttāna-kūrma, **dhanura**, matsyendra, paścimottāna, mayūra, śava, **siddha**, padma, siṃha and bhadra.\n\n**Bakāsana**, **matsyāsana** (not matsyendrāsana) and **vīrabhadrāsana** (not vīrāsana) are not among them.",
+  "items": [
+   "सिद्धासन",
+   "बकासन",
+   "मतस्यासन",
+   "वीरभद्रासन",
+   "धनुरासन"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Haṭha Pradīpikā 1.19–57"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910849"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q080",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 80,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Narada Bhakti Sutra",
+  "question_type": "sequence",
+  "question_text": "नारद-भक्ति-सूत्र के अनुसार भक्ति के लक्षण का क्रम बतायें।",
+  "options": [
+   "C, A, B, E, D",
+   "D, C, B, A, E",
+   "A, B, C, D, E",
+   "E, D, C, B, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, A, B, E, D.**\n\nNārada Bhakti Sūtra 51–54: *anirvacanīyaṃ prema-svarūpam* (51, love's nature is **indescribable**) → *mūkāsvādanavat* (52, like the taste experienced by **a mute**) → *prakāśate kvāpi pātre* (53, it shines forth in **some rare vessel**) → *guṇa-rahitaṃ kāmanā-rahitaṃ pratikṣaṇa-vardhamānam…* (54, **free of guṇas, free of desire**, ever increasing).",
+  "items": [
+   "गूँगे के रसास्वादन की भाँति",
+   "किसी किसी पात्र मे प्रकाशित होती है",
+   "प्रेम का स्वरूप अनिर्वचनीय है।",
+   "कामना रहित होता है।",
+   "गुण रहित होता है।"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Nārada Bhakti Sūtra 51–54"
+  ],
+  "source_ids": [
+   "narada-bhakti-sutra"
+  ],
+  "nta_question_id": "42558910821"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q081",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 81,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "mcq",
+  "question_text": "सत्कार के लिए किया जाने वाला तप है :",
+  "options": [
+   "सात्विक",
+   "राजस",
+   "तामस",
+   "बौद्धिक"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) राजस.**\n\nBhagavad Gītā 17.18: *satkāra-māna-pūjārthaṃ tapo dambhena caiva yat | kriyate tad iha proktaṃ **rājasaṃ** calam adhruvam* — austerity done with ostentation to gain **respect**, honour and worship is called **rājasika**; it is unsteady and fleeting. Sāttvika tapas (17.17) is done with faith, expecting no reward; tāmasika (17.19) out of delusion or to harm others.",
+  "refs": [
+   "Bhagavad Gītā 17.17–19"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ],
+  "nta_question_id": "42558910788"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q082",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 82,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism",
+  "question_type": "mcq",
+  "question_text": "सन्धिनिर्मोचन के अनुसार विपश्यना के कितने प्रकार है?",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "5"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 3.**\n\nThe **Saṃdhinirmocana Sūtra** (chapter 8, the dialogue with Maitreya), a key Yogācāra text, distinguishes **three kinds of vipaśyanā** (insight): insight with signs (*nimitta-mayī*), insight that investigates (*paryeṣaṇā-mayī*) and insight that reflects or reviews (*pratyavekṣaṇā-mayī*).",
+  "nta_question_id": "42558910783"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q083",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 83,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "question_type": "mcq",
+  "question_text": "मांसपेशी की क्रियाशील सूक्ष्मतम इकाई है।",
+  "options": [
+   "लिगामेंट (अस्थिबन्ध)",
+   "टेण्डन (कण्डरा)",
+   "सारकोमियर",
+   "एक्टिन"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) सारकोमियर.**\n\nThe **sarcomere** — the segment of a myofibril between two Z-lines — is the smallest **functional** (contractile) unit of skeletal muscle: its actin and myosin filaments slide over each other to shorten it. Actin is a protein inside the sarcomere; ligaments and tendons are connective tissue.",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910811"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q084",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 84,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "हठयोगप्रदीपिका के अनुसार गोमुखासन में सर्वप्रथम क्या करें?",
+  "options": [
+   "बॉये पृष्ठ के पास दाहिनी एड़ी।",
+   "दाहिने पृष्ठ के पास बाँयी एड़ी।",
+   "बायें घुटने के ऊपर दाया घुटना।",
+   "दायें घुटने के ऊपर बायां घुटना।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) बॉये पृष्ठ के पास दाहिनी एड़ी।.**\n\nHaṭha Pradīpikā 1.20: *savye dakṣiṇa-gulphaṃ tu pṛṣṭha-pārśve niyojayet | dakṣiṇe'pi tathā savyaṃ gomukhaṃ gomukhākṛtiḥ* — place the **right ankle beside the left buttock**, and likewise the left beside the right; this is gomukhāsana, shaped like a cow's face.",
+  "refs": [
+   "Haṭha Pradīpikā 1.20"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910817"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q085",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 85,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "statements",
+  "question_text": "मुण्डकोपनिषद में वर्णित पराविद्या के अनुसार ब्रह्म कैसा है?",
+  "options": [
+   "केवल A, C, E",
+   "केवल C, D, E",
+   "केवल B, D, E",
+   "केवल A, D, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल B, D, E.**\n\nMuṇḍaka Upaniṣad 1.1.5–6: *athā parā yayā tad akṣaram adhigamyate | yat tad **adreśyam agrāhyam** agotram avarṇam … **nityaṃ** vibhuṃ **sarvagataṃ** susūkṣmam* — the higher knowledge is that by which the Imperishable is known: **invisible**, **ungraspable**, without lineage or colour … **eternal**, all-pervading, **omnipresent**, most subtle.\n\nSo Brahman is not visible (A ✗) and not limited to one place (C ✗, *asarvagata* is the opposite of *sarvagata*).",
+  "items": [
+   "द्रेश्य",
+   "अद्रेश्य",
+   "असर्वगत",
+   "अग्राह्य",
+   "नित्य"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Muṇḍaka Upaniṣad 1.1.5–6"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910840"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q086",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 86,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Nadabindu Upanishad",
+  "question_type": "sequence",
+  "question_text": "नादबिन्दूपनिषद के अनुसार ओंकार की प्रथम पाँच मात्राओं को क्रमबद्ध कीजिए।",
+  "options": [
+   "C, D, B, E, A",
+   "A, B, C, D, E",
+   "E, D, A, B, C",
+   "C, A, B, E, D"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, D, B, E, A.**\n\nNādabindu Upaniṣad 9–10 names the twelve *mātrās* of Om: ***ghoṣiṇī*** (1), ***vidyunmātrā*** (2), ***pātaṅginī*** (3), ***vāyuveginī*** (4), ***nāmadheyā*** (5), then aindrī, vaiṣṇavī, śāṅkarī, mahatī, dhṛti, nārī and brāhmī.",
+  "items": [
+   "नामधेया",
+   "पातङ्गिनी",
+   "घोषिणी",
+   "विद्युन्मात्रा",
+   "वायुवेगिनी"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Nādabindu Upaniṣad 9–10"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ],
+  "nta_question_id": "42558910825"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q087",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 87,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "sequence",
+  "question_text": "योगसूत्र के अनुसार क्रमबद्ध करें।",
+  "options": [
+   "B, A, C, E, D",
+   "A, B, C, E, D",
+   "A, C, B, D, E",
+   "C, A, B, D, E"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B, A, C, E, D.**\n\nIn the order they appear in the Yoga Sūtra:\n- **citta-vṛtti**: YS 1.2–1.11\n- **Īśvara**: YS 1.23–1.29\n- **the five kleśas**: YS 2.3–2.9\n- **dhāraṇā**: YS 3.1\n- **citta-pariṇāma** (nirodha, samādhi and ekāgratā pariṇāma): YS 3.9–3.12",
+  "items": [
+   "ईश्वर",
+   "चित्तवृत्ति",
+   "पञ्चक्लेश",
+   "चित्त-परिणाम",
+   "धारणा"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910826"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q088",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 88,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Nadabindu Upanishad",
+  "question_type": "match",
+  "question_text": "नादबिन्दूपनिषद के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-II, B-I, C-III, D-IV",
+   "A-I, B-II, C-III, D-IV",
+   "A-IV, B-III, C-II, D-I",
+   "A-IV, B-II, C-III, D-I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-II, B-I, C-III, D-IV.**\n\nNādabindu Upaniṣad 1 pictures Om as a bird (*haṃsa*): *akāro dakṣiṇaḥ pakṣa ukāras tūttaraḥ smṛtaḥ | makāraṃ puccham ity āhur ardhamātrā tu mastakam* — **a** is the right (southern) wing, **u** the left (northern) wing, **m** the tail, and the **half-measure** the head.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "अकार",
+     "उकार",
+     "मकार",
+     "अर्धमात्रा"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "उत्तर पक्ष",
+     "दक्षिण पक्ष",
+     "पुच्छ",
+     "मस्तक"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Nādabindu Upaniṣad 1"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ],
+  "nta_question_id": "42558910860"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q089",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 89,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "statements",
+  "question_text": "श्वेताश्वतरोपनिषद के अनुसार ध्यान के लिए उपयुक्त है।",
+  "options": [
+   "केवल B, C, A",
+   "केवल C, D, E",
+   "केवल A, C, D",
+   "केवल A, B, E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल A, B, E.**\n\nŚvetāśvatara Upaniṣad 2.10: *same **śucau** śarkarā-vahni-vālukā-vivarjite … mano'nukūle na tu cakṣu-pīḍane guhā-nivātāśrayaṇe prayojayet* — practise in a level, **clean** place free of **pebbles, fire and sand**, pleasing to the mind and **not painful to the eyes**, in a cave or sheltered spot.\n\nThe verse mentions sounds and water nearby as pleasant surroundings, not sitting *in* water; a tiger skin comes from Gītā-style seat descriptions (*cailājina-kuśottaram*), not this verse.",
+  "items": [
+   "कंकर, अग्नि और बालू से रहित",
+   "नेत्रों को आराम देने वाले",
+   "जल में",
+   "व्याघ्र चर्म के ऊपर बैठे",
+   "सभी प्रकार से शुद्ध हो"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Śvetāśvatara Upaniṣad 2.10"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910848"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q090",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 90,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "question_type": "statements",
+  "question_text": "Stages of personality development according to Jung.",
+  "options": [
+   "A, C, D Only",
+   "B, C, D Only",
+   "B, C, E Only",
+   "C, D, E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, C, D Only.**\n\nJung described the stages of life as **childhood**, **youth and young adulthood**, **middle age** (the crucial period of individuation, after about 40) and **old age**. \"Early childhood\" and \"maturity\" are not his stage names.",
+  "items": [
+   "Childhood",
+   "Early Childhood",
+   "Young Adulthood",
+   "Middle Age",
+   "Maturity"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "notes-psychology-handwritten"
+  ],
+  "nta_question_id": "42558910850"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q091",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 91,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in the literature of saints",
+  "question_type": "mcq",
+  "question_text": "तुलसिदास के अनुसार किसके बिना सिद्ध लोग अपने अन्दर स्थित ईश्वर को नहीं देख पाते।",
+  "options": [
+   "राधा-कृष्ण",
+   "सीताराम",
+   "भवानी-शंकर",
+   "लक्ष्मी-विनायक"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) भवानी-शंकर.**\n\nThe second invocation of Tulsīdās's Rāmacaritamānasa (Bālakāṇḍa): *bhavānī-śaṅkarau vande śraddhā-viśvāsa-rūpiṇau | yābhyāṃ vinā na paśyanti siddhāḥ svāntaḥstham īśvaram* — I bow to **Bhavānī and Śaṅkara**, embodiments of faith and conviction, without whom even the perfected cannot see the Lord within their own hearts.",
+  "refs": [
+   "Rāmacaritamānasa, Bālakāṇḍa, maṅgalācaraṇa 2"
+  ],
+  "nta_question_id": "42558910782"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q092",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 92,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: eye and special senses",
+  "question_type": "sequence",
+  "question_text": "श्रवण की प्रक्रिया में श्रवणागों का क्रम –",
+  "options": [
+   "E, D, A, B, C",
+   "C, D, E, A, B",
+   "A, E, C, B, D",
+   "D, B, C, E, A"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) D, B, C, E, A.**\n\nSound travels: **auricle** (pinna) collects it → down the ear canal to the **tympanic membrane**, which vibrates → the **ossicles** (malleus, incus, stapes) amplify it → the stapes pushes on the oval window of the **vestibule** → the fluid wave passes into the **cochlea**, where hair cells in the organ of Corti turn it into nerve impulses.",
+  "items": [
+   "कोक्लिया",
+   "टिम्पैनिक मेम्ब्रेन",
+   "ओसिकल",
+   "आउरिकल",
+   "वेस्टीब्यूल"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910829"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q093",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 93,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "योगी के क्लेश और कर्मो का नाश किस से होता है?",
+  "options": [
+   "विद्या",
+   "ज्ञान",
+   "वैराग्य",
+   "धर्ममेध समाधि"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) धर्ममेघ समाधि.**\n\nYS 4.29–4.30: for the yogi with constant discrimination and no interest even in its fruits, ***dharmamegha samādhi*** arises; ***tataḥ kleśa-karma-nivṛttiḥ*** — from that, kleśas and karma come to an end.",
+  "refs": [
+   "Yoga Sūtra 4.29–4.30"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910796"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q094",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 94,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "question_type": "mcq",
+  "question_text": "पातंजल-योगसूत्र के अनुसार स्वशक्ति और स्वामिशक्ति दोनों के स्वरूप प्राप्ति का कारण क्या है?",
+  "options": [
+   "संयोग",
+   "सहयोग",
+   "दृश्य",
+   "माया"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) संयोग.**\n\nYS 2.23: ***sva-svāmi-śaktyoḥ svarūpopalabdhi-hetuḥ saṃyogaḥ*** — the conjunction (*saṃyoga*) of the seer and the seen is the cause of experiencing the nature of both powers, that of the owned (prakṛti, *sva*) and of the owner (puruṣa, *svāmin*). Its cause in turn is avidyā (2.24).",
+  "refs": [
+   "Yoga Sūtra 2.17, 2.23–2.24"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910795"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q095",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 95,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "हठयोग के अनुसार किस मुद्रा के अभ्यास में इडा व पिंगला मरण अवस्था में पहुँच जाती है?",
+  "options": [
+   "खेचरी मुद्रा",
+   "विपरीतकरणी मुद्रा",
+   "महावेध",
+   "महामुद्रा"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) महावेध — NTA's final key accepts (3) and (4).**\n\nWhen prāṇa is forced into the suṣumnā, iḍā and piṅgalā become inactive, \"as if dead\". Haṭha Pradīpikā uses this image for **mahāmudrā** (3.13: *iḍā-piṅgalayoḥ … sā maraṇāvasthā jāyate*) and the closely linked **mahāvedha**, where the breath pierces the knots and enters the central channel. NTA's final key accepted both (3) mahāvedha and (4) mahāmudrā.",
+  "refs": [
+   "Haṭha Pradīpikā 3.10–30"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910814"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q096",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 96,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yoga Upanishads: overview",
+  "question_type": "mcq",
+  "question_text": "प्रणव में सूक्ष्म प्रपञ्चाभिधायक कौन है?",
+  "options": [
+   "अकार",
+   "उकार",
+   "मकार",
+   "अर्धमात्रा"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) उकार.**\n\nIn the Upaniṣadic analysis of praṇava (e.g. Māṇḍūkya and the Yoga Upaniṣads that build on it), each part of Om denotes a level of the world (*prapañca*): **a** the gross (sthūla, waking state), **u** the **subtle** (sūkṣma, dream state), **m** the causal (kāraṇa, deep sleep), and the half-measure what lies beyond.",
+  "refs": [
+   "Māṇḍūkya Upaniṣad 9–12"
+  ],
+  "nta_question_id": "42558910789"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q097",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 97,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "statements",
+  "question_text": "घेरण्ड के अनुसार षट्कर्म का भाग है।",
+  "options": [
+   "केवल A, B, C",
+   "केवल A, C, D",
+   "केवल A, C, E",
+   "केवल A, C, B"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) केवल A, C, D.**\n\nIn Gheraṇḍa's ṣaṭkarma: **vātasāra** is a form of antar-dhauti, **danta-mūla** of danta-dhauti, and **śītkrama** (śītkarma) the third form of kapālabhāti (after vātakrama and vyutkrama).\n\n**Cakri** and **gajakaraṇī** belong to the Haṭharatnāvalī's eight karmas, not to Gheraṇḍa.",
+  "items": [
+   "वातसार",
+   "चक्रि",
+   "दन्तमूलधौति",
+   "शीतक्रम",
+   "गजकरणी"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910844"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q098",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 98,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "घेरण्ड के अनुसार भुजङ्गासन में अङ्गुष्ठ से लेकर नाभि पर्यन्त भाग को इस प्रकार करें।",
+  "options": [
+   "सीधा करें।",
+   "भूतल पर स्थापित करें।",
+   "उठाकर सिर पर स्थापित करें।",
+   "एड़ी को देखे।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) भूतल पर स्थापित करें।.**\n\nGheraṇḍa Saṃhitā 2.42: *aṅguṣṭha-nābhi-paryantam adho bhūmau vinyaset | karatalābhyāṃ dharāṃ dhṛtvā ūrdhva-śīrṣaḥ phaṇīva hi* — keep the body from the **toes to the navel on the ground**, press the floor with the palms and raise the head like a serpent's hood. It kindles the digestive fire and awakens kuṇḍalinī (2.43).",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 2.42–43"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910819"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q099",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 99,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "question_type": "statements",
+  "question_text": "Which of the following are the types of Joint?",
+  "options": [
+   "A, D Only",
+   "B, C, D Only",
+   "B, E, D Only",
+   "A, C, E Only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, C, E Only.**\n\nThe six types of synovial joint are **gliding** (plane), hinge, pivot, **condylar** (ellipsoid), **saddle** and ball-and-socket. **Inversion** and **protraction** are *movements* at joints (turning the sole inward; moving a part forward), not joint types.",
+  "items": [
+   "Gliding",
+   "Inversion",
+   "Condylar",
+   "Protraction",
+   "Saddle"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910851"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q100",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 100,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system",
+  "question_type": "mcq",
+  "question_text": "Functional Residual Capacity of Lungs is –",
+  "options": [
+   "Minimal Volume + Residual Volume",
+   "Expiratory Reserve Volume + Residual Volume",
+   "Inspiratory Reserve Volume + Tidal Volume",
+   "Expiratory Reserve Volume + Tidal Volume"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Expiratory Reserve Volume + Residual Volume.**\n\n**Functional residual capacity** (FRC) is the air left in the lungs after a normal, quiet expiration: ERV + RV, about 2.3–2.5 L in adults. IRV + TV is the **inspiratory capacity**; vital capacity is IRV + TV + ERV.",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910803"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q101",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 101,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: eye and special senses",
+  "question_type": "match",
+  "question_text": "रचना एवं क्रिया के अनुसार मनुष्य आँख को सूची - I को सूची - II से मिलान कीजिए।",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-I, C-IV, D-II",
+   "A-IV, B-III, C-I, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-II, B-III, C-IV, D-I.**\n\n- **Rhodopsin**, the rods' pigment, is the protein **opsin** joined to retinal.\n- The eye is moved by **6** extra-ocular muscles (four recti, two obliques).\n- The **image** is formed on the **retina** (inverted and real).\n- There are **3** types of cones (sensitive to red, green and blue).",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "रोडोपसिन",
+     "ओक्यूलोमोटर पेशियाँ",
+     "प्रतिबिंब",
+     "कोन्स"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "3",
+     "ओपसिन",
+     "6",
+     "रेटिना"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910870"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q102",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 102,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "घेरण्ड-संहिता के अनुसार नाभि को कितने बार मेरूपृष्ठ के साथ संयुक्त करने को अग्निसार धौति कहते हैं?",
+  "options": [
+   "50",
+   "100",
+   "200",
+   "150"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 100.**\n\nGheraṇḍa Saṃhitā 1.20: *nābhi-granthiṃ meru-pṛṣṭhe śata-vāraṃ ca kārayet | agnisāram iyaṃ dhautir yoginām yoga-siddhidā* — pressing the navel back towards the spine **a hundred times** is agnisāra (vahnisāra) dhauti, which cures stomach disorders and kindles the gastric fire.",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 1.20–21"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910797"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q103",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 103,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogachudamani Upanishad",
+  "question_type": "statements",
+  "question_text": "योगचुडामणि उपनिषद के अनुसार योगाङ्ग नहीं है।",
+  "options": [
+   "केवल A, B, C",
+   "केवल C, D, E",
+   "केवल B, D, A",
+   "केवल A, C, E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल A, C, E.**\n\nYogacūḍāmaṇi Upaniṣad 2 teaches a **six-limbed** yoga: *āsanaṃ prāṇa-saṃrodhaḥ pratyāhāraś ca dhāraṇā | dhyānaṃ samādhir etāni yogāṅgāni bhavanti ṣaṭ*.\n\nSo **yama** is not a limb here; \"prāṇa-*virodha*\" is a distortion of prāṇa-*saṃrodha*; and \"*a*-samādhi\" negates samādhi. Āsana and pratyāhāra are limbs.",
+  "items": [
+   "यम",
+   "आसन",
+   "प्राणविरोध",
+   "प्रत्याहार",
+   "असमाधि"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Yogacūḍāmaṇi Upaniṣad 2"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ],
+  "nta_question_id": "42558910841"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q104",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 104,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "question_type": "mcq",
+  "question_text": "भुजंगासन मे पैरो के टखना संधि एवं तलों की स्थिति क्या होती है?",
+  "options": [
+   "डोर्सी फ्लैक्शन",
+   "प्लैन्टर फ्लैक्शन",
+   "एवर्ज़न",
+   "इनवर्ज़न"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) प्लैन्टर फ्लैक्शन.**\n\nIn bhujaṅgāsana the legs lie extended with the tops of the feet on the floor and the soles facing up: the ankle is in **plantar flexion** (toes pointed away from the shin). Dorsiflexion draws the toes towards the shin; eversion and inversion turn the sole outward or inward.",
+  "source_ids": [
+   "satyananda-asana-pranayama-mudra-bandha"
+  ],
+  "nta_question_id": "42558910813"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q105",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 105,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "match",
+  "question_text": "Match List I and II according to question type and its example.",
+  "options": [
+   "A-IV, B-III, C-II, D-I",
+   "A-IV, B-III, C-I, D-II",
+   "A-IV, B-I, C-III, D-II",
+   "A-III, B-I, C-II, D-IV"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-II, D-I.**\n\n- An **introductory** question arouses interest by linking to the learner's own aims: \"Why do you want health?\"\n- A **thought-provoking** question asks the learner to relate ideas: the link between the muscular system and āsana.\n- A **comprehension** question checks what was understood: the principles of prāṇāyāma.\n- A **comparison** question asks for similarities and differences: āsana versus prāṇāyāma.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Introductory Questions",
+     "Thought provoking Questions",
+     "Questions of Comprehension",
+     "Comparison Question"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "What are the differences between Asana and Pranayama?",
+     "What are the Principles of Pranayama?",
+     "What is the relationship of muscular system and doing Asana?",
+     "Why do you want health?"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "nta_question_id": "42558910867"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q106",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 106,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "कठोपनिषद के अनुसार बुद्धि से और सुनने से कौन प्राप्त नहीं होता है?",
+  "options": [
+   "आत्मा",
+   "जीव",
+   "धर्म",
+   "अधर्म"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) आत्मा.**\n\nKaṭha Upaniṣad 1.2.23 (also Muṇḍaka 3.2.3): *nāyam ātmā pravacanena labhyo na medhayā na bahunā śrutena | yam evaiṣa vṛṇute tena labhyas…* — this **Self** is not attained by discourse, nor by intellect, nor by much hearing; it is attained by the one whom it chooses.",
+  "refs": [
+   "Kaṭha Upaniṣad 1.2.23"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910785"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q107",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 107,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "sequence",
+  "question_text": "श्रीमद्भगवद्गीता के अनुसार क्रमबद्ध करें।",
+  "options": [
+   "C, A, E, D, B",
+   "C, A, D, E, B",
+   "B, C, A, D, E",
+   "E, B, C, A, D"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, A, E, D, B.**\n\nBhagavad Gītā 16.4 lists the marks of the demonic (āsurī) nature in this order: *dambho darpo 'bhimānaś ca krodhaḥ pāruṣyam eva ca | ajñānaṃ cābhijātasya pārtha sampadam āsurīm* — **hypocrisy, arrogance, conceit, anger**, harshness and **ignorance**.",
+  "items": [
+   "दर्प",
+   "अज्ञान",
+   "दम्भ",
+   "क्रोध",
+   "अभिमान"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Bhagavad Gītā 16.4"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ],
+  "nta_question_id": "42558910823"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q108",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 108,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "question_type": "mcq",
+  "question_text": "हठरत्नावली के अनुसार धौती के लिए वस्त्र की लम्बाई क्या होनी चाहिए?",
+  "options": [
+   "दस हाथ",
+   "बीस हाथ",
+   "तीस हाथ",
+   "बारह हाथ"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) बीस हाथ.**\n\nThe Haṭharatnāvalī prescribes a cloth of **twenty hastas** for vastra-dhauti, longer than the fifteen hastas (*hasta-pañcadaśāyatam*, about four fingers wide) of Haṭha Pradīpikā 2.24. The difference between the two texts is a favourite exam point.",
+  "refs": [
+   "Haṭharatnāvalī 1 (dhauti)",
+   "Haṭha Pradīpikā 2.24"
+  ],
+  "source_ids": [
+   "hatharatnavali-hindi"
+  ],
+  "nta_question_id": "42558910815"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q109",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 109,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Abhyasa and vairagya",
+  "question_type": "mcq",
+  "question_text": "पातंजल-योगसूत्र के अनुसार पुरुष की ख्याति से प्रकृति के गुणों में तृष्णा के अभाव को क्या कहते हैं?",
+  "options": [
+   "कैवल्य",
+   "अभ्यास",
+   "वैराग्य",
+   "एकत्व"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) वैराग्य.**\n\nYS 1.16: *tat paraṃ puruṣa-khyāter guṇa-vaitṛṣṇyam* — the absence of craving even for the guṇas, arising from knowledge of puruṣa, is **supreme vairāgya** (*para vairāgya*). The lower vairāgya (1.15) is mastery over craving for seen and heard objects.",
+  "refs": [
+   "Yoga Sūtra 1.15–1.16"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910794"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q110",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 110,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "question_type": "mcq",
+  "question_text": "योग-तत्त्वोपनिषद के अनुसार योग की कितनी अवस्थाएँ हैं?",
+  "options": [
+   "तीन",
+   "चार",
+   "पाँच",
+   "छह"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) चार.**\n\nYogatattva Upaniṣad (verse 19 onwards) describes **four stages** of yoga practice: *ārambha*, *ghaṭa*, *paricaya* and *niṣpatti* — the same four that Haṭha Pradīpikā 4.69–76 and Śiva Saṃhitā 3 describe.",
+  "refs": [
+   "Yogatattva Upaniṣad 19–20"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ],
+  "nta_question_id": "42558910790"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q111",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 111,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "match",
+  "question_text": "श्रीमद्भगवद्गीता के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-II, C-I, D-IV",
+   "A-I, B-III, C-IV, D-II",
+   "A-III, B-I, C-II, D-IV"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-III, B-I, C-II, D-IV.**\n\n- **Puruṣa** is the conscious principle (*cetana*), the knower of the field (Gītā 13).\n- Bitter, sour, salty, very hot (**kaṭu**) foods are dear to the **rājasika** (17.9).\n- Juicy, **oily (snigdha)**, nourishing foods are dear to the **sāttvika** (17.8).\n- **Svādhyāya**, the practice of study and recitation, is part of austerity of speech, *vāṅmaya tapas* (17.15).",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "पुरुष",
+     "कटु",
+     "स्निग्ध",
+     "तप"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "राजस",
+     "सात्विक",
+     "चेतन",
+     "स्वाध्याय"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Bhagavad Gītā 17.8–9, 17.15"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ],
+  "nta_question_id": "42558910859"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q112",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 112,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "statements",
+  "question_text": "हठयोगप्रदीपिका के अनुसार कुम्भक नहीं हैं।",
+  "options": [
+   "केवल A, B",
+   "केवल B, D",
+   "केवल A, C",
+   "केवल E, A"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल A, C.**\n\nHaṭha Pradīpikā 2.44 lists **eight kumbhakas**: *sūrya-bhedana, ujjāyī, sītkārī, śītalī, bhastrikā, bhrāmarī, mūrcchā* and ***plāvinī***. **Sahita** and **kevala** (2.71–74) are not among the eight: they are two *kinds* of retention — retention joined with inhalation and exhalation, and spontaneous retention without them.",
+  "items": [
+   "सहित",
+   "सूर्यभेद",
+   "केवली",
+   "सीत्कारी",
+   "प्लावनी"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Haṭha Pradīpikā 2.44, 2.71–74"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910845"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q113",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 113,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "question_type": "mcq",
+  "question_text": "Which pro-vitamin is converted into Vitamin A inside the body?",
+  "options": [
+   "Carotene",
+   "Beta-Carotene",
+   "Thiamine",
+   "Cyanocobalamine"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Beta-Carotene.**\n\n**β-carotene**, found in carrots, leafy greens, mango and papaya, is the main provitamin A: the intestinal wall splits it into retinol. \"Carotene\" in general includes forms with little vitamin-A activity; thiamine is vitamin B₁ and cyanocobalamin B₁₂.",
+  "nta_question_id": "42558910801"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q114",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 114,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "match",
+  "question_text": "सिद्धसिद्धान्त-पद्धति के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-III, B-IV, C-I, D-II",
+   "A-III, B-IV, C-II, D-I",
+   "A-I, B-IV, C-II, D-III",
+   "A-IV, B-III, C-I, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-IV, C-II, D-I.**\n\nSiddha Siddhānta Paddhati chapter 3 maps the cosmos onto the body (*piṇḍa-brahmāṇḍa*): the seven continents, seas, mountains and castes are found within.\n- Right conduct (*sadācāra*) → the **brāhmaṇa**\n- **Skin** → **Krauñca-dvīpa**\n- **Urine** → the **salt ocean** (*kṣāra-samudra*)\n- **Forehead** → **Śrīśaila**",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "सदाचारपालन",
+     "त्वचा",
+     "मूत्र",
+     "ललाट"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "श्रीशैल",
+     "क्षारसमुद्र",
+     "ब्राम्हण",
+     "क्रोंच-द्वीप"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ],
+  "nta_question_id": "42558910857"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q115",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 115,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "question_type": "match",
+  "question_text": "माण्डूक्योपनिषद के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-I, C-IV, D-II",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-II, B-I, C-IV, D-III — NTA's final key accepts (2) and (3).**\n\nMāṇḍūkya Upaniṣad:\n- **Vaiśvānara**, of the waking state, is the first quarter, has **seven limbs** (*saptāṅga*, mantra 3) and is the letter **a** (mantra 9: *jāgarita-sthāno vaiśvānaro 'kāraḥ*).\n- **Prājña**, deep sleep, is the **third** quarter (mantra 5).\n- The one whose cognition is inward (*antaḥ-prajña*), the dream state, is **taijasa** (mantra 4).\n- The waking state (*jāgarita-sthāna*) is described as seven-limbed.\n\nBecause vaiśvānara is both *akāra* and *saptāṅga*, option (3) (A-III, …, D-II) is also defensible, and NTA accepted both.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "वैश्वानर",
+     "प्राज्ञ",
+     "अन्तःप्रज्ञ",
+     "जागरितस्थान"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "तृतीय",
+     "अकार",
+     "सप्ताङ्ग",
+     "तैजस"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Māṇḍūkya Upaniṣad 3–5, 9"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910858"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q116",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 116,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "पातंजल-योगसूत्र में शरीर की निम्न काय-सम्पदाएँ हैं।",
+  "options": [
+   "वज्र के समान संगठन, रूप, देह, बल",
+   "वज्र के समान संगठन, रूप, लावण्य, बल",
+   "देह, रूप, लावण्य, बल",
+   "बुद्धि, रूप, लावण्य, बल"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) वज्र के समान संगठन, रूप, लावण्य, बल.**\n\nYS 3.46: ***rūpa-lāvaṇya-bala-vajra-saṃhananatvāni kāya-sampat*** — perfection of the body is beauty (*rūpa*), grace (*lāvaṇya*), strength (*bala*) and adamantine firmness (*vajra-saṃhananatva*). It follows from mastery of the elements (3.44–45).",
+  "refs": [
+   "Yoga Sūtra 3.44–3.46"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910793"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q117",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 117,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "question_type": "mcq",
+  "question_text": "हठयोगप्रदीपिका के अनुसार कौन सा हरित-शाक पथ्य नहीं है?",
+  "options": [
+   "जीवन्ती-शाक",
+   "सरसों-शाक",
+   "पुनर्नवा-शाक",
+   "मेघनाद-शाक"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) सरसों-शाक.**\n\nHaṭha Pradīpikā 1.64 recommends five greens (*pañca-śāka*): **jīvantī**, vāstuka, mūlya (or akṣī), **meghanāda** and **punarnavā**. Among forbidden foods, 1.59 lists green vegetables in general and **sarṣapa** (mustard) among the pungent things to avoid.",
+  "refs": [
+   "Haṭha Pradīpikā 1.59, 1.62–64"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910807"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q118",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 118,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "mcq",
+  "question_text": "किस चक्र के नियमन से भावनाओं को नियन्त्रित किया जाता है?",
+  "options": [
+   "मूलाधार चक्र",
+   "स्वाधिष्ठान चक्र",
+   "मणिपुर चक्र",
+   "अनाहत चक्र"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) अनाहत चक्र.**\n\nThe **anāhata** (heart) cakra is associated with feeling and emotion — love, compassion and their disturbance — and corresponds to the cardiac plexus and the heart. Mūlādhāra relates to survival and stability, svādhiṣṭhāna to desire and procreation, maṇipūra to will, energy and digestion.",
+  "source_ids": [
+   "satyananda-kundalini-tantra"
+  ],
+  "nta_question_id": "42558910806"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q119",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 119,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "question_type": "statements",
+  "question_text": "योग-वासिष्ठ के अनुसार ज्ञान की सप्त भूमि में नहीं है :",
+  "options": [
+   "केवल C, D, E",
+   "केवल A, B, C",
+   "केवल B, C, D",
+   "केवल D, E, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल C, D, E.**\n\nYoga Vāsiṣṭha (Utpatti Prakaraṇa 118) names seven stages of knowledge (*jñāna-bhūmikā*): ***śubhecchā*** (good desire), *vicāraṇā* (enquiry), ***tanumānasā*** (thinning of the mind), *sattvāpatti* (attainment of purity), *asaṃsakti* (non-attachment), *padārthābhāvanī* (non-perception of objects) and *turyagā* (the fourth).\n\nAśubhecchā, *a*-sattvāpatti and *saṃsakti* are distortions — each negates or flips a real stage.",
+  "items": [
+   "शुभेच्छा",
+   "तनुमानसा",
+   "अशुभेच्छा",
+   "असत्त्वापत्ति",
+   "संसक्ति"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ],
+  "nta_question_id": "42558910837"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q120",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 120,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "statements",
+  "question_text": "ग्रहीतृविषयक समाधि के साधन से क्या प्राप्त होता है?",
+  "options": [
+   "केवल B, C, D",
+   "केवल A, C, D",
+   "केवल A, C, E",
+   "केवल A, B, D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल A, C, E.**\n\nSaṃyama on the knower (*grahītṛ*), i.e. on puruṣa as distinct from buddhi (YS 3.35), brings knowledge of puruṣa, and from it (YS 3.36) *prātibha*, *śrāvaṇa*, *vedana*, *ādarśa*, *āsvāda* and *vārtā* — intuition and the divine senses of hearing, touch, sight, taste and smell. **Prātibha**, **śrāvaṇa** and **ādarśa** are among them.\n\n*Mahimā* is one of the aṣṭa siddhis that come from mastery of the elements (3.45); \"gross state\" is a quality of the elements (3.44).",
+  "items": [
+   "प्रातिभ",
+   "स्थूलावस्था",
+   "श्रावण",
+   "महिमा",
+   "आदर्श"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Yoga Sūtra 3.35–3.36, 3.44–3.45"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910842"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q121",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 121,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "question_type": "statements",
+  "question_text": "योग-वासिष्ठ के अनुसार चित्त के ऊपर विजय पाने के उपाय निम्न में से क्या है?",
+  "options": [
+   "केवल A, C, E",
+   "केवल B, C, D",
+   "केवल C, D, E",
+   "केवल D, E, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) केवल A, C, E.**\n\nIn the Yoga Vāsiṣṭha (Upaśama Prakaraṇa) Vasiṣṭha tells Rāma that the mind is conquered by **the company of the wise** (*sādhu-saṅga*), **giving up vāsanās** (latent desires), **knowledge of the Self** (*adhyātma-vidyā*) and stilling the movement of prāṇa (*prāṇa-spanda-nirodha*). Fasting and rapid breathing are not among his means.",
+  "items": [
+   "साधु सङ्गति",
+   "भोजन का परित्याग",
+   "वासना का परित्याग",
+   "तेजी से श्वास लेना",
+   "अध्यात्म विद्या की प्राप्ति"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ],
+  "nta_question_id": "42558910838"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q122",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 122,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "question_type": "mcq",
+  "question_text": "ईशावास्योपनिषद के अनुसार अविद्या से किसको पार करते है?",
+  "options": [
+   "कर्म",
+   "मृत्यु",
+   "अमृत",
+   "धर्म"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) मृत्यु.**\n\nĪśa Upaniṣad 11: *vidyāṃ cāvidyāṃ ca yas tad vedobhayaṃ saha | **avidyayā mṛtyuṃ tīrtvā** vidyayāmṛtam aśnute* — whoever knows both knowledge and ignorance (here, ritual action) together crosses **death** through avidyā and attains immortality through vidyā.",
+  "refs": [
+   "Īśa Upaniṣad 9–11"
+  ],
+  "source_ids": [
+   "muller-upanishads",
+   "gita-press-ishadi-nau-upanishad"
+  ],
+  "nta_question_id": "42558910786"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q123",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 123,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "statements",
+  "question_text": "सांख्य के अनुसार तत्त्वों की सृष्टि प्रक्रिया में नहीं है।",
+  "options": [
+   "केवल A, B और D",
+   "केवल B और C",
+   "केवल B और E",
+   "केवल A और E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) केवल B और E.**\n\nSāṃkhya's 25 tattvas evolve from prakṛti: **mahat** (buddhi) → **ahaṃkāra** → manas, the ten senses and five tanmātras → the five **mahābhūtas** (Sāṃkhya Kārikā 22).\n\n**Sattva** and **rajas** are not evolutes: they are two of the three guṇas that make up prakṛti itself.",
+  "items": [
+   "महत्",
+   "सत्व",
+   "अहंकार",
+   "महाभूत",
+   "रज"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Sāṃkhya Kārikā 3, 12–13, 22"
+  ],
+  "source_ids": [
+   "colebrooke-wilson-1837-sankhya-karika"
+  ],
+  "nta_question_id": "42558910836"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q124",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 124,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "statements",
+  "question_text": "Types of Yogic Breathing are –",
+  "options": [
+   "A, D Only",
+   "A, C, D Only",
+   "B, C, E Only",
+   "D, C, E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, C, E Only.**\n\nYogic breathing is taught in sections: **abdominal** (diaphragmatic), **thoracic** (intercostal) and clavicular breathing, combined as full **thoraco-abdominal** yogic breathing. \"Deep\" and \"general\" breathing are descriptions, not the named types.",
+  "items": [
+   "Deep Breathing",
+   "Abdominal Breathing",
+   "Thoracic Breathing",
+   "General Breathing",
+   "Thoraco-abdominal Breathing"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "satyananda-asana-pranayama-mudra-bandha"
+  ],
+  "nta_question_id": "42558910853"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q125",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 125,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "match",
+  "question_text": "सब्जियों का पादप रसायनो के साथ मिलान करें।",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-IV, C-III, D-I",
+   "A-III, B-I, C-II, D-IV",
+   "A-IV, B-II, C-III, D-I"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-III, B-I, C-II, D-IV.**\n\nColour in vegetables comes from phytochemicals: **orange** (carrot, pumpkin) — β-carotene; **red** (tomato, watermelon) — lycopene; **deep red** (beetroot) — betalains; **blue and purple** (brinjal, purple cabbage) — anthocyanins.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I (सब्जियां)",
+    "items": [
+     "नारंगी रंग की सब्जियां",
+     "लाल रंग की सब्जियां",
+     "गाढ़े लाल रंग की सब्जियां",
+     "नीली तथा बैंगनी रंग की सब्जियां"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II (पादप रसायन)",
+    "items": [
+     "लाइकोपीन",
+     "बीटालाइनस्",
+     "बीटा-कैरोटीन",
+     "एन्थोसाइनिन"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910864"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q126",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 126,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "question_type": "match",
+  "question_text": "यौगिक आहार के अनुसार सूची - I का सूची - II से मिलान कीजिए।",
+  "options": [
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-IV, C-I, D-II",
+   "A-IV, B-I, C-III, D-II",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-II, B-I, C-IV, D-III.**\n\n- **Snigdha** (unctuous, mildly oily) food is **sāttvika** (Gītā 17.8).\n- **Tila** (sesame) is **apathya** for the yogi (Haṭha Pradīpikā 1.59).\n- **Śuṇṭhī** (dry ginger) is listed among wholesome foods, **pathya** (HP 1.62).\n- **Amla** (sour) taste is **rājasika** (Gītā 17.9).",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "स्निग्ध",
+     "तिल",
+     "सोंठ",
+     "अम्ल रस"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "अपथ्य",
+     "सात्विक",
+     "राजसिक",
+     "पथ्य"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Haṭha Pradīpikā 1.59–62",
+   "Bhagavad Gītā 17.8–9"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910865"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q127",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 127,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "match",
+  "question_text": "हठयोग के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-III, B-II, C-I, D-IV",
+   "A-I, B-III, C-II, D-I",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-III, C-II, D-I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-III, B-II, C-I, D-IV.**\n\nHaṭha Pradīpikā 4.69–76 links the stages of nāda to spaces in the body: in **ārambha** the heart space (*hṛdākāśa*) is ***śūnya***; in **ghaṭa** the prāṇa unites in the throat, the **madhya-cakra** (*kaṇṭha-sthāna*), and the viśuddhi space is ***atiśūnya***; in **paricaya** the space between the eyebrows is ***mahāśūnya***.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "हृदाकाश",
+     "विशुद्धि-आकाश",
+     "भ्रूमध्याकाश",
+     "कण्ठस्थान"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "महाशून्य",
+     "अतिशून्य",
+     "शून्य",
+     "मध्यचक्र"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Haṭha Pradīpikā 4.69–76"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910863"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q128",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 128,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "question_type": "match",
+  "question_text": "सिद्धसिद्धान्त-पद्धति के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-III, B-II, C-I, D-IV",
+   "A-III, B-IV, C-II, D-I",
+   "A-I, B-II, C-IV, D-III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-I, D-II.**\n\nSiddha Siddhānta Paddhati chapter 1 describes the five **nija-śaktis** of Śiva, each with five qualities:\n- *icchā* (will)\n- **kriyā** (action): smaraṇa, **udyoga** (effort), kārya, niścaya, kulācāra\n- **māyā**: **mātsarya** (envy), mada, …\n- **prakṛti**: **āśā** (hope), tṛṣṇā, spṛhā, …\n- **vāk** (speech): **parā**, paśyantī, madhyamā, vaikharī, mātṛkā",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "मात्सर्य",
+     "उद्योग",
+     "आशा",
+     "परा"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "प्रकृति",
+     "वाक्",
+     "क्रिया",
+     "माया"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ],
+  "nta_question_id": "42558910862"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q129",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 129,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "हठयोगप्रदीपिका के अनुसार कफजन्य दोष को दूर करने तथा जठराग्नि को प्रदीप्त करने वाला प्राणायाम कौनसा हैं?",
+  "options": [
+   "सूर्य-भेदन",
+   "शीतली",
+   "उज्जायी",
+   "सीत्कारी"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) उज्जायी.**\n\nHaṭha Pradīpikā 2.52–53: **ujjāyī** removes **phlegm (kapha) in the throat** and increases the body's (gastric) fire; it cures disorders of the nāḍīs, dropsy and the dhātus.\n\nSūrya-bhedana (2.50) purifies the forehead, kills worms and removes vāta disorders; śītalī and sītkārī are cooling.",
+  "refs": [
+   "Haṭha Pradīpikā 2.48–53"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910800"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q130",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 130,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "\"यह प्राण किससे उत्पन्न होता है, इस शरीर में कैसे आता है\" यह प्रश्नोपनिषद का कौन सा प्रश्न है?",
+  "options": [
+   "प्रथम",
+   "द्वितीय",
+   "तृतीय",
+   "चतुर्थ"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) तृतीय.**\n\nPraśna Upaniṣad 3.1: Kauśalya Āśvalāyana asks Pippalāda *kuta eṣa prāṇo jāyate, katham āyāty asmiñ charīre…* — whence is this prāṇa born, how does it come into this body, and how does it divide itself and depart?\n\nThe first question (Kabandhī) is on the origin of creatures, the second (Bhārgava) on which powers sustain the body, the fourth (Gārgya) on sleep and dreams.",
+  "refs": [
+   "Praśna Upaniṣad 3.1"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910787"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q131",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 131,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "question_type": "sequence",
+  "question_text": "What is the sequence of psychosexual developmental stages according to Sigmund Freud?",
+  "options": [
+   "D, E, B, C, A",
+   "D, E, C, B, A",
+   "E, A, D, B, C",
+   "A, E, D, C, B"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) D, E, B, C, A.**\n\nFreud's psychosexual stages: **oral** (birth to ~1½) → **anal** (~1½–3) → **phallic** (~3–6, Oedipus complex) → **latency** (~6 to puberty) → **genital** (puberty onward).",
+  "items": [
+   "Genital Stage",
+   "Phallic Stage",
+   "Latency Stage",
+   "Oral Stage",
+   "Anal Stage"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "notes-psychology-handwritten"
+  ],
+  "nta_question_id": "42558910830"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q132",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 132,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: sensation, perception and attention",
+  "question_type": "mcq",
+  "question_text": "अतीव्र आंख गतिक निद्रा की कितनी अवस्थाएँ होती है?",
+  "options": [
+   "एक",
+   "दो",
+   "तीन",
+   "चार"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) तीन — NTA's final key accepts (3) and (4).**\n\n**Non-REM** sleep (*atīvra āṅkh gatika nidrā*) was traditionally divided into **four** stages (Rechtschaffen and Kales, 1968). Since 2007 the American Academy of Sleep Medicine merges stages 3 and 4 into one slow-wave stage (N3), giving **three** (N1, N2, N3). NTA accepted both answers.",
+  "nta_question_id": "42558910804"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q133",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 133,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system",
+  "question_type": "mcq",
+  "question_text": "Voluntary control of breathing during pranayama is done by –",
+  "options": [
+   "Cerebral Cortex",
+   "Cerebral Medulla",
+   "Medulla Oblongata",
+   "Cerebellum"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Cerebral Cortex.**\n\nAutomatic breathing is driven by the respiratory centres of the **medulla oblongata** and pons. **Voluntary** control — deliberately slowing, holding or deepening the breath, as in prāṇāyāma — comes from the motor **cerebral cortex**, whose corticospinal pathways act directly on the respiratory muscles.",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910812"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q134",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 134,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas: practice and benefits",
+  "question_type": "sequence",
+  "question_text": "घेरण्ड के अनुसार मुद्रा का क्रम श्लोकों के अनुसार है।",
+  "options": [
+   "D, E, C, B, A",
+   "A, B, C, D, E",
+   "D, E, A, B, C",
+   "E, A, B, C, D"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) D, E, C, B, A.**\n\nGheraṇḍa Saṃhitā 3.1–3 lists 25 mudrās, beginning: mahāmudrā, nabho, **uḍḍīyāna**, jālandhara, mūlabandha, mahābandha, **mahāvedha**, khecarī, **viparītakaraṇī**, yoni, vajrolī, śakticālanī, taḍāgī, māṇḍukī, śāmbhavī, the five dhāraṇās, **aśvinī**, pāśinī, **kākī**, mātaṅginī and bhujaṅginī.",
+  "items": [
+   "काकी",
+   "अश्विनी",
+   "विपरीतकरणी",
+   "उड्डीयान",
+   "महावेध"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Gheraṇḍa Saṃhitā 3.1–3"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ],
+  "nta_question_id": "42558910835"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q135",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 135,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "question_type": "sequence",
+  "question_text": "Arrange bones from head to feet –",
+  "options": [
+   "B, E, D, A, C",
+   "C, A, B, D, E",
+   "C, A, B, E, D",
+   "A, B, E, D, C"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) C, A, B, D, E.**\n\nFrom the top: **frontal** bone (forehead) → **mandible** (lower jaw) → **scapula** (shoulder blade) → **femur** (thigh) → **tarsals** (ankle).",
+  "items": [
+   "Mandible",
+   "Scapula",
+   "Frontal",
+   "Femur",
+   "Tarsal"
+  ],
+  "prompt": "Choose the correct answer from the options given below :",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "nta_question_id": "42558910832"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q136",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 136,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "sequence",
+  "question_text": "प्रश्नोपनिषद के अनुसार क्रमबद्ध करें।",
+  "options": [
+   "A, B, C, D, E",
+   "E, B, D, C, A",
+   "A, E, B, D, C",
+   "D, C, A, B, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, E, B, D, C.**\n\nThe six questions of the Praśna Upaniṣad:\n1. Kabandhī Kātyāyana: whence are creatures born? — answered by the union of **prāṇa and rayi** (A)\n2. **Bhārgava** Vaidarbhi: which powers support the creature? (E)\n3. Kauśalya **Āśvalāyana**: whence is prāṇa born? (B)\n4. Sauryāyaṇī **Gārgya**: what sleeps and wakes in a person — leading to the jīva and the supreme Self (D)\n5. **Satyakāma** Śaibya: meditation on **Om** (C)\n6. Sukeśā Bhāradvāja: the person of sixteen parts",
+  "items": [
+   "प्राण और रयि का संयोग",
+   "प्राण की उत्पति विषयक आश्वालायन के प्रश्न",
+   "ॐकार उपासना विषयक सत्यकाम का प्रश्न",
+   "गार्ग्य मुनि के जीवात्मा और परमात्मा विषयक प्रश्न",
+   "प्रजा के आधार के विषय में भार्गव के प्रश्न"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910824"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q137",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 137,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts",
+  "question_type": "match",
+  "question_text": "योग के आधार-भूत तत्त्वों के साथ सूची - I और सूची - II का मिलान करें।",
+  "options": [
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-I, C-II, D-III",
+   "A-I, B-II, C-III, D-IV",
+   "A-IV, B-III, C-I, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-IV, B-I, C-II, D-III.**\n\n- The **puruṣārthas** are **four**: dharma, artha, kāma, mokṣa.\n- The **Gorakṣa Saṃhitā** (Gorakṣa Śataka) is a text of **haṭha yoga**.\n- **Trayī** (the \"three\") is the classical name for the **Vedas**: Ṛg, Yajus and Sāman.\n- The **Rāmāyaṇa** has a book called the **Araṇya Kāṇḍa** (the forest book), which includes the sage Śarabhaṅga's yogic departure.",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "पुरुषार्थ",
+     "गोरक्ष-संहिता",
+     "त्रयी",
+     "रामायण"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "हठयोग",
+     "वेद",
+     "अरण्यकाण्ड",
+     "चार"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "nta_question_id": "42558910856"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q138",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 138,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Sadhaka and badhaka tattvas in Hatha Yoga",
+  "question_type": "mcq",
+  "question_text": "हठयोगप्रदीपिका के अनुसार किससे योग सिद्ध होता है?",
+  "options": [
+   "साहस",
+   "अत्याहार",
+   "प्रयास",
+   "चंचलता"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) साहस.**\n\nHaṭha Pradīpikā 1.16: *utsāhāt **sāhasād** dhairyāt tattva-jñānāc ca niścayāt | jana-saṅga-parityāgāt ṣaḍbhir yogaḥ prasidhyati* — yoga succeeds through enthusiasm, **courage**, perseverance, true knowledge, firm resolve and avoiding crowds.\n\nOvereating (*atyāhāra*), over-exertion (*prayāsa*) and fickleness (*laulya*) are among the six that destroy yoga (1.15).",
+  "refs": [
+   "Haṭha Pradīpikā 1.15–16"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "nta_question_id": "42558910818"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q139",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 139,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "match",
+  "question_text": "योगदर्शन के अनुसार सूची - I और सूची - II को मिलाए।",
+  "options": [
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-I, C-IV, D-II",
+   "A-I, B-III, C-II, D-IV",
+   "A-IV, B-II, C-III, D-I"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-I, C-IV, D-II.**\n\n- **Daurmanasya** (despair) is one of the companions of distraction, *vikṣepa-sahabhuva* (YS 1.31).\n- *Citta-prasādana* (calming the mind) comes from the four bhāvanās, including gladness towards the **virtuous** (*puṇya*, YS 1.33).\n- **Śabda (āgama)**, testimony, is one of the three pramāṇas (YS 1.7).\n- The *karmāśaya* (store of karma) ripens as birth, life-span and **bhoga** (experience) (YS 2.12–13).",
+  "lists": {
+   "list_i": {
+    "title": "सूची - I",
+    "items": [
+     "विक्षेपसहभुव",
+     "चित्तप्रसादनम्",
+     "प्रमाण",
+     "कर्माशय"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची - II",
+    "items": [
+     "पुण्यात्मा",
+     "भोग",
+     "दौर्मनस्य",
+     "शब्द (आगम)"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें :",
+  "refs": [
+   "Yoga Sūtra 1.7, 1.31, 1.33, 2.12–2.13"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "nta_question_id": "42558910861"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q140",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 140,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "statements",
+  "question_text": "कठोपनिषद के अनुसार आत्मा का लक्षण नहीं है।",
+  "options": [
+   "केवल B, E",
+   "केवल C, D",
+   "केवल B, C",
+   "केवल A, B"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) केवल A, B.**\n\nKaṭha Upaniṣad 1.2.18: *na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | ajo nityaḥ śāśvato 'yaṃ **purāṇo** na hanyate hanyamāne śarīre* — the knowing Self is **not born, does not die**; it came from nothing and became nothing; unborn, eternal, everlasting and **ancient**.\n\nBecause it neither arises from anything nor produces anything, it is neither an **effect** (*kārya*) nor a **cause** (*kāraṇa*).",
+  "items": [
+   "कार्य है",
+   "कारण है",
+   "न जन्म लेता है",
+   "न मरता है",
+   "पुरातन है"
+  ],
+  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+  "refs": [
+   "Kaṭha Upaniṣad 1.2.18"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910839"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q141",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 141,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "Example of voluntary regulation of breath",
+  "options": [
+   "Increased breath rate while running.",
+   "Gasping during Asthmatic attack.",
+   "Holding of breath under water.",
+   "Passive exhalation during Kapalbhati."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Holding of breath under water — NTA's final key accepts (1) and (3).**\n\n**Holding the breath under water** is a deliberate act of will that overrides the automatic drive to breathe, exactly the voluntary control the passage describes. Gasping in asthma and the passive exhalation of kapālabhāti are not willed.\n\nThe faster breathing of running is mainly automatic (driven by CO₂ and exercise reflexes), but a runner can also pace it deliberately; NTA's final key accepted both (1) and (3).",
+  "passage": "Read the following passage and answer the questions :\n\nOur respiratory system has the special feature that it is both voluntary and involuntary, therefore, we can move from the voluntary (conscious control of body physiology) to the involuntary system (lesser control of body physiology). The higher centers of brain are the instruments through which prana and mind work. As far as the physical body is concerned, the area of the brain centers in which highest creativity and intelligence are seen governs the lower brain, as well as total body physiology. Normally the higher centers work through mid-brain but have the control even to change the functions of the lower brain.\n\nThe hypothalamus which is situated above the midbrain is the master of lower brain, governing and controlling all autonomic functions of the body. It works through Autonomic Nervous System and Endocrine System to change the physiology of entire body.\n\nThe connection between voluntary nervous system and hypothalamus is essentially through the higher centers of brain and is very feeble in normal human beings. The respiratory system is innately connected by the nerves of this voluntary nervous system. Hence, we can change voluntarily the breathing rates, pattern, rhythm, etc. by directing our will towards the same essentially bringing the voluntary nervous system to override the hypothalamic autonomic control.",
+  "nta_question_id": "42558910874"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q142",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 142,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "प्राणायाम का परिणाम है।",
+  "options": [
+   "उच्चतर मस्तिष्कीय केन्द्रों का नियमन मस्तिष्कीय केन्द्रों द्वारा",
+   "श्वसन के स्वायत नियंत्रण को पार करना",
+   "आक्सीजन का नियमन करना",
+   "हीमोग्लोबिन का नियमन करना"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) श्वसन के स्वायत नियंत्रण को पार करना.**\n\nThe passage's last sentence: by directing our will to the breath we bring the voluntary nervous system **to override the hypothalamic autonomic control**. That is what prāṇāyāma does — it takes conscious charge of breathing, which normally runs automatically.",
+  "passage": "Read the following passage and answer the questions :\n\nOur respiratory system has the special feature that it is both voluntary and involuntary, therefore, we can move from the voluntary (conscious control of body physiology) to the involuntary system (lesser control of body physiology). The higher centers of brain are the instruments through which prana and mind work. As far as the physical body is concerned, the area of the brain centers in which highest creativity and intelligence are seen governs the lower brain, as well as total body physiology. Normally the higher centers work through mid-brain but have the control even to change the functions of the lower brain.\n\nThe hypothalamus which is situated above the midbrain is the master of lower brain, governing and controlling all autonomic functions of the body. It works through Autonomic Nervous System and Endocrine System to change the physiology of entire body.\n\nThe connection between voluntary nervous system and hypothalamus is essentially through the higher centers of brain and is very feeble in normal human beings. The respiratory system is innately connected by the nerves of this voluntary nervous system. Hence, we can change voluntarily the breathing rates, pattern, rhythm, etc. by directing our will towards the same essentially bringing the voluntary nervous system to override the hypothalamic autonomic control.",
+  "nta_question_id": "42558910876"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q143",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 143,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "Hypothalamus regulates -",
+  "options": [
+   "Endocrine System & Autonomic Nervous System",
+   "Endocrine System & Peripheral Nervous System",
+   "Autonomic Nervous System and Peripheral Nervous System",
+   "Sensory and motor nerves"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Endocrine System & Autonomic Nervous System.**\n\nThe passage: the hypothalamus is the master of the lower brain, controlling all autonomic functions, and \"works through Autonomic Nervous System and Endocrine System\" (through the pituitary) to change the physiology of the whole body.",
+  "passage": "Read the following passage and answer the questions :\n\nOur respiratory system has the special feature that it is both voluntary and involuntary, therefore, we can move from the voluntary (conscious control of body physiology) to the involuntary system (lesser control of body physiology). The higher centers of brain are the instruments through which prana and mind work. As far as the physical body is concerned, the area of the brain centers in which highest creativity and intelligence are seen governs the lower brain, as well as total body physiology. Normally the higher centers work through mid-brain but have the control even to change the functions of the lower brain.\n\nThe hypothalamus which is situated above the midbrain is the master of lower brain, governing and controlling all autonomic functions of the body. It works through Autonomic Nervous System and Endocrine System to change the physiology of entire body.\n\nThe connection between voluntary nervous system and hypothalamus is essentially through the higher centers of brain and is very feeble in normal human beings. The respiratory system is innately connected by the nerves of this voluntary nervous system. Hence, we can change voluntarily the breathing rates, pattern, rhythm, etc. by directing our will towards the same essentially bringing the voluntary nervous system to override the hypothalamic autonomic control.",
+  "nta_question_id": "42558910875"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q144",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 144,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "श्वास-प्रश्वास प्रक्रिया है।",
+  "options": [
+   "ऐच्छिक",
+   "अनैच्छिक",
+   "ऐच्छिक एवं अनैच्छिक",
+   "न ऐच्छिक न अनैच्छिक"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) ऐच्छिक एवं अनैच्छिक.**\n\nThe passage opens by saying the respiratory system is special because it is **both voluntary and involuntary**: it runs automatically under the brainstem and hypothalamus, but can also be consciously controlled, which is what makes prāṇāyāma possible.",
+  "passage": "Read the following passage and answer the questions :\n\nOur respiratory system has the special feature that it is both voluntary and involuntary, therefore, we can move from the voluntary (conscious control of body physiology) to the involuntary system (lesser control of body physiology). The higher centers of brain are the instruments through which prana and mind work. As far as the physical body is concerned, the area of the brain centers in which highest creativity and intelligence are seen governs the lower brain, as well as total body physiology. Normally the higher centers work through mid-brain but have the control even to change the functions of the lower brain.\n\nThe hypothalamus which is situated above the midbrain is the master of lower brain, governing and controlling all autonomic functions of the body. It works through Autonomic Nervous System and Endocrine System to change the physiology of entire body.\n\nThe connection between voluntary nervous system and hypothalamus is essentially through the higher centers of brain and is very feeble in normal human beings. The respiratory system is innately connected by the nerves of this voluntary nervous system. Hence, we can change voluntarily the breathing rates, pattern, rhythm, etc. by directing our will towards the same essentially bringing the voluntary nervous system to override the hypothalamic autonomic control.",
+  "nta_question_id": "42558910872"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q145",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 145,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "Brain center that has highest creativity is controled by–",
+  "options": [
+   "Hypothalamus",
+   "Medulla",
+   "Medulla Oblongata",
+   "Cerebellum"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Hypothalamus (NTA's key).**\n\nNTA's final key gives **hypothalamus**. The passage describes the higher brain centres (where creativity and intelligence are seen) as governing the lower brain, and the hypothalamus as the master of the lower brain that links the higher centres to the body's autonomic and endocrine control; of the options, it is the only centre the passage presents in that controlling role. The medulla and cerebellum handle vital reflexes and coordination.",
+  "passage": "Read the following passage and answer the questions :\n\nOur respiratory system has the special feature that it is both voluntary and involuntary, therefore, we can move from the voluntary (conscious control of body physiology) to the involuntary system (lesser control of body physiology). The higher centers of brain are the instruments through which prana and mind work. As far as the physical body is concerned, the area of the brain centers in which highest creativity and intelligence are seen governs the lower brain, as well as total body physiology. Normally the higher centers work through mid-brain but have the control even to change the functions of the lower brain.\n\nThe hypothalamus which is situated above the midbrain is the master of lower brain, governing and controlling all autonomic functions of the body. It works through Autonomic Nervous System and Endocrine System to change the physiology of entire body.\n\nThe connection between voluntary nervous system and hypothalamus is essentially through the higher centers of brain and is very feeble in normal human beings. The respiratory system is innately connected by the nerves of this voluntary nervous system. Hence, we can change voluntarily the breathing rates, pattern, rhythm, etc. by directing our will towards the same essentially bringing the voluntary nervous system to override the hypothalamic autonomic control.",
+  "nta_question_id": "42558910873"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q146",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 146,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "ॐकार किसका रस है?",
+  "options": [
+   "पृथ्वी",
+   "ऋक्",
+   "वाक्",
+   "साम"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) साम.**\n\nThe chain of essences in the passage (Chāndogya 1.1.2): beings → earth → water → plants → man → speech → **sāman** → udgītha (Om). So Om (the udgītha) is the essence of the **sāman**.",
+  "passage": "नीचे दिए गए गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए :\n\nॐ इस अक्षर का यज्ञ में उद्गाता द्वारा सर्वप्रथम उच्चारण किया जाता है। उसी उद्गीथ साधना की यहाँ व्याख्या की जाती है। सम्पूर्ण प्राणियों अथवा पदार्थों का रस पृथ्वी है। पृथ्वी का रस जल है। जल का रस औषधियां है। औषधियो का रस पुरुष है। पुरुष का रस वाक् है। वाणी का रस साम है। साम का रस उद्गीथ है। यह सभी रसों में सर्वोत्तम रस है। तथा परमात्मा का प्रतीक हैं। वाक् ही ऋक् हैं, प्राण ही साम है और ॐकार ही उद्गीथ है। जो ऋक् रूप वाणी और सामरूप प्राण है ये जोडे प्रसिद्ध है। जिस प्रकार मिथुन (स्त्री-पुरुष) का मिलन एक दूसरे की कामनाओं की पूर्ती करता है, उसी प्रकार इसे जोड़े के संयोग से ॐकार का संसृजन होता है। ॐ अक्षर से ही त्रयी विद्या कर्म मे प्रवृत होती है। ॐ कहकर ही अध्वर्यु आश्रावणा कर्म करता है। ॐ कहकर ही होता शंसन (पाठ या स्तुती) करता है और उद्गाता सामगान आरम्भ करता है। इसी ॐकार अक्षर रूप ब्रह्म की महिमा और रस (हव्य) से सभी यज्ञादि कर्म उसी अक्षर की अर्चना के लिए सम्पन्न किये जाते है।",
+  "refs": [
+   "Chāndogya Upaniṣad 1.1.1–1.1.9"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910882"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q147",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 147,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "किसके जोड़े (संयोग) से उद्गीथ का सृजन होता है?",
+  "options": [
+   "वाक् और प्राण",
+   "जल और औषधी",
+   "पुरुष और वाक्",
+   "स्त्री और पुरुष"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) वाक् और प्राण.**\n\nChāndogya 1.1.5–6: speech is the ṛk, breath is the sāman; **speech and breath** form a pair, and from their union, as from the union of a couple, Om is produced. Man and woman are only the analogy.",
+  "passage": "नीचे दिए गए गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए :\n\nॐ इस अक्षर का यज्ञ में उद्गाता द्वारा सर्वप्रथम उच्चारण किया जाता है। उसी उद्गीथ साधना की यहाँ व्याख्या की जाती है। सम्पूर्ण प्राणियों अथवा पदार्थों का रस पृथ्वी है। पृथ्वी का रस जल है। जल का रस औषधियां है। औषधियो का रस पुरुष है। पुरुष का रस वाक् है। वाणी का रस साम है। साम का रस उद्गीथ है। यह सभी रसों में सर्वोत्तम रस है। तथा परमात्मा का प्रतीक हैं। वाक् ही ऋक् हैं, प्राण ही साम है और ॐकार ही उद्गीथ है। जो ऋक् रूप वाणी और सामरूप प्राण है ये जोडे प्रसिद्ध है। जिस प्रकार मिथुन (स्त्री-पुरुष) का मिलन एक दूसरे की कामनाओं की पूर्ती करता है, उसी प्रकार इसे जोड़े के संयोग से ॐकार का संसृजन होता है। ॐ अक्षर से ही त्रयी विद्या कर्म मे प्रवृत होती है। ॐ कहकर ही अध्वर्यु आश्रावणा कर्म करता है। ॐ कहकर ही होता शंसन (पाठ या स्तुती) करता है और उद्गाता सामगान आरम्भ करता है। इसी ॐकार अक्षर रूप ब्रह्म की महिमा और रस (हव्य) से सभी यज्ञादि कर्म उसी अक्षर की अर्चना के लिए सम्पन्न किये जाते है।",
+  "refs": [
+   "Chāndogya Upaniṣad 1.1.1–1.1.9"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910881"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q148",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 148,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "उपरोक्त गद्य के अनुसार 5 वां रस कौनसा है?",
+  "options": [
+   "पृथ्वी",
+   "वाक्",
+   "जल",
+   "साम"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) वाक्.**\n\nCounting the essences in the passage: (1) earth, the essence of beings; (2) water; (3) plants; (4) man; (5) **speech** (*vāk*); then sāman and udgītha.",
+  "passage": "नीचे दिए गए गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए :\n\nॐ इस अक्षर का यज्ञ में उद्गाता द्वारा सर्वप्रथम उच्चारण किया जाता है। उसी उद्गीथ साधना की यहाँ व्याख्या की जाती है। सम्पूर्ण प्राणियों अथवा पदार्थों का रस पृथ्वी है। पृथ्वी का रस जल है। जल का रस औषधियां है। औषधियो का रस पुरुष है। पुरुष का रस वाक् है। वाणी का रस साम है। साम का रस उद्गीथ है। यह सभी रसों में सर्वोत्तम रस है। तथा परमात्मा का प्रतीक हैं। वाक् ही ऋक् हैं, प्राण ही साम है और ॐकार ही उद्गीथ है। जो ऋक् रूप वाणी और सामरूप प्राण है ये जोडे प्रसिद्ध है। जिस प्रकार मिथुन (स्त्री-पुरुष) का मिलन एक दूसरे की कामनाओं की पूर्ती करता है, उसी प्रकार इसे जोड़े के संयोग से ॐकार का संसृजन होता है। ॐ अक्षर से ही त्रयी विद्या कर्म मे प्रवृत होती है। ॐ कहकर ही अध्वर्यु आश्रावणा कर्म करता है। ॐ कहकर ही होता शंसन (पाठ या स्तुती) करता है और उद्गाता सामगान आरम्भ करता है। इसी ॐकार अक्षर रूप ब्रह्म की महिमा और रस (हव्य) से सभी यज्ञादि कर्म उसी अक्षर की अर्चना के लिए सम्पन्न किये जाते है।",
+  "refs": [
+   "Chāndogya Upaniṣad 1.1.1–1.1.9"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910880"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q149",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 149,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "ॐकार से किसकी प्राप्ति होती है?",
+  "options": [
+   "ब्रह्म की",
+   "ईश्वर की",
+   "कामनाओं की",
+   "पुरुष की"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) कामनाओं की.**\n\nLike a couple fulfilling each other's desires, the union of speech and breath that is Om is a fulfiller of **desires**. Chāndogya 1.1.7: one who meditates on the udgītha as this syllable becomes *āpayitā ha vai kāmānām* — a fulfiller of desires.",
+  "passage": "नीचे दिए गए गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए :\n\nॐ इस अक्षर का यज्ञ में उद्गाता द्वारा सर्वप्रथम उच्चारण किया जाता है। उसी उद्गीथ साधना की यहाँ व्याख्या की जाती है। सम्पूर्ण प्राणियों अथवा पदार्थों का रस पृथ्वी है। पृथ्वी का रस जल है। जल का रस औषधियां है। औषधियो का रस पुरुष है। पुरुष का रस वाक् है। वाणी का रस साम है। साम का रस उद्गीथ है। यह सभी रसों में सर्वोत्तम रस है। तथा परमात्मा का प्रतीक हैं। वाक् ही ऋक् हैं, प्राण ही साम है और ॐकार ही उद्गीथ है। जो ऋक् रूप वाणी और सामरूप प्राण है ये जोडे प्रसिद्ध है। जिस प्रकार मिथुन (स्त्री-पुरुष) का मिलन एक दूसरे की कामनाओं की पूर्ती करता है, उसी प्रकार इसे जोड़े के संयोग से ॐकार का संसृजन होता है। ॐ अक्षर से ही त्रयी विद्या कर्म मे प्रवृत होती है। ॐ कहकर ही अध्वर्यु आश्रावणा कर्म करता है। ॐ कहकर ही होता शंसन (पाठ या स्तुती) करता है और उद्गाता सामगान आरम्भ करता है। इसी ॐकार अक्षर रूप ब्रह्म की महिमा और रस (हव्य) से सभी यज्ञादि कर्म उसी अक्षर की अर्चना के लिए सम्पन्न किये जाते है।",
+  "refs": [
+   "Chāndogya Upaniṣad 1.1.1–1.1.9"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910878"
+ },
+ {
+  "id": "YOGA-2025JUN-P2-Q150",
+  "subject": "yoga",
+  "exam_year": 2025,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 150,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2025, held 27 June 2025 (second shift), Yoga (100), Paper 2: Q51–150, transcribed from the official NTA response sheet, question numbers as printed. Each question appears in the language (Hindi or English) shown on the sheet. Answers follow NTA's final answer key (question IDs matched). Where the final key accepts two options (Q95, Q115, Q132, Q141), the first is stored and the explanation names both."
+  },
+  "answer_source": "official_key",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "क्या कहकर उद्गाता वेद मंत्र का प्रारम्भ करता है?",
+  "options": [
+   "श्री ॐ",
+   "ॐ",
+   "हरी ॐ",
+   "ॐ गुं"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ॐ.**\n\nThe passage (Chāndogya 1.1.9): with **Om** the adhvaryu gives the call, with Om the hotṛ recites, and with Om the udgātṛ begins to sing the sāman.",
+  "passage": "नीचे दिए गए गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए :\n\nॐ इस अक्षर का यज्ञ में उद्गाता द्वारा सर्वप्रथम उच्चारण किया जाता है। उसी उद्गीथ साधना की यहाँ व्याख्या की जाती है। सम्पूर्ण प्राणियों अथवा पदार्थों का रस पृथ्वी है। पृथ्वी का रस जल है। जल का रस औषधियां है। औषधियो का रस पुरुष है। पुरुष का रस वाक् है। वाणी का रस साम है। साम का रस उद्गीथ है। यह सभी रसों में सर्वोत्तम रस है। तथा परमात्मा का प्रतीक हैं। वाक् ही ऋक् हैं, प्राण ही साम है और ॐकार ही उद्गीथ है। जो ऋक् रूप वाणी और सामरूप प्राण है ये जोडे प्रसिद्ध है। जिस प्रकार मिथुन (स्त्री-पुरुष) का मिलन एक दूसरे की कामनाओं की पूर्ती करता है, उसी प्रकार इसे जोड़े के संयोग से ॐकार का संसृजन होता है। ॐ अक्षर से ही त्रयी विद्या कर्म मे प्रवृत होती है। ॐ कहकर ही अध्वर्यु आश्रावणा कर्म करता है। ॐ कहकर ही होता शंसन (पाठ या स्तुती) करता है और उद्गाता सामगान आरम्भ करता है। इसी ॐकार अक्षर रूप ब्रह्म की महिमा और रस (हव्य) से सभी यज्ञादि कर्म उसी अक्षर की अर्चना के लिए सम्पन्न किये जाते है।",
+  "refs": [
+   "Chāndogya Upaniṣad 1.1.1–1.1.9"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "nta_question_id": "42558910879"
+ }
+]
