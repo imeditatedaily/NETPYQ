@@ -157,7 +157,7 @@ with missing secrets never gives the questions away.
 - Each subject (Yoga, IKS, Paper 1) unlocks with its own ₹500/month plan,
   offered only once that subject has real papers.
 - Questions transcribed from a published book (currently all six Paper 1
-  papers from Madaan's Pearson book, and Yoga Nov 2017 and July 2018 from a
+  papers from Madaan's Pearson book, and Yoga Nov 2017, July 2018 and Dec 2018 from a
   solved-papers collection) are never shown to subscribers; only
   admins see them.
 - The Source Library lists your own Drive files and notes, so only admins see it.

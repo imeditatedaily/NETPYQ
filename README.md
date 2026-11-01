@@ -19,6 +19,9 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 | Paper | Questions | Answers |
 |---|---|---|
 | UGC NET (CBSE) January 2017, Yoga Paper II (booklet JA-100-17, English version) | 50 | Worked out from the primary texts and matched against a published solved-papers key. Q43 and Q44 are marked *unverified*: their answers could not be lined up with that key in the scanned copy. |
+| UGC NET (CBSE) November 2017, Yoga Paper II, **Hindi** | 44 | From a published solved-papers collection (admins only). Answers worked out from the texts and checked against its key; six items left out. |
+| UGC NET (CBSE) July 2018, Yoga Paper II, **Hindi** | 87 | From the same collection (admins only); thirteen garbled or disputed items left out. |
+| UGC NET (NTA) December 2018, Yoga Paper 2, **Hindi** | 80 | From the same collection (admins only), with both reading passages. Q12 and Q26 were cancelled by NTA; eighteen garbled or unsettled items left out. |
 | UGC NET June 2019, Yoga Paper 2, **Hindi** | 93 | The original NTA response sheet, question numbers as printed, both passages kept. 64 answers match the published solved-papers key (*cross-checked*); the rest are worked out and *unverified*. Seven items are left out: three are flawed (Q48, Q77, Q95) and four could not be settled (Q49, Q68, Q73, Q89). |
 | UGC NET December 2019, Yoga Paper 2, **Hindi** | 97 | The original NTA response sheet (10 Dec 2019), question numbers as printed, both passages kept. 21 answers match the published solved-papers key and are marked *cross-checked*; the rest are worked out and *unverified*. Q17, Q77 and Q79 are left out (answer could not be established). |
 | UGC NET June 2021 cycle (merged with December 2020; held Nov 2021 – Jan 2022), Yoga Paper 2, **Hindi** | 72 | Kept in Hindi as printed. Read from a text extraction of the scan, which has no question numbers, so the questions keep their source order. Answers worked out from the texts and marked *unverified*. Three items are left out (a Paper 1 item, an incomplete one, and one whose options are all historically wrong). |
@@ -44,7 +47,7 @@ Each question keeps the booklet's wording, numbering and labels (List I in Roman
 
 **Trend analysis.** The Trend Insight box has two parts.
 
-- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017, June 2019, December 2019, June 2021, December 2022 (partial) and June 2024; for Paper 1, July 2016 to December 2018.
+- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017, November 2017, July 2018, December 2018, June 2019, December 2019, June 2021, December 2022 (partial) and June 2024; for Paper 1, July 2016 to December 2018.
 - **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
 
 As more papers go in, the following update automatically:
@@ -59,7 +62,7 @@ The syllabus unit titles in `pyq/syllabus.py` follow NTA's published syllabi via
 
 ## Accounts, saved progress and subscriptions
 
-Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers, and the Yoga November 2017 and July 2018 papers from a solved-papers collection) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
+Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers, and the Yoga November 2017, July 2018 and December 2018 papers from a solved-papers collection) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
 
 **To go live, follow [`SETUP.md`](SETUP.md)** (Supabase, Render, Google sign-in, Razorpay). Streamlit Community Cloud's terms don't allow commercial apps, so the paid app runs on Render (`render.yaml`).
 

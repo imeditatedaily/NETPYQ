@@ -1,0 +1,2633 @@
+[
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q01",
+  "question_no": 1,
+  "question_type": "mcq",
+  "question_text": "'ध्यानं निर्विषयं मनः' का सम्बन्ध है",
+  "options": [
+   "ब्रह्मसूत्र से",
+   "सांख्यसूत्र से",
+   "न्यायसूत्र से",
+   "योगसूत्र से"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) सांख्यसूत्र.**\n\n*Dhyānaṃ nirviṣayaṃ manaḥ* — \"meditation is the mind free of objects\" — is Sāṃkhya Sūtra 6.25 (Kapila's Sāṃkhya-pravacana sūtra).\n\nPatañjali defines dhyāna differently: *tatra pratyayaikatānatā dhyānam* (YS 3.2), an unbroken flow of one cognition on the object. The \"objectless\" mind is closer to what Patañjali would call samādhi, which is why the line is a favourite trap.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "references": [
+   "Sāṃkhya Sūtra 6.25",
+   "Yoga Sūtra 3.2"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q02",
+  "question_no": 2,
+  "question_type": "mcq",
+  "question_text": "'सूर्याचन्द्रमसोर्योगो जीवात्मपरमात्मनोः' का निम्नलिखित में है।",
+  "options": [
+   "मैत्रायण्युपनिषद्",
+   "कठोपनिषद्",
+   "योगशिखोपनिषद्",
+   "कैवल्योपनिषद्"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) योगशिखोपनिषद्.**\n\nThe Yogaśikhā Upaniṣad (1.68–69) defines yoga as a set of unions: of prāṇa and apāna, of rajas and retas, **of sun and moon** (piṅgalā and iḍā), and **of jīvātman and paramātman**. *Evaṃ tu dvandva-jālasya saṃyogo yoga ucyate* — the joining of such pairs is called yoga.\n\nThe Kaṭha, Kaivalya and Maitrāyaṇī have their own definitions of yoga, but not this pairing.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yoga Upanishads: overview",
+  "references": [
+   "Yogaśikhā Upaniṣad 1.68–69"
+  ],
+  "source_ids": [
+   "aiyar-1914-thirty-minor-upanishads"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q03",
+  "question_no": 3,
+  "question_type": "mcq",
+  "question_text": "सर जॉन मार्शल के अनुसार मोहनजोदड़ो में प्राप्त नरदेवता की मूर्ति है",
+  "options": [
+   "चतुर्मुखी",
+   "त्रिमुखी",
+   "द्विमुखी",
+   "एकमुखी"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) त्रिमुखी.**\n\nSir John Marshall described the Mohenjo-daro seal of a horned figure seated in a yogic posture, surrounded by animals, as **three-faced** (*trimukha*) and called it \"proto-Śiva\" (Paśupati). It is often cited as the earliest archaeological hint of yoga in the Indus civilisation.\n\nThe reading is debated by later archaeologists, but the exam asks for Marshall's description.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in epics and smritis",
+  "references": [
+   "J. Marshall, Mohenjo-daro and the Indus Civilization (1931)"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q04",
+  "question_no": 4,
+  "question_type": "mcq",
+  "question_text": "ईशोपनिषद् के अनुसार, साधक कब शोक व मोह रहित हो जाता है ?",
+  "options": [
+   "सब प्राणियों के प्रति दया भावना से",
+   "सब मनुष्यों से प्रेम करने पर",
+   "सब मनुष्यों के प्रति करुणा की भावना से",
+   "सब प्राणियों के प्रति आत्मभाव भावना से"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) सब प्राणियों के प्रति आत्मभाव.**\n\nĪśa Upaniṣad 7: *yasmin sarvāṇi bhūtāny ātmaivābhūd vijānataḥ | tatra ko mohaḥ kaḥ śoka ekatvam anupaśyataḥ* — when, for the knower, all beings have become his own Self, what delusion or sorrow can there be for one who sees oneness?\n\nCompassion, love and kindness (1–3) are good, but the verse names **seeing all beings as the Self** (verse 6 says the same) as what ends grief and delusion.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "references": [
+   "Īśa Upaniṣad 6–7"
+  ],
+  "source_ids": [
+   "muller-upanishads",
+   "gita-press-ishadi-nau-upanishad"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q05",
+  "question_no": 5,
+  "question_type": "mcq",
+  "question_text": "किस उपनिषद् में कहा गया है कि वेदान्तिक ज्ञान तथा शुद्ध अन्तःकरण वाले पुरुष अन्त में मुक्त हो जाते हैं?",
+  "options": [
+   "मुण्डकोपनिषद्",
+   "प्रश्नोपनिषद्",
+   "कठोपनिषद्",
+   "केनोपनिषद्"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) मुण्डकोपनिषद्.**\n\nMuṇḍaka Upaniṣad 3.2.6: *vedānta-vijñāna-suniścitārthāḥ saṃnyāsa-yogād yatayaḥ śuddha-sattvāḥ | te brahma-lokeṣu parāntakāle parāmṛtāḥ parimucyanti sarve* — ascetics who are certain of the meaning of Vedāntic knowledge and whose minds are purified through renunciation are all freed at the final end.\n\nThe neighbouring verse 3.1.10 adds that the pure-minded (*viśuddha-sattva*) gain whatever worlds they think of.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "references": [
+   "Muṇḍaka Upaniṣad 3.1.10, 3.2.6"
+  ],
+  "source_ids": [
+   "muller-upanishads",
+   "gita-press-ishadi-nau-upanishad"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q06",
+  "question_no": 6,
+  "question_type": "mcq",
+  "question_text": "पतंजलि के अनुसार 'ध्यानहेयास्तद्वृत्तयः' का सम्बन्ध है",
+  "options": [
+   "प्रमाणवृत्ति नाश से",
+   "विकल्पवृत्ति नाश से",
+   "निद्रावृत्ति नाश से",
+   "क्लेशवृत्ति नाश से"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) क्लेशवृत्ति नाश से.**\n\nYS 2.10–2.11: the subtle kleśas are destroyed by returning them to their source (*te pratiprasava-heyāḥ sūkṣmāḥ*), while their **active modifications** — the gross forms of the kleśas — are removed by meditation: ***dhyāna-heyās tad-vṛttayaḥ***.\n\n\"*Tad*\" refers to the kleśas, not to the five citta-vṛttis of YS 1.6 (pramāṇa, viparyaya, vikalpa, nidrā, smṛti).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "references": [
+   "Yoga Sūtra 2.10–2.11"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q07",
+  "question_no": 7,
+  "question_type": "mcq",
+  "question_text": "योगसूत्रानुसार क्लेश व कर्म निवृत्ति का उपाय है",
+  "options": [
+   "ऋतम्भरा प्रज्ञा",
+   "धर्ममेघ समाधि",
+   "निर्वितर्का समाधि",
+   "निर्विचारा समाधि"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) धर्ममेघ समाधि.**\n\nYS 4.29–4.30: for one who has no interest even in the highest knowledge, constant discrimination brings ***dharmamegha samādhi***, and ***tataḥ kleśa-karma-nivṛttiḥ*** — from that, kleśas and karma cease.\n\nṚtambharā prajñā (YS 1.48) arises in nirvicāra samādhi; nirvitarka and nirvicāra are stages of saṃprajñāta samādhi, still short of the end of karma.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "references": [
+   "Yoga Sūtra 4.29–4.30"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q08",
+  "question_no": 8,
+  "question_type": "mcq",
+  "question_text": "महर्षि पतंजलि के अनुसार, अन्तराय तथा विक्षेप-सहभुवः को दूर करने का उपाय क्या है?",
+  "options": [
+   "अभ्यास- वैराग्य",
+   "प्राणायाम",
+   "भावना-चतुष्टय",
+   "एकतत्त्वाभ्यास"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) एकतत्त्वाभ्यास.**\n\nYS 1.30 lists the nine antarāyas; 1.31 their companions (*vikṣepa-sahabhuvaḥ*: duḥkha, daurmanasya, aṅgamejayatva, śvāsa-praśvāsa); and 1.32 gives the remedy: ***tat-pratiṣedhārtham eka-tattvābhyāsaḥ*** — to prevent them, practise on one principle.\n\nThe four bhāvanās (1.33) and prāṇāyāma (1.34) follow as further means of steadying the mind, and abhyāsa-vairāgya (1.12) is the general method for nirodha.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Antarayas and their companions (YS 1.29–1.32)",
+  "references": [
+   "Yoga Sūtra 1.30–1.34"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q09",
+  "question_no": 9,
+  "question_type": "mcq",
+  "question_text": "जल व पंक से योगी के शरीर का संयोग किस कारण नहीं होता ?",
+  "options": [
+   "प्राण वायु पर जय से",
+   "समान वायु पर जय से",
+   "उदान वायु पर जय से",
+   "व्यान वायु पर जय से"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) उदान वायु पर जय से.**\n\nYS 3.39: ***udāna-jayāj jala-paṅka-kaṇṭakādiṣv asaṅga utkrāntiś ca*** — by mastery of udāna, the yogi does not touch water, mud, thorns and the like, and rises (or departs at will).\n\nMastery of samāna (YS 3.40) gives radiance (*jvalanam*). Udāna is the upward-moving vāyu, which is why its mastery gives lightness and levitation.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "references": [
+   "Yoga Sūtra 3.39–3.40"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q10",
+  "question_no": 10,
+  "question_type": "mcq",
+  "question_text": "घेरण्ड संहिता के अनुसार, कपालरन्ध्र धौति किस धौति का प्रकार है?",
+  "options": [
+   "दन्तधौति",
+   "हृद्धौति",
+   "अन्तर्धौति",
+   "मूलशोधन"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) दन्तधौति.**\n\nGheraṇḍa Saṃhitā 1.25: *danta-mūlaṃ jihvā-mūlaṃ randhraṃ ca karṇa-yugmayoḥ | kapāla-randhraṃ pañcaite danta-dhautir vidhīyate* — dantadhauti has five forms: the roots of the teeth, the root of the tongue, the two ear holes and **kapāla-randhra**.\n\nGS 1.34–35 describe kapāla-randhra dhauti: rubbing the depression at the top of the forehead with the right thumb, which removes kapha and clears the nāḍīs.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "references": [
+   "Gheraṇḍa Saṃhitā 1.13, 1.25, 1.34–35"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita",
+   "gheranda-samhita-niranjanananda"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q11",
+  "question_no": 11,
+  "question_type": "mcq",
+  "question_text": "सिद्धसिद्धान्तपद्धति के अनुसार, सर्वेन्द्रियजय तथा आहार-निद्राजय किसके द्वारा होता है?",
+  "options": [
+   "प्रत्याहार से",
+   "यम से",
+   "नियम से",
+   "धारणा से"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) यम से.**\n\nSiddha Siddhānta Paddhati (2.32) defines its yama not as a list of restraints but as conquest: *sarvendriya-jayaḥ, āhāra-nidrā-śīta-vātātapa-jayaḥ* — mastery of all the senses, and of food, sleep, cold, wind and heat, attained gradually.\n\nThis definition differs from Patañjali's five yamas, which is what the question tests.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "references": [
+   "Siddha Siddhānta Paddhati 2.32"
+  ],
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q13",
+  "question_no": 13,
+  "question_type": "mcq",
+  "question_text": "षट्सम्पत्ति का सम्बन्ध है",
+  "options": [
+   "रामायण से",
+   "योगसूत्र से",
+   "वेदान्त दर्शन से",
+   "जैन दर्शन से"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) वेदान्त दर्शन से.**\n\nThe **ṣaṭ-sampatti** (six treasures) — *śama, dama, uparati, titikṣā, samādhāna, śraddhā* — are the third of Vedānta's four qualifications (*sādhana-catuṣṭaya*): viveka, vairāgya, ṣaṭ-sampatti and mumukṣutva. Śaṅkara sets them out in the Vivekacūḍāmaṇi and Tattvabodha; Vedāntasāra 18–24 defines each.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "references": [
+   "Vedāntasāra 15–25",
+   "Vivekacūḍāmaṇi 18–27"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q14",
+  "question_no": 14,
+  "question_type": "mcq",
+  "question_text": "कुण्डलिनी चक्र, नाड़ी आदि किस योग के साथ सम्बन्धित हैं?",
+  "options": [
+   "राजयोग",
+   "हठयोग",
+   "ज्ञानयोग",
+   "कर्मयोग"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) हठयोग.**\n\nKuṇḍalinī, the cakras and the nāḍīs belong to the body-centred map of **haṭha yoga** (with its tantric roots). Haṭha Pradīpikā chapter 3 opens by calling kuṇḍalinī the support of all yoga practice and uses mudrās and bandhas to awaken it.\n\nRāja yoga (Patañjali) works with the mind, jñāna with discrimination and karma with action; none of them builds on this anatomy.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts",
+  "references": [
+   "Haṭha Pradīpikā 3.1–5"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q15",
+  "question_no": 15,
+  "question_type": "mcq",
+  "question_text": "किस योगी ने वैदिक धर्म के पुनरुत्थान हेतु कार्य किया?",
+  "options": [
+   "स्वामी विवेकानन्द",
+   "महर्षि दयानन्द सरस्वती",
+   "महर्षि रमण",
+   "स्वामी राम"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) महर्षि दयानन्द सरस्वती.**\n\nDayānanda Sarasvatī (1824–1883) founded the Ārya Samāj (1875) with the call \"back to the Vedas\". In *Satyārtha Prakāśa* and *Ṛgvedādi-bhāṣya-bhūmikā* he presented the Vedas as revealed knowledge and the basis for reforming Hindu practice.\n\nVivekānanda revived Vedānta; Ramaṇa Maharṣi taught self-enquiry; Svāmī Rāma founded the Himalayan Institute.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions",
+  "references": [
+   "Dayānanda Sarasvatī, Satyārtha Prakāśa"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q16",
+  "question_no": 16,
+  "question_type": "mcq",
+  "question_text": "हठयोग प्रदीपिकानुसार निष्पत्ति अवस्था में वायु किस ग्रन्थि का भेदन करता है?",
+  "options": [
+   "ब्रह्मग्रन्थि",
+   "रुद्रग्रन्थि",
+   "विष्णुग्रन्थि",
+   "हृदयग्रन्थि"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) रुद्रग्रन्थि.**\n\nHaṭha Pradīpikā 4.69–76 describes four stages of nāda practice: **ārambha** (brahma-granthi pierced, at the heart), **ghaṭa** (viṣṇu-granthi, at the throat), **paricaya** (the breath reaches the space between the eyebrows) and **niṣpatti**, when the prāṇa pierces the **rudra-granthi** and reaches the seat of Śiva (4.76).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "references": [
+   "Haṭha Pradīpikā 4.69–76"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q18",
+  "question_no": 18,
+  "question_type": "mcq",
+  "question_text": "हठप्रदीपिकानुसार नादानुसंधान के अंतिम चरण में प्रकट होने वाले नाद निम्नलिखित में से कौन-से हैं?",
+  "options": [
+   "मेघगर्जन, समुद्रगर्जन आदि।",
+   "झरना, घंटा आदि।",
+   "वीणा, भ्रमरगुंजन आदि।",
+   "ढोल, शंख आदि।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) वीणा, भ्रमरगुंजन आदि.**\n\nHaṭha Pradīpikā 4.85–86: at first the sounds are loud — the ocean, thunder, a kettle-drum (*jaladhi, jīmūta, bherī*); in the middle, the drum (*mardala*), conch, bell and horn; **at the end, tinkling bells, the flute, the vīṇā and the humming of bees** (*kiṅkiṇī, vaṃśa, vīṇā, bhramara*).\n\nSo the sounds become subtler as practice deepens.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "references": [
+   "Haṭha Pradīpikā 4.85–86"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q19",
+  "question_no": 19,
+  "question_type": "mcq",
+  "question_text": "स्वात्माराम के अनुसार हठक्रियाओं में कौन-सी क्रिया श्रेष्ठ है?",
+  "options": [
+   "त्राटक",
+   "बस्ति",
+   "नौलि",
+   "नेति"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) नौलि.**\n\nHaṭha Pradīpikā 2.34: nauli kindles the digestive fire, removes indigestion and all diseases, and ***haṭha-kriyā-maulir iyam*** — \"this is the crown of the haṭha practices\".",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "references": [
+   "Haṭha Pradīpikā 2.33–34"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q20",
+  "question_no": 20,
+  "question_type": "mcq",
+  "question_text": "मानव शरीर में स्पाइनल तंत्रिकाओं की कुल संख्या होती है",
+  "options": [
+   "30 जोड़ी",
+   "31 जोड़ी",
+   "32 जोड़ी",
+   "33 जोड़ी"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 31 जोड़ी.**\n\nThere are **31 pairs** of spinal nerves: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal. (There are 12 pairs of cranial nerves.) There are only 7 cervical vertebrae but 8 cervical nerves, because the first leaves above C1.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q21",
+  "question_no": 21,
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित ग्रन्थियों में से कौन सी ग्रन्थि बहिःस्रावी और अंतःस्रावी ग्रन्थि दोनों के रूप में कार्य करती है?",
+  "options": [
+   "थायरॉयड",
+   "एड्रिनल",
+   "पेन्क्रियाज",
+   "पैराथायरॉयड"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) पेन्क्रियाज.**\n\nThe pancreas is a mixed gland. Its acini secrete digestive enzymes through ducts into the duodenum (**exocrine**), and its islets of Langerhans release insulin (β cells), glucagon (α cells) and somatostatin (δ cells) into the blood (**endocrine**). Thyroid, adrenal and parathyroid are purely endocrine.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q22",
+  "question_no": 22,
+  "question_type": "mcq",
+  "question_text": "मानव रक्त में प्लाज्मा का प्रतिशत लगभग होता है",
+  "options": [
+   "45%",
+   "55%",
+   "35%",
+   "60%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 55%.**\n\nPlasma is about **55%** of blood volume; the formed elements (mostly red cells) make up the other ~45%, which is the haematocrit. Plasma itself is about 90% water.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q23",
+  "question_no": 23,
+  "question_type": "mcq",
+  "question_text": "साइनोएट्रियल (एस. ए.) नोड स्थित होता है",
+  "options": [
+   "दाहिने अलिन्द में",
+   "बायें अलिन्द में",
+   "दाहिने निलय में",
+   "बायें निलय में"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) दाहिने अलिन्द में.**\n\nThe **SA node**, the heart's pacemaker, lies in the wall of the **right atrium** near the opening of the superior vena cava. Its impulse spreads through the atria to the AV node (also in the right atrium, near the septum), then down the bundle of His and Purkinje fibres to the ventricles.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q24",
+  "question_no": 24,
+  "question_type": "mcq",
+  "question_text": "डेन्ड्राइट तंत्रिका आवेगों को ले जाते हैं",
+  "options": [
+   "सेल बॉडी से दूर",
+   "ऐक्सॉन की ओर",
+   "सेल बॉडी की ओर",
+   "ऐक्सॉन से दूर"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) सेल बॉडी की ओर.**\n\nDendrites receive signals from other neurons or receptors and conduct them **towards the cell body**. The single axon carries impulses **away** from the cell body to the next neuron, muscle or gland.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q25",
+  "question_no": 25,
+  "question_type": "mcq",
+  "question_text": "थाइमस ग्रन्थि से स्त्रावित हॉर्मोन किन कोशिकाओं के प्रफलन एवं परिपक्वता में महत्वपूर्ण भूमिका निभाते हैं?",
+  "options": [
+   "टी सेल",
+   "डेल्टा सेल",
+   "अल्फा सेल",
+   "बीटा सेल"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) टी सेल.**\n\nThe thymus, behind the sternum, secretes thymosin and related hormones that drive the multiplication and maturation of **T lymphocytes** (T for thymus). Alpha, beta and delta cells belong to the pancreatic islets.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q27",
+  "question_no": 27,
+  "question_type": "mcq",
+  "question_text": "हठप्रदीपिका के अनुसार, गुल्मरोग में कौन-सा आसन लाभकारी है?",
+  "options": [
+   "पश्चिमोत्तानासन",
+   "धनुरासन",
+   "मयूरासन",
+   "मत्स्येन्द्रासन"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) मयूरासन.**\n\nHaṭha Pradīpikā 1.31: mayūrāsana quickly destroys diseases such as **gulma** (abdominal tumour), dropsy (*udara*) and spleen disorders, removes imbalances of the doṣas, and digests even harmful food.\n\nPaścimottānāsana (1.29) kindles the gastric fire and slims the waist; matsyendrāsana (1.27) awakens kuṇḍalinī.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "references": [
+   "Haṭha Pradīpikā 1.27–31"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q28",
+  "question_no": 28,
+  "question_type": "mcq",
+  "question_text": "आयुर्वेद के अनुसार, पित्त दोष के असंतुलन से कितने नानात्मज विकार होते हैं?",
+  "options": [
+   "20",
+   "40",
+   "60",
+   "80"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 40.**\n\nCaraka Saṃhitā, Sūtrasthāna 20 (*Mahārogādhyāya*) counts the *nānātmaja* disorders — those caused by a single doṣa: **80 of vāta, 40 of pitta and 20 of kapha**.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "references": [
+   "Caraka Saṃhitā, Sūtrasthāna 20.11–17"
+  ],
+  "source_ids": [
+   "kaviratna-charaka-samhita",
+   "ayurveda-books"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q29",
+  "question_no": 29,
+  "question_type": "mcq",
+  "question_text": "एपिडेमिओलॉजी के त्रिकोण में क्या सम्मिलित नहीं है?",
+  "options": [
+   "एजेन्ट कारक",
+   "होस्ट कारक",
+   "रिस्क कारक",
+   "पर्यावरणीय कारक"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) रिस्क कारक.**\n\nThe **epidemiological triad** has three corners: the **agent** (the cause, e.g. a microbe), the **host** (the person, with age, immunity and habits) and the **environment** that brings them together. \"Risk factors\" is a broader idea used in chronic-disease epidemiology, not a corner of the triad.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Concepts of health (WHO, Ayurveda)"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q30",
+  "question_no": 30,
+  "question_type": "mcq",
+  "question_text": "शरीर में \"डिस्ट्रेस\" किससे उत्पन्न नहीं हो सकता है?",
+  "options": [
+   "उच्च रक्तचाप से",
+   "दर्द से",
+   "सुखद विचार से",
+   "ट्यूमर से"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) सुखद विचार से.**\n\nSelye distinguished **distress** (harmful stress) from **eustress** (positive stress). High blood pressure, pain and a tumour are physical stressors that can produce distress. Pleasant thoughts are not a source of distress; if anything they produce eustress or relaxation.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q31",
+  "question_no": 31,
+  "question_type": "mcq",
+  "question_text": "कपाल अस्थियाँ उदाहरण हैं",
+  "options": [
+   "छोटी अस्थियों के",
+   "चपटी अस्थियों के",
+   "टेढ़ी-मेढ़ी अस्थियों के",
+   "लंबी अस्थियों के"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) चपटी अस्थियों के.**\n\nThe bones of the skull vault (frontal, parietal, occipital) are **flat bones**: two thin plates of compact bone around spongy bone, built to protect and give broad surfaces for muscle attachment. The sternum, ribs, scapula and ilium are other flat bones.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q32",
+  "question_no": 32,
+  "question_type": "mcq",
+  "question_text": "गाउटी आर्थ्राइटिस का कारण है",
+  "options": [
+   "सीरम यूरिक ऐसिड का बढ़ना",
+   "ब्लड यूरिया का बढ़ना",
+   "सीरम क्रिएटिनिन का बढ़ना",
+   "रूमैटिक फैक्टर"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) सीरम यूरिक ऐसिड का बढ़ना.**\n\nGout is caused by **raised serum uric acid** (hyperuricaemia): monosodium urate crystals deposit in joints, classically the big toe, and cause sudden, very painful inflammation. Rheumatoid factor is a marker of rheumatoid arthritis; urea and creatinine reflect kidney function.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q33",
+  "question_no": 33,
+  "question_type": "mcq",
+  "question_text": "अन्तःस्रावी ग्रन्थियों से होने वाले स्रावों को कहा जाता है",
+  "options": [
+   "एन्ज़ाइम्स",
+   "पेप्टाइड्स",
+   "न्यूरोट्रांसमिटर्स",
+   "हार्मोन्स"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) हार्मोन्स.**\n\nEndocrine glands are ductless and release **hormones** directly into the blood, which carries them to distant target organs. Enzymes are released by exocrine glands through ducts; neurotransmitters act across synapses. Some hormones are peptides, but \"peptide\" names a chemical class, not the secretion.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q34",
+  "question_no": 34,
+  "question_type": "mcq",
+  "question_text": "ऐन्टीजन एक ऐसा रासायनिक पदार्थ है जिसके कारण ______ उत्पादन होता है",
+  "options": [
+   "हॉर्मोन का",
+   "ऐन्टिबॉडी का",
+   "न्यूरोट्रांसमिटर का",
+   "पेप्टाइड का"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ऐन्टिबॉडी का.**\n\nAn **antigen** is any substance the immune system recognises as foreign. It triggers B lymphocytes (as plasma cells) to produce **antibodies** (immunoglobulins), which bind that antigen specifically and help neutralise or remove it.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q35",
+  "question_no": 35,
+  "question_type": "mcq",
+  "question_text": "सभी सिनोवियल संधियाँ हैं",
+  "options": [
+   "अचल",
+   "अल्पचल",
+   "सचल",
+   "केवल सरकने वाली"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) सचल.**\n\nSynovial joints have a joint cavity filled with synovial fluid, lined by a synovial membrane, with cartilage on the bone ends. All of them are **freely movable** (diarthroses): ball-and-socket, hinge, pivot, gliding, saddle and condyloid. Fibrous joints are immovable and cartilaginous joints slightly movable.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q36",
+  "question_no": 36,
+  "question_type": "mcq",
+  "question_text": "ध्यान, तनाव को किस प्रक्रिया द्वारा घटाता है?",
+  "options": [
+   "ऑक्सीजन का उपभोग बढ़ाकर",
+   "हृदय की गति बढ़ाकर",
+   "मस्तिष्क से अल्फा तरंगों के प्रस्फुरण घटाकर",
+   "अनुकम्पी तंत्रिकीय क्रिया को घटाकर"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) अनुकम्पी तंत्रिकीय क्रिया को घटाकर.**\n\nStudies of meditation (Wallace and Benson's \"relaxation response\") show **reduced sympathetic activity**: lower oxygen consumption, heart rate, blood pressure and lactate, and *more* alpha waves. Each of options 1–3 states the opposite of what was found.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "source_ids": [
+   "svyasa-msrt-cyclic-meditation"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q38",
+  "question_no": 38,
+  "question_type": "mcq",
+  "question_text": "एन्जाइना पेक्टोरिस रोग में वक्ष प्रदेश में दर्द होता है, जो संबंधित है",
+  "options": [
+   "कॉरोनरी रक्त प्रवाह के आधिक्य से",
+   "कॉरोनरी रक्त प्रवाह की कमी से",
+   "वक्ष प्रदेश में पेशी-जनित दर्द से",
+   "पसलियों में दर्द से"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) कॉरोनरी रक्त प्रवाह की कमी से.**\n\nAngina pectoris is chest pain from **myocardial ischaemia**: narrowed coronary arteries (usually atherosclerosis) cannot supply enough blood and oxygen when the heart's demand rises, as on exertion or under stress. It is not muscular or rib pain.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: hypertension"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q39",
+  "question_no": 39,
+  "question_type": "mcq",
+  "question_text": "प्राणायाम का सम्बन्ध है",
+  "options": [
+   "केवल चित्त से",
+   "केवल शरीर से",
+   "केवल मन से",
+   "शरीर और मन दोनों से"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) शरीर और मन दोनों से.**\n\nPrāṇāyāma regulates the breath (a bodily function) and through it the mind. Patañjali makes the link explicit: prāṇāyāma removes the covering over the light (YS 2.52) and makes the mind fit for dhāraṇā (YS 2.53). Haṭha Pradīpikā 2.2 says the same in reverse: when the breath moves, the mind moves.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "references": [
+   "Yoga Sūtra 2.52–53",
+   "Haṭha Pradīpikā 2.2"
+  ]
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q41",
+  "question_no": 41,
+  "question_type": "statements",
+  "question_text": "'श्रवण' उपांग का सम्बन्ध है",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(ii) और (iii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (ii) और (iii).**\n\n- **Jñāna yoga**: śravaṇa (hearing the teaching), manana (reflection) and nididhyāsana (contemplation) are its three steps.\n- **Bhakti yoga**: śravaṇa (hearing the Lord's glories) is the first of the nine forms of devotion (*navadhā bhakti*, Bhāgavata Purāṇa 7.5.23).\n\nKarma yoga and mantra yoga do not use śravaṇa as a named limb.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts",
+  "items": [
+   "कर्मयोग से",
+   "ज्ञानयोग से",
+   "भक्तियोग से",
+   "मंत्रयोग से"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q42",
+  "question_no": 42,
+  "question_type": "statements",
+  "question_text": "योग साधना में निम्नलिखित में से कौन-से अवरोध हैं?",
+  "options": [
+   "(i) और (iii) सही हैं।",
+   "(i) और (ii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (iii) और (iv).**\n\nHaṭha Pradīpikā 1.15 lists six things that destroy yoga: *atyāhāra* (overeating), **prayāsa** (over-exertion), **prajalpa** (idle talk), *niyamāgraha* (rigid rules), *jana-saṅga* (crowds) and *laulya* (fickleness).\n\nSāhasa (courage) and utsāha (enthusiasm) are among the six that bring success (1.16).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Sadhaka and badhaka tattvas in Hatha Yoga",
+  "references": [
+   "Haṭha Pradīpikā 1.15–16"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "items": [
+   "साहस",
+   "उत्साह",
+   "प्रयास",
+   "प्रजल्प"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "unverified",
+  "id": "YOGA-2018DEC-P2-Q44",
+  "question_no": 44,
+  "question_type": "statements",
+  "question_text": "अष्टांगयोग का वर्णन मिलता है",
+  "options": [
+   "(i) और (iv) सही हैं।",
+   "(ii) और (iv) सही हैं।",
+   "(i), (ii) और (iii) सही हैं।",
+   "(ii), (iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (ii) और (iii).**\n\nEight-limbed yoga is taught in Patañjali's Yoga Sūtra (2.29), and also in tantric texts: the **Rudrayāmala** and Lakṣmaṇa Deśika's **Śāradātilaka** (chapter 25) both describe yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna and samādhi.\n\nThe Brahma Sūtra discusses Vedānta, not aṣṭāṅga yoga; it even refutes the Yoga school's view of the cause of the world (2.1.3).",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts",
+  "references": [
+   "Yoga Sūtra 2.29",
+   "Śāradātilaka 25"
+  ],
+  "items": [
+   "पातञ्जल योगसूत्र में",
+   "रुद्रयामल तंत्र में",
+   "शारदातिलक में",
+   "ब्रह्मसूत्र में"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q45",
+  "question_no": 45,
+  "question_type": "statements",
+  "question_text": "\"उभौ तौ न विजानीतो नायं हन्ति न हन्यते।\" यह कथन किसका है?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(ii) और (iv) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i) और (iii).**\n\nThe line occurs in **Kaṭha Upaniṣad 1.2.19** (*hantā cen manyate hantuṃ hataś cen manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate*) and almost word for word in **Bhagavad Gītā 2.19**. If the slayer thinks he slays and the slain thinks he is slain, neither understands: the Self neither slays nor is slain.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "references": [
+   "Kaṭha Upaniṣad 1.2.19",
+   "Bhagavad Gītā 2.19"
+  ],
+  "source_ids": [
+   "muller-upanishads",
+   "telang-1882-bhagavadgita"
+  ],
+  "items": [
+   "कठोपनिषद्",
+   "प्रश्नोपनिषद्",
+   "भगवद्गीता",
+   "मुण्डकोपनिषद्"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q46",
+  "question_no": 46,
+  "question_type": "statements",
+  "question_text": "हठयोग प्रदीपिका के अनुसार, किसके अभ्यास से झुर्रियों व बाल पकने के रोग में लाभ मिलता है?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(ii) और (iii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (iii) और (iv).**\n\n- **Mahāvedha**, HP 3.29: it destroys wrinkles, grey hair and trembling (*valī-palita-vepaghnaḥ*).\n- **Viparītakaraṇī**, HP 3.81: after six months of practice, wrinkles and grey hair are no longer seen (*valitaṃ palitaṃ caiva ṣaṇmāsordhvaṃ na dṛśyate*).\n\nMahāmudrā (3.16–17) is praised for curing consumption, leprosy and indigestion; mahābandha (3.22–23) for checking the upward flow of the nāḍīs.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "references": [
+   "Haṭha Pradīpikā 3.16–17, 3.29, 3.81"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "items": [
+   "महामुद्रा",
+   "महाबन्ध मुद्रा",
+   "विपरीतकरणी मुद्रा",
+   "महावेध मुद्रा"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q49",
+  "question_no": 49,
+  "question_type": "statements",
+  "question_text": "हठप्रदीपिका के अनुसार, ब्रह्मग्रन्थिभेदन से साधक बनता है",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(ii) और (iii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i) और (ii).**\n\nHaṭha Pradīpikā 4.70, on the ārambha stage when the brahma-granthi is pierced: *divya-dehaś ca tejasvī divya-gandhas tv arogavān* — the yogi gets a divine body, becomes **radiant** (*tejasvī*, i.e. ojasvī), smells pleasant and is **free of disease** (*arogavān*), and his heart is full.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "references": [
+   "Haṭha Pradīpikā 4.69–70"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "items": [
+   "ओजस्वी",
+   "निरोगी",
+   "बुद्धिमान",
+   "सदाचारी"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q50",
+  "question_no": 50,
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन-से लसीका ऊतक नहीं हैं?",
+  "options": [
+   "(i) और (iii) सही हैं।",
+   "(i) और (iv) सही हैं।",
+   "(i) और (ii) सही हैं।",
+   "(iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i) और (ii).**\n\nThe **tonsils** and the **spleen** are lymphoid organs (with lymph nodes, thymus and Peyer's patches). The **adrenal** and **thyroid** glands are endocrine glands, not lymphoid tissue.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "items": [
+   "एड्रिनल (अधिवृक्क) ग्रन्थि",
+   "थायरॉयड (अवटु) ग्रन्थि",
+   "टॉन्सिल",
+   "स्प्लीन (प्लीहा)"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q51",
+  "question_no": 51,
+  "question_type": "statements",
+  "question_text": "शाकाहारी भोजन में प्रोटीन के प्रमुख स्रोत हैं",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(ii) और (iv) सही हैं।",
+   "(i) और (iii) सही हैं।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (iii) और (iv).**\n\nIn a vegetarian diet the main protein sources are **pulses** (dal: about 20–25 g protein per 100 g) and **cereals** (about 7–12 g per 100 g, eaten in large amounts). Together they complement each other's amino acids: cereals lack lysine, pulses lack methionine. Most fruits and vegetables supply little protein.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "items": [
+   "सब्जियाँ",
+   "फल",
+   "दालें",
+   "अनाज"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q54",
+  "question_no": 54,
+  "question_type": "statements",
+  "question_text": "किन योग अभ्यासों का थायरॉयड ग्रन्थि पर सीधा प्रभाव पड़ता है?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(ii) और (iii) सही हैं।",
+   "(ii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i) और (iii).**\n\n**Sarvāṅgāsana** and **jālandhara bandha** both press the chin firmly into the chest, compressing the front of the neck where the thyroid lies; they are the classic practices for the thyroid (Sarvāṅgāsana takes its name — \"all the body\" — partly from this effect).\n\nNaukāsana works the abdomen and pādahastāsana the back of the legs and spine.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders",
+  "source_ids": [
+   "satyananda-asana-pranayama-mudra-bandha"
+  ],
+  "items": [
+   "सर्वांगासन",
+   "नौकासन",
+   "जालंधर बंध",
+   "पादहस्तासन"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q55",
+  "question_no": 55,
+  "question_type": "statements",
+  "question_text": "टाइप II डायबिटीज़ के निम्नलिखित में से क्या कारण होते हैं?",
+  "options": [
+   "(i) और (iii) सही हैं।",
+   "(i) और (iv) सही हैं।",
+   "(ii) और (iv) सही हैं।",
+   "(iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i) और (iii).**\n\nType 2 diabetes comes from insulin resistance with relative insulin deficiency; **stress** (through cortisol and adrenaline) and **lack of exercise**, along with obesity and diet, are major causes.\n\nAutoimmune destruction of β cells causes **type 1** diabetes, and relaxation through meditation is part of the treatment, not a cause.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders",
+  "items": [
+   "तनाव",
+   "ध्यान के माध्यम से विश्रान्ति",
+   "व्यायाम की कमी",
+   "बीटा कोशिकाओं का स्वप्रतिरोधी नाश"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q56",
+  "question_no": 56,
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन-सा रस पित्त दोष का शमन करता है?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(ii) और (iv) सही हैं।",
+   "(iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (ii) और (iv).**\n\nIn Āyurveda pitta (fire and water) is pacified by the **sweet (madhura), bitter (tikta) and astringent (kaṣāya)** tastes, and aggravated by pungent (*kaṭu*), sour (*amla*) and salty (*lavaṇa*). Of the four given, tikta and kaṣāya calm pitta.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "references": [
+   "Caraka Saṃhitā, Sūtrasthāna 1.66"
+  ],
+  "source_ids": [
+   "kaviratna-charaka-samhita"
+  ],
+  "items": [
+   "कटु",
+   "तिक्त",
+   "लवण",
+   "कषाय"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q57",
+  "question_no": 57,
+  "question_type": "statements",
+  "question_text": "हठप्रदीपिका के अनुसार, महामुद्रा किन बिमारियों में लाभकारी है?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।",
+   "(ii) और (iii) सही हैं।"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii) और (iii).**\n\nHaṭha Pradīpikā 3.17: mahāmudrā removes *kṣaya* (consumption), ***kuṣṭha*** (leprosy and skin disease), *gudāvarta* (constipation), *gulma* (abdominal tumour) and ***ajīrṇa*** (indigestion). Insomnia and asthma are not named.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "references": [
+   "Haṭha Pradīpikā 3.16–17"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "items": [
+   "अनिद्रा",
+   "अजीर्ण",
+   "चर्म रोग",
+   "श्वास रोग"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q58",
+  "question_no": 58,
+  "question_type": "statements",
+  "question_text": "इनमें से कौन-से अभ्यास मूल्य आधारित शिक्षा के लिए लाभकारी हैं?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(ii) और (iii) सही हैं।",
+   "(ii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (ii) और (iii).**\n\nValue-based education aims at character and ethical conduct. Among yoga's practices, **yama** (non-violence, truthfulness, non-stealing, continence, non-possessiveness) and **niyama** (purity, contentment, austerity, self-study, surrender) are directly about values. Prāṇāyāma and ṣaṭkarma work on the breath and body.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Value-based education and yama",
+  "items": [
+   "प्राणायाम",
+   "यम",
+   "नियम",
+   "षट्कर्म"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "unverified",
+  "id": "YOGA-2018DEC-P2-Q59",
+  "question_no": 59,
+  "question_type": "statements",
+  "question_text": "घेरण्ड संहिता के अनुसार, निम्नलिखित में से कौन-से आहार द्रव्य अपथ्य हैं?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(ii) और (iv) सही हैं।",
+   "(iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (ii) और (iv).**\n\nGheraṇḍa Saṃhitā 5.17–25 (*mitāhāra*) recommends rice, wheat flour, **barley** (*yava*) and **mung** (*mudga*) among the wholesome foods (pathya), and forbids, among others, **horse gram** (*kulattha*), **sesame** (*tila*), mustard, lentils, sour and bitter things.\n\nThe collection's key letter here points to (iii) and (iv), but its own explanation names kulattha and tila, which is option (3).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "references": [
+   "Gheraṇḍa Saṃhitā 5.17–25"
+  ],
+  "source_ids": [
+   "vasu-1895-gheranda-samhita",
+   "gheranda-samhita-niranjanananda"
+  ],
+  "items": [
+   "यव",
+   "कुलत्थ",
+   "मुद्ग",
+   "तिल"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q60",
+  "question_no": 60,
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन-से आसन पीछे झुकने वाले हैं?",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।",
+   "(ii) और (iii) सही हैं।"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii) और (iii).**\n\n**Bhujaṅgāsana** (cobra) and **chakrāsana** (wheel) arch the spine backwards. Uttānapādāsana is a supine leg raise that works the abdomen, and sarvāṅgāsana is an inversion with the neck flexed forward.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "source_ids": [
+   "satyananda-asana-pranayama-mudra-bandha"
+  ],
+  "items": [
+   "उत्तानपादासन",
+   "भुजंगासन",
+   "चक्रासन",
+   "सर्वांगासन"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "unverified",
+  "id": "YOGA-2018DEC-P2-Q61",
+  "question_no": 61,
+  "question_type": "statements",
+  "question_text": "निम्नलिखित में से कौन-से आसन संतुलनात्मक हैं?",
+  "options": [
+   "(i), (ii) और (iii) सही हैं।",
+   "(ii), (iii) और (iv) सही हैं।",
+   "(i), (ii) और (iv) सही हैं।",
+   "(i), (iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (ii) और (iv).**\n\n**Vṛkṣāsana** (on one leg), **garuḍāsana** (on one leg, limbs entwined) and **kukkuṭāsana** (on the hands) are balancing postures. In the Indian school system the standing **ardha-chandrāsana** is a side bend on both feet, so it is not counted as a balance. (The one-legged \"half-moon\" of Iyengar's tradition is a different posture.)",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "source_ids": [
+   "satyananda-asana-pranayama-mudra-bandha"
+  ],
+  "items": [
+   "वृक्षासन",
+   "कुक्कुटासन",
+   "अर्ध-चन्द्रासन",
+   "गरुड़ासन"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q62",
+  "question_no": 62,
+  "question_type": "statements",
+  "question_text": "आसनों को निम्नलिखित में से किन वर्गों में वर्गीकृत किया गया है?",
+  "options": [
+   "(ii) और (iii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।",
+   "(i) और (ii) सही हैं।"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (i) और (ii).**\n\nĀsanas are commonly grouped as **meditative** (padmāsana, siddhāsana, sukhāsana), **relaxative** (śavāsana, makarāsana) and **cultural** or corrective postures that work the body. \"Spiritual\" and \"social\" are not āsana classes.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "source_ids": [
+   "gharote-yogic-techniques"
+  ],
+  "items": [
+   "ध्यानात्मक",
+   "विश्रान्तिकारी",
+   "आध्यात्मिक",
+   "सामाजिक"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q63",
+  "question_no": 63,
+  "question_type": "statements",
+  "question_text": "शैक्षणिक अध्यापन प्रक्रिया के निम्नलिखित अवयव होते हैं",
+  "options": [
+   "(i) और (iv) सही हैं।",
+   "(i) और (ii) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(ii) और (iii) सही हैं।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i) और (iv).**\n\nThe educational process has two inseparable components: **teaching** (by the teacher) and **learning** (by the student) — the teaching-learning process. Management and administration support education but are not components of the teaching process itself.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "items": [
+   "अध्यापन",
+   "प्रबन्धन",
+   "प्रशासन",
+   "अधिगम"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q64",
+  "question_no": 64,
+  "question_type": "statements",
+  "question_text": "एक योग कक्षा में योग शिक्षक को अपने निर्देशों को सही ढंग से सम्प्रेषित करने हेतु निम्नलिखित बिन्दु सहायक हो सकते हैं:",
+  "options": [
+   "(i) और (ii) सही हैं।",
+   "(i) और (iii) सही हैं।",
+   "(i) और (iv) सही हैं।",
+   "(iii) और (iv) सही हैं।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i) और (iv).**\n\nGood instructions in a yoga class are **brief, slow and clear**, given one at a time, and **repeated** when students haven't followed. Keeping a distance from students and giving many instructions at once both hinder communication.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "items": [
+   "निर्देश संक्षिप्त, धीमे और स्पष्ट होने चाहिए",
+   "अध्यापक को विद्यार्थियों से दूरी बनाकर रखनी चाहिए",
+   "एक बार में अनेक निर्देश दिए जाने चाहिए",
+   "आवश्यक होने पर निर्देश दोहराए जाने चाहिए"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q66",
+  "question_no": 66,
+  "question_type": "statements",
+  "question_text": "लम्बर स्पोन्डिलोसिस में कौन-से आसन निषिद्ध हैं?",
+  "options": [
+   "(ii) और (iii) सही हैं।",
+   "(i) और (ii) सही हैं।",
+   "(iii) और (iv) सही हैं।",
+   "(i) और (iv) सही हैं।"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (i) और (iv).**\n\nIn lumbar spondylosis, **forward bends** that load the lumbar discs — pādahastāsana and (full) pavanamuktāsana — are avoided. Gentle backward bends such as bhujaṅgāsana and ardha-chakrāsana strengthen the back muscles and are recommended.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders",
+  "source_ids": [
+   "notes-yoga-therapy-by-disease"
+  ],
+  "items": [
+   "पादहस्तासन",
+   "भुजंगासन",
+   "अर्धचक्रासन",
+   "पवनमुक्तासन"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q67",
+  "question_no": 67,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) both true, R explains A.**\n\nBhagavad Gītā 12.13–14 describes the devotee dear to Kṛṣṇa: *adveṣṭā sarva-bhūtānāṃ maitraḥ karuṇa eva ca … kṣamī* — without hatred for any being, friendly and compassionate, forgiving. Because such love for all beings is what makes one dear to God, it is the reason a bhakti yogi cultivates it.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Narada Bhakti Sutra",
+  "references": [
+   "Bhagavad Gītā 12.13–20"
+  ],
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ],
+  "assertion": "एक भक्तियोगी सभी प्राणियों के प्रति प्रेमभाव रखता है।",
+  "reason": "जो व्यक्ति सभी प्राणियों के साथ प्रेम भावना, मित्रता, करुणा तथा क्षमाशीलता रखता है, वह भगवान का प्रिय होता है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q68",
+  "question_no": 68,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) both true, R explains A.**\n\nYS 2.31: *jāti-deśa-kāla-samayānavacchinnāḥ sārvabhaumā mahāvratam* — the yamas, not limited by birth, place, time or circumstance, are universal and called the **great vow**. Their universality is exactly why they are *mahā*-vrata.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yama and niyama and their siddhis",
+  "references": [
+   "Yoga Sūtra 2.30–2.31"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "assertion": "पांच यमों को महाव्रत के रूप में माना जाता है।",
+  "reason": "किसी भी वर्ग, स्थान और जीवन के किसी भी समय पर किसी भी व्यक्ति द्वारा पांचों यमों का अभ्यास किया जा सकता है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q69",
+  "question_no": 69,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या नहीं है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) — both true, and R explains A (as worded in this paper).**\n\nYS 2.52–53: through prāṇāyāma ***tataḥ kṣīyate prakāśāvaraṇam*** (the covering of the light dwindles) and ***dhāraṇāsu ca yogyatā manasaḥ*** (the mind becomes fit for dhāraṇā). So R is the reason for A.\n\nIn this paper the wording of options (1) and (2) was swapped: (2) is the one that says R *is* the correct explanation.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "references": [
+   "Yoga Sūtra 2.52–2.53"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "assertion": "धारणा के अभ्यास से पूर्व प्राणायाम आवश्यक है।",
+  "reason": "प्राणायाम के अभ्यास से सत्य के प्रकाश का आवरण क्षय हो जाता है तथा मन धारणा के योग्य हो जाता है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q70",
+  "question_no": 70,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) both true, R explains A.**\n\nHaṭha Pradīpikā 2.4: *mala-ākulāsu nāḍīṣu māruto naiva madhyagaḥ | kathaṃ syād unmanībhāvaḥ kāryasiddhiḥ kathaṃ bhavet* — when the nāḍīs are full of impurities the breath cannot enter the central channel; how then can unmanī or success come? 2.5–6 therefore prescribe purifying the nāḍīs first.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "references": [
+   "Haṭha Pradīpikā 2.4–6"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "assertion": "कुम्भक के अभ्यास के पूर्व नाड़ी शोधन आवश्यक है।",
+  "reason": "मलपूरित नाड़ियों में प्राण का प्रवाह नहीं होता, जिससे उन्मनीभाव की प्राप्ति न होने के कारण साधना पूर्ण नहीं होती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q71",
+  "question_no": 71,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A true, R false.**\n\nMitāhāra is recommended for the yogi (A is true). But Haṭha Pradīpikā 1.58 defines it as pleasant, sweet food, offered to Śiva, eaten leaving **one quarter** (*caturthāṃśa-vivarjitaḥ*) of the stomach empty — not one third. Gheraṇḍa (5.22) fills half with food, a quarter with water and leaves a quarter for air.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "references": [
+   "Haṭha Pradīpikā 1.58",
+   "Gheraṇḍa Saṃhitā 5.22"
+  ],
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ],
+  "assertion": "योग अभ्यासी के लिए मिताहार का सुझाव दिया जाता है।",
+  "reason": "मिताहार का अर्थ होता है एक-तिहाई उदर को खाली रखना, जो योग साधना में सहायक होता है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q72",
+  "question_no": 72,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) both true, R explains A.**\n\nFrustration arises when a motive is blocked. In a **conflict** between two motives, satisfying one necessarily blocks the other, so the unfulfilled motive is frustrated. This is why conflict is a major source of frustration (alongside environmental and personal obstacles).",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: mental health and disorders",
+  "source_ids": [
+   "notes-psychology-handwritten"
+  ],
+  "assertion": "दो विपरीत उद्देश्यों के बीच संघर्ष कुण्ठा का प्रमुख स्रोत होता है।",
+  "reason": "जब दो उद्देश्यों के बीच संघर्ष होता है और एक उद्देश्य की संतुष्टि होती है तो दूसरे उद्देश्य को कुण्ठा होती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q74",
+  "question_no": 74,
+  "question_type": "assertion_reason",
+  "question_text": "नीचे दो कथन दिए गये हैं, जिनमें से एक अभिकथन (A) है और दूसरा तर्क (R) है। कथनों को पढ़िए और नीचे दिए गए कूट में से सही उत्तर चुनिए।",
+  "options": [
+   "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+   "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं है।",
+   "(A) सही है, परन्तु (R) गलत है।",
+   "(A) गलत है, परन्तु (R) सही है।"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) both true, R explains A.**\n\nIn the demonstration method the teacher shows the practice; seeing it done correctly communicates the posture, rhythm and alignment far better than words. That is why it is desirable for the teacher to demonstrate personally.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ],
+  "assertion": "योग के अभ्यास विशेष का प्रदर्शन स्वयं शिक्षक द्वारा किया जाना वांछनीय होता है।",
+  "reason": "स्वयं के प्रदर्शन द्वारा शिक्षक विद्यार्थियों से उत्तम ढंग से संवाद कर सकता है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q75",
+  "question_no": 75,
+  "question_type": "sequence",
+  "question_text": "सिद्ध सिद्धान्त पद्धति के अनुसार, निम्नलिखित चक्रों को आरोही क्रम में व्यवस्थित कीजिए",
+  "options": [
+   "(i), (iii), (ii), (iv), (v)",
+   "(ii), (v), (iv), (i), (iii)",
+   "(ii), (v), (iii), (iv), (i)",
+   "(iii), (ii), (iv), (i), (v)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (ii), (v), (iii), (iv), (i).**\n\nSiddha Siddhānta Paddhati 2.1–9 lists nine cakras from the base upward: ādhāra, svādhiṣṭhāna, maṇipūra, anāhata, **kaṇṭha** (5), **tālu** (6), **bhrū** (7), **nirvāṇa** (8, brahmarandhra) and **ākāśa** (9). So: kaṇṭha → tālu → bhrū → nirvāṇa → ākāśa.\n\n(The printed option misprints one code as \"(ii), (v), (ii)…\"; the intended order is this one.)",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "references": [
+   "Siddha Siddhānta Paddhati 2.1–9"
+  ],
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ],
+  "items": [
+   "आकाश चक्र",
+   "कण्ठ चक्र",
+   "भ्रू चक्र",
+   "निर्वाण चक्र",
+   "तालु चक्र"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q76",
+  "question_no": 76,
+  "question_type": "sequence",
+  "question_text": "लघु शंखप्रक्षालन की तकनीक में निम्नलिखित आसनों को उचित क्रम में व्यवस्थित कीजिए:",
+  "options": [
+   "(i), (ii), (iii), (v), (iv)",
+   "(i), (ii), (v), (iii), (iv)",
+   "(ii), (iii), (i), (v), (iv)",
+   "(ii), (i), (v), (iii), (iv)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii), (i), (v), (iii), (iv).**\n\nIn laghu (short) śaṅkhaprakṣālana, after drinking two glasses of warm saline water, five āsanas are done in this order, each about eight times: **tāḍāsana → tiryak tāḍāsana → kaṭi-chakrāsana → tiryak bhujaṅgāsana → udarākarṣaṇāsana**. The sequence opens the stomach, then the intestines, so the water passes through.\n\n(Option codes are partly misprinted in the scan; the sequence above is the intended answer.)",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "references": [
+   "Satyananda, Asana Pranayama Mudra Bandha: Shankhaprakshalana"
+  ],
+  "source_ids": [
+   "satyananda-asana-pranayama-mudra-bandha"
+  ],
+  "items": [
+   "तिर्यक ताड़ासन",
+   "ताड़ासन",
+   "तिर्यक भुजंगासन",
+   "उदराकर्षणासन",
+   "कटि चक्रासन"
+  ],
+  "item_style": "roman",
+  "prompt": "नीचे दिए गए कूट में से सही उत्तर को चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q82",
+  "question_no": 82,
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए और नीचे दिए कूट से सही उत्तर चुनिए",
+  "options": [
+   "(ii) (iv) (i) (iii)",
+   "(iii) (iv) (ii) (i)",
+   "(i) (ii) (iii) (iv)",
+   "(iv) (i) (iii) (ii)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (iii) (iv) (ii) (i).**\n\nNeuron → brain (nervous tissue); cornea → eye; nephron → kidney (its functional unit); alveoli → lungs (where gas exchange happens).",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: cell and tissues",
+  "source_ids": [
+   "anatomy-physiology-texts-and-notes"
+  ],
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "न्यूरॉन",
+     "कॉर्निया",
+     "नेफ्रॉन",
+     "एल्वियोल्स"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "फेफड़े",
+     "गुर्दे",
+     "मस्तिष्क",
+     "आँखें"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट से सही उत्तर चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q86",
+  "question_no": 86,
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए और नीचे दिए कूट से सही उत्तर चुनिए",
+  "options": [
+   "(i) (iii) (ii) (iv)",
+   "(i) (ii) (iv) (iii)",
+   "(iii) (i) (iv) (ii)",
+   "(iii) (i) (ii) (iv)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (iii) (i) (iv) (ii).**\n\nIn Sāṃkhya each great element carries its special quality (*tanmātra*): ākāśa–śabda, **vāyu–sparśa** (touch), **agni–rūpa** (form), **jala–rasa** (taste), **pṛthvī–gandha** (smell).\n\n(The printed code of option 3 misprints the last entry as \"(i)\"; the intended code is (iii) (i) (iv) (ii).)",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "references": [
+   "Sāṃkhya Kārikā 22, 38"
+  ],
+  "source_ids": [
+   "colebrooke-wilson-1837-sankhya-karika"
+  ],
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "वायु महाभूत",
+     "जल महाभूत",
+     "अग्नि महाभूत",
+     "पृथ्वी महाभूत"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "रस",
+     "गन्ध",
+     "स्पर्श",
+     "रूप"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट से सही उत्तर चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q87",
+  "question_no": 87,
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए और नीचे दिए कूट से सही उत्तर चुनिए",
+  "options": [
+   "(iii) (iv) (ii) (i)",
+   "(iv) (iii) (i) (ii)",
+   "(ii) (iii) (iv) (i)",
+   "(iii) (iv) (i) (ii)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (iii) (iv) (i) (ii).**\n\nYoga Sūtra 2.42–45:\n- santoṣa → *anuttamaḥ sukha-lābhaḥ* (unsurpassed happiness), 2.42\n- tapas → *kāyendriya-siddhiḥ* (perfection of body and senses), 2.43\n- svādhyāya → *iṣṭa-devatā-samprayogaḥ* (union with the chosen deity), 2.44\n- īśvara-praṇidhāna → *samādhi-siddhiḥ*, 2.45",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yama and niyama and their siddhis",
+  "references": [
+   "Yoga Sūtra 2.42–2.45"
+  ],
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "lists": {
+   "list_i": {
+    "title": "सूची-I",
+    "items": [
+     "संतोष",
+     "स्वाध्याय",
+     "ईश्वरप्रणिधान",
+     "तप"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II",
+    "items": [
+     "समाधिसिद्धिः",
+     "कायेन्द्रियसिद्धिः",
+     "अनुत्तमसुखलाभः",
+     "इष्टदेवतासम्प्रयोगः"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट से सही उत्तर चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q88",
+  "question_no": 88,
+  "question_type": "match",
+  "question_text": "सूची-I को सूची-II से सुमेलित कीजिए और नीचे दिए कूट से सही उत्तर चुनिए",
+  "options": [
+   "(i) (iii) (ii) (iv)",
+   "(ii) (iv) (i) (iii)",
+   "(iv) (ii) (i) (iii)",
+   "(ii) (iv) (iii) (i)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii) (iv) (iii) (i).**\n\n- **Ascendant** (vs. submissive): Gordon Allport's A–S reaction study\n- **Athletic** (with pyknic and asthenic/leptosome): Ernst Kretschmer's body types\n- **Introvert** (vs. extravert): Carl Jung\n- **Ectomorph** (with endomorph and mesomorph): William Sheldon's somatotypes",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "source_ids": [
+   "notes-psychology-handwritten"
+  ],
+  "lists": {
+   "list_i": {
+    "title": "सूची-I (व्यक्तित्व के प्रकार)",
+    "items": [
+     "एसेन्डेन्ट",
+     "एथलेटिक",
+     "इन्ट्रोवर्ट",
+     "एक्टोमॉर्फिक"
+    ]
+   },
+   "list_ii": {
+    "title": "सूची-II (प्रतिपादक)",
+    "items": [
+     "शेल्डन",
+     "आलपोर्ट",
+     "कार्ल युंग",
+     "क्रेशमर"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "नीचे दिए गए कूट से सही उत्तर चुनिए"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q89",
+  "question_no": 89,
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन-सा चित्त का घटक नहीं है?",
+  "options": [
+   "अहंकार",
+   "मन",
+   "वृत्ति",
+   "बुद्धि"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) वृत्ति.**\n\nThe passage names the three components of citta: **manas, buddhi and ahaṃkāra**. *Vṛttis* are the modifications that arise in citta (YS 1.2, 1.5), not one of its components.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Chitta-bhumis and chitta-vrittis",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "passage": "महर्षि पतंजलि के योग सूत्र में चार पादों या अध्यायों अर्थात् समाधि पाद, साधन पाद, विभूति पाद और कैवल्य पाद को सम्मिलित किया गया है। समाधि पाद में योग की परिभाषा, चित्त वृत्ति एवं समाधि के प्रकारों का वर्णन किया गया है। चित्त में तीन घटक होते हैं- मन, बुद्धि और अहंकार। योग चित्त वृत्तियों का निरोध है, जिसके परिणामस्वरूप आत्मा अपनी स्वाभाविक अवस्था को प्राप्त कर लेती है। अभ्यास और वैराग्य द्वारा चित्त वृत्तियों का निरोध हो सकता है। समाधि के दो मुख्य प्रकार सबीज और निर्बीज समाधि हैं। साधन पाद में क्रिया योग, पंच क्लेश और बहिरंग योग के चरणों का वर्णन किया गया है। इसमें पांच यम, पांच नियम, आसन, चार प्राणायाम व प्रत्याहार का साधक को होने वाले लाभों सहित विवरण दिया गया है। यमों को महाव्रत कहा जाता है क्योंकि ये किसी जाति, स्थान और समय तक सीमित नहीं होते हैं। महर्षि पतंजलि ने विभूति पाद में अंतरंग योग के चरणों अर्थात् धारणा, ध्यान और समाधि का वर्णन किया है। यदि इन तीनों का समान विषय में अभ्यास किया जाए तो उनको सामूहिक रूप में संयम के नाम से जाना जाता है। धारणा, ध्यान और समाधि निर्बीज समाधि का बहिरंग है। इस पाद में चित्त के परिणाम और विभूतियों के विभिन्न प्रकारों का वर्णन किया गया है। कैवल्य पाद में सिद्धियों की प्राप्ति के पाँच तरीकों, कर्म के चार प्रकारों और धर्ममेघसमाधि की भी चर्चा की गई है। विवेकख्याति कैवल्य की प्राप्ति का मुख्य उपाय है। कैवल्य अवस्था में योगी पुरुषार्थ से रहित होता है; गुण अपने उद्गम में लीन हो जाते हैं और आत्मा अपनी स्वयं की स्वाभाविक अवस्था में लौट जाती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q90",
+  "question_no": 90,
+  "question_type": "mcq",
+  "question_text": "'संयम' में क्या सम्मिलित नहीं है?",
+  "options": [
+   "ध्यान",
+   "कैवल्य",
+   "समाधि",
+   "धारणा"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) कैवल्य.**\n\nYS 3.4: *trayam ekatra saṃyamaḥ* — dhāraṇā, dhyāna and samādhi practised together on one object are called saṃyama. **Kaivalya** is the final goal (Kaivalya Pāda), not part of saṃyama.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "passage": "महर्षि पतंजलि के योग सूत्र में चार पादों या अध्यायों अर्थात् समाधि पाद, साधन पाद, विभूति पाद और कैवल्य पाद को सम्मिलित किया गया है। समाधि पाद में योग की परिभाषा, चित्त वृत्ति एवं समाधि के प्रकारों का वर्णन किया गया है। चित्त में तीन घटक होते हैं- मन, बुद्धि और अहंकार। योग चित्त वृत्तियों का निरोध है, जिसके परिणामस्वरूप आत्मा अपनी स्वाभाविक अवस्था को प्राप्त कर लेती है। अभ्यास और वैराग्य द्वारा चित्त वृत्तियों का निरोध हो सकता है। समाधि के दो मुख्य प्रकार सबीज और निर्बीज समाधि हैं। साधन पाद में क्रिया योग, पंच क्लेश और बहिरंग योग के चरणों का वर्णन किया गया है। इसमें पांच यम, पांच नियम, आसन, चार प्राणायाम व प्रत्याहार का साधक को होने वाले लाभों सहित विवरण दिया गया है। यमों को महाव्रत कहा जाता है क्योंकि ये किसी जाति, स्थान और समय तक सीमित नहीं होते हैं। महर्षि पतंजलि ने विभूति पाद में अंतरंग योग के चरणों अर्थात् धारणा, ध्यान और समाधि का वर्णन किया है। यदि इन तीनों का समान विषय में अभ्यास किया जाए तो उनको सामूहिक रूप में संयम के नाम से जाना जाता है। धारणा, ध्यान और समाधि निर्बीज समाधि का बहिरंग है। इस पाद में चित्त के परिणाम और विभूतियों के विभिन्न प्रकारों का वर्णन किया गया है। कैवल्य पाद में सिद्धियों की प्राप्ति के पाँच तरीकों, कर्म के चार प्रकारों और धर्ममेघसमाधि की भी चर्चा की गई है। विवेकख्याति कैवल्य की प्राप्ति का मुख्य उपाय है। कैवल्य अवस्था में योगी पुरुषार्थ से रहित होता है; गुण अपने उद्गम में लीन हो जाते हैं और आत्मा अपनी स्वयं की स्वाभाविक अवस्था में लौट जाती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q91",
+  "question_no": 91,
+  "question_type": "mcq",
+  "question_text": "पातंजल योग सूत्र का तीसरा पाद है",
+  "options": [
+   "साधन पाद",
+   "समाधि पाद",
+   "कैवल्य पाद",
+   "विभूति पाद"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) विभूति पाद.**\n\nThe four pādas in order: **samādhi** (51 sūtras), **sādhana** (55), **vibhūti** (55) and **kaivalya** (34). The third, vibhūti pāda, covers dhāraṇā, dhyāna, samādhi, saṃyama and the powers.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "passage": "महर्षि पतंजलि के योग सूत्र में चार पादों या अध्यायों अर्थात् समाधि पाद, साधन पाद, विभूति पाद और कैवल्य पाद को सम्मिलित किया गया है। समाधि पाद में योग की परिभाषा, चित्त वृत्ति एवं समाधि के प्रकारों का वर्णन किया गया है। चित्त में तीन घटक होते हैं- मन, बुद्धि और अहंकार। योग चित्त वृत्तियों का निरोध है, जिसके परिणामस्वरूप आत्मा अपनी स्वाभाविक अवस्था को प्राप्त कर लेती है। अभ्यास और वैराग्य द्वारा चित्त वृत्तियों का निरोध हो सकता है। समाधि के दो मुख्य प्रकार सबीज और निर्बीज समाधि हैं। साधन पाद में क्रिया योग, पंच क्लेश और बहिरंग योग के चरणों का वर्णन किया गया है। इसमें पांच यम, पांच नियम, आसन, चार प्राणायाम व प्रत्याहार का साधक को होने वाले लाभों सहित विवरण दिया गया है। यमों को महाव्रत कहा जाता है क्योंकि ये किसी जाति, स्थान और समय तक सीमित नहीं होते हैं। महर्षि पतंजलि ने विभूति पाद में अंतरंग योग के चरणों अर्थात् धारणा, ध्यान और समाधि का वर्णन किया है। यदि इन तीनों का समान विषय में अभ्यास किया जाए तो उनको सामूहिक रूप में संयम के नाम से जाना जाता है। धारणा, ध्यान और समाधि निर्बीज समाधि का बहिरंग है। इस पाद में चित्त के परिणाम और विभूतियों के विभिन्न प्रकारों का वर्णन किया गया है। कैवल्य पाद में सिद्धियों की प्राप्ति के पाँच तरीकों, कर्म के चार प्रकारों और धर्ममेघसमाधि की भी चर्चा की गई है। विवेकख्याति कैवल्य की प्राप्ति का मुख्य उपाय है। कैवल्य अवस्था में योगी पुरुषार्थ से रहित होता है; गुण अपने उद्गम में लीन हो जाते हैं और आत्मा अपनी स्वयं की स्वाभाविक अवस्था में लौट जाती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q92",
+  "question_no": 92,
+  "question_type": "mcq",
+  "question_text": "महर्षि पतंजलि ने कितने प्रकार के प्राणायाम का वर्णन किया है?",
+  "options": [
+   "दो",
+   "तीन",
+   "चार",
+   "पांच"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) चार.**\n\nYS 2.50 describes three: *bāhya* (external retention), *ābhyantara* (internal) and *stambha-vṛtti* (sudden suspension). YS 2.51 adds a **fourth** that goes beyond the external and internal (*bāhyābhyantara-viṣayākṣepī caturthaḥ*). The passage too speaks of \"four prāṇāyāmas\".",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "passage": "महर्षि पतंजलि के योग सूत्र में चार पादों या अध्यायों अर्थात् समाधि पाद, साधन पाद, विभूति पाद और कैवल्य पाद को सम्मिलित किया गया है। समाधि पाद में योग की परिभाषा, चित्त वृत्ति एवं समाधि के प्रकारों का वर्णन किया गया है। चित्त में तीन घटक होते हैं- मन, बुद्धि और अहंकार। योग चित्त वृत्तियों का निरोध है, जिसके परिणामस्वरूप आत्मा अपनी स्वाभाविक अवस्था को प्राप्त कर लेती है। अभ्यास और वैराग्य द्वारा चित्त वृत्तियों का निरोध हो सकता है। समाधि के दो मुख्य प्रकार सबीज और निर्बीज समाधि हैं। साधन पाद में क्रिया योग, पंच क्लेश और बहिरंग योग के चरणों का वर्णन किया गया है। इसमें पांच यम, पांच नियम, आसन, चार प्राणायाम व प्रत्याहार का साधक को होने वाले लाभों सहित विवरण दिया गया है। यमों को महाव्रत कहा जाता है क्योंकि ये किसी जाति, स्थान और समय तक सीमित नहीं होते हैं। महर्षि पतंजलि ने विभूति पाद में अंतरंग योग के चरणों अर्थात् धारणा, ध्यान और समाधि का वर्णन किया है। यदि इन तीनों का समान विषय में अभ्यास किया जाए तो उनको सामूहिक रूप में संयम के नाम से जाना जाता है। धारणा, ध्यान और समाधि निर्बीज समाधि का बहिरंग है। इस पाद में चित्त के परिणाम और विभूतियों के विभिन्न प्रकारों का वर्णन किया गया है। कैवल्य पाद में सिद्धियों की प्राप्ति के पाँच तरीकों, कर्म के चार प्रकारों और धर्ममेघसमाधि की भी चर्चा की गई है। विवेकख्याति कैवल्य की प्राप्ति का मुख्य उपाय है। कैवल्य अवस्था में योगी पुरुषार्थ से रहित होता है; गुण अपने उद्गम में लीन हो जाते हैं और आत्मा अपनी स्वयं की स्वाभाविक अवस्था में लौट जाती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q93",
+  "question_no": 93,
+  "question_type": "mcq",
+  "question_text": "पंच क्लेश का किस पाद में वर्णन किया है?",
+  "options": [
+   "साधन पाद",
+   "समाधि पाद",
+   "कैवल्य पाद",
+   "विभूति पाद"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) साधन पाद.**\n\nThe five kleśas — avidyā, asmitā, rāga, dveṣa, abhiniveśa — are set out in **sādhana pāda** (YS 2.3–2.9), right after kriyā yoga, whose purpose is to weaken them (2.2).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kleshas and their removal",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "passage": "महर्षि पतंजलि के योग सूत्र में चार पादों या अध्यायों अर्थात् समाधि पाद, साधन पाद, विभूति पाद और कैवल्य पाद को सम्मिलित किया गया है। समाधि पाद में योग की परिभाषा, चित्त वृत्ति एवं समाधि के प्रकारों का वर्णन किया गया है। चित्त में तीन घटक होते हैं- मन, बुद्धि और अहंकार। योग चित्त वृत्तियों का निरोध है, जिसके परिणामस्वरूप आत्मा अपनी स्वाभाविक अवस्था को प्राप्त कर लेती है। अभ्यास और वैराग्य द्वारा चित्त वृत्तियों का निरोध हो सकता है। समाधि के दो मुख्य प्रकार सबीज और निर्बीज समाधि हैं। साधन पाद में क्रिया योग, पंच क्लेश और बहिरंग योग के चरणों का वर्णन किया गया है। इसमें पांच यम, पांच नियम, आसन, चार प्राणायाम व प्रत्याहार का साधक को होने वाले लाभों सहित विवरण दिया गया है। यमों को महाव्रत कहा जाता है क्योंकि ये किसी जाति, स्थान और समय तक सीमित नहीं होते हैं। महर्षि पतंजलि ने विभूति पाद में अंतरंग योग के चरणों अर्थात् धारणा, ध्यान और समाधि का वर्णन किया है। यदि इन तीनों का समान विषय में अभ्यास किया जाए तो उनको सामूहिक रूप में संयम के नाम से जाना जाता है। धारणा, ध्यान और समाधि निर्बीज समाधि का बहिरंग है। इस पाद में चित्त के परिणाम और विभूतियों के विभिन्न प्रकारों का वर्णन किया गया है। कैवल्य पाद में सिद्धियों की प्राप्ति के पाँच तरीकों, कर्म के चार प्रकारों और धर्ममेघसमाधि की भी चर्चा की गई है। विवेकख्याति कैवल्य की प्राप्ति का मुख्य उपाय है। कैवल्य अवस्था में योगी पुरुषार्थ से रहित होता है; गुण अपने उद्गम में लीन हो जाते हैं और आत्मा अपनी स्वयं की स्वाभाविक अवस्था में लौट जाती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q94",
+  "question_no": 94,
+  "question_type": "mcq",
+  "question_text": "निम्नलिखित में से कौन-सा सिद्धि की प्राप्ति का तरीका नहीं है?",
+  "options": [
+   "औषधि",
+   "मंत्र",
+   "तप",
+   "जप"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) जप.**\n\nYS 4.1: *janmauṣadhi-mantra-tapaḥ-samādhijāḥ siddhayaḥ* — siddhis arise from **birth, herbs, mantra, austerity and samādhi**. *Japa* is not named as a separate source (mantra is).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "source_ids": [
+   "woods-1914-yoga-system"
+  ],
+  "passage": "महर्षि पतंजलि के योग सूत्र में चार पादों या अध्यायों अर्थात् समाधि पाद, साधन पाद, विभूति पाद और कैवल्य पाद को सम्मिलित किया गया है। समाधि पाद में योग की परिभाषा, चित्त वृत्ति एवं समाधि के प्रकारों का वर्णन किया गया है। चित्त में तीन घटक होते हैं- मन, बुद्धि और अहंकार। योग चित्त वृत्तियों का निरोध है, जिसके परिणामस्वरूप आत्मा अपनी स्वाभाविक अवस्था को प्राप्त कर लेती है। अभ्यास और वैराग्य द्वारा चित्त वृत्तियों का निरोध हो सकता है। समाधि के दो मुख्य प्रकार सबीज और निर्बीज समाधि हैं। साधन पाद में क्रिया योग, पंच क्लेश और बहिरंग योग के चरणों का वर्णन किया गया है। इसमें पांच यम, पांच नियम, आसन, चार प्राणायाम व प्रत्याहार का साधक को होने वाले लाभों सहित विवरण दिया गया है। यमों को महाव्रत कहा जाता है क्योंकि ये किसी जाति, स्थान और समय तक सीमित नहीं होते हैं। महर्षि पतंजलि ने विभूति पाद में अंतरंग योग के चरणों अर्थात् धारणा, ध्यान और समाधि का वर्णन किया है। यदि इन तीनों का समान विषय में अभ्यास किया जाए तो उनको सामूहिक रूप में संयम के नाम से जाना जाता है। धारणा, ध्यान और समाधि निर्बीज समाधि का बहिरंग है। इस पाद में चित्त के परिणाम और विभूतियों के विभिन्न प्रकारों का वर्णन किया गया है। कैवल्य पाद में सिद्धियों की प्राप्ति के पाँच तरीकों, कर्म के चार प्रकारों और धर्ममेघसमाधि की भी चर्चा की गई है। विवेकख्याति कैवल्य की प्राप्ति का मुख्य उपाय है। कैवल्य अवस्था में योगी पुरुषार्थ से रहित होता है; गुण अपने उद्गम में लीन हो जाते हैं और आत्मा अपनी स्वयं की स्वाभाविक अवस्था में लौट जाती है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q95",
+  "question_no": 95,
+  "question_type": "mcq",
+  "question_text": "किस कोश में अविद्या का क्रमशः ह्रास होता है?",
+  "options": [
+   "अन्नमय कोश में",
+   "प्राणमय कोश में",
+   "मनोमय कोश में",
+   "विज्ञानमय कोश में"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) विज्ञानमय कोश में.**\n\nThe passage says that in the **vijñānamaya kośa** ignorance (*avidyā*) gradually wanes, and in the ānandamaya kośa it is transformed into bliss.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "references": [
+   "Taittirīya Upaniṣad 2.1–2.5"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "passage": "आधुनिकीकरण के इस युग में अत्यधिक गति और आवश्यकतामूलक परिस्थितियों के कारण असन्तुलन एवं तनाव उत्पन्न होता है, जिसके परिणामस्वरूप विभिन्न प्रकार की बीमारियाँ होती हैं। अति पसन्द और नापसन्द के कारण भावात्मक स्तर पर असन्तुलन से आवेग प्रकट होते हैं। मनोवैज्ञानिक स्तर पर होने वाले असन्तुलन द्वन्द्व को जन्म देते हैं और बहुत बार संकीर्ण अहं-केन्द्रित व्यवहार के रूप में प्रदर्शित होते हैं। सूक्ष्म स्तर पर असन्तुलित दृष्टिकोण और समग्र ज्ञान का अभाव स्थूल स्तर पर असन्तुलन के लिए जिम्मेदार होते हैं। अतः तनाव को समझते समय मात्र शारीरिक अस्तित्व के स्थान पर व्यक्ति की समग्रता की अवधारणा को ध्यान में रखना चाहिए। तैत्तिरीय उपनिषद् में व्यक्ति की समग्रता की अवधारणा को सुव्यवस्थित ढंग से पाँच प्रमुख आवरण अथवा पंचकोश के रूप में बताया गया है। आधुनिक चिकित्सा विज्ञान के अन्तर्गत तनाव को शरीर के तंत्रिका-अंतःस्रावी तंत्र में असन्तुलन के रूप में जाना एवं समझा जाता है। अति पसन्द और नापसन्द से सम्बद्ध भावात्मक असन्तुलन प्राणमय कोश में स्थित प्राण (जैविक ऊर्जा) में असन्तुलन का कारण होता है, जो अन्ततोगत्वा अन्नमय कोश में तनाव एवं बीमारियों में परिवर्तित होता है। उचित और अनुचित का विचार किए बिना इच्छाओं की उत्पत्ति एवं तद्नुरूप कार्य मनोमय कोश के असन्तुलन के रूप में प्रदर्शित होते हैं। विज्ञानमय कोश में अविद्या का क्रमिक ह्रास होता है और आनन्दमय कोश में जाकर यह आनन्द के रूप में परिवर्तित हो जाती है। यह स्थिति पूर्णरूपेण तनावमुक्त की स्थिति होती है। जीवन के सभी असन्तुलन को दूर कर प्रसन्नता एवं आनन्द प्राप्त करने हेतु योग एक वरदान है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q96",
+  "question_no": 96,
+  "question_type": "mcq",
+  "question_text": "भावात्मक स्तर पर असन्तुलन किस रूप में प्रकट होते हैं?",
+  "options": [
+   "आवेग",
+   "द्वंद्व",
+   "प्रसन्नता",
+   "आनन्द"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) आवेग.**\n\nPer the passage, strong likes and dislikes cause imbalance at the **emotional** level, which shows as **impulses** (*āveg*). Imbalance at the psychological level gives rise to conflict (*dvandva*).",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "references": [
+   "Taittirīya Upaniṣad 2.1–2.5"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "passage": "आधुनिकीकरण के इस युग में अत्यधिक गति और आवश्यकतामूलक परिस्थितियों के कारण असन्तुलन एवं तनाव उत्पन्न होता है, जिसके परिणामस्वरूप विभिन्न प्रकार की बीमारियाँ होती हैं। अति पसन्द और नापसन्द के कारण भावात्मक स्तर पर असन्तुलन से आवेग प्रकट होते हैं। मनोवैज्ञानिक स्तर पर होने वाले असन्तुलन द्वन्द्व को जन्म देते हैं और बहुत बार संकीर्ण अहं-केन्द्रित व्यवहार के रूप में प्रदर्शित होते हैं। सूक्ष्म स्तर पर असन्तुलित दृष्टिकोण और समग्र ज्ञान का अभाव स्थूल स्तर पर असन्तुलन के लिए जिम्मेदार होते हैं। अतः तनाव को समझते समय मात्र शारीरिक अस्तित्व के स्थान पर व्यक्ति की समग्रता की अवधारणा को ध्यान में रखना चाहिए। तैत्तिरीय उपनिषद् में व्यक्ति की समग्रता की अवधारणा को सुव्यवस्थित ढंग से पाँच प्रमुख आवरण अथवा पंचकोश के रूप में बताया गया है। आधुनिक चिकित्सा विज्ञान के अन्तर्गत तनाव को शरीर के तंत्रिका-अंतःस्रावी तंत्र में असन्तुलन के रूप में जाना एवं समझा जाता है। अति पसन्द और नापसन्द से सम्बद्ध भावात्मक असन्तुलन प्राणमय कोश में स्थित प्राण (जैविक ऊर्जा) में असन्तुलन का कारण होता है, जो अन्ततोगत्वा अन्नमय कोश में तनाव एवं बीमारियों में परिवर्तित होता है। उचित और अनुचित का विचार किए बिना इच्छाओं की उत्पत्ति एवं तद्नुरूप कार्य मनोमय कोश के असन्तुलन के रूप में प्रदर्शित होते हैं। विज्ञानमय कोश में अविद्या का क्रमिक ह्रास होता है और आनन्दमय कोश में जाकर यह आनन्द के रूप में परिवर्तित हो जाती है। यह स्थिति पूर्णरूपेण तनावमुक्त की स्थिति होती है। जीवन के सभी असन्तुलन को दूर कर प्रसन्नता एवं आनन्द प्राप्त करने हेतु योग एक वरदान है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q97",
+  "question_no": 97,
+  "question_type": "mcq",
+  "question_text": "पूर्णरूपेण तनावमुक्त अवस्था किस कोश के स्तर पर प्रकट होती है?",
+  "options": [
+   "अन्नमय कोश",
+   "आनन्दमय कोश",
+   "विज्ञानमय कोश",
+   "मनोमय कोश"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) आनन्दमय कोश.**\n\nThe passage: in the **ānandamaya kośa** avidyā turns into bliss, \"and this is the state of complete freedom from stress\".",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "references": [
+   "Taittirīya Upaniṣad 2.1–2.5"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "passage": "आधुनिकीकरण के इस युग में अत्यधिक गति और आवश्यकतामूलक परिस्थितियों के कारण असन्तुलन एवं तनाव उत्पन्न होता है, जिसके परिणामस्वरूप विभिन्न प्रकार की बीमारियाँ होती हैं। अति पसन्द और नापसन्द के कारण भावात्मक स्तर पर असन्तुलन से आवेग प्रकट होते हैं। मनोवैज्ञानिक स्तर पर होने वाले असन्तुलन द्वन्द्व को जन्म देते हैं और बहुत बार संकीर्ण अहं-केन्द्रित व्यवहार के रूप में प्रदर्शित होते हैं। सूक्ष्म स्तर पर असन्तुलित दृष्टिकोण और समग्र ज्ञान का अभाव स्थूल स्तर पर असन्तुलन के लिए जिम्मेदार होते हैं। अतः तनाव को समझते समय मात्र शारीरिक अस्तित्व के स्थान पर व्यक्ति की समग्रता की अवधारणा को ध्यान में रखना चाहिए। तैत्तिरीय उपनिषद् में व्यक्ति की समग्रता की अवधारणा को सुव्यवस्थित ढंग से पाँच प्रमुख आवरण अथवा पंचकोश के रूप में बताया गया है। आधुनिक चिकित्सा विज्ञान के अन्तर्गत तनाव को शरीर के तंत्रिका-अंतःस्रावी तंत्र में असन्तुलन के रूप में जाना एवं समझा जाता है। अति पसन्द और नापसन्द से सम्बद्ध भावात्मक असन्तुलन प्राणमय कोश में स्थित प्राण (जैविक ऊर्जा) में असन्तुलन का कारण होता है, जो अन्ततोगत्वा अन्नमय कोश में तनाव एवं बीमारियों में परिवर्तित होता है। उचित और अनुचित का विचार किए बिना इच्छाओं की उत्पत्ति एवं तद्नुरूप कार्य मनोमय कोश के असन्तुलन के रूप में प्रदर्शित होते हैं। विज्ञानमय कोश में अविद्या का क्रमिक ह्रास होता है और आनन्दमय कोश में जाकर यह आनन्द के रूप में परिवर्तित हो जाती है। यह स्थिति पूर्णरूपेण तनावमुक्त की स्थिति होती है। जीवन के सभी असन्तुलन को दूर कर प्रसन्नता एवं आनन्द प्राप्त करने हेतु योग एक वरदान है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q98",
+  "question_no": 98,
+  "question_type": "mcq",
+  "question_text": "आधुनिक चिकित्सा विज्ञान के अनुसार तनाव किसके असन्तुलन से होता है?",
+  "options": [
+   "तंत्रिकीय-परिसंचरण तंत्र",
+   "तंत्रिकीय-अंतःस्रावी तंत्र",
+   "रक्त परिवहन तंत्र",
+   "तंत्रिकीय-पेशीय तंत्र"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) तंत्रिकीय-अंतःस्रावी तंत्र.**\n\nThe passage states that modern medicine understands stress as an imbalance in the **neuro-endocrine system** — the hypothalamus–pituitary–adrenal axis and the sympathetic nervous system.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "references": [
+   "Taittirīya Upaniṣad 2.1–2.5"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "passage": "आधुनिकीकरण के इस युग में अत्यधिक गति और आवश्यकतामूलक परिस्थितियों के कारण असन्तुलन एवं तनाव उत्पन्न होता है, जिसके परिणामस्वरूप विभिन्न प्रकार की बीमारियाँ होती हैं। अति पसन्द और नापसन्द के कारण भावात्मक स्तर पर असन्तुलन से आवेग प्रकट होते हैं। मनोवैज्ञानिक स्तर पर होने वाले असन्तुलन द्वन्द्व को जन्म देते हैं और बहुत बार संकीर्ण अहं-केन्द्रित व्यवहार के रूप में प्रदर्शित होते हैं। सूक्ष्म स्तर पर असन्तुलित दृष्टिकोण और समग्र ज्ञान का अभाव स्थूल स्तर पर असन्तुलन के लिए जिम्मेदार होते हैं। अतः तनाव को समझते समय मात्र शारीरिक अस्तित्व के स्थान पर व्यक्ति की समग्रता की अवधारणा को ध्यान में रखना चाहिए। तैत्तिरीय उपनिषद् में व्यक्ति की समग्रता की अवधारणा को सुव्यवस्थित ढंग से पाँच प्रमुख आवरण अथवा पंचकोश के रूप में बताया गया है। आधुनिक चिकित्सा विज्ञान के अन्तर्गत तनाव को शरीर के तंत्रिका-अंतःस्रावी तंत्र में असन्तुलन के रूप में जाना एवं समझा जाता है। अति पसन्द और नापसन्द से सम्बद्ध भावात्मक असन्तुलन प्राणमय कोश में स्थित प्राण (जैविक ऊर्जा) में असन्तुलन का कारण होता है, जो अन्ततोगत्वा अन्नमय कोश में तनाव एवं बीमारियों में परिवर्तित होता है। उचित और अनुचित का विचार किए बिना इच्छाओं की उत्पत्ति एवं तद्नुरूप कार्य मनोमय कोश के असन्तुलन के रूप में प्रदर्शित होते हैं। विज्ञानमय कोश में अविद्या का क्रमिक ह्रास होता है और आनन्दमय कोश में जाकर यह आनन्द के रूप में परिवर्तित हो जाती है। यह स्थिति पूर्णरूपेण तनावमुक्त की स्थिति होती है। जीवन के सभी असन्तुलन को दूर कर प्रसन्नता एवं आनन्द प्राप्त करने हेतु योग एक वरदान है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q99",
+  "question_no": 99,
+  "question_type": "mcq",
+  "question_text": "आनन्द की अवस्था प्राप्त की जा सकती है",
+  "options": [
+   "अभ्यास से",
+   "मालिश से",
+   "योग से",
+   "नृत्य से"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) योग से.**\n\nThe passage ends: to remove all of life's imbalances and attain happiness and bliss, **yoga** is a boon.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "references": [
+   "Taittirīya Upaniṣad 2.1–2.5"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "passage": "आधुनिकीकरण के इस युग में अत्यधिक गति और आवश्यकतामूलक परिस्थितियों के कारण असन्तुलन एवं तनाव उत्पन्न होता है, जिसके परिणामस्वरूप विभिन्न प्रकार की बीमारियाँ होती हैं। अति पसन्द और नापसन्द के कारण भावात्मक स्तर पर असन्तुलन से आवेग प्रकट होते हैं। मनोवैज्ञानिक स्तर पर होने वाले असन्तुलन द्वन्द्व को जन्म देते हैं और बहुत बार संकीर्ण अहं-केन्द्रित व्यवहार के रूप में प्रदर्शित होते हैं। सूक्ष्म स्तर पर असन्तुलित दृष्टिकोण और समग्र ज्ञान का अभाव स्थूल स्तर पर असन्तुलन के लिए जिम्मेदार होते हैं। अतः तनाव को समझते समय मात्र शारीरिक अस्तित्व के स्थान पर व्यक्ति की समग्रता की अवधारणा को ध्यान में रखना चाहिए। तैत्तिरीय उपनिषद् में व्यक्ति की समग्रता की अवधारणा को सुव्यवस्थित ढंग से पाँच प्रमुख आवरण अथवा पंचकोश के रूप में बताया गया है। आधुनिक चिकित्सा विज्ञान के अन्तर्गत तनाव को शरीर के तंत्रिका-अंतःस्रावी तंत्र में असन्तुलन के रूप में जाना एवं समझा जाता है। अति पसन्द और नापसन्द से सम्बद्ध भावात्मक असन्तुलन प्राणमय कोश में स्थित प्राण (जैविक ऊर्जा) में असन्तुलन का कारण होता है, जो अन्ततोगत्वा अन्नमय कोश में तनाव एवं बीमारियों में परिवर्तित होता है। उचित और अनुचित का विचार किए बिना इच्छाओं की उत्पत्ति एवं तद्नुरूप कार्य मनोमय कोश के असन्तुलन के रूप में प्रदर्शित होते हैं। विज्ञानमय कोश में अविद्या का क्रमिक ह्रास होता है और आनन्दमय कोश में जाकर यह आनन्द के रूप में परिवर्तित हो जाती है। यह स्थिति पूर्णरूपेण तनावमुक्त की स्थिति होती है। जीवन के सभी असन्तुलन को दूर कर प्रसन्नता एवं आनन्द प्राप्त करने हेतु योग एक वरदान है।"
+ },
+ {
+  "subject": "yoga",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "source": {
+   "type": "official",
+   "note": "UGC NET (NTA) December 2018 (the first NTA computer-based exam, held 18–22 December 2018), Yoga (100), Paper 2: 100 questions, Hindi version. Transcribed from a published solved-papers collection of past UGC NET Yoga papers (shared Drive folder \"My book's\": all previous net yog paper_240221_191503.pdf). Answers were worked out independently from the primary texts and checked against that collection's key; explanations are new. Left out: Q12 and Q26 (cancelled by NTA), and items whose options or answer codes are garbled in the scan or whose intended answer could not be settled (Q17, Q37, Q40, Q43, Q47, Q48, Q52, Q53, Q65, Q73, Q77–Q81, Q83–Q85). In Q59 the collection's answer letter contradicts its own explanation; the answer from Gheraṇḍa Saṃhitā is used. In Q75, Q76 and Q86 an obvious misprint in one option's code is corrected."
+  },
+  "answer_source": "cross_checked",
+  "id": "YOGA-2018DEC-P2-Q100",
+  "question_no": 100,
+  "question_type": "mcq",
+  "question_text": "पाँच मुख्य आवरणों के रूप में मनुष्य की समग्रता की अवधारणा किस उपनिषद् में उल्लिखित है?",
+  "options": [
+   "कठोपनिषद्",
+   "छान्दोग्योपनिषद्",
+   "माण्डूक्योपनिषद्",
+   "तैत्तिरीय उपनिषद्"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) तैत्तिरीय उपनिषद्.**\n\nThe **pañca-kośa** model — annamaya, prāṇamaya, manomaya, vijñānamaya and ānandamaya — comes from the **Taittirīya Upaniṣad**, Brahmānanda Vallī (2.1–2.5), as the passage says.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "references": [
+   "Taittirīya Upaniṣad 2.1–2.5"
+  ],
+  "source_ids": [
+   "muller-upanishads"
+  ],
+  "passage": "आधुनिकीकरण के इस युग में अत्यधिक गति और आवश्यकतामूलक परिस्थितियों के कारण असन्तुलन एवं तनाव उत्पन्न होता है, जिसके परिणामस्वरूप विभिन्न प्रकार की बीमारियाँ होती हैं। अति पसन्द और नापसन्द के कारण भावात्मक स्तर पर असन्तुलन से आवेग प्रकट होते हैं। मनोवैज्ञानिक स्तर पर होने वाले असन्तुलन द्वन्द्व को जन्म देते हैं और बहुत बार संकीर्ण अहं-केन्द्रित व्यवहार के रूप में प्रदर्शित होते हैं। सूक्ष्म स्तर पर असन्तुलित दृष्टिकोण और समग्र ज्ञान का अभाव स्थूल स्तर पर असन्तुलन के लिए जिम्मेदार होते हैं। अतः तनाव को समझते समय मात्र शारीरिक अस्तित्व के स्थान पर व्यक्ति की समग्रता की अवधारणा को ध्यान में रखना चाहिए। तैत्तिरीय उपनिषद् में व्यक्ति की समग्रता की अवधारणा को सुव्यवस्थित ढंग से पाँच प्रमुख आवरण अथवा पंचकोश के रूप में बताया गया है। आधुनिक चिकित्सा विज्ञान के अन्तर्गत तनाव को शरीर के तंत्रिका-अंतःस्रावी तंत्र में असन्तुलन के रूप में जाना एवं समझा जाता है। अति पसन्द और नापसन्द से सम्बद्ध भावात्मक असन्तुलन प्राणमय कोश में स्थित प्राण (जैविक ऊर्जा) में असन्तुलन का कारण होता है, जो अन्ततोगत्वा अन्नमय कोश में तनाव एवं बीमारियों में परिवर्तित होता है। उचित और अनुचित का विचार किए बिना इच्छाओं की उत्पत्ति एवं तद्नुरूप कार्य मनोमय कोश के असन्तुलन के रूप में प्रदर्शित होते हैं। विज्ञानमय कोश में अविद्या का क्रमिक ह्रास होता है और आनन्दमय कोश में जाकर यह आनन्द के रूप में परिवर्तित हो जाती है। यह स्थिति पूर्णरूपेण तनावमुक्त की स्थिति होती है। जीवन के सभी असन्तुलन को दूर कर प्रसन्नता एवं आनन्द प्राप्त करने हेतु योग एक वरदान है।"
+ }
+]
