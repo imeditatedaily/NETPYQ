@@ -1,0 +1,868 @@
+[
+ {
+  "id": "YOGA-PRAC11-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Concepts of health (WHO, Ayurveda)",
+  "question_type": "mcq",
+  "question_text": "In which year did the WHO define health, and in how many dimensions did that definition describe it?",
+  "options": [
+   "1946; three — physical, mental and social",
+   "1948; four",
+   "1950; two",
+   "1978; five"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The WHO Constitution, adopted in 1946 (in force 1948), defines health as a state of complete physical, mental and social well-being, not merely the absence of disease or infirmity. Spiritual health is often added as a fourth dimension in yoga literature."
+ },
+ {
+  "id": "YOGA-PRAC11-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Concepts of health (WHO, Ayurveda)",
+  "question_type": "mcq",
+  "question_text": "Complete the Sushruta Samhita definition of health: 'समदोषः समाग्निश्च समधातुमलक्रियः। प्रसन्नात्मेन्द्रियमनाः स्वस्थ इत्यभिधीयते॥'. The quality that follows samadosha is",
+  "options": [
+   "samavayah",
+   "samagnih (balanced digestive fire)",
+   "samapittah",
+   "none of these"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Sushruta Sutrasthana 15.41 (15.48 in some editions): balanced doshas, balanced agni, balanced dhatus and excretions, and a pleased self, senses and mind make a person healthy."
+ },
+ {
+  "id": "YOGA-PRAC11-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "Which pair of elements makes up kapha dosha in Ayurveda?",
+  "options": [
+   "Space and air",
+   "Fire and water",
+   "Earth and water",
+   "Air and earth"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Vata is space + air, pitta is fire (+ water), kapha is earth + water."
+ },
+ {
+  "id": "YOGA-PRAC11-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "match",
+  "question_text": "Match the three doshas with their main function.",
+  "options": [
+   "A-iii, B-i, C-ii",
+   "A-ii, B-iii, C-i",
+   "A-i, B-ii, C-iii",
+   "A-iii, B-ii, C-i"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Vata governs movement, pitta transformation and metabolism, and kapha structure, cohesion and nourishment.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Vata",
+     "Pitta",
+     "Kapha"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Digestion and transformation (catabolism)",
+     "Structure and lubrication (anabolism)",
+     "Movement"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC11-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "How many dhatus (body tissues) does Ayurveda describe?",
+  "options": [
+   "Five",
+   "Seven",
+   "Eleven",
+   "Twenty-one"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Seven** — rasa, rakta, mamsa, medas, asthi, majja and shukra. The three malas are urine, faeces and sweat."
+ },
+ {
+  "id": "YOGA-PRAC11-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions",
+  "question_type": "mcq",
+  "question_text": "In the yogic view of disease (Yoga Vasishtha), 'adhi' means",
+  "options": [
+   "physical disease",
+   "mental disturbance",
+   "psychosomatic disease",
+   "disease due to karma"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Adhi is mental disturbance; when it spreads into the body it becomes vyadhi (physical disease). Diseases born of adhi are *ādhija*; those of purely physical origin are *anādhija*."
+ },
+ {
+  "id": "YOGA-PRAC11-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "question_type": "match",
+  "question_text": "Match the five pranas with their main seats.",
+  "options": [
+   "A-iv, B-iii, C-i, D-ii",
+   "A-iii, B-iv, C-i, D-ii",
+   "A-i, B-iii, C-iv, D-ii",
+   "A-iv, B-ii, C-i, D-iii"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Prana in the chest, apana in the pelvis, udana in the throat, samana at the navel, and vyana pervading the body.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Prana",
+     "Apana",
+     "Udana",
+     "Samana"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Throat",
+     "Navel",
+     "Anus (pelvis)",
+     "Heart (chest)"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC11-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "question_type": "mcq",
+  "question_text": "Which upaprana is responsible for yawning?",
+  "options": [
+   "Naga",
+   "Kurma",
+   "Krikala",
+   "Devadatta"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Devadatta.** Naga — belching; kurma — blinking; krikala — hunger, thirst and sneezing; dhananjaya — pervades the body and remains after death."
+ },
+ {
+  "id": "YOGA-PRAC11-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "question_type": "mcq",
+  "question_text": "Which vayu is said to pervade the whole body, holding its stored energy and coordinating movement?",
+  "options": [
+   "Prana",
+   "Apana",
+   "Udana",
+   "Vyana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Vyana**, the all-pervading circulating force."
+ },
+ {
+  "id": "YOGA-PRAC11-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "match",
+  "question_text": "Match the chakras with their elements.",
+  "options": [
+   "A-iv, B-v, C-ii, D-i, E-iii",
+   "A-ii, B-iv, C-v, D-i, E-iii",
+   "A-iv, B-ii, C-i, D-v, E-iii",
+   "A-iv, B-ii, C-v, D-i, E-iii"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Earth (lam), water (vam), fire (ram), air (yam), space (ham). Ajna is beyond the elements (mind).",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Muladhara",
+     "Svadhishthana",
+     "Manipura",
+     "Anahata",
+     "Vishuddhi"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Air",
+     "Water",
+     "Space",
+     "Earth",
+     "Fire"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC11-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "mcq",
+  "question_text": "The bija mantra of the anahata (heart) chakra is",
+  "options": [
+   "लं",
+   "यं",
+   "हं",
+   "रं"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Yam**, the seed of air. Lam is muladhara, ram manipura and ham vishuddhi."
+ },
+ {
+  "id": "YOGA-PRAC11-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "mcq",
+  "question_text": "The yantra (shape) of the manipura chakra is",
+  "options": [
+   "a triangle",
+   "a hexagram",
+   "a square",
+   "a circle"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A downward-pointing triangle**, red, for fire. Muladhara is a yellow square; svadhishthana a white crescent; anahata a hexagram (two triangles); vishuddhi a circle."
+ },
+ {
+  "id": "YOGA-PRAC11-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "mcq",
+  "question_text": "How many petals does the vishuddhi chakra have?",
+  "options": [
+   "4",
+   "8",
+   "12",
+   "16"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Sixteen.** Muladhara 4, svadhishthana 6, manipura 10, anahata 12, vishuddhi 16, ajna 2, sahasrara 1,000."
+ },
+ {
+  "id": "YOGA-PRAC11-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "mcq",
+  "question_text": "The sense organ (jnanendriya) associated with the vishuddhi chakra is the",
+  "options": [
+   "nose",
+   "eye",
+   "skin",
+   "ear"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Ear**, since vishuddhi is the space element whose quality is sound. Muladhara–nose, svadhishthana–tongue, manipura–eye, anahata–skin."
+ },
+ {
+  "id": "YOGA-PRAC11-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "mcq",
+  "question_text": "The endocrine gland usually associated with the vishuddhi chakra is the",
+  "options": [
+   "adrenal",
+   "pituitary",
+   "thyroid",
+   "thymus"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Thyroid** (and parathyroids). Common correlations: muladhara–adrenals (some say gonads), svadhishthana–gonads, manipura–pancreas, anahata–thymus, ajna–pituitary, sahasrara–pineal. Correlations vary between authors."
+ },
+ {
+  "id": "YOGA-PRAC11-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "question_type": "match",
+  "question_text": "Match the koshas with what they consist of.",
+  "options": [
+   "A-iii, B-iv, C-ii, D-i",
+   "A-iv, B-ii, C-iii, D-i",
+   "A-i, B-iii, C-iv, D-ii",
+   "A-iv, B-iii, C-ii, D-i"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Taittiriya Upanishad 2.1–2.5: the self made of food, of vital breath, of mind, of understanding and of bliss. The suffix *-maya* means 'made of'.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Annamaya kosha",
+     "Pranamaya kosha",
+     "Manomaya kosha",
+     "Vijnanamaya kosha"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Intellect and discrimination",
+     "Thought and emotion",
+     "Vital energy",
+     "Food (the physical body)"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC11-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "question_type": "mcq",
+  "question_text": "Going from the gross to the subtle, the second sheath covering the Self is the",
+  "options": [
+   "annamaya kosha",
+   "pranamaya kosha",
+   "manomaya kosha",
+   "vijnanamaya kosha"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Pranamaya.** From the subtle to the gross, the second would be vijnanamaya (after anandamaya)."
+ },
+ {
+  "id": "YOGA-PRAC11-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions",
+  "question_type": "mcq",
+  "question_text": "In Samkhya and yoga, the word 'guna' in triguna literally means",
+  "options": [
+   "rope (strand)",
+   "intellect",
+   "ego",
+   "mind"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A strand or rope** — the three gunas are like the strands that twist together into the rope of prakriti and bind the Purusha."
+ },
+ {
+  "id": "YOGA-PRAC11-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a description of mitahara in the Hatha Pradipika?",
+  "options": [
+   "Pleasant and sweet food",
+   "Eating it as an offering to Shiva",
+   "Leaving a quarter of the stomach empty",
+   "Eating only once in two days"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** HP 1.58: *susnigdha-madhurāhāraś caturthāṃśa-vivarjitaḥ, bhujyate śiva-samprītyai mitāhāraḥ sa ucyate*."
+ },
+ {
+  "id": "YOGA-PRAC11-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "'युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु' — moderation in food, recreation and effort — is from",
+  "options": [
+   "the Ramayana",
+   "the Bhagavad Gita",
+   "the Gheranda Samhita",
+   "the Hatha Pradipika"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Bhagavad Gita 6.17.** For one moderate in food, recreation, action, sleep and waking, yoga destroys sorrow."
+ },
+ {
+  "id": "YOGA-PRAC11-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "The 'five greens' (pancha shaka) as yogic food are mentioned in",
+  "options": [
+   "the Gheranda Samhita",
+   "the Vasishtha Samhita",
+   "the Shiva Samhita",
+   "the Siddha Siddhanta Paddhati"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** GS 5.20: the five greens — balaramatika, kalashaka, patola, vastuka and himalochika — are suitable for the yogi. The Hatha Pradipika (1.62) also lists *pañca-śāka* among wholesome foods."
+ },
+ {
+  "id": "YOGA-PRAC11-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: energy and metabolism",
+  "question_type": "mcq",
+  "question_text": "How many kilocalories per gram do carbohydrate, protein and fat provide, respectively?",
+  "options": [
+   "4, 4 and 9",
+   "4, 9 and 4",
+   "9, 4 and 4",
+   "7, 4 and 9"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Atwater factors: carbohydrate 4 kcal/g (about 17 kJ), protein 4 kcal/g, fat 9 kcal/g. Alcohol gives 7 kcal/g."
+ },
+ {
+  "id": "YOGA-PRAC11-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Which of the following are micronutrients?",
+  "options": [
+   "Carbohydrates and proteins",
+   "Fat and fibre",
+   "Vitamins and minerals",
+   "Water and fibre"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Micronutrients are needed in milligram or microgram amounts. Macronutrients — carbohydrate, protein, fat (with fibre and water often added) — are needed in large amounts."
+ },
+ {
+  "id": "YOGA-PRAC11-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "In the body, excess glucose is stored mainly as glycogen in the",
+  "options": [
+   "kidneys",
+   "liver and skeletal muscle",
+   "heart",
+   "lungs"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Glycogen is the animal storage carbohydrate; starch is the plant storage carbohydrate, found in grains, potatoes and seeds."
+ },
+ {
+  "id": "YOGA-PRAC11-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Lactose, the sugar of mammalian milk, is a",
+  "options": [
+   "monosaccharide",
+   "disaccharide",
+   "polysaccharide",
+   "protein"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Disaccharide** (glucose + galactose). Sucrose is glucose + fructose and maltose is glucose + glucose; glucose and fructose are monosaccharides."
+ },
+ {
+  "id": "YOGA-PRAC11-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Which carbohydrate turns blue-black with iodine?",
+  "options": [
+   "Glucose",
+   "Maltose",
+   "Cellulose",
+   "Starch"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Starch** (its amylose fraction). Glycogen gives a reddish-brown colour."
+ },
+ {
+  "id": "YOGA-PRAC11-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Proteins are made of how many common amino acids, joined by which bonds?",
+  "options": [
+   "10, by ionic bonds",
+   "20, by peptide bonds",
+   "20, by glycosidic bonds",
+   "8, by hydrogen bonds"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Twenty amino acids (nine essential for adults) join by peptide bonds. Proteins contain C, H, O and N (and often S)."
+ },
+ {
+  "id": "YOGA-PRAC11-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Kwashiorkor and marasmus are both forms of",
+  "options": [
+   "vitamin deficiency",
+   "protein-energy malnutrition",
+   "mineral toxicity",
+   "obesity"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Kwashiorkor is mainly protein deficiency (with oedema); marasmus is overall energy deficiency (severe wasting)."
+ },
+ {
+  "id": "YOGA-PRAC11-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "question_type": "mcq",
+  "question_text": "Which of the following are water-soluble vitamins?",
+  "options": [
+   "A, D, E and K",
+   "Vitamin C and the B-complex",
+   "Iron and calcium",
+   "Folic acid and vitamin D"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The B-complex has eight vitamins: B1 thiamine, B2 riboflavin, B3 niacin, B5 pantothenic acid, B6 pyridoxine, B7 biotin, B9 folate and B12 cobalamin. A, D, E and K are fat-soluble."
+ },
+ {
+  "id": "YOGA-PRAC11-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "question_type": "mcq",
+  "question_text": "Match: ascorbic acid is vitamin ___, cobalamin is vitamin ___ and thiamine is vitamin ___.",
+  "options": [
+   "C, B12, B1",
+   "C, B1, B12",
+   "B12, C, B1",
+   "D, B12, B1"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Vitamin C deficiency causes scurvy, B12 deficiency pernicious anaemia, B1 deficiency beriberi; niacin (B3) deficiency causes pellagra — dermatitis, diarrhoea and dementia."
+ },
+ {
+  "id": "YOGA-PRAC11-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "question_type": "mcq",
+  "question_text": "Deficiency of vitamin D causes",
+  "options": [
+   "night blindness",
+   "rickets in children and osteomalacia in adults",
+   "scurvy",
+   "beriberi"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Vitamin D, made in the skin under sunlight, is needed for absorbing calcium. Vitamin A deficiency causes night blindness."
+ },
+ {
+  "id": "YOGA-PRAC11-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Iron deficiency leads mainly to",
+  "options": [
+   "anaemia",
+   "goitre",
+   "rickets",
+   "pellagra"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Anaemia** — iron is part of haemoglobin, which carries oxygen. Iodine deficiency causes goitre."
+ },
+ {
+  "id": "YOGA-PRAC11-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a source of unsaturated fat?",
+  "options": [
+   "Ghee",
+   "Coconut oil",
+   "Olive oil",
+   "Butter"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Olive oil** (mainly monounsaturated). Ghee, butter and coconut oil are rich in saturated fat. Trans fats, from partial hydrogenation, raise LDL cholesterol and heart-disease risk."
+ },
+ {
+  "id": "YOGA-PRAC11-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 14 (Yoga and Health; Nutrition). From the GPYS (Pundlik) Unit-7 MCQ (100) and Unit-6 Nutrition MCQ PDFs in the notes folder; many of the nutrition sheet's answers were wrong, so only clear items were kept and answered afresh."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "mcq",
+  "question_text": "Dietary fibre is best described as",
+  "options": [
+   "a kind of protein",
+   "a vitamin",
+   "a non-digestible carbohydrate",
+   "a mineral"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Fibre (soluble and insoluble) is not digested by human enzymes; it aids bowel function and helps control blood sugar and cholesterol."
+ }
+]
