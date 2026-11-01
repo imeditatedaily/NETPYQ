@@ -1,0 +1,784 @@
+[
+ {
+  "id": "YOGA-PRAC3-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Isha Upanishad, while doing one's prescribed work, one should wish to live for how many years?",
+  "options": [
+   "50",
+   "99",
+   "100",
+   "125"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A hundred.** Isha 2: *kurvann eveha karmāṇi jijīviṣec chataṃ samāḥ* — doing works here, one should wish to live a hundred years; so action does not cling to a man."
+ },
+ {
+  "id": "YOGA-PRAC3-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "question_type": "mcq",
+  "question_text": "The Isha Upanishad says that those who go after death to the sunless worlds covered in blind darkness are",
+  "options": [
+   "the friends (mitra)",
+   "the indifferent (udasina)",
+   "the slayers of the Self (atmahanah)",
+   "the enemies (shatru)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Atmahanah.** Isha 3: *asuryā nāma te lokā andhena tamasāvṛtāḥ, tāṃs te pretyābhigacchanti ye ke cātmahano janāḥ* — those who kill the Self, i.e. ignore it, go to those worlds."
+ },
+ {
+  "id": "YOGA-PRAC3-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "question_type": "mcq",
+  "question_text": "In which verses of the Isha Upanishad is the worship of vidya and avidya taught?",
+  "options": [
+   "Verses 6–8",
+   "Verses 9–11",
+   "Verses 12–14",
+   "Verses 4–5"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 9–11.** Isha 9: those who worship avidya enter blind darkness; those who delight in vidya enter greater darkness. Isha 11: one who knows both crosses death by avidya and gains immortality by vidya. Verses 12–14 do the same for sambhuti and asambhuti."
+ },
+ {
+  "id": "YOGA-PRAC3-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "The Kena Upanishad is also known as the",
+  "options": [
+   "Jaiminiya (Talavakara) Upanishad",
+   "Brahmana Upanishad",
+   "Maitri Upanishad",
+   "Chhagaleya Upanishad"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The Kena belongs to the Talavakara (Jaiminiya) Brahmana of the Samaveda and is also called the Talavakara Upanishad. It takes its name from its first word, *kena* — 'by whom?'"
+ },
+ {
+  "id": "YOGA-PRAC3-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "The story of the Yaksha in the Kena Upanishad shows that",
+  "options": [
+   "Agni and Vayu could not burn or move a blade of grass placed by Brahman",
+   "Indra defeated the Yaksha in debate",
+   "Yama granted three boons",
+   "Satyakama learnt from the Yaksha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Kena 3–4: after a victory the gods grew proud; Brahman appeared as a Yaksha. Agni could not burn and Vayu could not blow away a blade of grass. When Indra approached, the Yaksha vanished and Uma Haimavati told him it was Brahman."
+ },
+ {
+  "id": "YOGA-PRAC3-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Kena Upanishad, who reveals to Indra that the Yaksha was Brahman?",
+  "options": [
+   "Agni",
+   "Uma Haimavati",
+   "Vayu",
+   "Varuna"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Uma Haimavati.** Kena 3.12–4.1: in the same space where the Yaksha disappeared, Indra met a beautiful woman, Uma, daughter of Himavat, who told him: 'It is Brahman; through Brahman's victory you have grown great.'"
+ },
+ {
+  "id": "YOGA-PRAC3-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "The Katha Upanishad belongs to which Veda?",
+  "options": [
+   "Atharvaveda",
+   "Samaveda",
+   "Rigveda",
+   "Krishna Yajurveda"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Krishna Yajurveda** (Katha shakha). Its frame story, Nachiketa and Yama, is also told in the Taittiriya Brahmana."
+ },
+ {
+  "id": "YOGA-PRAC3-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "How is the Katha Upanishad divided?",
+  "options": [
+   "Three adhyayas, three vallis",
+   "Three adhyayas, six vallis",
+   "Two adhyayas, six vallis",
+   "Two adhyayas, three vallis"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Two adhyayas with three vallis each — six vallis in all.**"
+ },
+ {
+  "id": "YOGA-PRAC3-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Katha Upanishad, Yama tells Nachiketa that the fire he has just taught will be known",
+  "options": [
+   "as Yama's fire",
+   "by Nachiketa's own name",
+   "as the Vaishvanara fire",
+   "as the Brahma fire"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) By his name — the Nachiketa fire.** KU 1.1.16: *tavaiva nāmnā bhavitāyam agniḥ* — Yama, pleased, adds that this fire shall be called after Nachiketa, and gives him a many-coloured chain."
+ },
+ {
+  "id": "YOGA-PRAC3-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Katha Upanishad, shreyas and preyas — the good and the pleasant — are discussed in",
+  "options": [
+   "the first adhyaya, second valli",
+   "the first adhyaya, third valli",
+   "the second adhyaya, first valli",
+   "the second adhyaya, third valli"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 1.2.** KU 1.2.1–2: the good is one thing and the pleasant another; the wise choose the good, the fool the pleasant for the sake of gain and comfort."
+ },
+ {
+  "id": "YOGA-PRAC3-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "Match the parts of the chariot image in the Katha Upanishad: (a) Atman (b) body (c) buddhi (d) manas (e) senses (f) sense objects — with (1) charioteer (2) reins (3) chariot (4) lord of the chariot (5) roads (6) horses.",
+  "options": [
+   "a-4, b-3, c-1, d-6, e-2, f-5",
+   "a-4, b-3, c-1, d-2, e-6, f-5",
+   "a-3, b-2, c-5, d-1, e-4, f-6",
+   "a-4, b-2, c-6, d-1, e-5, f-3"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** KU 1.3.3–1.3.4: know the Self as the lord of the chariot and the body as the chariot; know the intellect as the charioteer and the mind as the reins; the senses are the horses and their objects the roads."
+ },
+ {
+  "id": "YOGA-PRAC3-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Katha Upanishad, the Self joined with the body, senses and mind is called",
+  "options": [
+   "bhokta (the enjoyer)",
+   "bhogi",
+   "bhoga",
+   "the witness"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Bhokta.** KU 1.3.4: *ātmendriya-mano-yuktaṃ bhoktety āhur manīṣiṇaḥ* — the wise call the Self, yoked to body, senses and mind, the enjoyer."
+ },
+ {
+  "id": "YOGA-PRAC3-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "The Katha Upanishad describes the Purusha dwelling in the body as being of what size?",
+  "options": [
+   "six fingers",
+   "the size of a thumb (angushtha-matra)",
+   "ninety-six fingers",
+   "nine fingers"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Thumb-sized.** KU 2.1.12–13 and 2.3.17: *aṅguṣṭhamātraḥ puruṣo madhya ātmani tiṣṭhati* — the Purusha the size of a thumb dwells within, like a smokeless flame, lord of past and future."
+ },
+ {
+  "id": "YOGA-PRAC3-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Prashna Upanishad, Pippalada asked the six seekers to stay with him, in austerity, celibacy and faith, for",
+  "options": [
+   "one year",
+   "ten months",
+   "six days",
+   "a year and a half"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A year.** Prashna 1.2: *bhūya eva tapasā brahmacaryeṇa śraddhayā saṃvatsaraṃ saṃvatsyatha* — stay another year, then ask your questions."
+ },
+ {
+  "id": "YOGA-PRAC3-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "Arrange the six questioners of the Prashna Upanishad in the order in which they ask: (a) Kabandhi Katyayana (b) Bhargava of Vidarbha (c) Kausalya Ashvalayana (d) Sauryayani Gargya (e) Sukesha Bharadvaja (f) Satyakama Shaibya",
+  "options": [
+   "a, b, c, d, e, f",
+   "a, b, c, f, e, d",
+   "f, e, d, c, b, a",
+   "a, b, c, d, f, e"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Kabandhi (origin of beings), Bhargava (the gods that hold the body), Kausalya (origin of prana), Sauryayani (sleep and dream), Satyakama (Om) and Sukesha (the sixteen kalas)."
+ },
+ {
+  "id": "YOGA-PRAC3-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Prashna Upanishad, Kausalya Ashvalayana asked about",
+  "options": [
+   "how beings are born",
+   "which gods hold and illumine the body",
+   "where prana comes from, how it enters the body and how it departs",
+   "the Purusha of sixteen kalas"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** The third question (Prashna 3.1). Pippalada answers that prana is born of the Self, like a shadow from a person, and comes into the body by the activity of the mind."
+ },
+ {
+  "id": "YOGA-PRAC3-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Aitareya Upanishad, the deity that became speech and entered the mouth is",
+  "options": [
+   "Agni",
+   "Vayu",
+   "Aditya",
+   "Chandrama"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Agni.** Aitareya 1.2.4: fire became speech and entered the mouth; air became prana and entered the nostrils; the sun became sight and entered the eyes; the directions became hearing and entered the ears."
+ },
+ {
+  "id": "YOGA-PRAC3-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Aitareya Upanishad, when food tried to run away, it could be seized only by",
+  "options": [
+   "prana (by inhalation)",
+   "samana",
+   "apana",
+   "vyana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Apana.** Aitareya 1.3.10: the Purusha tried to seize food with speech, breath, eye, ear, skin, mind and organ, and failed; he caught it with apana. That vayu which seizes food is the one that lives on food (*annāyu*)."
+ },
+ {
+  "id": "YOGA-PRAC3-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Brihadaranyaka Upanishad, what does Maitreyi ask of Yajnavalkya when he offers to divide his property?",
+  "options": [
+   "Wealth",
+   "Cows",
+   "Immortality (amritatva)",
+   "A son"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Immortality.** BU 2.4.2–3: 'If this whole earth full of wealth were mine, would I be immortal?' 'No,' says Yajnavalkya. 'What should I do with that by which I do not become immortal?'"
+ },
+ {
+  "id": "YOGA-PRAC3-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः' — in this teaching of Yajnavalkya, 'श्रोतव्यः' means",
+  "options": [
+   "fit to be seen",
+   "fit to be heard (shravana)",
+   "fit to be reflected on (manana)",
+   "fit to be meditated on (nididhyasana)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** BU 2.4.5: the Self is to be seen (*draṣṭavyaḥ*), heard about (*śrotavyaḥ*), reflected on (*mantavyaḥ*) and meditated upon (*nididhyāsitavyaḥ*) — the source of Vedanta's shravana, manana and nididhyasana."
+ },
+ {
+  "id": "YOGA-PRAC3-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "The Madhu Vidya of the Brihadaranyaka Upanishad was taught by",
+  "options": [
+   "Dadhyang Atharvana to the Ashvins",
+   "Yajnavalkya to Maitreyi",
+   "Yajnavalkya to Gargi",
+   "Uddalaka to Shvetaketu"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** BU 2.5.16–19: Dadhyang Atharvana taught the honey doctrine to the two Ashvins through a horse's head — 'this Self is honey for all beings'."
+ },
+ {
+  "id": "YOGA-PRAC3-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'अहं ब्रह्मास्मि' is found at",
+  "options": [
+   "Brihadaranyaka 1.3.28",
+   "Brihadaranyaka 4.4.22",
+   "Brihadaranyaka 1.4.10",
+   "Chandogya 6.8.7"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) BU 1.4.10.** In the beginning this was Brahman; it knew itself as 'I am Brahman', and so became all. Whoever knows thus becomes the all."
+ },
+ {
+  "id": "YOGA-PRAC3-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Mundaka Upanishad, the teacher and the disciple are",
+  "options": [
+   "Shaunaka and Angiras",
+   "Angiras and Shaunaka",
+   "Satyavaha and Atharvan",
+   "Yama and Nachiketa"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Angiras teaches Shaunaka.** Mundaka 1.1.3: Shaunaka, a great householder, approached Angiras and asked: 'What is that by knowing which all this becomes known?'"
+ },
+ {
+  "id": "YOGA-PRAC3-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "According to the Mundaka Upanishad, Brahma first imparted the knowledge of Brahman to",
+  "options": [
+   "Atharvan",
+   "Angir",
+   "Satyavaha",
+   "Angiras"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Atharvan**, his eldest son (Mundaka 1.1.1–2). The line runs Brahma → Atharvan → Angir → Satyavaha Bharadvaja → Angiras → Shaunaka."
+ },
+ {
+  "id": "YOGA-PRAC3-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Mundaka Upanishad's image of the archer, the bow is",
+  "options": [
+   "the Self",
+   "Pranava (Om)",
+   "Brahman",
+   "the mind"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Om.** Mundaka 2.2.4: *praṇavo dhanuḥ śaro hy ātmā brahma tal lakṣyam ucyate* — Om is the bow, the Self is the arrow and Brahman the target; it is to be hit with an undistracted mind, becoming one with it like the arrow."
+ },
+ {
+  "id": "YOGA-PRAC3-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "question_type": "mcq",
+  "question_text": "How many mantras does the Mandukya Upanishad have?",
+  "options": [
+   "8",
+   "10",
+   "12",
+   "20"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Twelve.** The shortest of the principal Upanishads: Om and the four quarters of the Self — Vaishvanara, Taijasa, Prajna and the fourth (turiya)."
+ },
+ {
+  "id": "YOGA-PRAC3-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "question_type": "mcq",
+  "question_text": "Consider the following statements about the Mandukya Upanishad. Statement I: Taijasa, whose sphere is dream, is the third quarter of the Self. Statement II: Prajna, whose sphere is deep sleep, is the second quarter.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both false.** Mandukya 3–5: Vaishvanara (waking) is the first quarter, Taijasa (dream) the second and Prajna (deep sleep) the third. The fourth is beyond them."
+ },
+ {
+  "id": "YOGA-PRAC3-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "question_type": "mcq",
+  "question_text": "Match the states with the parts of Om in the Mandukya Upanishad: (A) waking (B) dream (C) deep sleep (D) turiya — with (1) U-kara (2) the measureless (amatra) (3) A-kara (4) M-kara.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-3, C-1, D-4",
+   "A-4, B-2, C-3, D-1",
+   "A-3, B-1, C-4, D-2"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Mandukya 9–12: Vaishvanara is A, Taijasa is U, Prajna is M, and the fourth is *amātra*, without measure — the cessation of the world, peaceful, non-dual."
+ },
+ {
+  "id": "YOGA-PRAC3-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "question_type": "mcq",
+  "question_text": "In the Taittiriya Upanishad, 'Yajus is its head, Rik its right side, Saman its left, the teaching (adesha) its trunk and the Atharvangirasa its tail' describes which kosha?",
+  "options": [
+   "Annamaya",
+   "Pranamaya",
+   "Manomaya",
+   "Anandamaya"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Manomaya.** TU 2.3. For the vijnanamaya (2.4), faith is the head, rita the right side, satya the left, yoga the trunk and mahah the tail."
+ },
+ {
+  "id": "YOGA-PRAC3-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "question_type": "mcq",
+  "question_text": "In the Taittiriya Upanishad's description of the vijnanamaya kosha, match: (A) shraddha (B) rita (C) satya (D) mahah — with (1) tail (2) head (3) right side (4) left side.",
+  "options": [
+   "A-1, B-2, C-4, D-3",
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-3, C-4, D-1",
+   "A-2, B-4, C-3, D-1"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** TU 2.4: *śraddhaiva śiraḥ, ṛtaṃ dakṣiṇaḥ pakṣaḥ, satyam uttaraḥ pakṣaḥ, yoga ātmā, mahaḥ pucchaṃ pratiṣṭhā*."
+ },
+ {
+  "id": "YOGA-PRAC3-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Taittiriya Upanishad, the secret of worshipping the fourth vyahriti 'Mahah' was first known by",
+  "options": [
+   "the son of the sage Gautama",
+   "the son of the sage Bhargava",
+   "the son of the sage Bharadvaja",
+   "the son of the sage Mahachamas"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Mahachamasya.** TU 1.5.1: *tāsām u ha smaitāṃ caturthīṃ māhācamasyaḥ pravedayate, maha iti* — of the three vyahritis, Mahachamasya taught the fourth, Mahah, which is Brahman, the Self."
+ },
+ {
+  "id": "YOGA-PRAC3-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "The Bhargavi Varuni Vidya belongs to which part of the Taittiriya Upanishad?",
+  "options": [
+   "Shiksha Valli",
+   "Brahmananda Valli",
+   "Bhrigu Valli",
+   "Narayana Valli"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bhrigu Valli.** TU 3.6: *saiṣā bhārgavī vāruṇī vidyā* — the knowledge taught by Varuna to Bhrigu, ending in 'bliss is Brahman'."
+ },
+ {
+  "id": "YOGA-PRAC3-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Chandogya Upanishad, Krishna, son of Devaki, received teaching from",
+  "options": [
+   "Bhrigu",
+   "Brihaspati",
+   "Ghora Angirasa",
+   "Satyakama Jabala"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Ghora Angirasa.** CU 3.17.6, in the vidya that treats the whole of life as a sacrifice; after it, Krishna became free from thirst."
+ },
+ {
+  "id": "YOGA-PRAC3-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 2 (Principal Upanishads). Written from 'MUKHYA UPNISHAD TEST.pdf' (a Google Form test) in the notes folder; the form had no key, so answers were worked out from the texts."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "Which of the following famous sayings comes from the Chandogya Upanishad?",
+  "options": [
+   "असतो मा सद्गमय",
+   "नेति नेति",
+   "तत्त्वमसि",
+   "अहं ब्रह्मास्मि"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Tat tvam asi.** CU 6.8.7 onwards, Uddalaka Aruni's teaching to his son Shvetaketu, repeated nine times. The others are all from the Brihadaranyaka."
+ }
+]
