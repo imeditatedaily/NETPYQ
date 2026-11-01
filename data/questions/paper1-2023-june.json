@@ -549,7 +549,7 @@
   "options": [
    "e- content",
    "Self-Assessment",
-   "e-Tutarial",
+   "e-Tutorial",
    "Web Resources"
   ],
   "correct_answer": 2,
@@ -695,7 +695,7 @@
   "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
   "micro_topic": "Computer hardware, memory and software",
   "question_type": "mcq",
-  "question_text": "In 1965. Gardon Moore. Co-founder of Intel, made a prediction about the future of computer processing. What does his prediction, known as Moore's Law, say?",
+  "question_text": "In 1965, Gordon Moore, co-founder of Intel, made a prediction about the future of computer processing. What does his prediction, known as Moore's Law, say?",
   "options": [
    "As technology continues to advance, computer chips will become obsolete.",
    "Computer processing power will double every 18 months to two year.",
@@ -859,7 +859,7 @@
    "Causality",
    "Replication",
    "Exclusion of statistical analysis",
-   "Less importance to standarisation"
+   "Less importance to standardisation"
   ],
   "prompt": "Choose the correct answer from the options given below:"
  },
@@ -907,8 +907,8 @@
   "options": [
    "Both Statement I and Statement II are true.",
    "Both Statement I and Statement II are false.",
-   "Statement I is true but Statement IT is false.",
-   "Statement I is true but Statement IT is false."
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
   ],
   "correct_answer": 1,
   "detailed_explanation": "**Answer: (1).** .mp4 and .gif hold moving images; .rar and .zip are compressed archives."
@@ -990,8 +990,8 @@
   "options": [
    "Both Statement I and Statement II are true",
    "Both Statement I and Statement II are false",
-   "Statement I is true but Statement IT is false",
-   "Statement I is false but Statement IT is true"
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
   ],
   "correct_answer": 1,
   "detailed_explanation": "**Answer: (1)** (no official key). Mediated cultural transmission passes traditions, language and values across generations, and shapes individuals largely unconsciously."
@@ -1014,7 +1014,7 @@
   "question_text": "Given below are two statements: Statement I: Gaining access to a public or social setting is an important issue in ethnographic research. Statement II: There is no distinction between overt and covert ethnography in terms of access and participation.",
   "options": [
    "Both Statement I and Statement II are true.",
-   "Both Statement I and Statement I] are false",
+   "Both Statement I and Statement II are false",
    "Statement I is true but Statement II is false.",
    "Statement I is false but Statement II is true."
   ],
@@ -1215,7 +1215,7 @@
   "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
   "micro_topic": "Teaching methods and support systems",
   "question_type": "mcq",
-  "question_text": "A teacher is preparing a course of science. He/She wants to add an exercise that promotes collaboration and problem solving among learners. What kind of group should he she form?",
+  "question_text": "A teacher is preparing a course of science. He/She wants to add an exercise that promotes collaboration and problem solving among learners. What kind of group should he/she form?",
   "options": [
    "Independent student assignment",
    "Teacher-centric groups",
@@ -1270,7 +1270,7 @@
    "Both Statement I and Statement II are true",
    "Both Statement I and Statement II are false",
    "Statement I is true but Statement II is false",
-   "Statement I is false but Statement II is true Ara dt we feu ee: wer], Sas or ais wites tse wag & ve A ae star 21 per: Shs & wala aise A aa St race aaa Ste S she Sas Tepra UAT PS ued Ges H Gfaen Sit SI SRI HUF & oscil Fre fay Ty famed FS Waa TYEE GU GT UA SST:"
+   "Statement I is false but Statement II is true"
   ],
   "correct_answer": 2,
   "detailed_explanation": "**Answer: (2).** The circular model builds in feedback; the linear model is one-way with no immediate feedback."
