@@ -8,6 +8,7 @@ from html import escape
 
 import streamlit as st
 
+from .. import trends
 from ..access import sellable_questions, sellable_subjects
 from ..config import SUBJECT_PRICE_INR
 from ..syllabus import SUBJECTS
@@ -118,6 +119,32 @@ CSS = """
 .lp-stat strong { display: block; font-family: var(--lp-serif); font-size: 2.2rem; font-weight: 700;
   color: var(--lp-green); line-height: 1.1; }
 .lp-stat span { font-size: .88rem; color: var(--lp-muted); }
+
+/* "More papers being added" ribbon */
+.lp-ribbon { display: flex; align-items: center; gap: .8rem; flex-wrap: wrap; background: #e5eedc; border: 1px solid #c9dcbd;
+  border-radius: 1.2rem; padding: .7rem 1.2rem; font-size: .93rem; color: var(--lp-green); margin: 0 0 1rem; }
+.lp-ribbon b { background: var(--lp-green); color: var(--lp-lime); border-radius: 999px; padding: .15rem .65rem;
+  font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; }
+.lp-dot { width: .55rem; height: .55rem; border-radius: 50%; background: #3fa35b; box-shadow: 0 0 0 0 rgba(63,163,91,.6);
+  animation: lp-pulse 1.8s infinite; }
+@keyframes lp-pulse { 70% { box-shadow: 0 0 0 .55rem rgba(63,163,91,0); } 100% { box-shadow: 0 0 0 0 rgba(63,163,91,0); } }
+
+/* PYQ trends teaser */
+.lp-trend { background: var(--lp-card); border: 1px solid var(--lp-line); border-radius: 1.3rem; padding: 1.5rem 1.6rem; }
+.lp-trend-row { display: grid; grid-template-columns: minmax(10rem, 17rem) 1fr 3rem 5.5rem; gap: .8rem; align-items: center;
+  padding: .42rem 0; border-bottom: 1px dashed var(--lp-line); font-size: .93rem; color: var(--lp-ink); }
+.lp-trend-row:last-child { border-bottom: 0; }
+.lp-trend-row i { display: block; height: .7rem; border-radius: 999px; background: #ebe4d2; position: relative; overflow: hidden; }
+.lp-trend-row i::after { content: ""; position: absolute; inset: 0; width: var(--w); background: var(--lp-green-2); border-radius: 999px; }
+.lp-trend-row .pct { font-weight: 700; color: var(--lp-green); text-align: right; }
+.lp-tag { font-size: .74rem; font-weight: 700; border-radius: 999px; padding: .15rem .55rem; text-align: center; }
+.lp-tag.Rising { background: #e2f0da; color: #2f6b4f; } .lp-tag.Fading { background: #f7e3d8; color: #a4532c; }
+.lp-tag.Steady { background: #ece6d6; color: #6b6d63; }
+.lp-trend-note { font-size: .85rem; color: var(--lp-muted); margin: .9rem 0 0; }
+.lp-topics { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
+.lp-topics span { background: #fff; border: 1px solid var(--lp-line); border-radius: 999px; padding: .3rem .8rem; font-size: .86rem; }
+.lp-topics span b { color: var(--lp-green-2); }
+@media (max-width: 640px) { .lp-trend-row { grid-template-columns: 1fr 2.6rem 4.6rem; } .lp-trend-row i { display: none; } }
 
 /* Sections */
 .lp-section { margin: 4.2rem 0 1.2rem; }
@@ -287,7 +314,7 @@ def _features() -> str:
         ("bulb", "Explanations that teach",
          "Why the right answer is right, why each distractor fails, and the key facts from the knowledge base for that topic."),
         ("trend", "Know what the examiner wants",
-         "Trend insight on every topic: how NTA frames it, the traps it sets, and one prep move that pays off."),
+         "Unit-wise and topic-wise PYQ trends: what NTA asks most, what's rising, and the traps it sets in each topic."),
         ("loop", "A mistake-review loop",
          "Every question you miss lands in Review Mistakes. Clear the list and you've closed your weakest gaps."),
         ("chart", "Analytics that tell you what to revise",
@@ -337,6 +364,41 @@ TRY = """
 </div>
 """
 
+def _trends_teaser(p: "trends.Pattern", subject: str) -> str:
+    if p.units.empty:
+        return ""
+    info = SUBJECTS[subject]
+    top_share = p.units.sort_values("share", ascending=False).head(3)["share"].sum()
+    rows = "".join(
+        f'<div class="lp-trend-row"><span>{escape(r.unit.partition(": ")[2])}</span><i style="--w:{r.share / p.units["share"].max():.0%}"></i>'
+        f'<span class="pct">{r.share:.0%}</span><span class="lp-tag {r.trend if r.trend != "—" else "Steady"}">'
+        f'{escape(r.trend if r.trend != "—" else "Steady")}</span></div>'
+        for r in p.units.sort_values("share", ascending=False).itertuples())
+    regular = trends.regular_topics(p).head(6)
+    chips = "".join(f"<span>{escape(r.topic)} · <b>{r.papers_asked}/{p.papers} papers</b></span>" for r in regular.itertuples())
+    chips_html = (f'<p class="lp-trend-note" style="margin-top:1.2rem"><b>Asked almost every time:</b></p>'
+                  f'<div class="lp-topics">{chips}</div>') if chips else ""
+    return f"""
+<div class="lp-section">
+  <p class="lp-eyebrow">PYQ trends · unit-wise and topic-wise</p>
+  <h2 class="lp-h2">Know where the marks are <em>before you study.</em></h2>
+  <p class="lp-sub">We counted every {escape(info.name)} question across {p.papers} papers. The top three units alone carry
+  <b>{top_share:.0%}</b> of the paper. Inside the app you get this for every unit and every micro-topic, paper by paper,
+  with what's rising and what's fading.</p>
+  <div class="lp-trend">{rows}{chips_html}
+    <p class="lp-trend-note">Share of all {escape(info.name)} (code {escape(info.code)}) questions, {p.papers} papers,
+    {escape(p.sessions[0])} to {escape(p.sessions[-1])}. Free for everyone who signs in.</p></div>
+</div>
+"""
+
+
+def _ribbon(live: list[str]) -> str:
+    soon = [SUBJECTS[s].name for s in SUBJECTS if s not in live]
+    extra = f" {', '.join(soon)} papers are on the way." if soon else ""
+    return ('<div class="lp-ribbon"><span class="lp-dot"></span><b>Updating</b><span style="flex:1;min-width:14rem">More papers are being added. '
+            f'Every new paper for your subject is included at no extra cost.{escape(extra)}</span></div>')
+
+
 STEPS = """
 <div class="lp-section">
   <p class="lp-eyebrow">How it works</p>
@@ -366,11 +428,11 @@ def _price_card(subject: str, s: SubjectStats, hot: bool) -> str:
 <h3>{escape(title)}</h3><div class="code">{sub}</div>
 <div class="amt">₹{SUBJECT_PRICE_INR}<small> / month</small></div>
 <ul><li>{s.questions} real questions from {s.papers} {paper_word}{span}</li><li>{s.topics} micro-topics with trend insight</li>
-<li>Explanations, review loop and analytics</li><li>Cancel renewal anytime. No refunds</li></ul></div>"""
+<li>Explanations, review loop and analytics</li><li>More papers being added, at no extra cost</li><li>Cancel renewal anytime. No refunds</li></ul></div>"""
 
 
 FREE_CARD = """<div class="lp-price"><h3>Free</h3><div class="code">For everyone who signs in</div>
-<div class="amt">₹0</div><ul><li>Sample questions in every NTA format</li><li>Full explanations and trend insight</li>
+<div class="amt">₹0</div><ul><li>Sample questions in every NTA format</li><li>Full explanations and trend insight</li><li>Unit-wise and topic-wise PYQ trends</li>
 <li>Progress saved to your account</li><li>No card needed</li></ul></div>"""
 
 
@@ -426,9 +488,12 @@ def render() -> None:
     with right:
         st.html(PREVIEW)
 
+    st.html(_ribbon(live))
     st.html(_stats_strip(yoga, total_papers, topics))
     st.html(VERSUS)
     st.html(_features())
+    if biggest:
+        st.html(_trends_teaser(trends.pattern(sellable_questions(bank, biggest)), biggest))
     st.html(TRY)
     st.html(STEPS)
 
