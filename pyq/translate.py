@@ -30,8 +30,11 @@ LIST_FIELDS = ("options", "items", "list_i", "list_ii", "table_columns")
 
 
 def language(q: Question) -> str:
-    sample = " ".join([q.question_text, *q.options, *q.items, *q.list_i])
-    return HI if _DEVANAGARI.search(sample) else EN
+    """The language a question was transcribed in: whichever script most of its letters use."""
+    sample = " ".join([q.question_text, *q.options, *q.items, *q.list_i, *q.list_ii, q.assertion])
+    deva = len(_DEVANAGARI.findall(sample))
+    latin = len(re.findall(r"[a-z]", sample))      # lowercase only: answer codes (A-IV, B-II) are capitals
+    return HI if deva > latin else EN
 
 
 # --- rule-based pieces --------------------------------------------------------------------
@@ -107,7 +110,7 @@ _NUMBERS_HI = {v: k for k, v in _NUMBERS.items()} | {"छह": "Six", "पां
 _TITLE = re.compile(r"^(List|सूची)\s*[-–]?\s*(I{1,2})$")
 
 # Option codes: (a), A, IV, (iii), 2 … joined by commas, dashes, "and"/"और"/"तथा".
-_TOK = r"\(?(?:[A-E]|[a-e]|[IVX]{1,4}|[ivx]{1,4}|\d{1,3})\)?"
+_TOK = r"\(?(?:[A-H]|[a-h]|[IVX]{1,4}|[ivx]{1,4}|\d{1,3})\)?"
 _JOIN = r"(?:\s*[-–,]\s*|\s+(?:and|और|तथा|&)\s+|\s+)"
 _CODES = rf"{_TOK}(?:{_JOIN}{_TOK})*"
 _PURE_CODE = re.compile(rf"^{_CODES}$")
@@ -146,6 +149,29 @@ def _assertion_reason(t: str) -> int | None:
     return None
 
 
+# "Statement I and II" options, recognised by meaning.
+_STATEMENTS = {
+    EN: ("Both Statement I and Statement II are true", "Both Statement I and Statement II are false",
+         "Statement I is true but Statement II is false", "Statement I is false but Statement II is true"),
+    HI: ("कथन I और II दोनों सही हैं", "कथन I और II दोनों गलत हैं",
+         "कथन I सही है, लेकिन कथन II गलत है", "कथन I गलत है, लेकिन कथन II सही है"),
+}
+_T, _F = r"(?:true|correct|सही|सत्य)", r"(?:false|incorrect|not correct|गलत|असत्य|सही नहीं)"
+
+
+def _statements(t: str) -> int | None:
+    x = re.sub(r"[.।]\s*$", "", t.strip()).lower().replace("statement ", "s").replace("कथन ", "s")
+    if re.fullmatch(rf"(?:both )?si (?:and|और|एवं|तथा) s?ii (?:are )?(?:both |दोनों )?{_F}(?: हैं)?", x):
+        return 1
+    if re.fullmatch(rf"(?:both )?si (?:and|और|एवं|तथा) s?ii (?:are )?(?:both |दोनों )?{_T}(?: हैं)?", x):
+        return 0
+    if re.fullmatch(rf"si (?:is )?{_T}(?: है)?,? (?:but|and|लेकिन|परन्तु|परंतु|किन्तु|और) sii (?:is )?{_F}(?: है)?", x):
+        return 2
+    if re.fullmatch(rf"si (?:is )?{_F}(?: है)?,? (?:but|and|लेकिन|परन्तु|परंतु|किन्तु|और) sii (?:is )?{_T}(?: है)?", x):
+        return 3
+    return None
+
+
 def _split_tail(text: str) -> tuple[str, str]:
     m = re.match(r"^(.*?)(\s*[:।.?]\s*)$", text)
     return (m.group(1), m.group(2)) if m else (text, "")
@@ -160,6 +186,8 @@ def rule(text: str, to: str) -> str | None:
         return text
     if (ar := _assertion_reason(t)) is not None:
         return _AR[to][ar]
+    if (st := _statements(t)) is not None:
+        return _STATEMENTS[to][st]
     if m := _TITLE.match(t):
         return ("List " if to == EN else "सूची ") + m.group(2)
     for a, b in _HI_SPELLINGS:
@@ -173,6 +201,13 @@ def rule(text: str, to: str) -> str | None:
     if both and ("दोनों" in t or "oth" in t):
         a, b = both.groups()
         return f"Both {a} and {b}" if to == EN else f"{a} और {b} दोनों"
+    correct = re.fullmatch(rf"({_CODES})\s+(are|is)\s+(correct|true)\.?|({_CODES})\s+सही\s+(हैं|है)\s*[।.]?", t)
+    if correct:
+        codes = correct.group(1) or correct.group(4)
+        many = bool(re.search(r",|\band\b|&|और|तथा", codes))
+        if to == EN:
+            return f"{_codes(codes, EN).replace('&', 'and')} {'are' if many else 'is'} correct."
+        return f"{_codes(codes.replace('&', 'and'), HI)} सही {'हैं' if many else 'है'}।"
     if _PURE_CODE.match(t):
         return _codes(t, to)
     if to == EN:
