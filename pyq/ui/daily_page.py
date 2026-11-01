@@ -56,7 +56,10 @@ def render() -> None:
     st.caption(f"{day:%A, %d %B %Y} · UGC NET {subject.display} · from the {q.session_label} paper. "
                "A new real question every day.")
 
+    if not st.session_state.get("user"):     # signed in, the toggle is in the sidebar
+        question_view.language_toggle()
     with st.container(border=True):
+        q = question_view.localize(q)
         question_view.question_body(q)
         key = f"daily-{day.isoformat()}"
         checked = st.session_state.get(f"{key}-checked")

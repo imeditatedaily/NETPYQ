@@ -19,6 +19,9 @@ QUESTION_DIR = Path(__file__).resolve().parent.parent / "data" / "questions"
 # Trend notes per micro-topic, used by questions that leave trend_analysis empty.
 TOPIC_FILE = Path(__file__).resolve().parent.parent / "data" / "topics.json"
 
+# The other language of each question (see pyq/translate.py).
+TRANSLATION_DIR = Path(__file__).resolve().parent.parent / "data" / "translations"
+
 # Knowledge base: key facts per micro-topic, shown after every answer.
 KNOWLEDGE_FILE = Path(__file__).resolve().parent.parent / "data" / "knowledge.json"
 

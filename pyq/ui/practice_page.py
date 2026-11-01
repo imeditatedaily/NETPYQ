@@ -57,6 +57,7 @@ def render() -> None:
     chosen = run.answers.get(q.id)
     with st.container(border=True):
         question_view.syllabus_tags(q)
+        q = question_view.localize(q)
         question_view.question_body(q)
         if chosen is None:
             question_view.answer_form(q, f"p{run.number}-{q.id}", state.submit_practice, bank)
