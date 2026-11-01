@@ -31,7 +31,7 @@ SUBJECT_PRICE_INR = 500
 # Questions whose source note mentions any of these are transcribed from a
 # published book. Subscribers never see them (only admins do), and they do
 # not count towards making a subject available for sale.
-BOOK_SOURCE_MARKERS = ("Madaan",)
+BOOK_SOURCE_MARKERS = ("Madaan", "solved-papers collection")
 
 # Where progress is kept when no [database] url is set (local development only).
 LOCAL_DB_FILE = Path(__file__).resolve().parent.parent / ".data" / "netpyq.db"

@@ -59,7 +59,7 @@ The syllabus unit titles in `pyq/syllabus.py` follow NTA's published syllabi via
 
 ## Accounts, saved progress and subscriptions
 
-Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
+Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers, and the Yoga November 2017 and July 2018 papers from a solved-papers collection) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
 
 **To go live, follow [`SETUP.md`](SETUP.md)** (Supabase, Render, Google sign-in, Razorpay). Streamlit Community Cloud's terms don't allow commercial apps, so the paid app runs on Render (`render.yaml`).
 

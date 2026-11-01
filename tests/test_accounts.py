@@ -42,7 +42,9 @@ def test_admin_sees_everything(bank):
 
 def test_book_sourced_questions_are_detected_and_paper1_is_not_for_sale_yet(bank):
     assert all(is_book_sourced(q) for q in bank.questions if q.subject == "paper1")
-    assert not any(is_book_sourced(q) for q in bank.questions if q.subject == "yoga")
+    from_book = {q.session_label for q in bank.questions if q.subject == "yoga" and is_book_sourced(q)}
+    assert from_book == {"November 2017", "July 2018"}    # transcribed from a solved-papers collection
+    assert any(not is_book_sourced(q) for q in bank.questions if q.subject == "yoga")
     assert sellable_subjects(bank) == ["yoga"]
 
 
