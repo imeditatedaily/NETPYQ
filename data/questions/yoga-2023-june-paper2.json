@@ -1,0 +1,3023 @@
+[
+ {
+  "id": "YOGA-2023JUN-P2-Q01",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "'Name the Kriya to be practiced at secret place like a Jewellery box kept in secret",
+  "options": [
+   "Neti",
+   "Dhouti",
+   "Kapala bhati",
+   "Trataka"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Trāṭaka.** HP 2.32: trāṭaka should be kept carefully secret, like a box of gold (*yatnatas trāṭakaṃ gopyaṃ yathā hāṭaka-peṭakam*)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q02",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-IV, B-II, C-III, D-I",
+   "A-III, B-I, C-IV, D-II",
+   "A-I, B-III, C-IV, D-II",
+   "A-II, B-IV, C-I, D-III"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-I, C-IV, D-II.** Jihvā-bandha — tongue and palate; jālandhara — throat; mūla — mūlādhāra and anus; uḍḍīyāna — abdomen.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Jihva Bandha",
+     "Jalandhara Bandha",
+     "Mula Bandha",
+     "Uddiyana Bandha"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Throat",
+     "Abdomen",
+     "Tounge and palate",
+     "Muladhar and anus"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q03",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "question_type": "sequence",
+  "question_text": "What are the sequences of Sapta Jnana bhuim from 2nd to 6th acording to Yoga Vashishtha:",
+  "options": [
+   "A, D, B, E, C",
+   "A, E, D, C, B",
+   "C, E, A, B, D",
+   "C, A, E, D, B"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, E, D, C, B.** The seven jñāna-bhūmis: śubhecchā, vicāraṇā, tanumānasā, sattvāpatti, asaṃsakti, padārthābhāvanī, turyagā.",
+  "items": [
+   "Vicharana",
+   "Padarthabhavni",
+   "Asansakti",
+   "Sattavapatti",
+   "Tanumansa"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q04",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in epics and smritis",
+  "question_type": "statements",
+  "question_text": "Which of the following chapters (Prakaran) are covered in Aacharadhyaya of Yaynavalkyasmniti:",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "A, D and E only",
+   "C, D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, D and E only.** The Ācārādhyāya covers marriage (vivāha), the snātaka's duties and graha-śānti; ṛṇādāna and upanidhi belong to the Vyavahārādhyāya.",
+  "items": [
+   "Vivah Prakaran",
+   "Rinadan Prakaran",
+   "Upanidhi Prakaran",
+   "Snatak Dharma Prakaran",
+   "Grahshanti Prakaran"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q05",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: respiratory disorders",
+  "question_type": "mcq",
+  "question_text": "For allergic rhinitis patients, best practice to remove decayed mucus waste from digestive system is:",
+  "options": [
+   "Dhauti",
+   "Basti",
+   "Nauli",
+   "Asana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Dhauti** — vamana/vastra dhauti clears mucus from the upper digestive tract, which helps allergic rhinitis."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q06",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Chitta-bhumis and chitta-vrittis",
+  "question_type": "mcq",
+  "question_text": "In which state of mind stuff, the mental forces are running through different senses in all directions?",
+  "options": [
+   "Mudha",
+   "Kshipta",
+   "Niruddha",
+   "Vikshipta"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kṣipta** — the restless mind running after sense objects in all directions."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q07",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "mcq",
+  "question_text": "As per the Shrimad Bhagwadgita mind is above senses, intellect is even beyond mind and far beyond intellect is:",
+  "options": [
+   "Heaven",
+   "Celestial World (Bhuvilok)",
+   "Abode of deites (Devalok)",
+   "Soul (Atma)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Soul (Ātmā).** Gītā 3.42: the senses are higher than the body, the mind higher than the senses, the intellect higher than the mind, and higher than the intellect is He."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q08",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "question_type": "mcq",
+  "question_text": "As per Yogavashishtha, Tatwajnana, Manonasha and Vasanakshaya are:",
+  "options": [
+   "Asaadhya (non achievable)",
+   "Duh Saadhya (difficult)",
+   "Akatya (Unsketchable)",
+   "Amanya (Non acceptable)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2)** (no official key). Yoga Vāsiṣṭha says tattva-jñāna, mano-nāśa and vāsanā-kṣaya must be practised together; each alone is very hard to achieve."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q09",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In Hatha Yoga Pradipika the person of which state has been recommended for the practice of Shatkarma prior to Pranayam:",
+  "options": [
+   "Kayasya krishata",
+   "Medah Shleshmadhikah",
+   "Gulam plihodaram",
+   "Tandradinam"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 2.21: one with excess fat or phlegm (*medaḥ-śleṣmādhikaḥ*) should first practise the six karmas."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q10",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "According to Patanjali Yoga Sutra. the upward movement of body is possible after exercising restraint over:",
+  "options": [
+   "Kurma nadi",
+   "Saman Prana",
+   "Udan prana",
+   "Moordha sthan"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Udāna.** YS 3.39: by mastery of udāna one does not touch water, mud or thorns, and rises (*utkrānti*)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q11",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "statements",
+  "question_text": "According to Patanjali Yoga Sutras. which of the following are associated with five kinds of Siddhis?",
+  "options": [
+   "A, B and C only",
+   "A, B and D only",
+   "A, C and D only",
+   "A, D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C and D only.** YS 4.1: siddhis come from birth, herbs (auṣadhi), mantra, tapas and samādhi. (Item D is printed 'Ashtadhyaya' in English; the Hindi has औषधिजा.)",
+  "items": [
+   "Tapaja",
+   "Aakshagamanam",
+   "Mantraja",
+   "Aushadhija (printed 'Ashtadhyaya')",
+   "Vaarija"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q12",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "statements",
+  "question_text": "According to Patanjali Yoga Sutra, the Siddhis attained through Purushjnana are:",
+  "options": [
+   "B, C and D only",
+   "A, B and C only",
+   "A, C and D only",
+   "C, D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C and D only.** YS 3.36: from knowledge of puruṣa arise prātibha, śrāvaṇa, vedana, ādarśa, āsvāda and vārtā.",
+  "items": [
+   "Aswad",
+   "Antardham",
+   "Adarsh",
+   "Vedan",
+   "Aparantjnanam"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q13",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "According to Patanjali Yoga Sutra. which of the following does not constitute Samadhi?",
+  "options": [
+   "Antaranga Yoga",
+   "Sanyama",
+   "Bahiranga Yoga",
+   "Sadhan Panchak"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bahiraṅga yoga.** Samādhi is antaraṅga (3.7), part of saṃyama (3.4) and of the five means of 1.20; the first five limbs are the outer (bahiraṅga) ones."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q14",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "statements",
+  "question_text": "Karuna conducive to overcome the obstacles. through-",
+  "options": [
+   "B and D only",
+   "A and C only",
+   "B and E only",
+   "C and D only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B and D only.** Karuṇā (YS 1.33) is compassion towards the suffering — pity joined with action to relieve pain. Delight at others' good deeds is muditā; disregard of the wicked is upekṣā.",
+  "items": [
+   "Attachment and feeling of oneness with the object",
+   "Showing Pity or compassion",
+   "Feeling of delight at the good work done by others.",
+   "Compassion coupled with devoted action to relieve pain and suffering",
+   "Feeling of disdain or contempt for the person who has fallen into vice."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q15",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "'Asadakaranadupadana grahanat sarva sambhava bhavaat, Shaktasya shakyakaranat karana bhavachcha satkaryam' — the number of this karika in the Samkhyakarika is:",
+  "options": [
+   "5",
+   "9",
+   "15",
+   "18"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 9.** Sāṃkhya Kārikā 9 gives five reasons for satkāryavāda: *asad-akaraṇād upādāna-grahaṇāt sarva-sambhavābhāvāt, śaktasya śakya-karaṇāt kāraṇa-bhāvāc ca sat-kāryam*."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q16",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-III, B-II, C-I, D-IV",
+   "A-IV, B-III, C-II, D-I",
+   "A-II, B-IV, C-I, D-III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-I, D-II.** Satyānanda relates yoga nidrā to a visionary state, deep sleep to the awakening of instincts, waking to sensory awareness and dreaming to the release of suppressed fear and desire.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Yoga Nidra",
+     "Deep sleep",
+     "Awake",
+     "Dreaming sleep"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Sensory awareness",
+     "Suppressed fear and desire",
+     "Awakening of instincts",
+     "Visionary state"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q17",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "statements",
+  "question_text": "According to Hatha Yoga Pradipika, Sheetali pranayama is beneficial in:",
+  "options": [
+   "A, C and D only",
+   "B, C and D only",
+   "A, B and C only",
+   "C, D and E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, C and D only.** HP 2.58: śītalī cures gulma, spleen disorders, fever, bile (pitta), hunger, thirst and poisons.",
+  "items": [
+   "Fever (Jwar)",
+   "Cough Disorder (Cough Vikar)",
+   "Bile disorder (Pitta Vikar)",
+   "Hunger and thirst (Bhukh-Pyas)",
+   "Lethargy (Tandra)"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q18",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to yogkundalyupnishad. which is not a type of four Kumbhakas.",
+  "options": [
+   "Ujjayi",
+   "Suryabhedi",
+   "Chandrabhedi",
+   "Shitali"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Chandrabhedi.** Yogakuṇḍalī's four sahita kumbhakas are sūrya, ujjāyī, śītalī and bhastrikā."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q19",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "'Hanmesham Kleshavaduktam' is related to:",
+  "options": [
+   "Samskaras",
+   "Disorders",
+   "One's feelings",
+   "Lust"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Saṃskāras.** YS 4.28: *hānam eṣāṃ kleśavad uktam* — the removal of these (residual saṃskāras) is as described for the kleśas."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q20",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "question_type": "mcq",
+  "question_text": "According to Yoga Vashistha symptom of Ajirnatvam is:",
+  "options": [
+   "Regular breathing and Good digestion",
+   "Indigestion and Poor breathing",
+   "Over digestion and excessive breathing",
+   "Wrong digestion and irregular breathing"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2)** (no official key). Yoga Vāsiṣṭha links disturbed prāṇa to faulty digestion — kujīrṇatva, atijīrṇatva and ajīrṇatva (indigestion) with poor breathing."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q21",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "question_type": "sequence",
+  "question_text": "What is the correct sequence of the four stages of Yoga as per \"Yoagattavopanishad\"?",
+  "options": [
+   "C, D, B, A",
+   "C, B, A, D",
+   "C, A, B, D",
+   "C, D, A, B"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C, D, A, B** — ārambha, ghaṭa, paricaya, niṣpatti.",
+  "items": [
+   "Parichaya",
+   "Nishpatti",
+   "Aarambh",
+   "Ghat"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q22",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "question_type": "mcq",
+  "question_text": "Krikala upaprana function is related with:",
+  "options": [
+   "Prevent substances passing up the nasal passage and down the throat",
+   "Provides support for intake of extra oxygen in tired body",
+   "It remains in the body even after death and sometimes bloats up a corpse",
+   "Control the movements of eyelids to prevent the eyes from foreign matter."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Kṛkala (kṛkara) causes sneezing and coughing, stopping substances from going up the nose and down the throat. (2) is devadatta, (3) dhanañjaya, (4) kūrma."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q23",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Chitta-bhumis and chitta-vrittis",
+  "question_type": "mcq",
+  "question_text": "According to Patanjali Yoga Sutra, 'Vastushunyata' refers to:",
+  "options": [
+   "Inferential evidence",
+   "Inductive (Agam) evidence",
+   "Reversal (Viparyaya)",
+   "Optional (Vikalpa)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Vikalpa.** YS 1.9: *śabda-jñānānupātī vastu-śūnyo vikalpaḥ* — knowledge from words with no real object."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q24",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "question_type": "mcq",
+  "question_text": "Pivot Joint occurs at which place?",
+  "options": [
+   "Shoulder Joint",
+   "Hip Joint",
+   "Wrist Joint",
+   "Elbow Joint"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Elbow joint.** The proximal radio-ulnar joint at the elbow is a pivot joint (as is the atlanto-axial joint); the shoulder and hip are ball-and-socket, the wrist condyloid."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q25",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "sequence",
+  "question_text": "According to Taittirrya Upanishad the correct sequence of the elements appearing in sequence of self-study and discourse:",
+  "options": [
+   "A, B, C, D, E",
+   "A, B, D, E, C",
+   "A, C, B, E, D",
+   "A, B, E, C, D"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, E, C, D.** Taittirīya 1.9 pairs each practice with svādhyāya-pravacana in the order ṛta, satya, tapas, dama, śama, agni.",
+  "items": [
+   "Rit",
+   "Satya",
+   "Shama",
+   "Agni",
+   "Dama"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q26",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R)",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is Not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Śvetāśvatara 2.12: for one who has gained a body made of the fire of yoga there is no disease, old age or death.",
+  "assertion": "That sadhak remains immune from ailments, aging and untimely demise.",
+  "reason": "The Sadhak attains a body having with the fires of Yoga (Yoga agni).",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q27",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "question_type": "mcq",
+  "question_text": "One should insert the half length of the finger in the anus by opening it and move the finger round until the anal sphincters get relaxed. This practice is called-",
+  "options": [
+   "Sthala Basti",
+   "Anatara Nauli",
+   "Chakrikarma",
+   "Adhara Shodhana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Cakrī karma** (Haṭharatnāvalī): insert the finger into the anus and rotate it until the sphincter relaxes."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q28",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Trishikhibrahmana Upanishad",
+  "question_type": "mcq",
+  "question_text": "For the Jnana Yoga according to Trishikhibrahmanopanishad:",
+  "options": [
+   "to place Prana tattva in Murdhasthan 1 WIC ed. Het wus F Rae BX",
+   "to place prana tattva in Anahat",
+   "to place prana tattva in Uddiyana",
+   "to place prana tattva in Nashikagra"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1)** (no official key). In Triśikhibrāhmaṇa, jñāna yoga is described as holding the prāṇa in the crown of the head (mūrdhā)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q29",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to Yogatattvopanishad. which of the following physical symptoms are witnessed in pursuit of accomplishing yoga practice?",
+  "options": [
+   "Jibva Laulyam",
+   "Bahumutrapuisha",
+   "Adipti",
+   "Swalpnidra"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Swalpa nidrā.** Signs of progress in Yogatattva include little sleep, little excreta and freedom from greed; greed of the tongue is an obstacle."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q30",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "statements",
+  "question_text": "According to Chandogyaupanishad Udgeeth should be worshipped as prana existing in the body:",
+  "options": [
+   "A and D only",
+   "B and C only",
+   "B and D only",
+   "C and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C and E only.** Chāndogya 1.3.3: the junction of prāṇa and apāna is vyāna, and vyāna is speech (vāk).",
+  "items": [
+   "Digestion is Vayu Vyan.",
+   "Indigestion is Vayu Vyan.",
+   "The Union of Prana-Apana is Vyan.",
+   "Vyan is mind.",
+   "It is Vyan that is called vani."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q31",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yama and niyama and their siddhis",
+  "question_type": "sequence",
+  "question_text": "Arrange the outcome of Yama in proper sequence according to Patanjal Yoga Sutra:",
+  "options": [
+   "A, B, C, D, E",
+   "E, D, C, A, B",
+   "E, D, A, B, C",
+   "D, E, B, C, A"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) E, D, A, B, C.** Fruits of the yamas (YS 2.35–39): ahiṃsā → abandonment of hostility; satya → action bears fruit; asteya → all jewels appear; brahmacarya → vigour; aparigraha → knowledge of past births.",
+  "items": [
+   "Sarva ratnopsthanam.",
+   "Virya labhah",
+   "Janmakathantasambodhah",
+   "Kriyaphalashryatwam.",
+   "Vairtyagah"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q32",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "question_type": "mcq",
+  "question_text": "According to the text Hatharatnavali, the Nauli practice has been mentioned as:",
+  "options": [
+   "Vama and Dakshina Nauli 1 om afer fer",
+   "Vama. Madhya and Dakshina Nauli",
+   "Bhari and Eknatar Nauli",
+   "Urdhva and Adho Nauli"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2)** (no official key). Nauli is described with left (vāma), middle (madhya) and right (dakṣiṇa) movements."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q33",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "question_type": "statements",
+  "question_text": "According to Shloka of “Hatha Pradeepika” the correct sequene of diet is:",
+  "options": [
+   "E, D, A, B, C",
+   "A, B, D, C, E",
+   "B, C, E, D, A",
+   "C, D, B, E, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) E, D, A, B, C.** HP 1.63: *puṣṭaṃ sumadhuraṃ snigdhaṃ gavyaṃ dhātu-prapoṣaṇam, manobhilaṣitaṃ yogyaṃ yogī bhojanam ācaret*.",
+  "items": [
+   "Snigadha",
+   "Gavyam",
+   "Manobhilashitam",
+   "Sumadhuram",
+   "Pushtam"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q34",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "statements",
+  "question_text": "According to the Bhagavadgita Tamas sukha is:",
+  "options": [
+   "A and B only",
+   "A and D only",
+   "B and D only",
+   "D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B and D only.** Gītā 18.39: tāmasa happiness deludes the self and arises from sleep, sloth and heedlessness. 'Poison at first' is rājasa (18.38); nectar-like and born of a clear intellect is sāttvika (18.37).",
+  "items": [
+   "Agre-Visham Iva",
+   "Alluring and captivating pleasure",
+   "Akin to nectar",
+   "Comfort arising out of lethargy",
+   "Atma buddhi prasadjam"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q35",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "mcq",
+  "question_text": "The author of text Yogabeeja is:",
+  "options": [
+   "Shriniwas Yogi",
+   "Swami Mohananda",
+   "Guru Gorakshanath",
+   "Swatmaram yogi"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Guru Gorakṣanātha.**"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q36",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "question_type": "statements",
+  "question_text": "Which of the following psychological functions have been emphasized by Jung:",
+  "options": [
+   "A and C only",
+   "B and D only",
+   "A and D only",
+   "C and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A and D only.** Jung's four functions: thinking and feeling, sensation and intuition.",
+  "items": [
+   "Chintan and Bhavana",
+   "Chitta and Aham",
+   "Antarnod, Abhipreran and Samvega",
+   "Samvedana and Sahaj bodha",
+   "Ahamkar aur Idma (Ego and Id)"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q37",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "match",
+  "question_text": "Match List I with List II as per the Bhagawadgita",
+  "options": [
+   "A-IV, B-I, C-II, D-III",
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-IV, C-I, D-II",
+   "A-I, B-II, C-III, D-IV"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-II, B-III, C-IV, D-I.** Desire, anger, greed are the triple gate of hell (16.21); stale food is tāmasa (17.10); poison at first, nectar at last is sāttvika happiness (18.37); worship of yakṣas and rākṣasas is rājasa faith (17.4).",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Three gates of Hell",
+     "Residual",
+     "Akin to poison in the beginning",
+     "Worship of Yaksha and Rakshas"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Rajsik Shraddha",
+     "Desire, Anger, Avarice",
+     "Tamas aahar",
+     "Sattvik Sukha"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q38",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "question_type": "statements",
+  "question_text": "According to Yoga Darshan, which of the following are the characteristics of a Drishta:",
+  "options": [
+   "A and B only",
+   "B and D only",
+   "B and C only",
+   "C and D only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and D only.** YS 2.20: the seer is mere seeing (*dṛśimātra*), pure (*śuddha*), yet sees through the mind. Viśeṣa, aviśeṣa and aliṅga describe the seen (2.19).",
+  "items": [
+   "Vishesha",
+   "Drishimatra",
+   "Aalingmatra",
+   "Shuddha",
+   "Avishesha"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q39",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Trishikhibrahmana Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to Trishikhibrahmanopanishad 'Chittasya Nishchalibhava' is:",
+  "options": [
+   "Asana",
+   "Dharana",
+   "Dhyana",
+   "Pranayama"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Dhāraṇā.** Triśikhibrāhmaṇa defines dhāraṇā as the steadiness of the mind (*cittasya niścalībhāvaḥ*)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q40",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: digestive system",
+  "question_type": "sequence",
+  "question_text": "Arrange the physiological steps of Digestive System in sequence after the regular practice of dhauti kriya.",
+  "options": [
+   "B, E, A, C, D",
+   "B, A, E, C, D",
+   "A, B, E, C, D",
+   "A, B, C, E, D"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, A, E, C, D** — ingestion, digestion, absorption, assimilation, defecation.",
+  "items": [
+   "Digestion",
+   "Ingestion",
+   "Assimilation",
+   "Defecation",
+   "Absorption"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q41",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "question_type": "mcq",
+  "question_text": "A healthy individual is lifting his knee joint towards chest. This movement is known as",
+  "options": [
+   "Flexion",
+   "Extension",
+   "Twisting",
+   "Rotation"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Flexion** — bending the hip and knee towards the chest."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q42",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "question_type": "statements",
+  "question_text": "What are the functions of Copper in human body?",
+  "options": [
+   "A and B only",
+   "A and E only",
+   "B and D only",
+   "D and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A and E only** (no official key). Copper enzymes make melanin (skin and hair colour) and take part in oxidation reactions, including of fatty acids and vitamin C.",
+  "items": [
+   "Provide natural colour of skin and hair",
+   "Help in growing long hair and new hair",
+   "Help in absorption of Calcium and Phosphorous",
+   "Oxygenation of blood cells and tissues",
+   "Oxygenation of Fatty Acid and Vitamin C"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q43",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "statements",
+  "question_text": "According to book \"Teaching Methods for Yogic Practices” the factors influencing teaching methods are:",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "A, D and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C and D only.** Gharote and Ganguly name the content, the students' previous background and the facilities among the factors that shape teaching methods.",
+  "items": [
+   "Economical status of Teacher",
+   "Content",
+   "Previous background",
+   "Facilites",
+   "Physical appearence of Teacher."
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q44",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-III, B-IV, C-II, D-I",
+   "A-IV, B-II, C-III, D-I",
+   "A-II, B-IV, C-III, D-I",
+   "A-I, B-II, C-IV, D-III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-III, B-IV, C-II, D-I.** *nirvicāra-vaiśāradye 'dhyātma-prasādaḥ* 1.47; *draṣṭṛ-dṛśyayoḥ saṃyogo heya-hetuḥ* 2.17; *mūrdha-jyotiṣi siddha-darśanam* 3.32; *draṣṭṛ-dṛśyoparaktaṃ cittaṃ sarvārtham* 4.23.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Samadhipad",
+     "Sadhanpad",
+     "Vibhutipad",
+     "Kaivalyapad"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Drashtrdrishyoparaktam chitam sarvartham",
+     "Murdhajyotishi Siddhadarshanam",
+     "Nirvicharvaishardye adhyatma prasadah",
+     "Drastradrishyayo Samyogoheyahetuh"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q45",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "The length of Vastra dhauti mentioned in Gheranda Samhita is:",
+  "options": [
+   "10-15 Hands",
+   "15-20 Hands",
+   "19-25 Hands",
+   "25-30 Hands"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 15–20 hands** (no official key). Vastra-dhauti uses a thin cloth four fingers wide; HP gives 15 hastas and Haṭharatnāvalī 20."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q46",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "match",
+  "question_text": "Match List I with List II in view of the quantity of diet as per Vasishtha Samhita",
+  "options": [
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-II, C-I, D-IV",
+   "A-I, B-IV, C-III, D-II"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-IV, B-III, C-II, D-I.** Mitāhāra in Vasiṣṭha Saṃhitā: 8 mouthfuls for a sannyāsī, 16 for a vānaprastha, 32 for a householder, and as much as suits for a brahmacārī.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "For Samnyasis",
+     "For the Vanprastha",
+     "For the householders",
+     "For those in celibacy"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Most appropriate (Yatheshta)",
+     "Thirty two bites",
+     "Sixteen bites",
+     "Eight bites"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q47",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "question_type": "statements",
+  "question_text": "According to Shiva Samhita types of Yoga are:.",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "A, C and E only",
+   "C, D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C and E only.** Śiva Saṃhitā names four yogas: mantra, haṭha, laya and rāja.",
+  "items": [
+   "Mantra yoga",
+   "Bhakti Yoga",
+   "Hatha Yoga",
+   "Samarpan Yoga",
+   "Laya Yoga"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q48",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Inhalation with rolled tongue is done in which practice:",
+  "options": [
+   "Plavini",
+   "Ujjayi",
+   "Sheetali",
+   "Seetkari"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Śītalī** — inhaling through the tongue rolled into a tube."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q49",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "question_type": "statements",
+  "question_text": "In Asamprajnata Samadhi, cessation (Viram) is related to:",
+  "options": [
+   "B and E only",
+   "C and D only",
+   "A and C only",
+   "C and E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B and E only.** YS 1.18: asaṃprajñāta samādhi is preceded by practice (abhyāsa) of the idea (pratyaya) of cessation, with only saṃskāras remaining.",
+  "items": [
+   "Chitta Samskara",
+   "Pratyaya",
+   "Prajna Samskara",
+   "Karma Samskara",
+   "Abhyasa"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q50",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "The suitable practice for the management of enlarged spleen and skin diseases comes under:",
+  "options": [
+   "Antardhauti",
+   "Dantadhauti",
+   "Hriddhauti",
+   "Moolasodhana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Hṛd-dhauti.** Vastra (vāsa) dhauti, a hṛd-dhauti in Gheraṇḍa, cures gulma, spleen disorders, fever and skin disease (HP 2.25; GS 1.40)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q51",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "sequence",
+  "question_text": "Sequence the attributes of Pancha tanmatras",
+  "options": [
+   "A, C, D, E, B",
+   "B, D, A, E, C",
+   "C, B, E, D, A",
+   "C, A, E, D, B"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) C, A, E, D, B.** The tanmātras in order — śabda (vibration), sparśa (mechanical pressure), rūpa (heat, light), rasa (viscous attraction), gandha (cohesion).",
+  "items": [
+   "Physical energy of mechanical pressure",
+   "Potential of cohesive effect",
+   "Physical energy of vibration",
+   "Potential of viscous attraction",
+   "Heat, light and radiation"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q52",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 52,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "mcq",
+  "question_text": "Fourth Chapter of the Bhagawadgita is titled as:",
+  "options": [
+   "Arjun Vishad Yoga",
+   "Karma Sanyas Yoga",
+   "Jnana Vijnan Yoga",
+   "Jnana Karma Sanyas Yoga"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Jñāna-karma-saṃnyāsa yoga.**"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q53",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "statements",
+  "question_text": "What has been stated about Parmeshwar in Shwetashwatar Upanishad?",
+  "options": [
+   "A, B, C and D only",
+   "B, C, D and E only",
+   "A, C, D and E only",
+   "A, B, D and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C, D and E only.** Śvetāśvatara 6.16: He is *jñaḥ kāla-kālo guṇī sarva-vid… pradhāna-kṣetrajña-patir guṇeśaḥ*.",
+  "items": [
+   "Kal-Akalah",
+   "Gunesh",
+   "Kalakalh",
+   "Pradhankshetrajnapatih",
+   "Guni"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q54",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "mcq",
+  "question_text": "The theory of 'Apoorva' pertains to which of the following systems:",
+  "options": [
+   "Nyaya Darshan",
+   "Vaishashik Darshan",
+   "Samkhya Darshan",
+   "Mimansa"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Mīmāṃsā** — apūrva is the unseen potency produced by a Vedic rite that later yields its fruit."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q55",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "According to Patanjali Yoga Sutra. which of the following accumulates through cause. fruit. shelter and support?",
+  "options": [
+   "Knowledge",
+   "Action",
+   "Lust",
+   "Sufferings"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3)**, given as 'Lust' in English and वासना in Hindi. YS 4.11: vāsanās are held together by cause, fruit, substratum and support, and vanish when these vanish."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q56",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-IV, B-I, C-II, D-III",
+   "A-I, B-III, C-II, D-IV",
+   "A-IV, B-I, C-III, D-II",
+   "A-III, B-II, C-IV, D-I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-I, C-II, D-III.** Alpha — relaxed wakefulness; beta — active thinking, stress; delta — deep sleep, coma; theta — deep relaxation, drowsy sleep.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Alpha",
+     "Beta",
+     "Delta",
+     "Theta"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Regular mental activities stress",
+     "Deep sleep, coma",
+     "Deep relaxation, sleep",
+     "Relaxed and wakeful state"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q57",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "statements",
+  "question_text": "Which yogasanas are commonly mentioned in both the text books \"Hathyoga Prodepika\" and “Gheranda Samhita”.",
+  "options": [
+   "A, B and D only",
+   "A, C and D only",
+   "B, C and E only",
+   "C, D and E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B and D only.** Mayūra, kukkuṭa and siṃha are in both texts. HP has matsyendrāsana but not matsyāsana; vakrāsana is in neither list.",
+  "items": [
+   "Mayurasana",
+   "Kukkutasana",
+   "Matsyasan",
+   "Simhasana",
+   "Vakrasana"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q58",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "question_type": "statements",
+  "question_text": "Ram (रं) is the beeja mantra of Manipura Chakra. It symbolizes:",
+  "options": [
+   "A and C only",
+   "B and C only",
+   "A and E only",
+   "B and D only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B and D only** (no official key). Maṇipūra, the fire centre, stands for dynamism and indomitable will and endurance.",
+  "items": [
+   "Gateway for liberation",
+   "Dynamism",
+   "Conscious dimension of existence",
+   "Indomitable endurance",
+   "Vibration of etheric element"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q59",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: memory and cognition",
+  "question_type": "mcq",
+  "question_text": "विवक्षित (इम्प्लीसिट) स्मृति कहलाती है :",
+  "options": [
+   "गैर-घोषणात्मक स्मृति",
+   "घोषणात्मक स्मृति",
+   "कार्यरत स्मृति",
+   "संवेदी स्मृति"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) अघोषणात्मक (non-declarative) स्मृति.** Implicit memory works without conscious recall (skills, priming); explicit memory is declarative."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q60",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "question_type": "sequence",
+  "question_text": "Select the correct Yoga sequence froin the mentioned steps of a good quality Yoga lesson plan communicated by the book \"Teaching Methods for Yogic Practices\".",
+  "options": [
+   "C, D, E, B, A",
+   "B, C, D, A, E",
+   "B, A, E, C, D",
+   "A, E, B, C, D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, A, E, C, D** (no official key). In Gharote's model lesson the advantages and salient points of a practice are explained, then do's and don'ts, followed by individual and then group practice.",
+  "items": [
+   "Salient points.",
+   "Advantages",
+   "Individual practices",
+   "Group practice",
+   "Do's and Don'ts"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q61",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "question_type": "sequence",
+  "question_text": "According to Samkhya Darshan. the proper sequence of creation is:",
+  "options": [
+   "D, B, A, E, C",
+   "A, D, B, C, E",
+   "B, C, D, A, E",
+   "C, D, E, B, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) D, B, A, E, C.** Sāṃkhya evolution: prakṛti → mahat → ahaṃkāra → tanmātras → mahābhūtas.",
+  "items": [
+   "Ahamkar",
+   "Mahat",
+   "Pachamahabhut",
+   "Prakriti",
+   "Panch Tanmatras"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q62",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "statements",
+  "question_text": "According to the book \"Teaching Methods for Yogic Practices\" students:",
+  "options": [
+   "B and D only",
+   "C and E only",
+   "A and D only",
+   "D and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) C and E only.** In Gharote and Ganguly the teacher organises, guides and stimulates learning, while the student seeks to adjust to new knowledge and adjusts himself through action.",
+  "items": [
+   "Organize and conduct learning experience",
+   "Guide certain experience",
+   "Desirous of adjusting with new knowledge",
+   "Stimulate Learning",
+   "Adjust himself through the action"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q63",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R)",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is Not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 2.16: properly done prāṇāyāma removes all diseases; YS 2.49 defines prāṇāyāma as breaking the flow of inhalation and exhalation. Both hold, but the definition does not explain the therapeutic claim.",
+  "assertion": "The practice of Pranayama is the remedy of all sorts of ailments.",
+  "reason": "To split the duration of speed of Inhale and Exhale is called Pranayama.",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q64",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 64,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "mcq",
+  "question_text": "Prayer of Cyclic meditation is taken from:",
+  "options": [
+   "Taittariya Upanishad",
+   "Mandukya Karika",
+   "Mundakopanishad",
+   "Samkhya Karika"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Māṇḍūkya Kārikā** (no official key). S-VYASA's cyclic meditation is built on Gauḍapāda's verse (3.44): awaken the mind when it sinks, calm it when it is distracted."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q65",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 65,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "question_type": "match",
+  "question_text": "Match List I with List II: Impediments of Yoga Sadhna as per Yogakundali Upanishad",
+  "options": [
+   "A-IV, B-I, C-II, D-III",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-IV, C-I, D-II"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-III, B-IV, C-I, D-II** (no official key). After disease come doubt about the practice (2nd), carelessness (3rd), sloth (4th) and sleep (5th).",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Oversleeping",
+     "Pramattata",
+     "Sloth",
+     "Suspecting to Yoga Practice"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "4th Impediment",
+     "2nd Impediment",
+     "5th Impediment",
+     "3rd Impediment"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q66",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 66,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "mcq",
+  "question_text": "According to \"Teaching methods for Yogic practices\" which method refers to non- competitive type performance with emphasis on skill and form.",
+  "options": [
+   "Directed-Practice method",
+   "Individualized instructional method",
+   "Response to Instruction method",
+   "Demonstraion method"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Directed-practice method** (no official key): non-competitive practice under the teacher's direction, stressing correct skill and form."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q67",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 67,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "question_type": "mcq",
+  "question_text": "Given below are two statements: Statement I: Vasana and Pranaspand both are causes of Chitta. Statement II: In the event of dissolution of any one of them both as well as their Karya Chitta are wiped out.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true and Statement II is false",
+   "Statement I is false and Statement II is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Yoga Vāsiṣṭha: the tree of mind has two seeds, prāṇa-spandana and vāsanā; when either perishes, both perish, and the mind with them."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q68",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 68,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-I, B-IV, C-II, D-III",
+   "A-III, B-IV, C-I, D-II",
+   "A-IV, B-III, C-II, D-I",
+   "A-II, B-I, C-III, D-IV"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A-III, B-IV, C-I, D-II.** Uṣṭrāsana — extension; ardha-matsyendrāsana — axial twist; pādahastāsana — flexion; tāḍāsana — axial stretch.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Extension",
+     "Axial Twist",
+     "Flexion",
+     "Axial stretch"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Padahastasana",
+     "Tadasana",
+     "Ustrasana",
+     "Ardhamatsyendrasana"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q69",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 69,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism",
+  "question_type": "statements",
+  "question_text": "Arya eight fold path of Buddhism has been classified as",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "B, D and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, D and E only.** The eightfold path falls into prajñā (view, resolve), śīla (speech, action, livelihood) and samādhi (effort, mindfulness, concentration).",
+  "items": [
+   "Yama",
+   "Prajna",
+   "Niyama",
+   "Sheela",
+   "Samadhi"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q70",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 70,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "statements",
+  "question_text": "According to Bhagawad Gita, the methods of learning consisted of:",
+  "options": [
+   "A, B and E only",
+   "B, D and E only",
+   "C, D and E only",
+   "B, C and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, D and E only.** Gītā 4.34: learn by reverent prostration (praṇipāta), repeated questioning (paripraśna) and service (sevā).",
+  "items": [
+   "Finding mistakes in teaching",
+   "Persistent questioning",
+   "Continuous argument",
+   "Showing reverence",
+   "Offering services for Gurus"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q71",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 71,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "question_type": "statements",
+  "question_text": "Following practices are highly recommended for the management of varicose veins.",
+  "options": [
+   "A and B only",
+   "B and C only",
+   "C and D only",
+   "D and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and C only** (no official key). Practices that raise the legs above the heart, like sarvāṅgāsana and śalabhāsana, help venous return in varicose veins; long standing or kneeling postures are avoided.",
+  "items": [
+   "Tadasana",
+   "Sarvangasana",
+   "Shalbhasana",
+   "Gomukhasana",
+   "Veerasana"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q72",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 72,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogachudamani Upanishad",
+  "question_type": "mcq",
+  "question_text": "Which is false statement regarding Yogachudamanupanishad about the prana?",
+  "options": [
+   "Swadhisthan Chakra is abode of Prana",
+   "It is prana that is called 'Swa'",
+   "Prana is also called Medhra",
+   "Anahat chakra is abode of Prana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Yogacūḍāmaṇi: prāṇa is called 'sva', its seat is svādhiṣṭhāna, which is also called meḍhra. Calling anāhata the seat of prāṇa is the false statement."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q73",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 73,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-IV, B-III, C-I, D-II",
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-II, C-I, D-IV",
+   "A-III, B-II, C-IV, D-I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-I, D-II** (no official key). Mūlaśodhana relieves constipation; daṇḍa dhauti clears the gullet; vamana removes phlegm and bile; vastra dhauti cures an enlarged spleen and gulma.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Mulashodhana",
+     "Danda dhauti",
+     "Vaman dhauti",
+     "Vastra dhauti"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Phlegm and bile",
+     "Enlarged spleen",
+     "Disease of Gullet",
+     "Constipation"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q74",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 74,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "mcq",
+  "question_text": "In accordance with the Bhagawad Gita the characteristic feature of senses is:",
+  "options": [
+   "Pramaad",
+   "Prasabham",
+   "Pramathan",
+   "Prasad"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Pramāthana.** Gītā 2.60: the turbulent senses (*indriyāṇi pramāthīni*) forcibly carry away the mind."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q75",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 75,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: sensation, perception and attention",
+  "question_type": "mcq",
+  "question_text": "Inability to recognize faces despite adequate visual acuity:",
+  "options": [
+   "Insomnia",
+   "Perseveration",
+   "Prosopagnosia",
+   "Dysexecutive Syndrome"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Prosopagnosia** (face blindness)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q76",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 76,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "mcq",
+  "question_text": "Stand straight, bend your neck forward. touch the chin to the notch, eyes close. concentrate on the back of neck and forcefully inhale- exhale. this practice is known as:",
+  "options": [
+   "Buddhi and dhriti shakti vikasaka",
+   "Uccharana sthala and vishuddhi chakra ki shuddhi",
+   "Medha Shakti Vikasaka",
+   "Smaran Shakti Vikasaka"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Medhā-śakti vikāsaka** — in Dhīrendra Brahmacārī's sūkṣma vyāyāma the chin rests in the notch, attention on the back of the neck, with forceful breathing."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q77",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 77,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Etymology and definitions of Yoga",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "options": [
+   "A-I, B-III, C-II, D-IV",
+   "A-III, B-II, C-I, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-I, C-III, D-II"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-II, B-III, C-IV, D-I.** Steady holding of the senses — Kaṭha (2.3.11); union of apāna and prāṇa — Yogaśikhā; the seer resting in its own form — Yoga Sūtra (1.3); the means of crossing the ocean of saṃsāra — Yoga Vāsiṣṭha.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Steadiness of senses",
+     "Union of Apan and Prana",
+     "Swarupavasthiti of Drashta",
+     "Transcending the material world is Yoga"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Yoga Vashishtha",
+     "Kathopanishad",
+     "Yoga Shikhopnishad",
+     "Yoga Sutra"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q78",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 78,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: energy and metabolism",
+  "question_type": "statements",
+  "question_text": "'Which are the components found by the process of glycolysis?",
+  "options": [
+   "A and C only",
+   "B and D only",
+   "C and E only",
+   "D and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and D only.** Glycolysis breaks glucose into pyruvic acid with a net gain of ATP (and NADH).",
+  "items": [
+   "ADP",
+   "Pyruvic Acid",
+   "Amino Acid",
+   "ATP",
+   "H2O"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q79",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 79,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Narada Bhakti Sutra",
+  "question_type": "mcq",
+  "question_text": "Which sutra of the Narada Bhaktisutra contains \"Satvasmin Param Premrupa\"?",
+  "options": [
+   "One",
+   "Two",
+   "Four",
+   "Six"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Two.** Sūtra 2: *sā tv asmin parama-prema-rūpā* — bhakti is supreme love for Him."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q80",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 80,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "sequence",
+  "question_text": "Arrange the steps for practicing Clavicualr breathing-",
+  "options": [
+   "E, C, D, B, A",
+   "C, E, A, B, D",
+   "C, E, A, D, B",
+   "E, B, D, A, C"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) C, E, A, D, B.** Lie in śavāsana, inhale and expand the ribcage, let the shoulders and collarbones rise, exhale relaxing the upper chest, then release the lower neck.",
+  "items": [
+   "Shoulder and collar bone move up slightly",
+   "Exhale slowly and release the lower neck",
+   "Lie in shavasana",
+   "Exhale and relax upper chest and ribcage",
+   "Inhale, expand the ribcage"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q81",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 81,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: memory and cognition",
+  "question_type": "statements",
+  "question_text": "What are the attributes of human mind-",
+  "options": [
+   "A, C and E only",
+   "B, C and E only",
+   "A, C and D only",
+   "B, D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, C and D only** — imagination, inference and deduction are cognitive functions; hypnosis is a state and telepathy is not an accepted attribute.",
+  "items": [
+   "Imagination",
+   "Hypnosis",
+   "Inference",
+   "Deduction",
+   "Telepathy"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q82",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 82,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "sequence",
+  "question_text": "According to Gheranda Samhita which practices are helpful to remove the disorders of phlegm and provide divyadrishti.",
+  "options": [
+   "A and B only",
+   "B and C only",
+   "C and D only",
+   "D and E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) C and D only** (no official key). Gheraṇḍa says neti destroys kapha disorders and gives divine sight, and links it with khecarī siddhi.",
+  "items": [
+   "Vatasara",
+   "Varisara",
+   "Neti",
+   "Khechari",
+   "Danda dhauti"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q83",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 83,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "question_type": "statements",
+  "question_text": "Kumbhakas mentioned in \"Vashishtha Samhita\":",
+  "options": [
+   "A and C only",
+   "B and D only",
+   "B and E only",
+   "A and B only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and D only.** Vasiṣṭha Saṃhitā teaches sahita and kevala kumbhaka.",
+  "items": [
+   "Ujjayi",
+   "Keval",
+   "Bhramri",
+   "Sahit",
+   "Murchchha"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q84",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 84,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "statements",
+  "question_text": "What has been stated about ek deva (Paramatna) in Shwetashwatar Upanishad.",
+  "options": [
+   "B, C and E only",
+   "A, C and E only",
+   "A, D and E only",
+   "B, D and E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B, C and E only.** Śvetāśvatara 6.11: the one God, hidden in all beings (*sarva-bhūteṣu gūḍhaḥ*), overseer of actions (*karmādhyakṣaḥ*), witness and conscious one (*cetā*).",
+  "items": [
+   "Acheta",
+   "Cheta",
+   "Sarvabhuteshu Gudhah",
+   "Sarvabhuteshu Agudhah",
+   "Karmaadyakashah"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q85",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 85,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "question_type": "mcq",
+  "question_text": "Which tridosha exhibits a cohesive effect?",
+  "options": [
+   "Pitta only",
+   "Vata only",
+   "Kapha only",
+   "Pitta and kapha Combined"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Kapha** — made of earth and water, it holds the body together (cohesion)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q86",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 86,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "question_type": "mcq",
+  "question_text": "Which of the following terms are used for 'Shiva' and 'Shakti' in the text Shiv samhita?",
+  "options": [
+   "Brahma and Jiva",
+   "Niranjan and Prana",
+   "Bindu and Raja",
+   "Atma and Prana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bindu and Raja.** Śiva Saṃhitā identifies bindu with Śiva and rajas with Śakti."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q87",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 87,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "question_type": "statements",
+  "question_text": "According to the Bhagawadgita. which of the following has been termed as \"sthit dhi muni\"? A Sarveshu Spriha",
+  "options": [
+   "A and E only",
+   "D and E only",
+   "B and C only",
+   "B and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B and E only.** Gītā 2.56: unshaken in sorrow, free of craving amid pleasures — such a sage is called sthita-dhī.",
+  "items": [
+   "Sarveshu Spriha",
+   "Sukheshu Vigatspriha",
+   "Dukheshu Vigatspriha",
+   "Sukheshu Anudwignamanah",
+   "Dukheshu Anudwignamanah"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q88",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 88,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: energy and metabolism",
+  "question_type": "statements",
+  "question_text": "Which are the figures of the body mass index denoting non obese.",
+  "options": [
+   "A and B only",
+   "B and C only",
+   "C and D only",
+   "D and E only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A and B only.** BMI 18.5–24.9 is normal; 25–29.9 overweight; 30+ obese.",
+  "items": [
+   "22",
+   "24",
+   "26",
+   "28",
+   "32"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q89",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 89,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "'Na vittena tarpaniyo manusyo' is mentioned in:",
+  "options": [
+   "Ishwasyopanishad",
+   "Kathopanishad",
+   "Kenopanishad",
+   "Prashnopanishad"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kaṭha.** Kaṭha 1.1.27: *na vittena tarpaṇīyo manuṣyaḥ* — man is not satisfied by wealth (Naciketas to Yama)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q90",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 90,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Nath tradition and Gorakshanath",
+  "question_type": "mcq",
+  "question_text": "The concept of Pindotpatti has been dealt with in:",
+  "options": [
+   "Gherand Samhita",
+   "Siddha Siddhant Paddhati",
+   "Yoga beeja",
+   "Hatha Yoga Pradipika"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Siddha Siddhānta Paddhati**, whose first chapter is *piṇḍotpatti* (origin of the body)."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q91",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 91,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "question_type": "mcq",
+  "question_text": "What is Purusha vishesha with Klesha, Karma, Vipak and Ashaya?",
+  "options": [
+   "Closed",
+   "Absolutely dissociative",
+   "Attached",
+   "Unaffiliated"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Īśvara is the puruṣa wholly untouched (सर्वथा रहित) by kleśa, karma, vipāka and āśaya (YS 1.24).",
+  "passage": "Human beings from among themselves, have accorded recognition of Divine entities of lord Shri Rama, Shri Krishna, Mahavira and have hailed them as Bhagwan, Ishwara or the supreme entity. Now the question arises as to what unique feature had they been endowed with that prompted us to hold them as Ishwara. Responding to this question Patanjali aptly remarks and says that only such person from among the whole mankind that is immune from and stays quite unaffected with klesha karma Vipak and Ashay qualifies for being called Unique Individual (Purusha vishesha) Ishwara. Ishwara is omniscient and omnipresent. Patanjali calls the omniscience of Ishwara Niratishaya. He is the Guru of everyone including the Gurus of earlier times. His best and first name is 'Pranav'. One ought to devote oneself to Japa with meaning and spirit herewith (God). Thus by following above practices, an individual soul can get the virtues of Supreme (God) or Ishwara."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q92",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 92,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "question_type": "mcq",
+  "question_text": "Omniscience of Ishwara is",
+  "options": [
+   "Niratishaya",
+   "Satishaya",
+   "Without degradation",
+   "Closed"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Niratiśaya.**",
+  "passage": "Human beings from among themselves, have accorded recognition of Divine entities of lord Shri Rama, Shri Krishna, Mahavira and have hailed them as Bhagwan, Ishwara or the supreme entity. Now the question arises as to what unique feature had they been endowed with that prompted us to hold them as Ishwara. Responding to this question Patanjali aptly remarks and says that only such person from among the whole mankind that is immune from and stays quite unaffected with klesha karma Vipak and Ashay qualifies for being called Unique Individual (Purusha vishesha) Ishwara. Ishwara is omniscient and omnipresent. Patanjali calls the omniscience of Ishwara Niratishaya. He is the Guru of everyone including the Gurus of earlier times. His best and first name is 'Pranav'. One ought to devote oneself to Japa with meaning and spirit herewith (God). Thus by following above practices, an individual soul can get the virtues of Supreme (God) or Ishwara."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q93",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 93,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "question_type": "mcq",
+  "question_text": "One ought to pay obeisance to the name of Ishwara through:",
+  "options": [
+   "Worship and meditation",
+   "Worship and recitation",
+   "Prayer and Arti",
+   "Japa coupled with the spirit of Artha"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4)** — japa together with dwelling on its meaning (YS 1.28).",
+  "passage": "Human beings from among themselves, have accorded recognition of Divine entities of lord Shri Rama, Shri Krishna, Mahavira and have hailed them as Bhagwan, Ishwara or the supreme entity. Now the question arises as to what unique feature had they been endowed with that prompted us to hold them as Ishwara. Responding to this question Patanjali aptly remarks and says that only such person from among the whole mankind that is immune from and stays quite unaffected with klesha karma Vipak and Ashay qualifies for being called Unique Individual (Purusha vishesha) Ishwara. Ishwara is omniscient and omnipresent. Patanjali calls the omniscience of Ishwara Niratishaya. He is the Guru of everyone including the Gurus of earlier times. His best and first name is 'Pranav'. One ought to devote oneself to Japa with meaning and spirit herewith (God). Thus by following above practices, an individual soul can get the virtues of Supreme (God) or Ishwara."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q94",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 94,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "question_type": "mcq",
+  "question_text": "Which of the following has been referred as \"Ishwara\" by Patanjali?",
+  "options": [
+   "Purusha",
+   "Purusha Avishesha",
+   "Unique individuals (Purusha vishesha)",
+   "Person with no attachment whatsoever (Anasakth purush)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Puruṣa-viśeṣa.**",
+  "passage": "Human beings from among themselves, have accorded recognition of Divine entities of lord Shri Rama, Shri Krishna, Mahavira and have hailed them as Bhagwan, Ishwara or the supreme entity. Now the question arises as to what unique feature had they been endowed with that prompted us to hold them as Ishwara. Responding to this question Patanjali aptly remarks and says that only such person from among the whole mankind that is immune from and stays quite unaffected with klesha karma Vipak and Ashay qualifies for being called Unique Individual (Purusha vishesha) Ishwara. Ishwara is omniscient and omnipresent. Patanjali calls the omniscience of Ishwara Niratishaya. He is the Guru of everyone including the Gurus of earlier times. His best and first name is 'Pranav'. One ought to devote oneself to Japa with meaning and spirit herewith (God). Thus by following above practices, an individual soul can get the virtues of Supreme (God) or Ishwara."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q95",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 95,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "question_type": "mcq",
+  "question_text": "The best nomenclature of Ishwara is",
+  "options": [
+   "Paramatma",
+   "Brahma",
+   "Pranava",
+   "Parameshwar"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Praṇava.**",
+  "passage": "Human beings from among themselves, have accorded recognition of Divine entities of lord Shri Rama, Shri Krishna, Mahavira and have hailed them as Bhagwan, Ishwara or the supreme entity. Now the question arises as to what unique feature had they been endowed with that prompted us to hold them as Ishwara. Responding to this question Patanjali aptly remarks and says that only such person from among the whole mankind that is immune from and stays quite unaffected with klesha karma Vipak and Ashay qualifies for being called Unique Individual (Purusha vishesha) Ishwara. Ishwara is omniscient and omnipresent. Patanjali calls the omniscience of Ishwara Niratishaya. He is the Guru of everyone including the Gurus of earlier times. His best and first name is 'Pranav'. One ought to devote oneself to Japa with meaning and spirit herewith (God). Thus by following above practices, an individual soul can get the virtues of Supreme (God) or Ishwara."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q96",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 96,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "Today Yoga is adopted as-",
+  "options": [
+   "Modern Yoga therapy",
+   "Complementary and Alternative Medicine",
+   "Physiotherapy and Rehabilitation",
+   "Rehabilitation and Therapeutic medicine"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Complementary and alternative medicine.**",
+  "passage": "Yoga is the combination of mind-body practices which includes Yoga postures, breathing techniques, relaxation and meditation practices. It is traditionally rooted in Indian philosophy and spiritual practice, and currently adapted for use in complimentary and alternative medicine in the globe. Scientific evidences suggest that Yoga can improve physical health, calm the mind and provide relaxation. It has been demonstrated that Yoga has the potential to improve psychological health and reduce cardiovascular disease risk factors such as stress, anxiety and depression. Moreover, positive effects of Yoga have also found for biological risk factors such as hypertension, hyper lipidimea and insulin resistance. There are six randomized controlled trials done in India which strengthen the evidence and recommendation of Yoga as an ancillary intervention for heart disease."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q97",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 97,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "Randomized controlled trials on Yoga strengthen-",
+  "options": [
+   "Recommendation for Yoga",
+   "Physical activity",
+   "Psychosocial risk factors",
+   "Biological risk factors"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The trials strengthen the evidence and recommendation for yoga.",
+  "passage": "Yoga is the combination of mind-body practices which includes Yoga postures, breathing techniques, relaxation and meditation practices. It is traditionally rooted in Indian philosophy and spiritual practice, and currently adapted for use in complimentary and alternative medicine in the globe. Scientific evidences suggest that Yoga can improve physical health, calm the mind and provide relaxation. It has been demonstrated that Yoga has the potential to improve psychological health and reduce cardiovascular disease risk factors such as stress, anxiety and depression. Moreover, positive effects of Yoga have also found for biological risk factors such as hypertension, hyper lipidimea and insulin resistance. There are six randomized controlled trials done in India which strengthen the evidence and recommendation of Yoga as an ancillary intervention for heart disease."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q98",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 98,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "Psychosocial risk factor for cardiovascular disease:",
+  "options": [
+   "Hypertension",
+   "Insulin resistance",
+   "Anger",
+   "Depression"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Depression** — the passage names stress, anxiety and depression as psychosocial risk factors; hypertension and insulin resistance are biological.",
+  "passage": "Yoga is the combination of mind-body practices which includes Yoga postures, breathing techniques, relaxation and meditation practices. It is traditionally rooted in Indian philosophy and spiritual practice, and currently adapted for use in complimentary and alternative medicine in the globe. Scientific evidences suggest that Yoga can improve physical health, calm the mind and provide relaxation. It has been demonstrated that Yoga has the potential to improve psychological health and reduce cardiovascular disease risk factors such as stress, anxiety and depression. Moreover, positive effects of Yoga have also found for biological risk factors such as hypertension, hyper lipidimea and insulin resistance. There are six randomized controlled trials done in India which strengthen the evidence and recommendation of Yoga as an ancillary intervention for heart disease."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q99",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 99,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "How many randomized controlled trials are done:",
+  "options": [
+   "Five",
+   "Six",
+   "Four",
+   "Ten"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Six.**",
+  "passage": "Yoga is the combination of mind-body practices which includes Yoga postures, breathing techniques, relaxation and meditation practices. It is traditionally rooted in Indian philosophy and spiritual practice, and currently adapted for use in complimentary and alternative medicine in the globe. Scientific evidences suggest that Yoga can improve physical health, calm the mind and provide relaxation. It has been demonstrated that Yoga has the potential to improve psychological health and reduce cardiovascular disease risk factors such as stress, anxiety and depression. Moreover, positive effects of Yoga have also found for biological risk factors such as hypertension, hyper lipidimea and insulin resistance. There are six randomized controlled trials done in India which strengthen the evidence and recommendation of Yoga as an ancillary intervention for heart disease."
+ },
+ {
+  "id": "YOGA-2023JUN-P2-Q100",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "June",
+  "paper": "Paper 2",
+  "question_no": 100,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2023, Yoga (100), Paper 2, held 21 June 2023 (15:00–18:00 shift). Transcribed from a printout of the NTA response sheet (\"VYA UGC NET QUESTION JUNE 2023.pdf\" in the notes folder, circulated by Vivek Anand Yoga Academy); question numbers are as printed (Part B, 1–100) and the English version is used. No NTA answer key was available, so answers are worked out from the source texts and are marked unverified; the candidate's chosen options are not used."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "Yoga is the combination of :",
+  "options": [
+   "Physical and mental practices",
+   "Emotional and social practices",
+   "Mind-body practices",
+   "Breath, mind and spiritual practices"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Mind-body practices.**",
+  "passage": "Yoga is the combination of mind-body practices which includes Yoga postures, breathing techniques, relaxation and meditation practices. It is traditionally rooted in Indian philosophy and spiritual practice, and currently adapted for use in complimentary and alternative medicine in the globe. Scientific evidences suggest that Yoga can improve physical health, calm the mind and provide relaxation. It has been demonstrated that Yoga has the potential to improve psychological health and reduce cardiovascular disease risk factors such as stress, anxiety and depression. Moreover, positive effects of Yoga have also found for biological risk factors such as hypertension, hyper lipidimea and insulin resistance. There are six randomized controlled trials done in India which strengthen the evidence and recommendation of Yoga as an ancillary intervention for heart disease."
+ }
+]
