@@ -36,6 +36,7 @@ ANSWER_SOURCES: dict[str, str] = {
 CYCLES = ("January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December")
 UNDATED = "undated"
+PRACTICE = "practice"
 
 
 class QuestionError(ValueError):
@@ -96,7 +97,9 @@ class Question:
 
     @property
     def session_key(self) -> str:
-        return f"{self.exam_year}-{self.exam_cycle}" if self.is_dated else UNDATED
+        if self.is_dated:
+            return f"{self.exam_year}-{self.exam_cycle}"
+        return PRACTICE if self.source_type == "practice" else UNDATED
 
     @property
     def session_label(self) -> str:

@@ -36,7 +36,7 @@ def test_yoga_subscriber_gets_every_yoga_paper_but_no_book_questions(bank):
     real = [q for q in yoga.questions if q.source_type != "model"]
     assert real and all(q.subject == "yoga" for q in real)
     p1 = visible_bank(bank, admin=False, unlocked={"paper1"})
-    assert not any(q.subject == "paper1" and q.exam_year < 2019 for q in p1.questions)   # the book papers stay hidden
+    assert not any(q.subject == "paper1" and q.is_dated and q.exam_year < 2019 for q in p1.questions)   # the book papers stay hidden
     assert any(q.subject == "paper1" and q.exam_year == 2025 for q in p1.questions)
 
 
@@ -45,7 +45,7 @@ def test_admin_sees_everything(bank):
 
 
 def test_book_sourced_questions_are_detected(bank):
-    assert all(is_book_sourced(q) for q in bank.questions if q.subject == "paper1" and q.exam_year < 2019)
+    assert all(is_book_sourced(q) for q in bank.questions if q.subject == "paper1" and q.is_dated and q.exam_year < 2019)
     from_book = {q.session_label for q in bank.questions if q.subject == "yoga" and is_book_sourced(q)}
     assert from_book == {"November 2017", "July 2018", "December 2018"}    # transcribed from a solved-papers collection
     assert any(not is_book_sourced(q) for q in bank.questions if q.subject == "yoga")
@@ -233,3 +233,13 @@ def test_users_are_not_told_where_a_question_came_from():
     at.segmented_control(key="f_subject").set_value("yoga").run()
     captions = " ".join(c.value for c in at.caption)
     assert "Official paper" not in captions and "YOGA-" not in captions
+
+
+def test_practice_sets_come_with_the_subscription_and_stay_out_of_the_trends(bank):
+    practice = [q for q in bank.questions if q.source_type == "practice"]
+    assert practice and not any(q.is_dated for q in practice)
+    assert {q.session_key for q in practice} == {"practice"}
+    free = visible_bank(bank, admin=False, unlocked=set())
+    assert not any(q.source_type == "practice" for q in free.questions)
+    yoga = visible_bank(bank, admin=False, unlocked={"yoga"})
+    assert any(q.source_type == "practice" and q.subject == "yoga" for q in yoga.questions)

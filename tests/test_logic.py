@@ -106,7 +106,7 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
 def test_shipped_paper_1_sessions_keep_their_numbering():
     by_paper = {}
     for q in shipped_bank().questions:
-        if q.subject == "paper1":
+        if q.subject == "paper1" and q.is_dated:
             by_paper.setdefault((q.session_key, q.paper), []).append(q.question_no)
     assert {k: sorted(v) for k, v in by_paper.items()} == {
         ("2016-July", "Paper I"): list(range(1, 61)),

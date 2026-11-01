@@ -4,7 +4,7 @@ from collections import Counter
 from collections.abc import Iterable, Sequence
 from dataclasses import dataclass
 
-from .model import QUESTION_TYPES, UNDATED, Question
+from .model import PRACTICE, QUESTION_TYPES, UNDATED, Question
 from .syllabus import SUBJECTS
 
 ALL = "all"
@@ -13,7 +13,7 @@ ALL = "all"
 @dataclass(frozen=True, slots=True)
 class Filters:
     subject: str = ALL   # ALL or a subject id
-    session: str = ALL   # ALL, "2025", "2025-June" or "undated"
+    session: str = ALL   # ALL, "2025", "2025-June", "practice" or "undated"
     unit: str = ALL      # ALL or a macro_unit label
     topic: str = ALL     # ALL or a micro_topic
     qtype: str = ALL     # ALL or a question_type
@@ -40,7 +40,8 @@ class Filters:
         if self.subject != ALL:
             parts.append(SUBJECTS[self.subject].name)
         if self.session != ALL:
-            parts.append("Practice sets" if self.session == UNDATED else self.session.replace("-", " "))
+            named = {PRACTICE: "Practice sets", UNDATED: "Samples"}
+            parts.append(named.get(self.session) or self.session.replace("-", " "))
         if self.unit != ALL:
             parts.append(self.unit)
         if self.topic != ALL:
@@ -66,9 +67,12 @@ def session_choices(questions: Sequence[Question]) -> dict[str, str]:
         choices[str(year)] = f"{year}: all sessions ({per_year[year]})"
         for key in sorted((k for k in per_session if k.startswith(f"{year}-")), key=order.get, reverse=True):
             choices[key] = f"   {labels[key]} ({per_session[key]})"
-    undated = len(questions) - len(dated)
-    if undated:
-        choices[UNDATED] = f"Practice sets and samples ({undated})"
+    practice = sum(1 for q in questions if q.session_key == PRACTICE)
+    samples = sum(1 for q in questions if q.session_key == UNDATED)
+    if practice:
+        choices[PRACTICE] = f"Practice sets ({practice})"
+    if samples:
+        choices[UNDATED] = f"Samples ({samples})"
     return choices
 
 

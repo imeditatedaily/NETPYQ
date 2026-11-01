@@ -1,0 +1,326 @@
+[
+ {
+  "id": "P1-PRAC1-001",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "question_type": "mcq",
+  "question_text": "The announcement of the arrival and departure of trains at a railway station is an example of",
+  "options": [
+   "spatial communication",
+   "organisational communication",
+   "public communication",
+   "sectional communication"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Public communication.** A single source addresses a large, mixed audience in a public place, with no direct feedback — the mark of public communication."
+ },
+ {
+  "id": "P1-PRAC1-002",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "The information function of mass communication is described as",
+  "options": [
+   "diffusion",
+   "publicity",
+   "surveillance",
+   "diversion"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Surveillance.** In Lasswell's account, mass media survey the environment (surveillance), correlate society's response and transmit culture; Wright added entertainment. Surveillance is the news and information function."
+ },
+ {
+  "id": "P1-PRAC1-003",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "Transforming thoughts, ideas and messages into verbal and non-verbal signs is referred to as",
+  "options": [
+   "channelisation",
+   "mediation",
+   "encoding",
+   "decoding"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Encoding.** The sender encodes meaning into signs; the receiver decodes the signs back into meaning."
+ },
+ {
+  "id": "P1-PRAC1-004",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "In mass communication, selective perception depends on the receiver's",
+  "options": [
+   "competence",
+   "pre-disposition",
+   "receptivity",
+   "ethnicity"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Pre-disposition.** People notice, interpret and remember messages in line with their existing attitudes and beliefs — selective exposure, perception and retention."
+ },
+ {
+  "id": "P1-PRAC1-005",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "In communication, the interpretation of a message depends on",
+  "options": [
+   "the context",
+   "the transmission speed",
+   "the associated noise",
+   "channel efficiency"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The context.** The same words mean different things in different physical, social, cultural and psychological contexts."
+ },
+ {
+  "id": "P1-PRAC1-006",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "question_type": "mcq",
+  "question_text": "Didactic communication is",
+  "options": [
+   "inter-personal",
+   "organisational",
+   "relational",
+   "intra-personal"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Inter-personal.** Didactic communication is instructional — a teacher conveying knowledge to learners — and takes place between persons."
+ },
+ {
+  "id": "P1-PRAC1-007",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "When verbal and non-verbal messages contradict each other, most people believe the",
+  "options": [
+   "indeterminate messages",
+   "verbal messages",
+   "non-verbal messages",
+   "aggressive messages"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Non-verbal messages.** Tone, face and body are harder to fake, so receivers trust them over words when the two conflict."
+ },
+ {
+  "id": "P1-PRAC1-008",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "question_type": "assertion_reason",
+  "question_text": "Read the two statements and choose the correct option.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Good classroom communication is a skill that can be learnt and practised, not a gift of nature, so (A) is false. Effective teaching does demand knowledge of the communication process, so (R) is true.",
+  "assertion": "To communicate well in the classroom is a natural ability.",
+  "reason": "Effective teaching in the classroom demands knowledge of the communication process."
+ },
+ {
+  "id": "P1-PRAC1-009",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "question_type": "mcq",
+  "question_text": "The word 'haptics' denotes",
+  "options": [
+   "tactile communication",
+   "spatial communication",
+   "staggered communication",
+   "timely communication"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Tactile communication.** Haptics is communication by touch. Proxemics is the use of space, chronemics the use of time and kinesics body movement."
+ },
+ {
+  "id": "P1-PRAC1-010",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "question_type": "mcq",
+  "question_text": "In communication, a major barrier to the reception of a message is the audience's",
+  "options": [
+   "attitude",
+   "knowledge",
+   "education",
+   "income"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Attitude.** A hostile or indifferent attitude blocks attention and acceptance even when the message is clear."
+ },
+ {
+  "id": "P1-PRAC1-011",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "question_type": "mcq",
+  "question_text": "Conversing with spirits and ancestors is termed",
+  "options": [
+   "transpersonal communication",
+   "intrapersonal communication",
+   "interpersonal communication",
+   "face-to-face communication"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Transpersonal communication** — communication that goes beyond the self and other people, with the spiritual or the divine, as in prayer."
+ },
+ {
+  "id": "P1-PRAC1-012",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "question_type": "mcq",
+  "question_text": "In circular communication, the encoder becomes a decoder when there is",
+  "options": [
+   "noise",
+   "an audience",
+   "criticality",
+   "feedback"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Feedback.** In the circular (Osgood–Schramm) model each party both encodes and decodes; feedback is what turns the sender into a receiver."
+ },
+ {
+  "id": "P1-PRAC1-013",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "question_type": "mcq",
+  "question_text": "The term 'yellow journalism' refers to",
+  "options": [
+   "sensational news about terrorism and violence",
+   "sensationalism and exaggeration to attract readers or viewers",
+   "sensational news about arts and culture",
+   "news printed on yellow paper"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The term comes from the 1890s circulation war between Pulitzer's *New York World* and Hearst's *New York Journal*, both of which ran the 'Yellow Kid' comic strip."
+ },
+ {
+  "id": "P1-PRAC1-014",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Communication). Written from the Communication_Quiz_Detailed sheet in the notes folder; the sheet had no key, so answers are the standard ones from earlier NTA papers."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "question_type": "mcq",
+  "question_text": "When communication content is deliberately adjusted to fit an ideology, the result is",
+  "options": [
+   "internationalisation",
+   "promotion of peace",
+   "social practicability",
+   "power distortion"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Power distortion.** Bending content to serve an ideology distorts the message in favour of those who hold power — propaganda rather than communication."
+ }
+]

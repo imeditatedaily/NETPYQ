@@ -1,0 +1,1259 @@
+[
+ {
+  "id": "YOGA-PRAC1-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "'उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत' — this call to awaken is found in which text?",
+  "options": [
+   "Mundaka Upanishad",
+   "Katha Upanishad",
+   "Prashna Upanishad",
+   "Isha Upanishad"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Katha Upanishad.** KU 1.3.14: 'Arise, awake, approach the great ones and learn; sharp as a razor's edge is that path, hard to cross, say the wise.'"
+ },
+ {
+  "id": "YOGA-PRAC1-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "The definition of yoga as 'स्थिरामिन्द्रियधारणाम्' (the steady holding of the senses) is given in",
+  "options": [
+   "Kena Upanishad",
+   "Bhagavad Gita",
+   "Katha Upanishad",
+   "Yoga Vasishtha"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Katha Upanishad.** KU 2.3.11: *tāṃ yogam iti manyante sthirām indriya-dhāraṇām* — they consider yoga to be this firm holding of the senses. The verse before it (2.3.10) describes the highest state, when the five senses and the mind are still and the intellect does not stir."
+ },
+ {
+  "id": "YOGA-PRAC1-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "'यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह' — identify the reference.",
+  "options": [
+   "Katha Upanishad 1.3.10",
+   "Katha Upanishad 2.3.10",
+   "Katha Upanishad 2.3.11",
+   "Katha Upanishad 1.3.11"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) KU 2.3.10.** 'When the five organs of knowledge are still, together with the mind, and the intellect does not stir — that, they say, is the highest state.' The next verse, 2.3.11, calls this steady holding of the senses yoga."
+ },
+ {
+  "id": "YOGA-PRAC1-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Katha Upanishad, how many nadis are connected with the heart?",
+  "options": [
+   "72,000",
+   "100",
+   "101",
+   "1,000"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 101.** KU 2.3.16: *śataṃ caikā ca hṛdayasya nāḍyas* — a hundred and one are the nadis of the heart; one of them goes up to the crown, and by it one going upward reaches immortality."
+ },
+ {
+  "id": "YOGA-PRAC1-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः' occurs in which of the following?",
+  "options": [
+   "Katha Upanishad only",
+   "Mundaka Upanishad only",
+   "Shvetashvatara Upanishad only",
+   "Katha, Mundaka and Shvetashvatara Upanishads"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) All three.** The same verse occurs at Katha 2.2.15, Mundaka 2.2.10 and Shvetashvatara 6.14: the sun does not shine there, nor the moon and stars; by His light all this shines."
+ },
+ {
+  "id": "YOGA-PRAC1-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "question_type": "mcq",
+  "question_text": "'हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्' is from",
+  "options": [
+   "Isha Upanishad 8",
+   "Isha Upanishad 15",
+   "Kena Upanishad 2.3",
+   "Katha Upanishad 1.2.3"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Isha 15.** 'The face of Truth is covered by a golden vessel; O Pushan, remove it so that I, devoted to truth, may see.' Verse 8 (*sa paryagāc chukram*) describes the self as bright and bodiless."
+ },
+ {
+  "id": "YOGA-PRAC1-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'नाहं मन्ये सुवेदेति नो न वेदेति वेद च' — this verse on the paradox of knowing Brahman is from",
+  "options": [
+   "Kena Upanishad",
+   "Katha Upanishad",
+   "Mundaka Upanishad",
+   "Prashna Upanishad"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Kena Upanishad.** Kena 2.2: 'I do not think I know it well, nor that I do not know it.' The next verse says Brahman is known by the one to whom it is unknown, and unknown to those who think they know it."
+ },
+ {
+  "id": "YOGA-PRAC1-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the first question of the Prashna Upanishad, Prana is identified with",
+  "options": [
+   "the sun (Aditya)",
+   "the earth",
+   "the moon",
+   "water"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Aditya.** Prashna 1.5: *ādityo ha vai prāṇo rayir eva candramāḥ* — the sun is prana and the moon is rayi (matter). Prajapati's pair, prana and rayi, is Pippalada's answer to Kabandhi Katyayana."
+ },
+ {
+  "id": "YOGA-PRAC1-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "Satyakama, son of Shibi, asked Pippalada about",
+  "options": [
+   "the origin of creatures",
+   "the meditation on Om (Pranava) till death",
+   "the sixteen kalas of the Purusha",
+   "the gods that sustain the body"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Pranava.** The fifth question (Prashna 5): what world does one win who meditates on Om till the end of life? The answer works through one, two and three matras of Om."
+ },
+ {
+  "id": "YOGA-PRAC1-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Prashna Upanishad, the question about the Purusha with sixteen kalas was asked by",
+  "options": [
+   "Kabandhi Katyayana",
+   "Sauryayani Gargya",
+   "Sukesha Bharadvaja",
+   "Bhargava of Vidarbha"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sukesha Bharadvaja.** The sixth and last question (Prashna 6.1). Kabandhi asked the first (the origin of creatures), Bhargava the second (the gods that hold the body), Kausalya the third (the origin of prana), Sauryayani the fourth (sleep and dream) and Satyakama the fifth (Om)."
+ },
+ {
+  "id": "YOGA-PRAC1-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT one of the sixteen kalas listed in Prashna Upanishad 6.4?",
+  "options": [
+   "Manas",
+   "Tapas",
+   "Mantra",
+   "Dama"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Dama.** Prashna 6.4 lists the sixteen kalas: prana, shraddha, kha (space), vayu, jyoti, apah, prithvi, indriya, manas, anna, virya, tapas, mantra, karma, loka and nama. Dama (self-restraint) is not among them."
+ },
+ {
+  "id": "YOGA-PRAC1-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Prashna Upanishad, one who meditates on Om with two matras is led by the Yajus to",
+  "options": [
+   "Brahmaloka",
+   "the human world",
+   "the antariksha, the world of Soma",
+   "the world of the sun"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Antariksha (Somaloka).** Prashna 5.3–5.5: one matra brings him back quickly to the human world by the Rik verses; two matras take him by the Yajus to the mid-region, the world of Soma; three matras take him by the Saman to the world of Brahma."
+ },
+ {
+  "id": "YOGA-PRAC1-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Prashna Upanishad",
+  "question_type": "mcq",
+  "question_text": "Sauryayani Gargya's question in the Prashna Upanishad concerned",
+  "options": [
+   "the gods who sleep and stay awake in a person, and who sees dreams",
+   "the origin of prana",
+   "the meaning of Om",
+   "the origin of beings"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Sleep and dream.** The fourth question (Prashna 4.1): which powers sleep in a person, which stay awake, which god sees dreams and in whom are all established? Pippalada answers that the senses merge in the mind as rays merge in the setting sun."
+ },
+ {
+  "id": "YOGA-PRAC1-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "According to the Mundaka Upanishad, which of the following is NOT apara vidya (lower knowledge)?",
+  "options": [
+   "Atharvaveda",
+   "Kalpa",
+   "Chhandas",
+   "That by which the Akshara (Imperishable) is known"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Mundaka 1.1.5: the apara vidya is the four Vedas and the six vedangas (shiksha, kalpa, vyakarana, nirukta, chhandas, jyotisha). The para vidya is that by which the Imperishable is attained."
+ },
+ {
+  "id": "YOGA-PRAC1-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Mundaka Upanishad's list of the seven flames (tongues) of Agni, the fifth is",
+  "options": [
+   "Manojava",
+   "Sudhumravarna",
+   "Karali",
+   "Sphulingini"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sudhumravarna.** Mundaka 1.2.4: *kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā, sphuliṅginī viśvarucī ca devī* — Kali, Karali, Manojava, Sulohita, Sudhumravarna, Sphulingini and Vishvaruchi."
+ },
+ {
+  "id": "YOGA-PRAC1-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Mundaka Upanishad's description of the cosmic form of the Lord, his head is",
+  "options": [
+   "Agni",
+   "the Vedas",
+   "the sun and moon",
+   "the directions"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Agni.** Mundaka 2.1.4: *agnir mūrdhā cakṣuṣī candrasūryau* — fire is his head, the moon and sun his eyes, the directions his ears and the Vedas his speech."
+ },
+ {
+  "id": "YOGA-PRAC1-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते' — identify the reference.",
+  "options": [
+   "Katha Upanishad 1.2.3",
+   "Mundaka Upanishad 3.1.1",
+   "Mundaka Upanishad 3.1.2",
+   "Isha Upanishad 6"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mundaka 3.1.1** (repeated at Shvetashvatara 4.6). Two birds, companions, sit on the same tree: one eats the sweet fruit, the other looks on without eating. The next verse (3.1.2) is the grieving bird that turns to the Lord."
+ },
+ {
+  "id": "YOGA-PRAC1-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "India's national motto 'सत्यमेव जयते' is taken from",
+  "options": [
+   "Mundaka Upanishad 3.1.6",
+   "Mandukya Upanishad 7",
+   "Katha Upanishad 1.2.23",
+   "Kena Upanishad 1.1"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Mundaka 3.1.6.** *satyam eva jayate nānṛtam* — truth alone triumphs, not falsehood; by truth is laid the path of the gods."
+ },
+ {
+  "id": "YOGA-PRAC1-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'नायमात्मा बलहीनेन लभ्यः' is found in",
+  "options": [
+   "Katha Upanishad 1.2.23",
+   "Mundaka Upanishad 3.2.4",
+   "Shvetashvatara Upanishad 1.1",
+   "Mundaka Upanishad 1.2.12"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mundaka 3.2.4.** This Self is not attained by the weak, nor through carelessness, nor by austerity without the right mark. (Katha 1.2.23, *nāyam ātmā pravacanena labhyo*, is a different verse, also found at Mundaka 3.2.3.)"
+ },
+ {
+  "id": "YOGA-PRAC1-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Mandukya Upanishad",
+  "question_type": "mcq",
+  "question_text": "The mahavakya 'अयमात्मा ब्रह्म' comes from an Upanishad of which Veda?",
+  "options": [
+   "Rigveda",
+   "Yajurveda",
+   "Samaveda",
+   "Atharvaveda"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Atharvaveda.** It is Mandukya 2 (*sarvaṃ hy etad brahma, ayam ātmā brahma*); the Mandukya belongs to the Atharvaveda. The four mahavakyas: *prajñānaṃ brahma* (Aitareya, Rigveda), *ahaṃ brahmāsmi* (Brihadaranyaka, Yajurveda), *tat tvam asi* (Chandogya, Samaveda) and *ayam ātmā brahma* (Mandukya, Atharvaveda)."
+ },
+ {
+  "id": "YOGA-PRAC1-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "'स मेन्द्रो मेधया स्पृणोतु' — this prayer for intelligence is in which anuvaka of the Shiksha Valli?",
+  "options": [
+   "Taittiriya 1.1",
+   "Taittiriya 1.4",
+   "Taittiriya 1.10",
+   "Taittiriya 1.12"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) TU 1.4.1.** The fourth anuvaka begins *yaś chandasām ṛṣabho viśvarūpaḥ* and prays to Indra: *sa mendro medhayā spṛṇotu* — may that Indra strengthen me with intelligence. Anuvaka 1.10 is the seer Trishanku's declaration *ahaṃ vṛkṣasya rerivā*."
+ },
+ {
+  "id": "YOGA-PRAC1-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "'अहं वृक्षस्य रेरिवा' — the declaration of the sage Trishanku — occurs at",
+  "options": [
+   "Taittiriya 1.4",
+   "Taittiriya 1.8",
+   "Taittiriya 1.10",
+   "Taittiriya 1.12"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) TU 1.10.1.** Trishanku's utterance after realisation: 'I am the mover of the tree (of the world); my fame is like a mountain peak.'"
+ },
+ {
+  "id": "YOGA-PRAC1-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Taittiriya Upanishad's account of the four vyahritis, the Samaveda is linked with",
+  "options": [
+   "भूः",
+   "भुवः",
+   "सुवः",
+   "महः"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Bhuvah.** TU 1.5.3: *bhūr iti vā ṛcaḥ, bhuva iti sāmāni, suvar iti yajūṃṣi, maha iti brahma* — bhuh is the Rik verses, bhuvah the Saman chants, suvah the Yajus formulas and mahah is Brahman."
+ },
+ {
+  "id": "YOGA-PRAC1-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the convocation address of the Taittiriya Upanishad (1.11), which is NOT a stated manner of giving?",
+  "options": [
+   "श्रिया देयम्",
+   "ह्रिया देयम्",
+   "प्रिया देयम्",
+   "भिया देयम्"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Priya.** TU 1.11.3: give with faith (*śraddhayā*), not without faith; give with grace (*śriyā*), with modesty (*hriyā*), with fear (*bhiyā*) and with understanding (*saṃvidā*). 'Priya' is not in the list."
+ },
+ {
+  "id": "YOGA-PRAC1-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "'यतो वाचो निवर्तन्ते अप्राप्य मनसा सह' describes",
+  "options": [
+   "the world",
+   "the bliss of Brahman",
+   "the intellect",
+   "cause and effect"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Brahman's bliss.** TU 2.4 and 2.9: from which words turn back, together with the mind, not reaching it — one who knows that bliss of Brahman fears nothing."
+ },
+ {
+  "id": "YOGA-PRAC1-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "question_type": "mcq",
+  "question_text": "In the Taittiriya Upanishad, the uttara paksha (left wing) of the anandamaya kosha is",
+  "options": [
+   "ऋतम्",
+   "मोदः",
+   "प्रमोदः",
+   "सत्यम्"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Pramodah.** TU 2.5: of the anandamaya self, priya (joy) is the head, moda (delight) the right wing, pramoda (great delight) the left wing, ananda the trunk, and Brahman the tail. Rita and satya are the right and left wings of the vijnanamaya self."
+ },
+ {
+  "id": "YOGA-PRAC1-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Ananda Mimamsa of the Taittiriya Upanishad, the bliss that is a hundred times the bliss of the devas is that of",
+  "options": [
+   "the human gandharvas",
+   "Indra",
+   "Brihaspati",
+   "Prajapati"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Indra.** TU 2.8 climbs in steps of a hundred: human, human gandharvas, divine gandharvas, the long-lived pitris, the devas born so (ajanaja), the karma-devas, the devas, Indra, Brihaspati, Prajapati and Brahman."
+ },
+ {
+  "id": "YOGA-PRAC1-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Bhrigu Valli, Varuna tells his son Bhrigu to know Brahman through",
+  "options": [
+   "pranayama",
+   "tapas",
+   "dhyana",
+   "samadhi"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Tapas.** TU 3.2–3.6: *tapasā brahma vijijñāsasva, tapo brahmeti* — seek to know Brahman by tapas; tapas is Brahman. Each round of tapas takes Bhrigu one step further: anna, prana, manas, vijnana, ananda."
+ },
+ {
+  "id": "YOGA-PRAC1-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "question_type": "sequence",
+  "question_text": "Arrange the stages of Bhrigu's realisation in the Bhrigu Valli in the correct order.",
+  "options": [
+   "(C), (A), (B), (E), (D)",
+   "(A), (B), (C), (D), (E)",
+   "(C), (A), (B), (D), (E)",
+   "(D), (C), (A), (B), (E)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (3) Anna → Prana → Manas → Vijnana → Ananda.** In TU 3.2–3.6 Bhrigu realises in turn that food, prana, mind, understanding and bliss is Brahman — the same order as the five koshas.",
+  "items": [
+   "प्राण",
+   "मन",
+   "अन्न",
+   "आनन्द",
+   "विज्ञान"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC1-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Taittiriya Upanishad",
+  "question_type": "mcq",
+  "question_text": "'आपो वा अन्नम्, ज्योतिरन्नादम्' (water is food, fire is the eater of food) is linked with which vow in the Bhrigu Valli?",
+  "options": [
+   "अन्नं न निन्द्यात्",
+   "अन्नं न परिचक्षीत",
+   "अन्नं बहु कुर्वीत",
+   "न कञ्चन वसतौ प्रत्याचक्षीत"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Do not reject food.** TU 3.7–3.10: 'do not blame food' goes with prana and the body; 'do not reject food' with water and fire (3.8); 'make food plentiful' with earth and space (3.9); and 'turn no one away from your dwelling' with hospitality (3.10)."
+ },
+ {
+  "id": "YOGA-PRAC1-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Aitareya Upanishad, the deity that became hair and entered the skin is",
+  "options": [
+   "Aditya",
+   "Prana",
+   "the herbs and trees (oshadhi-vanaspati)",
+   "the waters"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Oshadhi-vanaspatayah.** Aitareya 1.2.4: fire became speech and entered the mouth; air became breath and entered the nostrils; the sun became sight and entered the eyes; the directions became hearing and entered the ears; herbs and trees became hair and entered the skin."
+ },
+ {
+  "id": "YOGA-PRAC1-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Aitareya Upanishad's account of creation, the world called 'मरीचि' is",
+  "options": [
+   "the earth",
+   "the antariksha (mid-region)",
+   "the heaven (dyauh)",
+   "the waters below the earth"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Antariksha.** Aitareya 1.1.2: the Self created the worlds — ambhas above heaven, marichi the mid-region, mara the earth and apah the waters below."
+ },
+ {
+  "id": "YOGA-PRAC1-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Aitareya Upanishad, the Self entered the body by splitting open the crown. This gate is called",
+  "options": [
+   "ब्रह्मरन्ध्र",
+   "विदृति",
+   "मूर्धा",
+   "शिर"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vidriti.** Aitareya 1.3.12: splitting the very crown, he entered by that door; that door is called *vidṛti*, and it is the place of bliss."
+ },
+ {
+  "id": "YOGA-PRAC1-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "question_type": "mcq",
+  "question_text": "According to the Aitareya Upanishad, the moon came forth from",
+  "options": [
+   "the heart",
+   "the mind",
+   "the mouth",
+   "the navel"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) The mind.** Aitareya 1.1.4: the heart split open; from the heart came the mind, and from the mind the moon (*hṛdayān manaḥ, manasaś candramāḥ*)."
+ },
+ {
+  "id": "YOGA-PRAC1-035",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "'सर्वं खल्विदं ब्रह्म' — identify the reference.",
+  "options": [
+   "Brihadaranyaka 1.4.10",
+   "Chandogya 3.14.1",
+   "Chandogya 6.8.7",
+   "Brihadaranyaka 1.3.28"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Chandogya 3.14.1**, the opening of the Shandilya Vidya: all this is Brahman; let one meditate on it calmly as that from which all arises, into which it dissolves and by which it lives. Chandogya 6.8.7 is *tat tvam asi*; Brihadaranyaka 1.4.10 is *ahaṃ brahmāsmi*; 1.3.28 is *asato mā sad gamaya*."
+ },
+ {
+  "id": "YOGA-PRAC1-036",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Chandogya Upanishad's analysis of the word 'उद्गीथ', the syllable 'गी' stands for",
+  "options": [
+   "heaven (dyauh)",
+   "the mid-region (antariksha)",
+   "the earth",
+   "food"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Antariksha.** Chandogya 1.3.7: *ut* is heaven, *gī* the mid-region and *tha* the earth; likewise *ut* is the sun, *gī* air and *tha* fire."
+ },
+ {
+  "id": "YOGA-PRAC1-037",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "Satyakama Jabala received the four quarters of Brahma Vidya from a bull, fire, a swan and a diver-bird. Which was NOT part of the fourth quarter, taught by the diver-bird?",
+  "options": [
+   "Prana",
+   "Shrotra",
+   "Agni",
+   "Manas"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Agni.** Chandogya 4.5–4.8: the bull taught the four directions (*prakāśavān*); fire taught earth, mid-region, heaven and ocean (*anantavān*); the swan taught fire, sun, moon and lightning (*jyotiṣmān*); the diver-bird taught prana, eye, ear and mind (*āyatanavān*)."
+ },
+ {
+  "id": "YOGA-PRAC1-038",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 38,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "sequence",
+  "question_text": "Arrange the four elements of the third quarter of Brahma Vidya, taught by the swan (hamsa) to Satyakama, in order.",
+  "options": [
+   "(A), (B), (C), (D)",
+   "(A), (C), (D), (B)",
+   "(D), (C), (B), (A)",
+   "(A), (D), (C), (B)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Agni → Surya → Chandra → Vidyut.** Chandogya 4.7.3: fire is a sixteenth, the sun a sixteenth, the moon a sixteenth and lightning a sixteenth; this quarter is called *jyotiṣmān* (luminous).",
+  "items": [
+   "अग्नि",
+   "विद्युत्",
+   "चन्द्रमा",
+   "सूर्य"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC1-039",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 39,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "question_type": "mcq",
+  "question_text": "The Shandilya Vidya is taught in",
+  "options": [
+   "Brihadaranyaka Upanishad",
+   "Chandogya Upanishad",
+   "Kena Upanishad",
+   "Aitareya Upanishad"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Chandogya Upanishad (3.14).** Shandilya's teaching: all this is Brahman; man is made of resolve (*kratu*); the self within the heart is smaller than a grain of rice and greater than all the worlds."
+ },
+ {
+  "id": "YOGA-PRAC1-040",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 40,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "In the Brihadaranyaka Upanishad, when Prajapati uttered 'द', the devas understood it as",
+  "options": [
+   "दाम्यत (self-control)",
+   "दत्त (give)",
+   "दयध्वम् (be compassionate)",
+   "दीक्षा (initiation)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Damyata.** Brihadaranyaka 5.2: the devas, by nature unrestrained, heard *damyata*; men, by nature greedy, heard *datta*; the asuras, by nature cruel, heard *dayadhvam*. The thunder repeats *da da da*."
+ },
+ {
+  "id": "YOGA-PRAC1-041",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 41,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "The debate between Yajnavalkya and Gargi Vachaknavi is found in",
+  "options": [
+   "Aitareya Upanishad",
+   "Chandogya Upanishad",
+   "Brihadaranyaka Upanishad",
+   "Kena Upanishad"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Brihadaranyaka.** At King Janaka's assembly (BU 3.6 and 3.8), Gargi questions Yajnavalkya on what everything is woven upon, ending with the Akshara, the Imperishable."
+ },
+ {
+  "id": "YOGA-PRAC1-042",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 42,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "According to the Brihadaranyaka Upanishad, the world of the fathers (pitriloka) is won by",
+  "options": [
+   "a son",
+   "karma (rites)",
+   "vidya (knowledge)",
+   "wealth"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Karma.** BU 1.5.16: there are three worlds — the world of men, won only by a son; the world of the fathers, by rites; and the world of the gods, by knowledge."
+ },
+ {
+  "id": "YOGA-PRAC1-043",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 43,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'असतो मा सद्गमय, तमसो मा ज्योतिर्गमय, मृत्योर्माऽमृतं गमय' — identify the reference.",
+  "options": [
+   "Aitareya 1.1.2",
+   "Brihadaranyaka 1.1.5",
+   "Chandogya 6.1.1",
+   "Brihadaranyaka 1.3.28"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) BU 1.3.28**, the pavamana abhyaroha chants, which the Upanishad itself glosses: the unreal is death, the real is immortality."
+ },
+ {
+  "id": "YOGA-PRAC1-044",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 44,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "'नेति नेति' as the description of the Self is found in",
+  "options": [
+   "Aitareya Upanishad",
+   "Chandogya Upanishad",
+   "Brihadaranyaka Upanishad",
+   "Prashna Upanishad"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Brihadaranyaka.** BU 2.3.6 (and again in Yajnavalkya's teaching, 3.9.26, 4.2.4): the Self is described as 'not this, not this' — it is ungraspable, for it is not grasped."
+ },
+ {
+  "id": "YOGA-PRAC1-045",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 45,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "question_type": "mcq",
+  "question_text": "How many adhyayas (chapters) does the Brihadaranyaka Upanishad have?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Six.** The Brihadaranyaka (Shukla Yajurveda, Shatapatha Brahmana) has six adhyayas, grouped in three kandas of two each: Madhu, Yajnavalkya (Muni) and Khila."
+ },
+ {
+  "id": "YOGA-PRAC1-046",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 46,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "Arrange in the order in which Shvetashvatara Upanishad 2.11 lists the forms seen before Brahman manifests in yoga: (A) mist (nihara), (B) wind (anila), (C) lightning (vidyut), (D) smoke (dhuma), (E) fire (anala).",
+  "options": [
+   "(A), (C), (E), (D), (B)",
+   "(A), (D), (B), (E), (C)",
+   "(A), (D), (E), (B), (C)",
+   "(A), (E), (C), (D), (B)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mist → smoke → (sun) → wind → fire → (fireflies) → lightning.** Shvet 2.11: *nīhāra-dhūmārkānilānalānāṃ khadyota-vidyut-sphaṭika-śaśīnām* — mist, smoke, sun, wind, fire, fireflies, lightning, crystal and moon are the forms that come first in yoga."
+ },
+ {
+  "id": "YOGA-PRAC1-047",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 47,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "'एको हि रुद्रो न द्वितीयाय तस्थुः' — identify the reference.",
+  "options": [
+   "Shvetashvatara 1.2",
+   "Shvetashvatara 2.2",
+   "Shvetashvatara 3.2",
+   "Shvetashvatara 6.2"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Shvet 3.2.** Rudra is one; the knowers of Brahman do not admit a second. He rules these worlds with his powers, and at the end of time he gathers them back."
+ },
+ {
+  "id": "YOGA-PRAC1-048",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 48,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "'समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः' — identify the reference.",
+  "options": [
+   "Shvetashvatara 4.6",
+   "Shvetashvatara 4.7",
+   "Shvetashvatara 4.10",
+   "Shvetashvatara 4.22"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Shvet 4.7.** On the same tree, the person sunk in helplessness grieves, deluded; when he sees the other, the Lord, and His greatness, his grief is gone. Verse 4.6 is the two-birds verse it continues."
+ },
+ {
+  "id": "YOGA-PRAC1-049",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 49,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "'शृण्वन्तु विश्वे अमृतस्य पुत्राः' — 'Hear, all you children of immortality' — is from",
+  "options": [
+   "Yogachudamani Upanishad",
+   "Trishikhibrahmana Upanishad",
+   "Shvetashvatara Upanishad",
+   "Brihadaranyaka Upanishad"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Shvetashvatara 2.5**, in the second chapter's teaching on yoga: hear, children of immortality, you who dwell in the heavenly realms."
+ },
+ {
+  "id": "YOGA-PRAC1-050",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 50,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "In Shvetashvatara Upanishad 2.12, the yogi whose body is 'made of the fire of yoga' has no sickness, no old age and no death. This follows the mastery of",
+  "options": [
+   "the eight limbs of yoga",
+   "the six chakras",
+   "the five elements (earth, water, fire, air and space)",
+   "the five tanmatras"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The five elements.** Shvet 2.12: *pṛthvy-ap-tejo-'nila-khe samutthite pañcātmake yoga-guṇe pravṛtte, na tasya rogo na jarā na mṛtyuḥ prāptasya yogāgnimayaṃ śarīram* — when the fivefold quality of yoga arising from earth, water, fire, air and space is active, sickness, old age and death no longer touch him."
+ },
+ {
+  "id": "YOGA-PRAC1-051",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 51,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT among the first signs of progress in yoga given in Shvetashvatara Upanishad 2.13?",
+  "options": [
+   "Lightness and health (laghutvam arogyam)",
+   "Freedom from craving (alolupatvam)",
+   "A clear complexion and pleasant voice",
+   "The power to fly (khecharatva)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Shvet 2.13 names lightness, health, freedom from craving, a clear complexion, a pleasant voice, a sweet smell and scanty excretions as the first signs of yoga. Siddhis such as flight are not mentioned."
+ },
+ {
+  "id": "YOGA-PRAC1-052",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 52,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Shvetashvatara Upanishad",
+  "question_type": "mcq",
+  "question_text": "'मा नस्तोके तनये मा न आयुषि', quoted in Shvetashvatara Upanishad 4.22, is originally a mantra of the",
+  "options": [
+   "Rigveda",
+   "Samaveda",
+   "Shukla Yajurveda",
+   "Atharvaveda"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Rigveda (1.114.8)**, a hymn to Rudra: harm us not in our children, our grandchildren or our lives. The Shvetashvatara quotes it as 4.22."
+ },
+ {
+  "id": "YOGA-PRAC1-053",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 53,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogaraja Upanishad",
+  "question_type": "mcq",
+  "question_text": "'साध्यते मन्त्रयोगस्तु वत्सराजादिभिर्यथा' — mantra yoga is practised as by Vatsaraja and others. This line is from",
+  "options": [
+   "Shvetashvatara Upanishad",
+   "Yogachudamani Upanishad",
+   "Yogakundali Upanishad",
+   "Yogaraja Upanishad"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Yogaraja Upanishad.** It opens by naming four kinds of yoga — mantra, laya, hatha and raja — with examples of the adepts of each, then describes meditation on nine chakras."
+ },
+ {
+  "id": "YOGA-PRAC1-054",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 54,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 1 (Upanishads). Written from coaching quiz sheets in the notes folder (Yoga_Upanishad_Quiz, Taittereya_Upanishad_Quiz, Kath_Mundak_Prasna_Upanishad_Quiz, Aitereya_Chandogya_Brihad_Quiz); keys re-checked against the texts and corrected where the sheet was wrong."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogaraja Upanishad",
+  "question_type": "mcq",
+  "question_text": "In the Yogaraja Upanishad, the ninth chakra, vyoma chakra, has how many petals?",
+  "options": [
+   "10",
+   "12",
+   "16",
+   "2"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sixteen.** The Yogaraja Upanishad's ninth chakra is the sixteen-petalled vyoma (space) chakra. Meditating on the nine chakras one by one gives all the siddhis and, finally, liberation."
+ }
+]
