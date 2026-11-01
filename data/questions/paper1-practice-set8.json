@@ -1,0 +1,736 @@
+[
+ {
+  "id": "P1-PRAC8-001",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Which of the following inventions contributed most to reducing the physical size of computers?",
+  "options": [
+   "Vacuum tube",
+   "Integrated circuits",
+   "Registers",
+   "Solid-state memory"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Integrated circuits** (third generation, 1960s), which packed many transistors on one silicon chip. They also made computers more reliable, cheaper (mass-produced) and less power-hungry."
+ },
+ {
+  "id": "P1-PRAC8-002",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "match",
+  "question_text": "Match the kinds of software with an example of each.",
+  "options": [
+   "A-iii, B-iv, C-i, D-ii",
+   "A-ii, B-iv, C-i, D-iii",
+   "A-i, B-iii, C-iv, D-ii",
+   "A-iii, B-i, C-ii, D-iv"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Compilers and operating systems are system software; a library system is an application; a firewall protects; embedded software runs dedicated devices.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "System software",
+     "Application software",
+     "Security software",
+     "Embedded software"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Library management system",
+     "Firewall",
+     "Compiler",
+     "Software in an automatic fridge"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC8-003",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "match",
+  "question_text": "Match the input devices with their most appropriate use.",
+  "options": [
+   "A-iv, B-ii, C-i, D-iii",
+   "A-iv, B-i, C-ii, D-iii",
+   "A-iii, B-ii, C-i, D-iv",
+   "A-i, B-iv, C-iii, D-ii"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** A graphics tablet (with stylus) captures drawing; a kiosk uses touch; a bar code reader reads products; a keypad takes a PIN.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Graphics tablet",
+     "Touch screen",
+     "Bar code reader",
+     "Numeric keypad"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Input at an information kiosk",
+     "Input from a product at a supermarket point of sale",
+     "Entering a PIN",
+     "Freehand drawing"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC8-004",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "A program that provides a software interface to hardware devices is called",
+  "options": [
+   "system software",
+   "application software",
+   "a device driver",
+   "firmware"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A device driver** — it lets the operating system and programs use a device without knowing the details of its hardware."
+ },
+ {
+  "id": "P1-PRAC8-005",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Which is a disadvantage of using proprietary software rather than open-source software?",
+  "options": [
+   "It can only be accessed with a password",
+   "It can only be used on proprietary systems",
+   "It needs an Internet connection",
+   "It is usually more expensive"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Proprietary software needs a paid licence and its source code is closed. Open-source software (Linux, Firefox, LibreOffice, VLC) publishes its code to share, study and modify."
+ },
+ {
+  "id": "P1-PRAC8-006",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Anita uses a program that is free to download, but she cannot modify its source code. She is using",
+  "options": [
+   "freeware",
+   "open-source software",
+   "firmware",
+   "liveware"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Freeware** — proprietary software released free of charge. Shareware is free only for a trial period; open-source software lets anyone modify the code."
+ },
+ {
+  "id": "P1-PRAC8-007",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Software that lets the user try it free of charge before buying it, usually with some features missing, is",
+  "options": [
+   "freeware",
+   "shareware",
+   "firmware",
+   "malware"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Shareware.** It stays under copyright, and full use requires payment."
+ },
+ {
+  "id": "P1-PRAC8-008",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "A program is called open-source software if",
+  "options": [
+   "the developer company is open 24 × 7",
+   "its source code is available to share, study and modify",
+   "it can be downloaded from the Internet",
+   "it is free of cost"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Being free of cost is not enough — freeware is free but closed."
+ },
+ {
+  "id": "P1-PRAC8-009",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: Video cards and sound cards are typical examples of computer software. Statement II: Anti-virus software, anti-spyware software and screen savers are examples of utility software.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Video and sound cards are hardware (expansion cards). Utilities include anti-virus, disk clean-up, defragmentation, backup and screen savers."
+ },
+ {
+  "id": "P1-PRAC8-010",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "statements",
+  "question_text": "Which of the following statements about anti-virus software are correct?",
+  "options": [
+   "(a), (b) and (c) only",
+   "(a), (b) and (d) only",
+   "(a), (c) and (d) only",
+   "(b), (c) and (d) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Authenticity of data is the job of digital signatures and certificates, not anti-virus software.",
+  "items": [
+   "Problem files are quarantined and can be removed automatically",
+   "It checks files before they are loaded or run",
+   "It uses a database (signatures) to identify possible threats",
+   "It is used for data authenticity"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC8-011",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Which of the following are input-only devices?",
+  "options": [
+   "(a), (c), (d) and (e) only",
+   "(a), (b), (d) and (e) only",
+   "(b), (c), (d) and (e) only",
+   "(a), (b), (c) and (d) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** A projector is an output device.",
+  "items": [
+   "Microphone",
+   "Projector",
+   "Joystick",
+   "Scanner",
+   "Trackball"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC8-012",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "The bootstrap loader of a computer is an example of",
+  "options": [
+   "application software",
+   "firmware",
+   "the hard disk drive",
+   "an IP address"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Firmware.** It is stored in ROM/EPROM (with the BIOS) and runs automatically at power-on to load the operating system from the boot sector."
+ },
+ {
+  "id": "P1-PRAC8-013",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "question_type": "mcq",
+  "question_text": "BIOS stands for",
+  "options": [
+   "Binary Input Output Source",
+   "Basic Input Output Support",
+   "Binary Input Output System",
+   "Basic Input Output System"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Basic Input Output System.**"
+ },
+ {
+  "id": "P1-PRAC8-014",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Which of the following are broad functions of an operating system?",
+  "options": [
+   "(a), (c) and (d) only",
+   "(b), (c) and (d) only",
+   "(a) and (c) only",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Translating high-level code is the job of compilers and interpreters, not the operating system.",
+  "items": [
+   "Handling files and folders",
+   "Converting a high-level language into a low-level language",
+   "Interfacing between user and hardware",
+   "Helping to run application software"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC8-015",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: Shareware is software that users can try for a trial period before being charged. Statement II: Freeware can be downloaded free of charge, but its source code cannot be modified.",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Both describe kinds of proprietary software distributed at little or no cost."
+ },
+ {
+  "id": "P1-PRAC8-016",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Which of the following input devices can best support students with visual impairment?",
+  "options": [
+   "(a) and (b) only",
+   "(b) and (d) only",
+   "(c), (d) and (e) only",
+   "(a) and (c) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Speech input (microphone) and Braille keyboards help visually impaired users; a foot mouse helps those who cannot use their hands; a speaker is an output device.",
+  "items": [
+   "Microphone",
+   "Foot mouse",
+   "Braille keyboard",
+   "Joystick",
+   "Speaker"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC8-017",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "Identify the order of the main technology used in computers from the fourth generation back to the first: (a) microprocessor (b) vacuum tubes (c) integrated circuits (d) transistors.",
+  "options": [
+   "(c), (a), (d), (b)",
+   "(a), (c), (b), (d)",
+   "(a), (c), (d), (b)",
+   "(d), (b), (a), (c)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** First generation: vacuum tubes (1946–59); second: transistors (1959–65); third: integrated circuits (1965–71); fourth: microprocessors (VLSI, from 1971); fifth: ULSI and AI."
+ },
+ {
+  "id": "P1-PRAC8-018",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "mcq",
+  "question_text": "One or more defects in software that stop it from working correctly are called",
+  "options": [
+   "a bot",
+   "a system error",
+   "a bug",
+   "a slug"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A bug.** Finding and removing bugs is debugging."
+ },
+ {
+  "id": "P1-PRAC8-019",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Which of the following kinds of computer memory are volatile?",
+  "options": [
+   "(a), (b) and (e) only",
+   "(a), (c) and (d) only",
+   "(b), (c) and (e) only",
+   "(b) and (e) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Cache and RAM** lose their contents when power is off. Flash memory and hard disks are non-volatile; CMOS settings are kept by a small battery.",
+  "items": [
+   "CMOS memory",
+   "Cache memory",
+   "Flash memory",
+   "Hard disk",
+   "RAM"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC8-020",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "match",
+  "question_text": "Match the storage media with their type.",
+  "options": [
+   "A-iii, B-ii, C-i",
+   "A-ii, B-iii, C-i",
+   "A-ii, B-i, C-iii",
+   "A-i, B-iii, C-ii"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).**",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Hard disk drive",
+     "USB flash memory",
+     "Blu-ray disc"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Optical",
+     "Magnetic",
+     "Solid state"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC8-021",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "question_type": "statements",
+  "question_text": "Which of the following statements about ROM are true?",
+  "options": [
+   "(a) only",
+   "(b) only",
+   "(a) and (b) only",
+   "(b) and (c) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Programs and data currently in use are held in RAM.",
+  "items": [
+   "It stores the programs and data currently in use",
+   "It is used to boot the computer when power is turned on",
+   "Its contents are retained when power is turned off"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC8-022",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "question_type": "mcq",
+  "question_text": "What kind of data does an MP3 file store?",
+  "options": [
+   "Video",
+   "Sound",
+   "Image",
+   "Text"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sound** — MPEG-1 Audio Layer III, a lossy compressed audio format. MP4 is a video container; JPEG and PNG are images."
+ },
+ {
+  "id": "P1-PRAC8-023",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: A wiki is usually in reverse chronological order, whereas a blog's structure is set by its content and users. Statement II: A blog is usually personal opinion, whereas a wiki is usually objective.",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Statement I is reversed: blogs are in reverse chronological order, while a wiki's structure depends on its content and many editing users."
+ },
+ {
+  "id": "P1-PRAC8-024",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "Which of the following is true of Internet cookies?",
+  "options": [
+   "They are a form of spyware",
+   "They are used only in advertising",
+   "They are used to track browser use",
+   "They act like a virus"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** A cookie is a small piece of data a website stores in the browser, to remember logins, preferences or browsing; it is not a program and cannot replicate."
+ },
+ {
+  "id": "P1-PRAC8-025",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "Arrange these steps in order to complete the description of how illegal access and malware work: illegal access to a computer system is ____; ____ self-replicate to disrupt systems; ____ uses legitimate-looking e-mails linking to fake websites; software that monitors key presses and relays them is ____. (A) Phishing (B) Hacking (C) Spyware (D) Viruses",
+  "options": [
+   "A, D, B, C",
+   "B, A, D, C",
+   "B, D, A, C",
+   "C, D, A, B"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Hacking, viruses, phishing, spyware** (a keylogger is a kind of spyware)."
+ },
+ {
+  "id": "P1-PRAC8-026",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: An IPv6 address is four times as long as an IPv4 address. Statement II: An IP address gives a device's location on the Internet, while a MAC address identifies the device itself.",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** IPv4 uses 32 bits (four decimal octets, e.g. 173.225.0.14); IPv6 uses 128 bits (eight groups of four hex digits). A MAC address is the 48-bit hardware address of the network card."
+ },
+ {
+  "id": "P1-PRAC8-027",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 15 (ICT). From 'UNIT-8 ICT PYQ ( BY PUJARANI ).pdf' in the notes folder — a coaching compilation of earlier NTA ICT questions, undated; keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "question_type": "statements",
+  "question_text": "Which of the following are true of most web browsers?",
+  "options": [
+   "(d) and (e) only",
+   "(a), (c) and (d) only",
+   "(a), (c) and (e) only",
+   "(a), (b), (c) and (d) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Access to the Internet is provided by the ISP, not the browser.",
+  "items": [
+   "They have a HOME page",
+   "They can store the user's favourite pages (bookmarks)",
+   "They keep a history of websites visited",
+   "They let the user go back and forward between pages opened",
+   "They provide the user with access to the Internet"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ }
+]
