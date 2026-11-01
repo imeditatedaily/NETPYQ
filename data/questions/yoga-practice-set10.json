@@ -1,0 +1,493 @@
+[
+ {
+  "id": "YOGA-PRAC10-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "How many asanas does the Gheranda Samhita describe as useful for humans?",
+  "options": [
+   "84",
+   "32",
+   "15",
+   "4"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 32.** GS 2.1–2.2: there are as many asanas as living species; Shiva taught 84 lakh, of which 84 are best and 32 useful in the world of mortals."
+ },
+ {
+  "id": "YOGA-PRAC10-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "sequence",
+  "question_text": "Arrange the last five asanas in the Gheranda Samhita's list in order.",
+  "options": [
+   "(D), (B), (C), (E), (A)",
+   "(D), (B), (C), (A), (E)",
+   "(B), (C), (D), (A), (E)",
+   "(D), (B), (A), (C), (E)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Shalabha → makara → ushtra → bhujanga → yoga.** GS 2.6 ends: *śalabhaṃ makaraṃ coṣṭraṃ bhujaṅgaṃ yogam eva ca, dvātriṃśad āsanāni tu martyaloke ca siddhidam*.",
+  "items": [
+   "Ushtrasana",
+   "Makarasana",
+   "Bhujangasana",
+   "Shalabhasana",
+   "Yogasana"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC10-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'व्यात्तवक्त्रो जलन्ध्रेण नासाग्रमवलोकयेत्' — open mouth, jalandhara bandha and gaze at the tip of the nose — describes",
+  "options": [
+   "gomukhasana",
+   "virasana",
+   "simhasana",
+   "padmasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Simhasana** (GS 2.14–2.15): heels crossed under the scrotum, hands on the knees, mouth wide open; it destroys all diseases."
+ },
+ {
+  "id": "YOGA-PRAC10-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'श्रमहरं चित्तविश्रान्तिकारणम्' — removing fatigue and calming the mind — is said of",
+  "options": [
+   "muktasana",
+   "siddhasana",
+   "mritasana (shavasana)",
+   "gorakshasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Mritasana.** GS 2.19: lying flat on the back like a corpse."
+ },
+ {
+  "id": "YOGA-PRAC10-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In the Gheranda Samhita, 'lying supine from mukta padmasana, holding the head with the elbows' describes",
+  "options": [
+   "vajrasana",
+   "muktasana",
+   "matsyasana",
+   "uttana kurmasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Matsyasana** (GS 2.21). It destroys disease (*matsyāsanaṃ tu rogahā*)."
+ },
+ {
+  "id": "YOGA-PRAC10-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'From kukkutasana, hold the neck with the hands and lie on the back like a tortoise' — this is",
+  "options": [
+   "kurmasana",
+   "kukkutasana",
+   "uttana kurmasana",
+   "uttana mandukasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Uttana kurmasana** (GS 2.33). In kukkutasana (2.31), one sits in padmasana with the hands passed between thighs and calves, resting on them."
+ },
+ {
+  "id": "YOGA-PRAC10-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Holding the feet between the thighs and calves, with the body straight' — the Gheranda Samhita's description of",
+  "options": [
+   "vrikshasana",
+   "garudasana",
+   "gomukhasana",
+   "svastikasana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Svastikasana** (GS 2.13)."
+ },
+ {
+  "id": "YOGA-PRAC10-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Gheranda Samhita, practising which asana awakens 'Bhujangi devi' (kundalini)?",
+  "options": [
+   "Bhujangasana",
+   "Matsyendrasana",
+   "Vajrasana",
+   "Bhadrasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Bhujangasana.** GS 2.42–2.43: it always increases the bodily fire, destroys all diseases, and by it the serpent-goddess awakens."
+ },
+ {
+  "id": "YOGA-PRAC10-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'In mandukasana, hold the head with the elbows and stand like a frog' describes",
+  "options": [
+   "uttana mandukasana",
+   "mandukasana",
+   "kukkutasana",
+   "kurmasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Uttana mandukasana** (GS 2.35). In mandukasana itself (2.34), the feet are turned back with the toes touching and the knees in front."
+ },
+ {
+  "id": "YOGA-PRAC10-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Make the thighs firm like a vajra and place the feet beside the anus' describes",
+  "options": [
+   "svastikasana",
+   "gomukhasana",
+   "vajrasana",
+   "virasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Vajrasana** (GS 2.12), which gives siddhis to yogis."
+ },
+ {
+  "id": "YOGA-PRAC10-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'One foot on the other thigh, the other foot turned back' is the Gheranda Samhita's",
+  "options": [
+   "vajrasana",
+   "virasana",
+   "makarasana",
+   "vrishasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Virasana** (GS 2.17)."
+ },
+ {
+  "id": "YOGA-PRAC10-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Stretch the legs on the ground like a stick, take hold of the feet from behind with the hands and bend the body like a bow' describes",
+  "options": [
+   "paschimottanasana",
+   "matsyendrasana",
+   "dhanurasana",
+   "makarasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Dhanurasana** (GS 2.18). Paschimottanasana (2.26) also begins *prasārya pādau bhuvi daṇḍarūpau*, but the head rests on the knees and the hands hold the feet."
+ },
+ {
+  "id": "YOGA-PRAC10-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Keep the feet hidden between the knees and thighs, and sit with the anus on the feet' is",
+  "options": [
+   "svastikasana",
+   "garudasana",
+   "makarasana",
+   "guptasana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Guptasana** (GS 2.20)."
+ },
+ {
+  "id": "YOGA-PRAC10-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Make the belly like the back, place the left foot, bent, on the right knee' is the Gheranda Samhita's description of",
+  "options": [
+   "matsyendrasana",
+   "muktasana",
+   "kukkutasana",
+   "kurmasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Matsyendrasana** (GS 2.22–2.23)."
+ },
+ {
+  "id": "YOGA-PRAC10-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Stand on the toes with the heels raised, and place the anus on the heels' describes",
+  "options": [
+   "utkatasana",
+   "sankatasana",
+   "mayurasana",
+   "ushtrasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Utkatasana** (GS 2.27). Jala vasti is done in this posture."
+ },
+ {
+  "id": "YOGA-PRAC10-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Lie prone with the hands under the chest, raise the legs one span into the air' describes",
+  "options": [
+   "makarasana",
+   "shalabhasana",
+   "ushtrasana",
+   "dhanurasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Shalabhasana** (GS 2.39)."
+ },
+ {
+  "id": "YOGA-PRAC10-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Lie prone with the chest on the ground and the legs stretched out, holding the head in the arms' — it increases the bodily fire. This is",
+  "options": [
+   "ushtrasana",
+   "makarasana",
+   "shalabhasana",
+   "siddhasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Makarasana** (GS 2.40)."
+ },
+ {
+  "id": "YOGA-PRAC10-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Place the right heel under the anus and the left leg reversed, touching the ground' describes",
+  "options": [
+   "padmasana",
+   "siddhasana",
+   "ushtrasana",
+   "vrishasana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Vrishasana** (GS 2.38)."
+ },
+ {
+  "id": "YOGA-PRAC10-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Stand straight like a tree on the left leg, with the right foot placed at the root of the left thigh' is",
+  "options": [
+   "garudasana",
+   "vrikshasana",
+   "utkatasana",
+   "sankatasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vrikshasana** (GS 2.36)."
+ },
+ {
+  "id": "YOGA-PRAC10-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'Balance on the palms, with the elbows supporting the sides of the navel, the body held straight like a stick' — it digests even poison. This is",
+  "options": [
+   "shalabhasana",
+   "mayurasana",
+   "matsyendrasana",
+   "garudasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mayurasana** (GS 2.29–2.30): it cures gulma, dropsy and spleen disorders, and destroys the ill effects of bad food."
+ },
+ {
+  "id": "YOGA-PRAC10-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 13 (Gheranda Samhita asanas). From the GPYS (Pundlik) GS asana MCQ PDF in the notes folder; verse descriptions rebuilt from GS ch. 2 (the sheet's key was wrong on the order of the last five asanas)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'From padmasana, pass the hands between the thighs and calves and sit raised on the hands' describes",
+  "options": [
+   "kukkutasana",
+   "padmasana",
+   "uttana kukkutasana",
+   "bhujangasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Kukkutasana** (GS 2.31)."
+ }
+]
