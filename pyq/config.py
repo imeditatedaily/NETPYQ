@@ -41,10 +41,10 @@ SUBJECT_PRICE_INR = 500
 # subjects for PASS_DAYS from the day of payment, and never renews.
 #   key: (name, price in rupees, subjects)
 PASSES = {
-    "yoga": ("Yoga exam pass", 1499, ("yoga",)),
-    "paper1": ("Paper 1 exam pass", 1499, ("paper1",)),
-    "iks": ("IKS exam pass", 1499, ("iks",)),
-    "combo": ("Paper 1 + Yoga exam pass", 1999, ("paper1", "yoga")),
+    "yoga": ("Yoga exam pass", 999, ("yoga",)),
+    "paper1": ("Paper 1 exam pass", 999, ("paper1",)),
+    "iks": ("IKS exam pass", 999, ("iks",)),
+    "combo": ("Paper 1 + Yoga exam pass", 1499, ("paper1", "yoga")),
 }
 PASS_DAYS = 182          # about six months: one NET cycle
 
