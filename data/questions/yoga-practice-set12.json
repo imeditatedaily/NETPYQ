@@ -1,0 +1,1100 @@
+[
+ {
+  "id": "YOGA-PRAC12-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Signs of success in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "How many verses are there in the first and the fourth upadeshas of the Hatha Pradipika (in the common edition)?",
+  "options": [
+   "67 and 114",
+   "78 and 126",
+   "67 and 112",
+   "114 and 67"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Ch. 1 (asana) has 67, ch. 2 (pranayama and shatkarma) 78, ch. 3 (mudra) about 130 and ch. 4 (samadhi, nadanusandhana) 114 verses."
+ },
+ {
+  "id": "YOGA-PRAC12-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Signs of success in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to Svatmarama, from whose grace did he learn hatha vidya?",
+  "options": [
+   "Adinatha alone",
+   "Matsyendra, Goraksha and others",
+   "Bindunatha",
+   "Patanjali"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 1.4: *haṭhavidyāṃ hi matsyendra-gorakṣādyā vijānate, svātmārāmo 'thavā yogī jānīte tatprasādataḥ*."
+ },
+ {
+  "id": "YOGA-PRAC12-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Signs of success in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "In the Hatha Pradipika, hatha yoga is said to be 'the tortoise (kamatha) that supports' whom?",
+  "options": [
+   "Everyone scorched by the three kinds of suffering",
+   "All who are engaged in yoga",
+   "Those seeking rajayoga only",
+   "Those seeking nada"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 1.10: for those burnt by the three sufferings hatha is a refuge like a monastery; for all engaged in yoga it is the supporting tortoise (*āśeṣa-yoga-yuktānām ādhāra-kamaṭho haṭhaḥ*)."
+ },
+ {
+  "id": "YOGA-PRAC12-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Signs of success in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Arrange the order of practice in hatha yoga as given in HP 1.56: (A) mudras (karanas) (B) nadanusandhana (C) asanas (D) various kumbhakas",
+  "options": [
+   "(C), (D), (A), (B)",
+   "(C), (A), (D), (B)",
+   "(D), (C), (A), (B)",
+   "(A), (C), (D), (B)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** *āsanāni kumbhakāś citrā mudrākhyaṃ karaṇaṃ tathā, atha nādānusandhānam abhyāsānukramo haṭhe*."
+ },
+ {
+  "id": "YOGA-PRAC12-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Signs of success in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, who can attain success by practising without sloth?",
+  "options": [
+   "Only the young",
+   "The young and old",
+   "The young, old, very old, sick and weak",
+   "Only brahmacharis"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** HP 1.64: *yuvā vṛddho 'tivṛddho vā vyādhito durbalo 'pi vā, abhyāsāt siddhim āpnoti*. Success comes from practice alone, not from reading or dress (1.65–66)."
+ },
+ {
+  "id": "YOGA-PRAC12-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'वामोरूपरि दक्षिणं च चरणं संस्थाप्य वामं तथा दक्षोरूपरि' — the right foot on the left thigh and the left on the right thigh — describes",
+  "options": [
+   "simhasana",
+   "padmasana",
+   "siddhasana",
+   "svastikasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Padmasana** (HP 1.44), with the hands crossed behind holding the big toes (baddha padmasana) and the chin on the chest."
+ },
+ {
+  "id": "YOGA-PRAC12-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'जानूर्वोरन्तरे सम्यक्कृत्वा पादतले उभे' — placing both soles between the thighs and calves — is",
+  "options": [
+   "virasana",
+   "svastikasana",
+   "simhasana",
+   "padmasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Svastikasana** (HP 1.19), the first asana in the text."
+ },
+ {
+  "id": "YOGA-PRAC12-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "'गुदं निरुध्य गुल्फाभ्यां व्युत्क्रमेण समाहितः' — pressing the anus with the crossed ankles — describes",
+  "options": [
+   "svastikasana",
+   "kurmasana",
+   "uttana kurmasana",
+   "virasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kurmasana** (HP 1.22)."
+ },
+ {
+  "id": "YOGA-PRAC12-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which asana of the Hatha Pradipika purifies all 72,000 nadis?",
+  "options": [
+   "Padmasana",
+   "Simhasana",
+   "Bhadrasana",
+   "Siddhasana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Siddhasana** — HP 1.39–1.43: it purifies the 72,000 nadis, brings the three bandhas of themselves, and opens the door to liberation."
+ },
+ {
+  "id": "YOGA-PRAC12-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Once which asana is mastered do the three bandhas occur by themselves?",
+  "options": [
+   "Padmasana",
+   "Siddhasana",
+   "Simhasana",
+   "Svastikasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Siddhasana** (HP 1.43: *bandha-trayam anāyāsāt svayam evopajāyate*)."
+ },
+ {
+  "id": "YOGA-PRAC12-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "question_type": "mcq",
+  "question_text": "In the Hatha Pradipika, the moon becomes steady by the daily practice of",
+  "options": [
+   "matsyendrasana",
+   "mayurasana",
+   "dhanurasana",
+   "kukkutasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Matsyendrasana** (HP 1.27), which also awakens kundalini."
+ },
+ {
+  "id": "YOGA-PRAC12-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "question_type": "mcq",
+  "question_text": "Which of the following are wholesome (pathya) foods in the Hatha Pradipika? (a) wheat (b) shali rice (c) barley (d) dry ginger (shunthi)",
+  "options": [
+   "(a) and (b) only",
+   "(b), (c) and (d) only",
+   "(b) and (c) only",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** HP 1.62: wheat, shali rice, barley, shashtika rice, milk, ghee, sugar, butter, rock sugar, honey, dry ginger, patola, the five greens, mung and rainwater."
+ },
+ {
+  "id": "YOGA-PRAC12-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Place, time and season for Hatha practice",
+  "question_type": "mcq",
+  "question_text": "Which of the following are features of the yoga matha described in the Hatha Pradipika? (a) a small door (b) no holes or crevices (c) not too high, low or long (d) plastered with cow-dung and free of insects",
+  "options": [
+   "(a) and (b) only",
+   "(b) and (c) only",
+   "(a), (b) and (c) only",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** HP 1.13: *alpadvāram arandhra-garta-vivaraṃ nātyuccanīcāyataṃ, samyag gomaya-sāndra-liptam amalaṃ niḥśeṣa-jantūjjhitam*."
+ },
+ {
+  "id": "YOGA-PRAC12-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "'चले वाते चलं चित्तं निश्चले निश्चलं भवेत्' — complete the verse.",
+  "options": [
+   "योगी स्थाणुत्वमाप्नोति ततो वायुं निरोधयेत्",
+   "प्राणायामान् समभ्यसेत्",
+   "युक्तं युक्तं च पूरयेत्",
+   "ततो वायुं विरेचयेत्"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 2.2: when breath moves, the mind moves; when breath is still, the mind is still and the yogi becomes steady like a post — so let him restrain the breath."
+ },
+ {
+  "id": "YOGA-PRAC12-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, in which asana should nadi shodhana be done?",
+  "options": [
+   "Siddhasana",
+   "Baddha padmasana",
+   "Vajrasana",
+   "Sukhasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Baddha padmasana** (HP 2.7). With regular practice the nadis are purified in a little over three months (2.20)."
+ },
+ {
+  "id": "YOGA-PRAC12-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, kumbhakas should be practised how many times a day, and in what order?",
+  "options": [
+   "Twice — morning and evening",
+   "Four times — morning, midday, evening and midnight",
+   "Three times — morning, noon and night",
+   "Once — at brahma muhurta"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 2.11: four times a day, slowly increasing to eighty kumbhakas each time."
+ },
+ {
+  "id": "YOGA-PRAC12-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT one of the three signs of pranayama in HP 2.12?",
+  "options": [
+   "Sweating",
+   "Trembling",
+   "Prana reaching the brahmarandhra",
+   "Hiccups"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** In the lowest stage there is sweat, in the middle trembling, and in the highest the breath reaches the brahmarandhra."
+ },
+ {
+  "id": "YOGA-PRAC12-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "What does the Hatha Pradipika say should be done with the sweat that comes from pranayama?",
+  "options": [
+   "Wipe it off",
+   "Let it flow",
+   "Rub it into the body",
+   "Bathe at once"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** HP 2.13: rub it into the body — this gives firmness and lightness."
+ },
+ {
+  "id": "YOGA-PRAC12-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, who should practise the six cleansing acts?",
+  "options": [
+   "Everyone",
+   "Those with excess fat or phlegm",
+   "Those whose doshas are balanced",
+   "Those with excess pitta"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 2.21: *medaḥ-śleṣmādhikaḥ pūrvaṃ ṣaṭ-karmāṇi samācaret, anyas tu nācaret tāni doṣāṇāṃ samabhāvataḥ*."
+ },
+ {
+  "id": "YOGA-PRAC12-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "The cloth for dhauti in the Hatha Pradipika measures",
+  "options": [
+   "four fingers wide and fifteen hastas (cubits) long",
+   "one span wide",
+   "nine inches long",
+   "two fingers wide and 24 feet long"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 2.24: *caturaṅgula-vistāraṃ hasta-pañcadaśāyatam*."
+ },
+ {
+  "id": "YOGA-PRAC12-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Gajakarani is described in the Hatha Pradipika in connection with which kriya?",
+  "options": [
+   "Basti",
+   "Nauli",
+   "Dhauti",
+   "Neti"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Dhauti** (HP 2.38) — bringing up the contents of the stomach, like an elephant drinking and spraying water. Some yogis do it in place of dhauti."
+ },
+ {
+  "id": "YOGA-PRAC12-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "In the Hatha Pradipika, 'भस्त्रावल्लोहकारस्य रेचपूरौ ससम्भ्रमौ' — quick breathing like a blacksmith's bellows — describes",
+  "options": [
+   "bhastrika",
+   "kapalabhati",
+   "trataka",
+   "neti"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Kapalabhati** (HP 2.35), which removes disorders of kapha. Bhastrika in ch. 2 is a kumbhaka."
+ },
+ {
+  "id": "YOGA-PRAC12-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "question_type": "mcq",
+  "question_text": "Which kriya gives clarity of the dhatus, senses and inner organ (antahkarana), according to the Hatha Pradipika?",
+  "options": [
+   "Jala basti",
+   "Sthala basti",
+   "Gajakarani",
+   "Dhauti"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Basti** (HP 2.28–2.29): *dhātvindriyāntaḥkaraṇa-prasādaṃ dadyāc ca kāntiṃ dahana-pradīptim*."
+ },
+ {
+  "id": "YOGA-PRAC12-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Arrange the eight kumbhakas in the Hatha Pradipika's order: (a) suryabhedana and ujjayi (b) bhastrika and bhramari (c) sitkari and shitali (d) murchha and plavini",
+  "options": [
+   "(c), (b), (a), (d)",
+   "(a), (b), (c), (d)",
+   "(a), (c), (b), (d)",
+   "(a), (d), (b), (c)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** HP 2.44: suryabhedana, ujjayi, sitkari, shitali, bhastrika, bhramari, murchha and plavini."
+ },
+ {
+  "id": "YOGA-PRAC12-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which kumbhaka destroys worms in the abdomen, according to the Hatha Pradipika?",
+  "options": [
+   "Bhastrika",
+   "Suryabhedana",
+   "Ujjayi",
+   "Shitali"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Suryabhedana** (HP 2.50): it purifies the skull, destroys vata disorders and removes worms."
+ },
+ {
+  "id": "YOGA-PRAC12-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which kumbhaka can be practised while walking or standing?",
+  "options": [
+   "Bhastrika",
+   "Shitali",
+   "Ujjayi",
+   "Suryabhedana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Ujjayi** (HP 2.53: *gacchatā tiṣṭhatā kāryam ujjāyyākhyaṃ tu kumbhakam*)."
+ },
+ {
+  "id": "YOGA-PRAC12-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, which kumbhaka destroys the effects of poison?",
+  "options": [
+   "Sitkari",
+   "Shitali",
+   "Bhastrika",
+   "Suryabhedana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Shitali** (HP 2.58), which also cures spleen disorders, fever and excess bile."
+ },
+ {
+  "id": "YOGA-PRAC12-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "mcq",
+  "question_text": "Which kumbhaka quickly awakens kundalini and pierces the three granthis?",
+  "options": [
+   "Bhramari",
+   "Shitali",
+   "Bhastrika",
+   "Sitkari"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bhastrika** (HP 2.65–2.67). It removes disorders of all three doshas and kindles the gastric fire."
+ },
+ {
+  "id": "YOGA-PRAC12-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "question_type": "match",
+  "question_text": "Match the kumbhakas with their fruits in the Hatha Pradipika.",
+  "options": [
+   "A-ii, B-i, C-iv, D-iii",
+   "A-iv, B-ii, C-i, D-iii",
+   "A-ii, B-iv, C-i, D-iii",
+   "A-iii, B-iv, C-i, D-ii"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** HP 2.68–2.70 and 2.55.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Bhramari",
+     "Murchha",
+     "Plavini",
+     "Sitkari"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Floats on water like a lotus leaf",
+     "An indescribable play of bliss in the mind",
+     "One becomes a second god of love",
+     "The mind faints into happiness"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC12-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT among the ten mudras of the Hatha Pradipika?",
+  "options": [
+   "Mahavedha",
+   "Viparita karani",
+   "Shakti chalana",
+   "Yoni mudra"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** HP 3.6–3.7: mahamudra, mahabandha, mahavedha, khechari, uddiyana, mula bandha, jalandhara, viparita karani, vajroli and shakti chalana. They destroy old age and death and give the eight siddhis."
+ },
+ {
+  "id": "YOGA-PRAC12-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "In mahamudra, according to the Hatha Pradipika,",
+  "options": [
+   "the left heel presses the perineum and the right leg is stretched",
+   "both heels are under the buttocks",
+   "the head is down and feet up",
+   "the tongue is turned back"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 3.10–3.11; hold the stretched foot with both hands, with jalandhara. Afterwards it is done on the other side. By it tasteless food becomes tasty and even poison is digested (3.16)."
+ },
+ {
+  "id": "YOGA-PRAC12-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "By keeping the tongue turned upward even for half a moment (khechari), the yogi is freed from",
+  "options": [
+   "poison",
+   "disease",
+   "death",
+   "all of these, and old age"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** HP 3.38: *viṣair vimucyate yogī vyādhi-mṛtyu-jarādibhiḥ*."
+ },
+ {
+  "id": "YOGA-PRAC12-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Which practices are named together with vajroli in the Hatha Pradipika?",
+  "options": [
+   "Amaroli and sahajoli",
+   "Khechari and mahamudra",
+   "Viparita karani and uddiyana",
+   "None of these"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 3.92–3.96: sahajoli and amaroli are forms of vajroli."
+ },
+ {
+  "id": "YOGA-PRAC12-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "In viparita karani, according to the Hatha Pradipika,",
+  "options": [
+   "the moon is above and the sun below",
+   "the sun is above and the moon below",
+   "the yoni is above",
+   "none of these"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 3.78–3.79: the sun (navel) is brought above and the moon (palate) below, so the nectar is not consumed. One yama, the time unit used for its practice, is three hours."
+ },
+ {
+  "id": "YOGA-PRAC12-035",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "By which practice, according to the Hatha Pradipika, is death conquered in six months?",
+  "options": [
+   "Mahabandha",
+   "Mula bandha",
+   "Uddiyana bandha",
+   "Jalandhara bandha"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Uddiyana** (HP 3.59)."
+ },
+ {
+  "id": "YOGA-PRAC12-036",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "'बध्नाति हि सिराजालमधोगामि नभोजलम्' — it binds the network of nadis and stops the nectar from falling. This is",
+  "options": [
+   "mula bandha",
+   "jalandhara bandha",
+   "mahabandha",
+   "uddiyana bandha"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Jalandhara** (HP 3.71); it controls the middle chakra (the throat) and destroys throat diseases."
+ },
+ {
+  "id": "YOGA-PRAC12-037",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, by mula bandha",
+  "options": [
+   "apana is drawn up and nada and bindu become one",
+   "the tongue lengthens",
+   "the moon is above the sun",
+   "the eight siddhis appear"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 3.61–3.64: by contracting the perineum apana goes up and unites with prana; nada and bindu become one and success in yoga follows."
+ },
+ {
+  "id": "YOGA-PRAC12-038",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 38,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "The kanda, described in the Hatha Pradipika's account of shakti chalana, is",
+  "options": [
+   "a span above the anus, four fingers wide, soft and white like wrapped cloth",
+   "at the navel, round",
+   "at the heart",
+   "at the crown, a thousand-petalled"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 3.113: *ūrdhvaṃ vitasti-mātraṃ tu vistāraṃ caturaṅgulam, mṛdulaṃ dhavalaṃ proktaṃ veṣṭitāmbara-lakṣaṇam*."
+ },
+ {
+  "id": "YOGA-PRAC12-039",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 39,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT one of the synonyms of samadhi listed in HP 4.3–4.4?",
+  "options": [
+   "Rajayoga",
+   "Unmani",
+   "Manonmani",
+   "Pratyahara"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** The list: rajayoga, samadhi, unmani, manonmani, amaratva, laya, tattva, shunyashunya, param padam, amanaska, advaita, niralamba, niranjana, jivanmukti, sahaja and turiya."
+ },
+ {
+  "id": "YOGA-PRAC12-040",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 40,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "The Hatha Pradipika compares samadhi — the union of mind and Self — to",
+  "options": [
+   "salt dissolved in water",
+   "milk mixed with water",
+   "mercury bound by herbs",
+   "a lamp in a windless place"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 4.5: *salile saindhavaṃ yadvat sāmyaṃ bhajati yogataḥ, tathātma-manasor aikyaṃ samādhir abhidhīyate*."
+ },
+ {
+  "id": "YOGA-PRAC12-041",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 41,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, the two causes of the mind's activity are",
+  "options": [
+   "vasana and prana",
+   "asana and kumbhaka",
+   "mudra and bandha",
+   "raga and dvesha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 4.22: if one is destroyed, both are destroyed. Where the mind dissolves, prana dissolves; where prana dissolves, the mind dissolves (4.23)."
+ },
+ {
+  "id": "YOGA-PRAC12-042",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 42,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "match",
+  "question_text": "In the Hatha Pradipika's comparison of mercury (parada) and prana, match the state with its effect.",
+  "options": [
+   "A-iii, B-i, C-ii",
+   "A-ii, B-iii, C-i",
+   "A-i, B-ii, C-iii",
+   "A-ii, B-i, C-iii"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** HP 4.27.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Swooned mercury and restrained prana",
+     "Dead mercury and dissolved prana",
+     "Bound mercury and fixed prana"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Gives the power to move in the sky",
+     "Removes diseases",
+     "Gives life"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC12-043",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 43,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "In HP 4.29, the senses are ruled by the mind, the mind by prana, prana by laya, and laya depends on",
+  "options": [
+   "nada",
+   "bindu",
+   "kundalini",
+   "the guru"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Nada.** *indriyāṇāṃ mano nātho manonāthas tu mārutaḥ, mārutasya layo nāthaḥ sa layo nādam āśritaḥ*."
+ },
+ {
+  "id": "YOGA-PRAC12-044",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 44,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "The Hatha Pradipika says the Vedas, shastras and puranas are like ordinary women, while which mudra is like a respectable lady kept hidden?",
+  "options": [
+   "Khechari",
+   "Shambhavi",
+   "Mahamudra",
+   "Vajroli"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Shambhavi** (HP 4.35): attention fixed within, while the gaze is outward and unblinking (4.36)."
+ },
+ {
+  "id": "YOGA-PRAC12-045",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 45,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, how many methods of laya did Adinatha teach?",
+  "options": [
+   "One crore",
+   "Two and a half crore",
+   "One and a quarter crore (sapada koti)",
+   "Countless"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** HP 4.66: *śrī-ādinātha-sapāda-koṭi-laya-prakārāḥ*, of which nadanusandhana is the chief. Gorakshanatha taught nadopasana for those who cannot grasp the truth (4.65)."
+ },
+ {
+  "id": "YOGA-PRAC12-046",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 46,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 16 (Hatha Pradipika). From 'HATHPRADIPIKA ALL MCQ ( BY PUNDLIK) 8.pdf' in the notes folder; items overlapping set 2 dropped, the rest re-keyed against HP verses."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "question_type": "mcq",
+  "question_text": "In the Hatha Pradipika, the mind, wandering like an intoxicated elephant in the garden of sense objects, is controlled by",
+  "options": [
+   "the goad of nada",
+   "the net of breath",
+   "the rope of mantra",
+   "the cage of asana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** HP 4.91. The mind-deer is caught in the net of nada (4.94), and the mind-serpent, hearing nada, forgets everything (4.96)."
+ }
+]

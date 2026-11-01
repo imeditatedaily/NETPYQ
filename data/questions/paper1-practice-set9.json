@@ -1,0 +1,1047 @@
+[
+ {
+  "id": "P1-PRAC9-001",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "Which of the following is the highest level of cognitive ability in Bloom's original taxonomy?",
+  "options": [
+   "Evaluating",
+   "Knowing",
+   "Understanding",
+   "Analysing"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Evaluation.** Original order (1956): knowledge, comprehension, application, analysis, synthesis, evaluation. In the revised taxonomy (Anderson and Krathwohl, 2001) the top is *create*."
+ },
+ {
+  "id": "P1-PRAC9-002",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "According to the revised Bloom's taxonomy, which category is the highest?",
+  "options": [
+   "Understand",
+   "Apply",
+   "Analyse",
+   "Create"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Create.** Remember → understand → apply → analyse → evaluate → create."
+ },
+ {
+  "id": "P1-PRAC9-003",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Pedagogy is the art and science of teaching",
+  "options": [
+   "adults",
+   "women",
+   "children",
+   "teachers"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Children** (Greek *paid-*, child + *agogos*, leading). Andragogy is for adults; heutagogy for self-determined learners."
+ },
+ {
+  "id": "P1-PRAC9-004",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Arrange the teaching process in order: (i) relating present knowledge to previous knowledge (ii) evaluation (iii) re-teaching (iv) formulating instructional objectives (v) presenting instructional materials",
+  "options": [
+   "(i), (ii), (iii), (iv), (v)",
+   "(ii), (i), (iii), (iv), (v)",
+   "(v), (iv), (iii), (i), (ii)",
+   "(iv), (i), (v), (ii), (iii)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Objectives first, then link to prior knowledge, present, evaluate and re-teach where needed."
+ },
+ {
+  "id": "P1-PRAC9-005",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "The best method of teaching is to",
+  "options": [
+   "impart information",
+   "ask students to read books",
+   "suggest good reference material",
+   "initiate a discussion and participate in it"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Interaction, with the teacher as a participant, gives the deepest learning."
+ },
+ {
+  "id": "P1-PRAC9-006",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "mcq",
+  "question_text": "Which type of evaluation assesses learning progress to give continuous feedback to teachers and students during instruction?",
+  "options": [
+   "Placement",
+   "Formative",
+   "Diagnostic",
+   "Summative"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Formative.** Placement is at the start; summative at the end; diagnostic finds the causes of persistent learning difficulties."
+ },
+ {
+  "id": "P1-PRAC9-007",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "mcq",
+  "question_text": "Diagnostic evaluation ascertains",
+  "options": [
+   "students' performance at the start of instruction",
+   "learning progress during instruction",
+   "achievement at the end",
+   "the causes and remedies of persistent learning problems"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).**"
+ },
+ {
+  "id": "P1-PRAC9-008",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "mcq",
+  "question_text": "Achievement tests are commonly used for",
+  "options": [
+   "assessing the amount of learning after teaching",
+   "selecting for a job",
+   "selecting candidates for a course",
+   "identifying learners' strengths and weaknesses"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Aptitude tests predict future performance; diagnostic tests find strengths and weaknesses."
+ },
+ {
+  "id": "P1-PRAC9-009",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "The most appropriate meaning of learning is",
+  "options": [
+   "acquisition of skills",
+   "modification of behaviour",
+   "personal adjustment",
+   "inculcation of knowledge"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Learning is a relatively permanent change (modification) in behaviour through experience or practice."
+ },
+ {
+  "id": "P1-PRAC9-010",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "Effective teaching is a function of",
+  "options": [
+   "the teacher's satisfaction",
+   "the teacher's honesty and commitment",
+   "the teacher making students learn and understand",
+   "the teacher's liking for professional excellence"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Teaching is judged by learning."
+ },
+ {
+  "id": "P1-PRAC9-011",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a sign of motivated teaching?",
+  "options": [
+   "Students asking questions",
+   "Maximum attendance",
+   "Pin-drop silence",
+   "Students taking notes"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Questions show curiosity and engagement; silence or note-taking may be passive."
+ },
+ {
+  "id": "P1-PRAC9-012",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Dyslexia is associated mainly with",
+  "options": [
+   "mental disorder",
+   "behavioural disorder",
+   "reading disorder",
+   "writing disorder"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Dysgraphia is difficulty in writing, dyscalculia in mathematics."
+ },
+ {
+  "id": "P1-PRAC9-013",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "A good teacher must be",
+  "options": [
+   "resourceful and autocratic",
+   "resourceful and participative",
+   "resourceful and authoritative",
+   "resourceful and dominant"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).**"
+ },
+ {
+  "id": "P1-PRAC9-014",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Instructional aids are used by the teacher mainly to",
+  "options": [
+   "glorify the class",
+   "attract students",
+   "clarify concepts",
+   "ensure discipline"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).**"
+ },
+ {
+  "id": "P1-PRAC9-015",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "statements",
+  "question_text": "Which of the following statements about teaching aids are correct?",
+  "options": [
+   "(a), (b) and (d)",
+   "(a), (b), (c) and (d)",
+   "(a), (b) and (c)",
+   "(b), (c) and (d)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Aids make learning concrete, not rote.",
+  "items": [
+   "They help in retaining concepts for longer",
+   "They help students learn better",
+   "They make teaching-learning interesting",
+   "They encourage rote learning"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-016",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "A good teacher is one who",
+  "options": [
+   "inspires students to learn",
+   "gives useful information",
+   "explains concepts and principles",
+   "gives printed notes"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).**"
+ },
+ {
+  "id": "P1-PRAC9-017",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a teacher-centred method?",
+  "options": [
+   "Problem solving",
+   "Discussion",
+   "Inquiry approach",
+   "Demonstration"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Demonstration** (with lecture). The others put the learner at the centre."
+ },
+ {
+  "id": "P1-PRAC9-018",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "statements",
+  "question_text": "Which of the following are basic requirements for effective teaching?",
+  "options": [
+   "(a) and (c) only",
+   "(c) and (e) only",
+   "(b), (d) and (e) only",
+   "(a), (c) and (d) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).**",
+  "items": [
+   "Teaching only what is in the curriculum",
+   "Good communication skills",
+   "A rigid teaching approach",
+   "Excellent subject knowledge",
+   "Ability to connect with students"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-019",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "statements",
+  "question_text": "Which of the following are types of cognitive load that make demands during learning?",
+  "options": [
+   "(a), (b) and (c) only",
+   "(b), (c) and (d) only",
+   "(a), (c) and (e) only",
+   "(c), (d) and (e) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Sweller's cognitive load theory: intrinsic (complexity of the content), extraneous (poor presentation) and germane (effort of building schemas in long-term memory).",
+  "items": [
+   "Intrinsic",
+   "Gestalt",
+   "Extraneous",
+   "Extinction",
+   "Germane"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-020",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "mcq",
+  "question_text": "A child who finds a task hard alone can do it with the help of more skilled peers and adults. This range is called",
+  "options": [
+   "accommodation",
+   "the zone of proximal development",
+   "assimilation",
+   "equilibration"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2)** — Vygotsky. The help itself is called scaffolding. Accommodation, assimilation and equilibration are Piaget's terms."
+ },
+ {
+  "id": "P1-PRAC9-021",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "statements",
+  "question_text": "Which of the following are stages in Kohlberg's theory of moral development?",
+  "options": [
+   "(a), (b), (c) and (d) only",
+   "(a), (c), (d) and (e) only",
+   "(b), (c), (d) and (e) only",
+   "(a), (b), (d) and (e) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Six stages in three levels: obedience and punishment, self-interest (exchange), interpersonal conformity, law and order, social contract, universal ethical principles.",
+  "items": [
+   "Obedience orientation",
+   "Intellectual disability orientation",
+   "Reward / exchange orientation",
+   "Law and order orientation",
+   "Social contract orientation"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-022",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "statements",
+  "question_text": "Which of the following are hats in Edward de Bono's 'Six Thinking Hats'?",
+  "options": [
+   "(a), (b) and (c) only",
+   "(b), (c) and (d) only",
+   "(c), (d) and (e) only",
+   "(b), (d) and (e) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** White (facts), red (feelings), black (caution), yellow (optimism), green (creativity) and blue (process).",
+  "items": [
+   "Brown hat",
+   "White hat",
+   "Violet hat",
+   "Red hat",
+   "Black hat"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-023",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "match",
+  "question_text": "Match Gardner's intelligences with the abilities they involve.",
+  "options": [
+   "A-ii, B-i, C-iii, D-iv",
+   "A-i, B-iii, C-iv, D-ii",
+   "A-iii, B-iv, C-ii, D-i",
+   "A-iv, B-ii, C-i, D-iii"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Gardner (*Frames of Mind*, 1983) also lists spatial, bodily-kinaesthetic, interpersonal and intrapersonal intelligences.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Linguistic",
+     "Logical-mathematical",
+     "Musical",
+     "Naturalist"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "style": "roman",
+    "items": [
+     "Appreciating and producing rhythm, pitch and timbre",
+     "Handling long chains of reasoning",
+     "Recognising plants and animals",
+     "Sensitivity to the functions of language"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC9-024",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: The brain continues to develop throughout childhood and adolescence. Statement II: Logical, goal-directed actions begin in the sensorimotor period.",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** In Piaget's scheme, logical operations begin only at the concrete operational stage (about 7–11 years); the sensorimotor stage (0–2) is about senses, movement and object permanence."
+ },
+ {
+  "id": "P1-PRAC9-025",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: Repudiation and fidelity are features of the adulthood stage in Erikson's theory. Statement II: Adolescence is the stage of identity versus identity (role) confusion.",
+  "options": [
+   "Statement I is true, Statement II is false",
+   "Statement II is true, Statement I is false",
+   "Both statements are true",
+   "Both statements are false"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Fidelity (and repudiation of rejected roles) belong to adolescence, the identity stage. Early adulthood is intimacy versus isolation."
+ },
+ {
+  "id": "P1-PRAC9-026",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "statements",
+  "question_text": "Which of the following belong to the cognitive domain of behavioural objectives?",
+  "options": [
+   "(a), (b) and (c) only",
+   "(b), (c) and (d) only",
+   "(a), (c) and (e) only",
+   "(c), (d) and (e) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Valuing is affective (Krathwohl); precision is psychomotor (Dave).",
+  "items": [
+   "Evaluation",
+   "Valuing",
+   "Comprehension",
+   "Precision",
+   "Knowledge"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-027",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "mcq",
+  "question_text": "Put the steps of an evaluation system in order: (A) developing and using measuring instruments (B) interpreting data (C) setting objectives and criteria (D) forming judgments and taking action.",
+  "options": [
+   "(A), (B), (C), (D)",
+   "(B), (C), (A), (D)",
+   "(C), (A), (B), (D)",
+   "(A), (C), (B), (D)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).**"
+ },
+ {
+  "id": "P1-PRAC9-028",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "assertion_reason",
+  "question_text": "Read the two statements and choose the correct option.",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+   "(A) is correct but (R) is not correct",
+   "(A) is not correct but (R) is correct"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Formative assessment is for feedback during learning; credits and grades come from summative assessment.",
+  "assertion": "Multiple testing instruments must be used for formative assessment.",
+  "reason": "Formative assessments are used for awarding credits."
+ },
+ {
+  "id": "P1-PRAC9-029",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "statements",
+  "question_text": "Which of the following are common criteria of tests?",
+  "options": [
+   "(a), (c) and (d) only",
+   "(b), (c) and (d) only",
+   "(b), (c), (d) and (e) only",
+   "(a), (c), (d) and (e) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** A good test mixes levels of thinking; it need not be entirely higher-order.",
+  "items": [
+   "Administrative conditions",
+   "All questions testing higher-order thinking",
+   "Time limit",
+   "Nature of questions",
+   "Allocation of marks"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-030",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which of the following are true of the audience of analogue mass media? They are",
+  "options": [
+   "(a), (b) and (c) only",
+   "(b), (c) and (d) only",
+   "(a), (b) and (e) only",
+   "(c), (d) and (e) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** The mass audience of print, radio and TV is large, mixed and anonymous; digital media allow personal addressing.",
+  "items": [
+   "personally addressable",
+   "active campaigners",
+   "large",
+   "heterogeneous",
+   "anonymous"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-031",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "SWAYAM is designed to achieve which three cardinal principles of education policy?",
+  "options": [
+   "Equality, quantity and quality",
+   "Access, equity and quality",
+   "Equality, equity and quality",
+   "Access, equality and quantity"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Access, equity and quality.**"
+ },
+ {
+  "id": "P1-PRAC9-032",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "Read the two statements and choose the correct option. Statement I: MOOC stands for 'Massive Open Online Courses'. Statement II: SWAYAM stands for 'Study Web of Active Learning for Young Academic Minds'.",
+  "options": [
+   "Both statements are true",
+   "Both statements are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** SWAYAM is 'Study Webs of Active-Learning for Young **Aspiring** Minds'."
+ },
+ {
+  "id": "P1-PRAC9-033",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "The present SWAYAM platform was developed by the Ministry of Education and NPTEL, IIT Madras, with the help of",
+  "options": [
+   "Infosys and TCS",
+   "Google and Persistent Systems",
+   "HCL and Microsoft",
+   "Wipro and Google"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** (The first version, launched in 2017, was built by MHRD and AICTE with Microsoft.)"
+ },
+ {
+  "id": "P1-PRAC9-034",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "SWAYAM hosts courses taught in classrooms from",
+  "options": [
+   "class 9 to post-graduation",
+   "class 8 to post-graduation",
+   "class 5 to doctorate",
+   "class 7 to post-doctorate"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** National coordinators include AICTE, NPTEL, UGC, CEC, IGNOU, NCERT, NIOS, IIM Bangalore and NITTTR."
+ },
+ {
+  "id": "P1-PRAC9-035",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "SWAYAM PRABHA — 24 × 7 educational channels — is an initiative of",
+  "options": [
+   "the Ministry of Education (then MHRD)",
+   "UGC",
+   "CEC",
+   "AICTE"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** It is a group of DTH channels (originally 32, now many more), transmitted using the GSAT-15 satellite, for those without Internet access."
+ },
+ {
+  "id": "P1-PRAC9-036",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "The satellite used for transmitting SWAYAM PRABHA is",
+  "options": [
+   "EDUSAT",
+   "GSAT-15",
+   "GSAT-3",
+   "SP-EDU-15"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) GSAT-15.**"
+ },
+ {
+  "id": "P1-PRAC9-037",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "Which model is used to develop e-content for MOOCs on SWAYAM?",
+  "options": [
+   "Four-quadrant approach",
+   "Two-quadrant approach",
+   "Flipped classroom",
+   "Bloom's taxonomy"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The four quadrants: e-tutorial (video), e-content (text), web resources, and self-assessment."
+ },
+ {
+  "id": "P1-PRAC9-038",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "statements",
+  "question_text": "Which of the following are e-learning platforms?",
+  "options": [
+   "(a), (b) and (e) only",
+   "(a), (c) and (d) only",
+   "(b), (c) and (d) only",
+   "(c), (d) and (e) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** PARAKH is the national assessment centre under NEP 2020; a MOOC is a kind of course, not a platform.",
+  "items": [
+   "SWAYAM",
+   "PARAKH",
+   "SWAYAM PRABHA",
+   "DIKSHA",
+   "MOOC"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-039",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "statements",
+  "question_text": "In the context of MOOCs in Indian higher education, which are correct?",
+  "options": [
+   "(a) and (d) only",
+   "(c) and (d) only",
+   "(a), (b) and (e) only",
+   "(a), (c) and (d) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).**",
+  "items": [
+   "They are learner-centric",
+   "They can be delivered only through the SWAYAM portal",
+   "They can benefit large numbers of learners",
+   "They can be accessed anytime, anywhere, any number of times",
+   "All MOOCs are for earning credit"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC9-040",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "Under the UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations, 2021, up to what share of a programme's credits in a semester can be earned through online courses?",
+  "options": [
+   "25%",
+   "40%",
+   "50%",
+   "45%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 40%** (raised from 20% in the 2016 regulations)."
+ },
+ {
+  "id": "P1-PRAC9-041",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 17 (Teaching Aptitude). From 'TEACHING APTITUDE  mcq  (BY PUNDLIK )7.pdf' in the notes folder (coaching compilation of NTA-style questions with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "question_type": "mcq",
+  "question_text": "Which of the following is true of SWAYAM PRABHA?",
+  "options": [
+   "They are MOOCs certified for credit",
+   "They are educational programmes on direct-to-home (DTH) channels",
+   "One must pay to subscribe",
+   "They cover only classes 1 to 12"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The channels are free and cover school, higher, technical and professional education."
+ }
+]
