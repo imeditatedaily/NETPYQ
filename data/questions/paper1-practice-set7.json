@@ -1,0 +1,687 @@
+[
+ {
+  "id": "P1-PRAC7-001",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "statements",
+  "question_text": "Identify the indicators of the commitment areas of teachers.",
+  "options": [
+   "(a), (b) and (c)",
+   "(b), (c) and (d)",
+   "(a), (d) and (f)",
+   "(d), (e) and (f)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Commitment shows in attitude: doing the job well, caring for the learner's all-round growth and holding to professional values. Content competency and classroom performance are competencies, not commitment.",
+  "items": [
+   "A 'do it well' approach",
+   "Developing contact with the community",
+   "Enhancing classroom performance, including teaching-learning processes",
+   "Concern for all-round development and readiness to help",
+   "Acquiring curricular and content competency",
+   "Respecting impartiality, objectivity and intellectual honesty"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-002",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "A student-centric classroom is meant mainly for",
+  "options": [
+   "addressing individual differences",
+   "reducing teacher-oriented lectures",
+   "recalling previous knowledge",
+   "engaging the entire class"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Learner-centred teaching adapts pace, method and task to the learner, so its core purpose is to address individual differences."
+ },
+ {
+  "id": "P1-PRAC7-003",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "match",
+  "question_text": "Match the methods of teaching in Column A with their focus in Column B.",
+  "options": [
+   "A-i, B-ii, C-iii, D-iv",
+   "A-iii, B-iv, C-ii, D-i",
+   "A-iv, B-iii, C-ii, D-i",
+   "A-ii, B-iv, C-iii, D-i"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Collaborative learning shares parts of a joint task; co-operative learning has students help one another; constructivism treats them as builders of knowledge; team teaching pools teachers' expertise.",
+  "lists": {
+   "list_i": {
+    "title": "Column A (method)",
+    "items": [
+     "Collaborative method",
+     "Co-operative method",
+     "Constructivist method",
+     "Team teaching"
+    ]
+   },
+   "list_ii": {
+    "title": "Column B (focus)",
+    "style": "roman",
+    "items": [
+     "When the expertise of several teachers is used",
+     "When students are treated as creators of knowledge",
+     "When students share different aspects of a learning activity",
+     "When students help each other to learn"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC7-004",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which learner characteristics will influence his or her perspective in a course of study?",
+  "options": [
+   "(a), (c) and (d)",
+   "(a), (b) and (c)",
+   "(c), (d) and (e)",
+   "(d), (e) and (f)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Commitment, prior knowledge and skill belong to the learner and shape how he or she approaches a course; the rest are family factors.",
+  "items": [
+   "The learner's commitment",
+   "Parents' interest in the learner",
+   "The learner's prior knowledge",
+   "The learner's skill in the area concerned",
+   "Family size",
+   "Socio-economic background of the family"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-005",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "Inclusive education implies",
+  "options": [
+   "ensuring that every child's learning outcome is the same",
+   "including the disabled in the mainstream",
+   "compulsory education for children below 14",
+   "ensuring that no child is left behind in education"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Inclusion is wider than integrating children with disabilities: it means every learner, whatever their background or ability, participates and learns. NEP 2020 makes equitable and inclusive education a core principle."
+ },
+ {
+  "id": "P1-PRAC7-006",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Reflective practice by a teacher implies the use of one's",
+  "options": [
+   "cognition",
+   "metacognition",
+   "metacognition on cognition",
+   "reinforcement of learning"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Metacognition** — thinking about one's own thinking and teaching (Schön's reflection-in-action and reflection-on-action)."
+ },
+ {
+  "id": "P1-PRAC7-007",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which of the following best describe the emotional intelligence of learners?",
+  "options": [
+   "(a), (d) and (f)",
+   "(d), (e) and (f)",
+   "(a), (b) and (c)",
+   "(b), (c) and (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Awareness of emotions, regulating them, and empathy and acceptance of others are the components (Goleman: self-awareness, self-regulation, motivation, empathy, social skills).",
+  "items": [
+   "Understanding the emotions of others and one's own",
+   "Expressing oneself very strongly",
+   "Being rational in thinking",
+   "Adjusting one's emotions to the situation",
+   "Being creative and open to criticism",
+   "Accepting other people as they are"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-008",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "Which statement best explains the concept of inclusive teaching?",
+  "options": [
+   "The teacher facilitates the learning of gifted students",
+   "The teacher facilitates the learning of weak students",
+   "The teacher takes parents' support to make students learn",
+   "The teacher makes students of different backgrounds learn together in the same class"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Inclusive teaching means one classroom where diverse learners learn together, with support adapted to each."
+ },
+ {
+  "id": "P1-PRAC7-009",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Which of the following learner characteristics help in effective teaching?",
+  "options": [
+   "(a), (b), (c) and (f)",
+   "(c), (d), (e) and (f)",
+   "(a), (b), (c) and (d)",
+   "(b), (c), (d) and (f)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Respect for the teacher, mental ability, previous experience and interest in study bear directly on learning in class.",
+  "items": [
+   "Learners' respect for the teacher",
+   "Learners' level of mental ability",
+   "Learners' previous experiences",
+   "Learners' level of interest in study",
+   "Learners' interpersonal relations",
+   "Learners' view of society"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-010",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "statements",
+  "question_text": "Which of the following instructional events form part of the structure of a lesson plan?",
+  "options": [
+   "(a), (b), (c) and (d)",
+   "(a), (c), (d) and (f)",
+   "(b), (c), (e) and (f)",
+   "(a), (c), (d) and (e)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** These are four of Gagné's nine events of instruction: gain attention, inform objectives, stimulate recall, present content, guide learning, elicit performance, give feedback, assess, and enhance retention and transfer.",
+  "items": [
+   "Gaining the attention of students",
+   "Prior knowledge of students",
+   "Informing learners of the objectives",
+   "Stimulating recall of prerequisite learning",
+   "Checking the availability of reading material in the library",
+   "Eliciting the desired response (performance)"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-011",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "question_type": "mcq",
+  "question_text": "The think-aloud procedure is",
+  "options": [
+   "part of a secondary source of data",
+   "a technique used to investigate learners' strategies and performance",
+   "a way of testing aptitude through primary sources",
+   "a necessary method in scientific research"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Learners say aloud what they are thinking as they solve a task, revealing their cognitive strategies (protocol analysis, Ericsson and Simon)."
+ },
+ {
+  "id": "P1-PRAC7-012",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an example of a higher-order cognitive learning outcome?",
+  "options": [
+   "learning facts and their sequences",
+   "learning roles and action sequences",
+   "learning concepts and abstractions",
+   "learning awareness and valuing"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Concepts and abstractions need understanding and generalisation, above recall of facts. Awareness and valuing belong to the affective domain."
+ },
+ {
+  "id": "P1-PRAC7-013",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a social characteristic of a learner?",
+  "options": [
+   "power of sensory perception",
+   "thinking ability",
+   "power of synthetic imagination",
+   "ability to relate oneself to others"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Relating to others is social; thinking and imagination are cognitive; sensory perception is physical."
+ },
+ {
+  "id": "P1-PRAC7-014",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a non-cognitive characteristic of a learner?",
+  "options": [
+   "recalling",
+   "problem solving",
+   "identifying important sensory inputs",
+   "believing what is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Beliefs belong to the affective (non-cognitive) side, with attitudes, values and interests. The others are cognitive processes."
+ },
+ {
+  "id": "P1-PRAC7-015",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "mcq",
+  "question_text": "The 'Cone of Experience' in teaching-learning was proposed by",
+  "options": [
+   "John Dewey",
+   "W.H. Kilpatrick",
+   "Friedrich Froebel",
+   "Edgar Dale"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Edgar Dale** (1946). It runs from direct, purposeful experience at the base to verbal symbols at the top — the more concrete the experience, the more lasting the learning."
+ },
+ {
+  "id": "P1-PRAC7-016",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "The field of study that uses role play, simulation and self-evaluation as strategies for adult learners is",
+  "options": [
+   "pedagogy",
+   "andragogy",
+   "anthropology",
+   "psychology"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Andragogy** (Knowles): adults learn best through experience-based, problem-centred and self-directed methods."
+ },
+ {
+  "id": "P1-PRAC7-017",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "match",
+  "question_text": "Match the behaviour modification techniques in Set I with their descriptions in Set II.",
+  "options": [
+   "A-i, B-ii, C-iii, D-iv",
+   "A-ii, B-i, C-iii, D-iv",
+   "A-iv, B-iii, C-ii, D-i",
+   "A-iii, B-i, C-ii, D-iv"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Both kinds of reinforcement increase behaviour — positive by adding something pleasant, negative by removing something unpleasant. Punishment and extinction decrease it.",
+  "lists": {
+   "list_i": {
+    "title": "Set I",
+    "items": [
+     "Positive reinforcement",
+     "Negative reinforcement",
+     "Punishment",
+     "Extinction"
+    ]
+   },
+   "list_ii": {
+    "title": "Set II",
+    "style": "roman",
+    "items": [
+     "A pleasant stimulus is withdrawn to stop the behaviour",
+     "A painful or aversive stimulus is presented to stop the behaviour",
+     "The behaviour increases after a stimulus is removed",
+     "The behaviour increases after a stimulus is presented"
+    ]
+   }
+  }
+ },
+ {
+  "id": "P1-PRAC7-018",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "mcq",
+  "question_text": "Which of the following is least important for the academic success of students?",
+  "options": [
+   "cognitive competence",
+   "emotional competence",
+   "legal competence",
+   "social competence"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Legal competence.** Cognitive, emotional and social competence all bear directly on learning."
+ },
+ {
+  "id": "P1-PRAC7-019",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "question_type": "mcq",
+  "question_text": "Which form of education has high potential for providing optimism, self-esteem and commitment to personal fulfilment, ethical judgement and social responsibility?",
+  "options": [
+   "Formal education",
+   "Technical education",
+   "Moral education",
+   "Value education"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Value education** — it develops the whole person, including personal, ethical and social values, and is broader than moral instruction."
+ },
+ {
+  "id": "P1-PRAC7-020",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Academic performance of students is determined by",
+  "options": [
+   "(a) and (b) only",
+   "(a) and (d) only",
+   "(b) and (c) only",
+   "(c) and (d) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Intelligence and motivation.** Physique and gender do not determine academic performance.",
+  "items": [
+   "Intelligence",
+   "Motivation",
+   "Physique",
+   "Gender"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-021",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "Who has control over self, mode of communication and method of delivery in the classroom?",
+  "options": [
+   "the student",
+   "the teacher",
+   "the audience",
+   "a visitor"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) The teacher**, as the source and manager of classroom communication."
+ },
+ {
+  "id": "P1-PRAC7-022",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "question_type": "assertion_reason",
+  "question_text": "Read the two statements and choose the correct option.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** Online teaching can bring a few highly competent teachers to very large numbers of students (as on SWAYAM), so (A) is true. There is no basis for claiming it develops critical thinking better than face-to-face teaching, so (R) is false.",
+  "assertion": "Through online teaching, a large number of students can be taught by very competent faculty.",
+  "reason": "Online teaching helps students develop critical thinking more than offline teaching can."
+ },
+ {
+  "id": "P1-PRAC7-023",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a component of effective teaching?",
+  "options": [
+   "questioning to check students' understanding",
+   "giving students feedback",
+   "being flexible about how long it takes to learn",
+   "keeping students in a reactive mode"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Effective teaching makes students active participants, not passive responders."
+ },
+ {
+  "id": "P1-PRAC7-024",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "question_type": "statements",
+  "question_text": "Which of the following factors do NOT contribute to the effectiveness of teaching?",
+  "options": [
+   "(a), (c) and (d)",
+   "(b), (c) and (d)",
+   "(a), (b) and (c)",
+   "(a), (b) and (d)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** Of these, only subject knowledge makes teaching more effective.",
+  "items": [
+   "Socio-economic background of the teacher",
+   "The teacher's skill in pleasing students",
+   "The teacher's subject knowledge",
+   "The teacher's personal contact with students"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ },
+ {
+  "id": "P1-PRAC7-025",
+  "subject": "paper1",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 7 (Teaching Aptitude). From '8. Teaching E Qs-3 (1)(Pdf).pdf' in the notes folder (coaching compilation with key); doubtful items dropped, keys checked."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "question_type": "statements",
+  "question_text": "Choose the two factors that do NOT adversely affect the academic performance of students.",
+  "options": [
+   "(a) and (b) only",
+   "(b) and (c) only",
+   "(c) and (d) only",
+   "(b) and (d) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Low self-efficacy (Bandura) and low teacher expectations (the Pygmalion effect in reverse) depress achievement; religious belief and political indifference do not.",
+  "items": [
+   "Low self-efficacy belief",
+   "Belief in God",
+   "An indifferent attitude towards politics",
+   "The teacher's low expectations of students"
+  ],
+  "prompt": "Choose the correct answer from the options given below:"
+ }
+]
