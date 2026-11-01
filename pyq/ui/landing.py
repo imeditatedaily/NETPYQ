@@ -9,8 +9,8 @@ from html import escape
 import streamlit as st
 
 from .. import trends
-from ..access import sellable_questions, sellable_subjects
-from ..config import SUBJECT_PRICE_INR
+from ..access import free_paper_label, free_questions, sellable_questions, sellable_subjects
+from ..config import PASS_DAYS, PASSES, SUBJECT_PRICE_INR
 from ..syllabus import SUBJECTS
 from . import state
 
@@ -210,6 +210,7 @@ CSS = """
 .lp-price li { padding: .28rem 0 .28rem 1.5rem; position: relative; }
 .lp-price li::before { content: "✓"; position: absolute; left: 0; font-weight: 700; color: var(--lp-green-2); }
 .lp-price.hot li::before { color: var(--lp-lime); }
+.lp-price .per { font-weight: 600; font-size: .92rem; margin: 0 0 .35rem; }
 .lp-price.soon { opacity: .7; }
 .lp-price.soon .amt { font-size: 1.5rem; }
 
@@ -405,7 +406,7 @@ STEPS = """
   <h2 class="lp-h2">From sign-in to <em>first question</em> in under a minute.</h2>
   <div class="lp-steps">
     <div class="lp-step"><h3>Sign in with Google</h3><p>One tap. No form, no password. Your progress is saved to your account.</p></div>
-    <div class="lp-step"><h3>Try the free questions</h3><p>Practise the sample questions with full explanations and analytics, free.</p></div>
+    <div class="lp-step"><h3>Practise a full paper free</h3><p>A complete real paper is open to everyone, with every explanation, the trends and your analytics. No card needed.</p></div>
     <div class="lp-step"><h3>Unlock your subject</h3><p>Pay by UPI, card or net banking on Razorpay's secure page. Every real paper for that subject opens straight away.</p></div>
   </div>
 </div>
@@ -426,14 +427,39 @@ def _price_card(subject: str, s: SubjectStats, hot: bool) -> str:
     paper_word = "paper" if s.papers == 1 else "papers"
     return f"""<div class="lp-price{' hot' if hot else ''}">{'<span class="lp-badge">Most questions</span>' if hot else ''}
 <h3>{escape(title)}</h3><div class="code">{sub}</div>
-<div class="amt">₹{SUBJECT_PRICE_INR}<small> / month</small></div>
+{_pass_price(subject)}
 <ul><li>{s.questions} real questions from {s.papers} {paper_word}{span}</li><li>{s.topics} micro-topics with trend insight</li>
-<li>Explanations, review loop and analytics</li><li>More papers being added, at no extra cost</li><li>Cancel renewal anytime. No refunds</li></ul></div>"""
+<li>Timed mock tests, explanations, review loop and analytics</li><li>More papers being added, at no extra cost</li></ul></div>"""
 
 
-FREE_CARD = """<div class="lp-price"><h3>Free</h3><div class="code">For everyone who signs in</div>
-<div class="amt">₹0</div><ul><li>Sample questions in every NTA format</li><li>Full explanations and trend insight</li><li>Unit-wise and topic-wise PYQ trends</li>
-<li>Progress saved to your account</li><li>No card needed</li></ul></div>"""
+def _pass_price(key: str) -> str:
+    """"₹1,499 once · 6 months" with the monthly option under it."""
+    months = PASS_DAYS // 30
+    if key in PASSES:
+        price = PASSES[key][1]
+        return (f'<div class="amt">₹{price:,}</div><div class="per">one payment · {months} months</div>'
+                f'<div class="code">or ₹{SUBJECT_PRICE_INR * len(PASSES[key][2])}/month · no refunds</div>')
+    return f'<div class="amt">₹{SUBJECT_PRICE_INR}<small> / month</small></div>'
+
+
+def _combo_card(stats: dict) -> str:
+    name, price, subjects = PASSES["combo"]
+    months = PASS_DAYS // 30
+    total = sum(stats[s].questions for s in subjects)
+    saving = SUBJECT_PRICE_INR * len(subjects) * months - price
+    return f"""<div class="lp-price hot"><span class="lp-badge">Best value</span>
+<h3>Paper 1 + Yoga</h3><div class="code">Both papers you sit on exam day</div>
+<div class="amt">₹{price:,}</div><div class="per">one payment · {months} months</div>
+<div class="code">Save ₹{saving:,} on {months} months of monthly plans · no refunds</div>
+<ul><li>{total} real questions across both papers</li><li>Full-length timed mock tests</li>
+<li>PYQ trends, explanations and analytics</li><li>Pay once, nothing renews</li></ul></div>"""
+
+
+def _free_card(n_free: int) -> str:
+    paper = f"<li><b>A full real paper: {escape(free_paper_label())}</b> ({n_free} questions)</li>" if n_free else ""
+    return f"""<div class="lp-price"><h3>Free</h3><div class="code">For everyone who signs in</div>
+<div class="amt">₹0</div><ul>{paper}<li>Sample questions in every NTA format</li><li>Full explanations and trend insight</li><li>Unit-wise and topic-wise PYQ trends</li>
+<li>Timed mock test on the free paper</li><li>No card needed</li></ul></div>"""
 
 
 def _faq(years_by_subject: dict[str, str]) -> str:
@@ -441,16 +467,22 @@ def _faq(years_by_subject: dict[str, str]) -> str:
     qa = [
         ("Are these the real UGC NET questions?",
          "Yes. Every question in a paid subject comes from an actual UGC NET paper, checked against the official "
-         "answer key, and is tagged with its exam session. The free samples are written in NTA's pattern and are "
+         "answer key, and is tagged with its exam session. The extra sample questions are written in NTA's pattern and are "
          "marked as such. We are not affiliated with NTA or UGC."),
+        ("What do I get for free?",
+         f"A complete real paper ({free_paper_label()}) with every explanation, the timed mock test on it, the "
+         "question of the day, PYQ trends for every unit and topic, and sample questions in every NTA format. "
+         "No card needed."),
         ("Which exam sessions are covered?", f"Right now: {covered}. New papers are added to your subject at no extra cost."),
         ("How do I pay, and can I cancel?",
-         f"₹{SUBJECT_PRICE_INR} a month per subject, paid by UPI, debit or credit card, or net banking on Razorpay's "
-         "secure page. It renews monthly until you cancel on the Subscription page, and you keep access until the end "
-         "of the month you paid for. Payments are non-refundable, so try the free sample questions first."),
+         f"Two ways, both by UPI, debit or credit card, or net banking on Razorpay's secure page. An exam pass is one "
+         f"payment for {PASS_DAYS // 30} months (₹{PASSES['yoga'][1]:,} for one subject, ₹{PASSES['combo'][1]:,} for "
+         f"Paper 1 + Yoga) and never renews. A monthly plan is ₹{SUBJECT_PRICE_INR} per subject and renews until you "
+         "cancel; you keep access until the end of the month you paid for. All payments are non-refundable, so sit "
+         "the free paper first."),
         ("Do I need a separate plan for Paper 1?",
-         "Each subject is its own plan, so you pay only for what you're preparing. Most candidates take Paper 1 "
-         "plus one Paper 2 subject."),
+         f"Every candidate sits Paper 1 plus one Paper 2 subject on the same day, so the Paper 1 + Yoga pass "
+         f"(₹{PASSES['combo'][1]:,}) covers both. You can also buy either on its own."),
         ("Can I use it on my phone?",
          "Yes. It works in any browser, and because progress is saved to your Google sign-in you can switch between "
          "phone and laptop and carry on where you left off."),
@@ -477,13 +509,15 @@ def render() -> None:
     biggest = max(live, key=lambda s: stats[s].questions, default=None)
     yoga = stats.get("yoga", SubjectStats(0, 0, 0, None, None))
 
+    from . import account
+    account.track("visit", once=True)
     st.html(CSS + _icon_css())
 
     left, right = st.columns([1.15, 1], gap="large", vertical_alignment="center")
     with left:
         st.html(_hero_copy(len(sellable), total_papers, span))
         _signin("lp-signin-hero")
-        st.html('<p class="lp-fine"><span>Free sample questions</span><span>No card to start</span>'
+        st.html('<p class="lp-fine"><span>A full real paper free</span><span>No card to start</span><span><a href="daily" target="_self" style="color:inherit">Today\'s free question →</a></span>'
                 '<span>Works on phone</span></p>')
     with right:
         st.html(PREVIEW)
@@ -495,23 +529,38 @@ def render() -> None:
     if biggest:
         st.html(_trends_teaser(trends.pattern(sellable_questions(bank, biggest)), biggest))
     st.html(TRY)
+    st.html('<p class="lp-sub" style="margin-top:1rem"><b>A new real question every day.</b> '
+            '<a href="daily" target="_self" style="color:#1d4433;font-weight:600">Open today\'s question of the day →</a> '
+            'Share it with your NET group on WhatsApp or Telegram.</p>')
     st.html(STEPS)
 
     st.html('<div class="lp-section"><p class="lp-eyebrow">Pricing</p><h2 class="lp-h2">Pay only for the subject '
-            '<em>you\'re taking.</em></h2><p class="lp-sub">One simple monthly plan per subject. No bundles, no '
-            'lock-in. All payments are final.</p></div>')
-    order = ["free", *SUBJECTS]
+            '<em>you\'re taking.</em></h2><p class="lp-sub">Pay once for the exam cycle, or monthly. '
+            'Start with a full real paper free. All payments are final.</p></div>')
+    combo_ok = "combo" in PASSES and all(s in live for s in PASSES["combo"][2])
+    order = ["free", *(s for s in SUBJECTS if s in live), *(["combo"] if combo_ok else [])]
+    if combo_ok:     # the combo in the middle, where the eye lands
+        order.remove("combo")
+        order.insert(2, "combo")
     cols = st.columns(len(order), gap="small")
     for col, key in zip(cols, order):
         with col:
-            st.html(FREE_CARD if key == "free" else _price_card(key, stats[key], key == biggest))
+            if key == "free":
+                st.html(_free_card(len(free_questions(bank))))
+            elif key == "combo":
+                st.html(_combo_card(stats))
+            else:
+                st.html(_price_card(key, stats[key], hot=False))
+    soon = [SUBJECTS[s].name for s in SUBJECTS if s not in live]
+    if soon:
+        st.html(f'<p class="lp-trend-note">{escape(", ".join(soon))}: papers are being added. Coming soon.</p>')
     _signin("lp-signin-price", "Start free, upgrade when ready")
 
     st.html(_faq({s: _years(stats[s]) for s in SUBJECTS}))
 
     with st.container(key="lp-final"):
         st.html('<h2 class="lp-final-h">The best predictor of the next paper<br><em>is every paper before it.</em></h2>'
-                '<p class="lp-final-p">Written and checked by a doctoral fellow in the science of yoga. Sign in, try the free questions, and see your weak topics within your first session.</p>')
+                '<p class="lp-final-p">Written and checked by a doctoral fellow in the science of yoga. Sign in, sit the free paper, and see your weak topics within your first session.</p>')
         _signin("lp-signin-final", "Start practising free")
     st.html('<p class="lp-foot">Sign-in uses only your Google name and email, to save your progress. '
             'Not affiliated with the National Testing Agency (NTA) or the University Grants Commission (UGC). '

@@ -139,7 +139,8 @@ def test_filters_scope_practice(at):
     assert at.metric[3].value == "1 of 1"
 
 
-@pytest.mark.parametrize("page", ["analytics", "bank", "knowledge", "library", "review"])
+@pytest.mark.parametrize("page", ["analytics", "bank", "knowledge", "library", "review", "mock", "trends", "daily",
+                                  "plans", "admin"])
 def test_every_page_renders_without_errors(at, page):
     at.session_state["goto"] = page
     at = at.run()
@@ -152,3 +153,18 @@ def test_every_answer_is_followed_by_the_knowledge_base_box(app):
     md = texts(app)
     assert "Knowledge Base:" in md and "How this topic is asked" in md
     assert "Key facts for this topic are being written" not in md
+
+
+def test_a_mock_test_runs_from_start_to_score(app):
+    app.session_state["goto"] = "mock"
+    app = click(app.run(), "Start the test", "mock")
+    assert not app.exception, [e.message for e in app.exception]
+    test = app.session_state["mock"]
+    q = test.question_ids[0]
+    app.radio(key=f"mock-{test.number}-{q}").set_value(1)
+    app = click(app, "Save & Next", "mock")
+    assert app.session_state["mock"].answers == {q: 1} and app.session_state["mock"].position == 1
+    app = click(app, "Yes, submit", "mock")
+    assert not app.exception, [e.message for e in app.exception]
+    assert app.title[0].value == "Mock test result"
+    assert any(a.mode == "mock" for a in app.session_state["log"])

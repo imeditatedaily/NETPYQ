@@ -1,4 +1,4 @@
-"""The database: each user's answers and subscriptions. Nothing here imports Streamlit.
+"""The database: each user's answers, subscriptions and passes, and funnel events. Nothing here imports Streamlit.
 
 Works with SQLite (local development, tests) and PostgreSQL (production,
 for example Supabase). Tables are created on first use.
@@ -43,6 +43,26 @@ subscriptions = Table(
     Column("short_url", Text, nullable=False, default=""),
     Column("created_at", String(32), nullable=False),
     Column("updated_at", String(32), nullable=False),
+)
+
+# Funnel events: one row each time someone reaches a step (see FUNNEL).
+events = Table(
+    "events", metadata,
+    Column("id", Integer, primary_key=True, autoincrement=True),
+    Column("at", String(32), nullable=False, index=True),
+    Column("event", String(32), nullable=False, index=True),
+    Column("visitor", String(64), nullable=False),     # one id per browser session
+    Column("email", String(320), nullable=True),
+    Column("detail", Text, nullable=False, default=""),
+)
+
+# The steps from first visit to payment, in order: (event, label).
+FUNNEL = (
+    ("visit", "Visited the landing page"),
+    ("signin", "Signed in"),
+    ("plans", "Opened the Subscription page"),
+    ("checkout", "Started a payment"),
+    ("paid", "Paid"),
 )
 
 ANSWER_FIELDS = tuple(Answer.__dataclass_fields__)
@@ -122,3 +142,35 @@ def save_subscription(engine: Engine, sub: Subscription) -> Subscription:
                                                       created_at=sub.created_at or now, **values))
         row = conn.execute(select(subscriptions).where(subscriptions.c.razorpay_id == sub.razorpay_id)).mappings().one()
     return _to_sub(row)
+
+
+# --- funnel events ---------------------------------------------------------------------
+
+def add_event(engine: Engine, event: str, visitor: str, email: str | None = None, detail: str = "") -> None:
+    with engine.begin() as conn:
+        conn.execute(insert(events).values(at=_now(), event=event, visitor=visitor, email=email, detail=detail))
+
+
+def list_events(engine: Engine, since: str = "") -> list[dict]:
+    query = select(events).order_by(events.c.id)
+    if since:
+        query = query.where(events.c.at >= since)
+    with engine.connect() as conn:
+        return [dict(row) for row in conn.execute(query).mappings()]
+
+
+# Razorpay states that mean money was taken at some point.
+EVER_PAID = frozenset({"active", "paid", "pending", "halted", "cancelled", "completed"})
+
+
+def funnel(rows: Iterable[dict], subs: Iterable[Subscription] = (), since: str = "") -> list[tuple[str, str, int]]:
+    """People at each step: distinct browser sessions for visits, distinct emails after that.
+    "Paid" comes from the subscriptions table (people whose payment went through), not from events."""
+    who: dict[str, set[str]] = {e: set() for e, _ in FUNNEL}
+    who["paid"] = {s.email for s in subs if s.status in EVER_PAID and s.current_end and s.created_at >= since}
+    for r in rows:
+        if r["event"] == "paid":
+            continue
+        if r["event"] in who:
+            who[r["event"]].add(r["visitor"] if r["event"] == "visit" else (r["email"] or r["visitor"]))
+    return [(e, label, len(who[e])) for e, label in FUNNEL]

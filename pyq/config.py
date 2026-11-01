@@ -27,9 +27,23 @@ SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
 
 # --- accounts and subscriptions ------------------------------------------------------
 
+# Real papers anyone who signs in may practise for free: (subject, exam_year, exam_cycle).
+FREE_PAPERS = (("yoga", 2024, "June"),)
+
 # Monthly price of one subject (Paper 1, Yoga or IKS), in rupees. The amount
 # actually charged is set on the Razorpay plan; keep the two the same.
 SUBJECT_PRICE_INR = 500
+
+# One-time exam passes, paid once on a Razorpay payment link. Each gives these
+# subjects for PASS_DAYS from the day of payment, and never renews.
+#   key: (name, price in rupees, subjects)
+PASSES = {
+    "yoga": ("Yoga exam pass", 1499, ("yoga",)),
+    "paper1": ("Paper 1 exam pass", 1499, ("paper1",)),
+    "iks": ("IKS exam pass", 1499, ("iks",)),
+    "combo": ("Paper 1 + Yoga exam pass", 1999, ("paper1", "yoga")),
+}
+PASS_DAYS = 182          # about six months: one NET cycle
 
 # Questions whose source note mentions any of these are transcribed from a
 # published book. Subscribers never see them (only admins do), and they do

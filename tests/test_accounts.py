@@ -23,9 +23,12 @@ def bank():
 
 # --- access ----------------------------------------------------------------------------
 
-def test_free_user_sees_only_the_samples(bank):
+def test_free_user_sees_the_samples_and_the_free_paper(bank):
     free = visible_bank(bank, admin=False, unlocked=set())
-    assert len(free) == 4 and all(q.source_type == "model" for q in free.questions)
+    real = [q for q in free.questions if q.source_type != "model"]
+    assert sum(q.source_type == "model" for q in free.questions) == 4
+    assert len(real) == 100
+    assert all((q.subject, q.exam_year, q.exam_cycle) in config.FREE_PAPERS for q in real)
 
 
 def test_yoga_subscriber_gets_every_yoga_paper_but_no_book_questions(bank):
@@ -154,8 +157,8 @@ def as_user(unlocked=()) -> AppTest:
 
 def test_free_user_practises_samples_and_is_offered_plans():
     at = as_user()
-    assert at.metric[3].value == "1 of 4"
-    assert any("free sample questions" in m.value for m in at.markdown)
+    assert at.metric[3].value == "1 of 104"
+    assert any("free plan" in m.value for m in at.markdown)
     assert "Source Library" not in str(at.get("navigation"))
 
 

@@ -9,7 +9,10 @@ from dataclasses import dataclass, replace
 
 import requests
 
+import time
+
 from .access import Subscription
+from .config import PASS_DAYS
 
 API = "https://api.razorpay.com/v1"
 
@@ -55,9 +58,39 @@ class Razorpay:
                             current_end=data.get("current_end"), short_url=data.get("short_url", ""))
 
     def refresh(self, sub: Subscription) -> Subscription:
+        if sub.is_pass:
+            return self.refresh_pass(sub)
         data = self._call("GET", f"/subscriptions/{sub.razorpay_id}")
         return replace(sub, status=data.get("status", sub.status), current_end=data.get("current_end") or sub.current_end,
                        short_url=data.get("short_url") or sub.short_url)
+
+    def create_pass(self, amount_inr: int, email: str, subjects: tuple[str, ...], description: str,
+                    callback_url: str = "") -> Subscription:
+        """A one-time payment link; the pass starts when it is paid."""
+        payload = {
+            "amount": amount_inr * 100,
+            "currency": "INR",
+            "accept_partial": False,
+            "description": description,
+            "customer": {"email": email},
+            "notify": {"email": True},
+            "reminder_enable": True,
+            "notes": {"email": email, "subject": "+".join(subjects), "kind": "pass"},
+        }
+        if callback_url:
+            payload |= {"callback_url": callback_url, "callback_method": "get"}
+        data = self._call("POST", "/payment_links", payload)
+        return Subscription(razorpay_id=data["id"], email=email, subject="+".join(subjects),
+                            status=data.get("status", "created"), short_url=data.get("short_url", ""))
+
+    def refresh_pass(self, sub: Subscription) -> Subscription:
+        data = self._call("GET", f"/payment_links/{sub.razorpay_id}")
+        status, end = data.get("status", sub.status), sub.current_end
+        if status == "paid" and end is None:
+            paid_at = max((p.get("created_at") or 0 for p in data.get("payments") or []), default=0)
+            paid_at = paid_at or data.get("updated_at") or int(time.time())
+            end = int(paid_at) + PASS_DAYS * 86400
+        return replace(sub, status=status, current_end=end, short_url=data.get("short_url") or sub.short_url)
 
     def cancel_at_period_end(self, sub: Subscription) -> Subscription:
         data = self._call("POST", f"/subscriptions/{sub.razorpay_id}/cancel", {"cancel_at_cycle_end": 1})
@@ -69,6 +102,8 @@ FINAL_STATES = frozenset({"cancelled", "completed", "expired"})
 
 
 def needs_refresh(sub: Subscription, now: float) -> bool:
+    if sub.is_pass:   # a pass only needs checking until it is paid (or the link dies)
+        return sub.status not in FINAL_STATES | {"paid"}
     if sub.status in FINAL_STATES:
         return False
     if sub.status == "active":

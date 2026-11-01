@@ -14,7 +14,8 @@ Missing values fall back to the first admin email and "India".
 
 import streamlit as st
 
-from ..config import SUBJECT_PRICE_INR
+from ..access import free_paper_label
+from ..config import PASS_DAYS, PASSES, SUBJECT_PRICE_INR
 
 APP_NAME = "UGC NET PYQ Practice"
 UPDATED = "1 November 2026"
@@ -58,14 +59,17 @@ syllabus, a detailed explanation for every answer, a mistake-review loop and top
 
 | Plan | Price | What you get |
 |---|---|---|
-| Free | ₹0 | Sign in with Google and practise the sample questions |
-| One subject | **₹{SUBJECT_PRICE_INR} per month** | Every previous-year question loaded for that subject (for example Yoga, code 100), with explanations, review and analytics |
+| Free | ₹0 | Sign in with Google: one full real paper ({free_paper_label()}) and the sample questions |
+| Exam pass, one subject | **₹{PASSES['yoga'][1]:,} once** | {PASS_DAYS // 30} months of every previous-year question for that subject, mock tests, explanations, review and analytics. Does not renew |
+| Exam pass, Paper 1 + Yoga | **₹{PASSES['combo'][1]:,} once** | The same for both papers, for {PASS_DAYS // 30} months. Does not renew |
+| Monthly, one subject | **₹{SUBJECT_PRICE_INR} per month** | Every previous-year question loaded for that subject (for example Yoga, code 100), renewed monthly until you cancel |
 
-- Each subject is a separate monthly subscription. Subscribe to as many as you need.
+- An exam pass is a single payment and gives access for {PASS_DAYS} days from the day it is paid.
+- Each monthly plan covers one subject. Subscribe to as many as you need.
 - Prices are in Indian rupees and include any applicable taxes.
 - Payment is by UPI, debit/credit card or net banking through Razorpay. The subscription renews every
   month until you cancel it on the Subscription page, and runs for at most 12 months.
-- **No refunds.** Payments are final once made. Try the free sample questions first.
+- **No refunds.** Payments are final once made. Try the free paper first.
 - Access starts as soon as the payment is confirmed.
 """)
     _footer()
@@ -123,8 +127,9 @@ By signing in to or paying for {APP_NAME} you agree to these terms.
    *unverified* where no official key exists, and we cannot guarantee any exam result.
 2. **Your account.** You sign in with your own Google account. A subscription is for one person: do not
    share your account or copy, download in bulk, resell or republish the questions or explanations.
-3. **Subscriptions and payment.** Each subject costs ₹{SUBJECT_PRICE_INR} per month, charged through Razorpay
-   and renewed automatically every month (for at most 12 months) until you cancel. **Payments are
+3. **Subscriptions and payment.** An exam pass is a single payment for {PASS_DAYS} days of access and does not
+   renew. A monthly plan costs ₹{SUBJECT_PRICE_INR} per subject per month, charged through Razorpay and renewed
+   automatically every month (for at most 12 months) until you cancel. **Payments are
    non-refundable**, except for billing errors. See the Pricing and the Cancellation and Refund Policy pages.
 4. **Availability.** We aim to keep the service running but it may occasionally be unavailable for
    maintenance or reasons outside our control.
@@ -146,12 +151,15 @@ def refund() -> None:
     d = details()
     st.title("Cancellation and Refund Policy")
     st.markdown(f"""
-**Cancelling.** You can cancel a subscription at any time on the **Subscription** page (*Cancel renewal*)
+**Exam passes** are a single payment and never renew, so there is nothing to cancel. Access ends {PASS_DAYS}
+days after payment.
+
+**Cancelling a monthly plan.** You can cancel a subscription at any time on the **Subscription** page (*Cancel renewal*)
 or by writing to {d['email']}. No further payments are taken, and you keep access until the end of the month
 you have already paid for.
 
 **No refunds.** Access to the full question bank starts the moment your payment is confirmed, so **all
-payments are final and non-refundable**, including partly used months. Please try the free sample questions
+payments are final and non-refundable**, including partly used months. Please try the free paper
 before you subscribe. Cancelling stops future payments; it does not refund the current month.
 
 **Billing errors.** The only exception is a mistake in the charge itself: if you were charged twice for the

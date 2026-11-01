@@ -7,10 +7,11 @@ Run locally without sign-in or payments:  NETPYQ_DEV_MODE=1 streamlit run stream
 
 import streamlit as st
 
+from pyq.access import free_paper_label
 from pyq.filters import ALL
 from pyq.syllabus import SUBJECTS
 from pyq.ui import (account, admin_page, analytics_page, bank_page, knowledge_page, legal, library_page, plans_page,
-                    practice_page, review_page, sidebar, state, style, trends_page)
+                    daily_page, mock_page, practice_page, review_page, sidebar, state, style, trends_page)
 
 st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
@@ -21,9 +22,11 @@ admin = st.session_state.is_admin
 PAGES = {
     # The default page always lives at "/", so it takes no url_path.
     "practice": st.Page(practice_page.render, title="Practice", icon=":material/quiz:", default=True),
+    "mock": st.Page(mock_page.render, title="Mock Test", icon=":material/timer:", url_path="mock"),
     "review": st.Page(review_page.render, title="Review Mistakes", icon=":material/replay:", url_path="review"),
     "analytics": st.Page(analytics_page.render, title="Performance Analytics", icon=":material/monitoring:", url_path="analytics"),
     "trends": st.Page(trends_page.render, title="PYQ Trends", icon=":material/trending_up:", url_path="trends"),
+    "daily": st.Page(daily_page.render, title="Question of the day", icon=":material/today:", url_path="daily"),
     "knowledge": st.Page(knowledge_page.render, title="Knowledge Base", icon=":material/school:", url_path="knowledge"),
     "bank": st.Page(bank_page.render, title="Question Bank", icon=":material/table_chart:", url_path="bank"),
     "plans": st.Page(plans_page.render, title="Subscription", icon=":material/workspace_premium:", url_path="plans"),
@@ -45,17 +48,17 @@ sidebar.render(bank)
 state.show_notice()
 
 # Tell a user who hasn't unlocked the subject they're looking at how to get it.
-if not admin and page.url_path not in ("plans", "trends", *HELP):
+if not admin and page.url_path not in ("plans", "trends", "mock", "daily", *HELP):
     subject, unlocked = st.session_state.f_subject, st.session_state.unlocked
     if subject != ALL and subject not in unlocked:
         with st.container(border=True, horizontal=True, vertical_alignment="center"):
-            st.markdown(f":material/lock: **{SUBJECTS[subject].display}** is locked. You can try the free sample "
-                        "questions; subscribe to practise every real paper.")
+            st.markdown(f":material/lock: **{SUBJECTS[subject].display}** is locked. The free real paper "
+                        f"({free_paper_label()}) and the sample questions are open; subscribe to practise every real paper.")
             st.button("See plans", icon=":material/workspace_premium:", on_click=state.go, args=("plans",))
     elif subject == ALL and not unlocked:
         with st.container(border=True, horizontal=True, vertical_alignment="center"):
-            st.markdown(":material/lock: You're using the **free sample questions**. Subscribe to a subject to "
-                        "practise its real previous-year papers.")
+            st.markdown(":material/lock: You're on the **free plan**: one full real paper "
+                        f"({free_paper_label()}) plus sample questions. Subscribe to a subject to practise all its papers.")
             st.button("See plans", icon=":material/workspace_premium:", on_click=state.go, args=("plans",))
 
 page.run()

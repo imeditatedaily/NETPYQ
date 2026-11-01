@@ -11,6 +11,11 @@ CSS = """
   border-radius: 0.75rem;
   padding: 1rem 1.25rem 1.25rem;
 }
+/* The highlighted exam pass on the Subscription page. */
+[class*="st-key-pass-card-"][class*="-hot"] {
+  background: #eaf1e1;
+  border: 2px solid #1d4433 !important;
+}
 </style>
 """
 
