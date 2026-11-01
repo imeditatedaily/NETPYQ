@@ -1,0 +1,964 @@
+[
+ {
+  "id": "YOGA-PRAC7-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "match",
+  "question_text": "Match the three inner limbs with their definitions in the Vibhuti Pada.",
+  "options": [
+   "A-ii, B-i, C-iii",
+   "A-i, B-ii, C-iii",
+   "A-iii, B-i, C-ii",
+   "A-ii, B-iii, C-i"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.1–3.3: *deśa-bandhaś cittasya dhāraṇā*; *tatra pratyayaikatānatā dhyānam*; *tad evārtha-mātra-nirbhāsaṃ svarūpa-śūnyam iva samādhiḥ*.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Dharana",
+     "Dhyana",
+     "Samadhi"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "A continuous flow of the same cognition there",
+     "Binding the mind to one place",
+     "The object alone shines, the mind as if empty of its own form"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC7-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "'त्रयमेकत्र संयमः' — samyama is the three together. Its mastery brings",
+  "options": [
+   "the light of insight (prajnaloka)",
+   "the darkening of the intellect",
+   "victory over the elements",
+   "anima siddhi"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.4–3.6: the three together are samyama; by mastering it comes the light of prajna; it is to be applied in stages (*bhūmiṣu viniyogaḥ*)."
+ },
+ {
+  "id": "YOGA-PRAC7-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "According to YS 3.7–3.8, dharana, dhyana and samadhi are",
+  "options": [
+   "external limbs of samprajnata samadhi",
+   "internal limbs compared with the first five, but external to nirbija samadhi",
+   "the same as kriya yoga",
+   "internal to nirbija samadhi"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** *trayam antaraṅgaṃ pūrvebhyaḥ* (3.7); *tad api bahiraṅgaṃ nirbījasya* (3.8)."
+ },
+ {
+  "id": "YOGA-PRAC7-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "sequence",
+  "question_text": "Arrange the three transformations of the mind (chitta-parinama) in the order in which the Vibhuti Pada describes them.",
+  "options": [
+   "(A), (B), (C)",
+   "(B), (C), (A)",
+   "(C), (A), (B)",
+   "(C), (B), (A)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Nirodha (3.9), samadhi (3.11), ekagrata (3.12).** In nirodha, outgoing samskaras are suppressed and restraining ones appear; its calm flow (*praśānta-vāhitā*) comes from samskara (3.10).",
+  "items": [
+   "Samadhi parinama",
+   "Ekagrata parinama",
+   "Nirodha parinama"
+  ],
+  "prompt": "Choose the correct option:"
+ },
+ {
+  "id": "YOGA-PRAC7-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "According to YS 3.12, ekagrata parinama is the state in which",
+  "options": [
+   "the subsiding and the arising cognitions are alike",
+   "all thought ceases",
+   "the object vanishes",
+   "distraction and one-pointedness alternate"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** *śāntoditau tulya-pratyayau cittasyaikāgratā-pariṇāmaḥ* — the cognition that fades and the one that rises are the same. In samadhi parinama (3.11), distraction wanes and one-pointedness rises."
+ },
+ {
+  "id": "YOGA-PRAC7-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "The three transformations in the elements and senses (YS 3.13) are",
+  "options": [
+   "nirodha, samadhi and ekagrata",
+   "dharma, lakshana and avastha",
+   "dharana, dhyana and samadhi",
+   "sattva, rajas and tamas"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** Change of characteristic (dharma), of time-mark (lakshana: past, present, future) and of condition (avastha: newness, age)."
+ },
+ {
+  "id": "YOGA-PRAC7-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "match",
+  "question_text": "Match the three kinds of dharma of a substance (YS 3.14) with their time.",
+  "options": [
+   "A-i, B-iii, C-ii",
+   "A-ii, B-i, C-iii",
+   "A-iii, B-i, C-ii",
+   "A-ii, B-iii, C-i"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** The substrate (dharmi) persists through its past, present and future qualities.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Shanta (quiescent)",
+     "Udita (risen)",
+     "Avyapadeshya (not yet nameable)"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Present",
+     "Past",
+     "Future"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC7-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Samyama on the three parinamas gives, according to the Yoga Sutra,",
+  "options": [
+   "knowledge of past and future",
+   "knowledge of previous births",
+   "knowledge of other minds",
+   "knowledge of the time of death"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.16: *pariṇāma-traya-saṃyamād atītānāgata-jñānam*."
+ },
+ {
+  "id": "YOGA-PRAC7-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Samyama on the distinction between word, meaning and idea gives",
+  "options": [
+   "knowledge of the cries of all living beings",
+   "divine hearing",
+   "knowledge of past births",
+   "invisibility"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.17: word, object and idea are usually superimposed; samyama on their distinction gives understanding of the sounds of all creatures."
+ },
+ {
+  "id": "YOGA-PRAC7-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Direct perception of one's samskaras gives, according to YS 3.18,",
+  "options": [
+   "knowledge of this birth",
+   "knowledge of previous births",
+   "knowledge of future births",
+   "knowledge of others' minds"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** *saṃskāra-sākṣāt-karaṇāt pūrva-jāti-jñānam*."
+ },
+ {
+  "id": "YOGA-PRAC7-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "By samyama on another's cognition (pratyaya) the yogi knows that mind — but not",
+  "options": [
+   "its colour",
+   "its object (alambana)",
+   "its samskaras",
+   "its owner"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** YS 3.19–3.20: knowledge of another's mind arises, but not of what it rests on, since that is not the object of the samyama."
+ },
+ {
+  "id": "YOGA-PRAC7-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Samyama on sopakrama and nirupakrama karma (fast- and slow-ripening), or on omens, gives",
+  "options": [
+   "invisibility",
+   "knowledge of the time of death",
+   "knowledge of the worlds",
+   "knowledge of the body"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** YS 3.22: *aparānta-jñānam ariṣṭebhyo vā*."
+ },
+ {
+  "id": "YOGA-PRAC7-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "match",
+  "question_text": "Match the objects of samyama with the powers they bring.",
+  "options": [
+   "A-iii, B-v, C-i, D-iv, E-ii",
+   "A-iii, B-v, C-i, D-ii, E-iv",
+   "A-v, B-iii, C-i, D-iv, E-ii",
+   "A-iii, B-i, C-v, D-iv, E-ii"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.23–3.28.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Friendliness and the other bhavanas",
+     "Strengths (balas)",
+     "Sun",
+     "Moon",
+     "Pole star"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Knowledge of the worlds",
+     "Knowledge of the motion of the stars",
+     "Strength of friendliness and the rest",
+     "Knowledge of the arrangement of the stars",
+     "Strength of an elephant"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC7-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "match",
+  "question_text": "Match the objects of samyama with their fruits.",
+  "options": [
+   "A-iv, B-v, C-i, D-ii, E-iii",
+   "A-v, B-iv, C-i, D-ii, E-iii",
+   "A-iv, B-v, C-ii, D-i, E-iii",
+   "A-iv, B-i, C-v, D-ii, E-iii"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.29–3.34: *nābhicakre kāyavyūha-jñānam*; *kaṇṭhakūpe kṣut-pipāsā-nivṛttiḥ*; *kūrmanāḍyāṃ sthairyam*; *mūrdhajyotiṣi siddha-darśanam*; *hṛdaye citta-saṃvit*.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Navel chakra",
+     "Pit of the throat",
+     "Kurma nadi",
+     "Light in the crown (murdha-jyoti)",
+     "Heart"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Steadiness",
+     "Vision of the siddhas",
+     "Knowledge of the mind",
+     "Knowledge of the body's arrangement",
+     "Cessation of hunger and thirst"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC7-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Samyama on svartha (that which exists for its own sake, as distinct from what exists for another) gives",
+  "options": [
+   "knowledge of the Purusha",
+   "knowledge of the elements",
+   "the eight siddhis",
+   "invisibility"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.35. From it arise six powers — pratibha, shravana, vedana, adarsha, asvada and varta (3.36): intuition and divine hearing, touch, sight, taste and smell."
+ },
+ {
+  "id": "YOGA-PRAC7-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "According to the Yoga Sutra, the powers such as pratibha are",
+  "options": [
+   "obstacles to samadhi but siddhis in the outgoing state",
+   "aids to samadhi",
+   "signs of kaivalya",
+   "the same as dharma-megha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.37: *te samādhāv upasargā vyutthāne siddhayaḥ*."
+ },
+ {
+  "id": "YOGA-PRAC7-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Mastery of udana gives, according to the Yoga Sutra,",
+  "options": [
+   "radiance of the body",
+   "freedom from contact with water, mud and thorns, and upward departure at death",
+   "divine hearing",
+   "travel through space"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** YS 3.39. Mastery of samana gives radiance (*jvalanam*, 3.40)."
+ },
+ {
+  "id": "YOGA-PRAC7-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Samyama on the relation between the ear and akasha gives",
+  "options": [
+   "divine hearing",
+   "travel through space",
+   "perfection of the body",
+   "knowledge of sounds of animals"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.41. Samyama on the relation of body and akasha, with absorption in light things like cotton, gives movement through space (3.42)."
+ },
+ {
+  "id": "YOGA-PRAC7-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "By samyama on which five aspects of the elements does the yogi master them (bhuta-jaya)?",
+  "options": [
+   "Gross, essential nature, subtle, inherence and purposefulness",
+   "Grasping, nature, I-ness, inherence and purposefulness",
+   "Earth, water, fire, air and space",
+   "Sattva, rajas, tamas, mahat and ahamkara"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.44: *sthūla-svarūpa-sūkṣmānvayārthavattva*. The second set (grahana, svarupa, asmita, anvaya, arthavattva) is for mastery of the senses (3.47)."
+ },
+ {
+  "id": "YOGA-PRAC7-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT among the excellences of the body (kaya-sampat) in YS 3.46?",
+  "options": [
+   "Beauty (rupa)",
+   "Taste (rasa)",
+   "Grace and strength",
+   "Adamantine firmness"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Rasa.** *rūpa-lāvaṇya-bala-vajra-saṃhananatvāni kāya-sampat* — beauty, grace, strength and adamantine hardness."
+ },
+ {
+  "id": "YOGA-PRAC7-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "The fruits of mastery of the senses (indriya-jaya), according to YS 3.48, are",
+  "options": [
+   "speed like the mind, perception without the body's organs and mastery of pradhana",
+   "the eight siddhis",
+   "divine hearing and sight",
+   "invisibility and levitation"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** *tato manojavitvaṃ vikaraṇa-bhāvaḥ pradhāna-jayaś ca*."
+ },
+ {
+  "id": "YOGA-PRAC7-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "When invited by the celestial beings (sthanins), the yogi should",
+  "options": [
+   "accept their pleasures",
+   "feel proud of the invitation",
+   "feel neither attachment nor pride, for that would bring back the undesirable",
+   "go but return quickly"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3).** YS 3.51: *sthāny-upanimantraṇe saṅga-smayākaraṇaṃ punar aniṣṭa-prasaṅgāt*."
+ },
+ {
+  "id": "YOGA-PRAC7-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "Discriminative knowledge (viveka-ja jnana) arises from samyama on",
+  "options": [
+   "the moment and its succession (kshana and krama)",
+   "the heart",
+   "the sun",
+   "kriya yoga"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** YS 3.52. It is the deliverer (*tāraka*), having all things and all times as its object, and knows without succession (3.54)."
+ },
+ {
+  "id": "YOGA-PRAC7-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "question_type": "mcq",
+  "question_text": "According to the last sutra of the Vibhuti Pada, kaivalya follows when",
+  "options": [
+   "the siddhis are attained",
+   "sattva and the Purusha are equal in purity",
+   "the elements are mastered",
+   "dharma-megha arises"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** YS 3.55: *sattva-puruṣayoḥ śuddhi-sāmye kaivalyam*."
+ },
+ {
+  "id": "YOGA-PRAC7-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "How many sources of siddhi are named in the first sutra of the Kaivalya Pada?",
+  "options": [
+   "Four",
+   "Five",
+   "Seven",
+   "Two"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Five** — birth (janma), herbs (aushadhi), mantra, austerity (tapas) and samadhi (YS 4.1)."
+ },
+ {
+  "id": "YOGA-PRAC7-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT among the sources of siddhi in YS 4.1?",
+  "options": [
+   "Janma",
+   "Aushadhi",
+   "Bhuta-jaya",
+   "Tapas"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bhuta-jaya**, which is a siddhi from samyama (3.44), not a source in 4.1."
+ },
+ {
+  "id": "YOGA-PRAC7-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "According to YS 4.3, the instrumental cause (nimitta) in transformation",
+  "options": [
+   "directly moves prakriti",
+   "does not move prakriti but removes obstacles, as a farmer breaks the dam of a field",
+   "is the Purusha",
+   "is Ishvara"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** *nimittam aprayojakaṃ prakṛtīnāṃ varaṇa-bhedas tu tataḥ kṣetrikavat* — like the farmer who opens the channel and lets water flow by itself. Transformation into another species is by the inflow of prakriti (4.2)."
+ },
+ {
+  "id": "YOGA-PRAC7-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "The created minds (nirmana-chitta) of the yogi arise, according to YS 4.4, from",
+  "options": [
+   "asmita alone",
+   "buddhi",
+   "prakriti",
+   "the tanmatras"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** *nirmāṇa-cittāny asmitā-mātrāt*. One mind directs the many (4.5); and among them, only the one born of meditation is free of karmic residue (4.6)."
+ },
+ {
+  "id": "YOGA-PRAC7-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "The karma of a yogi, according to YS 4.7, is",
+  "options": [
+   "white (meritorious)",
+   "black (sinful)",
+   "white-and-black",
+   "neither white nor black"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** *karmāśuklākṛṣṇaṃ yoginas trividham itareṣām* — for others it is threefold: white, black and mixed."
+ },
+ {
+  "id": "YOGA-PRAC7-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "match",
+  "question_text": "Match the kinds of karma with what they denote.",
+  "options": [
+   "A-iii, B-i, C-ii, D-iv",
+   "A-i, B-ii, C-iii, D-iv",
+   "A-iii, B-ii, C-i, D-iv",
+   "A-iii, B-i, C-iv, D-ii"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** Vyasa: black is the action of the wicked, white of those given to tapas and study, mixed of ordinary people.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Shukla",
+     "Krishna",
+     "Shukla-krishna",
+     "Ashukla-akrishna"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Sinful",
+     "Mixed merit and sin",
+     "Meritorious",
+     "Neither — the yogi's action"
+    ]
+   }
+  }
+ },
+ {
+  "id": "YOGA-PRAC7-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "Why are the vasanas without beginning, according to YS 4.10?",
+  "options": [
+   "Because they cannot be destroyed",
+   "Because the desire to live is eternal",
+   "Because humans control them",
+   "Because klesha and karma produce them"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2).** *tāsām anāditvaṃ cāśiṣo nityatvāt* — the wish 'may I always be' is beginningless."
+ },
+ {
+  "id": "YOGA-PRAC7-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "The vasanas are held together, according to YS 4.11, by",
+  "options": [
+   "cause, effect, substrate and support (hetu, phala, ashraya, alambana)",
+   "birth, place and time",
+   "the kleshas",
+   "rebirth and life-span"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** When these four disappear, the vasanas disappear too. Vyasa: the cause is avidya and the kleshas, the fruit is the result, the substrate is the mind and the support is the object."
+ },
+ {
+  "id": "YOGA-PRAC7-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "According to YS 4.19, the mind is not self-luminous because",
+  "options": [
+   "it is seen (it is an object)",
+   "it is momentary",
+   "it is made of tamas",
+   "it is the Purusha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** *na tat svābhāsaṃ dṛśyatvāt*. It cannot know itself and its object at the same moment (4.20), and supposing one mind seen by another leads to infinite regress and confusion of memory (4.21)."
+ },
+ {
+  "id": "YOGA-PRAC7-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "The mind coloured by both the seer and the seen is, according to YS 4.23,",
+  "options": [
+   "able to grasp every object",
+   "limited to one object",
+   "self-luminous",
+   "the same as the Purusha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** *draṣṭṛ-dṛśyoparaktaṃ cittaṃ sarvārtham*. Though variegated by countless vasanas, it exists for another, because it works in combination (4.24)."
+ },
+ {
+  "id": "YOGA-PRAC7-035",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "For one who sees the distinction between mind and Purusha, what ceases (YS 4.25)?",
+  "options": [
+   "The sense of identification with the self (atma-bhava-bhavana)",
+   "All karma",
+   "The body",
+   "Discriminative knowledge"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1).** The mind then inclines towards discrimination and is drawn towards kaivalya (4.26). Gaps still let other thoughts arise from past samskaras (4.27); they are removed like the kleshas (4.28)."
+ },
+ {
+  "id": "YOGA-PRAC7-036",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "The samadhi that follows when the yogi is without interest even in the highest knowledge is called",
+  "options": [
+   "asamprajnata",
+   "anandanugata",
+   "dharma-megha",
+   "ritambhara"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Dharma-megha** (YS 4.29). From it, kleshas and karma cease (4.30); knowledge, freed of all coverings, becomes infinite and what is to be known little (4.31)."
+ },
+ {
+  "id": "YOGA-PRAC7-037",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 10 (Yoga Sutra, Vibhuti and Kaivalya Pada). From the GPYS (Pundlik) Vibhuti-pada and Kaivalya-pada MCQ PDFs in the notes folder; reworded, keys checked against the sutras (one sheet key, on YS 4.3, was wrong and is corrected)."
+  },
+  "answer_source": "cross_checked",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "question_type": "mcq",
+  "question_text": "Kaivalya, as defined in the last sutra of the Yoga Sutra, is",
+  "options": [
+   "the return of the gunas to their source, devoid of purpose for the Purusha",
+   "the power of consciousness established in its own nature",
+   "the attainment of the eight siddhis",
+   "both (1) and (2)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4).** YS 4.34: *puruṣārtha-śūnyānāṃ guṇānāṃ pratiprasavaḥ kaivalyaṃ svarūpa-pratiṣṭhā vā citi-śaktir iti*."
+ }
+]
