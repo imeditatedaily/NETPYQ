@@ -9,6 +9,10 @@ from .question_view import md
 
 
 def render() -> None:
+    if not st.session_state.get("user"):   # never shown to visitors who haven't signed in
+        st.info("Sign in to see this page.", icon=":material/lock:")
+        st.button("Sign in with Google", icon=":material/login:", on_click=st.login, args=("google",))
+        return
     st.title("Knowledge Base")
     st.caption("Key facts for each syllabus topic, how the topic is asked, and every past question on it in your papers.")
     bank, kb, library = state.get_bank(), state.get_knowledge(), state.get_library()

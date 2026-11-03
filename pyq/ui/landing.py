@@ -265,13 +265,7 @@ PREVIEW = """
   <p class="lp-q">Match each kleśa with the way the Yoga Sūtra defines it.</p>
   <div class="lp-opt">(1) A-IV, B-II, C-III, D-I</div>
   <div class="lp-opt right">(3) A-II, B-IV, C-III, D-I</div>
-  <div class="lp-insight"><b>Trend insight</b>The kleśa block (YS 2.2–2.13) is a closed, countable set, so NTA tests it
-    through Match-the-List and Sequence items. Trap: <i>sukhānuśayī</i> (rāga) vs <i>duḥkhānuśayī</i> (dveṣa).</div>
-  <div class="lp-bars">
-    <div class="lp-bar"><span>Patañjala Yoga Sūtra</span><i style="--w:86%;--c:#2f6b4f"></i><span>86%</span></div>
-    <div class="lp-bar"><span>Hatha Yoga texts</span><i style="--w:68%;--c:#eda100"></i><span>68%</span></div>
-    <div class="lp-bar"><span>Yoga Upanishads</span><i style="--w:44%;--c:#c9673a"></i><span>44%</span></div>
-  </div>
+  <div class="lp-insight"><b>After you sign in</b>Every answer comes with the key facts for its topic and the PYQ trend for it.</div>
 </div>
 """
 
@@ -357,13 +351,26 @@ TRY = """
     <div class="fb ok"><b>Correct: (3).</b> Avidyā is defined in YS 2.5 as mistaking the impermanent for the permanent (II);
       asmitā in 2.6 as seer and instrument appearing as one (IV); rāga in 2.7 as what follows pleasure (III); abhiniveśa
       in 2.9 as the will to live that grips even the learned (I). Notice that dveṣa was left out of List I: a favourite
-      way to build distractors.<br><br><i>Inside the app, every question also shows a trend insight, key facts and your topic accuracy.</i></div>
+      way to build distractors.<br><br><i>Sign in to see the knowledge base and PYQ trends for every topic.</i></div>
     <div class="fb no"><b>Not quite. The answer is (3) A-II, B-IV, C-III, D-I.</b> The classic trap is swapping avidyā and
       asmitā, since both describe a misidentification: avidyā is the general error (YS 2.5), asmitā the specific fusion of
       seer and instrument (2.6). Inside the app, this question would now wait for you in <b>Review Mistakes</b>.</div>
   </div>
 </div>
 """
+
+LOCKED_TEASER = """
+<div class="lp-section">
+  <p class="lp-eyebrow">PYQ trends · knowledge base</p>
+  <h2 class="lp-h2">Know where the marks are <em>before you study.</em></h2>
+  <p class="lp-sub">We counted every question across every paper, by unit and by micro-topic, and wrote the key facts
+  for each topic. Unit-wise shares, rising and fading topics, the traps NTA sets, and a knowledge base for every topic
+  open as soon as you sign in.</p>
+  <div class="lp-trend"><p class="lp-trend-note" style="margin:0">&#128274; <b>Sign in free with Google</b> to see the
+  PYQ trends and the knowledge base.</p></div>
+</div>
+"""
+
 
 def _trends_teaser(p: "trends.Pattern", subject: str) -> str:
     if p.units.empty:
@@ -527,7 +534,7 @@ def render() -> None:
     st.html(VERSUS)
     st.html(_features())
     if biggest:
-        st.html(_trends_teaser(trends.pattern(sellable_questions(bank, biggest)), biggest))
+        st.html(LOCKED_TEASER)   # trends and the knowledge base are for signed-in users only
     st.html(TRY)
     st.html('<p class="lp-sub" style="margin-top:1rem"><b>A new real question every day.</b> '
             '<a href="daily" target="_self" style="color:#1d4433;font-weight:600">Open today\'s question of the day →</a> '

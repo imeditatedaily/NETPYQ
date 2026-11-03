@@ -44,6 +44,14 @@ def _public(text: str) -> str:
     return "\n".join(out)
 
 
+def public_explanation(q: Question) -> str:
+    return q.detailed_explanation if state.is_admin() else _public(q.detailed_explanation)
+
+
+def signed_in() -> bool:
+    return bool(st.session_state.get("user"))
+
+
 def _css_key(text: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_-]", "-", text)
 
@@ -237,6 +245,8 @@ def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: st
         st.markdown(q.detailed_explanation if state.is_admin() else _public(q.detailed_explanation))
         if q.references and state.is_admin():
             st.caption("Sources: " + "; ".join(md(r) for r in q.references))
+    if not signed_in():   # the knowledge base and PYQ trends are for signed-in users only
+        return
     # The extras fold away, so the answer and its explanation stay in view.
     with st.expander(f"More on this topic: {q.micro_topic}", icon=":material/auto_stories:"):
         knowledge_box(q, bank, library, context)

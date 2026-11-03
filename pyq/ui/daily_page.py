@@ -81,7 +81,7 @@ def render() -> None:
                 st.error(f"**Not quite.** The answer is ({q.correct_answer}) {question_view.md(q.correct_text)}",
                          icon=":material/cancel:")
             st.markdown("##### Explanation")
-            st.markdown(q.detailed_explanation)
+            st.markdown(question_view.public_explanation(q))
 
     url = f"{_app_url()}/daily?d={day.isoformat()}"
     text = daily.share_text(q, subject.short, url)
