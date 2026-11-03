@@ -244,3 +244,10 @@ def test_practice_sets_come_with_the_subscription_and_stay_out_of_the_trends(ban
     assert not any(q.source_type == "practice" for q in free.questions)
     yoga = visible_bank(bank, admin=False, unlocked={"yoga"})
     assert any(q.source_type == "practice" and q.subject == "yoga" for q in yoga.questions)
+
+
+def test_signed_out_visitors_never_see_trends_or_the_knowledge_base():
+    from pyq.ui import landing
+    html = landing.LOCKED_TEASER + landing.PREVIEW
+    assert "Sign in" in html and "%" not in landing.LOCKED_TEASER   # no real trend numbers before sign-in
+    assert "lp-bars" not in landing.PREVIEW and "Trend insight" not in landing.PREVIEW

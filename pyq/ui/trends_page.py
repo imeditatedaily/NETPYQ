@@ -101,6 +101,10 @@ def _locked(what: str, key: str) -> None:
 
 
 def render() -> None:
+    if not st.session_state.get("user"):   # never shown to visitors who haven't signed in
+        st.info("Sign in to see this page.", icon=":material/lock:")
+        st.button("Sign in with Google", icon=":material/login:", on_click=st.login, args=("google",))
+        return
     full = state.get_full_bank()
     available = sellable_subjects(full)
     st.title("PYQ Trends", anchor=False)
