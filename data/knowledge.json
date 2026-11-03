@@ -1792,6 +1792,63 @@
    "traps": [
     "**Kapālabhāti and bhastrikā are avoided in epilepsy**, because hyperventilation can trigger a seizure."
    ]
+  },
+  "Kena Upanishad": {
+   "facts": [
+    "**Sāmaveda**: part of the Talavakāra (Jaiminīya) Brāhmaṇa, so also called the **Talavakāra** or **Jaiminīya Upaniṣad**. Named from its first word *kena* (by whom?). Four khaṇḍas.",
+    "Opens with a question (1.1): *keneṣitaṃ patati preṣitaṃ manaḥ* — by whom directed do the **mind, prāṇa, speech, eye and ear** work?",
+    "Brahman is **the ear of the ear, mind of the mind, speech of speech** (1.2); not 'this which people worship here' (*nedaṃ yad idam upāsate*, 1.4–8).",
+    "*avijñātaṃ vijānatāṃ vijñātam avijānatām* (2.3): unknown to those who claim to know it, known to those who do not.",
+    "**Yakṣa story** (3–4): Agni (**Jātavedas**) cannot burn a straw, Vāyu (**Mātariśvan**) cannot blow it away; before Indra the Yakṣa vanishes and **Umā Haimavatī** reveals it was Brahman. Agni, Vāyu and Indra are foremost among gods; **Indra** is the highest, first to know Brahman.",
+    "Brahman's teaching is like **lightning flashing and the eye blinking** (4.4); meditate on it as **Tadvanam** (4.6); its supports are **tapas, dama and karma**, the Vedas its limbs, truth its abode (4.8)."
+   ],
+   "sources": [
+    "gita-press-ishadi-nau-upanishad",
+    "muller-upanishads",
+    "notes-upanishad-hindi"
+   ],
+   "traps": [
+    "**Jātavedas = Agni, Mātariśvan = Vāyu.** Options swap them.",
+    "The Kena opens with a question, but so does the **Praśna** (six questions). Kena's is one question about the powers behind the senses."
+   ]
+  },
+  "Mundaka Upanishad": {
+   "facts": [
+    "**Atharvaveda (Śaunaka śākhā)**; **64 mantras** in three muṇḍakas of two khaṇḍas each. Dialogue: **Śaunaka** asks **Aṅgiras** 'knowing what is all this known?' (1.1.3).",
+    "Lineage (1.1.1–2): **Brahmā → Atharvan → Aṅgir → Satyavāha Bhāradvāja → Aṅgiras → Śaunaka**.",
+    "**Parā and aparā vidyā** (1.1.4–5): aparā is the four Vedas and six Vedāṅgas (śikṣā, kalpa, vyākaraṇa, nirukta, chandas, jyotiṣa); parā is that by which the **akṣara** is known.",
+    "**Seven tongues of fire** (1.2.4): Kālī, Karālī, Manojavā, Sulohitā, Sudhūmravarṇā, Sphuliṅginī, Viśvarucī. Sacrifices are **unsteady boats** (1.2.7).",
+    "**Bow, arrow and target** (2.2.4): *praṇavo dhanuḥ śaro hy ātmā brahma tal lakṣyam* — Om the bow, the Self the arrow, Brahman the target.",
+    "**Two birds on one tree** (3.1.1–2, also Śvetāśvatara 4.6–7); **satyam eva jayate** (3.1.6, India's motto); the Self is attained by truth, tapas, right knowledge and brahmacarya (3.1.5); **nāyam ātmā balahīnena labhyaḥ** (3.2.4)."
+   ],
+   "sources": [
+    "gita-press-ishadi-nau-upanishad",
+    "muller-upanishads",
+    "notes-upanishad-hindi"
+   ],
+   "traps": [
+    "**Satyameva jayate** is Muṇḍaka, not Māṇḍūkya. The names look alike.",
+    "*nāyam ātmā balahīnena labhyaḥ* is Muṇḍaka 3.2.4; *nāyam ātmā pravacanena labhyaḥ* is in both Kaṭha (1.2.23) and Muṇḍaka (3.2.3)."
+   ]
+  },
+  "Brihadaranyaka Upanishad": {
+   "facts": [
+    "**Śukla Yajurveda**: the last part (kāṇḍa 14) of the **Śatapatha Brāhmaṇa**. The **largest** Upaniṣad and among the oldest; 6 adhyāyas in three kāṇḍas (Madhu, Muni/Yājñavalkya, Khila). Yājñavalkya is its central teacher.",
+    "**asato mā sad gamaya, tamaso mā jyotir gamaya, mṛtyor mā amṛtaṃ gamaya** (1.3.28). **aham brahmāsmi** (1.4.10). **neti neti** (2.3.6).",
+    "**Maitreyī–Yājñavalkya** (2.4, 4.5): *ātmā vā are draṣṭavyaḥ śrotavyo mantavyo nididhyāsitavyaḥ* — śravaṇa, manana, nididhyāsana; the **salt dissolving in water** (2.4.12).",
+    "Three worlds (1.5.16): the human world is won by a **son**, the world of the fathers by **rites**, the world of the gods by **knowledge**.",
+    "**Da Da Da** (5.2): gods → *damyata* (self-control), humans → *datta* (give), asuras → *dayadhvam* (compassion).",
+    "At **Janaka's** court Yājñavalkya is questioned by Aśvala, Gārgī, Uddālaka, Śākalya and others (adhyāya 3). The peace chant *pūrṇam adaḥ* is 5.1.1."
+   ],
+   "sources": [
+    "muller-upanishads",
+    "awgp-108-upanishad-brahmavidya",
+    "notes-upanishad-hindi"
+   ],
+   "traps": [
+    "**tat tvam asi** is Chāndogya (6.8.7), not Bṛhadāraṇyaka.",
+    "Gods → damyata, humans → datta, asuras → dayadhvam. Options rotate these three."
+   ]
   }
  },
  "paper1": {
