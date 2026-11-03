@@ -14,8 +14,9 @@ def free_bank():
 
 def test_free_user_can_sit_the_free_paper(free_bank):
     choices = mock.paper_choices(free_bank.questions, "yoga", seed=1)
-    assert [c.key for c in choices] == ["session:June 2024"]     # one paper, so no mixed test
-    assert len(choices[0].question_ids) == 100 and choices[0].minutes == 120
+    assert {c.key for c in choices} >= {"session:December 2018", "session:July 2018"}
+    dec = next(c for c in choices if c.key == "session:December 2018")
+    assert len(dec.question_ids) == 80
 
 
 def test_palette_and_scoring(free_bank):
@@ -36,13 +37,14 @@ def test_palette_and_scoring(free_bank):
     assert t.status(ids[2]) == mock.MARKED
 
     r = mock.score(t, free_bank.by_id)
-    assert (r.correct, r.wrong, r.unattempted, r.marks, r.max_marks) == (1, 0, 99, 2, 200)
+    assert (r.correct, r.wrong, r.unattempted, r.marks, r.max_marks) == (1, 0, len(ids) - 1, 2, 2 * len(ids))
 
 
 def test_timer_and_submit(free_bank):
     choice = mock.paper_choices(free_bank.questions, "yoga", seed=1)[0]
     t = mock.MockTest.start(1, choice, "yoga", now=0.0)
-    assert t.remaining(60) == 7200 - 60 and not t.expired(60)
-    assert t.expired(7200)
-    t.submit(9999)                                   # late submit is capped at the time limit
-    assert t.time_taken(99999) == 7200 and t.remaining(99999) == 0
+    limit = 72 * len(choice.question_ids)            # 72 seconds a question
+    assert t.remaining(60) == limit - 60 and not t.expired(60)
+    assert t.expired(limit)
+    t.submit(limit + 9999)                           # late submit is capped at the time limit
+    assert t.time_taken(99999) == limit and t.remaining(99999) == 0

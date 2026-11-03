@@ -406,7 +406,7 @@ STEPS = """
   <h2 class="lp-h2">From sign-in to <em>first question</em> in under a minute.</h2>
   <div class="lp-steps">
     <div class="lp-step"><h3>Sign in with Google</h3><p>One tap. No form, no password. Your progress is saved to your account.</p></div>
-    <div class="lp-step"><h3>Practise a full paper free</h3><p>A complete real paper is open to everyone, with every explanation, the trends and your analytics. No card needed.</p></div>
+    <div class="lp-step"><h3>Practise two full papers free</h3><p>Two complete real papers are open to everyone, with every explanation, the trends and your analytics. No card needed.</p></div>
     <div class="lp-step"><h3>Unlock your subject</h3><p>Pay by UPI, card or net banking on Razorpay's secure page. Every real paper for that subject opens straight away.</p></div>
   </div>
 </div>
@@ -456,7 +456,7 @@ def _combo_card(stats: dict) -> str:
 
 
 def _free_card(n_free: int) -> str:
-    paper = f"<li><b>A full real paper: {escape(free_paper_label())}</b> ({n_free} questions)</li>" if n_free else ""
+    paper = f"<li><b>Two full real papers: {escape(free_paper_label())}</b> ({n_free} questions)</li>" if n_free else ""
     return f"""<div class="lp-price"><h3>Free</h3><div class="code">For everyone who signs in</div>
 <div class="amt">₹0</div><ul>{paper}<li>Sample questions in every NTA format</li><li>Full explanations</li><li>A preview of the PYQ trends</li>
 <li>Timed mock test on the free paper</li><li>No card needed</li></ul></div>"""
@@ -470,7 +470,7 @@ def _faq(years_by_subject: dict[str, str]) -> str:
          "NTA's exact pattern so you never run out of questions. Every question comes with a full explanation. "
          "We are not affiliated with NTA or UGC."),
         ("What do I get for free?",
-         f"A complete real paper ({free_paper_label()}) with every explanation, the timed mock test on it, the "
+         f"Two complete real papers ({free_paper_label()}) with every explanation, the timed mock test on them, the "
          "question of the day, a preview of the PYQ trends, and sample questions in every NTA format. "
          "No card needed."),
         ("Which exam sessions are covered?", f"Right now: {covered}. New papers are added to your subject at no extra cost."),
@@ -517,7 +517,7 @@ def render() -> None:
     with left:
         st.html(_hero_copy(len(sellable), total_papers, span))
         _signin("lp-signin-hero")
-        st.html('<p class="lp-fine"><span>A full real paper free</span><span>No card to start</span><span><a href="daily" target="_self" style="color:inherit">Today\'s free question →</a></span>'
+        st.html('<p class="lp-fine"><span>Two full real papers free</span><span>No card to start</span><span><a href="daily" target="_self" style="color:inherit">Today\'s free question →</a></span>'
                 '<span>Works on phone</span></p>')
     with right:
         st.html(PREVIEW)
@@ -536,7 +536,7 @@ def render() -> None:
 
     st.html('<div class="lp-section"><p class="lp-eyebrow">Pricing</p><h2 class="lp-h2">Pay only for the subject '
             '<em>you\'re taking.</em></h2><p class="lp-sub">Pay once for the exam cycle, or monthly. '
-            'Start with a full real paper free. All payments are final.</p></div>')
+            'Start with two full real papers free. All payments are final.</p></div>')
     combo_ok = "combo" in PASSES and all(s in live for s in PASSES["combo"][2])
     order = ["free", *(s for s in SUBJECTS if s in live), *(["combo"] if combo_ok else [])]
     if combo_ok:     # the combo in the middle, where the eye lands

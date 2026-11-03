@@ -107,7 +107,7 @@ def render() -> None:
     if account.razorpay() is None and not st.session_state.is_admin:
         st.info("Payments aren't open yet. Please check back soon.", icon=":material/construction:")
     st.markdown("Pay by UPI, card or net banking on Razorpay's secure page. "
-                f"The free real paper ({free_paper_label()}) stays available to everyone.")
+                f"The free real papers ({free_paper_label()}) stay available to everyone.")
     st.warning("**No refunds.** Payments are final once made, including partly used months. Cancelling a monthly "
                "plan stops the next payment only. Please try the free paper before you pay.", icon=":material/info:")
     _active_passes(subs, now)

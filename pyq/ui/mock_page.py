@@ -123,7 +123,7 @@ def _setup() -> None:
             "when you submit, and wrong answers join **Review Mistakes**.")
         st.markdown("  \n".join(f"{SWATCH[s]} {label}" for s, label in mock.STATUS_LABELS.items()))
     if not st.session_state.get("unlocked") and not st.session_state.get("is_admin"):
-        st.caption(f"On the free plan you can sit the {free_paper_label()} paper. Subscribe to sit every paper.")
+        st.caption(f"On the free plan you can sit the free papers ({free_paper_label()}). Subscribe to sit every paper.")
     _history()
 
 

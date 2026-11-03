@@ -3,7 +3,8 @@
 - Everyone who signs in gets the built-in PYQ-pattern samples and the free
   real papers (config.FREE_PAPERS) for free.
 - A subject (Paper 1, Yoga, IKS) unlocks with its own monthly subscription.
-- Questions transcribed from a published book are never shown to subscribers.
+- Questions transcribed from a published book are not part of any paid plan;
+  only the ones in a free paper are shown (to everyone).
 - Admins see everything.
 """
 
@@ -66,12 +67,15 @@ def is_free(q: Question) -> bool:
     """A free sample, or a question from one of the free real papers."""
     if q.source_type == "model":
         return True
-    return (q.subject, q.exam_year, q.exam_cycle) in FREE_PAPERS and not is_book_sourced(q)
+    return (q.subject, q.exam_year, q.exam_cycle) in FREE_PAPERS
 
 
 def free_paper_label() -> str:
-    """For copy: "Yoga, June 2024" (several free papers are joined with "and")."""
-    return " and ".join(f"{SUBJECTS[s].short}, {cycle} {year}" for s, year, cycle in FREE_PAPERS)
+    """For copy: "Yoga, December 2018 and July 2018" (papers of one subject share its name)."""
+    by_subject: dict[str, list[str]] = {}
+    for s, year, cycle in FREE_PAPERS:
+        by_subject.setdefault(s, []).append(f"{cycle} {year}")
+    return "; ".join(f"{SUBJECTS[s].short}, {' and '.join(papers)}" for s, papers in by_subject.items())
 
 
 def free_questions(bank: Bank) -> list[Question]:

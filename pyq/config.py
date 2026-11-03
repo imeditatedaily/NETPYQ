@@ -32,7 +32,7 @@ SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
 # --- accounts and subscriptions ------------------------------------------------------
 
 # Real papers anyone who signs in may practise for free: (subject, exam_year, exam_cycle).
-FREE_PAPERS = (("yoga", 2024, "June"),)
+FREE_PAPERS = (("yoga", 2018, "December"), ("yoga", 2018, "July"))
 
 # Monthly price of one subject (Paper 1, Yoga or IKS), in rupees. The amount
 # actually charged is set on the Razorpay plan; keep the two the same.
@@ -50,8 +50,8 @@ PASSES = {
 PASS_DAYS = 182          # about six months: one NET cycle
 
 # Questions whose source note mentions any of these are transcribed from a
-# published book. Subscribers never see them (only admins do), and they do
-# not count towards making a subject available for sale.
+# published book. They are not part of any paid plan and do not count towards
+# making a subject available for sale; only those in a FREE_PAPERS paper are shown.
 BOOK_SOURCE_MARKERS = ("Madaan", "solved-papers collection")
 
 # Where progress is kept when no [database] url is set (local development only).
