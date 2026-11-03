@@ -98,9 +98,13 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
         assert q.detailed_explanation.startswith(f"**Answer: ({q.correct_answer})")
         assert all(sid in library.by_id for sid in q.source_ids), q.id
     assert jan17[0].source_label == "January 2017 · Paper II · Q1 · Official paper"
-    jun24 = [q for q in papers if q.session_key == "2024-June"]
+    jun24 = [q for q in papers if q.id.startswith("YOGA-2024JUN-P2")]   # the cancelled 18 June paper
     assert sorted(q.question_no for q in jun24) == list(range(51, 151))   # Paper 2 of a combined booklet
     assert {q.answer_source for q in jun24} == {"unverified"}              # no key was published for this paper
+    sep24 = [q for q in papers if q.id.startswith("YOGA-2024SEP-P2")]   # its re-exam, same session
+    assert {q.session_key for q in sep24} == {"2024-June"}
+    assert len(sep24) == 89 and min(q.question_no for q in sep24) == 51 and max(q.question_no for q in sep24) == 150
+    assert {q.answer_source for q in sep24} == {"unverified"}
 
 
 def test_shipped_paper_1_sessions_keep_their_numbering():

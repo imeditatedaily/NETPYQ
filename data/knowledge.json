@@ -1849,6 +1849,27 @@
     "**tat tvam asi** is Chāndogya (6.8.7), not Bṛhadāraṇyaka.",
     "Gods → damyata, humans → datta, asuras → dayadhvam. Options rotate these three."
    ]
+  },
+  "Pranayama: techniques and effects": {
+   "facts": [
+    "**Viloma** (*against the grain*): the inhalation, the exhalation or both are broken into stages with short pauses (inhale, pause, inhale, pause, and so on) instead of one smooth stroke. It is taught in Iyengar's *Light on Yoga*, beside **anuloma** (inhale through both nostrils, exhale through one nostril, partly closed) and **pratiloma** (the reverse).",
+    "**Nāḍī-śodhana** is alternate-nostril breathing: inhale through the left, exhale through the right, then inhale right, exhale left (HP 2.7–10). Many modern schools call it **anuloma-viloma**, which is not the same as viloma.",
+    "**Bhrāmarī**: exhale with a humming sound like a bee (HP 2.68). **Ujjāyī**: breathe with the glottis partly closed, making a soft sound in the throat (HP 2.51–53). **Kapālabhāti**: forceful exhalations with passive inhalations. In HP it is one of the six cleansing acts (2.35), not a kumbhaka.",
+    "**Sectional breathing**: abdominal (diaphragmatic), thoracic and clavicular breathing. The three joined in one breath make the **full yogic breath**.",
+    "**Ratio**: inhalation (pūraka), retention (kumbhaka) and exhalation (recaka) in the ratio **1 : 4 : 2**, as in the count of 16 : 64 : 32 mātrās used for sahita kumbhaka in the Gheraṇḍa Saṃhitā (ch. 5).",
+    "**Effects**: slow breathing (about six breaths a minute) with a long exhalation raises parasympathetic (vagal) tone and heart-rate variability. Fast breathing (kapālabhāti, bhastrikā) briefly raises sympathetic activity. Studies link right-nostril breathing with arousal (higher oxygen consumption) and left-nostril breathing with calming."
+   ],
+   "sources": [
+    "iyengar-light-on-yoga",
+    "satyananda-asana-pranayama-mudra-bandha",
+    "sinh-1914-hatha-yoga-pradipika",
+    "vasu-1895-gheranda-samhita"
+   ],
+   "traps": [
+    "**Viloma ≠ anuloma-viloma.** Viloma is interrupted breathing; anuloma-viloma is the popular name for alternate-nostril breathing.",
+    "**Kapālabhāti** is listed among the ṣaṭkarmas in HP 2.35, not among its eight kumbhakas, though modern books teach it as prāṇāyāma.",
+    "**Laya** is a kind of yoga (absorption of the mind, HP ch. 4), not a prāṇāyāma."
+   ]
   }
  },
  "paper1": {
