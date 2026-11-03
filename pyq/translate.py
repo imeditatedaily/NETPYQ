@@ -54,6 +54,10 @@ _PROMPTS_HI_EN = {
     "सही उत्तर चुनिए": "Choose the correct answer",
     "सही उत्तर चुनें": "Choose the correct answer",
     "कूट": "Codes",
+    "नीचे दिए गए कूट में से सही उत्तर को चुनिए": "Choose the correct answer from the codes given below",
+    "नीचे दिए गए कूट में से सही उत्तर चुनिए": "Choose the correct answer from the codes given below",
+    "नीचे दिए गए कूट से सही उत्तर चुनिए": "Choose the correct answer from the codes given below",
+    "नीचे दिए गए कूटों में से सही उत्तर का चयन कीजिए": "Choose the correct answer from the codes given below",
     "उपर्युक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए":
         "In the light of the above statements, choose the correct answer from the options given below",
     "उपर्युक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए":
@@ -67,6 +71,7 @@ _PROMPTS_EN_HI = {
     "Choose the correct answer from the options given": "दिए गए विकल्पों में से सही उत्तर का चयन कीजिए",
     "Choose the correct option": "सही विकल्प चुनिए",
     "Choose the correct answer": "सही उत्तर चुनिए",
+    "Choose the correct answer from the codes given below": "नीचे दिए गए कूट में से सही उत्तर को चुनिए",
     "Codes": "कूट",
     "Code": "कूट",
     "In the light of the above statements, choose the correct answer from the options given below":
