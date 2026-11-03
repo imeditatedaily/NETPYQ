@@ -1,0 +1,1351 @@
+[
+ {
+  "id": "YOGA-PRAC13-001",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 1,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "The Integrated Approach of Yoga Therapy (IAYT) was developed at which institution?",
+  "options": [
+   "S-VYASA (Swami Vivekananda Yoga Anusandhana Samsthana), Bengaluru",
+   "Kaivalyadhama, Lonavala",
+   "Bihar School of Yoga, Munger",
+   "Krishnamacharya Yoga Mandiram, Chennai"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) S-VYASA (Swami Vivekananda Yoga Anusandhana Samsthana), Bengaluru.**\n\nIAYT was developed by H. R. Nagendra and R. Nagarathna at Vivekananda Kendra's yoga research wing, which became S-VYASA in Bengaluru. It treats the whole person through all five koshas rather than prescribing single asanas."
+ },
+ {
+  "id": "YOGA-PRAC13-002",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 2,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "mcq",
+  "question_text": "The Integrated Approach of Yoga Therapy plans practices for a patient on which framework?",
+  "options": [
+   "Tridosha of Ayurveda",
+   "Pancha kosha (five sheaths of the Taittiriya Upanishad)",
+   "Triguna of Samkhya",
+   "The eight limbs of the Yoga Sutra"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Pancha kosha (five sheaths of the Taittiriya Upanishad).**\n\nIAYT maps practices onto the five koshas of the Taittiriya Upanishad: annamaya, pranamaya, manomaya, vijnanamaya and anandamaya, so that body, breath, mind, understanding and joy are all addressed."
+ },
+ {
+  "id": "YOGA-PRAC13-003",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 3,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Evidence-based integrated yoga therapy",
+  "question_type": "match",
+  "question_text": "Match each kosha with the IAYT practices aimed at it.",
+  "options": [
+   "A-i, B-ii, C-iv, D-iii",
+   "A-ii, B-iv, C-i, D-iii",
+   "A-ii, B-i, C-iv, D-iii",
+   "A-iii, B-i, C-ii, D-iv"
+  ],
+  "correct_answer": 3,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Annamaya kosha",
+     "Pranamaya kosha",
+     "Manomaya kosha",
+     "Vijnanamaya kosha"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Pranayama and kriyas",
+     "Asanas, loosening practices and diet",
+     "Notional correction through self-study and counselling",
+     "Meditation and dharana"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (3) A-ii, B-i, C-iv, D-iii.**\n\nAnnamaya (body) → asanas and diet; pranamaya (vital energy) → pranayama and kriyas; manomaya (mind) → meditation and dharana; vijnanamaya (intellect) → jnana yoga, i.e. notional correction by self-study and counselling."
+ },
+ {
+  "id": "YOGA-PRAC13-004",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 4,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: hypertension",
+  "question_type": "mcq",
+  "question_text": "Which practice is usually avoided in uncontrolled hypertension?",
+  "options": [
+   "Shavasana",
+   "Nadi shodhana pranayama",
+   "Bhramari pranayama",
+   "Kapalabhati"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Kapalabhati.**\n\nKapalabhati's forceful, rapid exhalations raise intra-abdominal and intrathoracic pressure and stimulate the sympathetic system, so it is avoided in uncontrolled hypertension, as are inversions and breath retention."
+ },
+ {
+  "id": "YOGA-PRAC13-005",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 5,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: hypertension",
+  "question_type": "statements",
+  "question_text": "Which of the following practices are commonly recommended for people with hypertension?",
+  "options": [
+   "Only (A), (B) and (D)",
+   "Only (A), (C) and (E)",
+   "Only (B), (C) and (D)",
+   "Only (A), (D) and (E)"
+  ],
+  "correct_answer": 1,
+  "items": [
+   "Shavasana",
+   "Bhramari pranayama",
+   "Shirshasana",
+   "Nadi shodhana without breath retention",
+   "Bhastrika"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (1) Only (A), (B) and (D).**\n\nRelaxation (shavasana), humming breath (bhramari) and slow alternate-nostril breathing calm the sympathetic system and lower blood pressure. Shirshasana (an inversion) and bhastrika (vigorous breathing) are avoided."
+ },
+ {
+  "id": "YOGA-PRAC13-006",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 6,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: respiratory disorders",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).",
+  "assertion": "Breathing practices with prolonged exhalation are useful in bronchial asthma.",
+  "reason": "Slow, prolonged exhalation reduces air trapping and calms the over-active stress response that narrows the airways.",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A).**\n\nBoth are true, and (R) is why (A) works: lengthening exhalation empties the lungs more completely, and slow breathing shifts the balance towards the parasympathetic system, easing bronchospasm triggered by anxiety."
+ },
+ {
+  "id": "YOGA-PRAC13-007",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 7,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: respiratory disorders",
+  "question_type": "mcq",
+  "question_text": "Which kriya is used in yoga therapy for bronchial asthma to clear mucus and give reflex relief of bronchospasm?",
+  "options": [
+   "Nauli",
+   "Vamana dhauti (kunjal)",
+   "Basti",
+   "Trataka"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vamana dhauti (kunjal).**\n\nIn vamana dhauti (kunjal) the practitioner drinks lukewarm saline water and vomits it out. It clears mucus and, through a vagal reflex, helps relax the bronchi, so it is part of the IAYT module for asthma."
+ },
+ {
+  "id": "YOGA-PRAC13-008",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 8,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders",
+  "question_type": "mcq",
+  "question_text": "In the acute stage of lumbar disc prolapse, which group of asanas is avoided?",
+  "options": [
+   "Gentle back bends such as bhujangasana",
+   "Prone relaxation in makarasana",
+   "Forward bends such as paschimottanasana",
+   "Supine relaxation in shavasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Forward bends such as paschimottanasana.**\n\nForward flexion squeezes the front of the disc and pushes the nucleus further backwards onto the nerve roots. Gentle extension (bhujangasana, makarasana) and relaxation are preferred."
+ },
+ {
+  "id": "YOGA-PRAC13-009",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 9,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders",
+  "question_type": "mcq",
+  "question_text": "Which asana is contraindicated in cervical spondylosis?",
+  "options": [
+   "Bhujangasana",
+   "Makarasana",
+   "Shavasana",
+   "Halasana"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Halasana.**\n\nHalasana (like sarvangasana) puts the neck in strong flexion under body weight, which strains the cervical discs and joints. Neck-friendly extension and relaxation postures are used instead."
+ },
+ {
+  "id": "YOGA-PRAC13-010",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 10,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders",
+  "question_type": "mcq",
+  "question_text": "Which asana is commonly included in yoga modules for type 2 diabetes for its twisting action on the abdomen?",
+  "options": [
+   "Ardha matsyendrasana",
+   "Shirshasana",
+   "Tadasana",
+   "Shavasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Ardha matsyendrasana.**\n\nTwists such as ardha matsyendrasana compress and massage the abdominal organs, including the pancreas region. Diabetes modules also use mandukasana, dhanurasana, kapalabhati and relaxation."
+ },
+ {
+  "id": "YOGA-PRAC13-011",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 11,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders",
+  "question_type": "mcq",
+  "question_text": "Which asana is traditionally recommended for the health of the thyroid gland?",
+  "options": [
+   "Vrikshasana",
+   "Sarvangasana",
+   "Tadasana",
+   "Vajrasana"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sarvangasana.**\n\nSarvangasana (shoulder stand) presses the chin towards the chest, compressing the front of the neck where the thyroid lies; yoga texts and teachers therefore traditionally prescribe it for thyroid health."
+ },
+ {
+  "id": "YOGA-PRAC13-012",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 12,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: psychiatric disorders",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).",
+  "assertion": "In depression, energising practices such as surya namaskar and kapalabhati are usually given before relaxation.",
+  "reason": "Depression involves low arousal and psychomotor slowing.",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A).**\n\nBoth are true, and (R) explains (A): a person with depression is under-aroused, so the session first raises energy with dynamic practices and only then moves to relaxation. In anxiety the order is the reverse."
+ },
+ {
+  "id": "YOGA-PRAC13-013",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 13,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: gynaecological and urinary disorders",
+  "question_type": "mcq",
+  "question_text": "Which practice is generally avoided during menstruation?",
+  "options": [
+   "Baddha konasana",
+   "Shavasana",
+   "Sarvangasana",
+   "Supta baddha konasana"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sarvangasana.**\n\nInversions such as sarvangasana and shirshasana are traditionally avoided during menstruation; gentle hip-opening postures and relaxation are recommended instead."
+ },
+ {
+  "id": "YOGA-PRAC13-014",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 14,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: gynaecological and urinary disorders",
+  "question_type": "statements",
+  "question_text": "Which of the following are avoided during pregnancy?",
+  "options": [
+   "Only (A), (C) and (E)",
+   "Only (B), (C) and (D)",
+   "Only (C), (D) and (E)",
+   "Only (A), (B) and (D)"
+  ],
+  "correct_answer": 4,
+  "items": [
+   "Kapalabhati",
+   "Nauli",
+   "Bhramari pranayama",
+   "Closed twists that compress the abdomen",
+   "Lying on the left side for relaxation"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (4) Only (A), (B) and (D).**\n\nKapalabhati and nauli put strong pressure on the abdomen, and closed twists compress the uterus, so all three are avoided. Bhramari and side-lying (left) relaxation are safe and often recommended."
+ },
+ {
+  "id": "YOGA-PRAC13-015",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 15,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "mcq",
+  "question_text": "In the whole-part-whole method of teaching an asana, what does the teacher do first?",
+  "options": [
+   "Demonstrates the complete asana",
+   "Teaches each step separately without showing the whole",
+   "Asks students to try it without instruction",
+   "Explains the theory of the asana only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Demonstrates the complete asana.**\n\nThe teacher first shows the whole posture, then breaks it into parts that are practised one by one, and finally has students perform the whole asana again."
+ },
+ {
+  "id": "YOGA-PRAC13-016",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 16,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "question_type": "sequence",
+  "question_text": "Arrange the parts of a yoga session in the order of the Common Yoga Protocol.",
+  "options": [
+   "(B), (C), (E), (A), (D)",
+   "(B), (E), (C), (A), (D)",
+   "(E), (B), (C), (D), (A)",
+   "(B), (E), (A), (C), (D)"
+  ],
+  "correct_answer": 2,
+  "items": [
+   "Pranayama",
+   "Prayer",
+   "Asanas",
+   "Dhyana",
+   "Loosening practices (chalana kriya)"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (2) (B), (E), (C), (A), (D).**\n\nThe Common Yoga Protocol runs: prayer → loosening practices → asanas → kapalabhati and pranayama → dhyana → sankalpa → shanti path."
+ },
+ {
+  "id": "YOGA-PRAC13-017",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 17,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "mcq",
+  "question_text": "How long is the Common Yoga Protocol of the Ministry of AYUSH, used for the International Day of Yoga?",
+  "options": [
+   "30 minutes",
+   "60 minutes",
+   "45 minutes",
+   "90 minutes"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 45 minutes.**\n\nThe Common Yoga Protocol is a 45-minute sequence of prayer, loosening practices, asanas, kapalabhati, pranayama, dhyana, sankalpa and shanti path."
+ },
+ {
+  "id": "YOGA-PRAC13-018",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 18,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "mcq",
+  "question_text": "In which year did the UN General Assembly declare 21 June the International Day of Yoga?",
+  "options": [
+   "2015",
+   "2013",
+   "2016",
+   "2014"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2014.**\n\nThe UN General Assembly adopted resolution 69/131 on 11 December 2014. The first International Day of Yoga was celebrated on 21 June 2015."
+ },
+ {
+  "id": "YOGA-PRAC13-019",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 19,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "Who coined the term 'relaxation response'?",
+  "options": [
+   "Herbert Benson",
+   "Jon Kabat-Zinn",
+   "Hans Selye",
+   "Robert Keith Wallace"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Herbert Benson.**\n\nHerbert Benson of Harvard described the relaxation response (1975): a fall in heart rate, breathing rate, oxygen use and blood pressure, the physiological opposite of the fight-or-flight response."
+ },
+ {
+  "id": "YOGA-PRAC13-020",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 20,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "match",
+  "question_text": "Match the researcher with the work they are known for.",
+  "options": [
+   "A-iv, B-iii, C-i, D-ii",
+   "A-iii, B-iv, C-i, D-ii",
+   "A-iii, B-i, C-iv, D-ii",
+   "A-ii, B-iv, C-iii, D-i"
+  ],
+  "correct_answer": 2,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Jon Kabat-Zinn",
+     "Herbert Benson",
+     "Hans Selye",
+     "Robert Keith Wallace"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "General adaptation syndrome",
+     "Physiological effects of Transcendental Meditation (1970)",
+     "Mindfulness-Based Stress Reduction (MBSR)",
+     "The relaxation response"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (2) A-iii, B-iv, C-i, D-ii.**\n\nKabat-Zinn founded MBSR (1979); Benson described the relaxation response; Selye described the general adaptation syndrome of stress; Wallace published the first physiological study of TM in Science (1970)."
+ },
+ {
+  "id": "YOGA-PRAC13-021",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 21,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation",
+  "question_type": "mcq",
+  "question_text": "Lutz and colleagues (2004) reported high-amplitude gamma synchrony in long-term practitioners of which meditation?",
+  "options": [
+   "Transcendental Meditation",
+   "Zen sitting (zazen)",
+   "Compassion meditation of Tibetan Buddhist monks",
+   "Mantra japa"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Compassion meditation of Tibetan Buddhist monks.**\n\nLutz, Davidson and colleagues found unusually strong gamma-band synchrony in EEG of Tibetan Buddhist monks during non-referential compassion meditation (PNAS, 2004)."
+ },
+ {
+  "id": "YOGA-PRAC13-022",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 22,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "mcq",
+  "question_text": "Cyclic meditation, which alternates stimulating and calming practices, was developed at:",
+  "options": [
+   "Bihar School of Yoga",
+   "Kaivalyadhama",
+   "Patanjali Yogpeeth",
+   "S-VYASA, Bengaluru"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) S-VYASA, Bengaluru.**\n\nCyclic meditation was developed by H. R. Nagendra at S-VYASA from a Mandukya Karika idea: alternate stimulation and calming lead to deep rest."
+ },
+ {
+  "id": "YOGA-PRAC13-023",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 23,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "mcq",
+  "question_text": "Who developed the modern practice of Yoga Nidra?",
+  "options": [
+   "Swami Satyananda Saraswati",
+   "Swami Kuvalayananda",
+   "Swami Sivananda",
+   "B. K. S. Iyengar"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Swami Satyananda Saraswati.**\n\nSwami Satyananda Saraswati of the Bihar School of Yoga systematised Yoga Nidra in the 1960s from tantric nyasa practices; it has stages such as sankalpa, rotation of consciousness and visualisation."
+ },
+ {
+  "id": "YOGA-PRAC13-024",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 24,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices",
+  "question_type": "match",
+  "question_text": "Match the institution with its founder.",
+  "options": [
+   "A-ii, B-iii, C-iv, D-i",
+   "A-iii, B-ii, C-iv, D-i",
+   "A-iii, B-iv, C-ii, D-i",
+   "A-iv, B-ii, C-iii, D-i"
+  ],
+  "correct_answer": 2,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Kaivalyadhama, Lonavala",
+     "The Yoga Institute, Santacruz",
+     "Bihar School of Yoga, Munger",
+     "Krishnamacharya Yoga Mandiram, Chennai"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "T. K. V. Desikachar",
+     "Shri Yogendra",
+     "Swami Kuvalayananda",
+     "Swami Satyananda Saraswati"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (2) A-iii, B-ii, C-iv, D-i.**\n\nKuvalayananda founded Kaivalyadhama (1924); Shri Yogendra the Yoga Institute (1918), the oldest organised yoga centre; Satyananda the Bihar School (1960s); Desikachar the KYM (1976) in his father's name."
+ },
+ {
+  "id": "YOGA-PRAC13-025",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 25,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "question_type": "mcq",
+  "question_text": "Integral education, built on developing the physical, vital, mental, psychic and spiritual being, was proposed by:",
+  "options": [
+   "Swami Vivekananda",
+   "Mahatma Gandhi",
+   "Sri Aurobindo and the Mother",
+   "Rabindranath Tagore"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sri Aurobindo and the Mother.**\n\nSri Aurobindo and the Mother proposed integral education with five aspects (physical, vital, mental, psychic and spiritual), put into practice at the Sri Aurobindo International Centre of Education, Puducherry."
+ },
+ {
+  "id": "YOGA-PRAC13-026",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 26,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "question_type": "match",
+  "question_text": "Match the thinker with his idea of education.",
+  "options": [
+   "A-iv, B-iii, C-i, D-ii",
+   "A-iii, B-iv, C-ii, D-i",
+   "A-i, B-iv, C-iii, D-ii",
+   "A-iii, B-iv, C-i, D-ii"
+  ],
+  "correct_answer": 4,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Swami Vivekananda",
+     "Sri Aurobindo",
+     "Mahatma Gandhi",
+     "Rabindranath Tagore"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Nai Talim (basic education through productive craft)",
+     "Visva-Bharati and learning in harmony with nature",
+     "'Education is the manifestation of the perfection already in man'",
+     "Integral education"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (4) A-iii, B-iv, C-i, D-ii.**\n\nVivekananda: education manifests the perfection already in man; Aurobindo: integral education; Gandhi: Nai Talim (Wardha scheme, 1937); Tagore: Shantiniketan and Visva-Bharati."
+ },
+ {
+  "id": "YOGA-PRAC13-027",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 27,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "mcq",
+  "question_text": "Learning to perform an asana correctly belongs mainly to which domain of Bloom's taxonomy?",
+  "options": [
+   "Psychomotor",
+   "Cognitive",
+   "Affective",
+   "Conative"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Psychomotor.**\n\nBloom's taxonomy has three domains: cognitive (knowing), affective (feeling and values) and psychomotor (physical skills). Performing an asana correctly is a psychomotor skill."
+ },
+ {
+  "id": "YOGA-PRAC13-028",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 28,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a projected teaching aid?",
+  "options": [
+   "Chart",
+   "Overhead projector",
+   "Model",
+   "Blackboard"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Overhead projector.**\n\nProjected aids throw an image on a screen (overhead projector, slide projector, LCD projector). Charts, models and the blackboard are non-projected aids."
+ },
+ {
+  "id": "YOGA-PRAC13-029",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 29,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "question_type": "mcq",
+  "question_text": "In Swami Kuvalayananda's classification, makarasana belongs to which group?",
+  "options": [
+   "Meditative asanas",
+   "Cultural asanas",
+   "Relaxative asanas",
+   "Balancing asanas"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Relaxative asanas.**\n\nKuvalayananda grouped asanas as meditative, cultural and relaxative. Makarasana and shavasana are relaxative."
+ },
+ {
+  "id": "YOGA-PRAC13-030",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 30,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "question_type": "statements",
+  "question_text": "Which of the following are meditative asanas?",
+  "options": [
+   "Only (A), (D) and (E)",
+   "Only (B), (C) and (E)",
+   "Only (C), (D) and (E)",
+   "Only (A), (B) and (C)"
+  ],
+  "correct_answer": 4,
+  "items": [
+   "Padmasana",
+   "Siddhasana",
+   "Swastikasana",
+   "Dhanurasana",
+   "Bhujangasana"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (4) Only (A), (B) and (C).**\n\nPadmasana, siddhasana and swastikasana are seated postures that keep the spine erect and the body still for long periods. Dhanurasana and bhujangasana are cultural (body-conditioning) asanas."
+ },
+ {
+  "id": "YOGA-PRAC13-031",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 31,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "question_type": "mcq",
+  "question_text": "Sutra neti is done with:",
+  "options": [
+   "A rubber catheter or a waxed cotton thread",
+   "A strip of cloth fifteen hastas long",
+   "Lukewarm water poured through the mouth",
+   "Ghee poured into the nostrils"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A rubber catheter or a waxed cotton thread.**\n\nIn sutra neti a soft rubber catheter (traditionally a waxed cotton thread) is passed through a nostril and drawn out of the mouth. Jala neti uses lukewarm saline water."
+ },
+ {
+  "id": "YOGA-PRAC13-032",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 32,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, how long is the cloth used for vastra dhauti?",
+  "options": [
+   "Ten hastas",
+   "Fifteen hastas",
+   "Twenty hastas",
+   "Twenty-five hastas"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Fifteen hastas.**\n\nHP 2.24: a moist cloth four fingers wide and fifteen hastas long (catur-aṅgula-vistāraṁ hasta-pañcadaśāyatam) is slowly swallowed and drawn out."
+ },
+ {
+  "id": "YOGA-PRAC13-033",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 33,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).",
+  "assertion": "Uddiyana bandha should be mastered before learning nauli.",
+  "reason": "Nauli isolates the rectus abdominis muscles while the abdomen is held in uddiyana with the breath held out.",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A).**\n\nBoth are true, and (R) explains (A): nauli starts from the uddiyana position (exhaled, abdomen drawn in and up), then contracts the rectus abdominis in the centre (madhyama) or to one side (vama, dakshina)."
+ },
+ {
+  "id": "YOGA-PRAC13-034",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 34,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "question_type": "mcq",
+  "question_text": "In kapalabhati:",
+  "options": [
+   "Inhalation is active; exhalation is passive",
+   "Both inhalation and exhalation are slow and active",
+   "Exhalation is active and forceful; inhalation is passive",
+   "The breath is held after each inhalation"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Exhalation is active and forceful; inhalation is passive.**\n\nKapalabhati is a series of quick, forceful exhalations by the abdominal muscles; inhalation follows passively as the muscles relax."
+ },
+ {
+  "id": "YOGA-PRAC13-035",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 35,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Shatkarma: practice and benefits",
+  "question_type": "mcq",
+  "question_text": "According to the Hatha Pradipika, trataka removes:",
+  "options": [
+   "Diseases of the stomach",
+   "Disorders of kapha in the throat",
+   "Diseases of the anus",
+   "Eye diseases and sloth (tandra)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Eye diseases and sloth (tandra).**\n\nHP 2.32: trataka frees one from eye diseases and shuts the door on sloth and the like (mocanaṁ netra-rogāṇāṁ tandrādīnāṁ kapāṭakam)."
+ },
+ {
+  "id": "YOGA-PRAC13-036",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 36,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits",
+  "question_type": "match",
+  "question_text": "Match each bandha with how it is done.",
+  "options": [
+   "A-iii, B-iv, C-i, D-ii",
+   "A-iv, B-iii, C-i, D-ii",
+   "A-iii, B-i, C-iv, D-ii",
+   "A-ii, B-iv, C-iii, D-i"
+  ],
+  "correct_answer": 1,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Mula bandha",
+     "Uddiyana bandha",
+     "Jalandhara bandha",
+     "Jihva bandha"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "The chin is pressed against the chest",
+     "The tongue is pressed against the palate",
+     "The perineum and anal sphincter are contracted",
+     "The abdomen is drawn in and up with the breath held out"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (1) A-iii, B-iv, C-i, D-ii.**\n\nMula bandha contracts the perineum; uddiyana draws the abdomen in and up after exhalation; jalandhara presses the chin to the chest; jihva bandha presses the tongue against the palate."
+ },
+ {
+  "id": "YOGA-PRAC13-037",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 37,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits",
+  "question_type": "match",
+  "question_text": "Match the mudra with its practice.",
+  "options": [
+   "A-i, B-iii, C-iv, D-ii",
+   "A-iii, B-i, C-iv, D-ii",
+   "A-iii, B-iv, C-i, D-ii",
+   "A-iii, B-i, C-ii, D-iv"
+  ],
+  "correct_answer": 2,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Shambhavi mudra",
+     "Agochari (nasikagra drishti)",
+     "Khechari mudra",
+     "Jnana mudra"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Gazing at the tip of the nose",
+     "Tip of the index finger touching the tip of the thumb",
+     "Gazing at the eyebrow centre",
+     "Tongue turned back into the cavity above the palate"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (2) A-iii, B-i, C-iv, D-ii.**\n\nShambhavi: gaze at the eyebrow centre; agochari: gaze at the nose tip; khechari: tongue rolled back into the nasal cavity; jnana mudra: index fingertip touching the thumb tip."
+ },
+ {
+  "id": "YOGA-PRAC13-038",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 38,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "question_type": "sequence",
+  "question_text": "Arrange the first four positions of surya namaskar (Bihar School sequence) in order.",
+  "options": [
+   "(B), (A), (D), (C)",
+   "(D), (B), (A), (C)",
+   "(B), (D), (A), (C)",
+   "(B), (D), (C), (A)"
+  ],
+  "correct_answer": 3,
+  "items": [
+   "Padahastasana",
+   "Pranamasana",
+   "Ashwa sanchalanasana",
+   "Hasta uttanasana"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (3) (B), (D), (A), (C).**\n\nSurya namaskar begins: pranamasana (prayer pose) → hasta uttanasana (raised arms) → padahastasana (hand to foot) → ashwa sanchalanasana (equestrian pose)."
+ },
+ {
+  "id": "YOGA-PRAC13-039",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 39,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).",
+  "assertion": "Cortisol, the main stress hormone, is secreted by the adrenal medulla.",
+  "reason": "The adrenal medulla secretes adrenaline and noradrenaline.",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) is false but (R) is true.**\n\n(A) is false: cortisol comes from the adrenal cortex (zona fasciculata). (R) is true: the medulla secretes the catecholamines adrenaline and noradrenaline."
+ },
+ {
+  "id": "YOGA-PRAC13-040",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 40,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "question_type": "sequence",
+  "question_text": "Arrange the steps of the stress (HPA axis) response in order.",
+  "options": [
+   "(A), (C), (D), (B)",
+   "(C), (D), (A), (B)",
+   "(D), (C), (A), (B)",
+   "(C), (A), (D), (B)"
+  ],
+  "correct_answer": 4,
+  "items": [
+   "The pituitary releases ACTH",
+   "Cortisol is released into the blood",
+   "The hypothalamus releases CRH",
+   "The adrenal cortex is stimulated"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (4) (C), (A), (D), (B).**\n\nHypothalamus → CRH → anterior pituitary → ACTH → adrenal cortex → cortisol."
+ },
+ {
+  "id": "YOGA-PRAC13-041",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 41,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).",
+  "assertion": "Slow breathing lowers the heart rate.",
+  "reason": "Slow breathing increases vagal (parasympathetic) activity.",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A).**\n\nBoth are true, and (R) explains (A): slow breathing raises vagal tone, and the vagus nerve slows the heart's pacemaker (SA node)."
+ },
+ {
+  "id": "YOGA-PRAC13-042",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 42,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system",
+  "question_type": "mcq",
+  "question_text": "The tidal volume of a healthy adult at rest is about:",
+  "options": [
+   "500 mL",
+   "150 mL",
+   "1,200 mL",
+   "3,000 mL"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 500 mL.**\n\nTidal volume, the air moved in one quiet breath, is about 500 mL; about 150 mL of it stays in the dead space of the airways. Residual volume is about 1,200 mL."
+ },
+ {
+  "id": "YOGA-PRAC13-043",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 43,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: digestive system",
+  "question_type": "mcq",
+  "question_text": "Bile is produced by the:",
+  "options": [
+   "Gall bladder",
+   "Liver",
+   "Pancreas",
+   "Duodenum"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Liver.**\n\nThe liver produces bile; the gall bladder only stores and concentrates it and releases it into the duodenum."
+ },
+ {
+  "id": "YOGA-PRAC13-044",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 44,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "question_type": "sequence",
+  "question_text": "Arrange the needs in Maslow's hierarchy from the lowest to the highest.",
+  "options": [
+   "(B), (E), (D), (A), (C)",
+   "(D), (B), (E), (A), (C)",
+   "(B), (D), (E), (A), (C)",
+   "(B), (D), (A), (E), (C)"
+  ],
+  "correct_answer": 3,
+  "items": [
+   "Esteem",
+   "Physiological",
+   "Self-actualisation",
+   "Safety",
+   "Love and belonging"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (3) (B), (D), (E), (A), (C).**\n\nMaslow's hierarchy: physiological → safety → love and belonging → esteem → self-actualisation."
+ },
+ {
+  "id": "YOGA-PRAC13-045",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 45,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: memory and cognition",
+  "question_type": "mcq",
+  "question_text": "The multi-store model of memory (sensory, short-term and long-term stores) was proposed by:",
+  "options": [
+   "Baddeley and Hitch",
+   "Craik and Lockhart",
+   "Hermann Ebbinghaus",
+   "Atkinson and Shiffrin"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Atkinson and Shiffrin.**\n\nAtkinson and Shiffrin (1968). Baddeley and Hitch proposed working memory; Craik and Lockhart levels of processing; Ebbinghaus the forgetting curve."
+ },
+ {
+  "id": "YOGA-PRAC13-046",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 46,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "question_type": "match",
+  "question_text": "Match the psychologist with his concept.",
+  "options": [
+   "A-iii, B-iv, C-ii, D-i",
+   "A-iv, B-iii, C-ii, D-i",
+   "A-iii, B-ii, C-iv, D-i",
+   "A-iii, B-iv, C-i, D-ii"
+  ],
+  "correct_answer": 1,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Carl Jung",
+     "Hans Eysenck",
+     "Sigmund Freud",
+     "Gordon Allport"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Cardinal, central and secondary traits",
+     "Id, ego and superego",
+     "Introversion and extraversion as attitudes",
+     "Extraversion, neuroticism and psychoticism"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (1) A-iii, B-iv, C-ii, D-i.**\n\nJung: introversion/extraversion; Eysenck: E, N and P dimensions; Freud: id, ego and superego; Allport: cardinal, central and secondary traits."
+ },
+ {
+  "id": "YOGA-PRAC13-047",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 47,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies",
+  "question_type": "match",
+  "question_text": "Match the vitamin with the disease its deficiency causes.",
+  "options": [
+   "A-iv, B-iii, C-i, D-ii",
+   "A-iii, B-iv, C-i, D-ii",
+   "A-iii, B-i, C-iv, D-ii",
+   "A-i, B-iv, C-iii, D-ii"
+  ],
+  "correct_answer": 2,
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Vitamin B1 (thiamine)",
+     "Vitamin C",
+     "Vitamin B12",
+     "Vitamin D"
+    ]
+   },
+   "list_ii": {
+    "title": "List II",
+    "style": "roman",
+    "items": [
+     "Pernicious anaemia",
+     "Rickets",
+     "Beriberi",
+     "Scurvy"
+    ]
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "detailed_explanation": "**Answer: (2) A-iii, B-iv, C-i, D-ii.**\n\nThiamine → beriberi; vitamin C → scurvy; B12 → pernicious anaemia; vitamin D → rickets (osteomalacia in adults)."
+ },
+ {
+  "id": "YOGA-PRAC13-048",
+  "subject": "yoga",
+  "paper": "Paper 2",
+  "question_no": 48,
+  "source": {
+   "type": "practice",
+   "note": "Practice set 18 (Therapeutic yoga, applications of yoga, practical yoga and allied sciences). Written fresh for this app in NTA's pattern from standard references; not taken from any book or quiz sheet."
+  },
+  "answer_source": "unverified",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: energy and metabolism",
+  "question_type": "mcq",
+  "question_text": "About how much energy does 1 g of fat provide?",
+  "options": [
+   "4 kcal",
+   "7 kcal",
+   "9 kcal",
+   "17 kcal"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 9 kcal.**\n\nFat gives about 9 kcal per gram; carbohydrate and protein about 4 kcal per gram; alcohol about 7 kcal per gram."
+ }
+]
