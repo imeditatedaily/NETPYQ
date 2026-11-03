@@ -19,7 +19,9 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 | Paper | Questions | Answers |
 |---|---|---|
 | UGC NET (CBSE) January 2017, Yoga Paper II (booklet JA-100-17, English version) | 50 | Worked out from the primary texts and matched against a published solved-papers key. All 50 now match it (Q43 and Q44 were confirmed against the collection's Hindi edition). |
+| UGC NET (CBSE) January 2017, Yoga **Paper III** (booklet JA-100-17, English version) | 72 | From the **official question booklet** on ugcnetonline.in. No official key was available, so answers are worked out from the primary texts and marked *unverified*; less certain ones say *provisional*. Q27, Q52 and Q65 are left out (reasons in the source note). |
 | UGC NET (CBSE) November 2017, Yoga Paper II, **Hindi** | 44 | From a published solved-papers collection (admins only). Answers worked out from the texts and checked against its key; six items left out. |
+| UGC NET (CBSE) November 2017, Yoga **Paper III** (booklet N-10017, English version) | 72 | From the **official question booklet** on ugcnetonline.in, with the reading passage. Answers worked out from the primary texts and marked *unverified*. Q23, Q30 and Q52 are left out (reasons in the source note). |
 | UGC NET (CBSE) July 2018, Yoga Paper II, **Hindi** | 87 | From the same collection (admins only); thirteen garbled or disputed items left out. |
 | UGC NET (NTA) December 2018, Yoga Paper 2, **Hindi** | 80 | From the same collection (admins only), with both reading passages. Q12 and Q26 were cancelled by NTA; eighteen garbled or unsettled items left out. |
 | UGC NET June 2019, Yoga Paper 2, **Hindi** | 93 | The original NTA response sheet, question numbers as printed, both passages kept. 64 answers match the published solved-papers key (*cross-checked*); the rest are worked out and *unverified*. Seven items are left out: three are flawed (Q48, Q77, Q95) and four could not be settled (Q49, Q68, Q73, Q89). |
@@ -54,7 +56,7 @@ Each question keeps the booklet's wording, numbering and labels (List I in Roman
 
 **Trend analysis.** The Trend Insight box has two parts.
 
-- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017, November 2017, July 2018, December 2018, June 2019, December 2019, June 2021, December 2022, June 2023, December 2023 (partial), June 2024 (the cancelled paper and the September re-exam) and June 2025; for Paper 1, July 2016 to December 2018, December 2022, June 2023 and June 2025.
+- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017 (Papers II and III), November 2017 (Papers II and III), July 2018, December 2018, June 2019, December 2019, June 2021, December 2022, June 2023, December 2023 (partial), June 2024 (the cancelled paper and the September re-exam) and June 2025; for Paper 1, July 2016 to December 2018, December 2022, June 2023 and June 2025.
 - **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
 
 As more papers go in, the following update automatically:

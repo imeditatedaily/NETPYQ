@@ -1,0 +1,2324 @@
+[
+ {
+  "id": "YOGA-2017JAN-P3-Q01",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Who has advocated “Ārya Ashtāngika Mārga” ?",
+  "options": [
+   "Kapil",
+   "Buddha",
+   "Patanjali",
+   "Vashishtha"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Buddha.**\n\nThe *ārya aṣṭāṅgika mārga* (Noble Eightfold Path) is the fourth noble truth of the Buddha: right view, intention, speech, action, livelihood, effort, mindfulness and concentration. It is taught in the first sermon at Sārnāth, the *Dhammacakkappavattana Sutta*.\n\nPatañjali's path is also eight-limbed (*aṣṭāṅga yoga*), which is why he is the trap. Kapila is the founder of Sāṃkhya.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism",
+  "source_ids": [
+   "rhys-davids-1881-buddhist-suttas"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q02",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not included under ten principal Upanishads ?",
+  "options": [
+   "Kenopanishad",
+   "Mundakopanishad",
+   "Svetāshvataropanishad",
+   "Brihadāranyakopanishad"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Śvetāśvataropaniṣad.**\n\nThe ten principal Upaniṣads commented on by Śaṅkara are Īśa, Kena, Kaṭha, Praśna, Muṇḍaka, Māṇḍūkya, Taittirīya, Aitareya, Chāndogya and Bṛhadāraṇyaka.\n\nThe Śvetāśvatara is old and important (its chapter 2 is on yoga), and it is often added as an eleventh, but it is not in the ten.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Principal Upanishads: themes",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q03",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following denotes the ‘Kshetra’ and ‘Kshetrajna’ ?",
+  "options": [
+   "Prakriti & Purusha",
+   "Soul & God",
+   "Maya & Brahman",
+   "Jagat & Jeeva"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Prakṛti & Puruṣa.**\n\nGītā ch. 13 (*Kṣetra-kṣetrajña-vibhāga-yoga*): the body is called the *kṣetra* (field), and the one who knows it is the *kṣetrajña* (knower of the field) (13.1). The chapter then restates the pair as **prakṛti and puruṣa**, both beginningless (13.19–20).",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q04",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Who is ‘Yaksha’ according to Kenopanishad ?",
+  "options": [
+   "Indra",
+   "Brahman",
+   "Agni",
+   "Vayu"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Brahman.**\n\nKena Upaniṣad, part 3: after a victory the gods grew proud. **Brahman** appeared before them as a mysterious *yakṣa* (a wondrous being). Agni could not burn a blade of grass it placed before him, and Vāyu could not blow it away. When Indra approached, the yakṣa vanished and Umā Haimavatī told him it was Brahman.\n\nAgni, Vāyu and Indra are the gods who failed to recognise it.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Kena Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q05",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is ‘Udgeetha’ ?",
+  "options": [
+   "Prana",
+   "Moon",
+   "Sun",
+   "Pranava"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Praṇava (Om).**\n\nThe Chāndogya opens: *om ity etad akṣaram udgītham upāsīta* (1.1.1). \"One should meditate on the syllable Om as the udgītha\", the part of the Sāma chant sung by the udgātṛ priest.\n\nLater sections also meditate on the udgītha *as* prāṇa (1.2) and *as* the sun (1.3), which is why those options appear. The udgītha itself is identified with Om.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q06",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Who does not attain the state of serenity (Shanti) according to Bhagawadgeeta ?",
+  "options": [
+   "Desireless person",
+   "Egoless person",
+   "Karmāyogi",
+   "Scholar"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Scholar** (provisional).\n\nThe Gītā promises *śānti* to:\n- the desireless and egoless: *vihāya kāmān yaḥ sarvān … nirmamo nirahaṅkāraḥ sa śāntim adhigacchati* (2.71)\n- the karma-yogin who gives up the fruit of action: *yuktaḥ karmaphalaṃ tyaktvā śāntim āpnoti naiṣṭhikīm* (5.12)\n\nLearning alone is never named as a way to peace. Without steadiness of mind there is no peace (*na cāyuktasya bhāvanā … aśāntasya kutaḥ sukham*, 2.66), so the \"scholar\" is the intended odd one out.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "source_ids": [
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q07",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Ādhyātma Prasāda is the result of",
+  "options": [
+   "Vivekākhyati",
+   "Nirvichara Samāpatti",
+   "Asamprajnāta Samadhi",
+   "Dharmamegha Samādhi"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Nirvicāra samāpatti.**\n\nYS 1.47: *nirvicāra-vaiśāradye 'dhyātma-prasādaḥ*. When nirvicāra samāpatti becomes clear and undisturbed, there is **inner clarity** (*adhyātma-prasāda*). In it arises *ṛtambharā prajñā*, truth-bearing insight (1.48).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q08",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The components of Prakriti Tattva according to Samkhya Shāshtra are",
+  "options": [
+   "Vāta, Kapha and Pitta",
+   "Sattva, Rajas and Tamas",
+   "Manas, Buddhi and Ahankāra",
+   "Vāk, Pāni and Pāyu"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sattva, rajas and tamas.**\n\nIn Sāṃkhya, *mūla-prakṛti* is the state of equilibrium of the three **guṇas** (*sattva-rajas-tamasāṃ sāmyāvasthā prakṛtiḥ*), described in Sāṃkhya Kārikā 11–13.\n\nThe other options are evolutes or other systems:\n- manas, buddhi and ahaṅkāra are the inner instrument\n- vāk, pāṇi and pāyu are organs of action\n- vāta, pitta and kapha are Āyurveda's doṣas",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "source_ids": [
+   "colebrooke-wilson-1837-sankhya-karika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q09",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many limbs of Yoga are mentioned in Siddhasiddhant Paddhati’ ?",
+  "options": [
+   "07",
+   "08",
+   "04",
+   "03"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 08.**\n\nSSP upadeśa 2 teaches an **eight-limbed yoga**: yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna and samādhi. Its definitions differ from Patañjali's: for example, yama is mastery of the senses, food, sleep, cold, wind and heat.\n\nSeven is the Gheraṇḍa Saṃhitā's count, and six (ṣaḍaṅga) is that of the Gorakṣa Śataka and several Yoga Upaniṣads.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q10",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many types of Kundalini by nature are described in Siddha Siddhānt Paddhati ?",
+  "options": [
+   "04",
+   "03",
+   "02",
+   "06"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 02.**\n\nSSP 4.14: as the support of the body, śakti is called **kuṇḍalinī**. By nature it is of **two kinds**: *aprabuddhā* (asleep, coiled) and *prabuddhā* (awakened).\n\nSSP 4.17 also names three kuṇḍalinīs by **location**: *adhaḥ* (lower, at the mūlādhāra), *madhya* (middle, at the heart) and *ūrdhva* (upper, at the crown). That is why \"03\" is the trap: the question asks about nature, not place.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q11",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which one of the following is not included in elements of success according to Shiva Samhita ?",
+  "options": [
+   "Firm belief",
+   "Restraint of sense organs",
+   "Sacrifice",
+   "Mitāhāra"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sacrifice.**\n\nŚiva Saṃhitā ch. 3 gives the signs that success will come, in order:\n1. firm belief that it will succeed\n2. faith (*śraddhā*)\n3. reverence for the guru\n4. equanimity\n5. restraint of the senses\n6. moderate diet (*mitāhāra*)\n\nThere is no seventh. Sacrifice (*tyāga*) is not in the list.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shiva Samhita",
+  "source_ids": [
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q12",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many ‘Adhāras’ are described in ‘Siddha Siddhānt Paddhati’ under ‘Pinda-Vichār’ ?",
+  "options": [
+   "05",
+   "09",
+   "16",
+   "07"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 16.**\n\nSSP upadeśa 2 (*piṇḍa-vicāra*) examines the body through **nine cakras, sixteen ādhāras, three lakṣyas and five vyomas**. The sixteen ādhāras (supports for fixing the mind) begin with the big toe.\n\nNine is the count of cakras and five of vyomas, the usual distractors.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Siddha Siddhanta Paddhati",
+  "source_ids": [
+   "mallik-1954-siddha-siddhanta-paddhati"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q13",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many Shodhan Kriyas are described in Hatha Ratnāvali ?",
+  "options": [
+   "07",
+   "08",
+   "06",
+   "04"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 08.**\n\nŚrīnivāsa's Haṭharatnāvalī teaches an ***aṣṭakarma***, eight cleansing acts. It adds **cakrī karma** and **gajakaraṇī** to the six of the Haṭha Pradīpikā (dhauti, basti, neti, trāṭaka, nauli, kapālabhāti). In the HP, gajakaraṇī is only mentioned beside dhauti.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "source_ids": [
+   "hatharatnavali-hindi"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q14",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which hormone plays an important role in ‘fight-or-flight’ response in the body ?",
+  "options": [
+   "Adrenaline",
+   "Noradrenaline",
+   "Growth hormone",
+   "Glucagon"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Adrenaline.**\n\nIn acute stress the sympathetic system makes the **adrenal medulla** release **adrenaline (epinephrine)**, which raises heart rate, blood pressure, blood glucose and blood flow to the muscles. Cannon called this the fight-or-flight response.\n\nNoradrenaline is mainly the sympathetic neurotransmitter and is released with it, but adrenaline is the classic hormone of the response.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q15",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The study of ‘Circadian Rhythms’ is called",
+  "options": [
+   "Endocrinology",
+   "Chronobiology",
+   "Microbiology",
+   "Cell Biology"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Chronobiology.**\n\nChronobiology studies biological rhythms. **Circadian** rhythms (*circa diem*, about a day) are set by the suprachiasmatic nucleus of the hypothalamus and drive, for example, melatonin release at night and the morning rise of cortisol.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q16",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The richest food source of calcium is",
+  "options": [
+   "Milk",
+   "Spinach",
+   "Banana",
+   "Rāgi"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Rāgi (finger millet).**\n\nPer 100 g, rāgi gives about **340–360 mg** of calcium, the highest of all cereals. Cow's milk gives about 120 mg, and banana very little.\n\nSpinach has calcium, but much of it is bound by oxalate and poorly absorbed.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q17",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The positive attitude, happiness, lightedness, spiritual awakening and consciousness are the characteristics of",
+  "options": [
+   "Rajo Guna",
+   "Satva Guna",
+   "Rajo and Tamo Guna",
+   "Tamo Guna"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sattva guṇa.**\n\nSattva is light (*laghu*) and illuminating (*prakāśaka*) (Sāṃkhya Kārikā 13). It binds through attachment to happiness and knowledge (Gītā 14.6). Clarity, cheerfulness and awakening are its marks.\n\nRajas brings activity and craving, and tamas brings heaviness and inertia.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "source_ids": [
+   "colebrooke-wilson-1837-sankhya-karika",
+   "telang-1882-bhagavadgita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q18",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What do you understand by the term ‘Adhi’ ?",
+  "options": [
+   "Physical disorders originated in Annamaya Kosha.",
+   "Mental/Emotional disorders originated in Manomaya Kosha.",
+   "Mental/Emotional disorders originated in Annamaya Kosha.",
+   "Physical disorders originated in Manomaya Kosha."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mental/emotional disorders originating in the manomaya kośa.**\n\nThe Yoga Vāsiṣṭha distinguishes **ādhi** (mental disturbance) from **vyādhi** (bodily disease), and says ādhi gives rise to vyādhi. S-VYASA's integrated approach places ādhi in the **manomaya kośa**, from where it spreads to the prāṇamaya and annamaya kośas as psychosomatic disease.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "source_ids": [
+   "mitra-yoga-vasishtha"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q19",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The part of Nervous system responsible for “Rest and Digest” response in body is",
+  "options": [
+   "Parasympathetic Nervous System",
+   "Sympathetic Nervous System",
+   "Central Nervous System",
+   "Autonomic Nervous System"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Parasympathetic nervous system.**\n\nThe parasympathetic division (mainly the vagus nerve) slows the heart, constricts the pupils and increases digestion and secretion: \"rest and digest\".\n\nThe sympathetic division drives \"fight or flight\". Both are parts of the autonomic nervous system, so \"ANS\" is too broad.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q20",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Combinations of which of the following medical conditions found in Metabolic syndrome ?",
+  "options": [
+   "Abdominal obesity, Elevated Blood Pressure, Low HDL",
+   "Elevated Blood Pressure, High HDL",
+   "Abdominal Obesity, High HDL (High-Density Lipoprotein)",
+   "Elevated Fasting Plasma Glucose, High HDL"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Abdominal obesity, elevated blood pressure, low HDL.**\n\nMetabolic syndrome is diagnosed when three of five are present:\n- abdominal (central) obesity\n- high blood pressure\n- high fasting glucose\n- high triglycerides\n- **low** HDL cholesterol\n\nEvery other option includes *high* HDL, which is protective, not a criterion.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q21",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which one of the following is not the proved effect of Meditation ?",
+  "options": [
+   "Decreases Stress",
+   "Normalises Blood Pressure",
+   "Normalises Blood Sugar",
+   "Increases Cortisol"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Increases cortisol.**\n\nStudies of meditation report lower perceived stress, lower blood pressure and better glycaemic control, and generally **lower** (not higher) cortisol, the main stress hormone of the HPA axis.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q22",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The length of Sutra Neti according to Hatha Pradeepika and Gherand Samhita is",
+  "options": [
+   "Two Bālishta (Approximate 1 ½ feet)",
+   "One Bālishta (Approximate 9 inches)",
+   "Half Bālishta (Approximate 4 ½ inches)",
+   "One and Half Bālishta (Approximate 13 ½ inches)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) One bālishta (about 9 inches).**\n\nHP 2.29: *sūtraṃ vitasti-susnigdhaṃ nāsānāle praveśayet*: a smooth thread **one vitasti** (a span, about 9 inches) long is passed into the nostril. GS 1.50 also gives a fine thread one vitasti long.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika",
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q23",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which disease condition sutraneti is not beneficial according to Hatha Pradeepika ?",
+  "options": [
+   "Eye related disorder",
+   "Kapāl Shuddhi",
+   "Diseases above the clavicle",
+   "Hyper Acidity"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Hyperacidity.**\n\nHP 2.30: *kapāla-śodhinī caiva divya-dṛṣṭi-pradāyinī | jatrūrdhva-jāta-rogaughaṃ netir āśu nihanti ca*. Neti cleanses the skull, gives keen sight and quickly destroys the diseases above the collar bones.\n\nAcidity is a digestive complaint; HP prescribes dhauti, not neti, for such disorders.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q24",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The length of Vastra Dhauti according to Hatha Pradeepika is",
+  "options": [
+   "7½ ft. (Approximate)",
+   "15 ft. (Approximate)",
+   "22½ ft. (Approximate)",
+   "26 ft. (Approximate)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 22½ ft (approximately).**\n\nHP 2.24: *catur-aṅgula-vistāraṃ hasta-pañcadaśāyatam*: a cloth four fingers wide and **15 hastas** long. A hasta (elbow to fingertip) is about 1½ ft, so 15 hastas ≈ 22½ ft.\n\n\"15 ft\" is the trap: it reads hastas as feet. The Haṭharatnāvalī gives 20 hastas.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q25",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not mentioned as benefit of Pashchimottānasana according to Hatha Pradeepika ?",
+  "options": [
+   "Reduces Hyper Acidity",
+   "Reduces fat on belly",
+   "Prana enters in Sushumna",
+   "Increases gastric fire"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Reduces hyperacidity.**\n\nHP 1.29: *iti paścimatānam āsanāgryaṃ pavanaṃ paścima-vāhinaṃ karoti | udayaṃ jaṭharānalasya kuryād udare kārśyam arogatāṃ ca puṃsām*. Paścimottāna:\n- makes the breath flow in the \"western\" channel (suṣumnā)\n- kindles the gastric fire\n- slims the abdomen\n- gives freedom from disease\n\nAcidity is not mentioned.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Asanas in Hatha texts",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q26",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not a factor influencing teaching ?",
+  "options": [
+   "Teacher",
+   "Student",
+   "Environment",
+   "Social status of a teacher"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Social status of a teacher.**\n\nTeaching is shaped by the teacher (knowledge, skill, personality), the learner (ability, interest, readiness) and the environment (classroom, materials, climate). The teacher's social standing is not a factor of teaching.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q28",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When the question and answer session shall be held during a Yoga practical teaching ?",
+  "options": [
+   "Beginning of the class",
+   "After introducing the practice",
+   "After Group practice",
+   "End of the lesson"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) After introducing the practice** (provisional).\n\nIn the practical lesson taught by Kaivalyadhama (Gharote and Ganguly), the teacher introduces the practice, demonstrates it, gives its salient points, benefits and precautions, and **then invites questions** before the students practise and are corrected. Doubts are cleared before practice, so mistakes are not rehearsed.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "source_ids": [
+   "gharote-ganguly-teaching-methods"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q29",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "For small groups, the effective seating arrangement in teaching yoga is –",
+  "options": [
+   "Semi circular",
+   "Circular",
+   "Row",
+   "Column"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Semi-circular** (provisional).\n\nWith a small group, a semicircle facing the teacher lets every student see the demonstration from the front and lets the teacher see every student.\n\nIn a full circle some students see the teacher from behind. Rows and columns (staggered) are used for large classes.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q30",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The pramānas according to Patanjali are :",
+  "items": [
+   "Anumāna",
+   "Pratyaksha",
+   "Vikalpa",
+   "Āgama"
+  ],
+  "item_style": "letters",
+  "prompt": "Use the code given below for correct answer. Codes :",
+  "options": [
+   "(a), (b), (c) are correct, (d) is not correct.",
+   "(b), (a), (d) are correct, (c) is not correct.",
+   "(d), (c), (b) are correct, (a) is not correct.",
+   "(c), (d), (a) are correct, (b) is not correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (b), (a), (d) correct; (c) not correct.**\n\nYS 1.7: *pratyakṣānumānāgamāḥ pramāṇāni*. The pramāṇas are perception, inference and testimony (āgama).\n\n**Vikalpa** (verbal imagination, 1.9) is a separate vṛtti, not a pramāṇa.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Chitta-bhumis and chitta-vrittis",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q31",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to Pātanjala Yoga Sutra, the accomplishments may be attained through",
+  "items": [
+   "Aushadhi",
+   "Shaktipāta",
+   "Tapa",
+   "Samādhi"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "II, III & IV are correct.",
+   "I, III & IV are correct.",
+   "I, II & III are correct.",
+   "I, II & IV are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I, III & IV.**\n\nYS 4.1: *janmauṣadhi-mantra-tapaḥ-samādhijāḥ siddhayaḥ*. Siddhis come from birth, **herbs (auṣadhi)**, mantra, **tapas** and **samādhi**.\n\n*Śaktipāta* (transmission of power by a guru) is a tantric idea, not one of Patañjali's five sources.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q32",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The following are Upa Prana Vayus :",
+  "items": [
+   "Krikar",
+   "Makar",
+   "Kūrma",
+   "Bhujangini"
+  ],
+  "item_style": "roman",
+  "prompt": "Find the correct combination according to the codes :",
+  "options": [
+   "I and II are correct.",
+   "II, IV and I are correct.",
+   "I and III are correct.",
+   "III, IV and I are correct."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I and III.**\n\nThe five upaprāṇas are **nāga** (belching), **kūrma** (blinking), **kṛkara** (hunger, sneezing), **devadatta** (yawning) and **dhanañjaya** (stays after death), as in Śiva Saṃhitā ch. 3 and GS 5.\n\nKṛkara (I) and kūrma (III) are in the list. \"Makara\" and \"Bhujaṅginī\" are not vāyus.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita",
+   "vasu-1914-siva-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q33",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The major sources of frustration are",
+  "items": [
+   "Environmental factors",
+   "Personal factors",
+   "Conflict",
+   "Positive goals"
+  ],
+  "item_style": "roman",
+  "prompt": "Find the correct combination according to the codes. Codes :",
+  "options": [
+   "IV, II and I are correct.",
+   "III, II and I are correct.",
+   "II, III and IV are correct.",
+   "I, III and IV are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) III, II and I.**\n\nFrustration arises when a goal is blocked. Its sources are:\n- **environmental** (physical or social obstacles)\n- **personal** (one's own limits or defects)\n- **conflict** between motives (approach–approach, approach–avoidance, avoidance–avoidance)\n\nA positive goal is what is being blocked, not a source of frustration.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: mental health and disorders"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q34",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The hormones secreted by Pancrease are",
+  "items": [
+   "Somatostatin",
+   "Glucagon",
+   "Cortisol",
+   "Epinephrine"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "I and III are correct.",
+   "I and II are correct.",
+   "II and IV are correct.",
+   "II and III are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I and II.**\n\nThe islets of Langerhans secrete:\n- **glucagon** (α cells)\n- insulin (β cells)\n- **somatostatin** (δ cells)\n- pancreatic polypeptide\n\nCortisol comes from the adrenal cortex, and epinephrine from the adrenal medulla.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q35",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The proximate principles of our food are",
+  "items": [
+   "Proteins",
+   "Minerals",
+   "Fats",
+   "Vitamins"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "I and II are correct.",
+   "I and III are correct.",
+   "II and IV are correct.",
+   "II and III are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I and III.**\n\nThe **proximate principles** are the nutrients that make up the bulk of food and are measured by proximate analysis: **carbohydrates, proteins and fats** (with water).\n\nMinerals and vitamins are micronutrients, needed in small amounts.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q36",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to Ayurveda, the main factors for causation of any disease are :",
+  "items": [
+   "Sātmyendriyārtha samyoga",
+   "Pragyāparadha",
+   "Parināma",
+   "Dosha Samyata"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "II and III are correct.",
+   "I and II are correct.",
+   "I and III are correct.",
+   "II and IV are correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) II and III.**\n\nCaraka (Sūtra 11.43) gives three causes of disease (*trividha roga-hetu*):\n- ***a**sātmyendriyārtha-saṃyoga*: unwholesome contact of the senses with their objects\n- ***prajñāparādha***: an error of the intellect\n- ***pariṇāma***: time and season\n\nItem I as printed is *sātmya* (wholesome) contact, which is health, not a cause of disease. Doṣa *samyatā* (balance) is also health. That leaves II and III.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Concepts of health (WHO, Ayurveda)",
+  "source_ids": [
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q37",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which qualities of food are useful for the persons of vāta predominant prakriti ?",
+  "items": [
+   "Sheeta",
+   "Madhura",
+   "Ushna",
+   "Laghu"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "I and II are correct.",
+   "II and IV are correct.",
+   "I and IV are correct.",
+   "II and III are correct."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) II and III.**\n\nVāta is dry, light, cold, rough, subtle and mobile (*rūkṣa, laghu, śīta, khara, sūkṣma, cala*). It is balanced by the opposite qualities: unctuous, heavy and **warm (uṣṇa)** food, with the **sweet (madhura)**, sour and salty tastes.\n\nCold and light food aggravate vāta.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q38",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which yogic practices are beneficial for patients of Hyperacidity.",
+  "items": [
+   "Dhauti",
+   "Kapālabhāti",
+   "Pashchimottānāsana",
+   "Nadi Shodhana"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the code given below for correct answer : Codes :",
+  "options": [
+   "I and II are correct.",
+   "I and IV are correct.",
+   "II and IV are correct.",
+   "III and IV are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I and IV** (provisional).\n\nFor hyperacidity, therapy texts use:\n- **dhauti**, especially kuñjala or vamana dhauti, which washes out excess acid\n- calming breath work such as **nāḍī-śodhana**, which counters the stress that worsens acidity\n\nKapālabhāti and strong forward bends such as paścimottānāsana stimulate the gastric fire and press on the stomach. They are usually avoided in acute acidity.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q39",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Main Musculo Skeletal disorders are",
+  "items": [
+   "Spondylosis",
+   "Arthritis",
+   "Epilepsy",
+   "Parkinson’s disease"
+  ],
+  "item_style": "roman",
+  "prompt": "Find the correct combination according to the code : Codes :",
+  "options": [
+   "I and III are correct.",
+   "I and IV are correct.",
+   "I and II are correct.",
+   "I, II and III are correct."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I and II.**\n\n**Spondylosis** (degeneration of the spine) and **arthritis** (joint inflammation) are musculoskeletal disorders.\n\nEpilepsy and Parkinson's disease are disorders of the nervous system.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q40",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The stimulation of parasympathic nervous system causes :",
+  "items": [
+   "Increase in Heart rate",
+   "Increase in Anxiety level",
+   "Decrease in Heart rate",
+   "Muscles relaxation"
+  ],
+  "item_style": "roman",
+  "prompt": "Codes :",
+  "options": [
+   "I and II are correct.",
+   "III and IV are correct.",
+   "II and III are correct.",
+   "I and III are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) III and IV.**\n\nParasympathetic activity slows the heart (**decreased heart rate**) and brings **relaxation**. A faster heart and anxiety belong to sympathetic arousal.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q41",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Yogic practices recommended for anxiety management as per research evidences are :",
+  "items": [
+   "Bhrāmari prānāyāma",
+   "Bhujangāsana",
+   "Shavāsana",
+   "Paschimottānāsana"
+  ],
+  "item_style": "roman",
+  "prompt": "The correct combination according to the codes : Codes :",
+  "options": [
+   "III and IV are correct.",
+   "IV and I are correct.",
+   "I, II and III are correct.",
+   "I, II and IV are correct."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I, II and III** (provisional).\n\n**Bhrāmarī** (humming exhalation) and **śavāsana** (deep relaxation) are the practices most often studied and recommended for anxiety. Gentle backbends such as **bhujaṅgāsana** appear in anxiety modules as practices that open the chest.\n\nOnly option (3) contains both bhrāmarī and śavāsana.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: psychiatric disorders"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q42",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The characteristics of Tamasika personality of an individual are :",
+  "items": [
+   "Detached",
+   "Active",
+   "Greedy",
+   "Lack of Enlightenment"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "I and II are correct.",
+   "II and III are correct.",
+   "II and IV are correct.",
+   "III and IV are correct."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) III and IV** (provisional).\n\nTamas is marked by **darkness or lack of enlightenment** (*aprakāśa*), inactivity, negligence and delusion (Gītā 14.13). Caraka's tāmasa types (Śārīra 4.39) are marked by dullness and **greed**, especially for food.\n\n\"Active\" is rājasa, and \"detached\" is sāttvika. The Gītā puts greed under rajas (14.12), so \"greedy\" is the weak point of the key: it holds only on the Caraka reading.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories",
+  "source_ids": [
+   "telang-1882-bhagavadgita",
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q43",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are types of developmental theories of personality ?",
+  "items": [
+   "Type theory",
+   "Learning theory",
+   "Psychoanalytic theory",
+   "Factor analysis theory"
+  ],
+  "item_style": "roman",
+  "prompt": "Use codes given below for correct answer : Codes :",
+  "options": [
+   "I and II are correct.",
+   "II and III are correct.",
+   "III and IV are correct.",
+   "IV and I are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) II and III.**\n\nDevelopmental theories explain how personality **forms over time**:\n- **psychoanalytic** theory (Freud's psychosexual stages, Erikson's psychosocial stages)\n- **learning** theory (personality shaped by conditioning and imitation)\n\nType theories (e.g. Sheldon, Jung's types) and factor-analytic trait theories (Cattell, Eysenck) *describe* personality structure rather than its development.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: personality theories"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q44",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the techniques are applicable in Moolabandha according to Hatha Pradeepika ?",
+  "items": [
+   "Contraction of abdomen",
+   "Pressing anus by heel",
+   "Contraction of Perineum",
+   "Contraction of Chest"
+  ],
+  "item_style": "roman",
+  "prompt": "Codes :",
+  "options": [
+   "I and II are correct.",
+   "II and III are correct.",
+   "III and IV are correct.",
+   "IV and I are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) II and III.**\n\nHP 3.61: *pārṣṇi-bhāgena sampīḍya yonim ākuñcayed gudam | apānam ūrdhvam ākṛṣya mūlabandho 'bhidhīyate*. Pressing the perineum with the heel and contracting the anus, so that apāna is drawn up, is mūlabandha.\n\nThe booklet's items swap the places (heel on the anus, contraction of the perineum), but the pair of heel-pressure and contraction is mūlabandha. Contracting the abdomen is uḍḍīyāna, and the chest is not involved.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q45",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Vastra Dhauti is beneficiary in the following diseases according to Hatha Pradeepika ?",
+  "items": [
+   "Vataja disorders",
+   "Kaphaja disorders",
+   "Skin disorder",
+   "Eye diseases"
+  ],
+  "item_style": "roman",
+  "prompt": "Codes :",
+  "options": [
+   "I and II are correct.",
+   "II and III are correct.",
+   "III and IV are correct.",
+   "I and IV are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) II and III.**\n\nHP 2.25: *kāsa-śvāsa-plīha-kuṣṭhaṃ kapharogāś ca viṃśatiḥ | dhauti-karma-prabhāvena prayānty eva na saṃśayaḥ*. Dhauti removes cough, asthma, spleen disorders, **skin disease (kuṣṭha)** and the **twenty kapha disorders**.\n\nEye diseases belong to neti and trāṭaka.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q46",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The means of Jnāna-yoga are :",
+  "items": [
+   "Keertana",
+   "Shravana",
+   "Manana",
+   "Nidhidhyāsana"
+  ],
+  "item_style": "roman",
+  "prompt": "Find the correct combination according to the code : Codes :",
+  "options": [
+   "I, II and III are correct.",
+   "II, III and IV are correct.",
+   "III, IV and I are correct.",
+   "IV, I and II are correct."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) II, III and IV.**\n\nThe Bṛhadāraṇyaka (2.4.5) says *ātmā vā are draṣṭavyaḥ śrotavyo mantavyo nididhyāsitavyaḥ*: the self is to be heard of, reflected on and meditated on. Vedānta's three means of knowledge are **śravaṇa, manana and nididhyāsana**.\n\n*Kīrtana* (singing God's names) belongs to bhakti.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Vedanta: acharyas and Prasthanatrayi",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q47",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "The very purpose of practice of āsana is to overcome conflicts (Dvandvas).",
+  "reason": "Asanas are practices only for the prevention of disease and to keep fit.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3)** (A) true, (R) false.\n\nYS 2.48: *tato dvandvānabhighātaḥ*. Once āsana is mastered, the pairs of opposites (heat and cold, pleasure and pain) no longer assail the practitioner.\n\n(R) is false because of \"only\": in yoga, āsana prepares body and mind for prāṇāyāma and meditation, not just health and fitness.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q48",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "Vitamins are required in small amount in body and they are important constituents of Balanced diet.",
+  "reason": "Vitamins do not supply energy but play an important role in regulation of metabolic activities and help in utilization of proteins, fats and carbohydrates.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A) (provisional).\n\nVitamins are micronutrients: they give no calories, but many act as **coenzymes** in the metabolism of carbohydrate, fat and protein (e.g. the B vitamins). That regulating role is why they are indispensable in a balanced diet even in small amounts. Some keys read this as (2), so treat the answer as provisional.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q49",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "The basic aim of Yoga is self-realization and ultimate liberation.",
+  "reason": "The constant practice of eight steps of Yoga does not helps & control our body and mind, so as to reach the final goal of liberation.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3)** (A) true, (R) false.\n\nThe goal of yoga is kaivalya, liberation through realising the self (YS 4.34). The eight limbs are the means to it: practising them destroys impurity and brings discriminative knowledge (YS 2.28).\n\nSo (R)'s \"does not help\" is false.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Etymology and definitions of Yoga",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q50",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "Mandukasana should be a contraindicated for the patient of osteoarthritis of knee joint.",
+  "reason": "Asanas involving excessive bending of knees can be difficult and painful on the joints and aggravate the knee problems.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A).\n\nMaṇḍūkāsana is done sitting on folded knees (in vajrāsana), which puts full flexion and load on the knee. In osteoarthritis of the knee, deep flexion is painful and can worsen the joint. That is exactly why the āsana is contraindicated.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: musculoskeletal disorders"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q51",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 51,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "Matsyendrasana is the best Yoga Practice for control of Diabetes.",
+  "reason": "Matsyendrasana compresses the abdomen and twist the spine to stimulate the functioning of pancreas and thereby helps to control diabetes.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4)** (A) false, (R) true (provisional).\n\n(R) is the standard rationale given for ardha-matsyendrāsana in diabetes: the twist compresses the abdomen and is said to stimulate the pancreas.\n\n(A) overclaims. No single āsana is \"the best\" for diabetes. Management combines a group of practices (āsanas, prāṇāyāma, relaxation, kriyās) with diet. The word \"best\" is what makes (A) false.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q53",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "By the practice of pranayama, the mind can attain the capability for Dhārana.",
+  "reason": "Pranayam is a technique of voluntary regulation and control of breathing which enables the mind for practicing Dhārana.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1)** Both true, and (R) explains (A).\n\nYS 2.52–53: through prāṇāyāma the covering of the inner light is thinned, and *dhāraṇāsu ca yogyatā manasaḥ*: the mind becomes fit for dhāraṇā.\n\n(R) restates the mechanism: regulating the breath steadies the mind, which is what makes concentration possible.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Pranayama in the Yoga Sutra",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q54",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 54,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements, an Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "Practice of meditation relieves stress.",
+  "reason": "Various researches proved that practice of meditation increases the secretion of stress hormone (cortisol), relaxes the mind and thereby relieves the stress.",
+  "prompt": "In the context of above two statements, which one of the following is correct ?",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3)** (A) true, (R) false.\n\nMeditation does relieve stress. But research shows it **lowers** cortisol, the stress hormone. A rise in cortisol would mean more stress, so (R) is false.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Scientific study of meditation"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q55",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Four foundations of mindfulness, according to Buddhist meditation technique are : Arrange them in descending order :",
+  "items": [
+   "Dhammānupassanā",
+   "Vedanānupassanā",
+   "Cittānupassanā",
+   "Kāyānupassanā"
+  ],
+  "item_style": "letters",
+  "options": [
+   "(a), (b), (c) and (d)",
+   "(b), (c), (d) and (a)",
+   "(c), (d), (a) and (b)",
+   "(d), (b), (c) and (a)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (d), (b), (c), (a):** kāya, vedanā, citta, dhamma.\n\nThe *Satipaṭṭhāna Sutta* sets out the four foundations of mindfulness in this order:\n1. **kāyānupassanā**: contemplation of the body\n2. **vedanānupassanā**: of feelings\n3. **cittānupassanā**: of mind\n4. **dhammānupassanā**: of mental objects\n\nThe order runs from gross to subtle.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism",
+  "source_ids": [
+   "rhys-davids-1881-buddhist-suttas"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q56",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following Hatha Yoga practices advocated by Swātmārāma suri in order in which they appeared.",
+  "items": [
+   "Kumbhaka",
+   "Mudra",
+   "Āsana",
+   "Nādānusandhāna"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the code given below for correct answer : Codes :",
+  "options": [
+   "I, II, IV, III",
+   "III, II, I, IV",
+   "III, IV, I, II",
+   "III, I, II, IV"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) III, I, II, IV.**\n\nThe four chapters of the Haṭha Pradīpikā follow the order of practice (HP 1.56):\n1. **āsana**\n2. **kumbhaka** (prāṇāyāma, with the ṣaṭkarmas)\n3. **mudrā**\n4. **nādānusandhāna** (samādhi)",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q57",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following stages of Vairagya in sequential order.",
+  "items": [
+   "Vyatireka",
+   "Yatamāna",
+   "Vashikāra",
+   "Ekendriya"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the code given below for correct answer : Codes :",
+  "options": [
+   "I, III, II, IV",
+   "I, II, III, IV",
+   "II, I, IV, III",
+   "I, II, IV, III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) II, I, IV, III:** yatamāna, vyatireka, ekendriya, vaśīkāra.\n\nCommentators on YS 1.15 (Vācaspati Miśra) describe four stages of apara-vairāgya:\n1. **yatamāna**: effort to turn away from objects\n2. **vyatireka**: noting which attachments are gone and which remain\n3. **ekendriya**: craving survives only in the mind as a faint longing\n4. **vaśīkāra**: complete mastery, which is the vairāgya defined in 1.15",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Abhyasa and vairagya",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q58",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 58,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following endocrine glands in sequential order according to their position in human body from top to bottom.",
+  "items": [
+   "Thyroid Gland",
+   "Gonads",
+   "Adrenal Gland",
+   "Pituitary Gland"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "I, II, III, IV",
+   "IV, III, II, I",
+   "II, III, I, IV",
+   "IV, I, III, II"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) IV, I, III, II:** pituitary, thyroid, adrenal, gonads.\n\n- The pituitary sits at the base of the brain.\n- The thyroid is in the neck.\n- The adrenals sit on top of the kidneys.\n- The gonads are in the pelvis (ovaries) or scrotum (testes).",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q59",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "According to the percentage of Vitamin C present in following food items, arrange them in decreasing order.",
+  "items": [
+   "Guava",
+   "Orange",
+   "Tomato",
+   "Amla"
+  ],
+  "item_style": "roman",
+  "prompt": "Use the codes given below for correct answer : Codes :",
+  "options": [
+   "I, II, IV, III",
+   "I, II, III, IV",
+   "IV, I, II, III",
+   "II, I, IV, III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) IV, I, II, III:** amla, guava, orange, tomato.\n\nApproximate vitamin C per 100 g (ICMR tables):\n- **amla** about 600 mg\n- **guava** about 210 mg\n- **orange** about 30–50 mg\n- **tomato** about 25 mg",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: vitamins and deficiencies"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q60",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following Kriyas in sequential order according to Hatha Pradeepika :",
+  "items": [
+   "Dhauti",
+   "Basti",
+   "Neti",
+   "Nauli",
+   "Trataka",
+   "Kapalbhati"
+  ],
+  "item_style": "roman",
+  "prompt": "Codes :",
+  "options": [
+   "I, III, IV, II, VI, V",
+   "III, IV, II, I, V, VI",
+   "I, II, III, V, IV, VI",
+   "I, II, III, IV, V, VI"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I, II, III, V, IV, VI.**\n\nHP 2.22: *dhautir bastis tathā netis trāṭakaṃ nauliḥ kapālabhātiś caitāni ṣaṭ karmāṇi pracakṣate*. The order is dhauti, basti, neti, trāṭaka, nauli, kapālabhāti.\n\nThe Gheraṇḍa Saṃhitā's order is different (dhauti, basti, neti, lauliki, trāṭaka, kapālabhāti).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "source_ids": [
+   "sinh-1914-hatha-yoga-pradipika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q61",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Which of the following answer is correct ? Use the codes given below for correct answer :",
+  "lists": {
+   "list_i": {
+    "title": "List-I (Darshan)",
+    "items": [
+     "Vaisheshika",
+     "Nyāya",
+     "Mimāmsā",
+     "Samkhya"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II (Propounder)",
+    "items": [
+     "Gautam",
+     "Kanāda",
+     "Kapila",
+     "Jaimini"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-A, II-B, III-C, IV-D",
+   "I-B, II-A, III-D, IV-C",
+   "I-C, II-D, III-A, IV-B",
+   "I-D, II-A, III-B, IV-C"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I-B, II-A, III-D, IV-C.**\n\n- **Vaiśeṣika**: Kaṇāda\n- **Nyāya**: Gautama (Akṣapāda)\n- **Mīmāṃsā**: Jaimini\n- **Sāṃkhya**: Kapila",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "source_ids": [
+   "dasgupta-1922-history-indian-philosophy"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q62",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following pairs is not correctly matched ?",
+  "options": [
+   "Hatha Pradeepika – Swatmarama Suri",
+   "Light on Yoga – B.K.S. Iyengar",
+   "Bhaja Govindam – Veda Vyāsa",
+   "Rāja Mārtanda – Bhoja"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bhaja Govindam – Veda Vyāsa.**\n\n*Bhaja Govindam* (*Moha-mudgara*) is attributed to **Ādi Śaṅkarācārya**, not Vyāsa.\n\nThe other pairs are correct:\n- the Haṭha Pradīpikā is by Svātmārāma\n- *Light on Yoga* (1966) is by B.K.S. Iyengar\n- the *Rāja-mārtaṇḍa* commentary on the Yoga Sūtra is by King Bhoja",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q63",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List-I with List-II and select the correct answer by choosing from codes given below :",
+  "lists": {
+   "list_i": {
+    "title": "List-I",
+    "items": [
+     "Jala Mahabhoota",
+     "Vayu Mahabhoota",
+     "Akash Mahabhoota",
+     "Agni Mahabhoota"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II",
+    "items": [
+     "Shabda",
+     "Roopa",
+     "Sparsha",
+     "Rasa"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-B, II-C, III-D, IV-A",
+   "I-A, II-D, III-C, IV-B",
+   "I-D, II-C, III-A, IV-B",
+   "I-C, II-A, III-B, IV-D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I-D, II-C, III-A, IV-B.**\n\nEach mahābhūta has its own special quality (*tanmātra*):\n- **jala** (water): rasa (taste)\n- **vāyu** (air): sparśa (touch)\n- **ākāśa** (space): śabda (sound)\n- **agni** (fire): rūpa (form)\n- pṛthvī (earth), not listed: gandha (smell)",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "source_ids": [
+   "colebrooke-wilson-1837-sankhya-karika"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q64",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 64,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List-I with List-II and select the correct answer by choosing from codes given below :",
+  "lists": {
+   "list_i": {
+    "title": "List-I",
+    "items": [
+     "Agni",
+     "Vayu",
+     "Aditya",
+     "Chandra"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II",
+    "items": [
+     "Chakshu",
+     "Vāk",
+     "Mana",
+     "Prana"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-A, II-C, III-B, IV-D",
+   "I-B, II-D, III-A, IV-C",
+   "I-C, II-A, III-B, IV-D",
+   "I-D, II-C, III-A, IV-B"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I-B, II-D, III-A, IV-C.**\n\nAitareya Upaniṣad 1.2.4: the deities enter the cosmic person:\n- *agnir vāg bhūtvā mukhaṃ prāviśat*: **Agni** became **speech** and entered the mouth\n- **Vāyu** became **prāṇa** and entered the nostrils\n- **Āditya** (the sun) became the **eye**\n- **Candra** (the moon) became the **mind** and entered the heart",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "source_ids": [
+   "muller-upanishads"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q66",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 66,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Which of the following pairs is correctly matched ? Use the codes given below for correct answer :",
+  "lists": {
+   "list_i": {
+    "title": "List-I",
+    "items": [
+     "Karunā",
+     "Muditā",
+     "Maitri",
+     "Upekshā"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II",
+    "items": [
+     "Sukha",
+     "Apunya",
+     "Punya",
+     "Duhkha"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-A, II-B, III-D, IV-C",
+   "I-B, II-A, III-C, IV-D",
+   "I-D, II-C, III-A, IV-B",
+   "I-C, II-D, III-B, IV-A"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I-D, II-C, III-A, IV-B.**\n\nYS 1.33: *maitrī-karuṇā-muditopekṣāṇāṃ sukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam*. The mind is cleared by cultivating:\n- **friendliness** toward the happy (sukha)\n- **compassion** toward the suffering (duḥkha)\n- **gladness** toward the virtuous (puṇya)\n- **indifference** toward the wicked (apuṇya)",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Chitta-bhumis and chitta-vrittis",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q67",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 67,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List-I with List-II and select the correct option. Using the codes given below :",
+  "lists": {
+   "list_i": {
+    "title": "List-I (Karma)",
+    "items": [
+     "Shukla",
+     "Shukla Krishna",
+     "Krishna",
+     "Ashukla Krishna"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II (Result/Phala)",
+    "items": [
+     "Virtue and Sin",
+     "Virtue",
+     "Devoid of Virtue and Sin",
+     "Sin"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-A, II-B, III-C, IV-D",
+   "I-B, II-A, III-D, IV-C",
+   "I-C, II-B, III-D, IV-A",
+   "I-D, II-C, III-B, IV-A"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) I-B, II-A, III-D, IV-C.**\n\nYS 4.7: *karmāśuklākṛṣṇaṃ yoginas trividham itareṣām*. Vyāsa explains four kinds of karma:\n- **śukla** (white): virtue\n- **śukla-kṛṣṇa** (white-black): mixed virtue and sin\n- **kṛṣṇa** (black): sin\n- **aśukla-akṛṣṇa** (neither white nor black): the yogin's action, free of both",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "source_ids": [
+   "woods-1914-yoga-system",
+   "vivekananda-1896-raja-yoga"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q68",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 68,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which one of the following pairs is not correctly matched ? (List-I – List-II)",
+  "options": [
+   "Āsana – Sthiratā",
+   "Prānāyāma – Lāghava",
+   "Pratyāhāra – Dhairya",
+   "Dhyāna – Pratyaksha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Āsana – Sthiratā.**\n\nGS 1.10–11 gives the fruit of each of the seven limbs:\n- ṣaṭkarma: śodhana (purification)\n- **āsana: dṛḍhatā** (firmness)\n- **mudrā: sthiratā** (steadiness)\n- pratyāhāra: dhairya (calm)\n- prāṇāyāma: lāghava (lightness)\n- dhyāna: pratyakṣa (perception of the self)\n- samādhi: nirliptatā (non-attachment)\n\nSthiratā belongs to mudrā, not āsana.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Saptanga yoga of Gheranda Samhita",
+  "source_ids": [
+   "vasu-1895-gheranda-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q69",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 69,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List – I with List – II and select the correct option using the codes given below :",
+  "lists": {
+   "list_i": {
+    "title": "List-I",
+    "items": [
+     "Cerebrum",
+     "Cerebellum",
+     "Medulla Oblongata",
+     "Hypothalamus"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II",
+    "items": [
+     "Regulates posture and postural activities",
+     "Regulates temperature of body, hunger and thirst",
+     "Controls emotions, hearing and vision",
+     "Controls respiration and cardio vascular system"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-C, II-A, III-B, IV-D",
+   "I-A, II-B, III-D, IV-C",
+   "I-C, II-A, III-D, IV-B",
+   "I-B, II-C, III-D, IV-A"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I-C, II-A, III-D, IV-B.**\n\n- **Cerebrum**: higher functions, including emotion (limbic cortex), hearing (temporal lobe) and vision (occipital lobe)\n- **Cerebellum**: posture, balance and coordination\n- **Medulla oblongata**: the respiratory and cardiovascular centres\n- **Hypothalamus**: body temperature, hunger and thirst",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: nervous system"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q70",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 70,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List – I with List – II and select the correct option using the codes given below :",
+  "lists": {
+   "list_i": {
+    "title": "List-I",
+    "items": [
+     "Imbalance of Vata",
+     "Imbalance of Pitta",
+     "Imbalance of Kapha",
+     "Combination of any two vitiated Doshas"
+    ],
+    "style": "roman"
+   },
+   "list_ii": {
+    "title": "List-II",
+    "items": [
+     "20 Nanatmaja Vikara",
+     "80 Nanatmaja Vikara",
+     "40 Nanatmaja Vikara",
+     "Dwandaja Vikara"
+    ],
+    "style": "letters"
+   }
+  },
+  "prompt": "Codes :",
+  "options": [
+   "I-A, II-C, III-B, IV-D",
+   "I-A, II-D, III-C, IV-B",
+   "I-B, II-C, III-A, IV-D",
+   "I-B, II-A, III-C, IV-D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) I-B, II-C, III-A, IV-D.**\n\nCaraka (Sūtra 20.11) counts the *nānātmaja* disorders, those caused by one doṣa alone:\n- **vāta: 80**\n- **pitta: 40**\n- **kapha: 20**\n\nDisorders from two vitiated doṣas together are **dvandvaja**.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yogic and Ayurvedic diet principles",
+  "source_ids": [
+   "kaviratna-charaka-samhita"
+  ]
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q71",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 71,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which world body inscribed “Yoga” in the list of intangible cultural heritage of humanity ?",
+  "passage": "Read the following paragraph carefully and answer the five questions which follow (Q. Nos. 71 to 75) :\n\nYoga as an “ancient Indian practice” got global recognition as it has been inscribed on UNESCO’s representative list of intangible cultural heritage of humanity during the 11th session of the Inter-governmental committee for the safeguarding of the intangible cultural heritage held in Addis Ababa, Ethiopia.\n\nIn its citation, UN body observed –\n\n“The philosophy behind the ancient Indian practice of Yoga has influenced various aspects of how society in India functions, whether it be in relation to areas such as health and medicine or education and the arts. Based on unifying the mind with the body and soul to allow for greater mental, spiritual and physical well-being, the values of Yoga form a major part of the community’s ethos”.\n\n“Yoga consists of a series of postures, regulated breathing techniques, meditation, word chanting and other techniques designed to help individuals build self–realisation, ease any suffering they may be experiencing and allow for a state of liberation. It is practiced by the young and old without discriminating against gender, class or religion and has also become popular in other parts of the world.”\n\n“Traditionally, Yoga was transmitted using the Guru-shishya parampara (master-pupil model) with Yoga gurus as the main custodians of associated knowledge and skills. Now–a–days, Yoga ashramas or hermitages provide enthusiasts with additional opportunity to learn about the traditional practice, as well as schools, universities, community centres and social media. Ancient manuscripts and scriptures are also used in the teaching and practice of Yoga, and a vast range of modern literature on the subject is also available.”",
+  "options": [
+   "W.H.O.",
+   "U.N.",
+   "UNESCO",
+   "UNICEF"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) UNESCO.**\n\nThe passage: yoga \"has been inscribed on **UNESCO’s** representative list of intangible cultural heritage of humanity\". This was on 1 December 2016.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q72",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 72,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Where the 11th session of the inter-governmental committee for the safeguarding of intangible cultural heritage was held ?",
+  "passage": "Read the following paragraph carefully and answer the five questions which follow (Q. Nos. 71 to 75) :\n\nYoga as an “ancient Indian practice” got global recognition as it has been inscribed on UNESCO’s representative list of intangible cultural heritage of humanity during the 11th session of the Inter-governmental committee for the safeguarding of the intangible cultural heritage held in Addis Ababa, Ethiopia.\n\nIn its citation, UN body observed –\n\n“The philosophy behind the ancient Indian practice of Yoga has influenced various aspects of how society in India functions, whether it be in relation to areas such as health and medicine or education and the arts. Based on unifying the mind with the body and soul to allow for greater mental, spiritual and physical well-being, the values of Yoga form a major part of the community’s ethos”.\n\n“Yoga consists of a series of postures, regulated breathing techniques, meditation, word chanting and other techniques designed to help individuals build self–realisation, ease any suffering they may be experiencing and allow for a state of liberation. It is practiced by the young and old without discriminating against gender, class or religion and has also become popular in other parts of the world.”\n\n“Traditionally, Yoga was transmitted using the Guru-shishya parampara (master-pupil model) with Yoga gurus as the main custodians of associated knowledge and skills. Now–a–days, Yoga ashramas or hermitages provide enthusiasts with additional opportunity to learn about the traditional practice, as well as schools, universities, community centres and social media. Ancient manuscripts and scriptures are also used in the teaching and practice of Yoga, and a vast range of modern literature on the subject is also available.”",
+  "options": [
+   "Italy",
+   "Ethiopia",
+   "India",
+   "Estonia"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ethiopia.**\n\nThe passage: the session was \"held in **Addis Ababa, Ethiopia**\".",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q73",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 73,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Who are the main custodians of associated knowledge and skills of Yoga ?",
+  "passage": "Read the following paragraph carefully and answer the five questions which follow (Q. Nos. 71 to 75) :\n\nYoga as an “ancient Indian practice” got global recognition as it has been inscribed on UNESCO’s representative list of intangible cultural heritage of humanity during the 11th session of the Inter-governmental committee for the safeguarding of the intangible cultural heritage held in Addis Ababa, Ethiopia.\n\nIn its citation, UN body observed –\n\n“The philosophy behind the ancient Indian practice of Yoga has influenced various aspects of how society in India functions, whether it be in relation to areas such as health and medicine or education and the arts. Based on unifying the mind with the body and soul to allow for greater mental, spiritual and physical well-being, the values of Yoga form a major part of the community’s ethos”.\n\n“Yoga consists of a series of postures, regulated breathing techniques, meditation, word chanting and other techniques designed to help individuals build self–realisation, ease any suffering they may be experiencing and allow for a state of liberation. It is practiced by the young and old without discriminating against gender, class or religion and has also become popular in other parts of the world.”\n\n“Traditionally, Yoga was transmitted using the Guru-shishya parampara (master-pupil model) with Yoga gurus as the main custodians of associated knowledge and skills. Now–a–days, Yoga ashramas or hermitages provide enthusiasts with additional opportunity to learn about the traditional practice, as well as schools, universities, community centres and social media. Ancient manuscripts and scriptures are also used in the teaching and practice of Yoga, and a vast range of modern literature on the subject is also available.”",
+  "options": [
+   "Common man",
+   "Ayush Ministry",
+   "State governments",
+   "Yoga Gurus"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Yoga gurus.**\n\nThe passage: yoga was transmitted through the guru–śiṣya paramparā \"with **Yoga gurus** as the main custodians of associated knowledge and skills\".",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q74",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 74,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which influenced various aspects, such as health and medicine or education and arts in ancient India ?",
+  "passage": "Read the following paragraph carefully and answer the five questions which follow (Q. Nos. 71 to 75) :\n\nYoga as an “ancient Indian practice” got global recognition as it has been inscribed on UNESCO’s representative list of intangible cultural heritage of humanity during the 11th session of the Inter-governmental committee for the safeguarding of the intangible cultural heritage held in Addis Ababa, Ethiopia.\n\nIn its citation, UN body observed –\n\n“The philosophy behind the ancient Indian practice of Yoga has influenced various aspects of how society in India functions, whether it be in relation to areas such as health and medicine or education and the arts. Based on unifying the mind with the body and soul to allow for greater mental, spiritual and physical well-being, the values of Yoga form a major part of the community’s ethos”.\n\n“Yoga consists of a series of postures, regulated breathing techniques, meditation, word chanting and other techniques designed to help individuals build self–realisation, ease any suffering they may be experiencing and allow for a state of liberation. It is practiced by the young and old without discriminating against gender, class or religion and has also become popular in other parts of the world.”\n\n“Traditionally, Yoga was transmitted using the Guru-shishya parampara (master-pupil model) with Yoga gurus as the main custodians of associated knowledge and skills. Now–a–days, Yoga ashramas or hermitages provide enthusiasts with additional opportunity to learn about the traditional practice, as well as schools, universities, community centres and social media. Ancient manuscripts and scriptures are also used in the teaching and practice of Yoga, and a vast range of modern literature on the subject is also available.”",
+  "options": [
+   "Yoga Philosophy",
+   "Ayurveda",
+   "Community Centres",
+   "Universities"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Yoga philosophy.**\n\nThe passage: \"The **philosophy behind the ancient Indian practice of Yoga** has influenced various aspects of how society in India functions … health and medicine or education and the arts.\"",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices"
+ },
+ {
+  "id": "YOGA-2017JAN-P3-Q75",
+  "subject": "yoga",
+  "exam_year": 2017,
+  "exam_cycle": "January",
+  "paper": "Paper III",
+  "question_no": 75,
+  "source": {
+   "type": "official",
+   "note": "UGC NET (CBSE) January 2017 (held 22 January 2017), Yoga (100), Paper III: 75 questions of 2 marks, booklet code JA-100-17, English version of the bilingual booklet. Transcribed from the official question booklet published on ugcnetonline.in. No official answer key was available, so answers are worked out from the source texts and marked unverified; explanations say where an answer is provisional. Left out: Q27 (when a lesson plan should be prepared depends on one teaching-methods book whose wording could not be checked); Q52 (both statements are value-education claims, and whether (R) explains (A) could not be settled); Q65 (the pairing of cakras with the tongues of agni could not be traced to a text)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the citation of UN body, Yoga techniques are designed to help the individuals ?",
+  "passage": "Read the following paragraph carefully and answer the five questions which follow (Q. Nos. 71 to 75) :\n\nYoga as an “ancient Indian practice” got global recognition as it has been inscribed on UNESCO’s representative list of intangible cultural heritage of humanity during the 11th session of the Inter-governmental committee for the safeguarding of the intangible cultural heritage held in Addis Ababa, Ethiopia.\n\nIn its citation, UN body observed –\n\n“The philosophy behind the ancient Indian practice of Yoga has influenced various aspects of how society in India functions, whether it be in relation to areas such as health and medicine or education and the arts. Based on unifying the mind with the body and soul to allow for greater mental, spiritual and physical well-being, the values of Yoga form a major part of the community’s ethos”.\n\n“Yoga consists of a series of postures, regulated breathing techniques, meditation, word chanting and other techniques designed to help individuals build self–realisation, ease any suffering they may be experiencing and allow for a state of liberation. It is practiced by the young and old without discriminating against gender, class or religion and has also become popular in other parts of the world.”\n\n“Traditionally, Yoga was transmitted using the Guru-shishya parampara (master-pupil model) with Yoga gurus as the main custodians of associated knowledge and skills. Now–a–days, Yoga ashramas or hermitages provide enthusiasts with additional opportunity to learn about the traditional practice, as well as schools, universities, community centres and social media. Ancient manuscripts and scriptures are also used in the teaching and practice of Yoga, and a vast range of modern literature on the subject is also available.”",
+  "items": [
+   "to build self-realisation",
+   "for a state of liberation",
+   "to enjoy the worldly pleasures",
+   "to overcome any kind of sufferings."
+  ],
+  "item_style": "roman",
+  "prompt": "Find the correct combination according to the code :",
+  "options": [
+   "IV, III and I are correct.",
+   "III, I and II are correct.",
+   "II, III and IV are correct.",
+   "I, II and IV are correct."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) I, II and IV.**\n\nThe passage: the techniques are \"designed to help individuals **build self-realisation**, **ease any suffering** they may be experiencing and allow for **a state of liberation**\".\n\nEnjoying worldly pleasures is not in the citation.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Contemporary yogic practices"
+ }
+]

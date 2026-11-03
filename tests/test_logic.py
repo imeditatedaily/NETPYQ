@@ -85,10 +85,11 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
     bank = shipped_bank()
     assert bank.problems == ()
     papers = [q for q in bank.questions if q.is_dated]
-    jan17 = sorted((q for q in papers if q.session_key == "2017-January" and q.subject == "yoga"),
-                   key=lambda q: q.question_no)
+    jan17 = sorted((q for q in papers if q.session_key == "2017-January" and q.subject == "yoga"
+                    and q.paper == "Paper II"), key=lambda q: q.question_no)
     assert [q.question_no for q in jan17] == list(range(1, 51))
-    assert {q.paper for q in jan17} == {"Paper II"}
+    jan17_p3 = [q for q in papers if q.session_key == "2017-January" and q.subject == "yoga" and q.paper == "Paper III"]
+    assert len(jan17_p3) == 72 and {q.answer_source for q in jan17_p3} == {"unverified"}   # official booklet, no key
     library = load_library(SOURCE_DIR)
     notes, problems = read_topic_notes(TOPIC_FILE)
     assert problems == []
