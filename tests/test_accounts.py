@@ -27,8 +27,9 @@ def test_free_user_sees_the_samples_and_the_free_paper(bank):
     free = visible_bank(bank, admin=False, unlocked=set())
     real = [q for q in free.questions if q.source_type != "model"]
     assert sum(q.source_type == "model" for q in free.questions) == 4
-    assert len(real) == 100
+    assert len(real) == 80 + 87                       # Yoga December 2018 and July 2018
     assert all((q.subject, q.exam_year, q.exam_cycle) in config.FREE_PAPERS for q in real)
+    assert not any(q.exam_year == 2024 for q in real)  # June 2024 is paid now
 
 
 def test_yoga_subscriber_gets_every_yoga_paper_but_no_book_questions(bank):
@@ -157,7 +158,7 @@ def as_user(unlocked=()) -> AppTest:
 
 def test_free_user_practises_samples_and_is_offered_plans():
     at = as_user()
-    assert at.metric[3].value == "1 of 104"
+    assert at.metric[3].value == "1 of 171"
     assert any("free plan" in m.value for m in at.markdown)
     assert "Source Library" not in str(at.get("navigation"))
 

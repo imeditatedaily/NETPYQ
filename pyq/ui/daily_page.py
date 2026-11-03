@@ -100,7 +100,7 @@ def render() -> None:
             st.button("Practise this topic", icon=":material/target:", on_click=state.practise_topic,
                       args=(q.subject, q.macro_unit, q.micro_topic))
         else:
-            st.markdown(f"### Want the full paper?\nSign in free and sit a complete real paper ({free_paper_label()}) "
+            st.markdown(f"### Want the full paper?\nSign in free and sit two complete real papers ({free_paper_label()}) "
                         "with every explanation, a timed mock test and PYQ trends.")
             st.button("Start free with Google", icon=":material/login:", on_click=st.login, args=("google",))
     yesterday = day - timedelta(days=1)

@@ -59,7 +59,7 @@ syllabus, a detailed explanation for every answer, a mistake-review loop and top
 
 | Plan | Price | What you get |
 |---|---|---|
-| Free | ₹0 | Sign in with Google: one full real paper ({free_paper_label()}) and the sample questions |
+| Free | ₹0 | Sign in with Google: two full real papers ({free_paper_label()}) and the sample questions |
 | Exam pass, one subject | **₹{PASSES['yoga'][1]:,} once** | {PASS_DAYS // 30} months of every previous-year question for that subject, mock tests, explanations, review and analytics. Does not renew |
 | Exam pass, Paper 1 + Yoga | **₹{PASSES['combo'][1]:,} once** | The same for both papers, for {PASS_DAYS // 30} months. Does not renew |
 | Monthly, one subject | **₹{SUBJECT_PRICE_INR} per month** | Every previous-year question loaded for that subject (for example Yoga, code 100), renewed monthly until you cancel |
