@@ -1,0 +1,1679 @@
+[
+ {
+  "id": "P1-2019JUN-Q01",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Which of the learner characteristics will influence his/her perspective in a course of study?",
+  "items": [
+   "Learner’s commitment",
+   "Parents interest in the learner",
+   "Prior knowledge of the learner",
+   "Skill of the learner in the concerned area",
+   "Family size of the learner",
+   "Socio-economic background of the family to which the learner belongs"
+  ],
+  "item_style": "roman",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(i), (iii) and (iv)",
+   "(i), (ii) and (iii)",
+   "(iii), (iv) and (v)",
+   "(iv), (v) and (vi)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (i), (iii) and (iv)** (NTA key).\n\nA learner's own **commitment**, **prior knowledge** and **skill in the area** shape how he or she approaches a course. Parents' interest, family size and the family's socio-economic background are background factors, not the learner's own perspective.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "nta_question_id": "64635027703"
+ },
+ {
+  "id": "P1-2019JUN-Q02",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Which of the strategies in the list given below will be associated with direct teaching?",
+  "items": [
+   "Providing examples and explanation",
+   "Promoting inquiry",
+   "Focussing on concepts",
+   "Giving review and recapitulation",
+   "Offering practice and feedback",
+   "Problem raising and problem-solving"
+  ],
+  "item_style": "roman",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(i), (ii) and (iii)",
+   "(ii), (iii) and (iv)",
+   "(i), (iv) and (v)",
+   "(iv), (v) and (vi)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (iv) and (v)** (NTA key).\n\n**Direct (explicit) teaching** is teacher-led: the teacher explains with examples, gives guided practice with feedback, and reviews. Promoting inquiry, focusing on concepts and problem-solving belong to indirect, discovery-style teaching.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "64635027704"
+ },
+ {
+  "id": "P1-2019JUN-Q03",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The performance of a student is compared with another student in which type of testing?",
+  "options": [
+   "Criterion referenced testing",
+   "Diagnostic testing",
+   "Summative testing",
+   "Norm-referenced testing"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Norm-referenced testing** (NTA key).\n\nA **norm-referenced** test ranks a student against others (the norm group). A criterion-referenced test measures against a fixed standard, whatever others score.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "64635027705"
+ },
+ {
+  "id": "P1-2019JUN-Q04",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an example of a maximum performance test?",
+  "options": [
+   "Personality tests",
+   "Projective personality tests",
+   "Aptitude tests",
+   "Interest and attitude scales"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Aptitude tests** (NTA key).\n\nCronbach's distinction: **maximum-performance** tests ask how well a person *can* do, as in ability and aptitude tests. **Typical-performance** tests ask what a person usually does or feels, as in personality, interest and attitude measures.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "64635027706"
+ },
+ {
+  "id": "P1-2019JUN-Q05",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "From the list given below identify those questions which are called process rather than content based questions?",
+  "items": [
+   "Convergent questions",
+   "Divergent questions",
+   "Fact based questions",
+   "Concept based questions",
+   "Open questions",
+   "Closed questions."
+  ],
+  "item_style": "roman",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(i), (ii) and (iii)",
+   "(ii), (iii) and (iv)",
+   "(iv), (v) and (vi)",
+   "(ii), (iv) and (v)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii), (iv) and (v)** (NTA key).\n\n**Process** questions make students think: divergent, open-ended and concept-based questions have no single fixed recall answer. Convergent, fact-based and closed questions check content recall.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "64635027707"
+ },
+ {
+  "id": "P1-2019JUN-Q06",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The conceptual framework in which a research is conducted is called a",
+  "options": [
+   "Synopsis of research",
+   "Research design",
+   "Research hypothesis",
+   "Research paradigm"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Research design** (NTA key).\n\nKothari: \"A **research design** is the conceptual structure within which research is conducted; it constitutes the blueprint for the collection, measurement and analysis of data.\"",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "64635027708"
+ },
+ {
+  "id": "P1-2019JUN-Q07",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A shift in attitude in respondents between two points during data collection is called",
+  "options": [
+   "Reactive effect",
+   "Maturation effect",
+   "Regression effect",
+   "Conditioning effect"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Regression effect** (NTA key).\n\nIn before–after designs (Ranjit Kumar, *Research Methodology*), the **regression effect** is respondents' tendency to shift their position between the first and second data collection, for example extreme scores drifting towards the middle, independently of the intervention.\n\nThe reactive effect comes from the instrument itself provoking change. Maturation is change due to time or growing older.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "64635027709"
+ },
+ {
+  "id": "P1-2019JUN-Q08",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "From the list given below identify those which are called ‘Non-probability sampling procedures’ :",
+  "items": [
+   "Simple random sampling",
+   "Dimensional sampling",
+   "Snowball sampling",
+   "Cluster sampling",
+   "Quota sampling",
+   "Stratified sampling"
+  ],
+  "item_style": "roman",
+  "prompt": "Choose the correct option",
+  "options": [
+   "(i), (ii) and (iii)",
+   "(ii), (iv) and (v)",
+   "(i), (iii) and (iv)",
+   "(ii), (iii) and (v)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (ii), (iii) and (v)** (NTA key).\n\nIn **non-probability** sampling, not every unit has a known chance of selection: **dimensional, snowball and quota** sampling.\n\nSimple random, cluster and stratified sampling are probability methods.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "64635027710"
+ },
+ {
+  "id": "P1-2019JUN-Q09",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The major characteristic of correlation analysis is to seek out",
+  "options": [
+   "Differences among variables",
+   "Variations among variables",
+   "Association among variables",
+   "Regression among variables"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Association among variables** (NTA key).\n\nCorrelation measures the **association** (strength and direction of the relationship) between variables. Regression predicts one variable from another.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "64635027711"
+ },
+ {
+  "id": "P1-2019JUN-Q10",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The time-frame in which a study explores a situation or problem is also called the",
+  "options": [
+   "reference period",
+   "age",
+   "longitudinal",
+   "retrospective time"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) reference period** (NTA key).\n\nStudies are classified by their **reference period**, the time-frame they investigate: retrospective (the past), prospective (the future) or retrospective-prospective (Ranjit Kumar). \"Longitudinal\" describes the number of contacts, not the time-frame itself.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "64635027712"
+ },
+ {
+  "id": "P1-2019JUN-Q11",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In geography, pattern studies the variation observed in a phenomenon at",
+  "passage": "Geography seeks to understand the physical and human organization of the surface of the Earth. In the field of geography, inter-related themes are frequently seen. These are scale, pattern and process. Scale is defined as the level of structure on organisation at which a phenomenon is studied. Pattern is defined as the variation observed in a phenomenon studied at a particular scale. The third theme, process, further connects the first two. Process is defined as the description of how the factors that affect a phenomenon act to product a pattern at a particular scale. For instance, when a passenger on an aircraft looks out of the window, the view changes according to the scale. At the global scale when the aircraft maintains its height, he can see the chunks of clouds in all their pattern, the sun or the moon, as per the time. When the aircraft loses a little height, passengers can see the land and water masses in their different colours and the shape of land masses. At the continental scale, the passengers can see the shapes of the land features and how they are distributed. The pattern emerges as the variation of land and water and the proportion of each. Looking carefully, passengers can note how each land mass aligns with the others and how each mountain bears the signs of the process through which it emerged.\n\nThe processes in a geography change in a regular and repetitive manner. One instance of this is the annual solar cycle of the sun and the earth. Most systems in nature display time cycles that are organised in a rhythm of their own. As these time cycles and natural processes are always active, the environment of the earth is always in a state of dynamism. This environmental change is not only the result of natural process but also the result of human activity. Physical geography works towards understanding the interaction between man and nature and also the results of this interaction in order to manage global climate change better.",
+  "options": [
+   "a particular scale",
+   "any scale",
+   "every scale",
+   "most scales"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) a particular scale** (NTA key).\n\nThe passage: \"Pattern is defined as the variation observed in a phenomenon studied at **a particular scale**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "64635027714"
+ },
+ {
+  "id": "P1-2019JUN-Q12",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The view seen by a passenger looking out of the window of an aircraft will be affected by the",
+  "passage": "Geography seeks to understand the physical and human organization of the surface of the Earth. In the field of geography, inter-related themes are frequently seen. These are scale, pattern and process. Scale is defined as the level of structure on organisation at which a phenomenon is studied. Pattern is defined as the variation observed in a phenomenon studied at a particular scale. The third theme, process, further connects the first two. Process is defined as the description of how the factors that affect a phenomenon act to product a pattern at a particular scale. For instance, when a passenger on an aircraft looks out of the window, the view changes according to the scale. At the global scale when the aircraft maintains its height, he can see the chunks of clouds in all their pattern, the sun or the moon, as per the time. When the aircraft loses a little height, passengers can see the land and water masses in their different colours and the shape of land masses. At the continental scale, the passengers can see the shapes of the land features and how they are distributed. The pattern emerges as the variation of land and water and the proportion of each. Looking carefully, passengers can note how each land mass aligns with the others and how each mountain bears the signs of the process through which it emerged.\n\nThe processes in a geography change in a regular and repetitive manner. One instance of this is the annual solar cycle of the sun and the earth. Most systems in nature display time cycles that are organised in a rhythm of their own. As these time cycles and natural processes are always active, the environment of the earth is always in a state of dynamism. This environmental change is not only the result of natural process but also the result of human activity. Physical geography works towards understanding the interaction between man and nature and also the results of this interaction in order to manage global climate change better.",
+  "options": [
+   "Process",
+   "Pattern",
+   "Scale",
+   "Rhythm"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Scale** (NTA key).\n\nThe passage: \"when a passenger on an aircraft looks out of the window, the view changes according to the **scale**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "64635027715"
+ },
+ {
+  "id": "P1-2019JUN-Q13",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The time cycles of the system of nature follow their own",
+  "passage": "Geography seeks to understand the physical and human organization of the surface of the Earth. In the field of geography, inter-related themes are frequently seen. These are scale, pattern and process. Scale is defined as the level of structure on organisation at which a phenomenon is studied. Pattern is defined as the variation observed in a phenomenon studied at a particular scale. The third theme, process, further connects the first two. Process is defined as the description of how the factors that affect a phenomenon act to product a pattern at a particular scale. For instance, when a passenger on an aircraft looks out of the window, the view changes according to the scale. At the global scale when the aircraft maintains its height, he can see the chunks of clouds in all their pattern, the sun or the moon, as per the time. When the aircraft loses a little height, passengers can see the land and water masses in their different colours and the shape of land masses. At the continental scale, the passengers can see the shapes of the land features and how they are distributed. The pattern emerges as the variation of land and water and the proportion of each. Looking carefully, passengers can note how each land mass aligns with the others and how each mountain bears the signs of the process through which it emerged.\n\nThe processes in a geography change in a regular and repetitive manner. One instance of this is the annual solar cycle of the sun and the earth. Most systems in nature display time cycles that are organised in a rhythm of their own. As these time cycles and natural processes are always active, the environment of the earth is always in a state of dynamism. This environmental change is not only the result of natural process but also the result of human activity. Physical geography works towards understanding the interaction between man and nature and also the results of this interaction in order to manage global climate change better.",
+  "options": [
+   "Path",
+   "Rhythm",
+   "Process",
+   "Cycle"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Rhythm** (NTA key).\n\nThe passage: \"Most systems in nature display time cycles that are organised in a **rhythm** of their own.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "64635027716"
+ },
+ {
+  "id": "P1-2019JUN-Q14",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Physical geography studies the results of the interaction between man and nature in order to",
+  "passage": "Geography seeks to understand the physical and human organization of the surface of the Earth. In the field of geography, inter-related themes are frequently seen. These are scale, pattern and process. Scale is defined as the level of structure on organisation at which a phenomenon is studied. Pattern is defined as the variation observed in a phenomenon studied at a particular scale. The third theme, process, further connects the first two. Process is defined as the description of how the factors that affect a phenomenon act to product a pattern at a particular scale. For instance, when a passenger on an aircraft looks out of the window, the view changes according to the scale. At the global scale when the aircraft maintains its height, he can see the chunks of clouds in all their pattern, the sun or the moon, as per the time. When the aircraft loses a little height, passengers can see the land and water masses in their different colours and the shape of land masses. At the continental scale, the passengers can see the shapes of the land features and how they are distributed. The pattern emerges as the variation of land and water and the proportion of each. Looking carefully, passengers can note how each land mass aligns with the others and how each mountain bears the signs of the process through which it emerged.\n\nThe processes in a geography change in a regular and repetitive manner. One instance of this is the annual solar cycle of the sun and the earth. Most systems in nature display time cycles that are organised in a rhythm of their own. As these time cycles and natural processes are always active, the environment of the earth is always in a state of dynamism. This environmental change is not only the result of natural process but also the result of human activity. Physical geography works towards understanding the interaction between man and nature and also the results of this interaction in order to manage global climate change better.",
+  "options": [
+   "understand global climate change",
+   "study the impact of man’s activities on nature",
+   "address the issue of global climate change",
+   "reduce man-animal conflict"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) address the issue of global climate change** (NTA key).\n\nThe passage: physical geography studies this interaction \"in order to **manage global climate change better**\", that is, to address it, not merely to understand it.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "64635027717"
+ },
+ {
+  "id": "P1-2019JUN-Q15",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The alignment of landmass with other elements can be seen by a passenger on a flight on a",
+  "passage": "Geography seeks to understand the physical and human organization of the surface of the Earth. In the field of geography, inter-related themes are frequently seen. These are scale, pattern and process. Scale is defined as the level of structure on organisation at which a phenomenon is studied. Pattern is defined as the variation observed in a phenomenon studied at a particular scale. The third theme, process, further connects the first two. Process is defined as the description of how the factors that affect a phenomenon act to product a pattern at a particular scale. For instance, when a passenger on an aircraft looks out of the window, the view changes according to the scale. At the global scale when the aircraft maintains its height, he can see the chunks of clouds in all their pattern, the sun or the moon, as per the time. When the aircraft loses a little height, passengers can see the land and water masses in their different colours and the shape of land masses. At the continental scale, the passengers can see the shapes of the land features and how they are distributed. The pattern emerges as the variation of land and water and the proportion of each. Looking carefully, passengers can note how each land mass aligns with the others and how each mountain bears the signs of the process through which it emerged.\n\nThe processes in a geography change in a regular and repetitive manner. One instance of this is the annual solar cycle of the sun and the earth. Most systems in nature display time cycles that are organised in a rhythm of their own. As these time cycles and natural processes are always active, the environment of the earth is always in a state of dynamism. This environmental change is not only the result of natural process but also the result of human activity. Physical geography works towards understanding the interaction between man and nature and also the results of this interaction in order to manage global climate change better.",
+  "options": [
+   "Global scale",
+   "Continental scale",
+   "Local scale",
+   "Time scale"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Continental scale** (NTA key).\n\nThe passage: \"At the **continental scale**, the passengers can see the shapes of the land features … how each land mass aligns with the others.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "64635027718"
+ },
+ {
+  "id": "P1-2019JUN-Q16",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Mass media do not have pre-determined functions for everyone and people use them the way they like. This is suggestive of the fact that,",
+  "options": [
+   "Audiences are active",
+   "Content is of little significance",
+   "Content lacks plurality",
+   "Audiences are homogeneous"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Audiences are active** (NTA key).\n\nThis is the **uses-and-gratifications** view: people actively choose and use media for their own needs, so **audiences are active**, not passive receivers.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "64635027719"
+ },
+ {
+  "id": "P1-2019JUN-Q17",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In the context of communication, usual sequence is",
+  "options": [
+   "Language → Communication → Society → Civilization",
+   "Communication → Society → Language → Civilization",
+   "Communication → Language → Society → Civilization",
+   "Language → Society → Communication → Civilization"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Communication → Language → Society → Civilization** (NTA key).\n\nCommunication comes first: language develops from the need to communicate, shared language makes society possible, and societies build civilisation.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "64635027720"
+ },
+ {
+  "id": "P1-2019JUN-Q18",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "match",
+  "question_text": "Match Set ‘A’ with Set ‘B’.",
+  "lists": {
+   "list_i": {
+    "title": "A (Media)",
+    "items": [
+     "Audio",
+     "Advertising",
+     "Internet",
+     "Newspaper"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "B (Transmission/Communication)",
+    "items": [
+     "Bandwidth",
+     "Linear communication",
+     "Non personal Communication",
+     "Frequency modulation"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A-III, B-IV, C-II, D-I",
+   "A-I, B-II, C-III, D-IV",
+   "A-IV, B-III, C-I, D-II",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-IV, B-III, C-I, D-II** (NTA key).\n\n- **Audio** (radio): frequency modulation\n- **Advertising**: non-personal communication (paid, mass, impersonal)\n- **Internet**: bandwidth\n- **Newspaper**: linear, one-way communication",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "nta_question_id": "64635027721"
+ },
+ {
+  "id": "P1-2019JUN-Q19",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A communication process can be considered complete when",
+  "options": [
+   "The sender transmits the message",
+   "The message enters the channel",
+   "The message leaves the channel",
+   "The receiver understands the message"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) The receiver understands the message** (NTA key).\n\nCommunication is complete only when the message is **received and understood** as intended; sending alone is not communication.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "64635027722"
+ },
+ {
+  "id": "P1-2019JUN-Q20",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A customer writes to a bank, ‘Kindly send me a statement of my transactions in my savings bank account ‘A’ during the last three months’. In terms of communication it will be called",
+  "options": [
+   "Input",
+   "Message",
+   "Output",
+   "Feedback"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Message** (NTA key).\n\nThe customer's letter is the content sent from sender to receiver: the **message**. The bank's reply would be the response.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "64635027723"
+ },
+ {
+  "id": "P1-2019JUN-Q21",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "If REASON is coded as 5 and GOVERNMENT as 9, than what is the code for ACCIDENT?",
+  "options": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 7** (NTA key).\n\nThe code is the number of letters minus one: REASON (6) → 5, GOVERNMENT (10) → 9, so ACCIDENT (8) → **7**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "nta_question_id": "64635027724"
+ },
+ {
+  "id": "P1-2019JUN-Q22",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which of the following fractions is the result of the sum of an integer and its reciprocal?",
+  "options": [
+   "15/8",
+   "26/5",
+   "36/7",
+   "37/5"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 26/5** (NTA key).\n\n5 + 1/5 = 25/5 + 1/5 = **26/5**. None of the others has the form n + 1/n.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "64635027725"
+ },
+ {
+  "id": "P1-2019JUN-Q23",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The average of 35 raw scores is 18. The average of first seventeen of them is 14 and that of last seventeen is 20. Find the eighteenth raw score.",
+  "options": [
+   "42",
+   "46",
+   "52",
+   "56"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 52** (NTA key).\n\nTotal = 35 × 18 = 630. First 17 = 17 × 14 = 238, last 17 = 17 × 20 = 340. The 18th = 630 − 238 − 340 = **52**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "64635027726"
+ },
+ {
+  "id": "P1-2019JUN-Q24",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A train leaves Agra at 5 am and reaches Delhi at 9 am. Another train leaves Delhi at 7 am and reaches Agra at 10:30 a.m. At what time do the two trains cross each other?",
+  "options": [
+   "6:36 a.m",
+   "6:56 a.m",
+   "7 a.m",
+   "7:56 a.m"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 7:56 a.m** (NTA key).\n\nLet the distance be D:\n- the first train takes 4 h, so its speed is D/4\n- the second takes 3.5 h, so its speed is 2D/7\n- by 7 am the first has covered half the distance (D/2)\n- they close at D/4 + 2D/7 = 15D/28 per hour\n\nThey meet after (D/2) ÷ (15D/28) = 14/15 h = 56 min, at **7:56 am**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "64635027727"
+ },
+ {
+  "id": "P1-2019JUN-Q25",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Sanjay sold an article at a loss of 25%. If the selling price had been increased by Rs. 175, there would have been a gain of 10%. What was the cost price of the article?",
+  "options": [
+   "Rs. 350",
+   "Rs. 400",
+   "Rs. 500",
+   "Rs. 750"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Rs. 500** (NTA key).\n\n0.75C + 175 = 1.10C, so 0.35C = 175 and C = **Rs. 500**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "64635027728"
+ },
+ {
+  "id": "P1-2019JUN-Q26",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "If proposition ‘All republics are grateful’ is taken to be true then which of the following propositions can be false?",
+  "items": [
+   "Republics are not grateful",
+   "Some republics are not grateful",
+   "No republics are grateful",
+   "Some republics are grateful"
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the options given below :",
+  "options": [
+   "(i) only",
+   "(ii) only",
+   "(i), (ii) and (iii)",
+   "(ii) and (iii)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (ii) and (iii)** (NTA key).\n\nIf the A proposition is true:\n- its contradictory O (\"Some republics are not grateful\") is false\n- its contrary E (\"No republics are grateful\", and \"Republics are not grateful\") is false\n- its subaltern I (\"Some republics are grateful\") is true\n\nSo (i), (ii) and (iii) are the false ones.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "64635027729"
+ },
+ {
+  "id": "P1-2019JUN-Q27",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Given below are two premises with four conclusions drawn from them. Which of the following conclusions could be validly drawn from the premises? Premises: (i) Some bags are tables (ii) All bags are chairs.",
+  "items": [
+   "Some tables are chairs",
+   "No chair is table",
+   "Some chairs are bags",
+   "Some bags are not tables"
+  ],
+  "item_style": "letters",
+  "prompt": "Select the correct answer from the options given below :",
+  "options": [
+   "(a) and (c)",
+   "(b), (c) and (d)",
+   "(a) and (d)",
+   "(b) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (a) and (c)** (NTA key).\n\n- The bags that are tables are also chairs, so **some tables are chairs** (a).\n- All bags are chairs, so **some chairs are bags** (c), by conversion.\n- (b) contradicts (a).\n- (d) does not follow from \"some bags are tables\".",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "nta_question_id": "64635027730"
+ },
+ {
+  "id": "P1-2019JUN-Q28",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "When subject and predicate of both the premises are the same but they differ in quality only, it is known as",
+  "options": [
+   "Contradictories",
+   "Contraries",
+   "Subaltern",
+   "Super altern"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Contraries** (NTA key).\n\nPropositions with the same terms that differ **only in quality** (affirmative or negative), such as the universals A and E, are **contraries**.\n\nContradictories differ in both quality and quantity. Subalterns differ in quantity only.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "64635027731"
+ },
+ {
+  "id": "P1-2019JUN-Q29",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Identify the reasoning in the following argument: ‘Pre-active stage of classroom teaching is important just as pre-learning preparation stage of communication’",
+  "options": [
+   "Hypothetical",
+   "Deductive",
+   "Inductive",
+   "Analogical"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Analogical** (NTA key).\n\n\"**Just as** …\" compares two cases and infers a likeness from one to the other: **analogical** reasoning.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "64635027732"
+ },
+ {
+  "id": "P1-2019JUN-Q30",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "The proposition ‘No red is black’ is equivalent to which of the following propositions?",
+  "items": [
+   "No black is red",
+   "All red are black",
+   "Some red are not black",
+   "Red is not black"
+  ],
+  "item_style": "roman",
+  "prompt": "Select the correct answer from the options given below :",
+  "options": [
+   "(i), (ii), (iii) and (iv)",
+   "(iii) only",
+   "(i) and (iv)",
+   "(iv) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i) and (iv)** (NTA key).\n\n- **No red is black** (an E proposition) converts validly to **\"No black is red\"** (i).\n- It is restated by **\"Red is not black\"** (iv).\n- \"All red are black\" contradicts it.\n- \"Some red are not black\" follows from it but is not equivalent.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "64635027733"
+ },
+ {
+  "id": "P1-2019JUN-Q31",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "What is the average amount of interest per year which the company had to pay (in Rupees) during this period?",
+  "passage": "Consider the following table that shows expenditures of a company (in lakh rupees) per annum over the given years. Answer the questions based on the data contained in the table :",
+  "table": {
+   "title": "Item of expenditure",
+   "columns": [
+    "Year",
+    "Salary",
+    "Transport",
+    "Bonus",
+    "Interest on Loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "150",
+     "90",
+     "2.00",
+     "20.0",
+     "80"
+    ],
+    [
+     "2009",
+     "180",
+     "100",
+     "2.50",
+     "30.5",
+     "95"
+    ],
+    [
+     "2010",
+     "200",
+     "110",
+     "2.75",
+     "35.5",
+     "105"
+    ],
+    [
+     "2011",
+     "240",
+     "115",
+     "3.00",
+     "40.0",
+     "85"
+    ],
+    [
+     "2012",
+     "250",
+     "125",
+     "3.25",
+     "42.5",
+     "100"
+    ]
+   ]
+  },
+  "options": [
+   "30.5 Lakh",
+   "32.7 Lakh",
+   "33.7 Lakh",
+   "35.5 Lakh"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 33.7 Lakh** (NTA key).\n\n(20.0 + 30.5 + 35.5 + 40.0 + 42.5) ÷ 5 = 168.5 ÷ 5 = **33.7 lakh**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "64635027735"
+ },
+ {
+  "id": "P1-2019JUN-Q32",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The total amount of bonus paid by the company during the given period is approximately what percent of the total amount of salary paid during this period?",
+  "passage": "Consider the following table that shows expenditures of a company (in lakh rupees) per annum over the given years. Answer the questions based on the data contained in the table :",
+  "table": {
+   "title": "Item of expenditure",
+   "columns": [
+    "Year",
+    "Salary",
+    "Transport",
+    "Bonus",
+    "Interest on Loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "150",
+     "90",
+     "2.00",
+     "20.0",
+     "80"
+    ],
+    [
+     "2009",
+     "180",
+     "100",
+     "2.50",
+     "30.5",
+     "95"
+    ],
+    [
+     "2010",
+     "200",
+     "110",
+     "2.75",
+     "35.5",
+     "105"
+    ],
+    [
+     "2011",
+     "240",
+     "115",
+     "3.00",
+     "40.0",
+     "85"
+    ],
+    [
+     "2012",
+     "250",
+     "125",
+     "3.25",
+     "42.5",
+     "100"
+    ]
+   ]
+  },
+  "options": [
+   "0.9%",
+   "1.3%",
+   "1.6%",
+   "2.0%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1.3%** (NTA key).\n\nBonus 13.5 ÷ salary 1020 = 0.0132, about **1.3%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "64635027736"
+ },
+ {
+  "id": "P1-2019JUN-Q33",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Total expenditure of all the items in 2008 was approximately what percent of the total expenditure in 2012?",
+  "passage": "Consider the following table that shows expenditures of a company (in lakh rupees) per annum over the given years. Answer the questions based on the data contained in the table :",
+  "table": {
+   "title": "Item of expenditure",
+   "columns": [
+    "Year",
+    "Salary",
+    "Transport",
+    "Bonus",
+    "Interest on Loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "150",
+     "90",
+     "2.00",
+     "20.0",
+     "80"
+    ],
+    [
+     "2009",
+     "180",
+     "100",
+     "2.50",
+     "30.5",
+     "95"
+    ],
+    [
+     "2010",
+     "200",
+     "110",
+     "2.75",
+     "35.5",
+     "105"
+    ],
+    [
+     "2011",
+     "240",
+     "115",
+     "3.00",
+     "40.0",
+     "85"
+    ],
+    [
+     "2012",
+     "250",
+     "125",
+     "3.25",
+     "42.5",
+     "100"
+    ]
+   ]
+  },
+  "options": [
+   "66%",
+   "69%",
+   "72%",
+   "75%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 66%** (NTA key).\n\n- 2008: 150 + 90 + 2 + 20 + 80 = 342\n- 2012: 250 + 125 + 3.25 + 42.5 + 100 = 520.75\n\n342 ÷ 520.75 is about **66%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "64635027737"
+ },
+ {
+  "id": "P1-2019JUN-Q34",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The approximate ratio between the total expenditure on taxes for all the years and the total expenditure on transport for all the years is",
+  "passage": "Consider the following table that shows expenditures of a company (in lakh rupees) per annum over the given years. Answer the questions based on the data contained in the table :",
+  "table": {
+   "title": "Item of expenditure",
+   "columns": [
+    "Year",
+    "Salary",
+    "Transport",
+    "Bonus",
+    "Interest on Loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "150",
+     "90",
+     "2.00",
+     "20.0",
+     "80"
+    ],
+    [
+     "2009",
+     "180",
+     "100",
+     "2.50",
+     "30.5",
+     "95"
+    ],
+    [
+     "2010",
+     "200",
+     "110",
+     "2.75",
+     "35.5",
+     "105"
+    ],
+    [
+     "2011",
+     "240",
+     "115",
+     "3.00",
+     "40.0",
+     "85"
+    ],
+    [
+     "2012",
+     "250",
+     "125",
+     "3.25",
+     "42.5",
+     "100"
+    ]
+   ]
+  },
+  "options": [
+   "31 : 40",
+   "25 : 36",
+   "27 : 30",
+   "31 : 36"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 31 : 36** (NTA key).\n\nTaxes 465 : transport 540 = **31 : 36** (both divided by 15).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "64635027738"
+ },
+ {
+  "id": "P1-2019JUN-Q35",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The approximate ratio between the total expenditure of the company in the year 2008 and the total expenditure of the company in the year 2009 is",
+  "passage": "Consider the following table that shows expenditures of a company (in lakh rupees) per annum over the given years. Answer the questions based on the data contained in the table :",
+  "table": {
+   "title": "Item of expenditure",
+   "columns": [
+    "Year",
+    "Salary",
+    "Transport",
+    "Bonus",
+    "Interest on Loans",
+    "Taxes"
+   ],
+   "rows": [
+    [
+     "2008",
+     "150",
+     "90",
+     "2.00",
+     "20.0",
+     "80"
+    ],
+    [
+     "2009",
+     "180",
+     "100",
+     "2.50",
+     "30.5",
+     "95"
+    ],
+    [
+     "2010",
+     "200",
+     "110",
+     "2.75",
+     "35.5",
+     "105"
+    ],
+    [
+     "2011",
+     "240",
+     "115",
+     "3.00",
+     "40.0",
+     "85"
+    ],
+    [
+     "2012",
+     "250",
+     "125",
+     "3.25",
+     "42.5",
+     "100"
+    ]
+   ]
+  },
+  "options": [
+   "57 : 75",
+   "52 : 68",
+   "57 : 68",
+   "68 : 57"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 57 : 68** (NTA key).\n\n2008 total 342 : 2009 total 408 (180 + 100 + 2.5 + 30.5 + 95) = **57 : 68** (both divided by 6).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "64635027739"
+ },
+ {
+  "id": "P1-2019JUN-Q36",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A computer has main memory of 960 KBytes. What is the exact number of bytes contained in this memory?",
+  "options": [
+   "960 × 8",
+   "960 × 1000",
+   "960 × 1024",
+   "960 × 1024 × 1024"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 960 × 1024** (NTA key).\n\n1 KB = 2¹⁰ = 1024 bytes, so 960 KB = **960 × 1024** bytes.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "nta_question_id": "64635027740"
+ },
+ {
+  "id": "P1-2019JUN-Q37",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The convenient place to store contact information for quick retrieval in e-mail is",
+  "options": [
+   "Address box",
+   "Message box",
+   "Address book",
+   "Message book"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Address book** (NTA key).\n\nE-mail programs keep contacts in the **address book**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "nta_question_id": "64635027741"
+ },
+ {
+  "id": "P1-2019JUN-Q38",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "SMTP is an acronym for",
+  "options": [
+   "Simple Mail Transport Protocol",
+   "Simple Mail Terminal Protocol",
+   "Simple Mail Transfer Protocol",
+   "Simple Mail Transition Protocol"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Simple Mail Transfer Protocol** (NTA key).\n\n**SMTP** is the Simple Mail **Transfer** Protocol, used to send e-mail between servers. POP3 and IMAP are used to retrieve it.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "64635027742"
+ },
+ {
+  "id": "P1-2019JUN-Q39",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which of the following file format is not a video file format?",
+  "options": [
+   ".AVI",
+   ".MOV",
+   ".MP4",
+   ".JPEG"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) .JPEG** (NTA key).\n\n**JPEG** is an image format. AVI, MOV and MP4 are video containers.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "64635027743"
+ },
+ {
+  "id": "P1-2019JUN-Q40",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an online store house of all academic awards like certificates, diplomas, degrees, marksheets etc?",
+  "options": [
+   "SWAYAM",
+   "National Digital Library",
+   "National Academic Library",
+   "National Academic Depository"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) National Academic Depository** (NTA key).\n\nThe **National Academic Depository (NAD)** is a 24×7 online store of academic awards, launched in 2017. SWAYAM offers MOOCs, and the National Digital Library holds learning resources.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "64635027744"
+ },
+ {
+  "id": "P1-2019JUN-Q41",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Montreal protocol aims at",
+  "options": [
+   "Reduction in emissions of green house gases",
+   "Phasing out ozone depleting substances",
+   "Prohibiting transboundary movement of hazardous waste",
+   "Enhancing cooperation among UN member states for peaceful uses of nuclear energy"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Phasing out ozone depleting substances** (NTA key).\n\nThe **Montreal Protocol** (1987) phases out ozone-depleting substances such as CFCs and halons. Greenhouse gases fall under the Kyoto Protocol, and hazardous-waste movement under the Basel Convention.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "64635027745"
+ },
+ {
+  "id": "P1-2019JUN-Q42",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Efficiency of electrical power generation is least amongst the following sources of energy in case of",
+  "options": [
+   "Solar",
+   "Wind",
+   "Geothermal",
+   "Nuclear"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Geothermal** (NTA key).\n\n**Geothermal** plants convert only about 10–15% of the heat to electricity, because the steam is at a low temperature. Nuclear plants reach about 33%, wind turbines about 35–45%, and the solar figure in the key's comparison is higher than geothermal.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "nta_question_id": "64635027746"
+ },
+ {
+  "id": "P1-2019JUN-Q43",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Taj Mahal is mainly threatened by the deleterious effects of",
+  "options": [
+   "Sulphur dioxide",
+   "Chlorine",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Sulphur dioxide** (NTA key).\n\n**Sulphur dioxide**, from the Mathura refinery and industries, forms acid rain that corrodes marble (\"marble cancer\"). This led to the Taj Trapezium Zone order.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "64635027747"
+ },
+ {
+  "id": "P1-2019JUN-Q44",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Earthquake ‘A’ is 5 on Richter scale and Earthquake ‘B’ is 8 on the same scale. Earthquake ‘B’ has 1000 times the wave amplitude compared to ‘A’.",
+   "The energy released in ‘B’ is three times that of ‘A’"
+  ],
+  "item_style": "roman",
+  "prompt": "Choose the correct option :",
+  "options": [
+   "Statement I is correct and Statement II is incorrect",
+   "Statement I and II are correct",
+   "Statement II is correct and I is incorrect",
+   "Statement I and II are incorrect"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Statement I is correct and Statement II is incorrect** (NTA key).\n\nThe Richter scale is logarithmic.\n- Each step multiplies the wave amplitude by 10, so 8 versus 5 is 10³ = **1000 times** the amplitude. Statement I is correct.\n- Each step multiplies the energy by about 31.6, so 3 steps is about 31,600 times, not three times. Statement II is incorrect.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "nta_question_id": "64635027748"
+ },
+ {
+  "id": "P1-2019JUN-Q45",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In large parts of Eastern India, the ground water is contaminated by",
+  "options": [
+   "Arsenic",
+   "Lead",
+   "Mercury",
+   "Nickel"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Arsenic** (NTA key).\n\nGroundwater in the Ganga–Brahmaputra delta (West Bengal, Bihar, Assam) carries geogenic **arsenic**, causing arsenicosis.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Environment and human health",
+  "nta_question_id": "64635027749"
+ },
+ {
+  "id": "P1-2019JUN-Q46",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a non-conventional learning programme in higher education?",
+  "options": [
+   "Swayam",
+   "Face-to-face teaching-learning",
+   "Tutorial class",
+   "Seminar"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Swayam** (NTA key).\n\n**SWAYAM** (online MOOCs) is non-conventional. The others are conventional classroom modes.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "64635027750"
+ },
+ {
+  "id": "P1-2019JUN-Q47",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "For the day to day administration of University, which of the following bodies is responsible?",
+  "options": [
+   "Senate",
+   "Syndicate/Executive council",
+   "Student council",
+   "Academic council"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Syndicate/Executive council** (NTA key).\n\nThe **Syndicate/Executive Council** is a university's chief executive body for day-to-day administration. The Senate or Court is the supreme deliberative body, and the Academic Council handles academic matters.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "64635027751"
+ },
+ {
+  "id": "P1-2019JUN-Q48",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Which of the following statements represent the main functions of UGC?",
+  "items": [
+   "Recognition of institutions",
+   "Maintenance of quality and standards",
+   "Appointment of Vice Chancellor",
+   "Giving grants to institutions",
+   "Making state governments responsible for educational development"
+  ],
+  "item_style": "roman",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(i), (ii) and (iii)",
+   "(i), (iii) and (iv)",
+   "(i), (ii) and (iv)",
+   "(ii), (iii) and (v)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (i), (ii) and (iv)** (NTA key).\n\nUnder the UGC Act 1956, the UGC:\n- **recognises** universities\n- **maintains standards** of teaching, examination and research\n- **gives grants**\n\nIt does not appoint vice-chancellors or make state governments responsible for education.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "64635027752"
+ },
+ {
+  "id": "P1-2019JUN-Q49",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The main aim of the faculty recharge scheme of UGC was to",
+  "options": [
+   "Address the shortage of faculty in higher education institution",
+   "Upgrade the teaching skills of the faculty",
+   "Upgrade the research infrastructure for the faculty in colleges and universities",
+   "Strengthen the academia — industry linkage"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Address the shortage of faculty in higher education institution** (NTA key).\n\nThe UGC **Faculty Recharge Programme** (2009) recruited young researchers as assistant professors to **address the shortage of faculty** and revitalise university research.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "64635027753"
+ },
+ {
+  "id": "P1-2019JUN-Q50",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2019, held 26 June 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy in the Drive notes folder), question numbers as printed. Every answer follows NTA's answer key for this shift (uploaded to the Drive notes folder), matched by NTA question ID."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Name the scheme which facilitates academic and research collaboration between Indian Institution and the best institution in the world",
+  "options": [
+   "ICSSR - IMPRESS",
+   "Staff Development Scheme",
+   "SPARC",
+   "Institutional Development Scheme"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) SPARC** (NTA key).\n\n**SPARC** (Scheme for Promotion of Academic and Research Collaboration, MHRD 2018) funds collaboration between Indian institutions and top foreign universities. IMPRESS funds social-science research projects.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "64635027754"
+ }
+]
