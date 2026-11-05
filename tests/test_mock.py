@@ -16,7 +16,7 @@ def test_free_user_can_sit_the_free_paper(free_bank):
     choices = mock.paper_choices(free_bank.questions, "yoga", seed=1)
     assert {c.key for c in choices} >= {"session:December 2018", "session:July 2018"}
     dec = next(c for c in choices if c.key == "session:December 2018")
-    assert len(dec.question_ids) == 80
+    assert len(dec.question_ids) == 98
 
 
 def test_palette_and_scoring(free_bank):
