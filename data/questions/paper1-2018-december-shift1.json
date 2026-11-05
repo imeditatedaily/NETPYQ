@@ -1,0 +1,1496 @@
+[
+ {
+  "id": "P1-2018DEC-S1-Q01",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which among the following is the best field of study to improve the ability of students to experiment and analyse ?",
+  "options": [
+   "Science",
+   "History",
+   "Economics",
+   "Languages"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Science** (NTA key).\n\nExperimenting and analysing are the core of the **scientific method**: forming a hypothesis, testing it under controlled conditions and analysing the results. Science teaching builds exactly these skills; history, economics and languages lean more on interpretation, argument and expression.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "nta_question_id": "91394324450"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q02",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Suppose as a teacher you are training your students in public speaking and debate. Which among the following is most difficult to develop among the students ?",
+  "options": [
+   "Concept formulation",
+   "Voice modulation",
+   "Using/Selecting appropriate language",
+   "Control over emotions"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Control over emotions** (NTA key).\n\nConcepts, voice and choice of words are cognitive and psychomotor skills that improve quickly with practice and feedback. **Control over one's emotions** — staying calm when challenged or contradicted in a debate — belongs to the affective domain and is the slowest to develop.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "91394324451"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q03",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Among the following which one is not an instructional material ?",
+  "options": [
+   "Audio Podcast",
+   "Printed study guide",
+   "Overhead projector",
+   "Youtube video"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Overhead projector** (NTA key).\n\nInstructional **materials** are the content carriers (\"software\"): podcasts, study guides, videos. An **overhead projector** is a piece of equipment (\"hardware\") used to display material, not material itself.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "91394324452"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q04",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which among the following is best advantage of Choice Based Credit System ?",
+  "options": [
+   "Shift in focus from teacher-centric to student-centric education",
+   "Improving classroom attendance",
+   "Helping teacher to complete syllabus on time",
+   "Reducing examination anxiety among students"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Shift in focus from teacher-centric to student-centric education** (NTA key).\n\nThe UGC introduced the **Choice Based Credit System** so that students choose core, elective and skill courses at their own pace and can carry credits across institutions. Its main gain is that learning becomes **student-centric** rather than teacher-centric.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "91394324453"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q05",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which among the following reflects best the quality of teaching in a classroom ?",
+  "options": [
+   "Through full attendance in the classroom",
+   "Through the use of many teaching aids in the classroom",
+   "Through observation of silence by the students in classroom",
+   "Through the quality of questions asked by students in classroom"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Through the quality of questions asked by students in classroom** (NTA key).\n\nGood teaching provokes thinking. When students ask **thoughtful, higher-order questions**, it shows they have understood and are engaged. Attendance, silence and the number of aids are outward signs that say little about learning.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "nta_question_id": "91394324454"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q06",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "The four major operations in scientific research are :",
+  "items": [
+   "Demonstration of co-variance",
+   "Elimination of spurious relations",
+   "Sequencing in terms of time-order",
+   "Self-education",
+   "Operationalisation of personal choice",
+   "Theorisation"
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a), (b), (c) and (d)",
+   "(b), (c), (d) and (e)",
+   "(a), (b), (c) and (f)",
+   "(c), (d), (e) and (f)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (a), (b), (c) and (f)** (NTA key).\n\nTo establish a causal explanation, scientific research must:\n- show that the variables **vary together** (co-variance)\n- rule out **spurious** relations caused by a third factor\n- show the **time order**: the cause comes before the effect\n- fit the result into a **theory** (theorisation)\n\nSelf-education and \"operationalisation of personal choice\" are not research operations.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "91394324455"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q07",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Formulation of a research problem depends upon :",
+  "items": [
+   "What is the object behind the researcher’s choice ?",
+   "What are the specific questions ?",
+   "What is the conceptual model ?",
+   "What negative factors to research upon ?",
+   "Reasons for unlimiting the study.",
+   "Construction of hypotheses."
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a), (c), (e) and (f)",
+   "(b), (c), (d) and (e)",
+   "(a), (b), (c) and (f)",
+   "(c), (d), (e) and (f)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (a), (b), (c) and (f)** (NTA key).\n\nFormulating a problem means stating the **objective** behind it, the **specific questions** to be answered, the **conceptual model** that links the variables, and the **hypotheses** to be tested.\n\n\"Negative factors\" and \"reasons for unlimiting the study\" are not part of it; a study is *delimited*, not left unlimited.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "nta_question_id": "91394324456"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q08",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A variable that is manipulated is known as :",
+  "options": [
+   "Control variable",
+   "Dependent variable",
+   "Independent variable",
+   "Confounding variable"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Independent variable** (NTA key).\n\nIn an experiment the researcher deliberately **manipulates the independent variable** and measures its effect on the dependent variable. Control variables are held constant; a confounding variable is an uncontrolled factor that distorts the effect.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "nta_question_id": "91394324457"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q09",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "The components of a research design are :",
+  "items": [
+   "Comparison",
+   "Control",
+   "Reactivity",
+   "Manipulation",
+   "Non-representativeness",
+   "Generalisation"
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a), (c), (e) and (f)",
+   "(b), (c), (d) and (e)",
+   "(a), (b), (d) and (f)",
+   "(c), (d), (e) and (f)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (a), (b), (d) and (f)** (NTA key).\n\nAn experimental research design is built from **comparison** (between groups or conditions), **control** (of extraneous variables), **manipulation** (of the independent variable) and **generalisation** (to the population).\n\nReactivity and non-representativeness are *threats* to a design's validity, not its components.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "91394324458"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q10",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Artifacts that arise and affect the internal validity in research are :",
+  "items": [
+   "History",
+   "Randomisation",
+   "Maturity",
+   "Instrumentation",
+   "Experimental mortality",
+   "Matching"
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a), (b), (c) and (d)",
+   "(a), (c), (d) and (e)",
+   "(b), (c), (d) and (f)",
+   "(d), (e), (f) and (b)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (a), (c), (d) and (e)** (NTA key).\n\nCampbell and Stanley's threats to internal validity include **history** (outside events), **maturation**, **instrumentation** (changes in the measuring tool or observers) and **experimental mortality** (drop-outs).\n\nRandomisation and matching are the techniques used to *control* such threats, not artifacts themselves.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "91394324459"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q11",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "What prompted Singapore to opt for stronger ties with India ?",
+  "passage": "Read the following passage carefully and answer questions 11 to 15 :\n\nSingapore has long advocated for India to take up its role as an integral part of the region. It is gratifying to see how Asean - India relations have grown during the past 25 years. In 1991, when the Cold War ended and India began its economic liberalisation, Singapore saw an opportunity to deepen ties and build on its historical and cultural links with the Asian region. Singapore pushed for India to become a full Asean dialogue partner in 1995 and join the EAS in 1995 and since then, Asean - India ties have strengthened. All in all, around 30 platforms for co-operation exist, including seven ministerial dialogues and the Annual Leader Summit. However, there is scope for more and it is a must. For instance, there are tremendous opportunities in enhancing physical and digital connectivity between India and Asean. Asean is committed to strengthening land, air and sea linkages with India. These linkages will enhance people-to-people flows, as well as boost business, investment and tourism. The India-Myanmar-Thailand trilateral highway will connect India’s Northeast to mainland Southeast Asia. While one can fly directly between India and several Asean countries, there is still much room to expand air links to support growing business and tourism. Beyond physical linkages, digital connectivity is the new frontier in the Fourth Industrial Revolution. India has made great progress in innovation, Start-ups and digital inclusion. There are opportunities to apply initiatives such as Aadhaar in our region. E-commerce and FinTech are two other areas of potential collaboration. As an economic hub, Singapore can serve as a springboard to launch these ideas to Southeast Asia and beyond. India’s role in Asean should be anchored by growing economic ties with Singapore. The economic integration involving 16 countries with one-third of global GDP and trade will create an integrated Asian market.",
+  "options": [
+   "End of Cold War",
+   "Economic liberalisation in India",
+   "Historical past",
+   "Geo-political equations"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Economic liberalisation in India** (NTA key).\n\nThe passage says that in 1991, when the Cold War ended **and India began its economic liberalisation**, Singapore saw an opportunity to deepen ties. NTA's key takes India's liberalisation, which opened the economy to partners such as Singapore, as the prompt.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "91394324461"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q12",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The commitment of Asean with India is :",
+  "passage": "Read the following passage carefully and answer questions 11 to 15 :\n\nSingapore has long advocated for India to take up its role as an integral part of the region. It is gratifying to see how Asean - India relations have grown during the past 25 years. In 1991, when the Cold War ended and India began its economic liberalisation, Singapore saw an opportunity to deepen ties and build on its historical and cultural links with the Asian region. Singapore pushed for India to become a full Asean dialogue partner in 1995 and join the EAS in 1995 and since then, Asean - India ties have strengthened. All in all, around 30 platforms for co-operation exist, including seven ministerial dialogues and the Annual Leader Summit. However, there is scope for more and it is a must. For instance, there are tremendous opportunities in enhancing physical and digital connectivity between India and Asean. Asean is committed to strengthening land, air and sea linkages with India. These linkages will enhance people-to-people flows, as well as boost business, investment and tourism. The India-Myanmar-Thailand trilateral highway will connect India’s Northeast to mainland Southeast Asia. While one can fly directly between India and several Asean countries, there is still much room to expand air links to support growing business and tourism. Beyond physical linkages, digital connectivity is the new frontier in the Fourth Industrial Revolution. India has made great progress in innovation, Start-ups and digital inclusion. There are opportunities to apply initiatives such as Aadhaar in our region. E-commerce and FinTech are two other areas of potential collaboration. As an economic hub, Singapore can serve as a springboard to launch these ideas to Southeast Asia and beyond. India’s role in Asean should be anchored by growing economic ties with Singapore. The economic integration involving 16 countries with one-third of global GDP and trade will create an integrated Asian market.",
+  "options": [
+   "More and more dialogues",
+   "Offer political platforms",
+   "Improving transport links",
+   "Hold leadership summits"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Improving transport links** (NTA key).\n\n\"Asean is committed to **strengthening land, air and sea linkages** with India\", that is, to improving transport links.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "91394324462"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q13",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "What is needed to encourage tourism between India and Asean ?",
+  "passage": "Read the following passage carefully and answer questions 11 to 15 :\n\nSingapore has long advocated for India to take up its role as an integral part of the region. It is gratifying to see how Asean - India relations have grown during the past 25 years. In 1991, when the Cold War ended and India began its economic liberalisation, Singapore saw an opportunity to deepen ties and build on its historical and cultural links with the Asian region. Singapore pushed for India to become a full Asean dialogue partner in 1995 and join the EAS in 1995 and since then, Asean - India ties have strengthened. All in all, around 30 platforms for co-operation exist, including seven ministerial dialogues and the Annual Leader Summit. However, there is scope for more and it is a must. For instance, there are tremendous opportunities in enhancing physical and digital connectivity between India and Asean. Asean is committed to strengthening land, air and sea linkages with India. These linkages will enhance people-to-people flows, as well as boost business, investment and tourism. The India-Myanmar-Thailand trilateral highway will connect India’s Northeast to mainland Southeast Asia. While one can fly directly between India and several Asean countries, there is still much room to expand air links to support growing business and tourism. Beyond physical linkages, digital connectivity is the new frontier in the Fourth Industrial Revolution. India has made great progress in innovation, Start-ups and digital inclusion. There are opportunities to apply initiatives such as Aadhaar in our region. E-commerce and FinTech are two other areas of potential collaboration. As an economic hub, Singapore can serve as a springboard to launch these ideas to Southeast Asia and beyond. India’s role in Asean should be anchored by growing economic ties with Singapore. The economic integration involving 16 countries with one-third of global GDP and trade will create an integrated Asian market.",
+  "options": [
+   "Air links",
+   "Innovation",
+   "Start-ups",
+   "Waterways"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Air links** (NTA key).\n\n\"There is still much room to expand **air links** to support growing business and tourism.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "91394324463"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q14",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "The areas of collaboration between India and Asean are :",
+  "passage": "Read the following passage carefully and answer questions 11 to 15 :\n\nSingapore has long advocated for India to take up its role as an integral part of the region. It is gratifying to see how Asean - India relations have grown during the past 25 years. In 1991, when the Cold War ended and India began its economic liberalisation, Singapore saw an opportunity to deepen ties and build on its historical and cultural links with the Asian region. Singapore pushed for India to become a full Asean dialogue partner in 1995 and join the EAS in 1995 and since then, Asean - India ties have strengthened. All in all, around 30 platforms for co-operation exist, including seven ministerial dialogues and the Annual Leader Summit. However, there is scope for more and it is a must. For instance, there are tremendous opportunities in enhancing physical and digital connectivity between India and Asean. Asean is committed to strengthening land, air and sea linkages with India. These linkages will enhance people-to-people flows, as well as boost business, investment and tourism. The India-Myanmar-Thailand trilateral highway will connect India’s Northeast to mainland Southeast Asia. While one can fly directly between India and several Asean countries, there is still much room to expand air links to support growing business and tourism. Beyond physical linkages, digital connectivity is the new frontier in the Fourth Industrial Revolution. India has made great progress in innovation, Start-ups and digital inclusion. There are opportunities to apply initiatives such as Aadhaar in our region. E-commerce and FinTech are two other areas of potential collaboration. As an economic hub, Singapore can serve as a springboard to launch these ideas to Southeast Asia and beyond. India’s role in Asean should be anchored by growing economic ties with Singapore. The economic integration involving 16 countries with one-third of global GDP and trade will create an integrated Asian market.",
+  "items": [
+   "FinTech",
+   "Aadhaar",
+   "E-commerce",
+   "Digital backwardness",
+   "Trilateral highways",
+   "Fourth Industrial Revolution"
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a), (b), (c) and (d)",
+   "(b), (c), (d) and (e)",
+   "(c), (d), (e) and (f)",
+   "(a), (c), (e) and (f)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (a), (b), (c) and (d)** (NTA key).\n\nThe passage names **Aadhaar**-type initiatives, **E-commerce** and **FinTech** as areas of potential collaboration. Code (1) is the only one that contains all three; the others leave out at least one of them. (\"Digital backwardness\" is not an area of collaboration, but it comes in the same code.)",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "91394324464"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q15",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Who can be India’s launchpad for an integrated Asian market as per the passage ?",
+  "passage": "Read the following passage carefully and answer questions 11 to 15 :\n\nSingapore has long advocated for India to take up its role as an integral part of the region. It is gratifying to see how Asean - India relations have grown during the past 25 years. In 1991, when the Cold War ended and India began its economic liberalisation, Singapore saw an opportunity to deepen ties and build on its historical and cultural links with the Asian region. Singapore pushed for India to become a full Asean dialogue partner in 1995 and join the EAS in 1995 and since then, Asean - India ties have strengthened. All in all, around 30 platforms for co-operation exist, including seven ministerial dialogues and the Annual Leader Summit. However, there is scope for more and it is a must. For instance, there are tremendous opportunities in enhancing physical and digital connectivity between India and Asean. Asean is committed to strengthening land, air and sea linkages with India. These linkages will enhance people-to-people flows, as well as boost business, investment and tourism. The India-Myanmar-Thailand trilateral highway will connect India’s Northeast to mainland Southeast Asia. While one can fly directly between India and several Asean countries, there is still much room to expand air links to support growing business and tourism. Beyond physical linkages, digital connectivity is the new frontier in the Fourth Industrial Revolution. India has made great progress in innovation, Start-ups and digital inclusion. There are opportunities to apply initiatives such as Aadhaar in our region. E-commerce and FinTech are two other areas of potential collaboration. As an economic hub, Singapore can serve as a springboard to launch these ideas to Southeast Asia and beyond. India’s role in Asean should be anchored by growing economic ties with Singapore. The economic integration involving 16 countries with one-third of global GDP and trade will create an integrated Asian market.",
+  "options": [
+   "Thailand",
+   "Myanmar",
+   "Southeast Asia",
+   "Singapore"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Singapore** (NTA key).\n\n\"As an economic hub, **Singapore** can serve as a springboard to launch these ideas to Southeast Asia and beyond.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "91394324465"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q16",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In the digital era, there is a fear that classroom communication may result in :",
+  "options": [
+   "Stimulation",
+   "Over-stimulation",
+   "Quick adaptation",
+   "Passive adaptation"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Over-stimulation** (NTA key).\n\nScreens, multimedia and constant notifications bombard learners with stimuli. The worry is **over-stimulation**: too much input, shorter attention spans and less reflection.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "91394324466"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q17",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Non-verbal communication is considered :",
+  "options": [
+   "Precise",
+   "Informal",
+   "Formal",
+   "Culture-free"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Informal** (NTA key).\n\nGestures, facial expression, posture and tone are spontaneous and unstructured, so non-verbal communication is **informal**. It is not precise (it is easily misread) and not culture-free (the same gesture means different things in different cultures).",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "91394324467"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q18",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Negative criticism as an element of classroom communication will lead to :",
+  "items": [
+   "External sympathy",
+   "Justification",
+   "Defensiveness",
+   "De-motivation",
+   "Supportive listening",
+   "Confrontational empathy"
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(b), (c) and (d)",
+   "(c), (d) and (e)",
+   "(d), (e) and (f)",
+   "(a), (b) and (c)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (b), (c) and (d)** (NTA key).\n\nA student who is criticised negatively tends to **justify** himself or herself, becomes **defensive**, and loses motivation (**de-motivation**). Supportive listening and empathy are what constructive feedback produces, not negative criticism.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "91394324468"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q19",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "assertion_reason",
+  "question_text": "Read the Assertion (A) and Reason (R) and choose the correct answer from the code given below :",
+  "assertion": "Teacher communication is central to classroom management.",
+  "reason": "Teacher communication behaviours should not be used to regulate the classroom behaviour of students.",
+  "options": [
+   "Both (A) and (R) are true.",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) is true, but (R) is false.** (NTA key).\n\n(A) is true: how a teacher speaks, listens and responds is central to managing a class.\n\n(R) is false: teachers *do* — and should — use their communication behaviours (instructions, praise, non-verbal cues) to regulate students' classroom behaviour.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "91394324469"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q20",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The rhetorical approach in classroom communication considers teachers as __________ agents of students.",
+  "options": [
+   "Influencing",
+   "Academic",
+   "Official",
+   "Non-official"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Influencing** (NTA key).\n\nCommunication research describes two views of the teacher. In the **rhetorical** view the teacher is a source who persuades and **influences** students towards learning goals. In the **relational** view the teacher and students build understanding together.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "91394324470"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q21",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "If ABODE is coded as ADRHJ, then the code for AGRO will be :",
+  "options": [
+   "AVCD",
+   "AIUS",
+   "AIST",
+   "AIVX"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) AIUS** (NTA key).\n\nEach letter moves forward by 0, 2, 3, 4, 5 places in turn: A+0 = A, B+2 = D, O+3 = R, D+4 = H, E+5 = J.\n\nAGRO: A+0 = **A**, G+2 = **I**, R+3 = **U**, O+4 = **S** → **AIUS**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "nta_question_id": "91394324471"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q22",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The next term in the series 0, 1, 9, 36, 100, _____ is :",
+  "options": [
+   "225",
+   "164",
+   "196",
+   "216"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 225** (NTA key).\n\nAdd successive cubes: 0 + 1³ = 1, 1 + 2³ = 9, 9 + 3³ = 36, 36 + 4³ = 100, 100 + 5³ = **225**. (Equivalently the terms are the squares of 0, 1, 3, 6, 10, 15.)",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "91394324472"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q23",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The next term in the letter series DEF, HIJ, LMN, PQR, TUV, _____ is :",
+  "options": [
+   "WYZ",
+   "YZA",
+   "XYZ",
+   "WXY"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) XYZ** (NTA key).\n\nEach group is three consecutive letters, and one letter is skipped between groups: DEF (G) HIJ (K) LMN (O) PQR (S) TUV (W) **XYZ**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "91394324473"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q24",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Choose the word which is different from the rest:",
+  "options": [
+   "Aravali Hills",
+   "Shivalik Hills",
+   "Nilgiri Hills",
+   "Mount Kilimanjaro"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Mount Kilimanjaro** (NTA key).\n\nThe Aravalli, Shivalik and Nilgiri are hill ranges in India. **Mount Kilimanjaro** is a single volcanic mountain in Tanzania, Africa.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Classification: odd one out",
+  "nta_question_id": "91394324474"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q25",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Jenifer’s father-in-law is my brother. Helen is a grand-daughter of my mother. How is Helen related to Jenifer ?",
+  "options": [
+   "Daughter-in-law",
+   "Sister",
+   "Sister-in-law",
+   "Mother"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sister-in-law** (NTA key).\n\nJenifer's father-in-law is my brother, so Jenifer is married to my brother's son. Helen is my mother's grand-daughter, so she is a daughter of one of her children; the key takes her as my brother's daughter. Then Helen is the **sister of Jenifer's husband**, i.e. Jenifer's **sister-in-law**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Blood relations",
+  "nta_question_id": "91394324475"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q26",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Among the following, there are two statements which can’t be true together, but can be false together. Select the code that represents them.",
+  "items": [
+   "All poets are dreamers.",
+   "No poets are dreamers.",
+   "Some poets are dreamers.",
+   "Some poets are not dreamers."
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a) and (b)",
+   "(a) and (d)",
+   "(b) and (d)",
+   "(c) and (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (a) and (b)** (NTA key).\n\nTwo propositions that cannot both be true but can both be false are **contraries**: the universal affirmative (A: *All poets are dreamers*) and the universal negative (E: *No poets are dreamers*).\n\n(a)–(d) and (b)–(c) are contradictories; (c) and (d) are sub-contraries (they can both be true but not both false).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "91394324476"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q27",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Given below are two premises (a) and (b). Four conclusions are drawn from them. Select the code that states validly drawn conclusion(s). [Taking the premises individually or jointly]\n\nPremises : (a) All judges are lawyers.\n(b) No doctors are lawyers.\n\nConclusions :",
+  "items": [
+   "No lawyers are doctors.",
+   "No doctors are judges.",
+   "All lawyers are judges.",
+   "Some doctors are judges."
+  ],
+  "item_style": "roman",
+  "prompt": "Code :",
+  "options": [
+   "(i) and (iii)",
+   "(i) and (ii)",
+   "(i) and (iv)",
+   "(ii) and (iii)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (i) and (ii)** (NTA key).\n\n- (i) follows from premise (b) alone: an E proposition converts simply, so *No doctors are lawyers* gives *No lawyers are doctors*.\n- (ii) follows from both premises: every judge is a lawyer and no doctor is a lawyer, so no doctor can be a judge.\n- (iii) is an invalid conversion of the A proposition, and (iv) contradicts (ii).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "nta_question_id": "91394324477"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q28",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Under which of the conditions an argument may be valid ? Select the correct answer from the code given below\n\nStatements :",
+  "items": [
+   "When its conclusion and premises are true.",
+   "Even when its conclusion and one or more of its premises are false.",
+   "Only when its conclusion is true."
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a) and (c)",
+   "(a) alone",
+   "(a) and (b)",
+   "(c) alone"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (a) and (b)** (NTA key).\n\nValidity depends on form, not on the actual truth of the statements. A valid argument may have true premises and a true conclusion, and it may also have a **false conclusion with one or more false premises** (for example, *All fish are birds; all birds fly; so all fish fly*).\n\nThe only combination a valid argument cannot have is true premises with a false conclusion, so (c) \"only when its conclusion is true\" is wrong.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "91394324478"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q29",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Truth and falsity are attributes of :",
+  "options": [
+   "Propositions",
+   "Arguments",
+   "Opinions",
+   "Debates"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Propositions** (NTA key).\n\nIn logic, **propositions** are true or false; arguments are valid or invalid (deductive) or strong or weak (inductive).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "91394324479"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q30",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which one of the following can be validly inferred from the proposition - “All animals are wild” ?",
+  "options": [
+   "No animals are wild.",
+   "Some animals are wild.",
+   "Some animals are not wild.",
+   "No non-animals are wild."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Some animals are wild.** (NTA key).\n\nBy **subalternation** in the traditional square of opposition, if the universal *All animals are wild* (A) is true, the particular *Some animals are wild* (I) is also true. \"No animals are wild\" is its contrary and \"Some animals are not wild\" its contradictory, so both are false.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "91394324480"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q31",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "How many States have atleast 50% or more electrified villages ?",
+  "passage": "Data on % of villages not electrified in 6 States is given below (in the year 2000) :\n\nAnswer the following three questions :",
+  "table": {
+   "title": "Villages not electrified (2000)",
+   "columns": [
+    "State",
+    "% of villages not electrified"
+   ],
+   "rows": [
+    [
+     "A",
+     "25%"
+    ],
+    [
+     "B",
+     "45%"
+    ],
+    [
+     "C",
+     "20%"
+    ],
+    [
+     "D",
+     "60%"
+    ],
+    [
+     "E",
+     "55%"
+    ],
+    [
+     "F",
+     "30%"
+    ]
+   ]
+  },
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 4** (NTA key).\n\nElectrified = 100 − not electrified: A 75%, B 55%, C 80%, D 40%, E 45%, F 70%. States with at least 50% electrified: A, B, C and F → **4**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "91394324482"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q32",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which State has twice the percentage of electrified villages in comparison to State D ?",
+  "passage": "Data on % of villages not electrified in 6 States is given below (in the year 2000) :\n\nAnswer the following three questions :",
+  "table": {
+   "title": "Villages not electrified (2000)",
+   "columns": [
+    "State",
+    "% of villages not electrified"
+   ],
+   "rows": [
+    [
+     "A",
+     "25%"
+    ],
+    [
+     "B",
+     "45%"
+    ],
+    [
+     "C",
+     "20%"
+    ],
+    [
+     "D",
+     "60%"
+    ],
+    [
+     "E",
+     "55%"
+    ],
+    [
+     "F",
+     "30%"
+    ]
+   ]
+  },
+  "options": [
+   "State A",
+   "State B",
+   "State C",
+   "State D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) State C** (NTA key).\n\nState D has 100 − 60 = 40% electrified villages. Twice that is 80%, which is **State C** (100 − 20).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "91394324483"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q33",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In the year 2000, the total number of villages in State D was 15,000. In the year 2010, the total number of villages had increased to 20,000 out of which 10,000 villages were yet to be electrified.\n\nThe % of villages not electrified in 2010 in State D has thus __________.",
+  "passage": "Data on % of villages not electrified in 6 States is given below (in the year 2000) :\n\nAnswer the following three questions :",
+  "table": {
+   "title": "Villages not electrified (2000)",
+   "columns": [
+    "State",
+    "% of villages not electrified"
+   ],
+   "rows": [
+    [
+     "A",
+     "25%"
+    ],
+    [
+     "B",
+     "45%"
+    ],
+    [
+     "C",
+     "20%"
+    ],
+    [
+     "D",
+     "60%"
+    ],
+    [
+     "E",
+     "55%"
+    ],
+    [
+     "F",
+     "30%"
+    ]
+   ]
+  },
+  "options": [
+   "Gone up",
+   "Come down",
+   "Not enough data",
+   "Cannot be computed"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Come down** (NTA key).\n\n2000: 60% of State D's villages were not electrified. 2010: 10,000 of 20,000 = 50%. The percentage has **come down** (even though the number of unelectrified villages rose from 9,000 to 10,000).",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "91394324484"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q35",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "If the total population of State A was 5 lakhs while the population in State B was 2 lakhs, the number of people below education index will be :",
+  "passage": "Data on education index in a few States is given below :\n\nAnswer the following two questions :",
+  "table": {
+   "title": "Education index",
+   "columns": [
+    "State Name",
+    "% of population below education index"
+   ],
+   "rows": [
+    [
+     "A",
+     "20%"
+    ],
+    [
+     "B",
+     "25%"
+    ],
+    [
+     "C",
+     "23%"
+    ],
+    [
+     "D",
+     "17%"
+    ],
+    [
+     "E",
+     "16%"
+    ],
+    [
+     "F",
+     "21%"
+    ],
+    [
+     "G",
+     "15%"
+    ]
+   ]
+  },
+  "options": [
+   "Higher in State A",
+   "Higher in State B",
+   "Equal in State A and B",
+   "Cannot be calculated"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Higher in State A** (NTA key).\n\nState A: 20% of 5 lakh = 1 lakh. State B: 25% of 2 lakh = 0.5 lakh. So the number is **higher in State A**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "91394324487"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q36",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A small text file stored on user’s computer by some websites in order to recognize and keep track of user's preferences is called :",
+  "options": [
+   "History",
+   "Log",
+   "Cookie",
+   "Report"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Cookie** (NTA key).\n\nA **cookie** is a small text file a website stores in the browser to remember the user — log-in state, preferences, shopping cart — on later visits.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "nta_question_id": "91394324488"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q37",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "__________ denotes an error in a computer program.",
+  "options": [
+   "Virus",
+   "Bit",
+   "Bug",
+   "Spam"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Bug** (NTA key).\n\nAn error or flaw in a program is a **bug**; finding and removing it is debugging. A virus is malicious code, a bit is a binary digit and spam is unsolicited mail.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "91394324489"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q38",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The output quality of a printer is measured by :",
+  "options": [
+   "Digits per inch",
+   "Dots per inch",
+   "Dots per cm",
+   "Dots per mm"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Dots per inch** (NTA key).\n\nPrinter resolution is measured in **dots per inch (dpi)**: the more dots printed per inch, the sharper the output.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "91394324490"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q39",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "Which of the following are audio file formats ?",
+  "items": [
+   ".wav",
+   ".aac",
+   ".wmv",
+   ".flv"
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a) and (b)",
+   "(b) and (c)",
+   "(c) and (d)",
+   "(a) and (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (a) and (b)** (NTA key).\n\n**.wav** (Waveform Audio) and **.aac** (Advanced Audio Coding) are audio formats. **.wmv** (Windows Media Video) and **.flv** (Flash Video) are video formats.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "91394324491"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q40",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In a computer, if 8 bits are used to specify address in memory, the total number of addresses will be :",
+  "options": [
+   "512",
+   "216",
+   "256",
+   "8"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 256** (NTA key).\n\nn address bits can form 2ⁿ different addresses: 2⁸ = **256** (0 to 255).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "nta_question_id": "91394324492"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q41",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "statements",
+  "question_text": "The annual range of temperature in the interior of the continents is high compared to coastal areas. What is/are the reason(s) ?",
+  "items": [
+   "Thermal difference between land and water.",
+   "Variations in altitude between continents and oceans.",
+   "Presence of strong winds in the interior.",
+   "Heavy rains in the interior as compared to coastal region."
+  ],
+  "item_style": "letters",
+  "prompt": "Code :",
+  "options": [
+   "(a) only",
+   "(a) and (b) only",
+   "(b) and (c) only",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (a) only** (NTA key).\n\nThis is **continentality**: land heats up and cools down much faster than water, which has a higher specific heat and mixes heat downwards. Coasts are moderated by the sea; interiors swing between hot summers and cold winters.\n\nAltitude, winds and rain are not the reason; interiors are in fact usually drier than coasts.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "91394324493"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q42",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "How much carbon is being added to the atmosphere by burning of fossil fuels ?",
+  "options": [
+   "6 - 9 billion tons",
+   "2 - 6 billion tons",
+   "4 - 6 billion tons",
+   "9 - 12 billion tons"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 6 - 9 billion tons** (NTA key).\n\nAt the time of the exam, burning fossil fuels (with cement production) released roughly **6–9 billion tonnes of carbon** (about 25–35 billion tonnes of CO₂) a year, according to the Global Carbon Project's budgets.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "91394324494"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q44",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "A source of renewable power which can be developed with minimum cost is :",
+  "options": [
+   "Wind mills",
+   "Tidal power",
+   "Geothermal energy",
+   "Biomass power"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Biomass power** (NTA key).\n\n**Biomass** power uses agricultural and forest residues, animal dung and other waste that are locally available, with simple technology (biogas plants, gasifiers, small boilers). Tidal and geothermal plants need costly site-specific engineering, and wind farms need large turbines and good wind sites.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "nta_question_id": "91394324496"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q45",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Natural vegetation of an area needs to be preserved for the future, mainly for the purpose of :",
+  "options": [
+   "Preventing soil erosion",
+   "Providing habitat for birds",
+   "Study by scientists",
+   "Providing material for breeding new species"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Providing material for breeding new species** (NTA key).\n\nNatural vegetation is a store of **genetic diversity**: wild relatives of crops and other plants carry genes for yield, disease resistance and drought tolerance. Preserving it keeps this **germplasm** available for breeding new varieties in the future, which NTA's key treats as the main purpose.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "nta_question_id": "91394324497"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q46",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The National Knowledge Commission (NKC) was established in which year ?",
+  "options": [
+   "1998",
+   "2000",
+   "2005",
+   "2007"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2005** (NTA key).\n\nThe **National Knowledge Commission** was set up on 13 June **2005** under Sam Pitroda to advise the Prime Minister on building a knowledge society; it submitted its final report in 2009.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "91394324498"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q47",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "In which year Education Commission under the Chairmanship of Dr. D.S. Kothari was set up ?",
+  "options": [
+   "1952",
+   "1955",
+   "1960",
+   "1964"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 1964** (NTA key).\n\nThe **Education Commission (Kothari Commission)** was appointed on 14 July **1964** and reported in 1966 (\"Education and National Development\"). 1952 is the year of the Secondary Education (Mudaliar) Commission.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "91394324499"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q48",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "Which of the following was launched in 2013 with the purpose to provide strategic funding to eligible state higher educational institutions ?",
+  "options": [
+   "All India Council for Technical Education",
+   "Sarva Shiksha Abhiyan",
+   "Rashtriya Uchchatar Shiksha Abhiyan",
+   "Rashtriya Madhyamik Shiksha Abhiyan"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Rashtriya Uchchatar Shiksha Abhiyan** (NTA key).\n\n**Rashtriya Uchchatar Shiksha Abhiyan (RUSA)**, launched in 2013, is a centrally sponsored scheme that gives strategic, norm-based funding to state universities and colleges. Sarva Shiksha Abhiyan and RMSA cover school education; AICTE is a regulator.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "91394324500"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q49",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The University Grants Commission (UGC) was formally inaugurated on 28 December 1953 by whom among the following ?",
+  "options": [
+   "Mrs. Indira Gandhi",
+   "Sh. Maulana Abul Kalam Azad",
+   "Dr. S. Radhakrishnan",
+   "Dr. Rajendra Prasad"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sh. Maulana Abul Kalam Azad** (NTA key).\n\nThe UGC was inaugurated on 28 December 1953 by **Maulana Abul Kalam Azad**, then Minister of Education. It became a statutory body under the UGC Act of 1956.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "91394324501"
+ },
+ {
+  "id": "P1-2018DEC-S1-Q50",
+  "subject": "paper1",
+  "exam_year": 2018,
+  "exam_cycle": "December",
+  "paper": "Paper 1 (22 Dec, shift 1)",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2018, held 22 December 2018 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed. Every answer follows NTA's final answer key for this shift, matched by NTA question ID. Left out: Q34, for which NTA gave marks for every option (none of them is right), and Q43, for which the key accepts two options."
+  },
+  "answer_source": "official_key",
+  "question_type": "mcq",
+  "question_text": "The University Grants Commission has a scheme for “Human Rights and Values in Eduaction”. Under this scheme, which statement is incorrect among the following for ‘Human Rights and Duties Education’ component ?",
+  "options": [
+   "To encourage research activities.",
+   "To develop interaction between society and educational institutions.",
+   "To establish value and wellness centres in schools.",
+   "To sensitize the citizens so that the norms and values of human rights are realised."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) To establish value and wellness centres in schools.** (NTA key).\n\nThe scheme funds universities and colleges: teaching and **research** on human rights, **interaction** between institutions and society, and **sensitising citizens** to human-rights norms. It does not set up value and wellness centres in **schools**, which are outside UGC's remit.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "nta_question_id": "91394324502"
+ }
+]

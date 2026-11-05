@@ -15,6 +15,8 @@ from pyq.tracker import make_answer
 APP = str(Path(__file__).resolve().parent.parent / "streamlit_app.py")
 NOW = 1_800_000_000
 
+OFFICIAL_DEC_2018 = "Paper 1 (22 Dec, shift 1)"   # from NTA's master question paper, not from a book
+
 
 @pytest.fixture(scope="module")
 def bank():
@@ -37,7 +39,9 @@ def test_yoga_subscriber_gets_every_yoga_paper_but_no_book_questions(bank):
     real = [q for q in yoga.questions if q.source_type != "model"]
     assert real and all(q.subject == "yoga" for q in real)
     p1 = visible_bank(bank, admin=False, unlocked={"paper1"})
-    assert not any(q.subject == "paper1" and q.is_dated and q.exam_year < 2019 for q in p1.questions)   # the book papers stay hidden
+    assert not any(q.subject == "paper1" and q.is_dated and q.exam_year < 2019 and q.paper != OFFICIAL_DEC_2018
+                   for q in p1.questions)                                                         # the book papers stay hidden
+    assert any(q.paper == OFFICIAL_DEC_2018 for q in p1.questions)   # NTA's own December 2018 paper is sold
     assert any(q.subject == "paper1" and q.exam_year == 2025 for q in p1.questions)
 
 
@@ -46,7 +50,9 @@ def test_admin_sees_everything(bank):
 
 
 def test_book_sourced_questions_are_detected(bank):
-    assert all(is_book_sourced(q) for q in bank.questions if q.subject == "paper1" and q.is_dated and q.exam_year < 2019)
+    assert all(is_book_sourced(q) for q in bank.questions
+               if q.subject == "paper1" and q.is_dated and q.exam_year < 2019 and q.paper != OFFICIAL_DEC_2018)
+    assert not any(is_book_sourced(q) for q in bank.questions if q.paper == OFFICIAL_DEC_2018)
     from_book = {q.session_label for q in bank.questions if q.subject == "yoga" and is_book_sourced(q)}
     assert from_book == {"November 2017", "July 2018", "December 2018"}    # transcribed from a solved-papers collection
     assert any(not is_book_sourced(q) for q in bank.questions if q.subject == "yoga")
