@@ -124,6 +124,7 @@ def test_shipped_paper_1_sessions_keep_their_numbering():
         ("2019-June", "Paper 1"): list(range(1, 51)),
         ("2022-December", "Paper 1"): list(range(1, 51)),
         ("2023-June", "Paper 1"): list(range(1, 51)),
+        ("2023-December", "Paper 1"): list(range(1, 51)),
         ("2025-June", "Paper 1"): [n for n in range(1, 51) if n != 8],             # dropped in NTA's final key
     }
 

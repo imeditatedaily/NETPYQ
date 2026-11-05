@@ -1,0 +1,1680 @@
+[
+ {
+  "id": "P1-2023DEC-Q01",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If the tourist traffic from India to USA is 165000 more than that of UK then what is the difference between the Indian overseas tourist traffic in the age group of [40-50) years and [30-40) years?",
+  "passage": "The following Table-I shows the percentage distribution of overseas tourist traffic from India to different countries and Table-II shows the percentage distribution of overseas tourist traffic from India according to their age during the year 2022. Based on the data in the tables, answer the questions that follow.\n\n[L–M) years means age is ≥ L years and < M years.",
+  "table": {
+   "title": "Table-I: Country-wise and Table-II: Age-wise distribution of Indian overseas tourists",
+   "columns": [
+    "Country (Table-I)",
+    "%",
+    "Age group (Table-II)",
+    "%"
+   ],
+   "rows": [
+    [
+     "Japan",
+     "30%",
+     "< 30 years",
+     "15%"
+    ],
+    [
+     "USA",
+     "40%",
+     "[30–40) years",
+     "15%"
+    ],
+    [
+     "UK",
+     "10%",
+     "[40–50) years",
+     "20%"
+    ],
+    [
+     "Others",
+     "20%",
+     "≥ 50 years",
+     "50%"
+    ]
+   ]
+  },
+  "options": [
+   "72500",
+   "27500",
+   "55000",
+   "42000"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 27500**\n\nUSA − UK = 40% − 10% = 30% of all tourists = 165000, so the total is 550000. The two age groups differ by 20% − 15% = 5% of 550000 = **27500**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "22742714709"
+ },
+ {
+  "id": "P1-2023DEC-Q02",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The ratio of the number of Indian tourists who went to USA to the number of Indian tourists who went abroad and were below 40 years of age, is",
+  "passage": "The following Table-I shows the percentage distribution of overseas tourist traffic from India to different countries and Table-II shows the percentage distribution of overseas tourist traffic from India according to their age during the year 2022. Based on the data in the tables, answer the questions that follow.\n\n[L–M) years means age is ≥ L years and < M years.",
+  "table": {
+   "title": "Table-I: Country-wise and Table-II: Age-wise distribution of Indian overseas tourists",
+   "columns": [
+    "Country (Table-I)",
+    "%",
+    "Age group (Table-II)",
+    "%"
+   ],
+   "rows": [
+    [
+     "Japan",
+     "30%",
+     "< 30 years",
+     "15%"
+    ],
+    [
+     "USA",
+     "40%",
+     "[30–40) years",
+     "15%"
+    ],
+    [
+     "UK",
+     "10%",
+     "[40–50) years",
+     "20%"
+    ],
+    [
+     "Others",
+     "20%",
+     "≥ 50 years",
+     "50%"
+    ]
+   ]
+  },
+  "options": [
+   "2:1",
+   "8:3",
+   "3:8",
+   "4:3"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 4:3**\n\nUSA = 40% of the total. Below 40 years = 15% + 15% = 30%. Ratio 40 : 30 = **4 : 3**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "22742714710"
+ },
+ {
+  "id": "P1-2023DEC-Q03",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If amongst other countries, Switzerland accounted for 25% of the Indian tourist traffic and a total of 25 lakh Indian tourists had gone to Switzerland during the year, then the number of [30-40) years old Indian tourists who went abroad in that year is",
+  "passage": "The following Table-I shows the percentage distribution of overseas tourist traffic from India to different countries and Table-II shows the percentage distribution of overseas tourist traffic from India according to their age during the year 2022. Based on the data in the tables, answer the questions that follow.\n\n[L–M) years means age is ≥ L years and < M years.",
+  "table": {
+   "title": "Table-I: Country-wise and Table-II: Age-wise distribution of Indian overseas tourists",
+   "columns": [
+    "Country (Table-I)",
+    "%",
+    "Age group (Table-II)",
+    "%"
+   ],
+   "rows": [
+    [
+     "Japan",
+     "30%",
+     "< 30 years",
+     "15%"
+    ],
+    [
+     "USA",
+     "40%",
+     "[30–40) years",
+     "15%"
+    ],
+    [
+     "UK",
+     "10%",
+     "[40–50) years",
+     "20%"
+    ],
+    [
+     "Others",
+     "20%",
+     "≥ 50 years",
+     "50%"
+    ]
+   ]
+  },
+  "options": [
+   "18.75 lakh",
+   "25 lakh",
+   "75 lakh",
+   "50 lakh"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 75 lakh**\n\nSwitzerland = 25% of \"Others\" = 25% of 20% = 5% of all tourists = 25 lakh, so the total is 500 lakh. The [30–40) group is 15% of 500 lakh = **75 lakh**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "22742714711"
+ },
+ {
+  "id": "P1-2023DEC-Q04",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If the total number of Indian tourists who went abroad to countries other than Japan, USA and UK was 5 lakhs in 2022, then what was the volume of Indian tourists to USA in that year?",
+  "passage": "The following Table-I shows the percentage distribution of overseas tourist traffic from India to different countries and Table-II shows the percentage distribution of overseas tourist traffic from India according to their age during the year 2022. Based on the data in the tables, answer the questions that follow.\n\n[L–M) years means age is ≥ L years and < M years.",
+  "table": {
+   "title": "Table-I: Country-wise and Table-II: Age-wise distribution of Indian overseas tourists",
+   "columns": [
+    "Country (Table-I)",
+    "%",
+    "Age group (Table-II)",
+    "%"
+   ],
+   "rows": [
+    [
+     "Japan",
+     "30%",
+     "< 30 years",
+     "15%"
+    ],
+    [
+     "USA",
+     "40%",
+     "[30–40) years",
+     "15%"
+    ],
+    [
+     "UK",
+     "10%",
+     "[40–50) years",
+     "20%"
+    ],
+    [
+     "Others",
+     "20%",
+     "≥ 50 years",
+     "50%"
+    ]
+   ]
+  },
+  "options": [
+   "10 lakhs",
+   "8 lakhs",
+   "6 lakhs",
+   "12 lakhs"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 10 lakhs**\n\n\"Others\" = 20% = 5 lakh, so the total is 25 lakh. USA = 40% of 25 lakh = **10 lakh**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "22742714712"
+ },
+ {
+  "id": "P1-2023DEC-Q05",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Consider that the total number of Indian tourists who went to Japan in 2022 was 24000. If A is the number of Indian tourists who went to UK and B is the number of Indian overseas tourists who were >50 years old then (A, B) = ____",
+  "passage": "The following Table-I shows the percentage distribution of overseas tourist traffic from India to different countries and Table-II shows the percentage distribution of overseas tourist traffic from India according to their age during the year 2022. Based on the data in the tables, answer the questions that follow.\n\n[L–M) years means age is ≥ L years and < M years.",
+  "table": {
+   "title": "Table-I: Country-wise and Table-II: Age-wise distribution of Indian overseas tourists",
+   "columns": [
+    "Country (Table-I)",
+    "%",
+    "Age group (Table-II)",
+    "%"
+   ],
+   "rows": [
+    [
+     "Japan",
+     "30%",
+     "< 30 years",
+     "15%"
+    ],
+    [
+     "USA",
+     "40%",
+     "[30–40) years",
+     "15%"
+    ],
+    [
+     "UK",
+     "10%",
+     "[40–50) years",
+     "20%"
+    ],
+    [
+     "Others",
+     "20%",
+     "≥ 50 years",
+     "50%"
+    ]
+   ]
+  },
+  "options": [
+   "(5000, 25000)",
+   "(6000, 30000)",
+   "(7000, 35000)",
+   "(8000, 40000)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (8000, 40000)**\n\nJapan = 30% = 24000, so the total is 80000. A (UK, 10%) = 8000; B (50 years and above, 50%) = 40000 → **(8000, 40000)**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "22742714713"
+ },
+ {
+  "id": "P1-2023DEC-Q06",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A teacher's belief that he or she can reach even the most difficult students and help them learn is called",
+  "options": [
+   "Teacher's knowledge",
+   "Teacher's understanding",
+   "Teacher's sense of efficacy",
+   "Teacher's self-perception"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Teacher's sense of efficacy**\n\n**Teacher efficacy** (from Bandura's self-efficacy) is a teacher's belief in his or her ability to bring about learning even in difficult or unmotivated students. High efficacy goes with persistence, warmth and better student achievement.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "nta_question_id": "22742714714"
+ },
+ {
+  "id": "P1-2023DEC-Q07",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Flip (ICT tool) allows users to record and share short video responses.",
+   "Flip (ICT tool) is primarily used for video discussions and presentations."
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct**\n\n**Flip** (formerly Flipgrid, Microsoft) lets a teacher post a topic and students reply with short recorded videos. It is used for video discussions and presentations, so both statements are correct.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "22742714715"
+ },
+ {
+  "id": "P1-2023DEC-Q08",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "In Jigsaw, each student in a group is expected to specialize in one aspect of learning task.",
+   "The major focus of the group investigation strategy is on the development of inquiry skills."
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct**\n\nIn Aronson's **Jigsaw**, each member of a home group becomes the \"expert\" on one piece of the task and then teaches it to the others. **Group investigation** (Sharan and Sharan) has groups plan and carry out an inquiry, so its main aim is inquiry skills. Both are correct.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "22742714716"
+ },
+ {
+  "id": "P1-2023DEC-Q09",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Implicit memory refers to intentional or conscious recollection of information",
+   "Explicit memory refers to memories people are not consciously aware of, but that can affect their subsequent performance and behaviour"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both Statement I and Statement II are incorrect**\n\nThe two definitions are swapped. **Explicit** (declarative) memory is conscious, intentional recollection; **implicit** memory is unconscious and shows itself in performance, as in skills, priming and habits. Both statements are incorrect.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "nta_question_id": "22742714717"
+ },
+ {
+  "id": "P1-2023DEC-Q10",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Schuman's model is an example of which type of teaching model?",
+  "options": [
+   "Personal Basis Model",
+   "Behaviour Altering Model",
+   "Information Development Model",
+   "Social Interaction Model"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Information Development Model**\n\nRichard **Suchman's Inquiry Training Model** trains students to gather and process data and build explanations. Joyce and Weil place it in the **information-processing** family, which the paper calls the information development model.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "22742714718"
+ },
+ {
+  "id": "P1-2023DEC-Q11",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The purpose of theory is to generate hypotheses that can be tested and that will thereby allow explanation of laws to be assessed. The above statement refers to the principle of",
+  "options": [
+   "Objectivism",
+   "Constructionism",
+   "Inductivism",
+   "Deductivism"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Deductivism**\n\nAmong the principles of positivism listed by Bryman, **deductivism** is the idea that theory generates testable hypotheses so that explanations of laws can be assessed. Inductivism is the opposite route: knowledge comes from gathering facts that provide the basis for laws.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "nta_question_id": "22742714719"
+ },
+ {
+  "id": "P1-2023DEC-Q12",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The degree to which the measure of a concept truly reflects that concept, refers to",
+  "options": [
+   "Ecological fallacy",
+   "Measurement validity",
+   "Ecological validity",
+   "External validity"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Measurement validity**\n\n**Measurement validity** asks whether an indicator really measures the concept it is meant to measure. External validity is about generalising results; ecological validity is about whether findings apply to everyday settings.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "22742714720"
+ },
+ {
+  "id": "P1-2023DEC-Q13",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Correlation coefficients (r) along with their respective p-values are given. Identify the two most significant correlation coefficients from the following:",
+  "items": [
+   "r = 0.77, p = 0.25",
+   "r = −0.61, p = 0.01",
+   "r = 0.41, p = 0.59",
+   "r = −0.37, p = 0.03"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A and B only",
+   "A and C only",
+   "B and D only",
+   "C and D only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B and D only**\n\nSignificance depends on the **p-value**, not on the size of r. Only B (p = 0.01) and D (p = 0.03) are below 0.05; A (p = 0.25) and C (p = 0.59) are not significant despite their larger r.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "22742714721"
+ },
+ {
+  "id": "P1-2023DEC-Q14",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following test statistics is useful for conducting Analysis of Variance?",
+  "options": [
+   "F",
+   "t",
+   "Chi square",
+   "Z"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) F**\n\nANOVA compares the variance between groups with the variance within groups; their ratio is the **F statistic** (after Fisher).",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "22742714722"
+ },
+ {
+  "id": "P1-2023DEC-Q15",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to UGC regulations 2018 for Prevention of Plagiarism, which among the following similarities would constitute Level 3 plagiarism?",
+  "items": [
+   "38%",
+   "45%",
+   "54%",
+   "63%",
+   "71%"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A and B only",
+   "B, C and D only",
+   "D and E only",
+   "E only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) D and E only**\n\nUGC (Promotion of Academic Integrity and Prevention of Plagiarism) Regulations 2018: Level 0 up to 10%, Level 1 above 10–40%, Level 2 above 40–60%, **Level 3 above 60%**. Only 63% and 71% qualify.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "nta_question_id": "22742714723"
+ },
+ {
+  "id": "P1-2023DEC-Q16",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The content and the outcome of an interaction together constitute",
+  "options": [
+   "Physical order",
+   "Secret order",
+   "Political order",
+   "Textual order"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Textual order**\n\nEvery interaction produces a \"text\": what is said (its content) and what it leads to (its outcome). Together these make up the **textual order** of the interaction.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "22742714724"
+ },
+ {
+  "id": "P1-2023DEC-Q17",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "From the communication viewpoint, Adi Shankara's philosophical concept provides primacy to",
+  "options": [
+   "Personal ego",
+   "Materialistic desires",
+   "Self-consciousness",
+   "Social conflicts"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Self-consciousness**\n\nŚaṅkara's Advaita treats the Self (Ātman), pure consciousness, as the only reality. Seen as a theory of communication, it gives primacy to **self-consciousness**, not to the ego, desires or conflict.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "22742714725"
+ },
+ {
+  "id": "P1-2023DEC-Q18",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are the two basic psychological functions of intra-personal communication?",
+  "items": [
+   "Internalisation of culturally organised ways of thinking",
+   "Promotion of leader centric speech",
+   "Regulation of one's own mental activity",
+   "Orientation towards enhancing social disorders"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A and B only",
+   "A and C only",
+   "B and C only",
+   "C and D only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A and C only**\n\nIn Vygotsky's account, inner speech **internalises culturally organised ways of thinking** and lets a person **regulate his or her own mental activity**. Leader-centric speech and social disorder have nothing to do with it.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "22742714726"
+ },
+ {
+  "id": "P1-2023DEC-Q19",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "In mass communication, the message is rapid and public",
+   "New technology has blurred the distinction between inter-personal communication and mass communication"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct**\n\nMass messages reach large, scattered audiences quickly and openly, so they are rapid and public. Social media and messaging apps now let one person reach thousands, and mass media talk back to individuals, so the line between interpersonal and mass communication has blurred. Both are correct.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "22742714727"
+ },
+ {
+  "id": "P1-2023DEC-Q20",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List - I with List - II :",
+  "lists": {
+   "list_i": {
+    "title": "List - I (Communication model)",
+    "items": [
+     "Linear",
+     "Circular",
+     "Non-Linear",
+     "Meta"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II (Description)",
+    "items": [
+     "Communication as interaction",
+     "Communication as transaction",
+     "Model of Communication models",
+     "Communication as action"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-IV, C-I, D-II",
+   "A-IV, B-I, C-II, D-III"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-IV, B-I, C-II, D-III**\n\n- A **linear** model (Shannon–Weaver, Lasswell) treats communication as one-way **action**.\n- A **circular** model (Osgood–Schramm) treats it as **interaction**, with feedback.\n- A **non-linear** (transactional) model treats it as simultaneous **transaction**.\n- A **meta** model is a model of communication models.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "22742714728"
+ },
+ {
+  "id": "P1-2023DEC-Q21",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "It takes 10 men to finish a work in 2 days. Four (4) men started to execute the work but after one (1) day, 3 of them left. How many days it will take the lone man to finish the remaining work?",
+  "options": [
+   "12 days",
+   "14 days",
+   "15 days",
+   "16 days"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 16 days**\n\nThe work is 10 × 2 = 20 man-days. Four men do 4 man-days in the first day, leaving 16 man-days, which one man finishes in **16 days**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "22742714729"
+ },
+ {
+  "id": "P1-2023DEC-Q22",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In a certain coding scheme:\n'India is a growing economic power in world' is written as 'ba, fa, ga, si, na, wa, ta, mo'\n'Population of India is growing' is written as 'ja, ka, ba, si, ga'\n'Culture of India is soft power' is written as 'sa, ka, si, ba, la, wa'\nWhat are the codes for 'power' and 'of'?",
+  "options": [
+   "wa, ka",
+   "wa, ba",
+   "ka, ba",
+   "wa, si"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) wa, ka**\n\n'India' and 'is' (ba, si) are in all three. Sentences 1 and 3 share only 'power' besides them, and their extra common code is **wa**. Sentences 2 and 3 share 'of', and their extra common code is **ka**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Coding–decoding",
+  "nta_question_id": "22742714730"
+ },
+ {
+  "id": "P1-2023DEC-Q23",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Find the missing term in the following letter series\nAMZ, BLY, CNX, DKW, EOV, ?",
+  "options": [
+   "FPU",
+   "FJU",
+   "FQX",
+   "FRU"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) FJU**\n\nFirst letters: A, B, C, D, E → **F**. Third letters: Z, Y, X, W, V → **U**. Middle letters swing outwards from M: M, L, N, K, O → **J**. So **FJU**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "22742714731"
+ },
+ {
+  "id": "P1-2023DEC-Q24",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Time taken by a motor boat moving downstream in a river to cover a distance and time taken by the motor boat to cover the same distance upstream are in the ratio of 3:5. If speed of stream is 10 km/hr, what is the speed of boat?",
+  "options": [
+   "20 km/hr",
+   "25 km/hr",
+   "30 km/hr",
+   "40 km/hr"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 40 km/hr**\n\nFor the same distance, speed is inversely proportional to time, so (b + 10) : (b − 10) = 5 : 3. Then 3b + 30 = 5b − 50, so b = **40 km/hr**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "22742714732"
+ },
+ {
+  "id": "P1-2023DEC-Q25",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A Person sells an item at a discount of 40% and still makes a profit of 20%. By what percentage was the marked price of the item more than the cost price of the item?",
+  "options": [
+   "50%",
+   "100%",
+   "150%",
+   "120%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 100%**\n\nSelling price = 0.6 × MP = 1.2 × CP, so MP = 2 × CP: the marked price is **100%** above cost.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "22742714733"
+ },
+ {
+  "id": "P1-2023DEC-Q26",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "A fallacy is a defect in an argument that consists of something other than merely false premises",
+   "If an argument is unsound or uncogent, it has one or more false premises, or it contains a fallacy or both"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement (I) and Statement (II) are true**\n\nBoth follow Hurley's definitions. A fallacy is a defect of reasoning, distinct from simply having false premises. An argument fails to be sound (deductive) or cogent (inductive) either because a premise is false or because the reasoning is faulty, or both.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "22742714734"
+ },
+ {
+  "id": "P1-2023DEC-Q27",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is arranged in order of decreasing connotation?",
+  "options": [
+   "Instrument, musical instrument, string instrument, violin",
+   "Violin, musical instrument, string instrument, instrument",
+   "Violin, string instrument, musical instrument, instrument",
+   "Instrument, string instrument, musical instrument, violin"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Violin, string instrument, musical instrument, instrument**\n\n**Connotation** (intension) is the set of attributes a term implies. The narrower the term, the more attributes it carries: a violin has every attribute of a string instrument and more. So connotation decreases from **violin → string instrument → musical instrument → instrument** (while denotation increases).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "22742714735"
+ },
+ {
+  "id": "P1-2023DEC-Q28",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "A valid deductive argument cannot have all true premises and a false conclusion",
+   "The concept of truth cannot be applied to arguments"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement (I) and Statement (II) are true**\n\nValidity means that if the premises are true the conclusion must be true, so statement I is correct. Truth and falsity belong to statements (propositions); arguments are valid or invalid, strong or weak, so statement II is correct too.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "22742714736"
+ },
+ {
+  "id": "P1-2023DEC-Q29",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'If you love hot cakes and you love ice creams, then you will surely love hot cake ice cream'. Which fallacy is committed in the above argument?",
+  "options": [
+   "Fallacy of composition",
+   "Slippery slope",
+   "Fallacy of division",
+   "Hasty generalization"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Fallacy of composition**\n\nThe argument assumes that what is true of the parts (liking hot cakes, liking ice cream) must be true of the whole made of them. That is the **fallacy of composition**. Division is the reverse: from the whole to its parts.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "22742714737"
+ },
+ {
+  "id": "P1-2023DEC-Q30",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Nyaya syllogism has three propositions and five terms",
+   "Aristotelian syllogism has three propositions and three terms"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement (I) is false but Statement (II) is true**\n\nThe Nyāya inference for others (*parārthānumāna*) has **five members** (pratijñā, hetu, udāharaṇa, upanaya, nigamana) but three terms (pakṣa, sādhya, hetu), so statement I is false. The Aristotelian categorical syllogism has three propositions and three terms (major, minor, middle), so statement II is true.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "nta_question_id": "22742714738"
+ },
+ {
+  "id": "P1-2023DEC-Q31",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Consider the base - 10 number 100. In base - 6, it would be represented as",
+  "options": [
+   "(442)₆",
+   "(200)₆",
+   "(242)₆",
+   "(244)₆"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (244)₆**\n\n100 = 2 × 36 + 4 × 6 + 4, so 100₁₀ = **(244)₆**. (Repeated division: 100 ÷ 6 = 16 r 4; 16 ÷ 6 = 2 r 4; 2 ÷ 6 = 0 r 2.)",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "nta_question_id": "22742714739"
+ },
+ {
+  "id": "P1-2023DEC-Q32",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Wiki is usually in some form of chronological order and postings tend to be short in length",
+   "A mobile phone (cell phone) primarily uses flash memory"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement (I) is false but Statement (II) is true**\n\nStatement I describes a **blog**, whose posts appear in reverse chronological order. A **wiki** is a collaboratively edited set of linked pages organised by topic. Statement II is true: phones store the OS, apps and data in flash memory (eMMC/UFS).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "nta_question_id": "22742714740"
+ },
+ {
+  "id": "P1-2023DEC-Q33",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "RFID is the use of fingerprint scans, retina scans, face identification, etc as a way of indentifying a person uniquely",
+   "The website using the streaming method to deliver video means that the video can be played while it is being downloaded and accordingly less time is requried before users can view the video"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement (I) is false but Statement (II) is true**\n\nStatement I describes **biometrics**. RFID (radio-frequency identification) identifies tagged objects by radio. Statement II correctly describes streaming: playback starts while the rest of the data is still arriving.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "22742714741"
+ },
+ {
+  "id": "P1-2023DEC-Q34",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following statements are true?",
+  "items": [
+   "One of the main advantages of ROM is that the information stored on the ROM chip is not lost even when the power to the computer is turned off",
+   "ASCI is an acronym for American Standard Code for Intelligent Information",
+   "Compared to desktop computers, laptop computers are portable since all its components are together in one single unit"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A and B only",
+   "A and C only",
+   "B and C only",
+   "A, B and C"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A and C only**\n\n- A is true: ROM is non-volatile.\n- B is false: ASCII is the American Standard Code for **Information Interchange**.\n- C is true: a laptop integrates screen, keyboard, battery and computer in one portable unit.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "22742714742"
+ },
+ {
+  "id": "P1-2023DEC-Q35",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II :",
+  "lists": {
+   "list_i": {
+    "title": "List I (Use)",
+    "items": [
+     "To select options from a list",
+     "To type data into a database",
+     "To input candidate's MCQ answer marked in pre-determined positions",
+     "To input data directly from a bank card"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Appropriate Input Device)",
+    "items": [
+     "Keyboard",
+     "OMR",
+     "Chip Reader",
+     "Mouse"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A-II, B-III, C-I, D-IV",
+   "A-III, B-I, C-II, D-IV",
+   "A-IV, B-I, C-II, D-III",
+   "A-IV, B-II, C-I, D-III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-IV, B-I, C-II, D-III**\n\n- Selecting options from a list is done with a **mouse**.\n- Typing data into a database is done with a **keyboard**.\n- MCQ answers marked in fixed positions are read by **OMR**.\n- A bank card's data is read by a **chip reader**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "22742714743"
+ },
+ {
+  "id": "P1-2023DEC-Q36",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which one of the following Conference of Parties (COP) Kyoto protocol was adopted?",
+  "options": [
+   "COP - 1",
+   "COP - 3",
+   "COP - 7",
+   "COP - 10"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) COP - 3**\n\nThe Kyoto Protocol was adopted at **COP-3** in Kyoto, December 1997, and came into force in 2005. COP-7 (Marrakesh, 2001) produced the Marrakesh Accords on its rules.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "22742714744"
+ },
+ {
+  "id": "P1-2023DEC-Q37",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If a water body is healthy and supports no significant biological activity, then its condition is called as",
+  "options": [
+   "Hypotrophic",
+   "Mesotrophic",
+   "Eutrophic",
+   "Oligotrophic"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Oligotrophic**\n\nAn **oligotrophic** water body is poor in nutrients: clear, well-oxygenated and with little algal or biological productivity. Mesotrophic is intermediate; eutrophic is nutrient-rich and prone to algal blooms.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "22742714745"
+ },
+ {
+  "id": "P1-2023DEC-Q38",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "To qualify as hazardous waste, a waste must have the following characteristics:",
+  "items": [
+   "Ignitability",
+   "Corrosivity",
+   "Reactivity",
+   "Toxicity",
+   "Radioactivity"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A, C and D only",
+   "C, D and E only",
+   "A, B, C and E only",
+   "A, B, C, D and E"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, C, D and E**\n\nHazardous waste is identified by **ignitability, corrosivity, reactivity and toxicity** (the four characteristics of the US EPA, also used in India's Hazardous Waste Rules). Many lists add **radioactivity**. The only option containing all four core characteristics is (4).",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "22742714746"
+ },
+ {
+  "id": "P1-2023DEC-Q39",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Acid rain occurs within, and downwind of areas of major industrial emissions of sulfurdioxide and oxides of nitrogen.",
+   "Long range transport of airborne pollutants can be responsible for acid rain in areas far off from industrial imissions."
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement (I) and Statement (II) are true**\n\nSO₂ and NOₓ turn into sulfuric and nitric acids in the atmosphere and fall near and downwind of their sources. Carried by winds over hundreds of kilometres, they also acidify distant regions (Scandinavia from British and German emissions, for example). Both are true.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "22742714747"
+ },
+ {
+  "id": "P1-2023DEC-Q40",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'Life below water' pertains to which of the SDGs?",
+  "options": [
+   "SDG 13",
+   "SDG 14",
+   "SDG 15",
+   "SDG 12"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) SDG 14**\n\n**SDG 14: Life below water** (oceans, seas and marine resources). SDG 13 is climate action, SDG 15 life on land, SDG 12 responsible consumption and production.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "nta_question_id": "22742714748"
+ },
+ {
+  "id": "P1-2023DEC-Q41",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Ujjain, in ancient India, was famous for the study of",
+  "options": [
+   "Veterinary science",
+   "Chinese philosophy",
+   "Astronomy",
+   "Community work"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Astronomy**\n\n**Ujjain** (Avantī) was ancient India's centre of **astronomy and mathematics**: the prime meridian of Indian astronomy passed through it, and Varāhamihira and Brahmagupta worked there.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "22742714749"
+ },
+ {
+  "id": "P1-2023DEC-Q42",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The National Knowledge Commission recommended 'needs-blind admissions' for",
+  "options": [
+   "National universities",
+   "State universities",
+   "Private universities",
+   "Foreign universities operating in India"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) National universities**\n\nThe NKC (2006–2009) proposed 50 new **National Universities** that would admit students on merit through **needs-blind admissions**, with financial support for those who could not pay.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "22742714750"
+ },
+ {
+  "id": "P1-2023DEC-Q43",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The Education/Despatch of 1854 suggested professional training in",
+  "items": [
+   "Library science",
+   "Law",
+   "Medicine",
+   "Civil Engineering",
+   "Material science"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "A, B and E only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C and D only**\n\n**Wood's Despatch** (1854) asked for professional colleges in **law, medicine and civil engineering**, alongside universities on the London model and vernacular schools.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "22742714751"
+ },
+ {
+  "id": "P1-2023DEC-Q44",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "A policy frame work developed by the UGC in 1978 suggested",
+  "items": [
+   "Closure of private universities.",
+   "Increase in the number of universities.",
+   "Support for high quality experimental research.",
+   "Discontinuation of autonomous colleges.",
+   "Introduction of inter-disciplinary courses at under graduate level."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "C, D and E only",
+   "B, C and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, C and E only**\n\nThe UGC's policy frame *Development of Higher Education in India* (1978) favoured planned expansion, support for quality research and **restructured, inter-disciplinary undergraduate courses**. It promoted autonomous colleges rather than discontinuing them, and did not propose closing universities, so A and D are out.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "22742714752"
+ },
+ {
+  "id": "P1-2023DEC-Q45",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "According to the National Education Policy 2020, teaching duties will be more, and student-teacher ratio will be high, and faculty will be generally transferable across institutions in the country",
+   "According to the NEP 2020, faculty will be given the liberty to design their pedagogical approaches for innovative teaching and research"
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement (I) is false but Statement (II) is true**\n\nNEP 2020 (paragraph 13.2) says the opposite of statement I: teaching duties will **not** be excessive, student–teacher ratios will **not** be too high, and faculty will **not** generally be transferred between institutions. Paragraph 13.3 gives faculty the freedom to design curricula and pedagogy, so statement II is true.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "22742714753"
+ },
+ {
+  "id": "P1-2023DEC-Q46",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The main focus of the passage is on",
+  "passage": "Read the below passage and answer the following questions\n\nClimate change and its imperatives across the globe have moved beyond the immediate compulsions of rising mercury levels on planet Earth. It is today a debate among nations on geo-politics and the shift in economic balance from the developed countries to the emerging economies. The rhetoric by global leaders thus needs to be taken with a pinch of salt for it is not all about climate change concerns. The changing axis of economic power to the East and emerging countries of Asia will perhaps take a while to sink in. Developing economies like India are just beginning to take baby steps on the global stage and industry and entrepreneurship will have to go a long way. Millions of households in India still have to depend on firewood and kerosene to light up their homes even as scores of Indians die every year for want of basic health amenities. The priority for such a nation is meeting basic needs, providing food, health and education rather than spending large portions of its GDP on importing technologies to cut emissions. India needs to do its bit, but on its own terms and at its own pace.",
+  "options": [
+   "Climate change and its impact",
+   "Climate change and geopolitics",
+   "Climate change and developmental imperatives",
+   "Climate change and mitigation strategies"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Climate change and developmental imperatives**\n\nThe passage weighs climate commitments against a developing nation's needs: basic needs, food, health and education come first, and India should cut emissions \"on its own terms and at its own pace\". Geopolitics is mentioned, but the argument is about **development versus climate action**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "22742714755"
+ },
+ {
+  "id": "P1-2023DEC-Q47",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "What are the problems faced by developing economies like India?",
+  "passage": "Read the below passage and answer the following questions\n\nClimate change and its imperatives across the globe have moved beyond the immediate compulsions of rising mercury levels on planet Earth. It is today a debate among nations on geo-politics and the shift in economic balance from the developed countries to the emerging economies. The rhetoric by global leaders thus needs to be taken with a pinch of salt for it is not all about climate change concerns. The changing axis of economic power to the East and emerging countries of Asia will perhaps take a while to sink in. Developing economies like India are just beginning to take baby steps on the global stage and industry and entrepreneurship will have to go a long way. Millions of households in India still have to depend on firewood and kerosene to light up their homes even as scores of Indians die every year for want of basic health amenities. The priority for such a nation is meeting basic needs, providing food, health and education rather than spending large portions of its GDP on importing technologies to cut emissions. India needs to do its bit, but on its own terms and at its own pace.",
+  "items": [
+   "They are extremely poor",
+   "Many people in India lack basic health amenities",
+   "They are extremely rich",
+   "Millions of people still depend on firewood and kerosene to light up their homes"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "A, B and D only",
+   "B and D only",
+   "B, C and D only",
+   "A and D only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and D only**\n\nThe passage mentions people dying **for want of basic health amenities** (B) and millions depending on **firewood and kerosene** (D). It does not say such economies are \"extremely poor\", and \"extremely rich\" contradicts it.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "22742714756"
+ },
+ {
+  "id": "P1-2023DEC-Q48",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What should India first and foremost focus on?",
+  "passage": "Read the below passage and answer the following questions\n\nClimate change and its imperatives across the globe have moved beyond the immediate compulsions of rising mercury levels on planet Earth. It is today a debate among nations on geo-politics and the shift in economic balance from the developed countries to the emerging economies. The rhetoric by global leaders thus needs to be taken with a pinch of salt for it is not all about climate change concerns. The changing axis of economic power to the East and emerging countries of Asia will perhaps take a while to sink in. Developing economies like India are just beginning to take baby steps on the global stage and industry and entrepreneurship will have to go a long way. Millions of households in India still have to depend on firewood and kerosene to light up their homes even as scores of Indians die every year for want of basic health amenities. The priority for such a nation is meeting basic needs, providing food, health and education rather than spending large portions of its GDP on importing technologies to cut emissions. India needs to do its bit, but on its own terms and at its own pace.",
+  "options": [
+   "Developing indigenous technologies to cut emissions",
+   "Importing technologies to cut emissions",
+   "Provide food, health and education to its people",
+   "Spend large sums of money to cut down emissions"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Provide food, health and education to its people**\n\n\"The priority for such a nation is meeting basic needs, **providing food, health and education**…\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "22742714757"
+ },
+ {
+  "id": "P1-2023DEC-Q49",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following facts related to climate change are true?",
+  "passage": "Read the below passage and answer the following questions\n\nClimate change and its imperatives across the globe have moved beyond the immediate compulsions of rising mercury levels on planet Earth. It is today a debate among nations on geo-politics and the shift in economic balance from the developed countries to the emerging economies. The rhetoric by global leaders thus needs to be taken with a pinch of salt for it is not all about climate change concerns. The changing axis of economic power to the East and emerging countries of Asia will perhaps take a while to sink in. Developing economies like India are just beginning to take baby steps on the global stage and industry and entrepreneurship will have to go a long way. Millions of households in India still have to depend on firewood and kerosene to light up their homes even as scores of Indians die every year for want of basic health amenities. The priority for such a nation is meeting basic needs, providing food, health and education rather than spending large portions of its GDP on importing technologies to cut emissions. India needs to do its bit, but on its own terms and at its own pace.",
+  "items": [
+   "The global leaders are indifferent to the issue of climate change",
+   "The climate change talks are sometimes directed towards political and economic gain rather than climate change",
+   "It is about the shift in economic balance from the developed economies to the emerging economies",
+   "Developing economies like India can afford to spend large sums of money to cut emissions"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "B and C only",
+   "A, B and C only",
+   "B, C and D only",
+   "A and D only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B and C only**\n\nThe passage says the debate is now about geopolitics and **the shift in economic balance** to emerging economies (C), and that leaders' rhetoric \"is not all about climate change concerns\" (B). It does not call leaders indifferent (A), and it argues India should *not* spend large sums on cutting emissions (D).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "22742714758"
+ },
+ {
+  "id": "P1-2023DEC-Q50",
+  "subject": "paper1",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "passage": "Read the below passage and answer the following questions\n\nClimate change and its imperatives across the globe have moved beyond the immediate compulsions of rising mercury levels on planet Earth. It is today a debate among nations on geo-politics and the shift in economic balance from the developed countries to the emerging economies. The rhetoric by global leaders thus needs to be taken with a pinch of salt for it is not all about climate change concerns. The changing axis of economic power to the East and emerging countries of Asia will perhaps take a while to sink in. Developing economies like India are just beginning to take baby steps on the global stage and industry and entrepreneurship will have to go a long way. Millions of households in India still have to depend on firewood and kerosene to light up their homes even as scores of Indians die every year for want of basic health amenities. The priority for such a nation is meeting basic needs, providing food, health and education rather than spending large portions of its GDP on importing technologies to cut emissions. India needs to do its bit, but on its own terms and at its own pace.",
+  "items": [
+   "India should take measures to cut down emissions but not at the cost of development.",
+   "India should ban the use of firewood and kerosene and opt for cleaner fuels."
+  ],
+  "item_style": "roman",
+  "prompt": "In light of the above statements, choose the most appropriate answer from the options given below",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement (I) is true but Statement (II) is false**\n\nStatement I matches \"India needs to do its bit, but on its own terms and at its own pace\". The passage mentions firewood and kerosene only as signs of poverty; it never proposes banning them, so statement II is not supported.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "22742714759"
+ }
+]
