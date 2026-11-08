@@ -1,0 +1,1688 @@
+[
+ {
+  "id": "P1-2019DEC-Q01",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The emphasis in memory level teaching is on which of the following?",
+  "items": [
+   "Organisation of thoughts and ideas",
+   "Seeing of relationships among facts",
+   "Systematic presentations to enable quick reproduction",
+   "Critical thinking",
+   "Mastery of correct sequencing of facts",
+   "Segregating one feature from another"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the answer from the following options :",
+  "options": [
+   "(a), (b) and (c)",
+   "(a), (c) and (e)",
+   "(b), (c) and (d)",
+   "(d), (e) and (f)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (a), (c) and (e)**\n\nMemory-level teaching (Herbart's model) aims at retention and recall. The teacher organises the material, presents it\nsystematically so it can be reproduced quickly, and drills the facts in their correct sequence: **(a), (c) and (e)**.\nSeeing relationships among facts belongs to the understanding level (Morrison). Critical thinking and separating one\nfeature from another belong to the reflective level (Hunt).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Levels of teaching and learning",
+  "nta_question_id": "6154759515"
+ },
+ {
+  "id": "P1-2019DEC-Q02",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Below are given two sets in which set I specifies the four behaviour modification techniques while set II indicates their exemplification. Match the two sets:",
+  "lists": {
+   "list_i": {
+    "title": "Set I (Behaviour modification techniques)",
+    "items": [
+     "Positive reinforcement",
+     "Negative reinforcement",
+     "Punishment",
+     "Extinction"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "Set II (Example)",
+    "items": [
+     "Withdrawal of a pleasant stimulus or application of an aversive stimulus to stop the behaviour",
+     "Painful or aversive stimulus is presented to stop the occurrence of behaviour",
+     "The behaviour increases in frequency after the removal of the stimulus",
+     "The behaviour increases in frequency after the presentation of a stimulus"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose your answer from the following options:",
+  "options": [
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+   "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+   "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+   "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)**\n\nIn Skinner's operant conditioning, both kinds of reinforcement make a behaviour **more** frequent. Positive\nreinforcement does it by **presenting** a stimulus (iv); negative reinforcement does it by **removing** an unpleasant\none (iii). Punishment presents something painful to stop the behaviour (ii). The remaining description, withdrawing\nwhat was pleasant so that the behaviour dies out, is the one left for extinction (i). Only option (3) has (a)-(iv)\nand (b)-(iii).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Educational thinkers and learning theories",
+  "nta_question_id": "6154759516"
+ },
+ {
+  "id": "P1-2019DEC-Q03",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The most characteristic feature of an adolescent learner which determines his/her social and moral development is the",
+  "options": [
+   "Tendency to be away from parents",
+   "Concern for hero worshipping for emulating values and standards",
+   "Mixing up with peers in the neighbourhood",
+   "Identity crisis"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Identity crisis**\n\nIn Erikson's scheme, adolescence is the stage of **identity versus role confusion**. Working out \"who I am\" shapes\nthe adolescent's values, loyalties and moral commitments. Hero worship, distance from parents and peer mixing are\nsymptoms of this search, not its core. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "nta_question_id": "6154759517"
+ },
+ {
+  "id": "P1-2019DEC-Q04",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following teaching method (s) is/are contributive to direct learning?",
+  "items": [
+   "Team teaching and lecturing",
+   "Simulation and role playing",
+   "Lecture with or without use of audio-visuals",
+   "Participation in workshop and assignments",
+   "MOOCs and heuristics",
+   "Interactive presentations"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose your answer from the following options:",
+  "options": [
+   "(b), (d) and (e)",
+   "(a), (b) and (c)",
+   "(c), (d) and (f)",
+   "(d), (e) and (f)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (b), (d) and (e)**\n\n\"Direct learning\" here means the learner learns first-hand, by doing or discovering. Examples are simulation and role\nplaying, taking part in workshops and assignments, and self-paced MOOCs and heuristic (discovery) methods: **(b), (d)\nand (e)**. Lectures, team teaching and presentations transmit knowledge through the teacher. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "6154759518"
+ },
+ {
+  "id": "P1-2019DEC-Q05",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an example of maximum performance test?",
+  "options": [
+   "Projective personality test",
+   "Interest inventory",
+   "Aptitude test",
+   "Attitude scales"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Aptitude test**\n\nCronbach divides tests into **maximum performance** tests, where the examinee tries to do as well as possible\n(ability, aptitude, achievement), and **typical performance** tests, which ask what the person usually does or feels\n(personality, interest, attitude). An **aptitude test** is a maximum performance test.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "6154759519"
+ },
+ {
+  "id": "P1-2019DEC-Q06",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A college teacher does research with a view to depict the reality situations relating to home conditions of students and hostels provided for. Which of the following research format will be helpful to do so?",
+  "options": [
+   "Experimental research",
+   "Descriptive research",
+   "Participant observation based research",
+   "Ethnographic research"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Descriptive research**\n\nThe aim is to **describe** existing conditions as they are, with nothing manipulated and no culture studied from\nwithin. That is **descriptive research** (often a survey).",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "6154759520"
+ },
+ {
+  "id": "P1-2019DEC-Q07",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which of the following steps of research, the scope for creativity and imagination is utmost?",
+  "options": [
+   "Identifying the research problem and defining it",
+   "Figuring out the related studies and the techniques used by other researchers",
+   "Identifying variables and hypothesizing",
+   "Data analysis and presentation of results"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Identifying variables and hypothesizing**\n\nA hypothesis is an informed guess that goes beyond the known facts. Conceiving it, and choosing the variables it\nlinks, calls for the most imagination. Reviewing literature, and analysing and presenting data, follow set\nprocedures. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "nta_question_id": "6154759521"
+ },
+ {
+  "id": "P1-2019DEC-Q08",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A research scholar while finally reporting the research results in the form of a thesis acknowledges the support of his/her supervisor in the preface. This will be treated as a",
+  "options": [
+   "Sheer formality",
+   "Needed formality",
+   "superfluous act",
+   "Part of ethicality"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Part of ethicality**\n\nAcknowledging the help and guidance received is part of honest reporting, so it belongs to **research ethics**. It is\nnot a mere formality.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "nta_question_id": "6154759522"
+ },
+ {
+  "id": "P1-2019DEC-Q09",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In case the population of research is heterogeneous in nature which of the following sampling techniques will ensure optimum representativeness of sample units?",
+  "options": [
+   "Simple random sampling",
+   "Stratified random sampling",
+   "Cluster sampling",
+   "Systematic sampling"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Stratified random sampling**\n\n**Stratified random sampling** divides a heterogeneous population into homogeneous strata and samples randomly from\neach, so every subgroup is represented.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "6154759523"
+ },
+ {
+  "id": "P1-2019DEC-Q10",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following statistical technique will be appropriate for data analysis when the observations are available in the form of frequencies?",
+  "options": [
+   "Parametric 't' test",
+   "Non-parametric 'u' test",
+   "Non-parametric 'chi-square' test",
+   "Parametric correlated 't' test"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Non-parametric 'chi-square' test**\n\nFrequencies (counts in categories) are nominal data. The **chi-square** test compares observed with expected\nfrequencies. The t tests need interval data, and the Mann–Whitney U test needs ranks.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "6154759524"
+ },
+ {
+  "id": "P1-2019DEC-Q11",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Classroom communication is",
+  "items": [
+   "Like a computer - program",
+   "Dictatorial",
+   "Purposeful",
+   "Pragmatic"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct option from those given below",
+  "options": [
+   "(a) and (c)",
+   "(b) and (c)",
+   "(b) and (d)",
+   "(c) and (d)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (c) and (d)**\n\nClassroom communication is aimed at learning objectives (**purposeful**) and adapted to the actual learners and\nsituation (**pragmatic**). It is neither mechanical like a program nor dictatorial.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "6154759525"
+ },
+ {
+  "id": "P1-2019DEC-Q12",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Swapping of encoder -decoder roles in communication happens due to",
+  "options": [
+   "Cognitive disruptions",
+   "Semantic noise",
+   "Feedback analysis",
+   "Weak channelisation"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Feedback analysis**\n\nWhen the receiver responds, the receiver encodes a message and the original sender decodes it. That reversal of roles\nis **feedback**, the step that makes communication two-way.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "6154759526"
+ },
+ {
+  "id": "P1-2019DEC-Q14",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When a large number of students with different performance levels are there in the class, for uniform imparting of educative interactions, a teacher should opt for a communication which is:",
+  "options": [
+   "Top-down and linear",
+   "Technology - enabled",
+   "Individual - centric",
+   "Self - projected"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Technology - enabled**\n\nIn a large and mixed class, **technology-enabled** communication (projected material, recorded explanations, LMS\nresources) reaches every student in the same way and lets each one revisit it at their own pace. Top-down linear talk\nand self-projection do not; individual attention to each student is impractical at that size.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "6154759528"
+ },
+ {
+  "id": "P1-2019DEC-Q15",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements one is labelled as Assertion (A) and the other is labelled as Reason (R)",
+  "assertion": "Classroom communication is pre-decided by social and institutional demands.",
+  "reason": "Positive educative actions should guide learners to acquire knowledge of social significance",
+  "prompt": "In the light of the above two statements, choose the correct option :",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true and (R) is not the correct explanation of (A)",
+   "(A) is true, but (R) is false",
+   "(A) is false, but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A)**\n\nWhat is communicated in class (the curriculum, its aims and its manner) is laid down by society and the institution\nin advance. That is because education is meant to lead learners to knowledge of social significance. So (R) gives the\nreason for (A). No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "6154759529"
+ },
+ {
+  "id": "P1-2019DEC-Q16",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The length of the side of a square (5.0 cm × 5.0 cm) is increased by 1%. By what percentage (%), the area of the square increases?",
+  "options": [
+   "1%",
+   "2%",
+   "2.5%",
+   "4%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 2%**\n\nNew side = 5.05 cm; new area = 25.5025 cm² against 25 cm², an increase of 2.01%, that is **about 2%** (in general\n(1.01)² − 1 = 2.01%).",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "6154759530"
+ },
+ {
+  "id": "P1-2019DEC-Q17",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Identify the term 'X' in the following series\n\n3, 2, 11, 14, 27, 34, 51, X",
+  "options": [
+   "62",
+   "69",
+   "60",
+   "71"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 62**\n\nThe terms are n² + 2 and n² − 2 alternately: 1+2 = 3, 4−2 = 2, 9+2 = 11, 16−2 = 14, 25+2 = 27, 36−2 = 34, 49+2 = 51,\nso X = 64 − 2 = **62**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "6154759531"
+ },
+ {
+  "id": "P1-2019DEC-Q18",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A person buys 3 items of Rs. 1500 each and 2 items of Rs. 1800 each from a shopping mall. On the total bill a discount of 10% is given. What is the average cost of the items?",
+  "options": [
+   "1650",
+   "1458",
+   "1658",
+   "1550"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1458**\n\nBill = 3 × 1500 + 2 × 1800 = 8100; after 10% discount = 7290; average over 5 items = **₹1458**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "6154759532"
+ },
+ {
+  "id": "P1-2019DEC-Q19",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A 50 year old man has a son whose age is 2/5 of his age. After how many years, the ratio of the age of the man to his son will be 5/3?",
+  "options": [
+   "10 years",
+   "15 years",
+   "20 years",
+   "25 years"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 25 years**\n\nThe son is 20. (50 + x)/(20 + x) = 5/3 gives 150 + 3x = 100 + 5x, so x = **25 years** (75 : 45 = 5 : 3).",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "6154759533"
+ },
+ {
+  "id": "P1-2019DEC-Q20",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The smallest integer greater than 1 which is simultaneously a square and a cube of certain integers is",
+  "options": [
+   "8",
+   "9",
+   "36",
+   "64"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 64**\n\nA number that is both a square and a cube is a sixth power. The smallest above 1 is 2⁶ = **64** (= 8² = 4³).",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "6154759534"
+ },
+ {
+  "id": "P1-2019DEC-Q21",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Consider the following statements and choose the right option",
+  "items": [
+   "Middle term should be distributed in atleast one premise",
+   "Middle term should be present in the conclusion",
+   "Both premises can be particular in a valid argument",
+   "Both premises can be negative in a valid argument"
+  ],
+  "item_style": "letters",
+  "options": [
+   "(c) and (d)",
+   "Only (c)",
+   "Only (a)",
+   "(b) and (c)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Only (a)**\n\nOf the rules of the categorical syllogism, only (a) is correct: the middle term must be distributed at least once.\nThe middle term never appears in the conclusion. Two particular premises, or two negative premises, yield no valid\nconclusion.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Syllogisms",
+  "nta_question_id": "6154759535"
+ },
+ {
+  "id": "P1-2019DEC-Q22",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is true with reference to anupalabdhi as a means of knowledge?",
+  "options": [
+   "I do not cognize the pot on the table, therefore it is absent there",
+   "I directly perceive the absence of pot on the table",
+   "I infer the absence of pot on the table since I do not find it to be there",
+   "I know the absence of the pot on the table because I know its similarity with other absences"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) I do not cognize the pot on the table, therefore it is absent there**\n\nFor the Bhāṭṭa Mīmāṃsakas and Advaitins, **anupalabdhi** (non-cognition) is a separate pramāṇa. The very fact that\nthe pot is not cognised, where it would have been cognised if present, gives knowledge of its absence. It is not\nperception (option 2, the Nyāya view), not inference (option 3) and not comparison (option 4).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "6154759536"
+ },
+ {
+  "id": "P1-2019DEC-Q23",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "\"If it rains, then the drought will end. The drought has ended. Therefore, it rained\". Which kind of fallacy does this commit?",
+  "options": [
+   "Deductive fallacy",
+   "Inductive fallacy",
+   "Abductive fallacy",
+   "Informal fallacy"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Deductive fallacy**\n\nThe form is \"If p then q; q; therefore p\", which is **affirming the consequent**. It is a formal fallacy in a\ndeductive argument: the conclusion does not follow from the form, whatever the content.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "6154759537"
+ },
+ {
+  "id": "P1-2019DEC-Q24",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which one of the following is the characteristic feature of an argument?",
+  "options": [
+   "It is either valid or invalid",
+   "It is neither valid nor invalid",
+   "It is either true or false",
+   "It is neither true nor false"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) It is either valid or invalid**\n\nTruth and falsity belong to propositions. An argument, a set of premises offered for a conclusion, is assessed as\n**valid or invalid**.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "6154759538"
+ },
+ {
+  "id": "P1-2019DEC-Q25",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "\"In this hospital, some nurses don't wear white dress, some doctors have private practice and medicines prescribed are of high cost. Therefore, treatment in this hospital is of poor quality\". What fallacy does this argument make?",
+  "options": [
+   "Fallacy of composition",
+   "Slippery slope",
+   "Fallacy of accident",
+   "Fallacy of division"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Fallacy of composition**\n\nThe argument attributes to the whole (the hospital's treatment) what is true of some of its parts. That is the\n**fallacy of composition**. Division runs the other way, from the whole to its parts.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "6154759539"
+ },
+ {
+  "id": "P1-2019DEC-Q26",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Average annual amount of exports during the given period for company B is approximately what percent (%) of the average annual amount of exports for company C?",
+  "passage": "Consider the following table that shows the amount of exports (in crore ₹) from three different companies A, B, and C over the years 2012-2018. Based on the data in the table, answer the questions 26-30:",
+  "table": {
+   "title": "Year-wise amount of Exports from companies (amount of exports in crore Rs.)",
+   "columns": [
+    "Year",
+    "A",
+    "B",
+    "C"
+   ],
+   "rows": [
+    [
+     "2012",
+     "40",
+     "90",
+     "70"
+    ],
+    [
+     "2013",
+     "70",
+     "50",
+     "100"
+    ],
+    [
+     "2014",
+     "50",
+     "70",
+     "130"
+    ],
+    [
+     "2015",
+     "80",
+     "70",
+     "100"
+    ],
+    [
+     "2016",
+     "110",
+     "90",
+     "70"
+    ],
+    [
+     "2017",
+     "60",
+     "110",
+     "90"
+    ],
+    [
+     "2018",
+     "130",
+     "150",
+     "110"
+    ]
+   ]
+  },
+  "options": [
+   "89.64%",
+   "91.21%",
+   "94.03%",
+   "93.33%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 94.03%**\n\nSeven-year totals: A = 540, B = 630, C = 670. Both averages are over 7 years, so the ratio is 630 ÷ 670 = **94.03%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "6154759541"
+ },
+ {
+  "id": "P1-2019DEC-Q27",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In how many of the given years, were the exports from company A more than its average annual exports over the given years?",
+  "passage": "Consider the following table that shows the amount of exports (in crore ₹) from three different companies A, B, and C over the years 2012-2018. Based on the data in the table, answer the questions 26-30:",
+  "table": {
+   "title": "Year-wise amount of Exports from companies (amount of exports in crore Rs.)",
+   "columns": [
+    "Year",
+    "A",
+    "B",
+    "C"
+   ],
+   "rows": [
+    [
+     "2012",
+     "40",
+     "90",
+     "70"
+    ],
+    [
+     "2013",
+     "70",
+     "50",
+     "100"
+    ],
+    [
+     "2014",
+     "50",
+     "70",
+     "130"
+    ],
+    [
+     "2015",
+     "80",
+     "70",
+     "100"
+    ],
+    [
+     "2016",
+     "110",
+     "90",
+     "70"
+    ],
+    [
+     "2017",
+     "60",
+     "110",
+     "90"
+    ],
+    [
+     "2018",
+     "130",
+     "150",
+     "110"
+    ]
+   ]
+  },
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 3**\n\nSeven-year totals: A = 540, B = 630, C = 670. A's average is 540 ÷ 7 ≈ 77.1. A exceeds it in 2015 (80), 2016 (110) and 2018 (130): **3 years**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "6154759542"
+ },
+ {
+  "id": "P1-2019DEC-Q28",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What was the difference between the average exports of three companies in 2017 and the average exports of three companies in 2012?",
+  "passage": "Consider the following table that shows the amount of exports (in crore ₹) from three different companies A, B, and C over the years 2012-2018. Based on the data in the table, answer the questions 26-30:",
+  "table": {
+   "title": "Year-wise amount of Exports from companies (amount of exports in crore Rs.)",
+   "columns": [
+    "Year",
+    "A",
+    "B",
+    "C"
+   ],
+   "rows": [
+    [
+     "2012",
+     "40",
+     "90",
+     "70"
+    ],
+    [
+     "2013",
+     "70",
+     "50",
+     "100"
+    ],
+    [
+     "2014",
+     "50",
+     "70",
+     "130"
+    ],
+    [
+     "2015",
+     "80",
+     "70",
+     "100"
+    ],
+    [
+     "2016",
+     "110",
+     "90",
+     "70"
+    ],
+    [
+     "2017",
+     "60",
+     "110",
+     "90"
+    ],
+    [
+     "2018",
+     "130",
+     "150",
+     "110"
+    ]
+   ]
+  },
+  "options": [
+   "₹ 15.33 crores",
+   "₹ 18.67 crores",
+   "₹ 25 crores",
+   "₹ 20 crores"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ₹ 20 crores**\n\n2017: (60 + 110 + 90) ÷ 3 = 86.67; 2012: (40 + 90 + 70) ÷ 3 = 66.67. Difference = **₹20 crore**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "6154759543"
+ },
+ {
+  "id": "P1-2019DEC-Q29",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which year, the absolute difference between the exports from companies A and B was the minimum?",
+  "passage": "Consider the following table that shows the amount of exports (in crore ₹) from three different companies A, B, and C over the years 2012-2018. Based on the data in the table, answer the questions 26-30:",
+  "table": {
+   "title": "Year-wise amount of Exports from companies (amount of exports in crore Rs.)",
+   "columns": [
+    "Year",
+    "A",
+    "B",
+    "C"
+   ],
+   "rows": [
+    [
+     "2012",
+     "40",
+     "90",
+     "70"
+    ],
+    [
+     "2013",
+     "70",
+     "50",
+     "100"
+    ],
+    [
+     "2014",
+     "50",
+     "70",
+     "130"
+    ],
+    [
+     "2015",
+     "80",
+     "70",
+     "100"
+    ],
+    [
+     "2016",
+     "110",
+     "90",
+     "70"
+    ],
+    [
+     "2017",
+     "60",
+     "110",
+     "90"
+    ],
+    [
+     "2018",
+     "130",
+     "150",
+     "110"
+    ]
+   ]
+  },
+  "options": [
+   "2013",
+   "2014",
+   "2015",
+   "2016"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2015**\n\n|A − B|: 2013 = 20, 2014 = 20, **2015 = 10**, 2016 = 20.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "6154759544"
+ },
+ {
+  "id": "P1-2019DEC-Q30",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "For which of the following pairs of years, the total exports from the three companies put together are equal?",
+  "passage": "Consider the following table that shows the amount of exports (in crore ₹) from three different companies A, B, and C over the years 2012-2018. Based on the data in the table, answer the questions 26-30:",
+  "table": {
+   "title": "Year-wise amount of Exports from companies (amount of exports in crore Rs.)",
+   "columns": [
+    "Year",
+    "A",
+    "B",
+    "C"
+   ],
+   "rows": [
+    [
+     "2012",
+     "40",
+     "90",
+     "70"
+    ],
+    [
+     "2013",
+     "70",
+     "50",
+     "100"
+    ],
+    [
+     "2014",
+     "50",
+     "70",
+     "130"
+    ],
+    [
+     "2015",
+     "80",
+     "70",
+     "100"
+    ],
+    [
+     "2016",
+     "110",
+     "90",
+     "70"
+    ],
+    [
+     "2017",
+     "60",
+     "110",
+     "90"
+    ],
+    [
+     "2018",
+     "130",
+     "150",
+     "110"
+    ]
+   ]
+  },
+  "options": [
+   "2014 and 2017",
+   "2015 and 2017",
+   "2016 and 2017",
+   "2014 and 2015"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 2014 and 2015**\n\nTotals: 2014 = 250, 2015 = 250, 2016 = 270, 2017 = 260. **2014 and 2015** are equal.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "6154759545"
+ },
+ {
+  "id": "P1-2019DEC-Q31",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following is/are major issues arising out of the growing reliance on information technology?",
+  "items": [
+   "Profitability",
+   "Security threats",
+   "Privacy concerns"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct option :",
+  "options": [
+   "(a) and (b) only",
+   "(a) and (c) only",
+   "(b) and (c) only",
+   "(a), (b) and (c)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (b) and (c) only**\n\nGreater dependence on IT raises **security threats** (attacks, data breaches) and **privacy concerns** (collection and\nmisuse of personal data). Profitability is a benefit sought, not an issue arising from it.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "nta_question_id": "6154759546"
+ },
+ {
+  "id": "P1-2019DEC-Q32",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following communication technologies employ only asynchronous communication?",
+  "items": [
+   "Video conferencing",
+   "Email",
+   "Forums",
+   "Instant messaging"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct option :",
+  "options": [
+   "(a) and (c) only",
+   "(b) and (d) only",
+   "(b) and (c) only",
+   "(a) and (d) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (b) and (c) only**\n\n**Email** and discussion **forums** do not need the parties to be present at the same time. Video conferencing and\ninstant messaging are real-time (synchronous).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "6154759547"
+ },
+ {
+  "id": "P1-2019DEC-Q33",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following statements is/are correct?",
+  "items": [
+   "For the sequence of integers represented in binary as 00111, 01001, 01011, P...., the next integer P would be represented as 01101",
+   "A byte is a binary number consisting of exactly 8 bits"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct option :",
+  "options": [
+   "(a) only",
+   "(b) only",
+   "Both (a) and (b)",
+   "Neither (a) nor (b)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Both (a) and (b)**\n\n(a) 00111, 01001, 01011 are 7, 9, 11, so P = 13 = 01101. Correct. (b) A byte is a group of 8 bits. Correct. Hence\n**both**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "nta_question_id": "6154759548"
+ },
+ {
+  "id": "P1-2019DEC-Q34",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List-I with List-II in the context of computer networking :",
+  "lists": {
+   "list_i": {
+    "title": "List-I",
+    "items": [
+     "VOIP",
+     "Fibre-optic cable",
+     "URL",
+     "UTP cable"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List-II",
+    "items": [
+     "Makes use of light pulses to transmit data",
+     "Use of internet to make phone calls",
+     "Most appropriate to connect computers in a small building",
+     "Text used by web browsers to locate a web address on the Internet"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct option :",
+  "options": [
+   "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+   "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+   "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+   "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)**\n\nVoIP carries phone calls over the internet (ii). Optical fibre carries light pulses (i). A URL is the address text a\nbrowser uses (iv). Unshielded twisted pair is the usual LAN cable for a small building (iii).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "nta_question_id": "6154759549"
+ },
+ {
+  "id": "P1-2019DEC-Q35",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Select the option that includes file formats suitable for distributing sound files across the Internet.",
+  "options": [
+   "wmv, mp4, wma, mp3",
+   "avi, midi, wav, mp3",
+   "avi, mov, wmv, mp3",
+   "midi, wav, wma, mp3"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) midi, wav, wma, mp3**\n\nMIDI, WAV, WMA and MP3 are all **audio** formats. WMV, MP4, AVI and MOV are video formats.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "6154759550"
+ },
+ {
+  "id": "P1-2019DEC-Q36",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Biomass fuels have the potential to form a sustainable carbon-neutral energy source because they",
+  "options": [
+   "Produce carbon dioxide on combustion as much as they consume when they grow",
+   "Produce less amount of carbon dioxide on combustion compared to the amount they use during their growth",
+   "Have carbon content same as fossil fuels",
+   "Do not produce hazardous emissions on combustion"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Produce carbon dioxide on combustion as much as they consume when they grow**\n\nBurning biomass releases the CO₂ the plants absorbed while growing, so if the crop is regrown the net addition is\nroughly zero. That is the sense of \"carbon-neutral\". Biomass does produce harmful emissions (smoke, particulates).",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "nta_question_id": "6154759551"
+ },
+ {
+  "id": "P1-2019DEC-Q37",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Major sources of oxygen demanding waste in fresh water systems are",
+  "items": [
+   "Agricultural run-off",
+   "Food processing",
+   "Ore mining",
+   "Sewage effluent",
+   "Landfill sites"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct option from those given below:",
+  "options": [
+   "(a), (d) and (e)",
+   "(b), (d) and (e)",
+   "(a), (b) and (d)",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (a), (b) and (d)**\n\nOxygen-demanding wastes are biodegradable organic matter, whose decomposition consumes dissolved oxygen (high BOD).\nTheir main sources are **sewage**, **food-processing** effluents and **agricultural run-off** (manure and organic\nresidues). Ore mining mainly releases metals and acid drainage.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "6154759552"
+ },
+ {
+  "id": "P1-2019DEC-Q38",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is a renewable natural resource?",
+  "options": [
+   "Biological diversity",
+   "Tin",
+   "Natural gas",
+   "Salt"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Biological diversity**\n\nLiving resources regenerate, so **biological diversity** is renewable if it is used sustainably. Tin and natural gas\nare exhaustible, and salt is a mineral resource.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "nta_question_id": "6154759553"
+ },
+ {
+  "id": "P1-2019DEC-Q39",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which among the following natural hazards has relatively slow onset?",
+  "options": [
+   "Volcanic eruptions",
+   "Droughts",
+   "Wild fires",
+   "Land slides"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Droughts**\n\nA **drought** builds up over months of deficient rainfall: a classic slow-onset (\"creeping\") hazard. The others strike\nsuddenly.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "nta_question_id": "6154759554"
+ },
+ {
+  "id": "P1-2019DEC-Q40",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Under Kyoto protocol, the parties, in the second commitment period, have to reduce their greenhouse gas emissions with reference to 1990 levels by atleast",
+  "options": [
+   "10%",
+   "12%",
+   "15%",
+   "18%"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 18%**\n\nThe Doha Amendment (2012) set the second commitment period (2013–2020) with a cut of **at least 18%** below 1990\nlevels. The first period (2008–2012) had a 5% target.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "6154759555"
+ },
+ {
+  "id": "P1-2019DEC-Q41",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match the following study skills with their effective learning techniques:",
+  "lists": {
+   "list_i": {
+    "title": "Study skills",
+    "items": [
+     "Elaborative interrogation",
+     "Practice testing",
+     "Self-Explanation",
+     "Interleaved practice"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "Learning techniques",
+    "items": [
+     "Mixing different kinds of problems together when studying",
+     "Explaining what a section of text or an example problem means to you",
+     "Testing yourself on the material you are trying to learn",
+     "Answering why a fact is true"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct option :",
+  "options": [
+   "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+   "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+   "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+   "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)**\n\nElaborative interrogation asks *why* a fact is true (iv). Practice testing is self-testing (iii). Self-explanation is\nexplaining the material to yourself (ii). Interleaving mixes different kinds of problems (i).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "6154759556"
+ },
+ {
+  "id": "P1-2019DEC-Q42",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which one of the following represents the correct order of sequence for reading skills in the context of research?",
+  "options": [
+   "Read, question, recall, review, survey",
+   "Questions, survey, read, recall, review",
+   "Recall, review, survey, question, read",
+   "Survey, question, read, recall, review"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Survey, question, read, recall, review**\n\nThis is the **SQ3R** method: Survey, Question, Read, Recite (recall), Review.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "6154759557"
+ },
+ {
+  "id": "P1-2019DEC-Q43",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In order to meet the demands of market economy and produce competent graduates, who can compete with their counterparts in international markets, the first and foremost change that needs to be introduced in the prevailing system of Indian higher education is related to:",
+  "options": [
+   "Admission process",
+   "Curriculum",
+   "Educational technology",
+   "Appointment of teachers"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Curriculum**\n\nWhat graduates know and can do is set by what they are taught. Making them competitive therefore starts with a\nrelevant, skill-oriented **curriculum**. Admissions, technology and staffing support it.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "6154759558"
+ },
+ {
+  "id": "P1-2019DEC-Q44",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which among the following is the flagship scheme of the Ministry of Skill Development and Entrepreneurship implemented by National Skills Development Corporation?",
+  "options": [
+   "Robotics India",
+   "Artificial Intelligence @ schools",
+   "Make in India",
+   "Pradhan Mantri Kaushal Vikas Yojna"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Pradhan Mantri Kaushal Vikas Yojna**\n\n**Pradhan Mantri Kaushal Vikas Yojana** (launched 2015) is MSDE's flagship skill-training scheme, implemented through\nNSDC. Make in India belongs to the commerce and industry ministry.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "6154759559"
+ },
+ {
+  "id": "P1-2019DEC-Q45",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In the age of four Vedas, students were admitted to the Vedic schools after performance of which ceremony, among the following :",
+  "options": [
+   "Upanayana ceremony",
+   "Utsarjana ceremony",
+   "Satapatha brahmana",
+   "Dhanurvidya ceremony"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Upanayana ceremony**\n\nThe **upanayana** (sacred-thread initiation) admitted a pupil to the teacher's house and to Vedic study. Utsarjana\nmarked the close of the annual term of study. The Śatapatha Brāhmaṇa is a text, and dhanurvidyā is archery.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "6154759560"
+ },
+ {
+  "id": "P1-2019DEC-Q46",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When does one feel the need for the value of affective aspects of teaching?",
+  "passage": "Read the passage and answer questions from 46 to 50.\n\nAnyone who has ever been in a classroom where the teacher's presentation was lifeless, static, and without vocal variety can appreciate the commonsense value of the affective side of teaching. However, unlike the other behaviours, affect cannot be captured in transcripts of teaching or by classroom interaction instruments. Narrowly focussed research instruments often miss a teacher's affective nature, which emerges from a more holistic view of the classroom. This affective nature is the foundation on which one can build a warm and nurturing relationship with his or her learners. What the instruments miss, the students see clearly. Students are good perceivers of the emotions and intentions underlying a teacher's actions, and they often respond accordingly. A teacher who is excited about the subject being taught and shows it by facial expressions, voice inflection, gesture and movement-thus communicating respect and caring for the learner - is more likely to hold the attention of students and motivate them to higher levels of achievement than one who does not exhibit these behaviours. Students take their cues from these affective signs and lower or heighten their engagement with the lesson accordingly. Enthusiasm is an important aspect of a teacher's affect. Enthusiasm is the teacher's vigour, power, involvement, excitement, and interest during a classroom presentation and willingness to share this emotion with learners, who will want to respond in kind.",
+  "options": [
+   "When a teacher has a vocal variety",
+   "When a teacher makes a dynamic presentation",
+   "When a teacher's presentation is monotonous",
+   "When a teacher's lecture is beyond expectation"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) When a teacher's presentation is monotonous**\n\nThe opening sentence: anyone who has sat through a \"lifeless, static\" presentation \"without vocal variety\" can\nappreciate the value of the affective side, so the need is felt when the presentation is **monotonous**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "6154759562"
+ },
+ {
+  "id": "P1-2019DEC-Q47",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The affective nature of teaching is reflected in",
+  "passage": "Read the passage and answer questions from 46 to 50.\n\nAnyone who has ever been in a classroom where the teacher's presentation was lifeless, static, and without vocal variety can appreciate the commonsense value of the affective side of teaching. However, unlike the other behaviours, affect cannot be captured in transcripts of teaching or by classroom interaction instruments. Narrowly focussed research instruments often miss a teacher's affective nature, which emerges from a more holistic view of the classroom. This affective nature is the foundation on which one can build a warm and nurturing relationship with his or her learners. What the instruments miss, the students see clearly. Students are good perceivers of the emotions and intentions underlying a teacher's actions, and they often respond accordingly. A teacher who is excited about the subject being taught and shows it by facial expressions, voice inflection, gesture and movement-thus communicating respect and caring for the learner - is more likely to hold the attention of students and motivate them to higher levels of achievement than one who does not exhibit these behaviours. Students take their cues from these affective signs and lower or heighten their engagement with the lesson accordingly. Enthusiasm is an important aspect of a teacher's affect. Enthusiasm is the teacher's vigour, power, involvement, excitement, and interest during a classroom presentation and willingness to share this emotion with learners, who will want to respond in kind.",
+  "options": [
+   "Deeper understanding of the classroom environment",
+   "Other behaviours of the teacher",
+   "The recording of classroom interaction",
+   "The limited reliance on research instruments"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Deeper understanding of the classroom environment**\n\nThe passage says the affective nature \"emerges from a more holistic view of the classroom\" and is missed by narrow\ninstruments and transcripts. So it shows in a **deeper, holistic understanding of the classroom**, not in recordings\nor in the teacher's other behaviours. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "6154759563"
+ },
+ {
+  "id": "P1-2019DEC-Q48",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Students respect a teacher who",
+  "passage": "Read the passage and answer questions from 46 to 50.\n\nAnyone who has ever been in a classroom where the teacher's presentation was lifeless, static, and without vocal variety can appreciate the commonsense value of the affective side of teaching. However, unlike the other behaviours, affect cannot be captured in transcripts of teaching or by classroom interaction instruments. Narrowly focussed research instruments often miss a teacher's affective nature, which emerges from a more holistic view of the classroom. This affective nature is the foundation on which one can build a warm and nurturing relationship with his or her learners. What the instruments miss, the students see clearly. Students are good perceivers of the emotions and intentions underlying a teacher's actions, and they often respond accordingly. A teacher who is excited about the subject being taught and shows it by facial expressions, voice inflection, gesture and movement-thus communicating respect and caring for the learner - is more likely to hold the attention of students and motivate them to higher levels of achievement than one who does not exhibit these behaviours. Students take their cues from these affective signs and lower or heighten their engagement with the lesson accordingly. Enthusiasm is an important aspect of a teacher's affect. Enthusiasm is the teacher's vigour, power, involvement, excitement, and interest during a classroom presentation and willingness to share this emotion with learners, who will want to respond in kind.",
+  "options": [
+   "is emotional",
+   "displays concern for students",
+   "has a powerful voice",
+   "has narcissitic attitude"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) displays concern for students**\n\nThe passage praises the teacher who shows enthusiasm, \"communicating respect and caring for the learner\". That is a\nteacher who **displays concern for students**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "6154759564"
+ },
+ {
+  "id": "P1-2019DEC-Q49",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The affective signs will provide students",
+  "passage": "Read the passage and answer questions from 46 to 50.\n\nAnyone who has ever been in a classroom where the teacher's presentation was lifeless, static, and without vocal variety can appreciate the commonsense value of the affective side of teaching. However, unlike the other behaviours, affect cannot be captured in transcripts of teaching or by classroom interaction instruments. Narrowly focussed research instruments often miss a teacher's affective nature, which emerges from a more holistic view of the classroom. This affective nature is the foundation on which one can build a warm and nurturing relationship with his or her learners. What the instruments miss, the students see clearly. Students are good perceivers of the emotions and intentions underlying a teacher's actions, and they often respond accordingly. A teacher who is excited about the subject being taught and shows it by facial expressions, voice inflection, gesture and movement-thus communicating respect and caring for the learner - is more likely to hold the attention of students and motivate them to higher levels of achievement than one who does not exhibit these behaviours. Students take their cues from these affective signs and lower or heighten their engagement with the lesson accordingly. Enthusiasm is an important aspect of a teacher's affect. Enthusiasm is the teacher's vigour, power, involvement, excitement, and interest during a classroom presentation and willingness to share this emotion with learners, who will want to respond in kind.",
+  "options": [
+   "The basis for understanding contents",
+   "Exhibitional behaviours",
+   "Cues to hold attention",
+   "A basis which triggers further enthusiasm"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Cues to hold attention**\n\n\"Students take their **cues** from these affective signs and lower or heighten their engagement\". Such a teacher \"is\nmore likely to hold the attention of students\".",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "6154759565"
+ },
+ {
+  "id": "P1-2019DEC-Q50",
+  "subject": "paper1",
+  "exam_year": 2019,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2019, held 6 December 2019 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (the prepp.in copy uploaded to the Drive folder), question numbers as printed, NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q13 (what classroom interactions are 'largely influenced by'), where two options are equally defensible."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The passage focusses attention on",
+  "passage": "Read the passage and answer questions from 46 to 50.\n\nAnyone who has ever been in a classroom where the teacher's presentation was lifeless, static, and without vocal variety can appreciate the commonsense value of the affective side of teaching. However, unlike the other behaviours, affect cannot be captured in transcripts of teaching or by classroom interaction instruments. Narrowly focussed research instruments often miss a teacher's affective nature, which emerges from a more holistic view of the classroom. This affective nature is the foundation on which one can build a warm and nurturing relationship with his or her learners. What the instruments miss, the students see clearly. Students are good perceivers of the emotions and intentions underlying a teacher's actions, and they often respond accordingly. A teacher who is excited about the subject being taught and shows it by facial expressions, voice inflection, gesture and movement-thus communicating respect and caring for the learner - is more likely to hold the attention of students and motivate them to higher levels of achievement than one who does not exhibit these behaviours. Students take their cues from these affective signs and lower or heighten their engagement with the lesson accordingly. Enthusiasm is an important aspect of a teacher's affect. Enthusiasm is the teacher's vigour, power, involvement, excitement, and interest during a classroom presentation and willingness to share this emotion with learners, who will want to respond in kind.",
+  "options": [
+   "Lifeless classroom presentation",
+   "Affective factors of teaching",
+   "Students as emotional learners",
+   "Measuring teacher's affective nature"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Affective factors of teaching**\n\nFrom first sentence to last, the passage is about the **affective side of teaching**: what it is, why instruments\nmiss it, how students read it, and enthusiasm as part of it.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "6154759566"
+ }
+]
