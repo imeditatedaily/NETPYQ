@@ -1,0 +1,1741 @@
+[
+ {
+  "id": "P1-2020JUN-Q01",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which city the distribution of paper is minimum?",
+  "passage": "The following table shows the number of newspapers printed (shown inside the brackets) and the number of newspapers distributed at different cities on a particular date. Answer the questions 1 to 5:",
+  "table": {
+   "title": "City-wise Distribution of Newspaper",
+   "columns": [
+    "City",
+    "Newspaper A (2000)",
+    "Newspaper B (2000)",
+    "Newspaper C (1000)",
+    "Newspaper D (1000)"
+   ],
+   "rows": [
+    [
+     "Delhi",
+     "1000",
+     "750",
+     "320",
+     "250"
+    ],
+    [
+     "Lucknow",
+     "500",
+     "250",
+     "250",
+     "175"
+    ],
+    [
+     "Varanasi",
+     "200",
+     "150",
+     "165",
+     "155"
+    ],
+    [
+     "Jaipur",
+     "200",
+     "350",
+     "135",
+     "160"
+    ]
+   ]
+  },
+  "options": [
+   "Jaipur",
+   "Lucknow",
+   "Delhi",
+   "Varanasi"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Varanasi**\n\nCity totals: Delhi 2320, Lucknow 1175, Varanasi 670, Jaipur 845. **Varanasi** is lowest.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "5362283929"
+ },
+ {
+  "id": "P1-2020JUN-Q02",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the percentage of distributed newspapers compared to printed newspapers?",
+  "passage": "The following table shows the number of newspapers printed (shown inside the brackets) and the number of newspapers distributed at different cities on a particular date. Answer the questions 1 to 5:",
+  "table": {
+   "title": "City-wise Distribution of Newspaper",
+   "columns": [
+    "City",
+    "Newspaper A (2000)",
+    "Newspaper B (2000)",
+    "Newspaper C (1000)",
+    "Newspaper D (1000)"
+   ],
+   "rows": [
+    [
+     "Delhi",
+     "1000",
+     "750",
+     "320",
+     "250"
+    ],
+    [
+     "Lucknow",
+     "500",
+     "250",
+     "250",
+     "175"
+    ],
+    [
+     "Varanasi",
+     "200",
+     "150",
+     "165",
+     "155"
+    ],
+    [
+     "Jaipur",
+     "200",
+     "350",
+     "135",
+     "160"
+    ]
+   ]
+  },
+  "options": [
+   "83.5%",
+   "84.0%",
+   "82.0%",
+   "82.5%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 83.5%**\n\nDistributed: 2320 + 1175 + 670 + 845 = 5010. Printed: 2000 + 2000 + 1000 + 1000 = 6000. 5010 ÷ 6000 = **83.5%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "5362283930"
+ },
+ {
+  "id": "P1-2020JUN-Q03",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the percentage of distribution of newspaper C in all the cities as compared to total number of newspapers distributed?",
+  "passage": "The following table shows the number of newspapers printed (shown inside the brackets) and the number of newspapers distributed at different cities on a particular date. Answer the questions 1 to 5:",
+  "table": {
+   "title": "City-wise Distribution of Newspaper",
+   "columns": [
+    "City",
+    "Newspaper A (2000)",
+    "Newspaper B (2000)",
+    "Newspaper C (1000)",
+    "Newspaper D (1000)"
+   ],
+   "rows": [
+    [
+     "Delhi",
+     "1000",
+     "750",
+     "320",
+     "250"
+    ],
+    [
+     "Lucknow",
+     "500",
+     "250",
+     "250",
+     "175"
+    ],
+    [
+     "Varanasi",
+     "200",
+     "150",
+     "165",
+     "155"
+    ],
+    [
+     "Jaipur",
+     "200",
+     "350",
+     "135",
+     "160"
+    ]
+   ]
+  },
+  "options": [
+   "16.46%",
+   "17.36%",
+   "18.42%",
+   "16.36%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 17.36%**\n\nC: 320 + 250 + 165 + 135 = 870. 870 ÷ 5010 ≈ **17.36%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "5362283931"
+ },
+ {
+  "id": "P1-2020JUN-Q04",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the ratio of distribution of Newspaper A to newspaper B?",
+  "passage": "The following table shows the number of newspapers printed (shown inside the brackets) and the number of newspapers distributed at different cities on a particular date. Answer the questions 1 to 5:",
+  "table": {
+   "title": "City-wise Distribution of Newspaper",
+   "columns": [
+    "City",
+    "Newspaper A (2000)",
+    "Newspaper B (2000)",
+    "Newspaper C (1000)",
+    "Newspaper D (1000)"
+   ],
+   "rows": [
+    [
+     "Delhi",
+     "1000",
+     "750",
+     "320",
+     "250"
+    ],
+    [
+     "Lucknow",
+     "500",
+     "250",
+     "250",
+     "175"
+    ],
+    [
+     "Varanasi",
+     "200",
+     "150",
+     "165",
+     "155"
+    ],
+    [
+     "Jaipur",
+     "200",
+     "350",
+     "135",
+     "160"
+    ]
+   ]
+  },
+  "options": [
+   "16 : 15",
+   "7 : 5",
+   "19 : 15",
+   "17 : 15"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 19 : 15**\n\nA: 1000 + 500 + 200 + 200 = 1900. B: 750 + 250 + 150 + 350 = 1500. 1900 : 1500 = **19 : 15**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "5362283932"
+ },
+ {
+  "id": "P1-2020JUN-Q05",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the ratio of total distributed paper to total newspaper printed?",
+  "passage": "The following table shows the number of newspapers printed (shown inside the brackets) and the number of newspapers distributed at different cities on a particular date. Answer the questions 1 to 5:",
+  "table": {
+   "title": "City-wise Distribution of Newspaper",
+   "columns": [
+    "City",
+    "Newspaper A (2000)",
+    "Newspaper B (2000)",
+    "Newspaper C (1000)",
+    "Newspaper D (1000)"
+   ],
+   "rows": [
+    [
+     "Delhi",
+     "1000",
+     "750",
+     "320",
+     "250"
+    ],
+    [
+     "Lucknow",
+     "500",
+     "250",
+     "250",
+     "175"
+    ],
+    [
+     "Varanasi",
+     "200",
+     "150",
+     "165",
+     "155"
+    ],
+    [
+     "Jaipur",
+     "200",
+     "350",
+     "135",
+     "160"
+    ]
+   ]
+  },
+  "options": [
+   "5 : 6",
+   "51 : 60",
+   "167 : 200",
+   "52 : 61"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 167 : 200**\n\n5010 : 6000 = **167 : 200**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "5362283933"
+ },
+ {
+  "id": "P1-2020JUN-Q06",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If teaching is viewed as a continuum, which of the following modality, involves active 'give' and 'take' between the teacher and learner?",
+  "options": [
+   "Training",
+   "Conditioning",
+   "Instruction",
+   "Indoctrination"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Instruction**\n\nOn Green's teaching continuum, conditioning and training shape behaviour, and indoctrination shapes belief without reasons. **Instruction** is where teacher and learner exchange reasons and questions: real give and take.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "5362283934"
+ },
+ {
+  "id": "P1-2020JUN-Q07",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "What is the correct sequence from lower to higher, for indicating learning outcomes related to affective domain?",
+  "items": [
+   "Receiving",
+   "Valuing",
+   "Responding",
+   "Organization",
+   "Characterization"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B), (C), (D) and (E)",
+   "(A), (C), (B), (D) and (E)",
+   "(C), (D), (E), (A) and (B)",
+   "(B), (C), (A), (D) and (E)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A), (C), (B), (D) and (E)**\n\nKrathwohl's affective taxonomy: **receiving → responding → valuing → organisation → characterisation** by a value.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Objectives of teaching and higher education",
+  "nta_question_id": "5362283935"
+ },
+ {
+  "id": "P1-2020JUN-Q08",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Ability of an individual or group implies the components of knowledge, skill and experience.",
+   "Willingness of an individual or group implies the components of confidence, commitment and motivation."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct**\n\nIn Hersey and Blanchard's idea of readiness, **ability** is knowledge, skill and experience and **willingness** is confidence, commitment and motivation. Both are correct.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "nta_question_id": "5362283936"
+ },
+ {
+  "id": "P1-2020JUN-Q09",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II : List I provides the basic management functions to be performed by a teacher while the List II gives their description.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Planning",
+     "Organizing",
+     "Motivating",
+     "Controlling"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "It involves feedback of results and follow up to compare accomplishments.",
+     "It involves engagement in task relevant activities.",
+     "It involves bringing together resources and people.",
+     "It involves setting goals and objectives."
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nPlanning sets goals; organising brings resources and people together; motivating engages students in the task; controlling checks results against plans.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "5362283937"
+ },
+ {
+  "id": "P1-2020JUN-Q10",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) :",
+  "assertion": "The use of ICT has a great potential for optimising learning outcomes.",
+  "reason": "ICT promotes scope for variety, flexibility and attractiveness.",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A)**\n\nICT can improve learning outcomes **because** it brings variety (many media), flexibility (any time, any pace) and attractiveness to teaching. R explains A.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "5362283938"
+ },
+ {
+  "id": "P1-2020JUN-Q11",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Identify the non-probability sampling procedures from the following :",
+  "items": [
+   "Simple random sampling",
+   "Quota sampling",
+   "Cluster sampling",
+   "Snowball sampling",
+   "Dimensional sampling"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B) and (C) only",
+   "(B), (C) and (D) only",
+   "(B), (D) and (E) only",
+   "(C), (D) and (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (B), (D) and (E) only**\n\nQuota, snowball and dimensional sampling are non-probability methods. Simple random and cluster sampling are probability methods.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "5362283939"
+ },
+ {
+  "id": "P1-2020JUN-Q12",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A college principal conducts an ethnographic probe into the problems faced by tribal students. Which method of sampling will be most appropriate?",
+  "options": [
+   "Random sampling",
+   "Stratified sampling",
+   "Cluster sampling",
+   "Systematic sampling"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Cluster sampling**\n\nTribal students occur in natural groups (communities, hostels, villages). An ethnographic study takes whole groups as they are, which is **cluster sampling**; there is no list from which to draw a random or systematic sample.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "5362283940"
+ },
+ {
+  "id": "P1-2020JUN-Q13",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Fundamental research is directed at exploring the applicability of truths and principles already established.",
+   "Action research aims at ameliorating the ongoing conditions and practices."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement I is incorrect but Statement II is correct**\n\nStatement I describes **applied** research; fundamental research seeks new knowledge and principles. Statement II is correct: action research aims to improve current practice.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "nta_question_id": "5362283941"
+ },
+ {
+  "id": "P1-2020JUN-Q14",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) :",
+  "assertion": "Research ethics and its observance is necessary in the interest of credibility and quality of research.",
+  "reason": "The policy making bodies have to be accountable for pursuing research with an eye on promoting excellence.",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both (A) and (R) are true but (R) is NOT the correct explanation of (A)**\n\nBoth are true, but the accountability of policy bodies is not the reason ethics are needed; ethics protect the credibility and integrity of the research itself.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research ethics",
+  "nta_question_id": "5362283942"
+ },
+ {
+  "id": "P1-2020JUN-Q15",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A researcher intends to find out the differences in motivational outlook of first degree level students in terms of their belongingness to rural/urban areas and the educational status of parents. What will be the dependent variable in this study?",
+  "options": [
+   "Belongingness to rural/urban areas",
+   "First degree level",
+   "Educational status of parents",
+   "Motivational outlook"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Motivational outlook**\n\nThe study looks for differences **in motivational outlook** by locality and parents' education. Motivational outlook is the dependent variable; the other two are independent variables.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Hypotheses, variables and testing",
+  "nta_question_id": "5362283943"
+ },
+ {
+  "id": "P1-2020JUN-Q16",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Distance in Inter-personal communication is indicative of one's",
+  "options": [
+   "Showmanship",
+   "Social Strategy",
+   "Culture",
+   "Business-like approach"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Culture**\n\nProxemics (Hall): how much distance people keep while talking is learned from their **culture**.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "5362283944"
+ },
+ {
+  "id": "P1-2020JUN-Q18",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II :",
+  "lists": {
+   "list_i": {
+    "title": "List I (Type of media)",
+    "items": [
+     "Synchronous media",
+     "Asynchronous media",
+     "Rich media",
+     "Hyper media"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Example)",
+    "items": [
+     "Application of multi-media",
+     "Interactive multi-media",
+     "E-mail",
+     "Telephone"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)",
+   "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nThe telephone is synchronous (real time); e-mail is asynchronous; rich media are interactive multimedia; hypermedia is the application of linked multimedia.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "5362283946"
+ },
+ {
+  "id": "P1-2020JUN-Q19",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) :",
+  "assertion": "Effective communicators align appearance with body language and tone.",
+  "reason": "Such an alignment forms part of the art of persuasion.",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A)**\n\nWhen appearance, gestures and tone send the same message, the speaker seems credible, and credibility persuades. R explains why effective communicators do A.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "5362283947"
+ },
+ {
+  "id": "P1-2020JUN-Q20",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are contributive to positive influence on teacher-student communication?",
+  "items": [
+   "Making assumptions",
+   "Limited interaction",
+   "Fostering a sense of belongingness",
+   "Acknowledging participation",
+   "Persuasive attitude"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B), (C) only",
+   "(B), (C), (D) only",
+   "(C), (D), (E) only",
+   "(A), (D), (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (C), (D), (E) only**\n\nBelonging, recognition of participation and a persuasive (encouraging) manner help. Assumptions and limited interaction are barriers.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "5362283948"
+ },
+ {
+  "id": "P1-2020JUN-Q21",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A pipe normally fills a tank in 12 hours, but, due to a leak, it takes 8 hours more. If the tank is full, how many hours will the leak take to empty it?",
+  "options": [
+   "12",
+   "22",
+   "30",
+   "33"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 30**\n\nWith the leak the tank fills in 20 hours. Leak rate = 1/12 − 1/20 = 2/60 = 1/30, so the leak empties it in **30 hours**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "5362283949"
+ },
+ {
+  "id": "P1-2020JUN-Q22",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the remainder when 64 divides 1671?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 7**\n\n64 × 26 = 1664; 1671 − 1664 = **7**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "5362283950"
+ },
+ {
+  "id": "P1-2020JUN-Q23",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Two triangles are said to be congruent if their corresponding angles are equal and corresponding sides are proportional.",
+   "Two triangles are said to be similar if their corresponding angles and corresponding sides are equal."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is correct but Statement II is false",
+   "Statement I is incorrect but Statement II is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both Statement I and Statement II are false**\n\nThe definitions are swapped. **Similar** triangles have equal angles and proportional sides; **congruent** triangles have equal angles and equal sides.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "5362283951"
+ },
+ {
+  "id": "P1-2020JUN-Q24",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Find the wrong number in the series :\n7, 8, 18, 57, 228, 1165, 6996",
+  "options": [
+   "1165",
+   "228",
+   "57",
+   "18"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 228**\n\nThe rule is ×1 + 1, ×2 + 2, ×3 + 3, …: 7 → 8 → 18 → 57 → **232** → 1165 → 6996. 228 should be 232.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "5362283952"
+ },
+ {
+  "id": "P1-2020JUN-Q25",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "When we perform an experiment, then the set S of all possible outcomes is called the sample space.",
+   "Any superset of a sample space is called an event."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is correct but Statement II is false",
+   "Statement I is incorrect but Statement II is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I is correct but Statement II is false**\n\nStatement I is the definition of a sample space. An event is a **subset** of the sample space, not a superset.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "5362283953"
+ },
+ {
+  "id": "P1-2020JUN-Q26",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In terms of the relationship indicated below, which word will correctly pair to replace the question mark?\nFrown : Pain :: Smile : ?",
+  "options": [
+   "Joy",
+   "Sorrow",
+   "Failure",
+   "Discomfiture"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Joy**\n\nA frown expresses pain; a smile expresses **joy**.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "5362283954"
+ },
+ {
+  "id": "P1-2020JUN-Q27",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) :",
+  "assertion": "Since the perception of hardness is not necessarily connected with its colour, it can be said that all the perceptions seem conjoined but never connected.",
+  "reason": "Causal relationship is always contingent and probable because it is derived from experience.",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A)**\n\nBoth are Hume's views. Because our idea of cause comes only from experience of constant conjunction, causal connection is never necessary but contingent and probable, which is why perceptions are \"conjoined but never connected\".",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "5362283955"
+ },
+ {
+  "id": "P1-2020JUN-Q29",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Given below are two propositions :\nSome animals are fierce.\nSome animals are not fierce.\nIn the classical square of opposition which one of the following is the correct option?",
+  "options": [
+   "Subaltern",
+   "Contradictory",
+   "Contrary",
+   "Sub-contrary"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Sub-contrary**\n\nI (some S are P) and O (some S are not P) are **sub-contraries**: they can both be true but cannot both be false.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "5362283957"
+ },
+ {
+  "id": "P1-2020JUN-Q30",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II :",
+  "lists": {
+   "list_i": {
+    "title": "List I (Concept)",
+    "items": [
+     "Causality is apriori",
+     "Causality is synthetic",
+     "Causality is dialectical",
+     "Causality is material"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Philosopher)",
+    "items": [
+     "Aristotle",
+     "Hegel",
+     "Hume",
+     "Kant"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+   "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nKant made causality an a priori category; Hume treated causal claims as synthetic matters of fact from experience; Hegel's causality is dialectical; Aristotle's includes the material cause.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "5362283958"
+ },
+ {
+  "id": "P1-2020JUN-Q31",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "CDMA stands for",
+  "options": [
+   "Code Division Multiplexed Access",
+   "Code Division Multiple Access",
+   "Code Division Mobile Access",
+   "Code Division Mobile Adapter"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Code Division Multiple Access**\n\n**Code Division Multiple Access**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "5362283959"
+ },
+ {
+  "id": "P1-2020JUN-Q32",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In display technology, CRT stands for",
+  "options": [
+   "Cathode Ray Transmission",
+   "Computer Ray Transmission",
+   "Cathode Ray Tube",
+   "Cathode Ray Transducer"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Cathode Ray Tube**\n\n**Cathode Ray Tube**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "5362283960"
+ },
+ {
+  "id": "P1-2020JUN-Q33",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "External hard disk is a primary memory.",
+   "In general, pen drives have more storage capacity than external hard disks."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is correct but Statement II is false",
+   "Statement I is incorrect but Statement II is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both Statement I and Statement II are false**\n\nAn external hard disk is secondary storage, and external hard disks generally hold more than pen drives. Both statements are false.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "5362283961"
+ },
+ {
+  "id": "P1-2020JUN-Q34",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II : List II contains examples of the items Listed in List I.",
+  "lists": {
+   "list_i": {
+    "title": "List I",
+    "items": [
+     "Web 2.0 Applications",
+     "Search Engines",
+     "System Softwares",
+     "High level languages"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II",
+    "items": [
+     "Windows 8, i-OS",
+     "C++, Java",
+     "Blogs, Twitter",
+     "Google, Yahoo"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+   "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)",
+   "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)**\n\nBlogs and Twitter are Web 2.0; Google and Yahoo are search engines; Windows and iOS are system software; C++ and Java are high-level languages.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "5362283962"
+ },
+ {
+  "id": "P1-2020JUN-Q35",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following statements are true?",
+  "items": [
+   "An algorithm may produce no output",
+   "An algorithm expressed in a programming language is called a computer program.",
+   "An algorithm is expressed in a graphical form known as flowchart",
+   "An algorithm can have infinite sequence of instructions."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (B) only",
+   "(A), (B) and (D) only",
+   "(C) and (D) only",
+   "(B) and (C) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (B) and (C) only**\n\nAn algorithm must produce at least one output and must finish after a finite number of steps, so A and D are false. B and C are true.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "5362283963"
+ },
+ {
+  "id": "P1-2020JUN-Q36",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Exposure to excessive noise pollution can cause",
+  "items": [
+   "Hearing impairment",
+   "Insomnia",
+   "Rise in blood pressure",
+   "Respiratory disease",
+   "Reduced work efficiency"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (C), (E) only",
+   "(A), (C), (D) only",
+   "(B), (C) and (E) only",
+   "(A), (B), (C) and (E) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A), (B), (C) and (E) only**\n\nNoise causes hearing loss, disturbed sleep, raised blood pressure and lower efficiency. Respiratory disease comes from air pollution, not noise.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Environment and human health",
+  "nta_question_id": "5362283964"
+ },
+ {
+  "id": "P1-2020JUN-Q37",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "In Photo Voltaic system (PV-system) arrange the following from smallest to the largest unit",
+  "items": [
+   "Module",
+   "Array",
+   "Solar cell",
+   "Array field"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(B), (D), (A), (C)",
+   "(B), (D), (C), (A)",
+   "(C), (B), (D), (A)",
+   "(C), (A), (B), (D)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (C), (A), (B), (D)**\n\nCells are wired into a **module** (panel), modules into an **array**, and arrays into an **array field**.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "nta_question_id": "5362283965"
+ },
+ {
+  "id": "P1-2020JUN-Q38",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following types of particulate matter pollutants are used in calculation of Air Quality Index (AQI)?",
+  "items": [
+   "TSP (Total Suspended Particles)",
+   "PM 10 (Particulate matters of size 10 micron or less)",
+   "PM 2.5 (Particulate matter of size 2.5 micron or less)",
+   "PM 1 (Particulate matter of size 1 micron or less)"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(B), (C) and (D) only",
+   "(A) and (B) only",
+   "(B) and (C) only",
+   "(A), (B) and (C) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (B) and (C) only**\n\nIndia's National AQI (2014) uses eight pollutants; the particulate ones are **PM10 and PM2.5**.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "5362283966"
+ },
+ {
+  "id": "P1-2020JUN-Q39",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II :",
+  "lists": {
+   "list_i": {
+    "title": "List I (International Agreements)",
+    "items": [
+     "Montreal Protocol",
+     "Kyoto Protocol",
+     "Convention on Biodiversity",
+     "International Solar Alliance"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Provisions)",
+    "items": [
+     "Clean affordable energy",
+     "Controlling consumption and production of Halons",
+     "Emissions trading",
+     "Clearing House Mechanism"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+   "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+   "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)**\n\nThe Montreal Protocol controls ozone-depleting substances such as halons; Kyoto created emissions trading; the CBD runs a Clearing-House Mechanism; the ISA promotes clean, affordable solar energy.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "5362283967"
+ },
+ {
+  "id": "P1-2020JUN-Q40",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II :",
+  "lists": {
+   "list_i": {
+    "title": "List I (Toxic and Hazardous substances)",
+    "items": [
+     "Vinyl chloride",
+     "Polychlorinated biphenyls (PCBs)",
+     "Benzo(a)pyrene",
+     "Polycyclic Aromatic Hydrocarbons"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Major sources)",
+    "items": [
+     "Electric Insulations",
+     "Fuel combustion",
+     "Plastics Industrial uses",
+     "Waste Incineration"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)",
+   "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+   "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)**\n\nVinyl chloride is used to make PVC plastics; PCBs were used as insulating fluids in transformers; benzo(a)pyrene comes from burning, including waste incineration; PAHs come mainly from fuel combustion.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "5362283968"
+ },
+ {
+  "id": "P1-2020JUN-Q41",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which year, All India Council for Technical Education was set up as a statutory body by an Act of Parliament?",
+  "options": [
+   "1986",
+   "1987",
+   "1988",
+   "1989"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1987**\n\nAICTE was set up in 1945 as an advisory body and became statutory under the **AICTE Act, 1987**.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "5362283969"
+ },
+ {
+  "id": "P1-2020JUN-Q42",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which are the characteristics of an effective team in an institution of higher learning?",
+  "items": [
+   "The atmosphere tends to be informal in which members of team are involved.",
+   "There is a lot of discussion in which everyone participates.",
+   "The task of the group is well understood and accepted by the group members.",
+   "The members of the group are not afraid of putting forth their ideas.",
+   "The members of the group avoid disagreement and conflict among themselves."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B), (C), (D) only",
+   "(B), (C), (D), (E) only",
+   "(C), (D), (E), (A) only",
+   "(E), (A), (B), (C) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (B), (C), (D) only**\n\nMcGregor's effective team is informal, discusses freely, understands its task and speaks openly. It does **not** avoid disagreement; it works through it.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "5362283970"
+ },
+ {
+  "id": "P1-2020JUN-Q43",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Helping individuals and social groups acquire social values, contributes to development of :",
+  "options": [
+   "Environmental awareness",
+   "Environmental knowledge",
+   "Environmental attitude",
+   "Environmental skills"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Environmental attitude**\n\nThe Tbilisi objectives of environmental education define **attitudes** as acquiring social values, strong feeling for the environment and motivation to protect it.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "nta_question_id": "5362283971"
+ },
+ {
+  "id": "P1-2020JUN-Q44",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The principal responsibilities of Academic Council in a University include",
+  "items": [
+   "Maintenance of quality and standards of academic programmes",
+   "Planning, coordination, development, oversight and review of academic programmes of University",
+   "Laying down the essential qualifications for recruitment of faculty in various disciplines.",
+   "Framing and revising/updating the contents of courses of various academic programmes.",
+   "Approval of fee structure for various academic programmes"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), and (B) only",
+   "(A), (B), (D) and (E) only",
+   "(A), (B), (C) and (D) only",
+   "(A), (B), (C) and (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B), (C) and (D) only**\n\nThe Academic Council is responsible for academic standards, programmes, faculty qualifications and courses. Fees are approved by the Executive Council and Finance Committee.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "5362283972"
+ },
+ {
+  "id": "P1-2020JUN-Q45",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II : List I and List II consist of types of procedures used for continuous appraisal of teaching and non-teaching staff in higher education and characteristics of these appraisals respectively :",
+  "lists": {
+   "list_i": {
+    "title": "List I (Types of Appraisal)",
+    "items": [
+     "Developmental",
+     "Managerial",
+     "Laissez-faire",
+     "Judgemental"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Characteristics)",
+    "items": [
+     "Concerned with doing and achieving",
+     "Concerned with moral, ethical and professional values",
+     "Concerned with maintenance of social control",
+     "Concerned with the importance of self-development."
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+   "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+   "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A)-(IV), (B)-(II), (C)-(III), (D)-(I)**\n\nDevelopmental appraisal is about **self-development**, and option (4) is the only one that pairs them.\n\nNo answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "5362283973"
+ },
+ {
+  "id": "P1-2020JUN-Q46",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When individuals in an organisation ask others to comply with their instructions, it is identified as",
+  "passage": "Read the passage and answer questions 46 to 50.\n\n'Power' has been differentiated by numerous authors and practitioners. Amitai Etzioni was among the first to describe individuals who are able to induce other individuals to comply and take action because of their position in the organization as having position power; those who derive their power from their followers are considered to have personal power. Some are skilled enough to have both. Position power is the extent to which those people to whom managers report are willing to delegate authority and responsibility to them. So position power tends to flow down in an organization. This is not to say that leaders do not have any impact on how much position power they accrue. They certainly do. The confidence and trust they develop with the people around them will often determine the willingness of upper management to delegate to them. Remember, though, that whatever power is delegated downward can also be taken back. Personal power is the extent to which followers respect, feel good about, and are committed to the leader. They believe that their own needs and goals will be recognized, supported, and facilitated by their leader. As such personal power in an organisational setting comes from below — from the followers — and so flows up in an organisation. Personal power is not inherent in the leader. If it were, managers with personal power could take over any department and have the same commitment and rapport they had in their last department. Personal power is a day-to-day phenomenon. Personal power is a critical part of having and demonstrating emotional intelligence.",
+  "options": [
+   "organisational power",
+   "positional power",
+   "authoritarian power",
+   "delegated power"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) positional power**\n\nInducing others to comply \"because of their position in the organization\" is **position power**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "5362283975"
+ },
+ {
+  "id": "P1-2020JUN-Q47",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Personal power emanates from",
+  "passage": "Read the passage and answer questions 46 to 50.\n\n'Power' has been differentiated by numerous authors and practitioners. Amitai Etzioni was among the first to describe individuals who are able to induce other individuals to comply and take action because of their position in the organization as having position power; those who derive their power from their followers are considered to have personal power. Some are skilled enough to have both. Position power is the extent to which those people to whom managers report are willing to delegate authority and responsibility to them. So position power tends to flow down in an organization. This is not to say that leaders do not have any impact on how much position power they accrue. They certainly do. The confidence and trust they develop with the people around them will often determine the willingness of upper management to delegate to them. Remember, though, that whatever power is delegated downward can also be taken back. Personal power is the extent to which followers respect, feel good about, and are committed to the leader. They believe that their own needs and goals will be recognized, supported, and facilitated by their leader. As such personal power in an organisational setting comes from below — from the followers — and so flows up in an organisation. Personal power is not inherent in the leader. If it were, managers with personal power could take over any department and have the same commitment and rapport they had in their last department. Personal power is a day-to-day phenomenon. Personal power is a critical part of having and demonstrating emotional intelligence.",
+  "options": [
+   "the group of managers",
+   "the delegation of responsibility",
+   "the followers",
+   "the top-level executives in an organisation"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) the followers**\n\n\"Personal power … comes from below — **from the followers**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "5362283976"
+ },
+ {
+  "id": "P1-2020JUN-Q48",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Delegation of power to managers depends upon",
+  "passage": "Read the passage and answer questions 46 to 50.\n\n'Power' has been differentiated by numerous authors and practitioners. Amitai Etzioni was among the first to describe individuals who are able to induce other individuals to comply and take action because of their position in the organization as having position power; those who derive their power from their followers are considered to have personal power. Some are skilled enough to have both. Position power is the extent to which those people to whom managers report are willing to delegate authority and responsibility to them. So position power tends to flow down in an organization. This is not to say that leaders do not have any impact on how much position power they accrue. They certainly do. The confidence and trust they develop with the people around them will often determine the willingness of upper management to delegate to them. Remember, though, that whatever power is delegated downward can also be taken back. Personal power is the extent to which followers respect, feel good about, and are committed to the leader. They believe that their own needs and goals will be recognized, supported, and facilitated by their leader. As such personal power in an organisational setting comes from below — from the followers — and so flows up in an organisation. Personal power is not inherent in the leader. If it were, managers with personal power could take over any department and have the same commitment and rapport they had in their last department. Personal power is a day-to-day phenomenon. Personal power is a critical part of having and demonstrating emotional intelligence.",
+  "options": [
+   "downward flow of authority",
+   "the whimsicality of top managers",
+   "the people around the management",
+   "the trust reposed by the top managers"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) the trust reposed by the top managers**\n\n\"The confidence and **trust** they develop … will often determine the willingness of upper management to delegate to them.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "5362283977"
+ },
+ {
+  "id": "P1-2020JUN-Q49",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Position power, when delegated is",
+  "passage": "Read the passage and answer questions 46 to 50.\n\n'Power' has been differentiated by numerous authors and practitioners. Amitai Etzioni was among the first to describe individuals who are able to induce other individuals to comply and take action because of their position in the organization as having position power; those who derive their power from their followers are considered to have personal power. Some are skilled enough to have both. Position power is the extent to which those people to whom managers report are willing to delegate authority and responsibility to them. So position power tends to flow down in an organization. This is not to say that leaders do not have any impact on how much position power they accrue. They certainly do. The confidence and trust they develop with the people around them will often determine the willingness of upper management to delegate to them. Remember, though, that whatever power is delegated downward can also be taken back. Personal power is the extent to which followers respect, feel good about, and are committed to the leader. They believe that their own needs and goals will be recognized, supported, and facilitated by their leader. As such personal power in an organisational setting comes from below — from the followers — and so flows up in an organisation. Personal power is not inherent in the leader. If it were, managers with personal power could take over any department and have the same commitment and rapport they had in their last department. Personal power is a day-to-day phenomenon. Personal power is a critical part of having and demonstrating emotional intelligence.",
+  "options": [
+   "volatile",
+   "permanent",
+   "absolute",
+   "inherent"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) volatile**\n\n\"Whatever power is delegated downward can also be taken back\", so it is **volatile**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "5362283978"
+ },
+ {
+  "id": "P1-2020JUN-Q50",
+  "subject": "paper1",
+  "exam_year": 2020,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET June 2020 cycle, held 5 November 2020 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q17 and Q28, whose intended answer could not be settled."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The passage recognizes the critical role of",
+  "passage": "Read the passage and answer questions 46 to 50.\n\n'Power' has been differentiated by numerous authors and practitioners. Amitai Etzioni was among the first to describe individuals who are able to induce other individuals to comply and take action because of their position in the organization as having position power; those who derive their power from their followers are considered to have personal power. Some are skilled enough to have both. Position power is the extent to which those people to whom managers report are willing to delegate authority and responsibility to them. So position power tends to flow down in an organization. This is not to say that leaders do not have any impact on how much position power they accrue. They certainly do. The confidence and trust they develop with the people around them will often determine the willingness of upper management to delegate to them. Remember, though, that whatever power is delegated downward can also be taken back. Personal power is the extent to which followers respect, feel good about, and are committed to the leader. They believe that their own needs and goals will be recognized, supported, and facilitated by their leader. As such personal power in an organisational setting comes from below — from the followers — and so flows up in an organisation. Personal power is not inherent in the leader. If it were, managers with personal power could take over any department and have the same commitment and rapport they had in their last department. Personal power is a day-to-day phenomenon. Personal power is a critical part of having and demonstrating emotional intelligence.",
+  "options": [
+   "faith of the leader in his followers",
+   "emotional intelligence to have personal power",
+   "needs and goals of managers for personal power",
+   "power flowing upwards so that managers can gain personal power"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) emotional intelligence to have personal power**\n\nThe passage ends: \"Personal power is a critical part of having and demonstrating **emotional intelligence**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "5362283979"
+ }
+]

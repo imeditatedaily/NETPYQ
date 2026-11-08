@@ -122,6 +122,7 @@ def test_shipped_paper_1_sessions_keep_their_numbering():
         ("2018-December", "Paper 1 (set B)"): [n for n in range(1, 51) if n != 45],  # flawed item left out
         ("2018-December", "Paper 1 (22 Dec, shift 1)"): [n for n in range(1, 51) if n not in (34, 43)],  # no single key answer
         ("2019-June", "Paper 1"): list(range(1, 51)),
+        ("2020-June", "Paper 1"): [n for n in range(1, 51) if n not in (17, 28)],     # answer could not be settled
         ("2022-December", "Paper 1"): list(range(1, 51)),
         ("2023-June", "Paper 1"): list(range(1, 51)),
         ("2023-December", "Paper 1"): list(range(1, 51)),
