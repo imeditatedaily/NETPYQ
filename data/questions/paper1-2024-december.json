@@ -1,0 +1,1788 @@
+[
+ {
+  "id": "P1-2024DEC-Q01",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What are the average marks obtained by the students with four highest scores in Physics?",
+  "passage": "The following table shows the percentage of marks obtained by 6 students in 4 different subjects in an examination. Study the table and answer the questions that follow:",
+  "table": {
+   "title": "Marks (%) — maximum 100 in each subject",
+   "columns": [
+    "Students",
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "English"
+   ],
+   "rows": [
+    [
+     "Radhika",
+     "90",
+     "85",
+     "95",
+     "98"
+    ],
+    [
+     "Karan",
+     "92",
+     "90",
+     "90",
+     "93"
+    ],
+    [
+     "Neeraj",
+     "86",
+     "82",
+     "75",
+     "77"
+    ],
+    [
+     "Priyanka",
+     "63",
+     "48",
+     "55",
+     "75"
+    ],
+    [
+     "Sujata",
+     "77",
+     "62",
+     "80",
+     "85"
+    ],
+    [
+     "Preeti",
+     "50",
+     "52",
+     "40",
+     "59"
+    ]
+   ]
+  },
+  "options": [
+   "86.5",
+   "88.5",
+   "78",
+   "86.25"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 86.25**\n\nThe four highest Physics scores are 92, 90, 86 and 77. (92 + 90 + 86 + 77) ÷ 4 = 345 ÷ 4 = **86.25**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "3767492312"
+ },
+ {
+  "id": "P1-2024DEC-Q02",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to the marks obtained, what is the percentage of Neeraj in best three subjects?",
+  "passage": "The following table shows the percentage of marks obtained by 6 students in 4 different subjects in an examination. Study the table and answer the questions that follow:",
+  "table": {
+   "title": "Marks (%) — maximum 100 in each subject",
+   "columns": [
+    "Students",
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "English"
+   ],
+   "rows": [
+    [
+     "Radhika",
+     "90",
+     "85",
+     "95",
+     "98"
+    ],
+    [
+     "Karan",
+     "92",
+     "90",
+     "90",
+     "93"
+    ],
+    [
+     "Neeraj",
+     "86",
+     "82",
+     "75",
+     "77"
+    ],
+    [
+     "Priyanka",
+     "63",
+     "48",
+     "55",
+     "75"
+    ],
+    [
+     "Sujata",
+     "77",
+     "62",
+     "80",
+     "85"
+    ],
+    [
+     "Preeti",
+     "50",
+     "52",
+     "40",
+     "59"
+    ]
+   ]
+  },
+  "options": [
+   "80%",
+   "81.66%",
+   "81.33%",
+   "80.66%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 81.66%**\n\nNeeraj's best three are 86, 82 and 77 = 245 out of 300 = **81.66%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "3767492313"
+ },
+ {
+  "id": "P1-2024DEC-Q03",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the overall percentage of Karan?",
+  "passage": "The following table shows the percentage of marks obtained by 6 students in 4 different subjects in an examination. Study the table and answer the questions that follow:",
+  "table": {
+   "title": "Marks (%) — maximum 100 in each subject",
+   "columns": [
+    "Students",
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "English"
+   ],
+   "rows": [
+    [
+     "Radhika",
+     "90",
+     "85",
+     "95",
+     "98"
+    ],
+    [
+     "Karan",
+     "92",
+     "90",
+     "90",
+     "93"
+    ],
+    [
+     "Neeraj",
+     "86",
+     "82",
+     "75",
+     "77"
+    ],
+    [
+     "Priyanka",
+     "63",
+     "48",
+     "55",
+     "75"
+    ],
+    [
+     "Sujata",
+     "77",
+     "62",
+     "80",
+     "85"
+    ],
+    [
+     "Preeti",
+     "50",
+     "52",
+     "40",
+     "59"
+    ]
+   ]
+  },
+  "options": [
+   "92.25%",
+   "90.75%",
+   "91.5%",
+   "91.25%"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 91.25%**\n\n92 + 90 + 90 + 93 = 365 out of 400 = **91.25%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "3767492314"
+ },
+ {
+  "id": "P1-2024DEC-Q04",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following received highest aggregate marks in all the four subjects?",
+  "passage": "The following table shows the percentage of marks obtained by 6 students in 4 different subjects in an examination. Study the table and answer the questions that follow:",
+  "table": {
+   "title": "Marks (%) — maximum 100 in each subject",
+   "columns": [
+    "Students",
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "English"
+   ],
+   "rows": [
+    [
+     "Radhika",
+     "90",
+     "85",
+     "95",
+     "98"
+    ],
+    [
+     "Karan",
+     "92",
+     "90",
+     "90",
+     "93"
+    ],
+    [
+     "Neeraj",
+     "86",
+     "82",
+     "75",
+     "77"
+    ],
+    [
+     "Priyanka",
+     "63",
+     "48",
+     "55",
+     "75"
+    ],
+    [
+     "Sujata",
+     "77",
+     "62",
+     "80",
+     "85"
+    ],
+    [
+     "Preeti",
+     "50",
+     "52",
+     "40",
+     "59"
+    ]
+   ]
+  },
+  "options": [
+   "Radhika",
+   "Karan",
+   "Neeraj",
+   "Sujata"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Radhika**\n\nTotals: Radhika 368, Karan 365, Neeraj 320, Sujata 304. **Radhika** is highest.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "3767492315"
+ },
+ {
+  "id": "P1-2024DEC-Q05",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following pair of students has the smallest ratio between Physics marks scored by them?",
+  "passage": "The following table shows the percentage of marks obtained by 6 students in 4 different subjects in an examination. Study the table and answer the questions that follow:",
+  "table": {
+   "title": "Marks (%) — maximum 100 in each subject",
+   "columns": [
+    "Students",
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "English"
+   ],
+   "rows": [
+    [
+     "Radhika",
+     "90",
+     "85",
+     "95",
+     "98"
+    ],
+    [
+     "Karan",
+     "92",
+     "90",
+     "90",
+     "93"
+    ],
+    [
+     "Neeraj",
+     "86",
+     "82",
+     "75",
+     "77"
+    ],
+    [
+     "Priyanka",
+     "63",
+     "48",
+     "55",
+     "75"
+    ],
+    [
+     "Sujata",
+     "77",
+     "62",
+     "80",
+     "85"
+    ],
+    [
+     "Preeti",
+     "50",
+     "52",
+     "40",
+     "59"
+    ]
+   ]
+  },
+  "options": [
+   "Radhika : Karan",
+   "Neeraj : Karan",
+   "Sujata : Neeraj",
+   "Priyanka : Sujata"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Priyanka : Sujata**\n\n90/92 ≈ 0.98, 86/92 ≈ 0.93, 77/86 ≈ 0.90, 63/77 ≈ 0.82. The smallest ratio is **Priyanka : Sujata**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "3767492316"
+ },
+ {
+  "id": "P1-2024DEC-Q06",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Lecture method shall be selected for a class, if",
+  "items": [
+   "Teacher is a good orator",
+   "All students are above average",
+   "Curricular objectives demand so",
+   "Students request the teacher to do so"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A only",
+   "C only",
+   "A and C only",
+   "C and D only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) C only**\n\nA method is chosen to suit the learning objectives. The lecture is the right choice when the **curricular objectives** call for it, for example to give an overview or a lot of information quickly. The teacher's oratory, the students' ability or their request are not reasons in themselves.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "3767492317"
+ },
+ {
+  "id": "P1-2024DEC-Q07",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "If taken seriously the most important benefit of correctly carried out evaluation can ensure:",
+  "items": [
+   "Decision about progression of students",
+   "Improved teaching",
+   "Improved learning",
+   "Categorising students on the basis of their achievements"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "C and D only",
+   "A and C only",
+   "B and D only",
+   "B and C only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B and C only**\n\nThe main purpose of evaluation is feedback: it shows the teacher what to change (**improved teaching**) and the learner where to improve (**improved learning**). Promotion decisions and grading students are secondary uses.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "3767492318"
+ },
+ {
+  "id": "P1-2024DEC-Q08",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When students encounter difficulties in class, the teacher should not:",
+  "options": [
+   "Give frequent opportunities to them to respond in class room",
+   "Reduce the task, without over-simplifying it",
+   "Emphasize on the future and problems of failure",
+   "Teach some useful learning strategies"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Emphasize on the future and problems of failure**\n\nStruggling students need support: chances to respond, tasks broken into manageable parts and learning strategies. **Dwelling on failure and its consequences** raises anxiety and lowers motivation.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "nta_question_id": "3767492319"
+ },
+ {
+  "id": "P1-2024DEC-Q09",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Which of the following sequence in the development of interest in a subject by a learner is appropriate?",
+  "items": [
+   "Well developed individual interest",
+   "Situational interest triggered",
+   "Emerging individual interest",
+   "Situational interest maintained"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, D, B, C",
+   "C, D, B, A",
+   "C, B, A, D",
+   "B, D, C, A"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, D, C, A**\n\nHidi and Renninger's four-phase model of interest: **triggered situational interest → maintained situational interest → emerging individual interest → well-developed individual interest**.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Learner characteristics",
+  "nta_question_id": "3767492320"
+ },
+ {
+  "id": "P1-2024DEC-Q10",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match the LIST-I with LIST-II",
+  "lists": {
+   "list_i": {
+    "title": "LIST-I (Platform / Term)",
+    "items": [
+     "SWAYAM",
+     "Moodle",
+     "Open access",
+     "h-index"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "LIST-II (Description)",
+    "items": [
+     "L. M. S",
+     "O. E. R",
+     "Scopus",
+     "MOOCs"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-I, C-II, D-III",
+   "A-II, B-III, C-I, D-IV",
+   "A-IV, B-II, C-III, D-I",
+   "A-II, B-I, C-III, D-IV"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-I, C-II, D-III**\n\n- SWAYAM is India's **MOOC** platform.\n- Moodle is a **learning management system**.\n- Open access goes with **open educational resources**.\n- The h-index is a citation metric reported by databases such as **Scopus**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "3767492321"
+ },
+ {
+  "id": "P1-2024DEC-Q11",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Informal experimental designs are",
+  "items": [
+   "Factorial designs",
+   "Before-and-after without control design",
+   "After-only with control design",
+   "Randomized block design",
+   "Before-and-after with control design"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C, D only",
+   "B, C only",
+   "D, E only",
+   "B, C, E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B, C, E only**\n\nKothari divides experimental designs into **informal** ones — before-and-after without control, after-only with control, before-and-after with control — and **formal** ones — completely randomised, randomised block, Latin square and **factorial** designs.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "3767492322"
+ },
+ {
+  "id": "P1-2024DEC-Q12",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Deliberate Sampling is also known as",
+  "options": [
+   "Snow ball Sampling",
+   "Purposive or Probability Sampling",
+   "Quota Sampling",
+   "Purposive or Non-Probability Sampling"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Purposive or Non-Probability Sampling**\n\nKothari: deliberate sampling is also called **purposive or non-probability sampling** — the researcher chooses the units deliberately.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "3767492323"
+ },
+ {
+  "id": "P1-2024DEC-Q13",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not a basic postulate with regard to scientific method?",
+  "options": [
+   "Its methodology is made known to all concerned for critical scrutiny.",
+   "It utilizes relevant concepts.",
+   "It is not committed to only objective considerations.",
+   "It aims at formulating most general axioms or what can be termed as scientific theories."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) It is not committed to only objective considerations.**\n\nKothari's basic postulates say the scientific method is committed **only** to objective considerations. Option (3) reverses this.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "nta_question_id": "3767492324"
+ },
+ {
+  "id": "P1-2024DEC-Q14",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are not referencing styles?",
+  "items": [
+   "Harvard referencing style",
+   "Oxford referencing style",
+   "Cambridge referencing style",
+   "New York referencing style",
+   "Vancouver referencing style"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "C and D only",
+   "C, D and E only",
+   "D and E only",
+   "B and C only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C and D only**\n\nHarvard (author–date), Oxford (footnotes) and Vancouver (numbered) are standard referencing styles. There is no \"Cambridge\" or \"New York\" referencing style in general use.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research writing, publication and conferences",
+  "nta_question_id": "3767492325"
+ },
+ {
+  "id": "P1-2024DEC-Q15",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match the LIST-I with LIST-II",
+  "lists": {
+   "list_i": {
+    "title": "LIST-I (Type of Sampling)",
+    "items": [
+     "Stratified Sampling",
+     "Probability Sampling",
+     "Systematic Sampling",
+     "Non-probability Sampling"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "LIST-II (Meaning)",
+    "items": [
+     "Select every iᵗʰ item on a list",
+     "Population is divided into several sub-populations that are individually more homogeneous",
+     "Every item of the universe has an equal chance of inclusion in the sample",
+     "Procedure which does not afford any basis for estimating the probability that each item in the population has chance of being included in the sample"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A-I, B-III, C-II, D-IV",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-III, C-I, D-IV",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-II, B-III, C-I, D-IV**\n\nStratified: homogeneous sub-populations. Probability: equal (known) chance for each item. Systematic: every iᵗʰ item. Non-probability: no basis for estimating the chance of selection.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "3767492326"
+ },
+ {
+  "id": "P1-2024DEC-Q16",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match the LIST-I with LIST-II",
+  "lists": {
+   "list_i": {
+    "title": "LIST-I (Classroom Communication Technologies)",
+    "items": [
+     "Interactive White Board",
+     "Video conferencing",
+     "Learning Management System",
+     "Projector"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "LIST-II (Meaning)",
+    "items": [
+     "Remote communication with students",
+     "Visual and interactive tool for teaching",
+     "Display visual content in the class",
+     "Organising and delivering Course content like video lectures and text"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A-I, B-II, C-IV, D-III",
+   "A-II, B-I, C-III, D-IV",
+   "A-II, B-IV, C-I, D-III",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A-II, B-I, C-IV, D-III**\n\nInteractive whiteboard: visual and interactive tool. Video conferencing: remote communication. LMS: organising and delivering course content. Projector: displaying visual content.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "nta_question_id": "3767492327"
+ },
+ {
+  "id": "P1-2024DEC-Q17",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the four theories of the press in the correct order of theories:",
+  "items": [
+   "Soviet Theory",
+   "Authoritarian Theory",
+   "Libertarian Theory",
+   "Social responsibility Theory"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "C, B, A, D",
+   "B, C, D, A",
+   "B, A, C, D",
+   "B, C, A, D"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C, D, A**\n\nSiebert, Peterson and Schramm's *Four Theories of the Press* (1956) present them in this order: **authoritarian, libertarian, social responsibility, Soviet communist**.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "nta_question_id": "3767492328"
+ },
+ {
+  "id": "P1-2024DEC-Q18",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'Thumbs up' is a kind of communication",
+  "options": [
+   "Verbal",
+   "Non-Verbal",
+   "Transpersonal",
+   "Intrapersonal"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Non-Verbal**\n\nA thumbs-up is a gesture (an emblem), so it is **non-verbal** communication.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "3767492329"
+ },
+ {
+  "id": "P1-2024DEC-Q19",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How can Psychological barrier affect classroom communication?",
+  "options": [
+   "They facilitate mutual understanding",
+   "They create bias in the interpretation of the meaning of the message",
+   "They make messages clearer",
+   "They eliminate misunderstanding"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) They create bias in the interpretation of the meaning of the message**\n\nPsychological barriers — prejudice, emotions, attitudes, selective perception — **distort how a message is interpreted**.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "nta_question_id": "3767492330"
+ },
+ {
+  "id": "P1-2024DEC-Q20",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In the context of communication the acronym 'SITE' is",
+  "options": [
+   "Satellite Instructional Television Education",
+   "Science Instructional Television Education",
+   "Science Instructional Television Experiment",
+   "Satellite Instructional Television Experiment"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Satellite Instructional Television Experiment**\n\n**SITE**, the Satellite Instructional Television Experiment (1975–76), used NASA's ATS-6 satellite to beam educational TV to about 2,400 Indian villages.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "nta_question_id": "3767492331"
+ },
+ {
+  "id": "P1-2024DEC-Q21",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The tenth term in the following sequence: 1, 5, 14, 30, 55, ……",
+  "options": [
+   "155",
+   "175",
+   "285",
+   "385"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 385**\n\nThe terms are sums of squares: 1, 1 + 4, 1 + 4 + 9, … The tenth is 1² + … + 10² = 10·11·21/6 = **385**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "3767492332"
+ },
+ {
+  "id": "P1-2024DEC-Q22",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the next letter in the following sequence? B, D, G, K, P, V, C",
+  "options": [
+   "K",
+   "L",
+   "M",
+   "N"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) K**\n\nThe gaps grow by one: +2, +3, +4, +5, +6, +7 (V + 7 = C, wrapping round). Next is C + 8 = **K**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "3767492333"
+ },
+ {
+  "id": "P1-2024DEC-Q23",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A Fourth proportional to st⁵, s²t³, s³t² (where s, t are non zero) is",
+  "options": [
+   "s",
+   "s²",
+   "s³",
+   "s⁴"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) s⁴**\n\nst⁵ : s²t³ = s³t² : x, so x = (s²t³ × s³t²) ÷ st⁵ = s⁵t⁵ ÷ st⁵ = **s⁴**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "3767492334"
+ },
+ {
+  "id": "P1-2024DEC-Q24",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Suppose a man swims 12 km upstream and 20 km down stream in a river in 4 hours. If he swims 18 km upstream and 10 km downstream also in 4 hours, then the speed at which he swims in the still water is",
+  "options": [
+   "4 km/hr",
+   "6 km/hr",
+   "8 km/hr",
+   "10 km/hr"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 8 km/hr**\n\nLet u and d be the upstream and downstream speeds: 12/u + 20/d = 4 and 18/u + 10/d = 4. Doubling the second and subtracting gives 24/u = 4, so u = 6; then 20/d = 2, so d = 10. Still-water speed = (6 + 10) ÷ 2 = **8 km/hr**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "3767492335"
+ },
+ {
+  "id": "P1-2024DEC-Q25",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The average of the ages of three persons A, B and C is 45 years and the average age of A, C and D is 51 years. If the age of D is 56 years, what is the age of B?",
+  "options": [
+   "35 years",
+   "38 years",
+   "36 years",
+   "36.5 years"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 38 years**\n\nA + B + C = 135 and A + C + D = 153, so A + C = 153 − 56 = 97 and B = 135 − 97 = **38**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "3767492336"
+ },
+ {
+  "id": "P1-2024DEC-Q26",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Who among the following holds that Indriya is not a Physiological organ but a peculiar capacity of the organ?",
+  "options": [
+   "Buddhists",
+   "Mimamsakas",
+   "Naiyayikas",
+   "Vedantins"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Mimamsakas**\n\nThe **Mīmāṃsakas** (Kumārila) hold that a sense (indriya) is not the visible organ but a special power (*śakti*) residing in it. Nyāya treats the senses as material (bhautika) organs.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "3767492337"
+ },
+ {
+  "id": "P1-2024DEC-Q27",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Consider the following argument and pick the correct answer:\n\"All four legged creatures have wings\nAll spiders have exactly four legs\nTherefore, all spiders have wings\"",
+  "options": [
+   "Valid argument; true premises, true conclusion",
+   "Valid argument; false premises, false conclusion",
+   "Invalid argument; true premises; true conclusion",
+   "Invalid argument; true premises; false conclusion"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Valid argument; false premises, false conclusion**\n\nThe form (All M are P; all S are M; so all S are P) is **valid**. Both premises are false (spiders have eight legs; four-legged animals do not have wings), and so is the conclusion.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "3767492338"
+ },
+ {
+  "id": "P1-2024DEC-Q28",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are correct claims in the light of stipulative definitions?",
+  "items": [
+   "A stipulative definition is always either true or false",
+   "A stipulative definition is a proposal or a request or a resolution to use the definiendum to mean what is meant by definiens",
+   "A stipulative definition is informative and not directive",
+   "Naming the number 10¹⁰⁰ as \"googol\" is a stipulation"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and C only",
+   "B and C only",
+   "C and D only",
+   "B and D only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) B and D only**\n\nA stipulative definition gives a new term a meaning: it is a **proposal** to use a word in a certain way (B), so it is neither true nor false and is directive rather than informative. Naming 10¹⁰⁰ \"googol\" is the classic example (D).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "3767492339"
+ },
+ {
+  "id": "P1-2024DEC-Q29",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to Jaina Philosophy, which among the following is not a form of indirect knowledge.",
+  "options": [
+   "Smrti",
+   "Pratyabhijna",
+   "Tarka",
+   "Naya"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Naya**\n\nJaina epistemology lists the forms of indirect (*parokṣa*) knowledge as smṛti, pratyabhijñā, tarka, anumāna and āgama. **Naya** is a partial standpoint, not a pramāṇa.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "3767492340"
+ },
+ {
+  "id": "P1-2024DEC-Q30",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Identify the fallacy in the following argument:\n\"Alan is tall, dark and handsome and has blue eyes. Bill is also tall, dark and handsome. Therefore, Bill probably has blue eyes too\"",
+  "options": [
+   "Inconsistency",
+   "Weak analogy",
+   "Slippery slope",
+   "Hasty Generalization"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Weak analogy**\n\nThe similarities cited have no bearing on eye colour, so the analogy is **weak**.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "3767492341"
+ },
+ {
+  "id": "P1-2024DEC-Q31",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "WiMAX stands for",
+  "options": [
+   "World Wide interoperability for Microwave Access",
+   "Web interoperability for Microwave Access",
+   "World Wide interoperation for Microwave Access",
+   "World Wide interoperability for Multimedia Access"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) World Wide interoperability for Microwave Access**\n\n**WiMAX**: Worldwide Interoperability for Microwave Access (IEEE 802.16).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "3767492342"
+ },
+ {
+  "id": "P1-2024DEC-Q32",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match the LIST-I with LIST-II",
+  "lists": {
+   "list_i": {
+    "title": "LIST-I (Computer Security Term)",
+    "items": [
+     "Eavesdropping",
+     "Snooping",
+     "Grey hat hacker",
+     "Trojan"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "LIST-II (Description)",
+    "items": [
+     "Looks like a legitimate software",
+     "Just hacks the system for the fun of it",
+     "Process of secret capture",
+     "An unauthorised real time interception"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-III, C-II, D-I",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-II, C-I, D-III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A-IV, B-III, C-II, D-I**\n\nEavesdropping is real-time interception; snooping is secretly capturing data; a grey-hat hacker breaks in without malicious intent; a Trojan disguises itself as legitimate software.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Internet, e-mail and cyber security",
+  "nta_question_id": "3767492343"
+ },
+ {
+  "id": "P1-2024DEC-Q33",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When was the National e-Governance plan (NeGP) started in India?",
+  "options": [
+   "2008",
+   "1991",
+   "2006",
+   "2014"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2006**\n\nThe **National e-Governance Plan** was approved in May **2006**, with 27 (later 31) mission-mode projects.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "3767492344"
+ },
+ {
+  "id": "P1-2024DEC-Q34",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Acronym 'HTTPS' Stands for",
+  "options": [
+   "Hyper Text Transfer Protocol Secure",
+   "Hyper Terminal Telephonic Pairty Self",
+   "Hyper Terminal Telephonic Pairty Secure",
+   "Hyper Terminal Telephonic Pairty Service"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Hyper Text Transfer Protocol Secure**\n\n**HTTPS**: HyperText Transfer Protocol Secure — HTTP over TLS encryption.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "3767492345"
+ },
+ {
+  "id": "P1-2024DEC-Q35",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In the context of computer networking, the acronym \"MVNO\" stands for.",
+  "options": [
+   "Mobile Virtual Network Operator",
+   "Multimedia Virtual Network Operation",
+   "Multimedia Voice Noise Operation",
+   "Multimedia Voice Noise Operator"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Mobile Virtual Network Operator**\n\nAn **MVNO** (Mobile Virtual Network Operator) sells mobile services using another operator's network.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "3767492346"
+ },
+ {
+  "id": "P1-2024DEC-Q36",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Identify the benefits of biodiversity.",
+  "items": [
+   "Contribution to human food supplies",
+   "Providing important medicines",
+   "Supporting ecosystem stability",
+   "Aesthetic and cultural value"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C only",
+   "B, C and D only",
+   "A, B and D only",
+   "A, B, C and D"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, C and D**\n\nBiodiversity supplies food and medicines, stabilises ecosystems and has aesthetic and cultural value: **all four**.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural resources and conservation",
+  "nta_question_id": "3767492347"
+ },
+ {
+  "id": "P1-2024DEC-Q37",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following cities is often referred to as a model sustainable city in modern texts?",
+  "options": [
+   "Mexico city",
+   "Mumbai",
+   "Curitiba",
+   "Shanghai"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Curitiba**\n\n**Curitiba** (Brazil) is the textbook example: bus rapid transit, green spaces and recycling programmes since the 1970s.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "nta_question_id": "3767492348"
+ },
+ {
+  "id": "P1-2024DEC-Q38",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Identify the most favourable conditions for the dispersion and dilution of air pollutants in the atmosphere.",
+  "options": [
+   "Cold winter nights",
+   "Sunny winter evenings",
+   "Hot sunny summer afternoons",
+   "Early mornings during summer"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Hot sunny summer afternoons**\n\nStrong surface heating on **hot sunny afternoons** makes the air unstable and raises the mixing height, so pollutants spread and dilute. Cold nights and early mornings bring inversions that trap them.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "3767492349"
+ },
+ {
+  "id": "P1-2024DEC-Q39",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following major industrial disasters in correct chronological order.",
+  "items": [
+   "Bhopal gas Tragedy",
+   "Seveso Disaster",
+   "Deepwater Horizon oil spill",
+   "Soma Mine Disaster"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B, C, D",
+   "B, A, C, D",
+   "C, D, A, B",
+   "D, A, B, C"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, A, C, D**\n\nSeveso (Italy, 1976) → Bhopal (1984) → Deepwater Horizon (2010) → Soma mine (Turkey, 2014).",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Natural hazards and disaster management",
+  "nta_question_id": "3767492350"
+ },
+ {
+  "id": "P1-2024DEC-Q40",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The Paris Agreement envisages pursuing efforts to limit global warming this century to how many degree celsius above the pre-industrial levels of global average temperature?",
+  "options": [
+   "0.5° C",
+   "1° C",
+   "1.5° C",
+   "2.5° C"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 1.5° C**\n\nArticle 2: hold warming \"well below 2 °C\" and **pursue efforts to limit it to 1.5 °C** above pre-industrial levels.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Climate change and international agreements",
+  "nta_question_id": "3767492351"
+ },
+ {
+  "id": "P1-2024DEC-Q41",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Ethical and moral values that students should acquire through education involve.",
+  "items": [
+   "Patriotism",
+   "Sacrifice",
+   "Intellectual vigour",
+   "Equality",
+   "Fraternity"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "B and C only",
+   "A and B only",
+   "A and C only",
+   "A, B, D and E only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, B, D and E only**\n\nPatriotism, sacrifice, equality and fraternity are moral and civic values. Intellectual vigour is an intellectual quality, not an ethical value.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "nta_question_id": "3767492352"
+ },
+ {
+  "id": "P1-2024DEC-Q42",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match the LIST-I with LIST-II",
+  "lists": {
+   "list_i": {
+    "title": "LIST-I (Institutions)",
+    "items": [
+     "Nalanda",
+     "Takshashila",
+     "Vikramashila",
+     "Nagarjuna Vidyapith"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "LIST-II (Associated Feature)",
+    "items": [
+     "Chanakya",
+     "Admission with entrance examination",
+     "Well furnished library",
+     "Only for Buddhist monks"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A-I, B-II, C-III, D-IV",
+   "A-I, B-II, C-IV, D-III",
+   "A-II, B-I, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A-II, B-I, C-III, D-IV**\n\nNalanda admitted students after an oral test by the gate-keeper scholars (*dvāra-paṇḍita*); Chāṇakya taught at Takṣaśilā; Vikramaśilā was known for its large library; Nāgārjuna's centre at Nāgārjunakoṇḍa was a Buddhist monastic seat.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "3767492353"
+ },
+ {
+  "id": "P1-2024DEC-Q43",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are correct?",
+  "items": [
+   "UGC frames regulations and sets minimum standards of education",
+   "NAAC ensures quality and accreditation",
+   "HEFA provides grant-in-Aid to higher education institutions",
+   "NIRF ranks Indian institutions"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "B only",
+   "D only",
+   "A, B and D only",
+   "B, C and D only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, B and D only**\n\nHEFA (Higher Education Financing Agency) gives **loans** for infrastructure, not grants-in-aid. The other three are correct.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "3767492354"
+ },
+ {
+  "id": "P1-2024DEC-Q44",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Skills to face job interviews and getting employed are part of:",
+  "options": [
+   "Livelihood skill",
+   "Life skill",
+   "Soft skill",
+   "Learning skill"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Livelihood skill**\n\nUNICEF's skills framework separates life skills (psychosocial) from **livelihood skills**: vocational and job-seeking skills such as preparing for and facing interviews.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "nta_question_id": "3767492355"
+ },
+ {
+  "id": "P1-2024DEC-Q45",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Environmental education does not consist of",
+  "options": [
+   "Climate change",
+   "Economic disparity in society",
+   "Consumption of resources",
+   "Environmental degradation"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Economic disparity in society**\n\nClimate change, resource use and environmental degradation are core environmental topics. Economic disparity is a social-economic issue.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "nta_question_id": "3767492356"
+ },
+ {
+  "id": "P1-2024DEC-Q46",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Identify the central theme of the passage.",
+  "passage": "Read the passage and answer the questions that follow:\n\nHandicraft is about processing materials by hand with hand tools. The results can be helpful things or decorative things. The materials utilized in the product are natural, industrially processed or may be recycled. The models of the product are ancient, revised traditional and fashionable. Handicraft is deeply frozen in society and contributes to the idea of preserving and perpetuating traditions. In their product, Crafters transfer an area of their cultural heritage in ideas, forms, materials and work ways, similarly as their own values, philosophy of life, fashion and self-image. Crafts people also known as artisans possess technical data of materials and work ways. They are skilled employees whose profession relies on manual skills. Handicrafts contain plenty of implicit data which grows every year, along with skills. The order and apprentice system has been widely used to transfer skills and implicit data.",
+  "options": [
+   "Inventions of India",
+   "Creations and designs of India",
+   "Architecture of India",
+   "Handicrafts of India"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Handicrafts of India**\n\nThe whole passage is about **handicraft**: materials, models, artisans and how skills are passed on.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "3767492358"
+ },
+ {
+  "id": "P1-2024DEC-Q47",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The importance behind the idea of crafts is",
+  "passage": "Read the passage and answer the questions that follow:\n\nHandicraft is about processing materials by hand with hand tools. The results can be helpful things or decorative things. The materials utilized in the product are natural, industrially processed or may be recycled. The models of the product are ancient, revised traditional and fashionable. Handicraft is deeply frozen in society and contributes to the idea of preserving and perpetuating traditions. In their product, Crafters transfer an area of their cultural heritage in ideas, forms, materials and work ways, similarly as their own values, philosophy of life, fashion and self-image. Crafts people also known as artisans possess technical data of materials and work ways. They are skilled employees whose profession relies on manual skills. Handicrafts contain plenty of implicit data which grows every year, along with skills. The order and apprentice system has been widely used to transfer skills and implicit data.",
+  "options": [
+   "Gainful employment",
+   "To make new products",
+   "to preserve the tradition",
+   "to spend quality time"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) to preserve the tradition**\n\n\"Handicraft … contributes to the idea of **preserving and perpetuating traditions**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "3767492359"
+ },
+ {
+  "id": "P1-2024DEC-Q48",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The materials used in the products are.",
+  "passage": "Read the passage and answer the questions that follow:\n\nHandicraft is about processing materials by hand with hand tools. The results can be helpful things or decorative things. The materials utilized in the product are natural, industrially processed or may be recycled. The models of the product are ancient, revised traditional and fashionable. Handicraft is deeply frozen in society and contributes to the idea of preserving and perpetuating traditions. In their product, Crafters transfer an area of their cultural heritage in ideas, forms, materials and work ways, similarly as their own values, philosophy of life, fashion and self-image. Crafts people also known as artisans possess technical data of materials and work ways. They are skilled employees whose profession relies on manual skills. Handicrafts contain plenty of implicit data which grows every year, along with skills. The order and apprentice system has been widely used to transfer skills and implicit data.",
+  "options": [
+   "Natural only",
+   "Industrially processed and natural only",
+   "Recyclable and natural only",
+   "Natural, Recyclable and Industrially processed"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Natural, Recyclable and Industrially processed**\n\n\"The materials … are natural, industrially processed or may be recycled.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "3767492360"
+ },
+ {
+  "id": "P1-2024DEC-Q49",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The word 'apprentice' implies:",
+  "passage": "Read the passage and answer the questions that follow:\n\nHandicraft is about processing materials by hand with hand tools. The results can be helpful things or decorative things. The materials utilized in the product are natural, industrially processed or may be recycled. The models of the product are ancient, revised traditional and fashionable. Handicraft is deeply frozen in society and contributes to the idea of preserving and perpetuating traditions. In their product, Crafters transfer an area of their cultural heritage in ideas, forms, materials and work ways, similarly as their own values, philosophy of life, fashion and self-image. Crafts people also known as artisans possess technical data of materials and work ways. They are skilled employees whose profession relies on manual skills. Handicrafts contain plenty of implicit data which grows every year, along with skills. The order and apprentice system has been widely used to transfer skills and implicit data.",
+  "options": [
+   "Carpenter",
+   "Plumber",
+   "Trainee",
+   "Artist"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Trainee**\n\nAn apprentice is a **trainee** learning a craft from a master.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "3767492361"
+ },
+ {
+  "id": "P1-2024DEC-Q50",
+  "subject": "paper1",
+  "exam_year": 2024,
+  "exam_cycle": "December",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2024 cycle, held 7 January 2025 (second shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): 50 questions, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Pick the statement which is not true.",
+  "passage": "Read the passage and answer the questions that follow:\n\nHandicraft is about processing materials by hand with hand tools. The results can be helpful things or decorative things. The materials utilized in the product are natural, industrially processed or may be recycled. The models of the product are ancient, revised traditional and fashionable. Handicraft is deeply frozen in society and contributes to the idea of preserving and perpetuating traditions. In their product, Crafters transfer an area of their cultural heritage in ideas, forms, materials and work ways, similarly as their own values, philosophy of life, fashion and self-image. Crafts people also known as artisans possess technical data of materials and work ways. They are skilled employees whose profession relies on manual skills. Handicrafts contain plenty of implicit data which grows every year, along with skills. The order and apprentice system has been widely used to transfer skills and implicit data.",
+  "options": [
+   "Craftsmen transfer their values and philosophy of life",
+   "There is no implicit data in the craftsmanship",
+   "The materials utilized for the crafts are generally recycled",
+   "The models prepared by craftsmen are very fashionable"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) There is no implicit data in the craftsmanship**\n\nThe passage says handicrafts contain \"**plenty of implicit data**\", so (2) is plainly false.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "3767492362"
+ }
+]
