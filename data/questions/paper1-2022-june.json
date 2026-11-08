@@ -1,0 +1,1810 @@
+[
+ {
+  "id": "P1-2022JUN-Q01",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the total cost of production of item I by the Companies 'A' and 'C' together?",
+  "passage": "The following table shows the details of seven companies (A–G) about (i) the percentage cost distribution of production of two items I and II, (ii) the ratio of cost of production between items I and II, and (iii) the percentage profit earned for the items I and II. Cost of production (both items together) by the seven companies is ₹ 50 crores. In accordance with the data in the table, answer the questions 1–5:",
+  "table": {
+   "title": "Company-wise Distribution of Production Cost and Profit",
+   "columns": [
+    "Company",
+    "% cost of production of items I and II",
+    "Ratio of cost: Item I",
+    "Item II",
+    "% profit: Item I",
+    "Item II"
+   ],
+   "rows": [
+    [
+     "A",
+     "15",
+     "2",
+     "3",
+     "25",
+     "20"
+    ],
+    [
+     "B",
+     "11",
+     "3",
+     "2",
+     "32",
+     "35"
+    ],
+    [
+     "C",
+     "22",
+     "4",
+     "1",
+     "20",
+     "22"
+    ],
+    [
+     "D",
+     "8",
+     "3",
+     "5",
+     "15",
+     "25"
+    ],
+    [
+     "E",
+     "27",
+     "5",
+     "3",
+     "28",
+     "30"
+    ],
+    [
+     "F",
+     "5",
+     "1",
+     "4",
+     "35",
+     "25"
+    ],
+    [
+     "G",
+     "12",
+     "1",
+     "2",
+     "30",
+     "24"
+    ]
+   ]
+  },
+  "options": [
+   "₹ 18.5 Crores",
+   "₹ 11.8 Crores",
+   "₹ 8.325 Crores",
+   "₹ 9.8 Crores"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ₹ 11.8 Crores**\n\nA: 15% of 50 = 7.5 crore, item I = 2/5 × 7.5 = 3. C: 22% of 50 = 11 crore, item I = 4/5 × 11 = 8.8. Total **11.8 crore**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "QBID 1511001"
+ },
+ {
+  "id": "P1-2022JUN-Q02",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the amount of profit earned by Company 'D' on item II?",
+  "passage": "The following table shows the details of seven companies (A–G) about (i) the percentage cost distribution of production of two items I and II, (ii) the ratio of cost of production between items I and II, and (iii) the percentage profit earned for the items I and II. Cost of production (both items together) by the seven companies is ₹ 50 crores. In accordance with the data in the table, answer the questions 1–5:",
+  "table": {
+   "title": "Company-wise Distribution of Production Cost and Profit",
+   "columns": [
+    "Company",
+    "% cost of production of items I and II",
+    "Ratio of cost: Item I",
+    "Item II",
+    "% profit: Item I",
+    "Item II"
+   ],
+   "rows": [
+    [
+     "A",
+     "15",
+     "2",
+     "3",
+     "25",
+     "20"
+    ],
+    [
+     "B",
+     "11",
+     "3",
+     "2",
+     "32",
+     "35"
+    ],
+    [
+     "C",
+     "22",
+     "4",
+     "1",
+     "20",
+     "22"
+    ],
+    [
+     "D",
+     "8",
+     "3",
+     "5",
+     "15",
+     "25"
+    ],
+    [
+     "E",
+     "27",
+     "5",
+     "3",
+     "28",
+     "30"
+    ],
+    [
+     "F",
+     "5",
+     "1",
+     "4",
+     "35",
+     "25"
+    ],
+    [
+     "G",
+     "12",
+     "1",
+     "2",
+     "30",
+     "24"
+    ]
+   ]
+  },
+  "options": [
+   "₹ 6.25 crores",
+   "₹ 1.25 crores",
+   "₹ 6.25 lakhs",
+   "₹ 62.5 lakhs"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ₹ 62.5 lakhs**\n\nD: 8% of 50 = 4 crore; item II = 5/8 × 4 = 2.5 crore; profit 25% = 0.625 crore = **₹ 62.5 lakhs**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "QBID 1511002"
+ },
+ {
+  "id": "P1-2022JUN-Q03",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Cost of production of item I by company 'F' is what percent of the cost of production of item II by company 'D'?",
+  "passage": "The following table shows the details of seven companies (A–G) about (i) the percentage cost distribution of production of two items I and II, (ii) the ratio of cost of production between items I and II, and (iii) the percentage profit earned for the items I and II. Cost of production (both items together) by the seven companies is ₹ 50 crores. In accordance with the data in the table, answer the questions 1–5:",
+  "table": {
+   "title": "Company-wise Distribution of Production Cost and Profit",
+   "columns": [
+    "Company",
+    "% cost of production of items I and II",
+    "Ratio of cost: Item I",
+    "Item II",
+    "% profit: Item I",
+    "Item II"
+   ],
+   "rows": [
+    [
+     "A",
+     "15",
+     "2",
+     "3",
+     "25",
+     "20"
+    ],
+    [
+     "B",
+     "11",
+     "3",
+     "2",
+     "32",
+     "35"
+    ],
+    [
+     "C",
+     "22",
+     "4",
+     "1",
+     "20",
+     "22"
+    ],
+    [
+     "D",
+     "8",
+     "3",
+     "5",
+     "15",
+     "25"
+    ],
+    [
+     "E",
+     "27",
+     "5",
+     "3",
+     "28",
+     "30"
+    ],
+    [
+     "F",
+     "5",
+     "1",
+     "4",
+     "35",
+     "25"
+    ],
+    [
+     "G",
+     "12",
+     "1",
+     "2",
+     "30",
+     "24"
+    ]
+   ]
+  },
+  "options": [
+   "16%",
+   "33.33%",
+   "66.67%",
+   "20%"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 20%**\n\nF: 5% of 50 = 2.5 crore; item I = 1/5 × 2.5 = 0.5. D item II = 2.5 crore. 0.5 ÷ 2.5 = **20%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "QBID 1511003"
+ },
+ {
+  "id": "P1-2022JUN-Q04",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the ratio of the cost of production of item I by company 'A' to the cost of production of item I by company 'D'?",
+  "passage": "The following table shows the details of seven companies (A–G) about (i) the percentage cost distribution of production of two items I and II, (ii) the ratio of cost of production between items I and II, and (iii) the percentage profit earned for the items I and II. Cost of production (both items together) by the seven companies is ₹ 50 crores. In accordance with the data in the table, answer the questions 1–5:",
+  "table": {
+   "title": "Company-wise Distribution of Production Cost and Profit",
+   "columns": [
+    "Company",
+    "% cost of production of items I and II",
+    "Ratio of cost: Item I",
+    "Item II",
+    "% profit: Item I",
+    "Item II"
+   ],
+   "rows": [
+    [
+     "A",
+     "15",
+     "2",
+     "3",
+     "25",
+     "20"
+    ],
+    [
+     "B",
+     "11",
+     "3",
+     "2",
+     "32",
+     "35"
+    ],
+    [
+     "C",
+     "22",
+     "4",
+     "1",
+     "20",
+     "22"
+    ],
+    [
+     "D",
+     "8",
+     "3",
+     "5",
+     "15",
+     "25"
+    ],
+    [
+     "E",
+     "27",
+     "5",
+     "3",
+     "28",
+     "30"
+    ],
+    [
+     "F",
+     "5",
+     "1",
+     "4",
+     "35",
+     "25"
+    ],
+    [
+     "G",
+     "12",
+     "1",
+     "2",
+     "30",
+     "24"
+    ]
+   ]
+  },
+  "options": [
+   "3 : 5",
+   "1 : 2",
+   "2 : 1",
+   "2 : 3"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 2 : 1**\n\nA item I = 3 crore; D item I = 3/8 × 4 = 1.5 crore. 3 : 1.5 = **2 : 1**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "QBID 1511004"
+ },
+ {
+  "id": "P1-2022JUN-Q05",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the sum total of the profit earned by Company 'B' on the production of item I and the profit earned by Company 'A' on the production of item II?",
+  "passage": "The following table shows the details of seven companies (A–G) about (i) the percentage cost distribution of production of two items I and II, (ii) the ratio of cost of production between items I and II, and (iii) the percentage profit earned for the items I and II. Cost of production (both items together) by the seven companies is ₹ 50 crores. In accordance with the data in the table, answer the questions 1–5:",
+  "table": {
+   "title": "Company-wise Distribution of Production Cost and Profit",
+   "columns": [
+    "Company",
+    "% cost of production of items I and II",
+    "Ratio of cost: Item I",
+    "Item II",
+    "% profit: Item I",
+    "Item II"
+   ],
+   "rows": [
+    [
+     "A",
+     "15",
+     "2",
+     "3",
+     "25",
+     "20"
+    ],
+    [
+     "B",
+     "11",
+     "3",
+     "2",
+     "32",
+     "35"
+    ],
+    [
+     "C",
+     "22",
+     "4",
+     "1",
+     "20",
+     "22"
+    ],
+    [
+     "D",
+     "8",
+     "3",
+     "5",
+     "15",
+     "25"
+    ],
+    [
+     "E",
+     "27",
+     "5",
+     "3",
+     "28",
+     "30"
+    ],
+    [
+     "F",
+     "5",
+     "1",
+     "4",
+     "35",
+     "25"
+    ],
+    [
+     "G",
+     "12",
+     "1",
+     "2",
+     "30",
+     "24"
+    ]
+   ]
+  },
+  "options": [
+   "₹ 97.8 lakhs",
+   "₹ 1.956 crores",
+   "₹ 5.28 crores",
+   "₹ 52.8 lakhs"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) ₹ 1.956 crores**\n\nB: 11% of 50 = 5.5 crore; item I = 3/5 × 5.5 = 3.3; profit 32% = 1.056 crore. A item II = 3/5 × 7.5 = 4.5; profit 20% = 0.9 crore. Sum **₹ 1.956 crore**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "QBID 1511005"
+ },
+ {
+  "id": "P1-2022JUN-Q06",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are essentials to be ensured while conducting an Online Examination based on objective questions for credibility of degrees?",
+  "items": [
+   "Proctored Environment",
+   "Authentication of candidate",
+   "Authentication of parents",
+   "Hardware and Software testing",
+   "Answer-sheet with proper numbering for writing answers"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (B) only",
+   "(B) and (D) only",
+   "(A), (B) and (C) only",
+   "(A), (B) and (D) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A), (B) and (D) only**\n\nA credible online objective test needs proctoring, candidate authentication and tested hardware and software. Parents are not authenticated, and an objective online test has no written answer-sheet.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "QBID 1511006"
+ },
+ {
+  "id": "P1-2022JUN-Q07",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) :",
+  "assertion": "Multiple testing instruments must be used for formative assessment.",
+  "reason": "Formative assessments are used for providing credits.",
+  "prompt": "In the light of the above statements, choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+   "(A) is correct but (R) is not correct",
+   "(A) is not correct but (R) is correct"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A) is correct but (R) is not correct**\n\nFormative assessment should use varied instruments to give rich feedback during learning. But it is not used for awarding credits; that is summative assessment.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "QBID 1511007"
+ },
+ {
+  "id": "P1-2022JUN-Q08",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "For building a professional environment of an Educational institution",
+  "items": [
+   "A teacher must ask his/her students about other teacher's teaching methodology.",
+   "A teacher must feel envious about other teacher's professional achievements.",
+   "Teachers must work as a team.",
+   "A senior teacher must encourage junior teacher to contribute in research and other academic activities for the institution."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (D) only",
+   "(B) and (C) only",
+   "(C) and (D) only",
+   "(A), (C) and (D) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (C) and (D) only**\n\nTeamwork and senior teachers mentoring junior ones build a professional culture. Asking students about colleagues and envy undermine it.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "nta_question_id": "QBID 1511008"
+ },
+ {
+  "id": "P1-2022JUN-Q09",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "ARPIT courses, as Online Refresher courses, are offered on SWAYAM platform by",
+  "options": [
+   "UGC-HRDCs only",
+   "PMMMNMTT centres only",
+   "National Coordinators of SWAYAM courses",
+   "National Resource Centres in different disciplines"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) National Resource Centres in different disciplines**\n\nARPIT (Annual Refresher Programme in Teaching, 2018) courses are prepared by **National Resource Centres** identified by MHRD in each discipline and offered on SWAYAM.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "QBID 1511009"
+ },
+ {
+  "id": "P1-2022JUN-Q10",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a characteristic of a MOOC? It can be accessed",
+  "options": [
+   "Anytime",
+   "From any device having Internet browser",
+   "Only in the classroom",
+   "Anywhere"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Only in the classroom**\n\nMOOCs are open online courses accessible anytime and anywhere; \"only in the classroom\" contradicts the idea.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "QBID 1511010"
+ },
+ {
+  "id": "P1-2022JUN-Q11",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Developing research questions means narrowing down and focusing directly on what you want to know.",
+   "A research question does not prompt a researcher to do literature survey."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I is true but Statement II is false**\n\nFraming research questions does narrow the focus. But a research question drives the literature review, so statement II is false.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Steps of research",
+  "nta_question_id": "QBID 1511011"
+ },
+ {
+  "id": "P1-2022JUN-Q12",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Data collection method)",
+    "items": [
+     "Field observation",
+     "Focus group",
+     "Intensive interviewing",
+     "Case study"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Characteristics)",
+    "items": [
+     "Collects information from many data sources",
+     "Gathers detailed information from a small, non-random sample",
+     "Gathers preliminary information for a research project",
+     "Studies a phenomenon in natural settings"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+   "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nField observation studies behaviour in natural settings; focus groups gather preliminary ideas; intensive interviews get detail from a small non-random sample; case studies draw on many sources.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "QBID 1511012"
+ },
+ {
+  "id": "P1-2022JUN-Q13",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "The standard deviation of a sampling distribution of a statistic is often called as 'standard error'.",
+   "When number of samples taken from a population is between 30 to 60, they are called as small samples."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I is correct but Statement II is incorrect**\n\nThe standard error is the SD of a sampling distribution. Samples of fewer than 30 are \"small\"; 30 and above are large.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "QBID 1511013"
+ },
+ {
+  "id": "P1-2022JUN-Q14",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the full form of the Software SPSS?",
+  "options": [
+   "Statistical package for Social Sciences",
+   "Statistical package for Scientific Survey",
+   "Special Program for Social Security",
+   "Scientific Program for Social Survey"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Statistical package for Social Sciences**\n\n**SPSS**: Statistical Package for the Social Sciences.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Data types, measurement and statistics",
+  "nta_question_id": "QBID 1511014"
+ },
+ {
+  "id": "P1-2022JUN-Q15",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 15,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "An exploratory research on a small scale is called",
+  "options": [
+   "Sample test",
+   "Pre-test",
+   "Pilot test",
+   "Informal test"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Pilot test**\n\nA small-scale trial run of a study is a **pilot** study or test.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "QBID 1511015"
+ },
+ {
+  "id": "P1-2022JUN-Q16",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When communication contents are purposefully adjusted to fit an ideology, the result will be",
+  "options": [
+   "Internationalisation",
+   "Promotion of peace",
+   "Social practicability",
+   "Power distortions"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Power distortions**\n\nBending content to fit an ideology distorts the message in favour of those in power: **power distortion**.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "nta_question_id": "QBID 1511016"
+ },
+ {
+  "id": "P1-2022JUN-Q17",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following can be cultural barriers in classroom communication?",
+  "items": [
+   "Language",
+   "Signs and symbols",
+   "Stereotypes",
+   "Individual creativity",
+   "Intercultural orientation"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (B) only",
+   "(B) and (C) only",
+   "(A), (B) and (C) only",
+   "(C), (D) and (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B) and (C) only**\n\nDifferences in **language**, in the meaning of **signs and symbols**, and **stereotypes** are cultural barriers. Individual creativity and intercultural orientation help communication instead.\n\nThe English version of the paper omits the list; it is translated here from the Hindi version.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "nta_question_id": "QBID 1511017"
+ },
+ {
+  "id": "P1-2022JUN-Q18",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Conditioned words can be used to revive old emotions in irrelevant situations.",
+   "Stereotypes do not have emotional colour related with the superiority feelings of the upper class groups."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I is true but Statement II is false**\n\nEmotionally loaded words can call up old feelings out of context. Stereotypes are coloured by emotion, often the superiority feelings of dominant groups, so statement II is false.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "nta_question_id": "QBID 1511018"
+ },
+ {
+  "id": "P1-2022JUN-Q19",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "The second model of communication by Wilbur Schramm has the sequence of following elements:",
+  "items": [
+   "Encode",
+   "Interpret",
+   "Modify",
+   "Extend",
+   "Decode"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (E), (B), (C), (D)",
+   "(A), (C), (E), (D), (B)",
+   "(A), (D), (B), (C), (E)",
+   "(A), (B), (C), (E), (D)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (E), (B), (C), (D)**\n\nIn Schramm's model the source **encodes**, the receiver **decodes** and **interprets** the message, which **modifies** his or her field of experience and **extends** into a response.\n\nNo answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "QBID 1511019"
+ },
+ {
+  "id": "P1-2022JUN-Q20",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Description)",
+    "items": [
+     "Silent Prayer",
+     "Teacher speaking to people at a public place",
+     "Exchange of ideas with the staff of equal cadre",
+     "Informal information exchange by employees"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Type of Communication)",
+    "items": [
+     "Grapevine",
+     "Intra-personal communication",
+     "Group communication",
+     "Horizontal communication"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+   "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+   "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)**\n\nSilent prayer is intra-personal; speaking to a gathering is group communication; peers exchanging ideas is horizontal; informal exchange among employees is the grapevine.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "QBID 1511020"
+ },
+ {
+  "id": "P1-2022JUN-Q21",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Find the wrong term in the given series:\n7, 28, 63, 124, 215, 342, 511, ……",
+  "options": [
+   "28",
+   "63",
+   "342",
+   "511"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 28**\n\nThe terms are n³ − 1 for n = 2 to 8: 7, **26**, 63, 124, 215, 342, 511. 28 is wrong.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "QBID 1511021"
+ },
+ {
+  "id": "P1-2022JUN-Q22",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A man bought 13 chairs and 5 tables at a total cost of Rs. 8280. If the average cost of the table is Rs. 1227, what is the average cost of a chair?",
+  "options": [
+   "Rs. 165",
+   "Rs. 175",
+   "Rs. 155",
+   "Rs. 166"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Rs. 165**\n\nTables: 5 × 1227 = 6135. Chairs: 8280 − 6135 = 2145; 2145 ÷ 13 = **Rs. 165**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "QBID 1511022"
+ },
+ {
+  "id": "P1-2022JUN-Q23",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Find the next term in the series:\nBMO, EOQ, HQS, ?",
+  "options": [
+   "KLM",
+   "LMN",
+   "KSU",
+   "SOW"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) KSU**\n\nFirst letters +3 (B, E, H, **K**); second +2 (M, O, Q, **S**); third +2 (O, Q, S, **U**) → **KSU**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Number and letter series",
+  "nta_question_id": "QBID 1511023"
+ },
+ {
+  "id": "P1-2022JUN-Q24",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A person reaches his destination 40 minutes late if his speed is 3 km/hr and reaches 30 minutes before time if his speed is 4 km/hr. What is the distance of his destination from the starting point? (in km)",
+  "options": [
+   "12",
+   "13",
+   "10",
+   "14"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 14**\n\nd/3 − d/4 = 70 minutes = 7/6 hours, so d/12 = 7/6 and d = **14 km**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "QBID 1511024"
+ },
+ {
+  "id": "P1-2022JUN-Q25",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What will be a single discount equivalent to a series discount of 10%, 20% and 30%?",
+  "options": [
+   "50.40%",
+   "49.6%",
+   "20%",
+   "45%"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 49.6%**\n\nPrice paid = 0.9 × 0.8 × 0.7 = 0.504 of the original, so the equivalent discount is **49.6%**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "QBID 1511025"
+ },
+ {
+  "id": "P1-2022JUN-Q26",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "In classical square of opposition if 'All S is P' is given as true then which of the following could be immediately inferred from it?",
+  "items": [
+   "'Some S is not P' is false",
+   "'Some S is P' is true",
+   "'Some S is not P' is undetermined",
+   "'Some S is P' is undetermined",
+   "'No S is P' is false"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B), (E) only",
+   "(A), (D), (E) only",
+   "(B), (C), (E) only",
+   "(C), (D), (E) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (B), (E) only**\n\nIf A is true: its contradictory O is false, its subaltern I is true, and its contrary E is false.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Square of opposition",
+  "nta_question_id": "QBID 1511026"
+ },
+ {
+  "id": "P1-2022JUN-Q27",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is defined as a type of irrelevant conclusion fallacy in which a distracting element is introduced to obscure an opponent's position?",
+  "options": [
+   "An Appeal to Emotion",
+   "Appeal to Inappropriate Authority",
+   "Argument ad hominem",
+   "Red Herring"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Red Herring**\n\nA **red herring** drags in a distracting issue to lead attention away from the point at stake.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "QBID 1511027"
+ },
+ {
+  "id": "P1-2022JUN-Q28",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Analogical argument involves drawing a likeness between two or more entities in one or more respects.",
+   "Analogical argument is a type of deductive argument."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I is correct but Statement II is incorrect**\n\nAnalogy compares things in some respects and infers a further likeness. It is inductive: its conclusion is only probable.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "QBID 1511028"
+ },
+ {
+  "id": "P1-2022JUN-Q29",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) :",
+  "assertion": "The Classical Indian School of Logic, namely Nyaya does not give separate treatment of the inductive methods.",
+  "reason": "According to Nyaya universal propositions are obtained from perception itself by one of the forms of extra-ordinary perception.",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are true and (R) is the correct explanation of (A)**\n\nNyāya has no separate theory of induction **because** it holds that the universal relation (vyāpti) is grasped by a special, extraordinary perception (*sāmānya-lakṣaṇa pratyakṣa*).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "QBID 1511029"
+ },
+ {
+  "id": "P1-2022JUN-Q30",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The argument that the fat saint must be eating secretly at night, although he does not eat during the day and claims not to eat at all, is based on which of the following means of knowledge as per Classical Indian Logic?",
+  "options": [
+   "Verbal Testimony (Sabda)",
+   "Comparison (Upamana)",
+   "Postulation (Arthapatti)",
+   "Non-Cognition (Anupalabdhi)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Postulation (Arthapatti)**\n\nThe classic example of **arthāpatti**: a fact (fatness without eating by day) can only be explained by assuming another (eating at night).",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "QBID 1511030"
+ },
+ {
+  "id": "P1-2022JUN-Q31",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Anil has decided to use either a DVD-RW or DVD-R. Which of the following statements are true about these storage devices?",
+  "items": [
+   "Both DVD-R and DVD-RW are read only.",
+   "DVD-R can be written-to only once.",
+   "DVD-RW can be written-to many times.",
+   "Both DVD-R and DVD-RW can be written-to only once."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (D) only",
+   "(B) and (C) only",
+   "(A) and (B) only",
+   "(D) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (B) and (C) only**\n\nDVD-R is write-once; DVD-RW is rewritable.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "QBID 1511031"
+ },
+ {
+  "id": "P1-2022JUN-Q32",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Computer Terms)",
+    "items": [
+     "Linux",
+     "Mozilla Firefox",
+     "Notepad",
+     "JPEG"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Description)",
+    "items": [
+     "Text File Editor",
+     "Image File Format",
+     "Operating System",
+     "Web Browser"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+   "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)",
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)**\n\nLinux is an operating system, Firefox a browser, Notepad a text editor and JPEG an image format.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "QBID 1511032"
+ },
+ {
+  "id": "P1-2022JUN-Q33",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Consider the spreadsheet given below (A1: Project, B1: Number of Days; A2:A7 = A, A, B, A, B, A; B2:B7 = 15, 20, 30, 10, 10, 5). What is the output of the following formula in Cell C1?\n= SUMIF (A2 : A7, \"A\", B2 : B7)",
+  "options": [
+   "90",
+   "80",
+   "50",
+   "20"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 50**\n\nSUMIF adds the B values where column A is \"A\": 15 + 20 + 10 + 5 = **50**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "QBID 1511033"
+ },
+ {
+  "id": "P1-2022JUN-Q34",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The image, sound and video data can be created in a number of file formats. In this context, which of the following are compressed file formats?",
+  "items": [
+   "JPEG",
+   "MP3",
+   "MIDI",
+   "AVI",
+   "MP4"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B) and (E) only",
+   "(C), (D) and (E) only",
+   "(B), (C) and (D) only",
+   "(A) and (E) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A), (B) and (E) only**\n\nJPEG, MP3 and MP4 are compressed formats. MIDI stores instructions, not sampled sound, and AVI is a container that is often uncompressed.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "QBID 1511034"
+ },
+ {
+  "id": "P1-2022JUN-Q35",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is not a mobile device?",
+  "options": [
+   "Tablet",
+   "Smartphone",
+   "Desktop PC",
+   "E-reader"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Desktop PC**\n\nA **desktop PC** is fixed; the others are portable.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "QBID 1511035"
+ },
+ {
+  "id": "P1-2022JUN-Q37",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Identify the non-recyclable wastes among the following:",
+  "items": [
+   "Paper",
+   "Plastic bottles",
+   "Thermocol",
+   "Tetra packs",
+   "Metal"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(B), (C), (D), (E) only",
+   "(B), (D), (E) only",
+   "(C), (D) only",
+   "(A), (C), (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (C), (D) only**\n\nPaper, PET bottles and metal are routinely recycled. Thermocol and multilayer tetra packs are generally treated as non-recyclable in municipal systems.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "QBID 1511037"
+ },
+ {
+  "id": "P1-2022JUN-Q38",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A key component in Swachh Bharat Mission (Grameen), 'SLWM' stands for",
+  "options": [
+   "Solid and Liquid Waste Management",
+   "Sanitation and Liquid Waste Management",
+   "State Level Waste Management",
+   "State Level Water Management"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Solid and Liquid Waste Management**\n\n**Solid and Liquid Waste Management**, the focus of SBM-G Phase II.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "QBID 1511038"
+ },
+ {
+  "id": "P1-2022JUN-Q39",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Source/Process)",
+    "items": [
+     "Transport Sector",
+     "Refrigeration and Airconditioning",
+     "Landfills",
+     "Incineration of Medical Waste"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Air Pollutant)",
+    "items": [
+     "Methane",
+     "Volatile Organic Carbons (VOCs)",
+     "Dioxins",
+     "HFCs"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+   "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)",
+   "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(II), (B)-(IV), (C)-(I), (D)-(III)**\n\nVehicles emit VOCs; refrigeration and air-conditioning leak HFCs; landfills give off methane; burning medical waste produces dioxins.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "QBID 1511039"
+ },
+ {
+  "id": "P1-2022JUN-Q40",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 40,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following fossil fuels in increasing order of their carbon intensities (gC/MJ):",
+  "items": [
+   "Natural gas",
+   "Coal",
+   "Petroleum"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) < (C) < (B)",
+   "(C) < (A) < (B)",
+   "(B) < (A) < (C)",
+   "(A) < (B) < (C)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A) < (C) < (B)**\n\nNatural gas (~15 gC/MJ) < petroleum (~20) < coal (~25).",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "nta_question_id": "QBID 1511040"
+ },
+ {
+  "id": "P1-2022JUN-Q41",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "During the British rule in India who among the following is accredited with diverting the attention of the young Indians from Western education to Oriental education?",
+  "options": [
+   "Macaulay",
+   "Dalhousie",
+   "Annie Besant",
+   "Fergusson"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Annie Besant**\n\n**Annie Besant** promoted Indian and Hindu learning (Central Hindu College, 1898) against purely Western education. Macaulay did the opposite.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "QBID 1511041"
+ },
+ {
+  "id": "P1-2022JUN-Q43",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Acronym 'NCVET' represents",
+  "options": [
+   "National Commission for Vocational Education and Training",
+   "National Council for Vocational Education and Training",
+   "National Council for Vocational Education and Testing",
+   "National Commission for Virtual Education and Training"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) National Council for Vocational Education and Training**\n\n**National Council for Vocational Education and Training** (2018), the skills regulator.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "QBID 1511043"
+ },
+ {
+  "id": "P1-2022JUN-Q44",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "National Education Policy (2020) envisages having a large multidisciplinary higher education institution in or near every district of the country by the year",
+  "options": [
+   "2025",
+   "2030",
+   "2035",
+   "2040"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 2030**\n\nNEP 2020 (10.8): at least one large multidisciplinary HEI in or near every district by **2030**.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "QBID 1511044"
+ },
+ {
+  "id": "P1-2022JUN-Q45",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Academic Bank of Credit facility is meant for credit verification, accumulation, transfer, redemption and degree authentication with students as account holders.",
+   "Academic Bank of Credit will be a degree awarding organisation."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Statement I is true but Statement II is false**\n\nThe ABC stores and transfers students' credits; it does not award degrees. Universities do.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "QBID 1511045"
+ },
+ {
+  "id": "P1-2022JUN-Q46",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The world produces more food, but a large number of people are deprived of it because of",
+  "passage": "Read the following passage and answer the questions from (46 to 50):\n\nThe wastage of food is substantial in every country, but some studies have shown that it is more serious in developing countries. The UNFAO had estimated that one-third of all produced food may be getting wasted. The world produces twice the amount of food that is needed, but large numbers of people are deprived of it due to wastage and other reasons. Food gets wasted at the farm, when it moves to the market and is processed, stored and shifted to shops and finally in the kitchen. Many fruits and vegetables perish soon after harvesting. There is a need to improve production and storage practices, transport infrastructure, cold chain systems and processing techniques. Modern technologies and better packaging methods are needed. But even in countries where these facilities are available, wastage is high. So, the most important requirement is to improve popular awareness of the need to ensure that food is not wasted in any form, at any stage. Some countries have launched a clean plate campaign against wastage of food. It is estimated that food worth at least Rs. 1 lakh crore is wasted in India, and this does not include wastage of cooked food. A part of that should be enough to feed the large numbers of hungry people in the country, which is ranked 94 out of 107 countries in the Global Hunger Index. Food is wasted massively at weddings and on other occasions. The UN report says that reducing food waste would also cut green house gas emissions and slow the destruction of nature through land conversion and pollution. Avoiding food wastage should therefore become a national mission. It will have very positive environmental, social and economic impacts. Let us remember that millions of families go hungry every day in many parts of the world. In India, the household food waste estimate is 50 kg per capita per year, which is less than the US and China. But this may not be because of more efficient use of food, but because overall availability is less.",
+  "options": [
+   "Poor marketing strategies",
+   "Multi-point wastage",
+   "Traditional farming practices",
+   "Transport and storage bottle necks"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Multi-point wastage**\n\nFood is wasted at every stage — farm, market, processing, storage, shops and kitchen: **multi-point wastage**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "QBID 1511046"
+ },
+ {
+  "id": "P1-2022JUN-Q47",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How can we prevent food wastage?",
+  "passage": "Read the following passage and answer the questions from (46 to 50):\n\nThe wastage of food is substantial in every country, but some studies have shown that it is more serious in developing countries. The UNFAO had estimated that one-third of all produced food may be getting wasted. The world produces twice the amount of food that is needed, but large numbers of people are deprived of it due to wastage and other reasons. Food gets wasted at the farm, when it moves to the market and is processed, stored and shifted to shops and finally in the kitchen. Many fruits and vegetables perish soon after harvesting. There is a need to improve production and storage practices, transport infrastructure, cold chain systems and processing techniques. Modern technologies and better packaging methods are needed. But even in countries where these facilities are available, wastage is high. So, the most important requirement is to improve popular awareness of the need to ensure that food is not wasted in any form, at any stage. Some countries have launched a clean plate campaign against wastage of food. It is estimated that food worth at least Rs. 1 lakh crore is wasted in India, and this does not include wastage of cooked food. A part of that should be enough to feed the large numbers of hungry people in the country, which is ranked 94 out of 107 countries in the Global Hunger Index. Food is wasted massively at weddings and on other occasions. The UN report says that reducing food waste would also cut green house gas emissions and slow the destruction of nature through land conversion and pollution. Avoiding food wastage should therefore become a national mission. It will have very positive environmental, social and economic impacts. Let us remember that millions of families go hungry every day in many parts of the world. In India, the household food waste estimate is 50 kg per capita per year, which is less than the US and China. But this may not be because of more efficient use of food, but because overall availability is less.",
+  "options": [
+   "Through popular awareness",
+   "By better packaging methods",
+   "With dedicated supply chain system",
+   "By delivery of food to the needy"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Through popular awareness**\n\n\"The most important requirement is to improve **popular awareness**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "QBID 1511047"
+ },
+ {
+  "id": "P1-2022JUN-Q48",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Preventing food wastage in India will improve its position in",
+  "passage": "Read the following passage and answer the questions from (46 to 50):\n\nThe wastage of food is substantial in every country, but some studies have shown that it is more serious in developing countries. The UNFAO had estimated that one-third of all produced food may be getting wasted. The world produces twice the amount of food that is needed, but large numbers of people are deprived of it due to wastage and other reasons. Food gets wasted at the farm, when it moves to the market and is processed, stored and shifted to shops and finally in the kitchen. Many fruits and vegetables perish soon after harvesting. There is a need to improve production and storage practices, transport infrastructure, cold chain systems and processing techniques. Modern technologies and better packaging methods are needed. But even in countries where these facilities are available, wastage is high. So, the most important requirement is to improve popular awareness of the need to ensure that food is not wasted in any form, at any stage. Some countries have launched a clean plate campaign against wastage of food. It is estimated that food worth at least Rs. 1 lakh crore is wasted in India, and this does not include wastage of cooked food. A part of that should be enough to feed the large numbers of hungry people in the country, which is ranked 94 out of 107 countries in the Global Hunger Index. Food is wasted massively at weddings and on other occasions. The UN report says that reducing food waste would also cut green house gas emissions and slow the destruction of nature through land conversion and pollution. Avoiding food wastage should therefore become a national mission. It will have very positive environmental, social and economic impacts. Let us remember that millions of families go hungry every day in many parts of the world. In India, the household food waste estimate is 50 kg per capita per year, which is less than the US and China. But this may not be because of more efficient use of food, but because overall availability is less.",
+  "options": [
+   "The FAO ranking",
+   "The World Poverty Index",
+   "The Global Hunger Index",
+   "The Human Development Index"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The Global Hunger Index**\n\nSaved food could feed the hungry, improving India's rank of 94/107 in the **Global Hunger Index**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "QBID 1511048"
+ },
+ {
+  "id": "P1-2022JUN-Q49",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The food wastage is also responsible for",
+  "passage": "Read the following passage and answer the questions from (46 to 50):\n\nThe wastage of food is substantial in every country, but some studies have shown that it is more serious in developing countries. The UNFAO had estimated that one-third of all produced food may be getting wasted. The world produces twice the amount of food that is needed, but large numbers of people are deprived of it due to wastage and other reasons. Food gets wasted at the farm, when it moves to the market and is processed, stored and shifted to shops and finally in the kitchen. Many fruits and vegetables perish soon after harvesting. There is a need to improve production and storage practices, transport infrastructure, cold chain systems and processing techniques. Modern technologies and better packaging methods are needed. But even in countries where these facilities are available, wastage is high. So, the most important requirement is to improve popular awareness of the need to ensure that food is not wasted in any form, at any stage. Some countries have launched a clean plate campaign against wastage of food. It is estimated that food worth at least Rs. 1 lakh crore is wasted in India, and this does not include wastage of cooked food. A part of that should be enough to feed the large numbers of hungry people in the country, which is ranked 94 out of 107 countries in the Global Hunger Index. Food is wasted massively at weddings and on other occasions. The UN report says that reducing food waste would also cut green house gas emissions and slow the destruction of nature through land conversion and pollution. Avoiding food wastage should therefore become a national mission. It will have very positive environmental, social and economic impacts. Let us remember that millions of families go hungry every day in many parts of the world. In India, the household food waste estimate is 50 kg per capita per year, which is less than the US and China. But this may not be because of more efficient use of food, but because overall availability is less.",
+  "options": [
+   "Unequal distribution of food",
+   "The gap between rich and poor countries",
+   "Impact on transport sector",
+   "Climate change and pollution"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Climate change and pollution**\n\nReducing waste \"would also cut green house gas emissions and slow the destruction of nature through land conversion and pollution\".",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "QBID 1511049"
+ },
+ {
+  "id": "P1-2022JUN-Q50",
+  "subject": "paper1",
+  "exam_year": 2022,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2021 and June 2022 (merged) cycle, held 9 July 2022 (slot 2, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of NTA's question paper (NDLI copy uploaded to the Drive folder), Sl. No. 1–50. NTA's answer key for this slot was not available, so every answer is worked out and marked unverified. Left out: Q36 and Q42, whose intended answer could not be settled. In Q17 the English version omits the list of items; it is translated here from the Hindi version."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The passage suggests that food wastage prevention should become",
+  "passage": "Read the following passage and answer the questions from (46 to 50):\n\nThe wastage of food is substantial in every country, but some studies have shown that it is more serious in developing countries. The UNFAO had estimated that one-third of all produced food may be getting wasted. The world produces twice the amount of food that is needed, but large numbers of people are deprived of it due to wastage and other reasons. Food gets wasted at the farm, when it moves to the market and is processed, stored and shifted to shops and finally in the kitchen. Many fruits and vegetables perish soon after harvesting. There is a need to improve production and storage practices, transport infrastructure, cold chain systems and processing techniques. Modern technologies and better packaging methods are needed. But even in countries where these facilities are available, wastage is high. So, the most important requirement is to improve popular awareness of the need to ensure that food is not wasted in any form, at any stage. Some countries have launched a clean plate campaign against wastage of food. It is estimated that food worth at least Rs. 1 lakh crore is wasted in India, and this does not include wastage of cooked food. A part of that should be enough to feed the large numbers of hungry people in the country, which is ranked 94 out of 107 countries in the Global Hunger Index. Food is wasted massively at weddings and on other occasions. The UN report says that reducing food waste would also cut green house gas emissions and slow the destruction of nature through land conversion and pollution. Avoiding food wastage should therefore become a national mission. It will have very positive environmental, social and economic impacts. Let us remember that millions of families go hungry every day in many parts of the world. In India, the household food waste estimate is 50 kg per capita per year, which is less than the US and China. But this may not be because of more efficient use of food, but because overall availability is less.",
+  "options": [
+   "A movement for modern technologies",
+   "A global clean plate campaign",
+   "A national mission in India",
+   "A strategy for equal access to food supply"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A national mission in India**\n\n\"Avoiding food wastage should therefore become a **national mission**.\"",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "QBID 1511050"
+ }
+]
