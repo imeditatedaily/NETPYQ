@@ -1,111 +1,330 @@
 [
  {
-  "id": "YOGA-2023DEC-P2-YS01",
+  "id": "YOGA-2023DEC-P2-Q051",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 51,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
-  "question_type": "statements",
-  "question_text": "योग सूत्र में शरीर की संपदाएँ बताई गई हैं:",
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Where is the definition of yoga 'manah prashamanopayo yoga ityabhidheeyate' given in the Mahopanishad?",
   "options": [
-   "केवल A, B, C",
-   "केवल A, C, D",
-   "केवल B, D, E",
-   "केवल A, C, E"
+   "The Mahopanishad 1/13",
+   "The Mahopanishad 2/47",
+   "The Mahopanishad 4/41",
+   "The Mahopanishad 5/42"
   ],
   "correct_answer": 4,
-  "detailed_explanation": "**Answer: (4) केवल A, C, E.**\n\nYS 3.46: *rūpa-lāvaṇya-bala-vajra-saṃhananatvāni kāya-sampat* — beauty, grace, strength and adamantine firmness are the perfection of the body. Mahimā and vaśitva are among the eight siddhis (aṇimā etc., 3.45), not kāya-sampat.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "items": [
-   "रूप",
-   "महिमा",
-   "लावण्य",
-   "वशित्व",
-   "बल"
-  ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+  "detailed_explanation": "**Answer: (4) The Mahopanishad 5/42**\n\n*Manaḥ-praśamanopāyo yoga ity abhidhīyate* — \"yoga is called the means of calming the mind\" — is in the fifth chapter of the Mahā Upaniṣad (5.42). The same line is quoted in the Yoga Vāsiṣṭha.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Etymology and definitions of Yoga",
+  "nta_question_id": "22742714760"
  },
  {
-  "id": "YOGA-2023DEC-P2-YS02",
+  "id": "YOGA-2023DEC-P2-Q052",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 52,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "answer_source": "unverified",
   "question_type": "mcq",
-  "question_text": "दुराचारी (अपुण्य) व्यक्तियों के लिए किस सद्गुण का विकास किया जाना चाहिए?",
+  "question_text": "'Asadakaranad upadanagrahanat sarvasambhavabhavat, shaktasya shakyakaranat karanabhavachcha satkaryam' — to which philosophy are the above lines associated?",
   "options": [
-   "प्रसन्नता (मुदिता)",
-   "करुणा",
-   "मित्रता",
-   "उपेक्षा"
+   "Nyay Philosophy",
+   "Vaisheshik Philosophy",
+   "Sankhya philosophy",
+   "Meemansa philosophy"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Sankhya philosophy**\n\nThis is **Sāṃkhya Kārikā 9**, Īśvarakṛṣṇa's five reasons for **satkāryavāda** (the effect pre-exists in its cause): the non-existent cannot be produced, a specific material is needed for each product, not everything comes from everything, a cause produces only what it is capable of, and the effect has the nature of its cause.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "nta_question_id": "22742714761"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q053",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 53,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which prakaran of Yajnavalkya Smriti is the technique of meditation on the karmendriyas, the place of the pranas and the atma described?",
+  "options": [
+   "Brahmachari prakaran",
+   "Snatak Dharma Prakaran",
+   "Divya Prakaran",
+   "Yati Dharma Prakaran"
   ],
   "correct_answer": 4,
-  "detailed_explanation": "**Answer: (4) उपेक्षा.**\n\nYS 1.33: *maitrī-karuṇā-muditopekṣāṇāṃ sukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam* — friendliness to the happy, compassion to the suffering, gladness towards the virtuous and **indifference (upekṣā) towards the wicked** make the mind serene.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ]
+  "detailed_explanation": "**Answer: (4) Yati Dharma Prakaran**\n\nThe **Yati-dharma prakaraṇa** (the duties of the renunciate, in the Prāyaścitta adhyāya of the Yājñavalkya Smṛti) describes the yogī's meditation on the self, the senses and the prāṇas. The Brahmacārī and Snātaka sections deal with student and householder duties; the Divya prakaraṇa with ordeals in law.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in epics and smritis",
+  "nta_question_id": "22742714762"
  },
  {
-  "id": "YOGA-2023DEC-P2-YS03",
+  "id": "YOGA-2023DEC-P2-Q054",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 54,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "answer_source": "unverified",
   "question_type": "mcq",
-  "question_text": "योगसूत्र में ‘प्रच्छर्दनविधारणाभ्यां वा प्राणस्य’ चित्त-प्रसादन का कौन-सा उपाय है?",
+  "question_text": "To which path of yoga sadhana is mumukshutva associated?",
   "options": [
-   "प्रथम",
-   "द्वितीय",
-   "तृतीय",
-   "चतुर्थ"
+   "Bhakti yoga",
+   "Raja yoga",
+   "Gyan yoga",
+   "Karma yoga"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Gyan yoga**\n\n**Mumukṣutva**, the intense longing for liberation, is the fourth of the *sādhana-catuṣṭaya* of **Jñāna yoga** (Vedānta): viveka, vairāgya, ṣaṭ-sampatti and mumukṣutva.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Schools of yoga and their texts",
+  "nta_question_id": "22742714763"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q055",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 55,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Aitareya upanishad is related to",
+  "options": [
+   "Yajurveda",
+   "Samveda",
+   "Atharva veda",
+   "Rigveda"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Rigveda**\n\nThe Aitareya Upaniṣad belongs to the Aitareya Āraṇyaka of the **Ṛgveda**.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "nta_question_id": "22742714764"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q056",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 56,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to Chhandogya Upanishad udgeeth is:",
+  "options": [
+   "Shrotra",
+   "Netra",
+   "Prana",
+   "Vani"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Prana**\n\nChāndogya 1.2: the gods meditated on the udgītha as each sense (speech, smell, eye, ear, mind), and the demons pierced each with evil. Only when they meditated on it as the **chief prāṇa** in the mouth did it stand firm, so the udgītha is to be worshipped as **prāṇa**.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Chandogya Upanishad",
+  "nta_question_id": "22742714765"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q057",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 57,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to Aitareya upanishad, 'fire' (agni) emanated from:",
+  "options": [
+   "The mouth (mukha)",
+   "Vocal chord (vak)",
+   "Eyes (Netra)",
+   "Vision (Chakshu)"
   ],
   "correct_answer": 2,
-  "detailed_explanation": "**Answer: (2) द्वितीय.**\n\nThe means of making the mind serene run from YS 1.33 to 1.39. The first is the four bhāvanās (1.33); the **second** is expelling and retaining the breath (*pracchardana-vidhāraṇābhyāṃ vā prāṇasya*, 1.34); then sense-object awareness (1.35), the luminous state (1.36), a mind free of passion (1.37), dream and sleep knowledge (1.38) and any chosen object (1.39).",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ]
+  "detailed_explanation": "**Answer: (2) Vocal chord (vak)**\n\nAitareya 1.1.4: *mukhaṃ nirabhidyata, mukhād vāg, vāco 'gniḥ* — a mouth broke open; from the mouth came speech, and **from speech (vāk), fire**. The mouth is the seat; vāk is the immediate source.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Aitareya Upanishad",
+  "nta_question_id": "22742714766"
  },
  {
-  "id": "YOGA-2023DEC-P2-YS04",
+  "id": "YOGA-2023DEC-P2-Q058",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 58,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "answer_source": "unverified",
   "question_type": "mcq",
-  "question_text": "दृश्य का वर्णन योगसूत्र में कहाँ मिलता है?",
+  "question_text": "According to the Bhagavadgita, \"samah sarveshu bhuteshu madbhaktim labhate param\" bears correct reference to:",
+  "options": [
+   "18/54",
+   "18/56",
+   "11/54",
+   "12/04"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 18/54**\n\nBG **18.54**: *brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati | samaḥ sarveṣu bhūteṣu mad-bhaktiṃ labhate parām* — one who has become Brahman, serene, neither grieving nor desiring, equal to all beings, attains supreme devotion to Me.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "nta_question_id": "22742714767"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q059",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 59,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In accordance with Yoga Tattvopanishad, the region ranging from the heart zone to the eyebrows has been referred to as belonging to:",
+  "options": [
+   "Fire (Agni)",
+   "Air (Vayu)",
+   "Earth (Prithvi)",
+   "Sky (Akash)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Air (Vayu)**\n\nFor the five-element dhāraṇā the Yogatattva Upaniṣad assigns: feet to knees — earth; knees to anus — water; anus to heart — fire; **heart to the eyebrows — air (vāyu)**; eyebrows to the crown — ākāśa.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "nta_question_id": "22742714768"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q060",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 60,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In accordance with Yoga Chudamani Upanishad, where is the 'A'-kar of Omkara ingrained in the Jagrat state among all organisms?",
+  "options": [
+   "Netra",
+   "Kantha",
+   "Hridaya",
+   "Naabhi"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Netra**\n\nThe Yogacūḍāmaṇi places the states of consciousness in the body: waking (jāgrat, the letter *a*) in the **eyes**, dream (*u*) in the throat, deep sleep (*m*) in the heart and turīya at the crown.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogachudamani Upanishad",
+  "nta_question_id": "22742714769"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q061",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 61,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to Yoga Tattvopanishad, regular practice of which mudra increases Jatharagni?",
+  "options": [
+   "Mahamudra",
+   "Viparitkarni",
+   "Khechari",
+   "Tadagi"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Viparitkarni**\n\nThe Yogatattva Upaniṣad, like Haṭha Pradīpikā 3.80, says that for one who practises **viparītakaraṇī** daily the digestive fire (*jaṭharāgni*) increases, so food should be plentiful.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "nta_question_id": "22742714770"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q062",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 62,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to the Yoga Sutra, which knowledge (Buddhi) is different from the knowledge acquired through listening and inference?",
+  "options": [
+   "Adhyatm Prasad",
+   "Ritambhara Pragya",
+   "Savichar",
+   "Ekagra Avastha"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Ritambhara Pragya**\n\nIn nirvicāra samādhi comes *ṛtambharā prajñā* (YS 1.48), whose object differs from that of knowledge by testimony and inference because it grasps the particular: *śrutānumāna-prajñābhyām anya-viṣayā viśeṣārthatvāt* (1.49).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Samadhi: types and prajna",
+  "nta_question_id": "22742714771"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q063",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 63,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Where has Drishya been described in Yoga Sutra?",
   "options": [
    "1/17",
    "2/18",
@@ -113,233 +332,51 @@
    "4/12"
   ],
   "correct_answer": 2,
-  "detailed_explanation": "**Answer: (2) 2/18.**\n\nYS 2.18: *prakāśa-kriyā-sthiti-śīlaṃ bhūtendriyātmakaṃ bhogāpavargārthaṃ dṛśyam* — the seen has the nature of light, activity and inertia, consists of the elements and senses, and exists for experience and liberation.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ]
- },
- {
-  "id": "YOGA-2023DEC-P2-YS05",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Ishvara and Ishvara-pranidhana",
-  "question_type": "statements",
-  "question_text": "योग सूत्र के अनुसार प्रणव के बारे में विधि बताई गई है:",
-  "options": [
-   "केवल A, C, E",
-   "केवल B, C, D",
-   "केवल C, D, E",
-   "केवल A, D, E"
-  ],
-  "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) केवल A, C, E.**\n\nYS 1.27 *tasya vācakaḥ praṇavaḥ*; 1.28 *taj-japas tad-artha-bhāvanam* — repeat it (japa), with its meaning, dwelling on that meaning (bhāvanā). Gazing at praṇava and so'haṃ japa are not in the sūtras.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "items": [
-   "प्रणव जप",
-   "प्रणव पर दृष्टि",
-   "प्रणव का अर्थ",
-   "सोऽहं का जप",
-   "प्रणव अर्थ की भावना"
-  ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
- },
- {
-  "id": "YOGA-2023DEC-P2-YS06",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
+  "detailed_explanation": "**Answer: (2) 2/18**\n\nYS **2.18**: *prakāśa-kriyā-sthiti-śīlaṃ bhūtendriyātmakaṃ bhogāpavargārthaṃ dṛśyam* — the seen has the nature of light, activity and inertia, consists of the elements and senses, and exists for experience and liberation.",
   "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
   "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
-  "question_type": "statements",
-  "question_text": "योगसूत्र के अनुसार दृश्य के भेद बताए गए हैं:",
-  "options": [
-   "केवल A, B, C",
-   "केवल A, C, D",
-   "केवल A, B, E",
-   "केवल B, C, E"
-  ],
-  "correct_answer": 2,
-  "detailed_explanation": "**Answer: (2) केवल A, C, D.**\n\nYS 2.19: *viśeṣāviśeṣa-liṅgamātrāliṅgāni guṇa-parvāṇi* — the stages of the guṇas are the particular, the unparticularised, the merely indicated and the unmanifest. *Pratyayānupaśya* (2.20) and *dṛśimātra* describe the seer, not the seen.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "items": [
-   "विशेष",
-   "प्रत्ययानुपश्य",
-   "अविशेष",
-   "अलिंग",
-   "दृशिमात्र"
-  ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+  "nta_question_id": "22742714772"
  },
  {
-  "id": "YOGA-2023DEC-P2-YS07",
+  "id": "YOGA-2023DEC-P2-Q064",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 64,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
-  "question_type": "statements",
-  "question_text": "योगसूत्र में धर्ममेघ समाधि की अवस्था में ज्ञान की प्राप्ति के अंतर्गत वर्णित है:",
-  "options": [
-   "केवल A, B",
-   "केवल B, C",
-   "केवल C, D",
-   "केवल D, E"
-  ],
-  "correct_answer": 2,
-  "detailed_explanation": "**Answer: (2) केवल B, C.**\n\nAfter dharmamegha samādhi (4.29) and the end of kleśa and karma (4.30) comes 4.31: *tadā sarvāvaraṇa-malāpetasya jñānasya ānantyāj jñeyam alpam* — knowledge, freed of every covering, becomes **infinite**, and what is left to know is **little**.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "items": [
-   "क्लेशकर्म निवृत्ति",
-   "आनन्त्यात्",
-   "ज्ञेयम् अल्पम्",
-   "चित्तं सर्वार्थम्",
-   "हानमेषां क्लेशवदुक्तम्"
-  ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
- },
- {
-  "id": "YOGA-2023DEC-P2-YS08",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Yoga Sutra: structure and key sutras",
-  "question_type": "match",
-  "question_text": "सूची-I का सूची-II से मिलान कीजिए:",
-  "options": [
-   "A-III, B-I, C-IV, D-II",
-   "A-I, B-II, C-III, D-IV",
-   "A-II, B-III, C-IV, D-I",
-   "A-IV, B-III, C-II, D-I"
-  ],
-  "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) A-III, B-I, C-IV, D-II.**\n\n- *tatra niratiśayaṃ sarvajña-bījam* (1.25) — **Īśvara**\n- *tasya saptadhā prānta-bhūmiḥ prajñā* (2.27) — the sevenfold insight of one who has **discriminative knowledge**\n- *dhāraṇāsu ca yogyatā manasaḥ* (2.53) — a fruit of **prāṇāyāma**\n- *jātyantara-pariṇāmaḥ prakṛtyāpūrāt* (4.2) — **Kaivalya Pāda**",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "lists": {
-   "list_i": {
-    "title": "सूची-I (योगसूत्र)",
-    "items": [
-     "तत्र निरतिशयं सर्वज्ञबीजम्।",
-     "तस्य सप्तधा प्रान्तभूमिः प्रज्ञा।",
-     "धारणासु च योग्यता मनसः।",
-     "जात्यन्तरपरिणामः प्रकृत्यापूरात्।"
-    ]
-   },
-   "list_ii": {
-    "title": "सूची-II (संबंधित विषय)",
-    "items": [
-     "विवेकज्ञान प्राप्त होने पर",
-     "कैवल्यपाद",
-     "ईश्वर",
-     "प्राणायाम"
-    ]
-   }
-  },
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
- },
- {
-  "id": "YOGA-2023DEC-P2-YS09",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Yoga Sutra: structure and key sutras",
-  "question_type": "match",
-  "question_text": "सूची-I का सूची-II से मिलान कीजिए:",
-  "options": [
-   "A-II, B-IV, C-I, D-III",
-   "A-I, B-II, C-III, D-IV",
-   "A-II, B-IV, C-III, D-I",
-   "A-III, B-I, C-IV, D-II"
-  ],
-  "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) A-II, B-IV, C-I, D-III.**\n\n- *mahāvrata* (2.31) — **Sādhana Pāda**\n- *sūkṣma-viṣayatvaṃ cāliṅga-paryavasānam* (1.45) — **Samādhi Pāda**\n- *kṣaṇa-tat-kramayoḥ saṃyamād vivekajaṃ jñānam* (3.52) — **Vibhūti Pāda**\n- *pariṇāmaikatvād vastu-tattvam* (4.14) — **Kaivalya Pāda**",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "lists": {
-   "list_i": {
-    "title": "सूची-I",
-    "items": [
-     "महाव्रत",
-     "सूक्ष्मविषयत्वं चालिंगपर्यवसानम्।",
-     "क्षणतत्क्रमयोः संयमाद्विवेकजं ज्ञानम्।",
-     "परिणामैकत्वाद्वस्तुतत्त्वम्।"
-    ]
-   },
-   "list_ii": {
-    "title": "सूची-II",
-    "items": [
-     "विभूतिपाद",
-     "साधनपाद",
-     "कैवल्यपाद",
-     "समाधिपाद"
-    ]
-   }
-  },
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
- },
- {
-  "id": "YOGA-2023DEC-P2-YS10",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "answer_source": "unverified",
   "question_type": "mcq",
-  "question_text": "पातंजल योगसूत्र में निर्माणचित्त केवल अस्मिता से उत्पन्न होता है:",
+  "question_text": "Lack of Avidya leads to lack of samyoga. This has been described in Yoga Sutra in which of the following terms?",
+  "options": [
+   "Kaivalya",
+   "Samadhi",
+   "Vivekkhyati",
+   "Dharmmegha Samadhi"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Kaivalya**\n\nYS 2.25: *tad-abhāvāt saṃyogābhāvo hānaṃ tad dṛśeḥ kaivalyam* — when avidyā is absent, saṃyoga ceases; that removal is the seer's **kaivalya**. The means to it is unwavering viveka-khyāti (2.26).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "nta_question_id": "22742714773"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q065",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 65,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Nirmanchitta emanates from Asmita. Where has it been described in Patanjal Yoga Sutra?",
   "options": [
    "1/30",
    "2/15",
@@ -347,155 +384,2198 @@
    "4/4"
   ],
   "correct_answer": 4,
-  "detailed_explanation": "**Answer: (4) 4/4.**\n\nYS 4.4: *nirmāṇa-cittāny asmitā-mātrāt* — created minds arise from I-ness alone.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ]
+  "detailed_explanation": "**Answer: (4) 4/4**\n\nYS **4.4**: *nirmāṇa-cittāny asmitā-mātrāt* — created minds arise from I-ness (asmitā) alone.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "nta_question_id": "22742714774"
  },
  {
-  "id": "YOGA-2023DEC-P2-YS11",
+  "id": "YOGA-2023DEC-P2-Q066",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 66,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "answer_source": "unverified",
   "question_type": "mcq",
-  "question_text": "योगसूत्र के अनुसार अविद्या का अभाव होने पर संयोग का अभाव होता है, जिसे कहा गया है:",
+  "question_text": "According to Hatha Yoga Pradipika, which musical instrument sound is heard in the parichaya avastha of Nadanusandhan?",
   "options": [
-   "कैवल्य",
-   "समाधि",
-   "विवेकख्याति",
-   "धर्ममेघ समाधि"
-  ],
-  "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) कैवल्य.**\n\nYS 2.25: *tad-abhāvāt saṃyogābhāvo hānaṃ tad dṛśeḥ kaivalyam* — when avidyā is absent, saṃyoga ceases; that removal is the seer's **kaivalya**. The means is unwavering viveka-khyāti (2.26).",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ]
- },
- {
-  "id": "YOGA-2023DEC-P2-YS12",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
-  "question_type": "statements",
-  "question_text": "कौन-सा दुःख हेय है, और उसका वर्णन योगसूत्र के किस पाद में किया गया है?",
-  "options": [
-   "केवल B, C",
-   "केवल A, B",
-   "केवल C, D",
-   "केवल D, E"
-  ],
-  "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) केवल B, C.**\n\nYS 2.16 (Sādhana Pāda): *heyaṃ duḥkham anāgatam* — suffering yet to come is to be avoided. Past suffering is spent and present suffering is already being experienced.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "items": [
-   "वर्तमान दुःख",
-   "अनागत दुःख",
-   "साधन पाद",
-   "विभूति पाद",
-   "अतीत दुःख"
-  ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
- },
- {
-  "id": "YOGA-2023DEC-P2-YS13",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Yoga Sutra: structure and key sutras",
-  "question_type": "statements",
-  "question_text": "योग सूत्र के अनुसार सकारात्मक अभिवृत्ति के लिए क्या आवश्यक है?",
-  "options": [
-   "केवल B, C, E",
-   "केवल A, B, D",
-   "केवल C, D, E",
-   "केवल E, B, A"
-  ],
-  "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) केवल B, C, E.**\n\nThe four bhāvanās of YS 1.33 are maitrī (friendliness), karuṇā (compassion), muditā (gladness) and upekṣā (indifference). Sahajatā and dayālutā are not on the list.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
-  "items": [
-   "सहजता",
-   "करुणा",
-   "उपेक्षा",
-   "दयालुता",
-   "मित्रता"
-  ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
- },
- {
-  "id": "YOGA-2023DEC-P2-YS14",
-  "subject": "yoga",
-  "exam_year": 2023,
-  "exam_cycle": "December",
-  "paper": "Paper 2",
-  "source": {
-   "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
-  },
-  "answer_source": "cross_checked",
-  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
-  "micro_topic": "Samadhi: types and prajna",
-  "question_type": "mcq",
-  "question_text": "योगसूत्र के अनुसार सुनने और अनुमान से प्राप्त बुद्धि की अपेक्षा किस बुद्धि का विषय भिन्न है?",
-  "options": [
-   "अध्यात्म प्रसाद",
-   "ऋतंभरा प्रज्ञा",
-   "सविचार",
-   "एकाग्र अवस्था"
+   "Veena",
+   "Mardal",
+   "Bheri",
+   "Kwanak"
   ],
   "correct_answer": 2,
-  "detailed_explanation": "**Answer: (2) ऋतंभरा प्रज्ञा.**\n\nIn nirvicāra samādhi comes *ṛtambharā prajñā* (1.48), whose object differs from that of knowledge by testimony and inference because it grasps the particular (*śrutānumāna-prajñābhyām anya-viṣayā viśeṣārthatvāt*, 1.49).",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ]
+  "detailed_explanation": "**Answer: (2) Mardal**\n\nHP 4.70–4.76: in ārambha the sound is like ornaments tinkling; in ghaṭa like a kettle-drum (*bherī*); in **paricaya** like a **mardala** (drum); in niṣpatti like the flute and vīṇā.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "nta_question_id": "22742714775"
  },
  {
-  "id": "YOGA-2023DEC-P2-YS15",
+  "id": "YOGA-2023DEC-P2-Q067",
   "subject": "yoga",
   "exam_year": 2023,
   "exam_cycle": "December",
   "paper": "Paper 2",
+  "question_no": 67,
   "source": {
    "type": "official",
-   "note": "UGC NET December 2023, Yoga (100), Paper 2: 15 Yoga Sūtra questions only, from a coaching handout (Guru Paramparā Yoga Sansthān) that reproduces them with their NTA question IDs. Question numbers in the booklet are not given. Answers are the handout's where it gives one, checked against the sūtras; NTA's final key was not available."
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
   },
-  "answer_source": "cross_checked",
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many marma sthanas have been described in Vasistha Samhita?",
+  "options": [
+   "Fifteen",
+   "Eighteen",
+   "Twenty five",
+   "Thirty four"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Eighteen**\n\nThe Vasiṣṭha Saṃhitā, like the Triśikhibrāhmaṇa Upaniṣad, lists **eighteen** marma-sthānas (vital points), from the big toes and ankles up to the forehead, used for prāṇa-dhāraṇā (pratyāhāra).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "nta_question_id": "22742714776"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q068",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 68,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following Pranayamas is not mentioned in Hatharatnavali?",
+  "options": [
+   "Kewali",
+   "Moorchha",
+   "Plavini",
+   "Sitkaari"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Plavini**\n\nŚrīnivāsa's Haṭha Ratnāvalī lists sūrya-bhedana, ujjāyī, sītkārī, śītalī, bhastrikā, bhrāmarī, mūrcchā and kevalī. Unlike Haṭha Pradīpikā 2.44 it does not include **plāvinī**.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "nta_question_id": "22742714777"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q069",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 69,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In Hatha Pradeepika which of the Bandhas has been prescribed to be carried out at the end of poorak?",
+  "options": [
+   "Jalandhar Bandha",
+   "Uddiyan Bandha",
+   "Mool Bandha",
+   "Maha Bandha"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Jalandhar Bandha**\n\nHP 2.45: *pūrakānte tu kartavyo bandho jālandharābhidhaḥ | kumbhakānte recakādau kartavyas tūḍḍiyānakaḥ* — **jālandhara** at the end of inhalation; uḍḍiyāna at the end of retention, as exhalation begins.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "nta_question_id": "22742714778"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q070",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 70,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which is not an essential Amino Acid?",
+  "options": [
+   "Tryptophane",
+   "Valine",
+   "Arginine",
+   "Xylene"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Arginine**\n\nTryptophan and valine are among the nine essential amino acids. **Arginine** is only conditionally (semi-) essential: adults make enough of it, though growing children may not.\n\nOption (4) is printed \"Xylene\", which is a solvent, not an amino acid at all — almost certainly a misprint for **lysine** (essential). Read that way, arginine is the intended answer.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714779"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q071",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 71,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Those persons who are not able to maintain social relationships with people and have no interest in these relations, that means they lack social skills. This indicates which personality disorder?",
+  "options": [
+   "Paranoid personality disorder",
+   "Schizoid personality disorder",
+   "Anti-social personality disorder",
+   "Borderline personality disorder"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Schizoid personality disorder**\n\n**Schizoid** personality disorder (DSM-5): detachment from social relationships, little desire for close relationships and a restricted range of emotional expression. Paranoid is pervasive distrust; antisocial is disregard for others' rights; borderline is unstable relationships and self-image.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: mental health and disorders",
+  "nta_question_id": "22742714780"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q072",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 72,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which year was the American Psychological Society (APS) established to strengthen teachers and practitioners of psychology?",
+  "options": [
+   "1892",
+   "1988",
+   "1992",
+   "1997"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1988**\n\nThe **American Psychological Society** was founded in **1988** by research-oriented psychologists who left the APA; it was renamed the Association for Psychological Science in 2006. 1892 is the founding year of the APA.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: nature, scope and methods",
+  "nta_question_id": "22742714781"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q073",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 73,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'Gestalt Approach' is known for the explanation of which concept?",
+  "options": [
+   "Theory of perception",
+   "Theory of connectionism",
+   "Stimulus — response approach",
+   "Theory of learning"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Theory of perception**\n\nWertheimer, Köhler and Koffka built Gestalt psychology on **perception**: the whole is perceived as more than the sum of its parts (figure–ground, proximity, similarity, closure). Connectionism and S–R learning belong to Thorndike and the behaviourists.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: sensation, perception and attention",
+  "nta_question_id": "22742714782"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q074",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 74,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Eyes shine and one appears impressive due to which prana vayu?",
+  "options": [
+   "Samana",
+   "Koorma",
+   "Krikal",
+   "Devadatta"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Koorma**\n\nOf the upaprāṇas, **kūrma** governs the eyes: the opening and closing of the eyelids and, in Hindi yoga texts, the brightness of the eyes. Kṛkara causes hunger and sneezing and devadatta yawning; samāna is a main prāṇa of digestion.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Pancha prana and upapranas",
+  "nta_question_id": "22742714783"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q075",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 75,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which step in pranayama initiates powerful parasympathetic and sympathetic reflexes?",
+  "options": [
+   "Rechak",
+   "Purak",
+   "Kumbhaka",
+   "Normal breathing"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Kumbhaka**\n\nBreath retention (**kumbhaka**) changes blood gases and pressures in the chest and stimulates baroreceptors and chemoreceptors. It sets off strong autonomic reflexes, both parasympathetic (slowing of the heart) and sympathetic, which is why it is introduced gradually.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Pranayama: techniques and effects",
+  "nta_question_id": "22742714784"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q076",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 76,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the location of Apas tattwa in the body?",
+  "options": [
+   "Navel and knee",
+   "Head and chest",
+   "Knee and Ankle",
+   "Stomach and Navel"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Navel and knee**\n\nIn the five-element (pañca-bhūta) dhāraṇā of the Haṭha and Yoga Upaniṣad texts, earth occupies the region from the feet to the knees and **water (āpas) the region from the knees up to the navel** (the anus in some texts). Fire is above it to the heart.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadis and prana in Hatha texts",
+  "nta_question_id": "22742714785"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q077",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 77,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which virtue should be cultivated for vice people?",
+  "options": [
+   "Gladness",
+   "Compassion",
+   "Friendliness",
+   "Indifference"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Indifference**\n\nYS 1.33: *maitrī-karuṇā-muditopekṣāṇāṃ sukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam* — friendliness to the happy, compassion to the suffering, gladness towards the virtuous and **indifference (upekṣā) towards the wicked** make the mind serene.",
   "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
   "micro_topic": "Yoga Sutra: structure and key sutras",
+  "nta_question_id": "22742714786"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q078",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 78,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which set of asanas are recommended for cardiac patients?",
+  "options": [
+   "Vajrasana, shashankasana, sarpasana, yoga mudra and bhunamanasana",
+   "Adhomukha vrikshasana, padahastasana, sarvangasana and vajrasana",
+   "Shashankasana, karnapidasana, sarpasana, yoga mudra and bhunamanasana",
+   "Vrikshasana, padahastasana, halasana and yoga mudra"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Vajrasana, shashankasana, sarpasana, yoga mudra and bhunamanasana**\n\nHeart patients are given gentle postures that do not raise blood pressure: **vajrāsana, śaśāṅkāsana, sarpāsana, yoga mudrā and bhūnamanāsana**. Inversions and strong forward bends with the head down (adho mukha vṛkṣāsana, sarvāṅgāsana, halāsana, karṇapīḍāsana, pādahastāsana) strain the heart and are avoided.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "nta_question_id": "22742714787"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q079",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 79,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which hormone controls the emotional and instinctive sexual behaviour in humans?",
+  "options": [
+   "Hypothalamus releasing hormone",
+   "Testosterone",
+   "Thyroxin",
+   "Cortisol"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Hypothalamus releasing hormone**\n\nThe **hypothalamus**, part of the limbic system, is the centre of emotion and of instinctive drives such as sex, hunger and thirst. Through its releasing hormones (GnRH and others) it controls the pituitary and, through it, the sex glands. Testosterone acts downstream of this control.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "nta_question_id": "22742714788"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q080",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 80,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which type of hormones at high levels are responsible for cardiac damage?",
+  "options": [
+   "Androgenic hormones",
+   "Thyroid hormones",
+   "Pancreatic hormones",
+   "Hormones of pineal gland"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Thyroid hormones**\n\nExcess **thyroid hormone** (thyrotoxicosis) speeds the heart and raises its workload. It leads to tachycardia, atrial fibrillation and, eventually, heart failure (\"thyrotoxic heart disease\").",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: endocrine system and stress",
+  "nta_question_id": "22742714789"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q081",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 81,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which yoga practices are most appropriate for the patient suffering from goiter?",
+  "options": [
+   "Sarvangasana with pashini mudra",
+   "Vipreetkarni mudra with ujjayi pranayama",
+   "Halasana with yoga mudra",
+   "Sarvangasana with yoga mudra"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Vipreetkarni mudra with ujjayi pranayama**\n\nFor thyroid disorders including goitre, the Bihar School recommends **ujjāyī prāṇāyāma**, which works directly on the throat, with **viparītakaraṇī mudrā**. They act on the thyroid region without the strong neck lock of full sarvāṅgāsana and halāsana.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: endocrine and metabolic disorders",
+  "nta_question_id": "22742714790"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q082",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 82,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "'Assignments for extra practice of selected yogic practices out of class hours enhance skill and performance levels of the students' — this resembles which type of teaching method?",
+  "options": [
+   "Project Method",
+   "Demonstration Method",
+   "Directed-Practice Method",
+   "Response-to-Instruction Method"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Directed-Practice Method**\n\nGiving students set practices to repeat outside class, under the teacher's direction, is the **directed-practice** (supervised practice) method. Its aim is to raise skill through repetition.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "nta_question_id": "22742714791"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q083",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 83,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In the Yoga Sutra, which number of the means of chitta prasadan is 'Prachchhardana vidharanabhyam va pranasya'?",
+  "options": [
+   "First",
+   "Second",
+   "Third",
+   "Fourth"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Second**\n\nThe means of making the mind serene run from YS 1.33 to 1.39. The first is the four bhāvanās (1.33); the **second** is expelling and retaining the breath (*pracchardana-vidhāraṇābhyāṃ vā prāṇasya*, 1.34); then come sense-object awareness (1.35), the luminous state (1.36), a mind free of passion (1.37), dream and sleep knowledge (1.38) and any chosen object (1.39).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "nta_question_id": "22742714792"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q084",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 84,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In the current scenario, which teaching approach is getting emphasis in the education system?",
+  "options": [
+   "Teacher Centred Approach",
+   "Student Centred Approach",
+   "Universities Centred Approach",
+   "Technology centred Approach"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Student Centred Approach**\n\nCurrent policy (NEP 2020, outcome-based education, CBCS) puts the **learner at the centre**: active learning, choice and individual pace.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "nta_question_id": "22742714793"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q085",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 85,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A person who is desirous of adjusting his whole organization to a new situation, organized and guided by the educator, is called",
+  "options": [
+   "Teacher",
+   "Student",
+   "Curriculum",
+   "Education Organization"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Student**\n\nEducation is the adjustment of the whole person to new situations under the guidance of the educator. The person undergoing this adjustment is the **student** (learner).",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga in education",
+  "nta_question_id": "22742714794"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q086",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 86,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many Pranayamas are mentioned in the Vashishtha samhita?",
+  "options": [
+   "Three",
+   "Four",
+   "Six",
+   "Eight"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Four**\n\nAfter nāḍī-śodhana, the Vasiṣṭha Saṃhitā (like the Yoga Yājñavalkya, which it closely follows) describes **four** prāṇāyāmas: sūrya-bhedana, ujjāyī, śītalī and bhastrikā.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "nta_question_id": "22742714795"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q087",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 87,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to Yogabeeja, the method of sheetali pranayama is",
+  "options": [
+   "Inhale air through the rounded tongue, exhale it through the nostrils",
+   "Inhale air through the mouth and exhale it through the nostrils",
+   "Inhale air from both the nostrils and exhale it through the left nostril",
+   "Inhale air through the mouth and exhale it through the mouth itself"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Inhale air through the rounded tongue, exhale it through the nostrils**\n\nŚītalī: draw the air in through the **tongue** (rolled like a tube), hold it, then exhale slowly through the **nostrils**. The Yogabīja describes it as Haṭha Pradīpikā 2.57 does.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "nta_question_id": "22742714796"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q088",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 88,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to the Hathratnawali, while practising khechari mudra, the term 'Gomansbhakshan' means",
+  "options": [
+   "Activate the sushumna nadi",
+   "Practicing Shakti chalan",
+   "Touch the palate with the tongue",
+   "Movement of the tongue"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Touch the palate with the tongue**\n\n\"Eating cow's flesh\" is a code: *go* means the tongue, and \"eating\" it means turning the tongue back into the cavity above the **palate** (HP 3.47–3.48). It is khecarī mudrā, not a literal instruction.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Hatha Ratnavali",
+  "nta_question_id": "22742714797"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q089",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 89,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "According to the Hathapradeepika, which asana is required for practising Nadanusandhan?",
+  "options": [
+   "Muktasana",
+   "Swastikasana",
+   "Sukhasana",
+   "Padmasana"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Muktasana**\n\nHP 4.67: *muktāsane sthito yogī mudrāṃ sandhāya śāmbhavīm | śṛṇuyād dakṣiṇe karṇe nādam antaḥsthaṃ ekadhīḥ* — seated in **muktāsana**, holding śāmbhavī mudrā, the yogī listens with one-pointed mind to the inner sound in the right ear.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Nadanusandhana in Hatha Pradipika",
+  "nta_question_id": "22742714798"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q090",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 90,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Kathopanishad, through which of the following can the Atma not be known?",
+  "items": [
+   "By discourse (pravachan)",
+   "By grace of the god",
+   "By Discussion",
+   "By Studies of scriptures",
+   "By Yajna"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C and D Only",
+   "B, E and D Only",
+   "C, D and B Only",
+   "B, A and D Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, C and D Only**\n\nKaṭha 1.2.23: *nāyam ātmā pravacanena labhyo na medhayā na bahunā śrutena | yam evaiṣa vṛṇute tena labhyas* — the Self is not won by **discourse**, by intellect or **argument**, or by much **learning of scripture**; it is won by the one whom it chooses, i.e. by grace.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Katha Upanishad",
+  "nta_question_id": "22742714799"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q091",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 91,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Vaisheshik philosophy, which of the following are padarth (categories of reality)?",
+  "items": [
+   "Prameya",
+   "Dravya",
+   "Prayojana",
+   "Guna",
+   "Karma"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "B, C and D Only",
+   "B, D and E Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D and E Only**\n\nKaṇāda's Vaiśeṣika has six (later seven) padārthas: **dravya** (substance), **guṇa** (quality), **karma** (action), sāmānya, viśeṣa, samavāya (and abhāva). Prameya and prayojana belong to the sixteen categories of Nyāya.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "nta_question_id": "22742714800"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q092",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 92,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are the parts of the Dwadash Nidana as per the Buddhist ideology?",
+  "items": [
+   "Jalpa",
+   "Jati",
+   "Trishna",
+   "Vigyan",
+   "Guna"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "B, C and D Only",
+   "C, D and E Only",
+   "A, C and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C and D Only**\n\nThe twelve links of dependent origination: avidyā, saṃskāra, **vijñāna**, nāma-rūpa, ṣaḍāyatana, sparśa, vedanā, **tṛṣṇā**, upādāna, bhava, **jāti**, jarā-maraṇa. Jalpa is a Nyāya term (wrangling) and guṇa a Sāṃkhya/Vaiśeṣika one.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Yoga in Jainism and Buddhism",
+  "nta_question_id": "22742714801"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q093",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 93,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "In accordance with Ishavasyopanishad, 'Mrityum teertva' pertains to",
+  "items": [
+   "Vidya",
+   "Avidya",
+   "Sambhuti",
+   "Vinash",
+   "Samsara"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and C Only",
+   "B and D Only",
+   "B and E Only",
+   "D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and D Only**\n\nĪśa 11: *avidyayā mṛtyuṃ tīrtvā vidyayāmṛtam aśnute*. Īśa 14: *vināśena mṛtyuṃ tīrtvā sambhūtyāmṛtam aśnute*. Death is crossed by **avidyā** (works) and by **vināśa**; immortality is gained by vidyā and sambhūti.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Isha Upanishad",
+  "nta_question_id": "22742714802"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q094",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 94,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "In accordance with the Bhagavadgita, which of the following are not the characteristics of Rajasik Ahaar?",
+  "items": [
+   "Laced with salt (Lavanayukta)",
+   "Snigdha",
+   "Very hot",
+   "Long-lasting",
+   "Delicious (Rasayukta)"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "B, C and D Only",
+   "B, D and E Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, D and E Only**\n\nBG 17.9: rājasika food is *kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ* — bitter, sour, **salty**, **very hot**, pungent, dry and burning. BG 17.8 calls sāttvika food *rasyāḥ snigdhāḥ sthirā hṛdyāḥ*: savoury, oily, **long-lasting** and pleasing. So snigdha, long-lasting and rasayukta are not rājasika.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "nta_question_id": "22742714803"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q095",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 95,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to Dhyanbindu Upanishad, the supreme soul (Parmatma) has been referred to as",
+  "items": [
+   "Trividh Brahma",
+   "Triguna",
+   "Trayakshar",
+   "Ardha matra",
+   "Vedajna"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "A, C and D Only",
+   "C, E and B Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C and D Only**\n\nThe Dhyānabindu describes the supreme as praṇava: Brahman in its threefold form (**trividha brahma**), the **three-lettered** Om (a-u-m, *tryakṣara*) and the **half-mora** (*ardha-mātrā*) beyond the three letters. It is described as beyond the guṇas, not triguṇa.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Dhyanabindu Upanishad",
+  "nta_question_id": "22742714804"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q096",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 96,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following are the means for the awakening of kundalini (Kundalini Jagran) in Yoga Kundalyupanishad?",
+  "items": [
+   "Saraswati chalan",
+   "Pranayam",
+   "Pratyahar",
+   "Kriya",
+   "Asana"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and C Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A and B Only**\n\nYogakuṇḍalī Upaniṣad 1.7: *tasya siddhir dvidhā proktā sarasvatyāś cālanaṃ prāṇarodhaś ca* — the means are two: **sarasvatī-cālana** and restraint of the breath (**prāṇāyāma**).",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogakundali Upanishad",
+  "nta_question_id": "22742714805"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q097",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 97,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The attainment of Jnana in the stage of Dharmamegha Samadhi has been described in Yoga Sutras as",
+  "items": [
+   "Klesh-karm Nivritti",
+   "Anantyaat",
+   "Gyeyam Alpam",
+   "Chittam Sarvartham",
+   "Hanmesham Kleshvaduktam"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and C Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and C Only**\n\nAfter dharmamegha samādhi (4.29) and the end of kleśa and karma (4.30) comes 4.31: *tadā sarvāvaraṇa-malāpetasya jñānasya ānantyāj jñeyam alpam* — knowledge, freed of every covering, becomes **infinite**, and what is left to know is **little**.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Kaivalya Pada: dharmamegha and kaivalya",
+  "nta_question_id": "22742714806"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q098",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 98,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "What are the kinds of Drishya according to Yoga Sutra?",
+  "items": [
+   "Vishesh",
+   "Pratyayanupashya",
+   "Avishesh",
+   "Aling",
+   "Drishimatra"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "A, C and D Only",
+   "A, B and E Only",
+   "B, C and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C and D Only**\n\nYS 2.19: *viśeṣāviśeṣa-liṅgamātrāliṅgāni guṇa-parvāṇi* — the stages of the guṇas are the particular (**viśeṣa**), the unparticularised (**aviśeṣa**), the merely indicated and the unmanifest (**aliṅga**). *Dṛśimātra* and *pratyayānupaśya* (2.20) describe the seer, not the seen.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "nta_question_id": "22742714807"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q099",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 99,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to Hatha pradeepika, the benefits of mool bandha described are:",
+  "items": [
+   "Nadi Shuddhi",
+   "Union of Apaan and Prana",
+   "Deficiency of defecation",
+   "Even the old becomes akin to the youth",
+   "The stage of contentment is attained"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "B, C and D Only",
+   "C, D and E Only",
+   "A, C and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C and D Only**\n\nHP 3.64: *apāna-prāṇayor aikyaṃ kṣayo mūtra-purīṣayoḥ | yuvā bhavati vṛddho 'pi satataṃ mūla-bandhanāt* — mūlabandha **unites apāna and prāṇa**, **reduces urine and faeces**, and makes **even the old young**.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "nta_question_id": "22742714808"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q100",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 100,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to Vasishtha samhita, the physical locations of Apaanvayu in the human body are",
+  "items": [
+   "Janu",
+   "Jangha",
+   "Toe",
+   "Centre of the Navel (Nabhimoola)",
+   "Kantha"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and D Only",
+   "B, C and D Only",
+   "C, D and E Only",
+   "A, C and E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, B and D Only**\n\nThe Vasiṣṭha Saṃhitā places apāna in the lower body: the anus and genitals, thighs and **knees (jānu)**, the **shanks (jaṅghā)**, the abdomen and the **navel**. The throat belongs to udāna; the toes are not named for apāna.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "nta_question_id": "22742714809"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q101",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 101,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to Hatha pradeepika, the benefits of Ujjayi pranayam are",
+  "items": [
+   "Cure of naadi-disorder",
+   "Cure of vatta disorder",
+   "Cure of cough-borne disorder",
+   "Cure of ascites disease",
+   "Cure of hunger and thirst"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C and D Only",
+   "B, C and E Only",
+   "C, D and E Only",
+   "B, C and D Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, C and D Only**\n\nHP 2.52–2.53: ujjāyī *śleṣma-doṣa-haraṃ kaṇṭhe dehānala-vivardhanam | nāḍī-jalodarādhātu-gata-doṣa-vināśanam* — it removes **phlegm** in the throat, increases the body's fire, and destroys disorders of the **nāḍīs**, **dropsy (ascites)** and the dhātus.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Kumbhaka types across Hatha texts",
+  "nta_question_id": "22742714810"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q102",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 102,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Due to deficiency of proteins, which diseases can occur in childhood?",
+  "items": [
+   "Marasmus",
+   "Kwashiorkor",
+   "Rickets",
+   "Kerato-Malacia",
+   "Xerophthalmia"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the most appropriate answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and C Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A and B Only**\n\nProtein-energy malnutrition shows as **marasmus** (overall deficiency, wasting) and **kwashiorkor** (protein deficiency, oedema, skin and hair changes). Rickets is vitamin D deficiency; keratomalacia and xerophthalmia are vitamin A deficiency.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714811"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q103",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 103,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which bones are not part of the appendicular skeleton?",
+  "items": [
+   "Clavicle",
+   "Scapula",
+   "Cervical Vertebra",
+   "Pelvis",
+   "Sternum"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the most appropriate answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and C Only",
+   "C and E Only",
+   "A and E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) C and E Only**\n\nThe appendicular skeleton is the limbs and their girdles: clavicle and scapula (pectoral girdle) and the pelvic girdle. The **vertebrae** and the **sternum** belong to the axial skeleton.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "nta_question_id": "22742714812"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q104",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 104,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "If a person is lifting his left leg towards the left side and returning it, with the knees straight during this movement, these two movements are known as",
+  "items": [
+   "Flexion",
+   "Extension",
+   "Abduction",
+   "Adduction",
+   "Inversion"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and E Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) C and D Only**\n\nMoving a limb sideways away from the midline is **abduction**; bringing it back towards the midline is **adduction**. Flexion and extension happen in the front–back (sagittal) plane.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: skeletal system",
+  "nta_question_id": "22742714813"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q105",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 105,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which suffering (Dukh) is to be avoided, and in which pada of the Yoga Sutra has it been mentioned?",
+  "items": [
+   "Vartman Dukh",
+   "Anagat Dukh",
+   "Sadhan Pada",
+   "Vibhuti Pada",
+   "Atit Dukh"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the most appropriate answer from the options given below",
+  "options": [
+   "B and C Only",
+   "A and B Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B and C Only**\n\nYS 2.16 (Sādhana Pāda): *heyaṃ duḥkham anāgatam* — suffering **yet to come** is to be avoided. Past suffering is spent, and present suffering is already being experienced.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Heya, hetu, hana, hanopaya (YS 2.16–2.26)",
+  "nta_question_id": "22742714814"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q106",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 106,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Hatha pradeepika, foods that adversely affect health are:",
+  "items": [
+   "Reheated",
+   "Parwal",
+   "Excessive Salt",
+   "Butter",
+   "Excessive Sour substances"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "A, C and E Only",
+   "B, D and E Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C and E Only**\n\nHP 1.59–1.60 forbids food that is bitter, sour, pungent, **salty**, hot, green vegetables, oil, liquor, fish, meat, curd, buttermilk… and food that is **reheated** (*punar uṣṇīkṛtam*), dry, **excessively salty or sour**. HP 1.62 recommends *paṭola* (parwal) and butter.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "nta_question_id": "22742714815"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q107",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 107,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Yoga Sutra, what are the essentials for a positive attitude?",
+  "items": [
+   "simplicity",
+   "compassion",
+   "disregard",
+   "kindness",
+   "Friendliness"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "B, C and E Only",
+   "A, B and D Only",
+   "C, D and E Only",
+   "E, B and A Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B, C and E Only**\n\nThe four bhāvanās of YS 1.33 are maitrī (**friendliness**), karuṇā (**compassion**), muditā (gladness) and upekṣā (**disregard**, indifference towards the wicked). Simplicity and kindness are not on the list.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "nta_question_id": "22742714816"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q108",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 108,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Major causes of indigestion are:",
+  "items": [
+   "Mineral salts deficiency in diet",
+   "Having hot tea with heating spices",
+   "Mental and emotional disturbances",
+   "Taking too much vitamins and minerals",
+   "Habit of swallowing air and gluttony"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and D Only",
+   "A, C and E Only",
+   "B, C and D Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, C and E Only**\n\nYoga-therapy texts list among the main causes of indigestion a diet poor in **mineral salts**, **mental and emotional disturbance** (worry and tension reduce digestive secretions) and **gulping air and overeating**. Excess vitamins and minerals is not a cause.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: digestive system",
+  "nta_question_id": "22742714817"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q109",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 109,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which particular mudras are recommended to alleviate premenstrual tension?",
+  "items": [
+   "Maha mudra",
+   "Nabho Mudra",
+   "Mahabheda mudra",
+   "Chinmaya mudra",
+   "Pashini Mudra"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and D Only",
+   "A and C Only",
+   "B and E Only",
+   "C and D Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A and C Only**\n\nThe Bihar School recommends **mahā mudrā** and **mahā bheda mudrā** for menstrual disorders and premenstrual tension. With their bandhas and kumbhaka they act on the pelvic organs and balance the endocrine system.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: gynaecological and urinary disorders",
+  "nta_question_id": "22742714818"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q110",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 110,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which asanas help to restore valvular competence after traumatic accidents?",
+  "items": [
+   "Paschimottanasana",
+   "Parvatasana",
+   "Sarvangasana",
+   "Garudasana",
+   "Gomukhasana"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the most appropriate answer from the options given below:",
+  "options": [
+   "A, C and D Only",
+   "B, C and E Only",
+   "B, D and E Only",
+   "A, C and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B, C and E Only**\n\n\"Valvular competence\" here is the ability of the vein valves to keep blood moving towards the heart. **Inverted and semi-inverted postures** such as sarvāṅgāsana and parvatāsana drain the legs by gravity, and **gomukhāsana** works the limbs, so these are used in rehabilitation.\n\nNo answer key was available for this question; treat this answer with caution.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: practice selection for common ailments",
+  "nta_question_id": "22742714819"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q111",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 111,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "In the Yoga Sutra the sampadas (perfections) of the body are mentioned as",
+  "items": [
+   "Form (Roop)",
+   "Mahima",
+   "Beauty (Lavanya)",
+   "Vashitva",
+   "Strength (Bala)"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, B and C Only",
+   "A, C and D Only",
+   "B, D and E Only",
+   "A, C and E Only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, C and E Only**\n\nYS 3.46: *rūpa-lāvaṇya-bala-vajra-saṃhananatvāni kāya-sampat* — **beauty (form)**, **grace** (lāvaṇya), **strength** and adamantine firmness are the perfection of the body. Mahimā and vaśitva are among the eight siddhis (aṇimā etc., 3.45).\n\nThe English version of this question prints the options as \"A and B / A and C / B and D / A and C\"; the Hindi version's codes are used here.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "nta_question_id": "22742714820"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q112",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 112,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which are not misconceptions about yoga?",
+  "items": [
+   "Yoga is not meant for the ordinary person",
+   "Yoga can boost our physical and mental health",
+   "Yoga is a journey towards the inner world",
+   "Yoga is only a physical exercise",
+   "Yoga is associated with the idea of miracles."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and C Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and C Only**\n\nThat yoga **improves physical and mental health** and that it is a **journey inward** are correct views. That it is only for special people, only physical exercise, or about miracles are common misconceptions.",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Yoga and health: concepts and dimensions",
+  "nta_question_id": "22742714821"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q113",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 113,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which are not the characteristics of a good teacher?",
+  "items": [
+   "A genuine interest in communication",
+   "Incompetence in elaboration of topic",
+   "A willingness to share interests and experiences with others",
+   "Inability to set a good example through life style and behavior",
+   "A sense of professional responsibility towards the students"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A and B Only",
+   "B and D Only",
+   "C and D Only",
+   "D and E Only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) B and D Only**\n\n**Incompetence** in explaining a topic and **failing to set an example** are the negatives. Interest in communication, willingness to share, and professional responsibility are qualities of a good (yoga) teacher.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Methods of teaching yoga",
+  "nta_question_id": "22742714822"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q114",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 114,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Gherand Samhita, for practising Mahamudra, it is instructed to",
+  "items": [
+   "Pull the navel backward",
+   "Press the anal region with the left ankle",
+   "Shrink the throat",
+   "Keep the tongue at the cavity of the upper palate",
+   "Keep the eyes on the eyebrow centre"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "B, C and E Only",
+   "A, B and C Only",
+   "B, C and D Only",
+   "C, D and E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) B, C and E Only**\n\nGheraṇḍa Saṃhitā 3.6–3.7: *pāyu-mūlaṃ vāma-gulphe saṃpīḍya* — press the anal region with the **left heel**; stretch the right leg and hold the foot; **contract the throat** (*kaṇṭha-saṅkocanaṃ kṛtvā*) and **gaze between the eyebrows** (*bhruvor madhyaṃ nirīkṣayet*).",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Mudras and bandhas: practice and benefits",
+  "nta_question_id": "22742714823"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q115",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 115,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "In Hatha pradeepika, the method of Trataka is described as",
+  "items": [
+   "Focused vision",
+   "Eyes should be focused on the eyebrow center",
+   "Concentrate on micro goal",
+   "Focused on the tip of the nostril",
+   "Till the tears come down from the eyes"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "B, D and E Only",
+   "A, B and D Only",
+   "B, C and D Only",
+   "A, C and E Only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A, C and E Only**\n\nHP 2.31: *nirīkṣen niścala-dṛśā sūkṣma-lakṣyaṃ samāhitaḥ | aśru-sampāta-paryantam ācāryais trāṭakaṃ smṛtam* — gaze with **steady eyes** at a **small object**, with a collected mind, **until tears fall**.\n\nThe English version prints option (4) as \"B, C and D Only\", the same as option (3); the Hindi version's option (4), A, C, E, is used here.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "nta_question_id": "22742714824"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q116",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 116,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "According to the Yoga Sutra, while describing the Pranav, there is delineation of",
+  "items": [
+   "Recitation of Pranav",
+   "Concentration on Pranav",
+   "Meaning of Pranav",
+   "Recitation of Soaham",
+   "Feel the meaning of Pranav"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "A, C and E Only",
+   "B, C and D Only",
+   "C, D and E Only",
+   "A, D and E Only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A, C and E Only**\n\nYS 1.27 *tasya vācakaḥ praṇavaḥ*; 1.28 *taj-japas tad-artha-bhāvanam* — **repeat** it (japa), with its **meaning**, and **dwell on that meaning** (bhāvanā). So'haṃ japa is not in the sūtras.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Ishvara and Ishvara-pranidhana",
+  "nta_question_id": "22742714825"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q117",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 117,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Maharshi Dayanand Saraswati",
+     "Tulsidas",
+     "Shri Aurobindo",
+     "Swami Shivananda Saraswati"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Jyoti Shakti or Pragya",
+     "Arya bhivinay",
+     "Vinay Patrika",
+     "Life Divine"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - II, B - III, C - IV, D - I",
+   "A - I, B - II, C - III, D - IV",
+   "A - III, B - I, C - II, D - IV",
+   "A - IV, B - III, C - I, D - II"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - II, B - III, C - IV, D - I**\n\n- Dayānanda Sarasvatī wrote the **Āryābhivinaya** (1876), a collection of Vedic prayers.\n- Tulsīdās wrote the **Vinaya Patrikā**.\n- Śrī Aurobindo wrote **The Life Divine**.\n- That leaves *Jyoti Śakti or Prajñā* for Swāmī Śivānanda Sarasvatī.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Modern yoga masters and institutions",
+  "nta_question_id": "22742714826"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q118",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 118,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "According to the Bhagavadgita, match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Bandham Moksham Cha ya vetti",
+     "Prasangen Dharmakamarthan Dharayate",
+     "na vimunchati Durmedha",
+     "Abhyasadramate yatra dukhantam cha nigachhati"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Rajasi dhriti",
+     "Sattvik Sukha",
+     "Sattviki buddhi",
+     "Tamasi dhriti"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - III, B - I, C - IV, D - II",
+   "A - II, B - IV, C - I, D - III",
+   "A - III, B - II, C - I, D - IV",
+   "A - IV, B - II, C - III, D - I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - III, B - I, C - IV, D - II**\n\n- 18.30: the intellect that knows bondage and liberation is **sāttvikī buddhi**.\n- 18.34: the resolve that holds to dharma, kāma and artha out of attachment is **rājasī dhṛti**.\n- 18.35: the resolve by which the dull-witted do not let go of sleep, fear and grief is **tāmasī dhṛti**.\n- 18.36: the happiness one comes to enjoy by practice, and in which sorrow ends, is **sāttvika sukha**.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Bhagavad Gita",
+  "nta_question_id": "22742714827"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q119",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 119,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "According to Yoga Chudamani Upanishad, match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Conversion of food from unsavoury to savoury",
+     "Chanting all through the day and night",
+     "Being free from disease, death, hunger-thirst and fainting",
+     "White and red, two colours (Varna)"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Khecharimudra",
+     "Shukra and maharaj",
+     "Practice of mahamudra",
+     "Twenty-one thousand six hundred mantras"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - III, B - IV, C - I, D - II",
+   "A - IV, B - III, C - II, D - I",
+   "A - III, B - IV, C - II, D - I",
+   "A - II, B - I, C - III, D - IV"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - III, B - IV, C - I, D - II**\n\n- Through **mahāmudrā**, even tasteless food becomes savoury and is digested.\n- The jīva repeats the hamsa mantra **21,600** times a day and night (ajapā).\n- One who knows **khecarī** has no disease, death, hunger, thirst or fainting.\n- The bindu is of two colours: white (**śukra**) and red (**mahārajas**).",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogachudamani Upanishad",
+  "nta_question_id": "22742714828"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q120",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 120,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Mahavrat",
+     "Sukshma vishayatvam chaalinga paryavasaanam",
+     "Kshanatatkramayoh samyamad vivekajam jnanam",
+     "Parinamaikatvat vastu-tattvam"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Vibhutipada",
+     "Sadhan Pada",
+     "Kaivalya Pada",
+     "Samadhi Pada"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - II, B - IV, C - I, D - III",
+   "A - I, B - II, C - III, D - IV",
+   "A - II, B - IV, C - III, D - I",
+   "A - III, B - I, C - IV, D - II"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - II, B - IV, C - I, D - III**\n\n- *mahāvrata* (2.31): **Sādhana Pāda**\n- *sūkṣma-viṣayatvaṃ cāliṅga-paryavasānam* (1.45): **Samādhi Pāda**\n- *kṣaṇa-tat-kramayoḥ saṃyamād vivekajaṃ jñānam* (3.52): **Vibhūti Pāda**\n- *pariṇāmaikatvād vastu-tattvam* (4.14): **Kaivalya Pāda**",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "nta_question_id": "22742714829"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q121",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 121,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "As per Vasishtha samhita, match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Yama",
+     "Niyama",
+     "Aasana",
+     "Upa-prana"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Bhadra",
+     "Koorma",
+     "Japa",
+     "Daya"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - IV, B - III, C - I, D - II",
+   "A - I, B - II, C - III, D - IV",
+   "A - II, B - I, C - III, D - IV",
+   "A - III, B - IV, C - II, D - I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - IV, B - III, C - I, D - II**\n\nIn the Vasiṣṭha Saṃhitā's lists: **dayā** (compassion) is one of the ten yamas, **japa** one of the ten niyamas, **bhadrāsana** one of the āsanas, and **kūrma** one of the five upaprāṇas.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Vasishtha Samhita",
+  "nta_question_id": "22742714830"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q122",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 122,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Thorndike",
+     "Skinner",
+     "Kohler",
+     "Pavlov"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Operant conditioning chamber",
+     "Experiments of stick & box problem",
+     "Theory of Connectionism",
+     "Classical conditioning theory"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - IV, B - II, C - I, D - III",
+   "A - II, B - I, C - III, D - IV",
+   "A - II, B - III, C - I, D - IV",
+   "A - III, B - I, C - II, D - IV"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) A - III, B - I, C - II, D - IV**\n\n- Thorndike: **connectionism** (S–R bonds, the law of effect).\n- Skinner: the **operant conditioning chamber** (Skinner box).\n- Köhler: insight learning in chimpanzees, with **sticks and boxes** to reach bananas.\n- Pavlov: **classical conditioning**.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Psychology: memory and cognition",
+  "nta_question_id": "22742714831"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q123",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 123,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List - I",
+    "items": [
+     "Mooladhar",
+     "Avirati",
+     "Swadhishthan Chakra",
+     "Abhinivesh"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II",
+    "items": [
+     "Six petals",
+     "Klesh",
+     "Antaraya",
+     "Four petals"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - II, B - I, C - III, D - IV",
+   "A - III, B - II, C - I, D - IV",
+   "A - IV, B - III, C - I, D - II",
+   "A - IV, B - III, C - II, D - I"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A - IV, B - III, C - I, D - II**\n\n- Mūlādhāra has **four petals** and svādhiṣṭhāna **six**.\n- **Avirati** (craving for sense objects) is one of the nine **antarāyas** (YS 1.30).\n- **Abhiniveśa** (clinging to life) is the fifth **kleśa** (YS 2.3).",
+  "macro_unit": "Yoga Unit 7: Yoga and Health",
+  "micro_topic": "Shat-chakras in health and healing",
+  "nta_question_id": "22742714832"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q124",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 124,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I (Five Elements) and List II (Koshas)",
+  "lists": {
+   "list_i": {
+    "title": "List - I (Five Elements)",
+    "items": [
+     "Fire",
+     "Earth",
+     "Ether",
+     "Water"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II (Koshas)",
+    "items": [
+     "Pranamaya",
+     "Anandamaya",
+     "Manomaya",
+     "Annamaya"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - I, B - IV, C - III, D - II",
+   "A - III, B - IV, C - II, D - I",
+   "A - IV, B - III, C - I, D - II",
+   "A - I, B - II, C - IV, D - III"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A - III, B - IV, C - II, D - I**\n\nIn the usual correspondence, from gross to subtle: **earth — annamaya**, **water — prāṇamaya**, **fire — manomaya**, air — vijñānamaya and **ether (ākāśa) — ānandamaya**.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Pancha Kosha",
+  "nta_question_id": "22742714833"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q125",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 125,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I (Yoga Sutras) and List II (Related Topic)",
+  "lists": {
+   "list_i": {
+    "title": "List - I (Yoga Sutras)",
+    "items": [
+     "Tatra niratishayam sarvajnabeejam",
+     "Tasya saptadha prantabhumih prajna",
+     "Dharanasu cha yogyata manasah",
+     "Jatyantara parinamah prakrityapurat"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II (Related Topic)",
+    "items": [
+     "After getting vivekgyan",
+     "Kaivalya Pada",
+     "God",
+     "Pranayam"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - III, B - I, C - IV, D - II",
+   "A - I, B - II, C - III, D - IV",
+   "A - II, B - III, C - IV, D - I",
+   "A - IV, B - III, C - II, D - I"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - III, B - I, C - IV, D - II**\n\n- *tatra niratiśayaṃ sarvajña-bījam* (1.25): **Īśvara**.\n- *tasya saptadhā prānta-bhūmiḥ prajñā* (2.27): the sevenfold insight of one who has **discriminative knowledge**.\n- *dhāraṇāsu ca yogyatā manasaḥ* (2.53): a fruit of **prāṇāyāma**.\n- *jātyantara-pariṇāmaḥ prakṛtyāpūrāt* (4.2): **Kaivalya Pāda**.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "nta_question_id": "22742714834"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q126",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 126,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I (Mudras) and List II (Technique)",
+  "lists": {
+   "list_i": {
+    "title": "List - I (Mudras)",
+    "items": [
+     "Shambhavi",
+     "Khechari",
+     "Mahavedha",
+     "Mahamudra"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List - II (Technique)",
+    "items": [
+     "Pressing perineum region with the heels of the legs",
+     "Patting hips on the ground",
+     "Eyes focussed on the eyebrow centre",
+     "Insert the tongue in the cavity of the upper palate"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A - III, B - IV, C - II, D - I",
+   "A - II, B - III, C - I, D - IV",
+   "A - I, B - II, C - III, D - IV",
+   "A - IV, B - I, C - II, D - III"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) A - III, B - IV, C - II, D - I**\n\n- Śāmbhavī: the gaze fixed at the **eyebrow centre**.\n- Khecarī: the **tongue turned back into the cavity** above the palate.\n- Mahāvedha: the buttocks are gently **tapped on the ground** (HP 3.26).\n- Mahāmudrā: the **perineum is pressed with the heel** (HP 3.10).",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Mudras and bandhas in Hatha Pradipika",
+  "nta_question_id": "22742714835"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q127",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 127,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
   "question_type": "sequence",
-  "question_text": "योगसूत्र के पादों के अनुसार निम्न सूत्रों का क्रम बताइए:",
+  "question_text": "Give the correct sequence of evolution as per the Sankhya philosophy",
+  "items": [
+   "Mahat",
+   "Ahankar",
+   "Prakriti",
+   "Panchmahabhoot",
+   "Panchtanmatra"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A, B, C, D, E",
+   "C, A, B, E, D",
+   "A, C, D, E, B",
+   "B, A, C, D, E"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) C, A, B, E, D**\n\nSāṃkhya Kārikā 22: from **prakṛti** comes **mahat** (buddhi); from mahat, **ahaṅkāra**; from ahaṅkāra the sixteen, including the five **tanmātras**; and from the tanmātras the five **mahābhūtas**.",
+  "macro_unit": "Yoga Unit 1: Fundamentals of Yoga",
+  "micro_topic": "Shad-darshanas: Samkhya, Yoga and Vedanta",
+  "nta_question_id": "22742714836"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q128",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 128,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "In accordance with Yoga Vasishtha, give the correct sequence of the stages of Jnana",
+  "items": [
+   "Sattvapatti",
+   "Tanumanasa",
+   "Shubhechha",
+   "Vicharana",
+   "Asamsakti"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "C, D, B, A, E",
+   "A, B, D, C, E",
+   "B, A, C, D, E",
+   "E, B, A, C, D"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, D, B, A, E**\n\nThe seven jñāna-bhūmikās of the Yoga Vāsiṣṭha: **śubhecchā** (good intent), **vicāraṇā** (inquiry), **tanumānasā** (thinning of the mind), **sattvāpatti** (attainment of purity), **asaṃsakti** (non-attachment), then padārthābhāvanī and turyagā.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "nta_question_id": "22742714837"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q129",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 129,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Identify the correct sequence of the following as per the slokas figuring in Yogatattvopanishad",
+  "items": [
+   "Mahabandh",
+   "Khechari Mudra",
+   "Deergh Pranav sandhan",
+   "Sahjoli",
+   "Jalandhar Bandh"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "B, C, D, E, A",
+   "A, B, E, C, D",
+   "A, B, C, E, D",
+   "A, E, D, C, B"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) A, B, E, C, D**\n\nThe Yogatattva Upaniṣad takes up the practices in this order: **mahābandha** (with mahāvedha), then **khecarī**, then **jālandhara** (with uḍḍiyāna and mūla-bandha), then **dīrgha-praṇava-sandhāna**, and later vajrolī, amarolī and **sahajolī**.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yogatattva Upanishad",
+  "nta_question_id": "22742714838"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q130",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 130,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the following in a sequence according to the padas of the Yoga Sutras",
+  "items": [
+   "Kramanyatvam Parinamanyatve Hetuh",
+   "Pratyayasya Parachittajnanam",
+   "Tadartha eva Drishyasyatma",
+   "Tivra Samveganamasannah",
+   "Drashtridrishyoparaktam chittam Sarvartham"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
   "options": [
    "D, C, A, B, E",
    "A, B, D, C, E",
@@ -503,18 +2583,602 @@
    "D, C, B, A, E"
   ],
   "correct_answer": 1,
-  "detailed_explanation": "**Answer: (1) D, C, A, B, E.**\n\n*tīvra-saṃvegānām āsannaḥ* 1.21 → *tad-artha eva dṛśyasyātmā* 2.21 → *kramānyatvaṃ pariṇāmānyatve hetuḥ* 3.15 → *pratyayasya para-citta-jñānam* 3.19 → *draṣṭṛ-dṛśyoparaktaṃ cittaṃ sarvārtham* 4.23.",
-  "source_ids": [
-   "woods-1914-yoga-system",
-   "randhir-patanjal-yog-sutra"
-  ],
+  "detailed_explanation": "**Answer: (1) D, C, A, B, E**\n\n*tīvra-saṃvegānām āsannaḥ* (1.21) → *tad-artha eva dṛśyasyātmā* (2.21) → *kramānyatvaṃ pariṇāmānyatve hetuḥ* (3.15) → *pratyayasya para-citta-jñānam* (3.19) → *draṣṭṛ-dṛśyoparaktaṃ cittaṃ sarvārtham* (4.23).",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Yoga Sutra: structure and key sutras",
+  "nta_question_id": "22742714839"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q131",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 131,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "As per the shlokas mentioned in Hatha pradeepika, the correct sequence of the ailments caused in the event of vayu turning hostile is",
   "items": [
-   "क्रमान्यत्वं परिणामान्यत्वे हेतुः",
-   "प्रत्ययस्य परचित्तज्ञानम्",
-   "तदर्थ एव दृश्यस्यात्मा",
-   "तीव्रसंवेगानामासन्नः",
-   "द्रष्टृदृश्योपरक्तं चित्तं सर्वार्थम्"
+   "Breath disorder (shwas)",
+   "Headache (shirovedana)",
+   "Hiccups (Hichaki)",
+   "Cough",
+   "Auricular pain (Karna vedana)"
   ],
-  "prompt": "नीचे दिए गए विकल्पों में से सही उत्तर का चयन कीजिए।"
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "C, A, D, B, E",
+   "A, B, D, E, C",
+   "B, A, C, D, E",
+   "C, D, B, E, A"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) C, A, D, B, E**\n\nHP 2.17: *hikkā śvāsaś ca kāsaś ca śiraḥ-karṇākṣi-vedanāḥ | bhavanti vividhā rogāḥ pavanasya prakopataḥ* — **hiccup, breathlessness, cough, pain in the head, ears** and eyes.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Pranayama in Hatha Pradipika",
+  "nta_question_id": "22742714840"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q132",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 132,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Arrange the mentioned body organs in the sequence of blood flow.",
+  "items": [
+   "Tricuspid Valve",
+   "Pulmonary Aorta",
+   "Pulmonary Venacava",
+   "Right Auricle",
+   "Bicuspid Valve"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "D, C, B, A, E",
+   "D, E, B, C, A",
+   "D, A, B, C, E",
+   "D, A, C, B, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) D, A, B, C, E**\n\nBlood returning to the heart enters the **right auricle**, passes the **tricuspid valve** into the right ventricle, leaves through the **pulmonary artery** (\"pulmonary aorta\") to the lungs, returns through the **pulmonary veins** (\"pulmonary vena cava\") to the left auricle and crosses the **bicuspid (mitral) valve**.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Human biology: respiratory system",
+  "nta_question_id": "22742714841"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q133",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 133,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "According to the Hatha pradeepika, what is the correct sequence of edible foods?",
+  "items": [
+   "Honey",
+   "Five kinds of vegetables",
+   "Lentil (Moong)",
+   "Khand",
+   "Soonth"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A, C, D, E, B",
+   "D, A, E, B, C",
+   "B, C, D, E, A",
+   "E, A, B, C, D"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) D, A, E, B, C**\n\nHP 1.62: *godhūma-śāli-yava-ṣāṣṭika-śobhanānnaṃ kṣīrājya-**khaṇḍa**-navanīta-sitā-**madhūni** | **śuṇṭhī**-paṭolaka-phalādika-**pañca-śākaṃ** **mudgādi** divyam udakaṃ ca yamīndra-pathyam* — khaṇḍa, honey, dry ginger, the five greens, then mung.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Diet in Hatha texts (pathya, apathya, mitahara)",
+  "nta_question_id": "22742714842"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q134",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 134,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "According to the book 'Teaching Methods for Yoga Practices', the correct sequence for a lesson plan is",
+  "items": [
+   "Setting the Atmosphere",
+   "Introduction to the Practice",
+   "Demonstrating Practices",
+   "Students Individual Practice Time",
+   "Group Practice"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "A, B, C, D, E",
+   "B, A, C, D, E",
+   "A, B, C, E, D",
+   "B, A, C, E, D"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) A, B, C, E, D**\n\nA yoga lesson opens by **setting the atmosphere**, then **introduces** the practice and **demonstrates** it. The class first **practises together** under the teacher's guidance, and only then gets **individual practice time** for personal correction.",
+  "macro_unit": "Yoga Unit 9: Applications of Yoga",
+  "micro_topic": "Yoga classroom and lesson plan",
+  "nta_question_id": "22742714843"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q135",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 135,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "The correct sequence of the procedure of kukkutasana",
+  "items": [
+   "Perform padmasana",
+   "Sitting in dandasana",
+   "Place both the hands between the knees and thighs and keep the palms firmly on the ground",
+   "Pressing the palms, the body should be put on the ground",
+   "Pressing the palms, the body should be lifted upward (towards the sky)"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below",
+  "options": [
+   "B, C, E, D, A",
+   "A, C, B, E, D",
+   "B, A, C, E, D",
+   "D, B, A, C, E"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) B, A, C, E, D**\n\nSit in **daṇḍāsana**, fold the legs into **padmāsana**, slide the hands down between the thighs and calves with the palms flat on the floor, **press and lift** the body, then **lower** it back down (HP 1.23, GS 2.31).",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "nta_question_id": "22742714844"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q136",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 136,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R",
+  "assertion": "Rishi Vashishtha referred to king Dasharatha to be equipped with the sublime traits of patience as well as the observer of uttam vrata",
+  "reason": "King Dasharath sent his sons Lord Shri Rama and Lakshmana accompanying Sage Vishwamitra for the attainment of yajna siddhi",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true and R is NOT the correct explanation of A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both A and R are true and R is NOT the correct explanation of A**\n\nIn the Vairāgya Prakaraṇa of the Yoga Vāsiṣṭha, Daśaratha hesitates to give Rāma to Viśvāmitra. Vasiṣṭha reminds him that he is steadfast and true to his vows, so he must keep his word. Persuaded, Daśaratha sends Rāma and Lakṣmaṇa to protect the sage's sacrifice.\n\nBoth statements are true, but R is the result of Vasiṣṭha's counsel, not the reason for it.",
+  "macro_unit": "Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha",
+  "micro_topic": "Yoga Vasishtha",
+  "nta_question_id": "22742714845"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q137",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 137,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R",
+  "assertion": "Vishnu's highest position (Parampada) is attained through the dissolution of manas",
+  "reason": "One ought to meditate on Maha Vishnu laced with luminescence akin to the one existing in the Moon",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true and R is NOT the correct explanation of A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both A and R are true and R is NOT the correct explanation of A**\n\nThe Yoga Upaniṣads teach that when the mind dissolves (*mano-laya*), one reaches *tad viṣṇoḥ paramaṃ padam*, the supreme abode of Viṣṇu. Elsewhere they prescribe meditation on Viṣṇu, radiant like the moon, in the heart.\n\nBoth are true teachings, but meditation on a form does not by itself explain why the dissolution of manas leads to the supreme state.",
+  "macro_unit": "Yoga Unit 3: Yoga Texts II: Yoga Upanishads",
+  "micro_topic": "Yoga Upanishads: overview",
+  "nta_question_id": "22742714846"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q138",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 138,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R",
+  "assertion": "According to Yoga Sutra, in the higher state of yoga there should be no attachment on the invocation of Lokpal Deities",
+  "reason": "Accepting the invocation of deities creates the chances of sinister again",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true and R is NOT the correct explanation of A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both A and R are true and R is the correct explanation of A**\n\nYS 3.51: *sthāny-upanimantraṇe saṅga-smayākaraṇaṃ punar aniṣṭa-prasaṅgāt* — when invited by the celestial beings, one should feel neither attachment nor pride, **because** undesirable consequences may recur. R gives the sūtra's own reason for A.",
+  "macro_unit": "Yoga Unit 4: Patanjala Yoga Sutra",
+  "micro_topic": "Parinamas and vibhutis (Vibhuti Pada)",
+  "nta_question_id": "22742714847"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q139",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 139,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R",
+  "assertion": "In case of Kapha aggravation, Shatkarma should be practiced. One should keep secret these cleansing practices which clean the body",
+  "reason": "Shatkarma is not essential in case of balanced Vata, Pitta and Kapha",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below",
+  "options": [
+   "Both A and R are true and R is the correct explanation of A",
+   "Both A and R are true and R is NOT the correct explanation of A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both A and R are true and R is NOT the correct explanation of A**\n\nHP 2.21: *medaḥ-śleṣmādhikaḥ pūrvaṃ ṣaṭkarmāṇi samācaret | anyas tu nācaret tāni doṣāṇāṃ samabhāvataḥ* — one with excess fat or phlegm should first do the six acts; **others need not, as their doṣas are balanced**. HP 2.23 calls these body-cleansing acts *gopya*, to be kept secret.\n\nBoth statements are true, but R (when ṣaṭkarma is unnecessary) does not explain A, which also asks for secrecy.",
+  "macro_unit": "Yoga Unit 5: Hatha Yoga Texts",
+  "micro_topic": "Shatkarma in Hatha Pradipika and Gheranda Samhita",
+  "nta_question_id": "22742714848"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q140",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 140,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements",
+  "items": [
+   "Dysmenorrhoea and menorrhagia are the medical terms for problems of painful, irregular or excessively heavy menstruation",
+   "Menstrual difficulty spawns as much wretchedness as the common cold and medical insight into this problem is equally limited"
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, choose the correct answer from the options given below",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are true**\n\n**Dysmenorrhoea** means painful menstruation and **menorrhagia** excessively heavy bleeding, so statement I is true. Statement II restates the observation in Swami Satyananda's *Yogic Management of Common Diseases*: menstrual problems cause as much misery as the common cold, and medical understanding of them is just as limited.",
+  "macro_unit": "Yoga Unit 8: Therapeutic Yoga",
+  "micro_topic": "Yoga therapy: gynaecological and urinary disorders",
+  "nta_question_id": "22742714849"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q141",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 141,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The practice of Asanas is capable of making smooth flow of energy in nadis and activating which of the following?",
+  "passage": "Read the following passage carefully and answer the questions\n\nPracticing asanas can promote smooth flow of energy in nadis. Further, chakras also can be activated. It enables the attainment of control over the body, mind and energy. Practicing yoga asana is the main tool of achieving a high state of awareness. Pawan muktasan is an important practice in the galaxy of practices which not only have positive effect on body and mind, but it also contributes significantly in treating physical and mental diseases and our health is protected. These days most of the diseases are psychosomatic. Practicing asanas, coordinated breathing with awareness, and thus the mind can be vigilant and spontaneous. Appropriate practice of asanas relaxes our mind, and the secretion of hormones brings a positive harmonizing effect in internal organs. Pawanmuktasan is divided in three groups: (1) anti-rheumatic group, (2) the digestive/abdominal group, (3) shaktibandh. These three are complementary to each other and the practice of which intensifies the independent impact of energy.",
+  "options": [
+   "Kundalini",
+   "Chakra",
+   "Pran-urja",
+   "Self-realization"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Chakra**\n\n\"Practicing asanas can promote smooth flow of energy in nadis. Further, **chakras** also can be activated.\"",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "nta_question_id": "22742714851"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q142",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 142,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is useful for prevention of health and treatment of physical and mental diseases?",
+  "passage": "Read the following passage carefully and answer the questions\n\nPracticing asanas can promote smooth flow of energy in nadis. Further, chakras also can be activated. It enables the attainment of control over the body, mind and energy. Practicing yoga asana is the main tool of achieving a high state of awareness. Pawan muktasan is an important practice in the galaxy of practices which not only have positive effect on body and mind, but it also contributes significantly in treating physical and mental diseases and our health is protected. These days most of the diseases are psychosomatic. Practicing asanas, coordinated breathing with awareness, and thus the mind can be vigilant and spontaneous. Appropriate practice of asanas relaxes our mind, and the secretion of hormones brings a positive harmonizing effect in internal organs. Pawanmuktasan is divided in three groups: (1) anti-rheumatic group, (2) the digestive/abdominal group, (3) shaktibandh. These three are complementary to each other and the practice of which intensifies the independent impact of energy.",
+  "options": [
+   "Practising Asana",
+   "Practising Pawan Muktasan",
+   "Practising Pranayama",
+   "Self awareness"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Practising Pawan Muktasan**\n\n\"**Pawan muktasan** … contributes significantly in treating physical and mental diseases and our health is protected.\"",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "nta_question_id": "22742714852"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q143",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 143,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which of the following can awareness and ease be brought out by practising asana?",
+  "passage": "Read the following passage carefully and answer the questions\n\nPracticing asanas can promote smooth flow of energy in nadis. Further, chakras also can be activated. It enables the attainment of control over the body, mind and energy. Practicing yoga asana is the main tool of achieving a high state of awareness. Pawan muktasan is an important practice in the galaxy of practices which not only have positive effect on body and mind, but it also contributes significantly in treating physical and mental diseases and our health is protected. These days most of the diseases are psychosomatic. Practicing asanas, coordinated breathing with awareness, and thus the mind can be vigilant and spontaneous. Appropriate practice of asanas relaxes our mind, and the secretion of hormones brings a positive harmonizing effect in internal organs. Pawanmuktasan is divided in three groups: (1) anti-rheumatic group, (2) the digestive/abdominal group, (3) shaktibandh. These three are complementary to each other and the practice of which intensifies the independent impact of energy.",
+  "options": [
+   "Mind",
+   "Body",
+   "Breath",
+   "Soul"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Mind**\n\n\"Practicing asanas, coordinated breathing with awareness, and thus the **mind** can be vigilant and spontaneous. Appropriate practice of asanas relaxes our mind…\"",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "nta_question_id": "22742714853"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q144",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 144,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the second group of pawanmuktasan called?",
+  "passage": "Read the following passage carefully and answer the questions\n\nPracticing asanas can promote smooth flow of energy in nadis. Further, chakras also can be activated. It enables the attainment of control over the body, mind and energy. Practicing yoga asana is the main tool of achieving a high state of awareness. Pawan muktasan is an important practice in the galaxy of practices which not only have positive effect on body and mind, but it also contributes significantly in treating physical and mental diseases and our health is protected. These days most of the diseases are psychosomatic. Practicing asanas, coordinated breathing with awareness, and thus the mind can be vigilant and spontaneous. Appropriate practice of asanas relaxes our mind, and the secretion of hormones brings a positive harmonizing effect in internal organs. Pawanmuktasan is divided in three groups: (1) anti-rheumatic group, (2) the digestive/abdominal group, (3) shaktibandh. These three are complementary to each other and the practice of which intensifies the independent impact of energy.",
+  "options": [
+   "Shakti bandh",
+   "Digestive/Abdominal practice",
+   "Anti Rheumatic",
+   "Vayumukt Practice"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Digestive/Abdominal practice**\n\nThe passage lists (1) the anti-rheumatic group, (2) **the digestive/abdominal group** and (3) śakti bandha.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "nta_question_id": "22742714854"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q145",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 145,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the practices intensifies the free flow of energy?",
+  "passage": "Read the following passage carefully and answer the questions\n\nPracticing asanas can promote smooth flow of energy in nadis. Further, chakras also can be activated. It enables the attainment of control over the body, mind and energy. Practicing yoga asana is the main tool of achieving a high state of awareness. Pawan muktasan is an important practice in the galaxy of practices which not only have positive effect on body and mind, but it also contributes significantly in treating physical and mental diseases and our health is protected. These days most of the diseases are psychosomatic. Practicing asanas, coordinated breathing with awareness, and thus the mind can be vigilant and spontaneous. Appropriate practice of asanas relaxes our mind, and the secretion of hormones brings a positive harmonizing effect in internal organs. Pawanmuktasan is divided in three groups: (1) anti-rheumatic group, (2) the digestive/abdominal group, (3) shaktibandh. These three are complementary to each other and the practice of which intensifies the independent impact of energy.",
+  "options": [
+   "First Group of Pawan muktasan",
+   "Second group of Pawan muktasan",
+   "Third group of Pawan muktasan",
+   "All the groups of pawan muktasan"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) All the groups of pawan muktasan**\n\n\"These three are complementary to each other and the practice of which intensifies the … impact of energy\": **all three groups** together.",
+  "macro_unit": "Yoga Unit 10: Practical Yoga: Shatkarma, Asana, Pranayama, Mudra, Bandha, Dhyana",
+  "micro_topic": "Asanas: classification and effects",
+  "nta_question_id": "22742714855"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q146",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 146,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the only method to achieve Holistic health?",
+  "passage": "Read the following passage carefully and answer the questions\n\nToday everyone is aware about one's health. The society believes that yoga is the only method to achieve holistic health. Consequently everyone wants yoga to be a part of one's lifestyle. But diet plays a very important role in the practice of yoga and every practitioner should keep it in his mind. Diet is the primary need of life. Our body receives the energy from the rasa obtained after digestion of edible foods taken as a diet to perform our daily activities. If the diet is not balanced, disorders emerge in the body, such as lack of nutrients in the food resulting in malnutrition. Same way, if the food does not have nutrients according to age and need of the body, it results in undernutrition. In view of the importance of nutrition, the government is also emphasizing to include coarse grains in the diet. Consequently, the year 2023 has been termed as the year of millet by the honourable Prime Minister.",
+  "options": [
+   "Yoga",
+   "Diet",
+   "Balanced diet",
+   "Millet"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Yoga**\n\n\"The society believes that **yoga** is the only method to achieve holistic health.\"",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714857"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q147",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 147,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Every yoga practitioner should particularly give importance to",
+  "passage": "Read the following passage carefully and answer the questions\n\nToday everyone is aware about one's health. The society believes that yoga is the only method to achieve holistic health. Consequently everyone wants yoga to be a part of one's lifestyle. But diet plays a very important role in the practice of yoga and every practitioner should keep it in his mind. Diet is the primary need of life. Our body receives the energy from the rasa obtained after digestion of edible foods taken as a diet to perform our daily activities. If the diet is not balanced, disorders emerge in the body, such as lack of nutrients in the food resulting in malnutrition. Same way, if the food does not have nutrients according to age and need of the body, it results in undernutrition. In view of the importance of nutrition, the government is also emphasizing to include coarse grains in the diet. Consequently, the year 2023 has been termed as the year of millet by the honourable Prime Minister.",
+  "options": [
+   "Pace of breathing",
+   "Yama-Niyama",
+   "Diet",
+   "God"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Diet**\n\n\"**Diet** plays a very important role in the practice of yoga and every practitioner should keep it in his mind.\"",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714858"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q148",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 148,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The year 2023 has been termed as",
+  "passage": "Read the following passage carefully and answer the questions\n\nToday everyone is aware about one's health. The society believes that yoga is the only method to achieve holistic health. Consequently everyone wants yoga to be a part of one's lifestyle. But diet plays a very important role in the practice of yoga and every practitioner should keep it in his mind. Diet is the primary need of life. Our body receives the energy from the rasa obtained after digestion of edible foods taken as a diet to perform our daily activities. If the diet is not balanced, disorders emerge in the body, such as lack of nutrients in the food resulting in malnutrition. Same way, if the food does not have nutrients according to age and need of the body, it results in undernutrition. In view of the importance of nutrition, the government is also emphasizing to include coarse grains in the diet. Consequently, the year 2023 has been termed as the year of millet by the honourable Prime Minister.",
+  "options": [
+   "The year of disaster",
+   "The year of yoga",
+   "The year of Millet",
+   "The year of health"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) The year of Millet**\n\n\"The year 2023 has been termed as the **year of millet**.\" The UN declared 2023 the International Year of Millets at India's proposal.",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714859"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q149",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 149,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If the diet does not have nutrients according to the age and need of the person, it results in",
+  "passage": "Read the following passage carefully and answer the questions\n\nToday everyone is aware about one's health. The society believes that yoga is the only method to achieve holistic health. Consequently everyone wants yoga to be a part of one's lifestyle. But diet plays a very important role in the practice of yoga and every practitioner should keep it in his mind. Diet is the primary need of life. Our body receives the energy from the rasa obtained after digestion of edible foods taken as a diet to perform our daily activities. If the diet is not balanced, disorders emerge in the body, such as lack of nutrients in the food resulting in malnutrition. Same way, if the food does not have nutrients according to age and need of the body, it results in undernutrition. In view of the importance of nutrition, the government is also emphasizing to include coarse grains in the diet. Consequently, the year 2023 has been termed as the year of millet by the honourable Prime Minister.",
+  "options": [
+   "Malnutrition",
+   "Wellnutrition",
+   "Hyper nutrition",
+   "Under nutrition"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Under nutrition**\n\n\"If the food does not have nutrients according to age and need of the body, it results in **undernutrition**.\" (Lack of nutrients in general is called malnutrition in the passage.)",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714860"
+ },
+ {
+  "id": "YOGA-2023DEC-P2-Q150",
+  "subject": "yoga",
+  "exam_year": 2023,
+  "exam_cycle": "December",
+  "paper": "Paper 2",
+  "question_no": 150,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2023, held 8 December 2023 (second shift), Yoga (100), Paper 2: Q51–150, English version of NTA's master question paper (NDLI copy uploaded to the Drive folder), question numbers as printed. NTA's answer key for this shift was not available, so every answer is worked out from the texts and marked unverified. In Q111 and Q115 the English version prints two identical options; the options here follow the Hindi version, which has four distinct codes."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The government is emphasizing to include in the diet",
+  "passage": "Read the following passage carefully and answer the questions\n\nToday everyone is aware about one's health. The society believes that yoga is the only method to achieve holistic health. Consequently everyone wants yoga to be a part of one's lifestyle. But diet plays a very important role in the practice of yoga and every practitioner should keep it in his mind. Diet is the primary need of life. Our body receives the energy from the rasa obtained after digestion of edible foods taken as a diet to perform our daily activities. If the diet is not balanced, disorders emerge in the body, such as lack of nutrients in the food resulting in malnutrition. Same way, if the food does not have nutrients according to age and need of the body, it results in undernutrition. In view of the importance of nutrition, the government is also emphasizing to include coarse grains in the diet. Consequently, the year 2023 has been termed as the year of millet by the honourable Prime Minister.",
+  "options": [
+   "Coarse grain",
+   "Milk products",
+   "Salad",
+   "Nutritious pulses"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Coarse grain**\n\n\"The government is also emphasizing to include **coarse grains** in the diet.\"",
+  "macro_unit": "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition",
+  "micro_topic": "Nutrition: nutrients and their functions",
+  "nta_question_id": "22742714861"
  }
 ]
