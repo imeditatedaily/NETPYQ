@@ -1,0 +1,1674 @@
+[
+ {
+  "id": "P1-2021JUN-Q01",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 1,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the approximate percentage (%) of boys in the school?",
+  "passage": "The following table embodies the details about the enrollment of students in five different activities namely Swimming, Singing, Drawing, Dancing and Handicraft in a School during the session 2020-21. A total number of 3000 students including 1750 girls have been enrolled in various activities in the school. Based on the data in the table, answer the questions 1-5:",
+  "table": {
+   "title": "Activity-wise Enrollment of Students",
+   "columns": [
+    "Activity",
+    "Percentage (%) of students enrolled (Out of 3000)",
+    "Percentage (%) of Girls enrolled (Out of 1750)"
+   ],
+   "rows": [
+    [
+     "Swimming",
+     "16%",
+     "14%"
+    ],
+    [
+     "Singing",
+     "21%",
+     "28%"
+    ],
+    [
+     "Drawing",
+     "14%",
+     "16%"
+    ],
+    [
+     "Dancing",
+     "24%",
+     "20%"
+    ],
+    [
+     "Handicraft",
+     "25%",
+     "22%"
+    ]
+   ]
+  },
+  "options": [
+   "42%",
+   "28%",
+   "34%",
+   "50%"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 42%**\n\nBoys = 3000 − 1750 = 1250; 1250 ÷ 3000 = 41.7%, **about 42%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "4849"
+ },
+ {
+  "id": "P1-2021JUN-Q02",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 2,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "How many boys are enrolled in Singing and Handicraft taken together?",
+  "passage": "The following table embodies the details about the enrollment of students in five different activities namely Swimming, Singing, Drawing, Dancing and Handicraft in a School during the session 2020-21. A total number of 3000 students including 1750 girls have been enrolled in various activities in the school. Based on the data in the table, answer the questions 1-5:",
+  "table": {
+   "title": "Activity-wise Enrollment of Students",
+   "columns": [
+    "Activity",
+    "Percentage (%) of students enrolled (Out of 3000)",
+    "Percentage (%) of Girls enrolled (Out of 1750)"
+   ],
+   "rows": [
+    [
+     "Swimming",
+     "16%",
+     "14%"
+    ],
+    [
+     "Singing",
+     "21%",
+     "28%"
+    ],
+    [
+     "Drawing",
+     "14%",
+     "16%"
+    ],
+    [
+     "Dancing",
+     "24%",
+     "20%"
+    ],
+    [
+     "Handicraft",
+     "25%",
+     "22%"
+    ]
+   ]
+  },
+  "options": [
+   "485",
+   "505",
+   "420",
+   "585"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 505**\n\nStudents per activity (of 3000): Swimming 480, Singing 630, Drawing 420, Dancing 720, Handicraft 750. Girls (of 1750): Swimming 245, Singing 490, Drawing 280, Dancing 350, Handicraft 385. Boys in Singing = 630 − 490 = 140; in Handicraft = 750 − 385 = 365. Together **505**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "4850"
+ },
+ {
+  "id": "P1-2021JUN-Q03",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 3,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the total number of girls enrolled in Swimming and Drawing taken together?",
+  "passage": "The following table embodies the details about the enrollment of students in five different activities namely Swimming, Singing, Drawing, Dancing and Handicraft in a School during the session 2020-21. A total number of 3000 students including 1750 girls have been enrolled in various activities in the school. Based on the data in the table, answer the questions 1-5:",
+  "table": {
+   "title": "Activity-wise Enrollment of Students",
+   "columns": [
+    "Activity",
+    "Percentage (%) of students enrolled (Out of 3000)",
+    "Percentage (%) of Girls enrolled (Out of 1750)"
+   ],
+   "rows": [
+    [
+     "Swimming",
+     "16%",
+     "14%"
+    ],
+    [
+     "Singing",
+     "21%",
+     "28%"
+    ],
+    [
+     "Drawing",
+     "14%",
+     "16%"
+    ],
+    [
+     "Dancing",
+     "24%",
+     "20%"
+    ],
+    [
+     "Handicraft",
+     "25%",
+     "22%"
+    ]
+   ]
+  },
+  "options": [
+   "505",
+   "515",
+   "525",
+   "535"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 525**\n\n(14% + 16%) of 1750 = 30% of 1750 = **525**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "4851"
+ },
+ {
+  "id": "P1-2021JUN-Q04",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 4,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The number of girls enrolled in Dancing forms what percent (%) of the total number of students in the School? (Round-off to two digits)?",
+  "passage": "The following table embodies the details about the enrollment of students in five different activities namely Swimming, Singing, Drawing, Dancing and Handicraft in a School during the session 2020-21. A total number of 3000 students including 1750 girls have been enrolled in various activities in the school. Based on the data in the table, answer the questions 1-5:",
+  "table": {
+   "title": "Activity-wise Enrollment of Students",
+   "columns": [
+    "Activity",
+    "Percentage (%) of students enrolled (Out of 3000)",
+    "Percentage (%) of Girls enrolled (Out of 1750)"
+   ],
+   "rows": [
+    [
+     "Swimming",
+     "16%",
+     "14%"
+    ],
+    [
+     "Singing",
+     "21%",
+     "28%"
+    ],
+    [
+     "Drawing",
+     "14%",
+     "16%"
+    ],
+    [
+     "Dancing",
+     "24%",
+     "20%"
+    ],
+    [
+     "Handicraft",
+     "25%",
+     "22%"
+    ]
+   ]
+  },
+  "options": [
+   "9.32%",
+   "10.67%",
+   "11.67%",
+   "14.67%"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) 11.67%**\n\nGirls in Dancing = 20% of 1750 = 350; 350 ÷ 3000 = **11.67%**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "4852"
+ },
+ {
+  "id": "P1-2021JUN-Q05",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 5,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "What is the ratio of the number of girls enrolled in Swimming to the number of boys enrolled in Swimming?",
+  "passage": "The following table embodies the details about the enrollment of students in five different activities namely Swimming, Singing, Drawing, Dancing and Handicraft in a School during the session 2020-21. A total number of 3000 students including 1750 girls have been enrolled in various activities in the school. Based on the data in the table, answer the questions 1-5:",
+  "table": {
+   "title": "Activity-wise Enrollment of Students",
+   "columns": [
+    "Activity",
+    "Percentage (%) of students enrolled (Out of 3000)",
+    "Percentage (%) of Girls enrolled (Out of 1750)"
+   ],
+   "rows": [
+    [
+     "Swimming",
+     "16%",
+     "14%"
+    ],
+    [
+     "Singing",
+     "21%",
+     "28%"
+    ],
+    [
+     "Drawing",
+     "14%",
+     "16%"
+    ],
+    [
+     "Dancing",
+     "24%",
+     "20%"
+    ],
+    [
+     "Handicraft",
+     "25%",
+     "22%"
+    ]
+   ]
+  },
+  "options": [
+   "59 : 49",
+   "23 : 29",
+   "33 : 43",
+   "49 : 47"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 49 : 47**\n\nSwimming: 16% of 3000 = 480 students; girls = 14% of 1750 = 245; boys = 235. 245 : 235 = **49 : 47**.",
+  "macro_unit": "Paper 1 Unit 7: Data Interpretation",
+  "micro_topic": "Data interpretation: tables",
+  "nta_question_id": "4853"
+ },
+ {
+  "id": "P1-2021JUN-Q06",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 6,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is designated as key behaviour of effectiveness of teaching as evident from researches?",
+  "options": [
+   "Using student ideas and contribution",
+   "Structuring",
+   "Teacher task-orientation",
+   "Teacher affect"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Teacher task-orientation**\n\nIn Borich's synthesis of teacher-effectiveness research, the five **key behaviours** are lesson clarity, instructional\nvariety, **teacher task orientation**, student engagement in learning and student success rate. Using student ideas,\nstructuring, questioning, probing and teacher affect are listed as *helping* behaviours.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Factors affecting teaching",
+  "nta_question_id": "4854"
+ },
+ {
+  "id": "P1-2021JUN-Q07",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 7,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Identify the indirect teaching strategies from the following list :",
+  "items": [
+   "Gaining attention, informing the learner of the objective and presenting the stimulus material",
+   "Concept building through examples and non-examples",
+   "Explaining, exemplification and practice",
+   "Problem based presentation with pair-share technique",
+   "Encouraging students to use references from their own experiences"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(B), (D) and (E)",
+   "(A), (B) and (C)",
+   "(B), (C) and (D)",
+   "(C), (D) and (E)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (B), (D) and (E)**\n\nIn indirect instruction the learners construct the idea themselves: concept learning from examples and non-examples,\nproblem-based inquiry with pair-share, and drawing on their own experience. That is **(B), (D) and (E)**. Gagné's\nopening events (A) and \"explain, exemplify, practise\" (C) are direct instruction.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "4855"
+ },
+ {
+  "id": "P1-2021JUN-Q08",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 8,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II :",
+  "lists": {
+   "list_i": {
+    "title": "List I (Modalities of Teaching)",
+    "items": [
+     "Instruction",
+     "Training",
+     "Conditioning",
+     "Indoctrination"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Implementation)",
+    "items": [
+     "One way imposition of ideas from the teacher to the students",
+     "Associative presentation of ideas from teacher to students",
+     "Disciplined drill conducted by teacher",
+     "Active interchange of ideas between teacher and students"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nInstruction is a two-way exchange of ideas (IV). Training is disciplined drill (III). Conditioning works by\nassociation of stimulus and response (II). Indoctrination is one-way imposition of beliefs (I).",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "4856"
+ },
+ {
+  "id": "P1-2021JUN-Q09",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 9,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Computer based testing promotes objectivity in assessment processes.",
+   "Choice-based credit system in Indian Higher Education is a new entry."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct.**\n\nI: computer-based tests are scored by machine against a fixed key, which removes examiner subjectivity. II: CBCS was\nintroduced across Indian universities by the UGC only from 2015–16 and is stressed again in NEP 2020, so it is a recent\nreform. Both are correct. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Evaluation systems",
+  "nta_question_id": "4857"
+ },
+ {
+  "id": "P1-2021JUN-Q10",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 10,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labeled as Assertion A and the other is labeled as Reason R.",
+  "assertion": "Teaching support system whether traditional or modern is purportedly put in place for effecting economy and ensuring quality in teaching-learning transactions.",
+  "reason": "Learning outcomes in order to be congruent with stipulated instructional goals need scaffolds to begin with.",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+   "(A) is correct but (R) is not correct.",
+   "(A) is not correct but (R) is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are correct and (R) is the correct explanation of (A).**\n\nSupport systems (boards and charts through to ICT tools) exist to make teaching efficient and of good quality. They do\nso by giving learners the scaffolds they need to reach the stated instructional goals. (R) therefore explains why such\nsystems are put in place. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 1: Teaching Aptitude",
+  "micro_topic": "Teaching methods and support systems",
+  "nta_question_id": "4858"
+ },
+ {
+  "id": "P1-2021JUN-Q11",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 11,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "In which method of research an independent variable is manipulated with an intent to observe concomitant changes in dependent variable?",
+  "options": [
+   "ExPost Facto method",
+   "Case study method",
+   "Descriptive survey method",
+   "Experimental method"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Experimental method**\n\nDeliberate manipulation of the independent variable, with the effect on the dependent variable observed under\ncontrol, defines the **experimental method**. Ex post facto research studies causes after the fact, without\nmanipulation.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "4859"
+ },
+ {
+  "id": "P1-2021JUN-Q12",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 12,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Identify the features of empirico-inductive paradigm of research",
+  "items": [
+   "Research is concerned with the process rather than simply with outcomes or products",
+   "Based on logical positivist philosophy which assumes a single objective reality",
+   "Researchers are concerned with what are called 'participant perspectives'",
+   "Attempts to establish universal context free generalizations"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the most appropriate answer from the options given below :",
+  "options": [
+   "(A) and (B) only",
+   "(B) and (C) only",
+   "(C) and (D) only",
+   "(A) and (C) only"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A) and (C) only**\n\nThe empirico-inductive (qualitative, naturalistic) paradigm studies processes in context and the participants' own\nperspectives: **(A) and (C)**. A single objective reality and context-free generalisations (B, D) belong to the\npositivist, hypothetico-deductive paradigm.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "nta_question_id": "4860"
+ },
+ {
+  "id": "P1-2021JUN-Q13",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 13,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I and List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Sampling Methods)",
+    "items": [
+     "Simple Random Sampling",
+     "Stratified Random Sampling",
+     "Cluster Sampling",
+     "Snowball sampling"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Procedure involved)",
+    "items": [
+     "The first member is used as an informant to identify other. The process goes on like this",
+     "The units are chosen intact on the basis of their settings",
+     "The units are chosen from defined groups/levels randomly",
+     "The units are chosen by giving equal and independent chance to each"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nSimple random: every unit has an equal and independent chance (IV). Stratified: random selection within defined\nstrata (III). Cluster: naturally occurring groups are taken intact (II). Snowball: each respondent leads to the next\n(I).",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research methods and designs",
+  "nta_question_id": "4861"
+ },
+ {
+  "id": "P1-2021JUN-Q14",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 14,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Action Research is used primarily to improve a given situation by a practitioner.",
+   "Applied research is directed at exploring applicability of principles already established."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct.**\n\nAction research is done by practitioners (often teachers) to solve a problem in their own setting. Applied research\ntests and uses established principles on practical problems. Both are correct.",
+  "macro_unit": "Paper 1 Unit 2: Research Aptitude",
+  "micro_topic": "Research paradigms and types",
+  "nta_question_id": "4862"
+ },
+ {
+  "id": "P1-2021JUN-Q16",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 16,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an example of physical barrier to communication?",
+  "options": [
+   "Cultural disparity",
+   "Inattention",
+   "Verbalism",
+   "Ill health"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Ill health**\n\n**Ill health** (fatigue, poor hearing or sight) is a physical or physiological barrier. Cultural disparity is a\ncultural barrier, inattention a psychological one, and verbalism (words without meaning) a semantic one.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Barriers to communication",
+  "nta_question_id": "4864"
+ },
+ {
+  "id": "P1-2021JUN-Q17",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 17,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "When in a classroom communication, a teacher shows ability of creativity, correlation and analysis, it belongs to which category of skills?",
+  "options": [
+   "Thinking skills",
+   "Expression skills",
+   "Media utilization skills",
+   "Human skills"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Thinking skills**\n\nCreativity, relating ideas and analysis are cognitive abilities, that is **thinking skills**. Expression skills\nconcern delivery, media skills the use of aids, and human skills relationships.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Classroom communication",
+  "nta_question_id": "4865"
+ },
+ {
+  "id": "P1-2021JUN-Q18",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 18,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Why do we communicate?",
+  "items": [
+   "For social interaction.",
+   "For happiness sake.",
+   "For messages to be understood.",
+   "For sharing of experience.",
+   "For protection of traditions."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (C), (E) only",
+   "(B), (C), (D) only",
+   "(A), (C), (D) only",
+   "(A), (B), (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (C), (D) only**\n\nWe communicate to interact socially, to be understood and to share experience: **(A), (C) and (D)**. Happiness and\nprotecting traditions may be by-products, not the purposes of communication.",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Nature and characteristics of communication",
+  "nta_question_id": "4866"
+ },
+ {
+  "id": "P1-2021JUN-Q19",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 19,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Types of communication)",
+    "items": [
+     "Mass communication",
+     "Intrapersonal communication",
+     "Group communication",
+     "Interpersonal communication"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Function served)",
+    "items": [
+     "Corridor discussion",
+     "Classroom Teaching",
+     "For communicates with oneself",
+     "For mechanical message transmission"
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+   "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+   "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)**\n\nMass communication is machine-mediated transmission (IV). Intrapersonal is communication with oneself (III). A class\nis group communication (II). A corridor conversation is interpersonal (I).",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Types and channels of communication",
+  "nta_question_id": "4867"
+ },
+ {
+  "id": "P1-2021JUN-Q20",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 20,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "assertion_reason",
+  "question_text": "Given below are two statements : One is labeled as Assertion A and the other is labeled as Reason R.",
+  "assertion": "A man pulls a loaded truck by his hair which becomes news.",
+  "reason": "Unusual things make news called oddity and generate public interest.",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+   "(A) is correct but (R) is not correct.",
+   "(A) is not correct but (R) is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both (A) and (R) are correct and (R) is the correct explanation of (A).**\n\n**Oddity** (the unusual) is one of the classic news values. The feat becomes news precisely because it is out of the\nordinary and arouses public interest, so (R) explains (A).",
+  "macro_unit": "Paper 1 Unit 4: Communication",
+  "micro_topic": "Communication technology and new media",
+  "nta_question_id": "4868"
+ },
+ {
+  "id": "P1-2021JUN-Q21",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 21,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Smita rode her scooty Northwards, then turned left and then again rode to her left 4 km. She found herself exactly 2 km West of her starting point. How far did she ride Northward initially?",
+  "options": [
+   "2 km",
+   "4 km",
+   "5 km",
+   "6 km"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 4 km**\n\nNorth x km, left (west) some distance, left again (south) 4 km. Ending exactly west of the start means the\nnorth–south movement cancels, so x = **4 km** (the westward leg was 2 km).",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Directions and distances",
+  "nta_question_id": "4869"
+ },
+ {
+  "id": "P1-2021JUN-Q22",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 22,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "A 108 meter long train moving at a speed of 50 km/hr crosses a 112 meters long train coming from the opposite direction in 6 seconds. The speed of the second train is :",
+  "options": [
+   "48 km/hr",
+   "54 km/hr",
+   "66 km/hr",
+   "82 km/hr"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) 82 km/hr**\n\nRelative speed = (108 + 112) m ÷ 6 s = 36.67 m/s = 132 km/h. Opposite directions add, so the second train runs at\n132 − 50 = **82 km/h**.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "4870"
+ },
+ {
+  "id": "P1-2021JUN-Q23",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 23,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "If a 30 meter ladder is placed against a 15 metre wall such that it just reaches the top of the wall, the angle of elevation of the wall is :",
+  "options": [
+   "45°",
+   "30°",
+   "60°",
+   "50°"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 30°**\n\nsin θ = wall ÷ ladder = 15/30 = ½, so the ladder makes **30°** with the ground.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "4871"
+ },
+ {
+  "id": "P1-2021JUN-Q24",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 24,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The profit earned by selling a chair for Rs. 752 is 1.2 times the loss incurred when the same chair was sold for Rs. 400. What is the cost price of the chair?",
+  "options": [
+   "Rs. 540",
+   "Rs. 592",
+   "Rs. 560",
+   "Rs. 640"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) Rs. 560**\n\n752 − C = 1.2 (C − 400) gives 752 + 480 = 2.2 C, so C = **₹560** (profit 192 = 1.2 × loss 160).",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "4872"
+ },
+ {
+  "id": "P1-2021JUN-Q25",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 25,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Three men, four women and six children can complete a work in seven days. A woman does double the work a man does and a child does half the work a man does. How many women alone can complete this work in 7 days?",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "12"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) 7**\n\nIn man-units per day: 3 × 1 + 4 × 2 + 6 × ½ = 14. A woman does 2 units, so 14 ÷ 2 = **7 women** finish it in the same 7\ndays.",
+  "macro_unit": "Paper 1 Unit 5: Mathematical Reasoning and Aptitude",
+  "micro_topic": "Arithmetic: equations, ratios and averages",
+  "nta_question_id": "4873"
+ },
+ {
+  "id": "P1-2021JUN-Q26",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 26,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "According to Nyaya philosophy an argument proceeds only on those issues that are completely unknown.",
+   "According to Nyaya philosophy an argument does not proceed on those issues that are well established."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement I is incorrect but Statement II is correct.**\n\nVātsyāyana (Nyāya Bhāṣya 1.1.1): reasoning proceeds neither on what is wholly unknown nor on what is already settled,\nbut on what is **doubtful** (*saṃśayite 'rthe*). So I is incorrect and II correct.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "4874"
+ },
+ {
+  "id": "P1-2021JUN-Q27",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 27,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "With reference to Nyaya philosophy, which of the following statements is true?",
+  "options": [
+   "The linga or the middle term is not the Karana or operative cause of inference.",
+   "The middle term may be a thing of the present but not of the past or the future.",
+   "The middle term can function in an inference when past or future.",
+   "The middle term can lead to the conclusion apart from the knowledge of vyapti or the universal relation between it and the major term."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) The linga or the middle term is not the Karana or operative cause of inference.**\n\nFor the later (Navya) Naiyāyikas the *karaṇa* of inference is the **knowledge of vyāpti**, not the liṅga itself. The\nmiddle term may belong to the past or the future, and something that no longer or does not yet exist cannot act as\nthe operative cause. Without knowledge of vyāpti no conclusion follows, which rules out (4). No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "4875"
+ },
+ {
+  "id": "P1-2021JUN-Q28",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 28,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "Mimamsakas and Vedantins agree with the Naiyayikas that the syllogism consists of five members or propositions.",
+   "Mimamsakas and Vedantins agree with the Naiyayikas that the syllogism is necessary only for pararthanumana or demonstrative inference and not for svarthanumana or inference for oneself."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement I is incorrect but Statement II is correct.**\n\nThe Mīmāṃsakas and Advaita Vedāntins hold that three members (either the first three or the last three of the\nfive) are enough, so I is incorrect. They do agree that a formal syllogism is needed only to convince others\n(*parārthānumāna*), not for inference for oneself, so II is correct. No answer key was available; treat this one with caution.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "4876"
+ },
+ {
+  "id": "P1-2021JUN-Q29",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 29,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "A formal fallacy is one that may be identified through mere inspection of the form or structure of an argument.",
+   "Formal fallacies are found only in deductive arguments that have identifiable forms."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are true.**\n\nBoth are standard definitions (Copi). A formal fallacy is spotted from the form alone, for example affirming the\nconsequent, and such fallacies occur only in deductive arguments with identifiable forms.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Deductive and inductive arguments",
+  "nta_question_id": "4877"
+ },
+ {
+  "id": "P1-2021JUN-Q30",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 30,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "\"Whoever thrusts a knife into another person should be arrested. Surgeons thrust a knife into another person when operating. Therefore surgeons should be arrested\".\n\nWhich fallacy is committed in the following argument?",
+  "options": [
+   "Hasty generalization",
+   "Fallacy of accident",
+   "Red Herring",
+   "Appeal to unqualified authority"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Fallacy of accident**\n\nA general rule is applied to a special case its exceptions exclude (surgery). That is the **fallacy of accident**.\nHasty generalisation is the converse, generalising from a few untypical cases.",
+  "macro_unit": "Paper 1 Unit 6: Logical Reasoning",
+  "micro_topic": "Analogy and types of argument",
+  "nta_question_id": "4878"
+ },
+ {
+  "id": "P1-2021JUN-Q31",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 31,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "The next number P in the sequence of binary numbers 0, 10, 100, 110, P....., is:",
+  "options": [
+   "111",
+   "1000",
+   "1010",
+   "1001"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1000**\n\n0, 10, 100, 110 are 0, 2, 4, 6 in decimal, so P = 8 = **1000**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Number systems and data representation",
+  "nta_question_id": "4879"
+ },
+ {
+  "id": "P1-2021JUN-Q32",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 32,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "sequence",
+  "question_text": "Identify the correct order of following computer memory types ranked from slowest to fastest in terms of access time.",
+  "items": [
+   "Cache",
+   "CDROM",
+   "Hard Disk",
+   "RAM",
+   "Register"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(C), (B), (A), (D), (E)",
+   "(E), (A), (D), (C), (B)",
+   "(B), (C), (D), (A), (E)",
+   "(D), (A), (E), (B), (C)"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (B), (C), (D), (A), (E)**\n\nSlowest to fastest: CD-ROM → hard disk → RAM → cache → CPU registers, that is **(B), (C), (D), (A), (E)**.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "4880"
+ },
+ {
+  "id": "P1-2021JUN-Q33",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 33,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "items": [
+   "CPU executes software directly from secondary memory.",
+   "A software is termed as Open Source Software if it can be downloaded from the Internet."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the correct answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are true.",
+   "Both Statement I and Statement II are false.",
+   "Statement I is true but Statement II is false.",
+   "Statement I is false but Statement II is true."
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Both Statement I and Statement II are false.**\n\nI is false: programs are loaded into main memory (RAM) before the CPU executes them. II is false: open-source means\nthe source code is available under a licence allowing study, change and redistribution. Free download alone does not\nmake software open source (freeware is not open source).",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "Computer hardware, memory and software",
+  "nta_question_id": "4881"
+ },
+ {
+  "id": "P1-2021JUN-Q34",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 34,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Which of the following statements about wikis are True?",
+  "items": [
+   "Wiki pages can be locked by moderators to prevent vandalism.",
+   "Every change that is made to a wiki page is logged and can be viewed in a history list.",
+   "A wiki is designed to allow people to collaborate easily."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (B) only",
+   "(B) and (C) only",
+   "(A) and (C) only",
+   "(A), (B) and (C)"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) (A), (B) and (C)**\n\nAll three are true: moderators can protect pages, every edit is kept in the page history, and wikis exist for easy\ncollaborative editing.",
+  "macro_unit": "Paper 1 Unit 8: Information and Communication Technology (ICT)",
+  "micro_topic": "ICT terms, abbreviations and applications",
+  "nta_question_id": "4882"
+ },
+ {
+  "id": "P1-2021JUN-Q35",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 35,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "match",
+  "question_text": "Match List I with List II",
+  "lists": {
+   "list_i": {
+    "title": "List I (Digital Initiatives in Higher Education)",
+    "items": [
+     "SWAYAM",
+     "SWAYAM PRABHA",
+     "Digilocker",
+     "NAD"
+    ],
+    "style": "letters"
+   },
+   "list_ii": {
+    "title": "List II (Purpose)",
+    "items": [
+     "Online store and access of academic awards namely degrees, mark-sheets etc.",
+     "Store and access personal e-documents irrespective of physical location.",
+     "MOOCs for high-quality education anywhere and anytime.",
+     "Free DTH channel for high-quality education."
+    ],
+    "style": "roman"
+   }
+  },
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+   "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)**\n\nSWAYAM is the MOOC platform (III). SWAYAM PRABHA is the group of free DTH education channels (IV). DigiLocker stores\npersonal e-documents (II). The National Academic Depository holds degrees and mark-sheets (I).",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Online, distance and ICT-based education",
+  "nta_question_id": "4883"
+ },
+ {
+  "id": "P1-2021JUN-Q36",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 36,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The waste component of waste categorized as 'Trash' consists of",
+  "items": [
+   "Paper, Cardboard cartons",
+   "Animal wastes",
+   "Industrial process wastes",
+   "Vegetable wastes",
+   "Wood"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A) and (E) only",
+   "(A), (C) and (E) only",
+   "(A), (C), (D) and (E) only",
+   "(A), (B), (D) and (E) only"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) (A) and (E) only**\n\nIn the usual classification of municipal solid waste, **garbage** is putrescible food waste (animal and vegetable),\nwhile **trash** (rubbish) is bulky, mostly combustible, non-putrescible material such as paper, cartons and wood.\nIndustrial process wastes form a separate category. Hence **(A) and (E)**.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "4884"
+ },
+ {
+  "id": "P1-2021JUN-Q37",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 37,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Under Sustainable Development Goal 12- Sustainable Consumption and Production, one of the targets is to reduce per capita food waste at the retail and consumer levels by :",
+  "options": [
+   "3/4",
+   "1/2",
+   "1/3",
+   "1/4"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) 1/2**\n\nSDG target 12.3: by 2030, **halve** per capita global food waste at the retail and consumer levels and reduce food\nlosses along production and supply chains.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Sustainable development and global goals",
+  "nta_question_id": "4885"
+ },
+ {
+  "id": "P1-2021JUN-Q38",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 38,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Small hydro power potential in India is estimated approximately as",
+  "options": [
+   "~ 60 MW",
+   "~ 100 MW",
+   "~ 10 GW",
+   "~ 20 GW"
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) ~ 20 GW**\n\nMNRE estimates India's small hydro (up to 25 MW per plant) potential at about **21,000 MW, i.e. ~20 GW**.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Energy sources and national targets",
+  "nta_question_id": "4886"
+ },
+ {
+  "id": "P1-2021JUN-Q39",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 39,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The global environmental issue of Ozone depletion is due to emission of :",
+  "items": [
+   "Sulphur dioxide",
+   "Chlorinated hydrocarbons",
+   "Methane",
+   "Carbon dioxide"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the most appropriate answer from the options given below :",
+  "options": [
+   "(A) and (B) only",
+   "(B) only",
+   "(B) and (D) only",
+   "(A), (B) and (C) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (B) only**\n\nStratospheric ozone is destroyed mainly by chlorine and bromine released from **chlorinated (halogenated)\nhydrocarbons** such as CFCs, the substances controlled by the Montreal Protocol. SO₂, methane and CO₂ are linked to\nacid rain and global warming.",
+  "macro_unit": "Paper 1 Unit 9: People, Development and Environment",
+  "micro_topic": "Pollution: sources and effects",
+  "nta_question_id": "4887"
+ },
+ {
+  "id": "P1-2021JUN-Q41",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 41,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "The NEP-2020 proposes to prepare which of the curriculum frameworks?",
+  "items": [
+   "National Curriculum Framework for School Education",
+   "National Curriculum Framework for Adult Education",
+   "National Curriculum Framework for Teacher Education",
+   "National Curriculum Framework for Technical Education",
+   "National Curriculum Framework for Vocational Education"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (C), (E) only",
+   "(B), (C), (D) only",
+   "(A), (B), (C) only",
+   "(C), (D), (E) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B), (C) only**\n\nNEP 2020 calls for new national curriculum frameworks for school education (NCFSE), for teacher education (NCFTE)\nand for adult education, besides one for early childhood care and education. It names none for technical or\nvocational education. Hence **(A), (B) and (C)**.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "4889"
+ },
+ {
+  "id": "P1-2021JUN-Q42",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 42,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following values is related to self-transcendence?",
+  "options": [
+   "Security value",
+   "Value of Universalism",
+   "Value of freedom",
+   "Value of conformity"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Value of Universalism**\n\nIn Schwartz's theory of basic values, the **self-transcendence** dimension comprises **universalism** and\nbenevolence. Security and conformity belong to conservation, and freedom (self-direction) to openness to change.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Value education",
+  "nta_question_id": "4890"
+ },
+ {
+  "id": "P1-2021JUN-Q43",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 43,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "NEP-2020 proposes to establish which of the following new bodies?",
+  "items": [
+   "SSSA",
+   "PARAKH",
+   "IITI",
+   "NITI",
+   "NTA"
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (C), (D) only",
+   "(B), (C), (E) only",
+   "(A), (B), (C) only",
+   "(B), (C), (D) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (B), (C) only**\n\nNEP 2020 proposes a State School Standards Authority (SSSA), PARAKH (a national assessment centre) and an Indian\nInstitute of Translation and Interpretation (IITI): **(A), (B) and (C)**. NITI Aayog (2015) and the NTA (2017) already\nexisted.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Institutions, commissions and policies in education",
+  "nta_question_id": "4891"
+ },
+ {
+  "id": "P1-2021JUN-Q44",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 44,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following is an apex advisory and non statutory body?",
+  "options": [
+   "NITI Aayog",
+   "NCTE",
+   "AICTE",
+   "MCI"
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) NITI Aayog**\n\n**NITI Aayog** was set up in 2015 by an executive (Cabinet) resolution as the government's policy think-tank. It is\nadvisory and non-statutory. NCTE, AICTE and MCI were created by Acts of Parliament.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Polity, governance and constitutional bodies",
+  "nta_question_id": "4892"
+ },
+ {
+  "id": "P1-2021JUN-Q45",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 45,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Who among the following was the first Chairman of UGC?",
+  "options": [
+   "Sh Humayun Kabir",
+   "Sh C.D. Deshmukh",
+   "Sh M. Moolgaokar",
+   "Moolchand Sharma"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) Sh C.D. Deshmukh**\n\n**C. D. Deshmukh**, the former finance minister, was the UGC's first chairman as a statutory body under the UGC Act,\n1956, and held the post until 1961. Humayun Kabir was a Union education minister.",
+  "macro_unit": "Paper 1 Unit 10: Higher Education System",
+  "micro_topic": "Regulators, accreditation and quality assurance",
+  "nta_question_id": "4893"
+ },
+ {
+  "id": "P1-2021JUN-Q46",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 46,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "New National Education Policy is grounded in the assumptions that :",
+  "passage": "Read the passage carefully and answer the question that follow:\n\nAs the world is becoming increasingly interconnected, Global Citizenship Education (GCED), a response to contemporary global challenges, will be provided to empower learners to become aware of and understand global issues and to become active promoters of more peaceful, tolerant, inclusive, secure and sustainable societies. As a part of holistic education, students at all HEIs will be provided with opportunities for internships with local industry, businesses, artists, crafts person etc. as well as research internship with faculty and researchers at their own or other HEIs/research institutions, so that students may actively engage with the practical side of their learning and, as a by-product, further improve their employability. India will be promoted as a global study destination providing premium education at affordable costs thereby helping to restore its role as a Vishwa Guru. An international students office at each HEI hosting foreign students will be set up to coordinate all matters relating to welcoming and supporting students arriving from abroad. Research training collaboration and faculty/student exchanges with high quality foreign institution will be facilitated, and relevant mutually beneficial MOU with foreign countries will be signed. High Performing Indian Universities will be encouraged to set up campuses in other countries, and similarly, selected universities e.g. those from top 100 universities in the world will be facilitated to operate in India. A legislative framework facilitating such entry will be put in place and such universities will be given special dispensation regarding regulatory, governance and content norms on par with other autonomous institutions of India. Furthermore, research collaboration and student exchanges between Indian institutions and global institutions will be promoted through special efforts. Credits acquired in foreign universities will be permitted, where appropriate as per the requirements of each HEI, to be counted for the award of a degree.",
+  "items": [
+   "There is increasing interconnectedness among nations at the global level.",
+   "Technical knowledge should replace traditional models of learning.",
+   "HEIs must focus on promotion of desirable ethical values.",
+   "There is need for changes in legislative framework to facilitate free exchange of academic ideas and achievements."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(A), (B) and (D) only",
+   "(A) and (C) only",
+   "(A), (C) and (D) only",
+   "(C) and (D) only"
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) (A), (C) and (D) only**\n\nThe passage opens with the world \"becoming increasingly interconnected\" (A). It wants learners to promote peaceful,\ntolerant, inclusive and sustainable societies (C), and it promises \"a legislative framework facilitating such entry\"\nfor exchange with foreign universities (D). Nothing says technical knowledge should replace traditional learning (B).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "4894"
+ },
+ {
+  "id": "P1-2021JUN-Q47",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 47,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "passage": "Read the passage carefully and answer the question that follow:\n\nAs the world is becoming increasingly interconnected, Global Citizenship Education (GCED), a response to contemporary global challenges, will be provided to empower learners to become aware of and understand global issues and to become active promoters of more peaceful, tolerant, inclusive, secure and sustainable societies. As a part of holistic education, students at all HEIs will be provided with opportunities for internships with local industry, businesses, artists, crafts person etc. as well as research internship with faculty and researchers at their own or other HEIs/research institutions, so that students may actively engage with the practical side of their learning and, as a by-product, further improve their employability. India will be promoted as a global study destination providing premium education at affordable costs thereby helping to restore its role as a Vishwa Guru. An international students office at each HEI hosting foreign students will be set up to coordinate all matters relating to welcoming and supporting students arriving from abroad. Research training collaboration and faculty/student exchanges with high quality foreign institution will be facilitated, and relevant mutually beneficial MOU with foreign countries will be signed. High Performing Indian Universities will be encouraged to set up campuses in other countries, and similarly, selected universities e.g. those from top 100 universities in the world will be facilitated to operate in India. A legislative framework facilitating such entry will be put in place and such universities will be given special dispensation regarding regulatory, governance and content norms on par with other autonomous institutions of India. Furthermore, research collaboration and student exchanges between Indian institutions and global institutions will be promoted through special efforts. Credits acquired in foreign universities will be permitted, where appropriate as per the requirements of each HEI, to be counted for the award of a degree.",
+  "items": [
+   "National Education Policy is framed with an objective of saving national HEIs from competition at the global level.",
+   "National Education Policy is framed with an objective of encouraging exchange of knowledge and expertise both at local and global level."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 4,
+  "detailed_explanation": "**Answer: (4) Statement I is incorrect but Statement II is correct.**\n\nThe policy invites foreign universities into India and sends Indian ones abroad, so it does not shield Indian HEIs\nfrom global competition (I is incorrect). It does promote local internships and international research and student\nexchanges (II is correct).",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "4895"
+ },
+ {
+  "id": "P1-2021JUN-Q48",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 48,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "mcq",
+  "question_text": "Which of the following statements most appropriately represent one of the chief concerns regarding higher education?",
+  "passage": "Read the passage carefully and answer the question that follow:\n\nAs the world is becoming increasingly interconnected, Global Citizenship Education (GCED), a response to contemporary global challenges, will be provided to empower learners to become aware of and understand global issues and to become active promoters of more peaceful, tolerant, inclusive, secure and sustainable societies. As a part of holistic education, students at all HEIs will be provided with opportunities for internships with local industry, businesses, artists, crafts person etc. as well as research internship with faculty and researchers at their own or other HEIs/research institutions, so that students may actively engage with the practical side of their learning and, as a by-product, further improve their employability. India will be promoted as a global study destination providing premium education at affordable costs thereby helping to restore its role as a Vishwa Guru. An international students office at each HEI hosting foreign students will be set up to coordinate all matters relating to welcoming and supporting students arriving from abroad. Research training collaboration and faculty/student exchanges with high quality foreign institution will be facilitated, and relevant mutually beneficial MOU with foreign countries will be signed. High Performing Indian Universities will be encouraged to set up campuses in other countries, and similarly, selected universities e.g. those from top 100 universities in the world will be facilitated to operate in India. A legislative framework facilitating such entry will be put in place and such universities will be given special dispensation regarding regulatory, governance and content norms on par with other autonomous institutions of India. Furthermore, research collaboration and student exchanges between Indian institutions and global institutions will be promoted through special efforts. Credits acquired in foreign universities will be permitted, where appropriate as per the requirements of each HEI, to be counted for the award of a degree.",
+  "options": [
+   "It argues for only local production and of knowledge and its implementation.",
+   "It emphasizes only upon implementation of foreign higher education models in India.",
+   "It argues for mutual exchange of knowledge and learning among national and international institutions of higher education.",
+   "It argues for practical learning alone for employability putting social issues aside."
+  ],
+  "correct_answer": 3,
+  "detailed_explanation": "**Answer: (3) It argues for mutual exchange of knowledge and learning among national and international institutions of higher education.**\n\nThe recurring theme is two-way exchange: faculty and student exchanges, MOUs, Indian campuses abroad, foreign campuses\nin India and credit transfer. Options (1), (2) and (4) each add an \"only\" or \"alone\" the passage does not support.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "4896"
+ },
+ {
+  "id": "P1-2021JUN-Q49",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 49,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Holistic education at HEIs is aimed at :",
+  "passage": "Read the passage carefully and answer the question that follow:\n\nAs the world is becoming increasingly interconnected, Global Citizenship Education (GCED), a response to contemporary global challenges, will be provided to empower learners to become aware of and understand global issues and to become active promoters of more peaceful, tolerant, inclusive, secure and sustainable societies. As a part of holistic education, students at all HEIs will be provided with opportunities for internships with local industry, businesses, artists, crafts person etc. as well as research internship with faculty and researchers at their own or other HEIs/research institutions, so that students may actively engage with the practical side of their learning and, as a by-product, further improve their employability. India will be promoted as a global study destination providing premium education at affordable costs thereby helping to restore its role as a Vishwa Guru. An international students office at each HEI hosting foreign students will be set up to coordinate all matters relating to welcoming and supporting students arriving from abroad. Research training collaboration and faculty/student exchanges with high quality foreign institution will be facilitated, and relevant mutually beneficial MOU with foreign countries will be signed. High Performing Indian Universities will be encouraged to set up campuses in other countries, and similarly, selected universities e.g. those from top 100 universities in the world will be facilitated to operate in India. A legislative framework facilitating such entry will be put in place and such universities will be given special dispensation regarding regulatory, governance and content norms on par with other autonomous institutions of India. Furthermore, research collaboration and student exchanges between Indian institutions and global institutions will be promoted through special efforts. Credits acquired in foreign universities will be permitted, where appropriate as per the requirements of each HEI, to be counted for the award of a degree.",
+  "items": [
+   "Research internship with researchers and faculty at different HEIs.",
+   "Recycling of traditional knowledge systems.",
+   "Providing opportunities for internships at local level.",
+   "Keeping social sciences and natural sciences within distinct spheres of teaching and learning."
+  ],
+  "item_style": "letters",
+  "prompt": "Choose the correct answer from the options given below :",
+  "options": [
+   "(B) and (D) only",
+   "(A) and (C) only",
+   "(A) and (D) only",
+   "(C) and (D) only"
+  ],
+  "correct_answer": 2,
+  "detailed_explanation": "**Answer: (2) (A) and (C) only**\n\n\"As a part of holistic education\", students get internships with local industry, artists and craftspeople, and\nresearch internships with faculty at their own or other HEIs: **(A) and (C)**.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "4897"
+ },
+ {
+  "id": "P1-2021JUN-Q50",
+  "subject": "paper1",
+  "exam_year": 2021,
+  "exam_cycle": "June",
+  "paper": "Paper 1",
+  "question_no": 50,
+  "source": {
+   "type": "official",
+   "note": "UGC NET December 2020 and June 2021 (merged) cycle, held 22 November 2021 (first shift, the Yoga (100) session), Paper 1 (General Paper on Teaching and Research Aptitude): English version of the official NTA paper (NDLI copy, \"December 2020 & June 2021.pdf\" in the Drive notes folder), numbered Q1–50 as in NTA's question descriptions (the paper itself restarts its numbering in each of its three sections), with NTA question IDs kept. NTA's answer key for this shift was not available, so every answer is worked out and marked unverified. Left out: Q15 (whether the reason explains the assertion cannot be settled) and Q40, whose English version repeats Q35 while the Hindi version asks a different question (which natural hazard is classed as topographical)."
+  },
+  "answer_source": "unverified",
+  "question_type": "statements",
+  "question_text": "Given below are two statements :",
+  "passage": "Read the passage carefully and answer the question that follow:\n\nAs the world is becoming increasingly interconnected, Global Citizenship Education (GCED), a response to contemporary global challenges, will be provided to empower learners to become aware of and understand global issues and to become active promoters of more peaceful, tolerant, inclusive, secure and sustainable societies. As a part of holistic education, students at all HEIs will be provided with opportunities for internships with local industry, businesses, artists, crafts person etc. as well as research internship with faculty and researchers at their own or other HEIs/research institutions, so that students may actively engage with the practical side of their learning and, as a by-product, further improve their employability. India will be promoted as a global study destination providing premium education at affordable costs thereby helping to restore its role as a Vishwa Guru. An international students office at each HEI hosting foreign students will be set up to coordinate all matters relating to welcoming and supporting students arriving from abroad. Research training collaboration and faculty/student exchanges with high quality foreign institution will be facilitated, and relevant mutually beneficial MOU with foreign countries will be signed. High Performing Indian Universities will be encouraged to set up campuses in other countries, and similarly, selected universities e.g. those from top 100 universities in the world will be facilitated to operate in India. A legislative framework facilitating such entry will be put in place and such universities will be given special dispensation regarding regulatory, governance and content norms on par with other autonomous institutions of India. Furthermore, research collaboration and student exchanges between Indian institutions and global institutions will be promoted through special efforts. Credits acquired in foreign universities will be permitted, where appropriate as per the requirements of each HEI, to be counted for the award of a degree.",
+  "items": [
+   "National Education Policy envisages learning as a process of inculcating values of tolerance, inclusion and sustainability.",
+   "National Education Policy lays stress on employability of learners in businesses and industries."
+  ],
+  "item_style": "roman",
+  "prompt": "In the light of the above statements, Choose the most appropriate answer from the options given below :",
+  "options": [
+   "Both Statement I and Statement II are correct.",
+   "Both Statement I and Statement II are incorrect.",
+   "Statement I is correct but Statement II is incorrect.",
+   "Statement I is incorrect but Statement II is correct."
+  ],
+  "correct_answer": 1,
+  "detailed_explanation": "**Answer: (1) Both Statement I and Statement II are correct.**\n\nGCED aims to make learners \"promoters of more peaceful, tolerant, inclusive, secure and sustainable societies\" (I).\nThe internships are meant to \"further improve their employability\" (II). Both are correct.",
+  "macro_unit": "Paper 1 Unit 3: Comprehension",
+  "micro_topic": "Reading comprehension",
+  "nta_question_id": "4898"
+ }
+]

@@ -48,6 +48,7 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 | UGC NET (NTA) December 2018, Paper 1, set A | 50 | Q41 (a current-affairs item) is *unverified*. |
 | UGC NET (NTA) December 2018, Paper 1, set B | 49 | A second December 2018 shift. Q45 left out as flawed; in Q29 the book's key accepts an invalid conclusion, so the valid option is used and marked *unverified*. |
 | UGC NET (NTA) December 2018, Paper 1, 22 Dec first shift | 48 | From **NTA's master question paper** (prepp.in copy), English; every answer from NTA's final key, matched by question ID. Q34 (no correct option; marks to all) and Q43 (two answers accepted) are left out. Not from a book, so Paper 1 subscribers see it. |
+| UGC NET (NTA) December 2020 & June 2021 cycle, Paper 1 (22 Nov 2021, first shift) | 48 | From the **official NTA paper** (NDLI copy in the Drive notes folder, the same file as the Yoga paper), English, NTA question IDs kept. Answers worked out and marked *unverified*. Left out: Q15 (answer could not be settled) and Q40 (the English version misprints Q35 in its place). |
 | UGC NET (NTA) December 2021 & June 2022 cycle, Paper 1 (held 9 July 2022, slot 2) | 48 | From **NTA's question paper** (NDLI copy), English. Answers worked out and marked *unverified*; Q36 and Q42 left out. |
 | UGC NET December 2022 cycle, Paper 1 (21 Feb 2023, second shift) | 50 | From the same NTA response sheet as the Yoga paper (Sl. No. 101–150, numbered 1–50 here). Answers worked out and marked *unverified*. |
 | UGC NET June 2023, Paper 1 (21 June 2023) | 50 | From the same NTA response sheet as the Yoga paper, Part A 1–50. Answers worked out and marked *unverified*. |
@@ -58,7 +59,7 @@ Every answer, in Practice or Review, is logged with its question, macro unit, mi
 | UGC NET (NTA) June 2020 cycle, Paper 1 (held 5 Nov 2020, second shift) | 48 | From **NTA's master question paper** (NDLI copy), English. Answers worked out and marked *unverified*; Q17 and Q28 left out. |
 | UGC NET (NTA) June 2025, Paper 1 (27 June, second shift) | 49 | From the **official NTA response sheet**, with answers from **NTA's final answer key**; Q8 was dropped by NTA. Unlike the book papers above, subscribers see these. |
 
-Paper 1 data-interpretation tables are stored as real tables (the `table` field) and shown above their questions. Paper 1s for the December 2020 & June 2021 cycle (held Nov 2021) and for June 2024 are not on the site yet.
+Paper 1 data-interpretation tables are stored as real tables (the `table` field) and shown above their questions. The June 2024 Paper 1 is not on the site yet.
 
 Each question keeps the booklet's wording, numbering and labels (List I in Roman numerals where the paper uses them, and shared reading passages). Each is mapped to a syllabus unit and micro-topic, and has its own detailed explanation. The explanations are written for this app; none are copied from a guidebook. The feedback shows how the answer was checked: *official key*, *cross-checked* or *unverified*.
 
@@ -66,7 +67,7 @@ Each question keeps the booklet's wording, numbering and labels (List I in Roman
 
 **Trend analysis.** The Trend Insight box has two parts.
 
-- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017 (Papers II and III), November 2017 (Papers II and III), July 2018, December 2018, June 2019, December 2019, June 2020 (held Nov 2020), June 2021 (held Nov 2021), June 2022 (held July 2022), December 2022, June 2023, December 2023, June 2024 (the cancelled paper and the September re-exam), December 2024 (held Jan 2025) and June 2025; for Paper 1, July 2016 to December 2018 (three December 2018 sets), June 2019, December 2019, June 2020, June 2022, December 2022, June 2023, December 2023, December 2024 and June 2025.
+- **The frequency line is counted, not written.** It comes from the dated papers loaded, counted per subject. For Yoga these are currently January 2017 (Papers II and III), November 2017 (Papers II and III), July 2018, December 2018, June 2019, December 2019, June 2020 (held Nov 2020), June 2021 (held Nov 2021), June 2022 (held July 2022), December 2022, June 2023, December 2023, June 2024 (the cancelled paper and the September re-exam), December 2024 (held Jan 2025) and June 2025; for Paper 1, July 2016 to December 2018 (three December 2018 sets), June 2019, December 2019, June 2020, June 2021 (held Nov 2021), June 2022, December 2022, June 2023, December 2023, December 2024 and June 2025.
 - **The note is written.** It comes from `data/topics.json`: one note per micro-topic on how it is framed, what the examiner targets, the usual traps and a prep move. It makes no claims like "asked 7 times since 2019".
 
 As more papers go in, the following update automatically:

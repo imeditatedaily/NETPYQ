@@ -124,6 +124,7 @@ def test_shipped_paper_1_sessions_keep_their_numbering():
         ("2019-June", "Paper 1"): list(range(1, 51)),
         ("2019-December", "Paper 1"): [n for n in range(1, 51) if n != 13],       # answer could not be settled
         ("2020-June", "Paper 1"): [n for n in range(1, 51) if n not in (17, 28)],     # answer could not be settled
+        ("2021-June", "Paper 1"): [n for n in range(1, 51) if n not in (15, 40)],     # unsettled; misprinted English
         ("2022-June", "Paper 1"): [n for n in range(1, 51) if n not in (36, 42)],     # answer could not be settled
         ("2022-December", "Paper 1"): list(range(1, 51)),
         ("2023-June", "Paper 1"): list(range(1, 51)),
