@@ -699,11 +699,15 @@
    "facts": [
     "Four aims of life: **dharma, artha, kāma, mokṣa** — dharma regulates artha and kāma; mokṣa is the final aim (*parama puruṣārtha*).",
     "**Trivarga** = dharma, artha, kāma; **caturvarga** adds mokṣa. Classic texts: dharma — Dharmaśāstras (Manu, Yājñavalkya); artha — **Kauṭilya's Arthaśāstra**; kāma — **Vātsyāyana's Kāmasūtra**; mokṣa — Upaniṣads and Gītā.",
-    "**Four āśramas**: brahmacarya, gṛhastha, vānaprastha, saṃnyāsa. Together with the four varṇas they make up **varṇāśrama-dharma**."
+    "**Four āśramas**: brahmacarya, gṛhastha, vānaprastha, saṃnyāsa. Together with the four varṇas they make up **varṇāśrama-dharma**.",
+    "Definitions often asked: **dharma** — *yato'bhyudaya-niḥśreyasa-siddhiḥ sa dharmaḥ* (Vaiśeṣika Sūtra 1.1.2); **artha** — *manuṣyāṇāṃ vṛttir arthaḥ* (Kauṭilya, Arthaśāstra 15.1); Manusmṛti 6.92 gives **ten marks of dharma**: dhṛti, kṣamā, dama, asteya, śauca, indriya-nigraha, dhī, vidyā, satya, akrodha."
    ],
-   "sources": [],
+   "sources": [
+    "notes-yoga-mcq-sets"
+   ],
    "traps": [
-    "**Trivarga excludes mokṣa.** Some schools call mokṣa the **parama** puruṣārtha, and dharma the foundation of the other two."
+    "**Trivarga excludes mokṣa.** Some schools call mokṣa the **parama** puruṣārtha, and dharma the foundation of the other two.",
+    "Ahiṃsā is **not** among Manu's ten marks of dharma."
    ]
   },
   "Principal Upanishads: themes": {
@@ -797,13 +801,20 @@
   "Aitareya Upanishad": {
    "facts": [
     "Ṛgveda; creation by the Self, the gods entering the body; mahāvākya ***prajñānaṃ brahma*** (3.3).",
-    "Part of the **Aitareya Āraṇyaka** (Ṛgveda), **3 chapters**. In the beginning the Self alone existed. It created the worlds — ambhas (heaven's waters), marīci (light), mara (earth) and āpaḥ (the waters below) — then the cosmic person; the deities entered the body as speech, breath, sight and so on. It also teaches the **three births of a person**."
+    "Part of the **Aitareya Āraṇyaka** (Ṛgveda), **3 chapters**. In the beginning the Self alone existed. It created the worlds — ambhas (heaven's waters), marīci (light), mara (earth) and āpaḥ (the waters below) — then the cosmic person; the deities entered the body as speech, breath, sight and so on. It also teaches the **three births of a person**.",
+    "Ṛgveda (Aitareya Āraṇyaka 2.4–6); **three adhyāyas**. Mahāvākya **prajñānaṃ brahma** (3.1.3).",
+    "Creation (1.1): the Self alone was; it created four worlds — **ambhas** (above heaven), **marīci** (the mid-region), **mara** (earth) and **āpaḥ** (waters below) — then the guardians of the worlds (lokapālas).",
+    "The deities entered the body: fire as speech into the mouth, air as breath into the nostrils, the sun as sight into the eyes, the directions as hearing into the ears, herbs and trees as hair into the skin, the moon as mind into the heart (1.2.4). The Self entered by splitting the crown — the door called **vidṛti** (1.3.12).",
+    "Food could be caught only by **apāna** (1.3.10). The second adhyāya describes the **three births**: conception, the birth of a son, and rebirth after death."
    ],
    "sources": [
-    "muller-upanishads"
+    "muller-upanishads",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
-    "***Prajñānaṃ brahma*** is the **Ṛgvedic** mahāvākya (Aitareya), a lakṣaṇa-vākya. It is not from the Bṛhadāraṇyaka (Yajus)."
+    "***Prajñānaṃ brahma*** is the **Ṛgvedic** mahāvākya (Aitareya), a lakṣaṇa-vākya. It is not from the Bṛhadāraṇyaka (Yajus).",
+    "**Marīci = antarikṣa** (mid-region), not the earth (mara) or heaven (ambhas).",
+    "Entry gate of the Self = **vidṛti**, not brahmarandhra."
    ]
   },
   "Pancha Kosha": {
@@ -862,10 +873,13 @@
    "facts": [
     "Ṛgveda. Om pictured as a bird (haṃsa): **a** right wing, **u** left wing, **m** tail, **ardhamātrā** head (1).",
     "**Twelve mātrās** of Om: ghoṣiṇī, vidyunmātrā, pātaṅginī, vāyuveginī, nāmadheyā, aindrī, vaiṣṇavī, śāṅkarī, mahatī, dhṛti, nārī, brāhmī — dying in each leads to a different realm (9–16).",
-    "Nāda heard in stages: first like ocean, cloud, kettle-drum, waterfall; then mardala, bell, horn; finally tinkling bells, flute, vīṇā, bees (33–36)."
+    "Nāda heard in stages: first like ocean, cloud, kettle-drum, waterfall; then mardala, bell, horn; finally tinkling bells, flute, vīṇā, bees (33–36).",
+    "Ṛgveda. Describes **Om as a bird**: *a* its right wing, *u* the left, *m* the tail and the half-mātrā the head; the **twelve mātrās** of Om and the worlds reached by dying in each.",
+    "Nāda practice: sit in siddhāsana with vaiṣṇavī mudrā and hear the inner sound in the right ear; first loud sounds (ocean, cloud, drum), then subtle ones (bell, flute, bee). The mind absorbed in nāda forgets the outer world."
    ],
    "sources": [
-    "aiyar-1914-thirty-minor-upanishads"
+    "aiyar-1914-thirty-minor-upanishads",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Nāda-bindu (Ṛgveda)**, **Dhyāna-bindu (Kṛṣṇa Yajus)**, **Amṛta-bindu** and **Tejo-bindu** are four different Upaniṣads.",
@@ -876,10 +890,13 @@
    "facts": [
     "Kṛṣṇa Yajurveda. Opening: even sin as vast as a mountain is destroyed by **dhyāna yoga**, by nothing else (1).",
     "Six-limbed yoga: āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna, samādhi; meditation on Om and the bindu; nāḍīs, cakras and khecarī are described.",
-    "**Prāṇāyāma with Om and the trinity**: Brahmā is meditated on in **pūraka**, **Viṣṇu in kumbhaka** and **Rudra/Śiva in recaka**. Om is meditated on as the light in the lotus of the heart."
+    "**Prāṇāyāma with Om and the trinity**: Brahmā is meditated on in **pūraka**, **Viṣṇu in kumbhaka** and **Rudra/Śiva in recaka**. Om is meditated on as the light in the lotus of the heart.",
+    "Opens with the power of dhyāna: even a mountain of sin is destroyed by dhyāna-yoga. Meditation on **Om** (praṇava) as the bow, the self as the arrow and Brahman as the target.",
+    "Describes ṣaḍaṅga yoga, the cakras and nāḍīs, the haṃsa (ajapā) mantra, and the bindu (semen) to be preserved through mudrās."
    ],
    "sources": [
-    "aiyar-1914-thirty-minor-upanishads"
+    "aiyar-1914-thirty-minor-upanishads",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Dhyānabindu is ṣaḍaṅga** (six-limbed, no yama or niyama), like the Gorakṣa Śataka and Yogacūḍāmaṇi."
@@ -889,10 +906,13 @@
    "facts": [
     "Kṛṣṇa Yajurveda. Four yogas: **mantra, laya, haṭha, rāja**; four stages of practice: **ārambha, ghaṭa, paricaya, niṣpatti**.",
     "Lists yamas (e.g. mitāhāra as foremost) and obstacles; describes siddhāsana/padmāsana, nāḍī-śodhana, kevala kumbhaka, and the elements' dhāraṇās.",
-    "Taught by **Viṣṇu to Brahmā**. It describes **pañca-dhāraṇā**, concentrating on each of the five elements in its region of the body, and the siddhis that follow."
+    "Taught by **Viṣṇu to Brahmā**. It describes **pañca-dhāraṇā**, concentrating on each of the five elements in its region of the body, and the siddhis that follow.",
+    "Kṛṣṇa Yajurveda. Teaches **four yogas** — mantra, laya, haṭha and rāja — and the **four stages** (avasthās) of yoga: ārambha, ghaṭa, paricaya and niṣpatti.",
+    "Lists obstacles and signs of progress, the siddhis that come with practice, and warns against displaying them."
    ],
    "sources": [
-    "aiyar-1914-thirty-minor-upanishads"
+    "aiyar-1914-thirty-minor-upanishads",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "The **four yogas (mantra, laya, haṭha, rāja)** are in the Yogatattva, Śiva Saṃhitā and Yogarāja. The **four stages (ārambha … niṣpatti)** are in the Yogatattva, HP and Śiva Saṃhitā."
@@ -902,11 +922,15 @@
    "facts": [
     "Kṛṣṇa Yajurveda, **three chapters**. Citta is unsteady due to **vāsanā** and **vāyu**; prāṇa is conquered by **mitāhāra, āsana** (padma and vajra) and **śakti-cālana** (1.1–3).",
     "Śakti-cālana by **sarasvatī-cālana** and prāṇa-rodha. Four sahita kumbhakas: **sūrya, ujjāyī, śītalī, bhastrikā**, until kevala is attained (1.21). Place: clean, solitary, free of gravel, cold, fire and water for a bow's length, seat neither too high nor too low (1.22–23).",
-    "Ten obstacles; three bandhas; chapter 2 on **khecarī** (mantra and practice); chapter 3 on the stages of realisation."
+    "Ten obstacles; three bandhas; chapter 2 on **khecarī** (mantra and practice); chapter 3 on the stages of realisation.",
+    "Three chapters: (1) control of prāṇa through **mitāhāra, āsana and śakti-cālana**, and prāṇāyāma; (2) **khecarī**; (3) the higher state beyond.",
+    "The two āsanas named are **padma** and **vajra**; four kumbhakas are taught (sūrya, ujjāyī, śītalī, bhastrikā), and the three bandhas.",
+    "Lists the **obstacles** to yoga: doubt, carelessness, laziness, sleep, sensuality, delusion, attachment to the world and others."
    ],
    "sources": [
     "aiyar-1914-thirty-minor-upanishads",
-    "notes-trishikhi-chudamani-kundali"
+    "notes-trishikhi-chudamani-kundali",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Its four sahita kumbhakas** are sūrya, ujjāyī, śītalī, bhastrikā. There is no sītkārī, bhrāmarī, mūrcchā or plāvinī.",
@@ -916,11 +940,15 @@
   "Yogachudamani Upanishad": {
    "facts": [
     "Sāmaveda. **Six-limbed yoga**: āsana, prāṇa-saṃrodha, pratyāhāra, dhāraṇā, dhyāna, samādhi (2) — no yama or niyama.",
-    "Describes cakras, nāḍīs, the five prāṇas and five upaprāṇas, bandhas and the gāyatrī of prāṇa (haṃsa mantra, 21,600 breaths a day)."
+    "Describes cakras, nāḍīs, the five prāṇas and five upaprāṇas, bandhas and the gāyatrī of prāṇa (haṃsa mantra, 21,600 breaths a day).",
+    "Fruits of the limbs: **āsana destroys disease** (*āsanena rujaṃ hanti*), prāṇāyāma destroys sin, pratyāhāra mental disturbance, dhāraṇā gives steadiness of mind, samādhi liberation.",
+    "Prāṇāyāma with **Om**: pūraka on *a*, kumbhaka on *u*, recaka on *m* — measured as 16 : 64 : 32 mātrās.",
+    "Āsanas named: **siddha** and **padma** (with simha and bhadra in some readings); describes mahāmudrā, which cures consumption, leprosy, piles, gulma and indigestion."
    ],
    "sources": [
     "aiyar-1914-thirty-minor-upanishads",
-    "notes-trishikhi-chudamani-kundali"
+    "notes-trishikhi-chudamani-kundali",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Ajapā-gāyatrī / haṃsa**: **21,600 breaths a day**, repeated unknowingly (*so'ham*). The same figure is in the Gheraṇḍa Saṃhitā's kevalī.",
@@ -929,22 +957,32 @@
   },
   "Trishikhibrahmana Upanishad": {
    "facts": [
-    "Śukla Yajurveda. Combines jñāna and aṣṭāṅga yoga; lists ten yamas and ten niyamas, many āsanas, nāḍīs and prāṇāyāma; karma yoga and jñāna yoga as two forms."
+    "Śukla Yajurveda. Combines jñāna and aṣṭāṅga yoga; lists ten yamas and ten niyamas, many āsanas, nāḍīs and prāṇāyāma; karma yoga and jñāna yoga as two forms.",
+    "A brāhmaṇa asks Āditya (the sun) about the body, prāṇa and the Self; the answer moves from Śiva and the five elements to **aṣṭāṅga yoga**, taught at length.",
+    "Names **ten nāḍīs** as chief among the 72,000 and maps each to its region; lists the five prāṇas and five upaprāṇas, and the deities of the elements (e.g. Pradyumna for fire).",
+    "Its āsanas include svastika, gomukha, vīra, kūrma, padma, siddha, mayūra and others; prāṇāyāma is taught with recaka, pūraka and kumbhaka in a fixed ratio."
    ],
    "sources": [
     "aiyar-1914-thirty-minor-upanishads",
-    "notes-trishikhi-chudamani-kundali"
+    "notes-trishikhi-chudamani-kundali",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
-    "**Ten yamas and ten niyamas** appear in the Triśikhibrāhmaṇa, Śāṇḍilya and Darśana Upaniṣads and the Vasiṣṭha Saṃhitā. Patañjali has five and five."
+    "**Ten yamas and ten niyamas** appear in the Triśikhibrāhmaṇa, Śāṇḍilya and Darśana Upaniṣads and the Vasiṣṭha Saṃhitā. Patañjali has five and five.",
+    "Pratyāhāra here is withdrawing the senses **and** seeing the world as illusory (*jagat sarvam idaṃ mithyā*) — a jñāna-tinted definition, not Patañjali's 2.54."
    ]
   },
   "Yogaraja Upanishad": {
    "facts": [
-    "Short Upaniṣad naming four yogas (mantra, laya, haṭha, rāja) and nine cakras for meditation."
+    "Short Upaniṣad naming four yogas (mantra, laya, haṭha, rāja) and nine cakras for meditation.",
+    "Opens with **four kinds of yoga** — mantra, laya, haṭha and rāja — and their adepts (mantra yoga as practised by Vatsarāja and others).",
+    "Teaches meditation on **nine cakras** in turn: brahma (ādhāra), svādhiṣṭhāna, nābhi, hṛdaya, kaṇṭha, tālu, bhrū, nirvāṇa (brahmarandhra) and **vyoma** (ākāśa) — the last a **sixteen-petalled** lotus. Meditating on them one by one gives all siddhis and liberation.",
+    "Same nine-cakra scheme as the Siddha Siddhānta Paddhati of the Nātha tradition."
    ],
    "sources": [
-    "aiyar-1914-thirty-minor-upanishads"
+    "aiyar-1914-thirty-minor-upanishads",
+    "yoga-upanishads-hindi-compilation",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Nine cakras** appear in the Yogarāja Upaniṣad and the Siddha Siddhānta Paddhati. Most haṭha texts use **six** cakras plus sahasrāra."
@@ -1063,14 +1101,18 @@
    "facts": [
     "Dialogue of **Vasiṣṭha and his son Śakti**, six chapters (Kaivalyadhama edition): yamas and niyamas, āsanas, nāḍīs and nāḍī-śuddhi, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna, samādhi, and the vital points (marmasthānas).",
     "**Ten yamas**: ahiṃsā, satya, asteya, brahmacarya, dayā, ārjava, kṣamā, dhṛti, mitāhāra, **śauca**. **Ten niyamas**: tapas, santoṣa, āstikya, dāna, Īśvara-pūjā, siddhānta-śravaṇa, hrī, mati, japa, vrata.",
-    "Mitāhāra measures: 8 mouthfuls for a renunciant, 16 for a forest-dweller, 32 for a householder."
+    "Mitāhāra measures: 8 mouthfuls for a renunciant, 16 for a forest-dweller, 32 for a householder.",
+    "**Pañca-dhāraṇā**: earth (feet to knees, *laṃ*, Brahmā), water (knees to anus, *vaṃ*, Viṣṇu), fire (anus to heart, *raṃ*, Rudra), air (heart to eyebrows, *yaṃ*, Maheśvara), space (eyebrows to crown, *haṃ*, Sadāśiva).",
+    "Two kinds of dhyāna — **saguṇa** and **nirguṇa**; samādhi is the identity of the individual and supreme self."
    ],
    "sources": [
-    "kaivalyadhama-vasistha-samhita"
+    "kaivalyadhama-vasistha-samhita",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Mouthfuls 8 / 16 / 32** — muni / forest-dweller / householder. Don't confuse this with the ¼ or ⅓ stomach rules.",
-    "In the **ten-yama list, śauca and mitāhāra are yamas**, and **tapas and santoṣa are niyamas**. Patañjali's five-and-five lists differ."
+    "In the **ten-yama list, śauca and mitāhāra are yamas**, and **tapas and santoṣa are niyamas**. Patañjali's five-and-five lists differ.",
+    "**Vrata** is a niyama, while **kṣamā, dhṛti and mitāhāra** are yamas in this text."
    ]
   },
   "Hatha Ratnavali": {
@@ -1183,10 +1225,13 @@
   "Saptanga yoga of Gheranda Samhita": {
    "facts": [
     "Seven limbs and their fruits (GS 1.10–11): ṣaṭkarma → **śodhana**; āsana → **dṛḍhatā**; mudrā → **sthiratā**; pratyāhāra → **dhairya**; prāṇāyāma → **lāghava**; dhyāna → **pratyakṣa**; samādhi → **nirliptatā**.",
-    "Dialogue of Gheraṇḍa with **Caṇḍakāpāli**; seven chapters, one per limb."
+    "Dialogue of Gheraṇḍa with **Caṇḍakāpāli**; seven chapters, one per limb.",
+    "Order of the seven limbs: ṣaṭkarma, āsana, mudrā, **pratyāhāra, prāṇāyāma**, dhyāna, samādhi — pratyāhāra comes **before** prāṇāyāma.",
+    "Content per chapter: 6 cleansing acts (21 practices), 32 āsanas, 25 mudrās, pratyāhāra (5 verses), prāṇāyāma with 8 kumbhakas, 3 dhyānas, 6 samādhis."
    ],
    "sources": [
-    "vasu-1895-gheranda-samhita"
+    "vasu-1895-gheranda-samhita",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Fruit pairs**: ṣaṭkarma – śodhana; āsana – **dṛḍhatā** (firmness); mudrā – **sthiratā** (steadiness); pratyāhāra – **dhairya** (calm); prāṇāyāma – **lāghava** (lightness); dhyāna – **pratyakṣa** (perception of the self); samādhi – **nirliptatā** (non-attachment).",
@@ -1196,15 +1241,19 @@
   "Sadhaka and badhaka tattvas in Hatha Yoga": {
    "facts": [
     "Destroyers (HP 1.15): overeating, over-exertion, idle talk, rigid rules, company of people, fickleness. Promoters (1.16): enthusiasm, courage, perseverance, true knowledge, determination, renouncing company.",
-    "Śiva Saṃhitā's grades of aspirant: mṛdu, madhya, adhimātra, adhimātratama."
+    "Śiva Saṃhitā's grades of aspirant: mṛdu, madhya, adhimātra, adhimātratama.",
+    "HP 1.15 obstacles in Sanskrit: *atyāhāraḥ prayāsaś ca prajalpo niyamāgrahaḥ, jana-saṅgaś ca laulyaṃ ca*. HP 1.16 aids: *utsāhāt sāhasād dhairyāt tattva-jñānāc ca niścayāt, jana-saṅga-parityāgāt*.",
+    "At the start of practice HP 1.61 also forbids sitting by fire, the company of women and long journeys; reheated, too salty, sour or pungent food is unwholesome (1.59–60)."
    ],
    "sources": [
     "sinh-1914-hatha-yoga-pradipika",
-    "vasu-1914-siva-samhita"
+    "vasu-1914-siva-samhita",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**'Jana-saṅga' is in both lists**: company of people is a **destroyer** (1.15), and **giving it up** (jana-saṅga-parityāga) is a promoter (1.16).",
-    "**Niyamāgraha** = rigid clinging to rules, such as cold baths at dawn or fasting. It is a destroyer, not 'following niyamas'."
+    "**Niyamāgraha** = rigid clinging to rules, such as cold baths at dawn or fasting. It is a destroyer, not 'following niyamas'.",
+    "**Tattva-jñāna** (knowledge of the truth) is an aid, not an obstacle."
    ]
   },
   "Nadis and prana in Hatha texts": {
@@ -1229,10 +1278,14 @@
   "Signs of success in Hatha Pradipika": {
    "facts": [
     "Signs of haṭha siddhi (HP 2.78): slimness, a bright face, clear inner sound, clear eyes, health, control of bindu, strong digestion, purified nāḍīs.",
-    "**HP 1.65–66**: success comes to the one who practises (*kriyā-yuktasya siddhiḥ syāt*). It does not come from reading texts, wearing the yogi's dress or talking about it."
+    "**HP 1.65–66**: success comes to the one who practises (*kriyā-yuktasya siddhiḥ syāt*). It does not come from reading texts, wearing the yogi's dress or talking about it.",
+    "Who succeeds: a brahmacārī who eats moderately, renounces and is devoted to yoga succeeds **after a year** (HP 1.57); meditating on the Self, eating moderately and always practising siddhāsana for **twelve years** brings niṣpatti (1.39).",
+    "Practice, not age, decides: the young, old, very old, sick and weak all succeed by practice (HP 1.64).",
+    "Signs of pure nāḍīs (HP 2.19–20): the body becomes lean and glowing, the inner sound is heard, and kumbhaka can be held as long as one likes — after a little over three months of nāḍī-śodhana."
    ],
    "sources": [
-    "sinh-1914-hatha-yoga-pradipika"
+    "sinh-1914-hatha-yoga-pradipika",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**HP 2.78** (signs of haṭha siddhi) vs **Śvetāśvatara 2.13** (first signs of yoga: lightness, health, steadiness, clear complexion, sweet voice, pleasant smell, little excreta). The two lists overlap but come from different texts."
@@ -1242,9 +1295,12 @@
    "facts": [
     "Five prāṇas: **prāṇa** (chest — heart, lungs), **apāna** (pelvis — excretion), **samāna** (navel — digestion), **udāna** (throat — speech, upward movement, viśuddhi), **vyāna** (whole body — circulation).",
     "Five upaprāṇas: **nāga** — belching; **kūrma** — blinking/opening the eyes; **kṛkara** — hunger, sneezing; **devadatta** — yawning; **dhanañjaya** — pervades the body, stays after death.",
-    "**Praśna Upaniṣad 3**: prāṇa is born of the Self like a shadow. Prāṇa itself works in the eye, ear, mouth and nose; **apāna** in excretion and generation; **samāna** in the middle, distributing food; **vyāna** in the 72,000 nāḍīs; **udāna** leads upward and **at death carries the soul out**."
+    "**Praśna Upaniṣad 3**: prāṇa is born of the Self like a shadow. Prāṇa itself works in the eye, ear, mouth and nose; **apāna** in excretion and generation; **samāna** in the middle, distributing food; **vyāna** in the 72,000 nāḍīs; **udāna** leads upward and **at death carries the soul out**.",
+    "Mudrās and bandhas engage specific vāyus: **mūla bandha draws apāna up**, **uḍḍiyāna** makes prāṇa rise in suṣumnā, **jālandhara** governs udāna in the throat, **agnisāra** stimulates samāna."
    ],
-   "sources": [],
+   "sources": [
+    "notes-yoga-mcq-sets"
+   ],
    "traps": [
     "**Udāna** = upward movement, speech and departure at death. **Vyāna** = circulation through the whole body. **Samāna** = digestion at the navel.",
     "Upaprāṇas: **kṛkara – sneezing/hunger, devadatta – yawning, nāga – belching, kūrma – blinking**."
@@ -1439,14 +1495,19 @@
   "Human biology: reproductive system": {
    "facts": [
     "Gonadotropins: FSH (follicle growth, spermatogenesis); **LH — ovulation**, corpus luteum, testosterone (Leydig cells).",
-    "**Hormones**: oestrogen (follicle) — female characteristics, thickening of the endometrium; **progesterone (corpus luteum)** — maintains pregnancy; testosterone (Leydig cells); **hCG** — pregnancy tests. **Menstrual cycle** about 28 days, **ovulation around day 14**. Fertilisation normally takes place in the **fallopian tube (ampulla)**."
+    "**Hormones**: oestrogen (follicle) — female characteristics, thickening of the endometrium; **progesterone (corpus luteum)** — maintains pregnancy; testosterone (Leydig cells); **hCG** — pregnancy tests. **Menstrual cycle** about 28 days, **ovulation around day 14**. Fertilisation normally takes place in the **fallopian tube (ampulla)**.",
+    "Male: testes (sperm and testosterone, from Leydig cells; Sertoli cells nurse sperm) → epididymis → vas deferens → ejaculatory duct → urethra; accessory glands: seminal vesicles, prostate, bulbourethral.",
+    "Female: ovaries (ova, oestrogen and progesterone), fallopian tubes (site of fertilisation), uterus (endometrium), cervix, vagina. Menstrual cycle ≈ 28 days: menstrual, follicular (proliferative), ovulation (~day 14, LH surge) and luteal (secretory) phases.",
+    "Hormonal control: hypothalamus (GnRH) → anterior pituitary (FSH, LH) → gonads. hCG from the placenta keeps the corpus luteum alive in early pregnancy; prolactin and oxytocin govern milk production and let-down."
    ],
    "sources": [
     "anatomy-physiology-texts-and-notes",
     "notes-male-reproductive-therapy"
    ],
    "traps": [
-    "**FSH → follicle growth / sperm production; LH → ovulation / testosterone.** Questions often swap them."
+    "**FSH → follicle growth / sperm production; LH → ovulation / testosterone.** Questions often swap them.",
+    "**FSH** stimulates the follicle (and sperm production); **LH** triggers ovulation and testosterone secretion.",
+    "Fertilisation happens in the **fallopian tube (ampulla)**, not the uterus."
    ]
   },
   "Psychology: nature, scope and methods": {
@@ -1674,10 +1735,13 @@
   "Yogic methods of elevating consciousness": {
    "facts": [
     "Vedāntic path: śravaṇa → manana → **nididhyāsana** (deep contemplation), the most useful for evolving consciousness.",
-    "**Paths**: jñāna (śravaṇa–manana–nididhyāsana), bhakti (navadhā bhakti), karma (niṣkāma karma), rāja (aṣṭāṅga) and haṭha/laya (kuṇḍalinī, nāda). **Mantra japa** has three levels: **vācika** (aloud), **upāṃśu** (whispered) and **mānasika** (mental, the best)."
+    "**Paths**: jñāna (śravaṇa–manana–nididhyāsana), bhakti (navadhā bhakti), karma (niṣkāma karma), rāja (aṣṭāṅga) and haṭha/laya (kuṇḍalinī, nāda). **Mantra japa** has three levels: **vācika** (aloud), **upāṃśu** (whispered) and **mānasika** (mental, the best).",
+    "Haṭha route: purify the body and nāḍīs (ṣaṭkarma, prāṇāyāma), awaken kuṇḍalinī (mudrās, bandhas), pierce the three granthis and reach unmanī/samādhi through nādānusandhāna (HP 4).",
+    "Yoga Sūtra route: from the five chitta-bhūmis (kṣipta, mūḍha, vikṣipta, ekāgra, niruddha) through samprajñāta to asamprajñāta samādhi, by abhyāsa and vairāgya (YS 1.12)."
    ],
    "sources": [
-    "muller-upanishads"
+    "muller-upanishads",
+    "notes-yoga-mcq-sets"
    ],
    "traps": [
     "**Nididhyāsana** is the third and deepest step, after hearing and reflection."
@@ -1759,38 +1823,50 @@
   "Yoga therapy: respiratory disorders": {
    "facts": [
     "Sinusitis: **neti, kapālabhāti, ardha cakrāsana**. Allergic rhinitis responds directly to neti and prāṇāyāma.",
-    "**Asthma**: kriyās such as jala neti, sūtra neti and vamana dhauti; prāṇāyāma with **longer exhalation**; vibhāga (sectional) breathing; backward bends to open the chest. **Not during an acute attack**. **COPD**: pursed-lip breathing and diaphragmatic breathing."
+    "**Asthma**: kriyās such as jala neti, sūtra neti and vamana dhauti; prāṇāyāma with **longer exhalation**; vibhāga (sectional) breathing; backward bends to open the chest. **Not during an acute attack**. **COPD**: pursed-lip breathing and diaphragmatic breathing.",
+    "Bronchial asthma: kriyās — jala neti, vamana dhauti, kapālabhāti; āsanas that open the chest (bhujaṅga, uṣṭra, matsya, ardha-matsyendra, gomukha); prāṇāyāma — nāḍī-śodhana, ujjāyī, bhrāmarī with slow exhalation; relaxation (śavāsana, yoga nidrā).",
+    "Avoid in an acute attack: forceful kapālabhāti or bhastrikā and long breath-holding; use sitting relaxation and slow abdominal breathing instead.",
+    "Chronic bronchitis/COPD: emphasis on slow, prolonged exhalation (pursed-lip style), bhrāmarī and ujjāyī; sinusitis and allergic rhinitis: jala and sūtra neti."
    ],
    "sources": [
     "notes-yoga-therapy-by-disease",
     "rog-anusar-asana-pranayama"
    ],
    "traps": [
-    "**Asthma breathing practice** focuses on **slow, prolonged exhalation**, not forced inhalation or long retention."
+    "**Asthma breathing practice** focuses on **slow, prolonged exhalation**, not forced inhalation or long retention.",
+    "**Kumbhaka is avoided** in asthma and hypertension; the therapy uses prolonged exhalation instead."
    ]
   },
   "Yoga therapy: psychiatric disorders": {
    "facts": [
     "Depression: energising practices (bhastrikā, kapālabhāti, sūrya namaskāra); long passive meditation, śavāsana and bhrāmarī alone are less suitable.",
-    "**Anxiety**: slow breathing, nāḍīśodhana, bhrāmarī, yoga nidrā and calming meditation. **Depression**: start with active practices (sūrya namaskāra, kapālabhāti, bhastrikā), then relaxation. **Schizophrenia**: yoga as an **add-on** to medication improves negative symptoms; avoid long, unguided meditation."
+    "**Anxiety**: slow breathing, nāḍīśodhana, bhrāmarī, yoga nidrā and calming meditation. **Depression**: start with active practices (sūrya namaskāra, kapālabhāti, bhastrikā), then relaxation. **Schizophrenia**: yoga as an **add-on** to medication improves negative symptoms; avoid long, unguided meditation.",
+    "Anxiety: slow breathing (nāḍī-śodhana, bhrāmarī), śavāsana, yoga nidrā, meditation; avoid stimulating practices like bhastrikā in panic states.",
+    "Depression: more active practices — sūrya namaskāra, backbends, kapālabhāti and bhastrikā (if no contraindication), plus satsaṅga and karma yoga; prolonged inward meditation alone can deepen withdrawal.",
+    "Insomnia and stress: yoga nidrā, bhrāmarī, śītalī and śītkārī, and a regular routine (dinacaryā)."
    ],
    "sources": [
     "notes-yoga-therapy-by-disease"
    ],
    "traps": [
-    "**Depression → stimulating practice first; anxiety → calming practice.** Long silent meditation alone is not first-line in severe depression or psychosis."
+    "**Depression → stimulating practice first; anxiety → calming practice.** Long silent meditation alone is not first-line in severe depression or psychosis.",
+    "**Depression → energising** practices; **anxiety → calming** practices. The prescriptions are opposite."
    ]
   },
   "Yoga therapy: neurological disorders": {
    "facts": [
     "Headache: **nāḍīśodhana, bhrāmarī, śaśāṅkāsana**, relaxation.",
-    "**Migraine**: nāḍīśodhana, bhrāmarī, śītalī, yoga nidrā, regular routine; **avoid inversions and kapālabhāti during an attack**. **Epilepsy**: avoid hyperventilating practices (kapālabhāti, bhastrikā). **Parkinson's and stroke**: gentle movement, balance and breathing work with support."
+    "**Migraine**: nāḍīśodhana, bhrāmarī, śītalī, yoga nidrā, regular routine; **avoid inversions and kapālabhāti during an attack**. **Epilepsy**: avoid hyperventilating practices (kapālabhāti, bhastrikā). **Parkinson's and stroke**: gentle movement, balance and breathing work with support.",
+    "Migraine and tension headache: jala neti, śītalī/śītkārī, bhrāmarī, nāḍī-śodhana, relaxation and yoga nidrā; avoid inversions and strenuous kriyās during an attack.",
+    "Epilepsy: regular relaxation, nāḍī-śodhana and meditation; avoid hyperventilating practices (kapālabhāti, bhastrikā) and inversions.",
+    "Parkinsonism and post-stroke rehabilitation: sūkṣma vyāyāma (joint movements), simple standing balances, breathing practice and relaxation, adapted to ability."
    ],
    "sources": [
     "notes-yoga-therapy-by-disease"
    ],
    "traps": [
-    "**Kapālabhāti and bhastrikā are avoided in epilepsy**, because hyperventilation can trigger a seizure."
+    "**Kapālabhāti and bhastrikā are avoided in epilepsy**, because hyperventilation can trigger a seizure.",
+    "**Hyperventilation can trigger seizures**, so fast breathing practices are avoided in epilepsy."
    ]
   },
   "Kena Upanishad": {
@@ -2107,11 +2183,14 @@
    "facts": [
     "Teaching and learning are integrally related; teaching is a social act aimed at learning; the main objective is to bring desirable change in the learner and develop thinking.",
     "Higher education aims: knowledge creation, critical thinking, skills, values, national development, global competence.",
-    "**Bloom's three domains**: **cognitive** (knowledge), **affective** (attitudes, values — Krathwohl's levels: receiving, responding, valuing, organising, characterising) and **psychomotor** (skills, Simpson/Dave). **Teaching objectives** should be specific, observable and measurable."
+    "**Bloom's three domains**: **cognitive** (knowledge), **affective** (attitudes, values — Krathwohl's levels: receiving, responding, valuing, organising, characterising) and **psychomotor** (skills, Simpson/Dave). **Teaching objectives** should be specific, observable and measurable.",
+    "Bloom's taxonomy (1956): cognitive — knowledge, comprehension, application, analysis, synthesis, evaluation; revised (Anderson & Krathwohl, 2001): remember, understand, apply, analyse, evaluate, **create**.",
+    "Affective domain (Krathwohl, 1964): receiving, responding, valuing, organisation, characterisation. Psychomotor (Dave, 1970): imitation, manipulation, precision, articulation, naturalisation (Simpson's version has seven levels)."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
     "The **affective domain is Krathwohl's** taxonomy; the cognitive one is Bloom's (1956), revised by Anderson and Krathwohl (2001)."
@@ -2152,14 +2231,19 @@
   },
   "Steps of research": {
    "facts": [
-    "Order: identify the problem → review literature → formulate hypotheses/objectives → research design → sampling → data collection → analysis → interpretation → report writing."
+    "Order: identify the problem → review literature → formulate hypotheses/objectives → research design → sampling → data collection → analysis → interpretation → report writing.",
+    "**Sources of a research problem**: theory, previous research and its 'dark areas', the researcher's experience and classroom, social change, and consultation with experts.",
+    "**Criteria for choosing a problem**: interesting, new, significant, feasible (time, money, data access), within the researcher's competence, with guidance available.",
+    "**Delimitation** (formulating the problem): narrowing the topic and stating it precisely; the title should be brief and show the relation among the variables."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-research-aptitude-english"
    ],
    "traps": [
-    "**Literature review comes before the hypothesis**, and **sampling comes before data collection**. These are the usual sequencing traps."
+    "**Literature review comes before the hypothesis**, and **sampling comes before data collection**. These are the usual sequencing traps.",
+    "Too broad and too narrow a title are both classic errors; 'delimiting' is narrowing to a researchable scope, not reducing its significance."
    ]
   },
   "Research writing, publication and conferences": {
@@ -2198,15 +2282,19 @@
   "Syllogisms": {
    "facts": [
     "Standard form: two premises and a conclusion with three terms (major, minor, middle); the **middle term must be distributed at least once**; no term distributed in the conclusion unless distributed in a premise.",
-    "Two negative premises → no conclusion; a negative premise → negative conclusion; two particular premises → no conclusion. Venn diagrams test validity quickly."
+    "Two negative premises → no conclusion; a negative premise → negative conclusion; two particular premises → no conclusion. Venn diagrams test validity quickly.",
+    "Four categorical forms: **A** (All S are P), **E** (No S is P), **I** (Some S are P), **O** (Some S are not P). A and E are universal; I and O particular.",
+    "Valid moods include Barbara (AAA), Celarent (EAE), Darii (AII), Ferio (EIO). The middle term must be distributed at least once; no term may be distributed in the conclusion unless it is in a premise."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-reasoning-english"
    ],
    "traps": [
     "**'Some' does not exclude 'all'**: 'Some A are B' is compatible with 'All A are B'.",
-    "**Possibility questions**: a conclusion is possible if at least one valid Venn diagram allows it. Draw it, don't assume it."
+    "**Possibility questions**: a conclusion is possible if at least one valid Venn diagram allows it. Draw it, don't assume it.",
+    "Two particular premises (I, O) give **no valid conclusion**; two negative premises also give none."
    ]
   },
   "Analogy and types of argument": {
@@ -2244,25 +2332,33 @@
    "facts": [
     "Characteristics used in instructional design: **prior experience, aptitude, motivation, learning style**, cognitive level (e.g. visual literacy) — not family lineage or socio-economic background.",
     "Emotional intelligence: recognising one's own and others' emotions, managing them, using them in thinking (Goleman: self-awareness, self-regulation, motivation, empathy, social skills).",
-    "**Learning-style models**: **VARK** (visual, aural, read/write, kinaesthetic, Fleming); **Kolb** (diverging, assimilating, converging, accommodating, built on the experiential cycle: concrete experience → reflective observation → abstract conceptualisation → active experimentation); Honey and Mumford (activist, reflector, theorist, pragmatist)."
+    "**Learning-style models**: **VARK** (visual, aural, read/write, kinaesthetic, Fleming); **Kolb** (diverging, assimilating, converging, accommodating, built on the experiential cycle: concrete experience → reflective observation → abstract conceptualisation → active experimentation); Honey and Mumford (activist, reflector, theorist, pragmatist).",
+    "**Piaget's stages**: sensorimotor (0–2, object permanence), pre-operational (2–7, egocentrism), concrete operational (7–11, conservation, logic on concrete things), formal operational (11+, abstract reasoning).",
+    "**Erikson's eight stages** include trust vs mistrust (infancy), industry vs inferiority (school age), identity vs role confusion (adolescence) and intimacy vs isolation (young adulthood)."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
-    "**Adolescent learners** need autonomy and peer interaction. **Adult learners (Knowles' andragogy)** are self-directed, draw on experience and are problem-centred."
+    "**Adolescent learners** need autonomy and peer interaction. **Adult learners (Knowles' andragogy)** are self-directed, draw on experience and are problem-centred.",
+    "Logical operations begin at **concrete operational**, not sensorimotor; abstract reasoning only at **formal operational**."
    ]
   },
   "Teaching methods and support systems": {
    "facts": [
     "Teacher-centred: lecture, demonstration; learner-centred: discussion, project, problem-solving, case study, role play, flipped classroom, cooperative learning. Support systems: ICT, MOOCs, labs, libraries.",
     "**Programmed instruction**: **linear** (Skinner — small steps, immediate reinforcement) and **branching** (Crowder — different paths depending on the answer). **Keller Plan / PSI** = mastery-based, self-paced. **Microteaching**: Stanford University, **D. W. Allen (1963)**; a cycle of teach → feedback → re-plan → re-teach → re-feedback; about **36 minutes** in the Indian model (6-minute teach).",
-    "**Flipped classroom**: content is studied at home (videos), and class time is used for activities. **Cooperative learning** techniques: jigsaw, think-pair-share. **Team teaching**: several teachers plan and teach one group together."
+    "**Flipped classroom**: content is studied at home (videos), and class time is used for activities. **Cooperative learning** techniques: jigsaw, think-pair-share. **Team teaching**: several teachers plan and teach one group together.",
+    "Principles for teaching aids: the teacher must be trained in their use; aids are for learning, not decoration; involve students actively; keep them available and evaluate their effect.",
+    "Sequencing maxims: known to unknown, simple to complex, concrete to abstract, observation to reasoning, whole to part (and particular to general).",
+    "Edgar Dale's **Cone of Experience**: direct purposeful experience at the base, verbal symbols at the top; the more concrete, the longer retained."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
     "**Linear = Skinner; branching = Crowder.**",
@@ -2272,11 +2368,14 @@
   "Coding–decoding": {
    "facts": [
     "Find the shift letter by letter: FACE → HCEG is +2 each, so HIGH → **JKIJ**. Shifts may increase (+1, +2, +3…) or alternate (−1, +1…), or the word may be reversed first.",
-    "Letter positions: A=1…Z=26; EJOTY (5, 10, 15, 20, 25) helps count quickly."
+    "Letter positions: A=1…Z=26; EJOTY (5, 10, 15, 20, 25) helps count quickly.",
+    "Common codes: letter shift (+1, −1, +k), reverse alphabet (A↔Z: sum of positions = 27), position numbers (A = 1 … Z = 26), and word-for-word substitution.",
+    "Remember the EJOTY markers: E = 5, J = 10, O = 15, T = 20, Y = 25."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-reasoning-english"
    ],
    "traps": [
     "**Opposite letters** (A↔Z, B↔Y …) add up to **27**. Check for this first when a code looks random.",
@@ -2331,15 +2430,19 @@
   },
   "Blood relations": {
    "facts": [
-    "Draw a family tree: use + for male, − for female, horizontal lines for siblings and vertical for generations. Resolve phrases from the end (\"my father's only son\" = me)."
+    "Draw a family tree: use + for male, − for female, horizontal lines for siblings and vertical for generations. Resolve phrases from the end (\"my father's only son\" = me).",
+    "Draw a family tree: + for male, − for female, horizontal line for a married couple or siblings, vertical line for generations. Decode from the end of the statement backwards ('my father's only son' = I, if I am male).",
+    "Coded relations (A + B = A is the father of B, etc.): translate each symbol one link at a time and track gender separately."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-reasoning-english"
    ],
    "traps": [
     "**'The only son of my mother'** = the speaker himself, if male. **'My father's only daughter'** = the speaker herself, if female.",
-    "**Gender may not be given**: 'A is the sibling of B' doesn't tell you A's sex. Don't assume it."
+    "**Gender may not be given**: 'A is the sibling of B' doesn't tell you A's sex. Don't assume it.",
+    "A relation alone often does **not fix gender**: 'A is the sibling of B' does not tell you A's sex — check the 'cannot be determined' option."
    ]
   },
   "Regulators, accreditation and quality assurance": {
@@ -2375,14 +2478,19 @@
   },
   "Factors affecting teaching": {
    "facts": [
-    "Positive factors: teacher's subject knowledge, communication skill, instructional variety, class climate, learner motivation, support material. Effectiveness is judged by **students' learning outcomes**."
+    "Positive factors: teacher's subject knowledge, communication skill, instructional variety, class climate, learner motivation, support material. Effectiveness is judged by **students' learning outcomes**.",
+    "Teacher-related: physical and mental ability, teaching skills, mastery of methods, personality, motivation and commitment; plus classroom conditions and environment.",
+    "Teaching is organised in **planning** (task analysis, objectives), **organising**, **leading** and **controlling** phases; Jackson's three phases are **pre-active**, **inter-active** and **post-active**.",
+    "**Variables of teaching**: the **teacher** is the independent variable, the **student** the dependent variable, and the **curriculum/content** the intervening variable. Their functions: diagnosis, prescription and evaluation."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
-    "Factors fall into **teacher, learner, instructional resources, learning environment and institution**. A question asking for factors 'related to the learner' wants motivation, prior knowledge, aptitude and so on, not the teacher's skills."
+    "Factors fall into **teacher, learner, instructional resources, learning environment and institution**. A question asking for factors 'related to the learner' wants motivation, prior knowledge, aptitude and so on, not the teacher's skills.",
+    "**Teacher = independent**, **student = dependent**, curriculum = intervening variable."
    ]
   },
   "Data types, measurement and statistics": {
@@ -2404,24 +2512,32 @@
   "Research ethics": {
    "facts": [
     "Ethics matter at every stage, especially data collection, interpretation and reporting: informed consent, confidentiality, honest reporting, no plagiarism, fabrication or falsification.",
-    "**Landmark codes**: **Nuremberg Code (1947)** — voluntary consent; **Declaration of Helsinki (1964)** — medical research; **Belmont Report (1979)** — **respect for persons, beneficence, justice**. Research misconduct = **FFP: fabrication, falsification, plagiarism**."
+    "**Landmark codes**: **Nuremberg Code (1947)** — voluntary consent; **Declaration of Helsinki (1964)** — medical research; **Belmont Report (1979)** — **respect for persons, beneficence, justice**. Research misconduct = **FFP: fabrication, falsification, plagiarism**.",
+    "Core principles: informed consent, voluntary participation and the right to withdraw, no harm, confidentiality and anonymity, honest reporting, and acknowledgement of sources.",
+    "**Misconduct (FFP)**: fabrication (inventing data), falsification (manipulating data or results) and plagiarism; also duplicate publication, salami slicing, and gift or ghost authorship.",
+    "UGC (Promotion of Academic Integrity and Prevention of Plagiarism) Regulations, **2018**: similarity up to **10%** — level 0 (no penalty); 10–40% — level 1; 40–60% — level 2; above 60% — level 3."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-research-aptitude-english"
    ],
    "traps": [
-    "**Fabrication** = making up data; **falsification** = manipulating real data or results."
+    "**Fabrication** = making up data; **falsification** = manipulating real data or results.",
+    "**Plagiarism levels** start above 10%: up to 10% is level 0 and carries no penalty."
    ]
   },
   "Value education": {
    "facts": [
     "Values: truth, non-violence, peace, right conduct, love (Sathya Sai); constitutional values — justice, liberty, equality, fraternity.",
-    "**Preamble values**: **justice** (social, economic, political), **liberty** (of thought, expression, belief, faith, worship), **equality** (of status and opportunity), **fraternity** (dignity of the individual and unity and integrity of the nation). The **42nd Amendment (1976)** added 'socialist', 'secular' and 'integrity'."
+    "**Preamble values**: **justice** (social, economic, political), **liberty** (of thought, expression, belief, faith, worship), **equality** (of status and opportunity), **fraternity** (dignity of the individual and unity and integrity of the nation). The **42nd Amendment (1976)** added 'socialist', 'secular' and 'integrity'.",
+    "Values are taught best by example and lived practice (hidden curriculum), not by sermon; value education develops the whole person — personal, social, moral and spiritual values.",
+    "NEP 2020 names constitutional values, ethical reasoning, Indian knowledge traditions and service-learning among higher-education goals."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
     "**'Socialist' and 'secular' were added in 1976**, not in the original 1950 Preamble."
@@ -2429,14 +2545,17 @@
   },
   "Classification: odd one out": {
    "facts": [
-    "Look for the shared property (category, function, letter pattern, capital vs non-capital, natural vs man-made) and find the one that lacks it."
+    "Look for the shared property (category, function, letter pattern, capital vs non-capital, natural vs man-made) and find the one that lacks it.",
+    "Look for the common property of the majority: category (fruits, metals), letter pattern (vowels, positions, gaps), number property (prime, square, cube, divisibility) or relation within pairs."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-reasoning-english"
    ],
    "traps": [
-    "Look for **more than one** possible property. The intended answer is the one where **exactly one item differs**."
+    "Look for **more than one** possible property. The intended answer is the one where **exactly one item differs**.",
+    "Check **every** property: an apparent odd one out may share the main property and differ only in a superficial one."
    ]
   },
   "Climate change and international agreements": {
@@ -2457,11 +2576,15 @@
   "Sustainable development and global goals": {
    "facts": [
     "Brundtland Report (1987): development that meets present needs without compromising future generations. **17 SDGs, 169 targets**, Agenda 2030 (adopted 2015).",
-    "**SDG numbers often asked**: 1 no poverty; 2 zero hunger; 3 good health; **4 quality education**; 5 gender equality; **6 clean water**; **7 affordable clean energy**; 11 sustainable cities; **13 climate action**; 14 life below water; 15 life on land; 16 peace and justice; **17 partnerships**. They replaced the **8 MDGs (2000–2015)**. NITI Aayog publishes the **SDG India Index** (since 2018)."
+    "**SDG numbers often asked**: 1 no poverty; 2 zero hunger; 3 good health; **4 quality education**; 5 gender equality; **6 clean water**; **7 affordable clean energy**; 11 sustainable cities; **13 climate action**; 14 life below water; 15 life on land; 16 peace and justice; **17 partnerships**. They replaced the **8 MDGs (2000–2015)**. NITI Aayog publishes the **SDG India Index** (since 2018).",
+    "**Brundtland Report** (*Our Common Future*, 1987): development that meets present needs without compromising future generations' ability to meet theirs.",
+    "**17 SDGs, 169 targets**, adopted in 2015 for 2030 (Agenda 2030), succeeding the eight MDGs (2000–2015).",
+    "Climate milestones: UNFCCC (Rio, 1992), Kyoto Protocol (1997), Paris Agreement (COP21, 2015: keep warming well below 2 °C, aim for 1.5 °C)."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
     "**17 goals, 169 targets, deadline 2030.** The MDGs had 8 goals and ran to 2015."
@@ -2486,50 +2609,67 @@
    "facts": [
     "**Memory** level (Herbart), **understanding** level (Morrison), **reflective** level (Hunt) — the highest, problem-centred.",
     "Vygotsky's **zone of proximal development**: the gap between what a learner can do alone and with guidance.",
-    "**Morrison's understanding-level steps**: exploration → presentation → assimilation → organisation → recitation. The **reflective level** (Hunt, with Bigge) is problem-centred and builds critical thinking; its teaching is democratic and learner-centred."
+    "**Morrison's understanding-level steps**: exploration → presentation → assimilation → organisation → recitation. The **reflective level** (Hunt, with Bigge) is problem-centred and builds critical thinking; its teaching is democratic and learner-centred.",
+    "Memory level — **Herbart** (five steps: preparation, presentation, comparison/association, generalisation, application); understanding level — **Morrison** (exploration, presentation, assimilation, organisation, recitation: the 'mastery' plan); reflective level — **Hunt** (problem-centred, the highest).",
+    "Memory level is teacher-centred; understanding level teacher- and student-active; reflective level student-centred."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
-    "**Memory – Herbart; understanding – Morrison; reflective – Hunt.** The order of levels is memory → understanding → reflective."
+    "**Memory – Herbart; understanding – Morrison; reflective – Hunt.** The order of levels is memory → understanding → reflective.",
+    "**Herbart – memory, Morrison – understanding, Hunt – reflective.**"
    ]
   },
   "Hypotheses, variables and testing": {
    "facts": [
     "Independent variable is manipulated; **dependent variable** measures its effect. If the null hypothesis is rejected, the research hypothesis is accepted. Type I error = rejecting a true null; Type II = accepting a false null.",
     "**Errors**: **Type I (α)** — rejecting a true null hypothesis; **Type II (β)** — failing to reject a false null. The **level of significance** is usually **0.05 or 0.01**. A **directional** hypothesis needs a **one-tailed** test; a non-directional one needs a two-tailed test.",
-    "**Variables**: independent, dependent, **intervening** (hypothetical, explains the link), **moderator** (changes the strength of the link), **extraneous or confounding** (to be controlled)."
+    "**Variables**: independent, dependent, **intervening** (hypothetical, explains the link), **moderator** (changes the strength of the link), **extraneous or confounding** (to be controlled).",
+    "**Type I error** = rejecting a true null hypothesis (α, the level of significance); **Type II error** = accepting a false null (β). Power = 1 − β.",
+    "Parametric tests (t, z, ANOVA, Pearson's r) assume normality and interval/ratio data; non-parametric tests (chi-square, Mann–Whitney U, Spearman's rho, sign test) do not."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-research-aptitude-english"
    ],
    "traps": [
     "**Type I = false positive (α); Type II = false negative (β).** Power = 1 − β.",
-    "**The null hypothesis states no difference or no relationship.** We 'reject' or 'fail to reject' it, but never 'prove' it."
+    "**The null hypothesis states no difference or no relationship.** We 'reject' or 'fail to reject' it, but never 'prove' it.",
+    "Lowering α (0.05 → 0.01) makes Type I errors rarer but **Type II errors more likely**."
    ]
   },
   "Types and channels of communication": {
    "facts": [
-    "Types: verbal (oral, written), non-verbal; intrapersonal, interpersonal, group, mass; formal and informal (grapevine); upward, downward, horizontal."
+    "Types: verbal (oral, written), non-verbal; intrapersonal, interpersonal, group, mass; formal and informal (grapevine); upward, downward, horizontal.",
+    "Models: **Aristotle** (speaker–speech–audience); **Lasswell** (1948: who says what, in which channel, to whom, with what effect); **Shannon–Weaver** (1949, linear, adds noise); **Osgood–Schramm** (circular, field of experience); **Berlo's SMCR** (source, message, channel, receiver).",
+    "Non-verbal channels: kinesics (body movement), proxemics (space), haptics (touch), chronemics (time), oculesics (eye contact), paralanguage (tone, pitch) and artefacts (dress).",
+    "Levels: intrapersonal (within oneself), interpersonal (two people), group, public (one speaker to many, e.g. an announcement), mass (through media), and transpersonal (with the spiritual)."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
-    "**Grapevine = informal** communication; **downward = superior → subordinate**; **horizontal (lateral) = between peers**."
+    "**Grapevine = informal** communication; **downward = superior → subordinate**; **horizontal (lateral) = between peers**.",
+    "**Lasswell's formula has no 'noise'** — that came with Shannon–Weaver. **Feedback** makes a model circular (Osgood–Schramm)."
    ]
   },
   "Barriers to communication": {
    "facts": [
-    "Physical (distance, noise), semantic, psychological (moralising, judging, criticising), cultural and technical barriers."
+    "Physical (distance, noise), semantic, psychological (moralising, judging, criticising), cultural and technical barriers.",
+    "**Noise** in the Shannon–Weaver model is anything that distorts the message between sender and receiver: physical (sound, distance), semantic (word meanings), psychological (attitudes, prejudice, inattention), physiological (hearing, fatigue), cultural and organisational (hierarchy, too many levels).",
+    "Ways round them: simple language, feedback, empathy, using more than one channel, and a suitable setting.",
+    "**Selective perception, exposure and retention**: receivers notice, accept and remember messages that fit their existing attitudes — a key psychological barrier in mass communication."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
     "**Semantic barriers** = the meaning of words or symbols (jargon, ambiguity). **Psychological barriers** = attitudes and emotions. **Physical barriers** = noise and distance."
@@ -2538,11 +2678,14 @@
   "Communication technology and new media": {
    "facts": [
     "CALL — computer-assisted language learning (communicative CALL); social media have created a networked society.",
-    "**Marshall McLuhan**: 'the **medium is the message**' and the '**global village**' (1960s). New media are digital, interactive, networked and convergent. **Web 1.0** was read-only; **Web 2.0** is read–write and social; Web 3.0 is the semantic or decentralised web."
+    "**Marshall McLuhan**: 'the **medium is the message**' and the '**global village**' (1960s). New media are digital, interactive, networked and convergent. **Web 1.0** was read-only; **Web 2.0** is read–write and social; Web 3.0 is the semantic or decentralised web.",
+    "New media are digital, interactive, networked and many-to-many; the audience becomes a participant (user-generated content). Analogue mass media audiences are large, heterogeneous and anonymous.",
+    "**Yellow journalism** — sensationalism to attract readers (Pulitzer vs Hearst, 1890s); **agenda setting** (McCombs and Shaw) — media tell us what to think about."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
     "'Global village' and 'medium is the message' are both **McLuhan's** phrases, not Lasswell's or Schramm's."
@@ -2550,24 +2693,31 @@
   },
   "Directions and distances": {
    "facts": [
-    "Draw it; use Pythagoras for the shortest distance (e.g. 30 m and 40 m at right angles → 50 m). Right turn from north = east."
+    "Draw it; use Pythagoras for the shortest distance (e.g. 30 m and 40 m at right angles → 50 m). Right turn from north = east.",
+    "Turns: right turn from north = east, left turn from north = west; a 45° turn lands between two directions (north-east etc.). Shadows: in the morning the shadow falls to the **west**, in the evening to the **east**.",
+    "Shortest distance after two perpendicular legs: √(a² + b²) — Pythagoras (3-4-5, 5-12-13, 6-8-10 triples)."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-reasoning-english"
    ],
    "traps": [
     "**Shadows**: in the morning the sun is in the east, so shadows fall to the **west**; in the evening they fall to the **east**.",
-    "**Turns**: a right turn = 90° clockwise; facing north, turning right → east, and turning left → west."
+    "**Turns**: a right turn = 90° clockwise; facing north, turning right → east, and turning left → west.",
+    "At noon there is (almost) **no shadow**; morning shadows point west because the sun rises in the east."
    ]
   },
   "Venn diagrams": {
    "facts": [
-    "Draw overlapping circles for the classes; count each region once, using n(A∪B) = n(A) + n(B) − n(A∩B)."
+    "Draw overlapping circles for the classes; count each region once, using n(A∪B) = n(A) + n(B) − n(A∩B).",
+    "Two sets: n(A ∪ B) = n(A) + n(B) − n(A ∩ B). Three sets: n(A ∪ B ∪ C) = sum of singles − sum of pairs + n(A ∩ B ∩ C).",
+    "Classification patterns: one class wholly inside another (dogs, animals), overlapping classes (teachers, women), and disjoint classes (pens, chairs)."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-reasoning-english"
    ],
    "traps": [
     "**Three sets**: n(A∪B∪C) = A + B + C − (A∩B) − (B∩C) − (A∩C) + (A∩B∩C). Don't forget to add the triple overlap back."
@@ -2576,14 +2726,18 @@
   "Environment and human health": {
    "facts": [
     "Antimicrobial resistance (e.g. in Salmonella) is a major health threat; life-cycle analysis assesses a product's environmental impact from raw material to disposal.",
-    "**Disease by route**: **water-borne** — cholera, typhoid, hepatitis A/E, diarrhoea; **vector-borne** — malaria (Anopheles), **dengue and chikungunya (Aedes)**, filariasis (Culex), kala-azar (sandfly); **air-borne** — tuberculosis, influenza."
+    "**Disease by route**: **water-borne** — cholera, typhoid, hepatitis A/E, diarrhoea; **vector-borne** — malaria (Anopheles), **dengue and chikungunya (Aedes)**, filariasis (Culex), kala-azar (sandfly); **air-borne** — tuberculosis, influenza.",
+    "Air: PM2.5 and PM10 (respiratory and heart disease); the National Air Quality Index has **six categories** and **eight pollutants** (PM10, PM2.5, NO₂, SO₂, CO, O₃, NH₃, Pb).",
+    "Water: arsenic (arsenicosis), fluoride (fluorosis), nitrates (blue-baby syndrome); mercury — Minamata disease; cadmium — itai-itai disease."
    ],
    "sources": [
     "paper1-hindi-reference-book",
-    "ugc-net-paper1-syllabus-00"
+    "ugc-net-paper1-syllabus-00",
+    "notes-teaching-aptitude-english"
    ],
    "traps": [
-    "**Dengue is vector-borne (Aedes)**, not water-borne, even though the mosquitoes breed in stored water."
+    "**Dengue is vector-borne (Aedes)**, not water-borne, even though the mosquitoes breed in stored water.",
+    "**Minamata = mercury**, **itai-itai = cadmium**, **blue baby = nitrates**."
    ]
   }
  },

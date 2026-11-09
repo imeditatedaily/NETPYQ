@@ -1022,5 +1022,53 @@
     "licence": "Kept out of the public repository.",
     "where": "Shared with you on Google Drive, folder \"My book's\" → \"UGC NET paper 1 book's\": Hindi Paper 1 Reference book 1.pdf (93 MB, a scan with no text layer).",
     "note": ""
+  },
+  {
+    "id": "notes-teaching-aptitude-english",
+    "title": "Teaching Aptitude: study notes (English)",
+    "author": "Coaching notes",
+    "year": "",
+    "kind": "notes",
+    "units": ["Paper 1 Unit 1: Teaching Aptitude"],
+    "file": null,
+    "licence": "Coaching notes; kept out of the public repository.",
+    "where": "Your Google Drive: 10. Teaching Aptitude-English(Pdf).pdf.",
+    "note": "Concept, levels, variables and phases of teaching; factors affecting teaching; teaching aids; evaluation."
+  },
+  {
+    "id": "notes-research-aptitude-english",
+    "title": "Research Aptitude: study notes (English)",
+    "author": "Coaching notes",
+    "year": "",
+    "kind": "notes",
+    "units": ["Paper 1 Unit 2: Research Aptitude"],
+    "file": null,
+    "licence": "Coaching notes; kept out of the public repository.",
+    "where": "Your Google Drive: 13. Research Aptitude-English(Pdf).pdf, with 15. Research Questions (English)(Pdf).pdf.",
+    "note": "Characteristics, types and steps of research; hypotheses; sampling; research ethics."
+  },
+  {
+    "id": "notes-reasoning-english",
+    "title": "Mathematical and Logical Reasoning: study notes (English)",
+    "author": "Coaching notes",
+    "year": "",
+    "kind": "notes",
+    "units": ["Paper 1 Unit 5: Mathematical Reasoning and Aptitude", "Paper 1 Unit 6: Logical Reasoning"],
+    "file": null,
+    "licence": "Coaching notes; kept out of the public repository.",
+    "where": "Your Google Drive: 43. MATHEMATICAL REASONING ENGLISH(Pdf).pdf.",
+    "note": "Series, coding–decoding, blood relations, directions, classification, Venn diagrams."
+  },
+  {
+    "id": "notes-yoga-mcq-sets",
+    "title": "Yoga MCQ sets by text (Hindi)",
+    "author": "Coaching notes",
+    "year": "2024",
+    "kind": "notes",
+    "units": ["Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha", "Yoga Unit 3: Yoga Texts II: Yoga Upanishads", "Yoga Unit 4: Patanjala Yoga Sutra", "Yoga Unit 5: Hatha Yoga Texts", "Yoga Unit 6: Allied Sciences: Psychology, Human Biology, Diet and Nutrition", "Yoga Unit 7: Yoga and Health"],
+    "file": null,
+    "licence": "Coaching notes; kept out of the public repository.",
+    "where": "Your Google Drive: the MCQ PDFs for Hatha Pradipika, Gheranda Samhita, Siddha Siddhanta Paddhati, Goraksha Samhita, Yoga Bija, Vasishtha Samhita, the Yoga Sutra padas, Unit 7 and Nutrition, and the Upanishad quiz sheets.",
+    "note": "Text-by-text question sets; their keys were checked against the texts before use, and several were wrong."
   }
 ]
