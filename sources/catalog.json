@@ -1070,5 +1070,17 @@
     "licence": "Coaching notes; kept out of the public repository.",
     "where": "Your Google Drive: the MCQ PDFs for Hatha Pradipika, Gheranda Samhita, Siddha Siddhanta Paddhati, Goraksha Samhita, Yoga Bija, Vasishtha Samhita, the Yoga Sutra padas, Unit 7 and Nutrition, and the Upanishad quiz sheets.",
     "note": "Text-by-text question sets; their keys were checked against the texts before use, and several were wrong."
+  },
+  {
+    "id": "notes-upanishad-unit3-hindi",
+    "title": "Unit 3 Upaniṣads: handwritten study notes (Hindi)",
+    "author": "Handwritten notes",
+    "year": "2023",
+    "kind": "notes",
+    "units": ["Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha", "Yoga Unit 3: Yoga Texts II: Yoga Upanishads"],
+    "file": null,
+    "licence": "Personal notes; kept out of the public repository.",
+    "where": "Your Google Drive: unit-3 upanishad.pdf (scanned handwritten notes), with UPANISHAD UNIT 3.md.",
+    "note": "Text-by-text notes on Śvetāśvatara, Yogakuṇḍalī, Yogatattva, Yogacūḍāmaṇi, Nādabindu, Dhyānabindu, Triśikhibrāhmaṇa and Yogarāja. The .md version is machine-translated and garbles names: check against the texts."
   }
 ]
