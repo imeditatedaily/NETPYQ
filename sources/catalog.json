@@ -1082,5 +1082,101 @@
     "licence": "Personal notes; kept out of the public repository.",
     "where": "Your Google Drive: unit-3 upanishad.pdf (scanned handwritten notes), with UPANISHAD UNIT 3.md.",
     "note": "Text-by-text notes on Śvetāśvatara, Yogakuṇḍalī, Yogatattva, Yogacūḍāmaṇi, Nādabindu, Dhyānabindu, Triśikhibrāhmaṇa and Yogarāja. The .md version is machine-translated and garbles names: check against the texts."
+  },
+  {
+    "id": "ayyangar-1938-yoga-upanisads",
+    "title": "The Yoga Upaniṣads (translated into English)",
+    "author": "T. R. Srinivasa Ayyangar (tr.), G. Srinivasa Murti (ed.)",
+    "year": "1938",
+    "kind": "primary",
+    "units": ["Yoga Unit 3: Yoga Texts II: Yoga Upanishads"],
+    "file": null,
+    "licence": "Copyright status unclear; read it on the Internet Archive rather than redistributing it.",
+    "where": "Internet Archive: archive.org/details/the-yoga-upanisads (Adyar Library, Madras).",
+    "note": "English translation of all twenty Yoga Upaniṣads of the Muktikā canon, including the Triśikhibrāhmaṇa, Yogacūḍāmaṇi, Yogatattva, Nādabindu and Dhyānabindu."
+  },
+  {
+    "id": "moe-2020-nep",
+    "title": "National Education Policy 2020",
+    "author": "Ministry of Human Resource Development (now Ministry of Education), Government of India",
+    "year": "2020",
+    "kind": "study",
+    "units": ["Paper 1 Unit 10: Higher Education System"],
+    "file": null,
+    "licence": "Government of India publication, free to read and download from the official site.",
+    "where": "education.gov.in (NEP_Final_English_0.pdf).",
+    "note": "The policy text: 5+3+3+4, GER 50% by 2035, HECI and its four verticals, NRF, PARAKH, NETF, IITI, SSSA and the four National Curriculum Frameworks."
+  },
+  {
+    "id": "un-2015-agenda-2030",
+    "title": "Transforming our world: the 2030 Agenda for Sustainable Development (A/RES/70/1)",
+    "author": "United Nations General Assembly",
+    "year": "2015",
+    "kind": "study",
+    "units": ["Paper 1 Unit 9: People, Development and Environment"],
+    "file": null,
+    "licence": "UN document, free to read.",
+    "where": "sdgs.un.org (Goals and targets pages, e.g. sdgs.un.org/goals/goal12).",
+    "note": "The 17 Sustainable Development Goals and 169 targets; target 12.3 halves per-capita food waste by 2030."
+  },
+  {
+    "id": "unfccc-2012-doha-amendment",
+    "title": "Doha Amendment to the Kyoto Protocol",
+    "author": "UNFCCC (CMP 8, Doha)",
+    "year": "2012",
+    "kind": "study",
+    "units": ["Paper 1 Unit 9: People, Development and Environment"],
+    "file": null,
+    "licence": "UN treaty text, free to read.",
+    "where": "unfccc.int (kp_doha_amendment_english.pdf).",
+    "note": "Second commitment period 2013–2020: Annex B parties to cut emissions by at least 18% below 1990 levels; in force 31 December 2020."
+  },
+  {
+    "id": "india-2022-updated-ndc",
+    "title": "India's Updated First Nationally Determined Contribution under the Paris Agreement (2021–2030)",
+    "author": "Government of India",
+    "year": "2022",
+    "kind": "study",
+    "units": ["Paper 1 Unit 9: People, Development and Environment"],
+    "file": null,
+    "licence": "Government document, free to read.",
+    "where": "UNFCCC NDC registry (unfccc.int); Cabinet approval in the PIB release of 3 August 2022.",
+    "note": "45% lower emissions intensity of GDP by 2030 (2005 base); about 50% of installed electric capacity from non-fossil sources by 2030; LiFE; net zero by 2070 referred to."
+  },
+  {
+    "id": "mnre-small-hydro",
+    "title": "Small Hydro Power: overview",
+    "author": "Ministry of New and Renewable Energy, Government of India",
+    "year": "",
+    "kind": "study",
+    "units": ["Paper 1 Unit 9: People, Development and Environment"],
+    "file": null,
+    "licence": "Official web page, free to read.",
+    "where": "mnre.gov.in/small-hydro-overview",
+    "note": "Small hydro = up to 25 MW; potential 21,133 MW at 7,133 sites (IIT Roorkee assessment, 2016)."
+  },
+  {
+    "id": "borich-effective-teaching-methods",
+    "title": "Effective Teaching Methods: Research-Based Practice",
+    "author": "Gary D. Borich",
+    "year": "",
+    "kind": "study",
+    "units": ["Paper 1 Unit 1: Teaching Aptitude"],
+    "file": null,
+    "licence": "Copyrighted textbook (Pearson); not in this repository.",
+    "where": "Pearson (several editions; 9th edition 2017).",
+    "note": "Source of the five key and five helping behaviours of effective teaching."
+  },
+  {
+    "id": "schwartz-2012-basic-values",
+    "title": "An Overview of the Schwartz Theory of Basic Values",
+    "author": "Shalom H. Schwartz",
+    "year": "2012",
+    "kind": "paper",
+    "units": ["Paper 1 Unit 10: Higher Education System"],
+    "file": null,
+    "licence": "Open access (Online Readings in Psychology and Culture).",
+    "where": "Online Readings in Psychology and Culture 2(1), doi:10.9707/2307-0919.1116",
+    "note": "Ten basic values in four higher-order groups: self-transcendence, self-enhancement, openness to change and conservation."
   }
 ]
