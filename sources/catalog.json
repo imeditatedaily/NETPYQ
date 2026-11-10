@@ -1334,5 +1334,17 @@
     "licence": "Gayatri Pariwar publication; read it at awgp.org or on the Internet Archive rather than redistributing it.",
     "where": "Your Google Drive, folder \"notes UGC\": 108 उपनिषद ज्ञानखण्ड.pdf; also on the Internet Archive.",
     "note": "Sanskrit text with Hindi meaning; holds the principal Upaniṣads."
+  },
+  {
+    "id": "satavalekar-mahabharata-shanti-parva",
+    "title": "Mahābhārata, Śānti Parva (Mokṣadharma): Sanskrit text with Hindi translation",
+    "author": "Shripad Damodar Satavalekar (ed.)",
+    "year": "1929",
+    "kind": "primary",
+    "units": ["Yoga Unit 1: Fundamentals of Yoga"],
+    "file": null,
+    "licence": "Public domain.",
+    "where": "Internet Archive: search \"Mahabharata Shanti Parva Mokshadharma Satavalekar\" (Svadhyaya Mandal, Aundh).",
+    "note": "Used to check the Mokṣadharma verses in Sanskrit. Chapter numbers follow the Vulgate, not the Critical Edition."
   }
 ]
