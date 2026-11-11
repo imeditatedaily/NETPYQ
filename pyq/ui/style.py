@@ -91,6 +91,7 @@ h2, h3 { color: var(--g2) !important; }
 /* Sanskrit Texts: the lines are set larger than body copy so conjuncts stay readable. */
 .st-key-tx-lines p { font-size: 1.14rem; line-height: 1.95; }
 .st-key-tx-lines p strong { font-size: .85rem; color: var(--g1, #1d4433); letter-spacing: .02em; }
+.st-key-tx-lines [data-testid="stCaptionContainer"] p { font-size: .82rem; line-height: 1.5; }
 
 /* Trend Insight: the one amber box on the page (keyed containers get a st-key-* class). */
 [class*="st-key-trend-"] {

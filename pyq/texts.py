@@ -55,6 +55,14 @@ class SanskritText:
 
 
 @dataclass(frozen=True, slots=True)
+class Asked:
+    """A previous-year question asked from a line: "quoted" when the question quotes it,
+    "source" when the line is where the answer comes from."""
+    question_id: str
+    how: str
+
+
+@dataclass(frozen=True, slots=True)
 class Hit:
     text: SanskritText
     line: TextLine
@@ -188,6 +196,16 @@ def _load_one(path: Path) -> tuple[SanskritText | None, list[str]]:
     return SanskritText(d["id"], d["title"], d["title_sa"], d["subject"], int(d["unit"]), str(d.get("about") or ""),
                         tuple(d.get("divisions") or ()), tuple(d.get("topics") or ()), tuple(d.get("sources") or ()),
                         tuple(lines)), problems
+
+
+def load_asked(path: Path) -> dict[str, dict[str, tuple[Asked, ...]]]:
+    """data/pyq_lines.json, written by tools/link_pyq_lines.py: text id → ref → the questions asked from that line."""
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return {t: {ref: tuple(Asked(str(q), str(how)) for q, how in qs) for ref, qs in refs.items()}
+            for t, refs in raw.items() if isinstance(refs, dict)}
 
 
 def load_texts(folder: Path) -> TextLibrary:

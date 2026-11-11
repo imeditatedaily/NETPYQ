@@ -1,0 +1,4444 @@
+{
+ "aitareya-upanishad": {
+  "1.1.4": [
+   [
+    "YOGA-2023DEC-P2-Q057",
+    "source"
+   ]
+  ],
+  "1.2.4": [
+   [
+    "YOGA-2017JAN-P3-Q64",
+    "source"
+   ]
+  ]
+ },
+ "bhagavad-gita": {
+  "2.16": [
+   [
+    "YOGA-2019JUN-P2-Q27",
+    "quoted"
+   ]
+  ],
+  "2.19": [
+   [
+    "YOGA-2018DEC-P2-Q45",
+    "quoted"
+   ]
+  ],
+  "2.20": [
+   [
+    "YOGA-2019DEC-P2-Q103",
+    "quoted"
+   ]
+  ],
+  "2.48": [
+   [
+    "YOGA-2017NOV-P2-Q01",
+    "quoted"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q78",
+    "quoted"
+   ]
+  ],
+  "2.50": [
+   [
+    "YOGA-2017NOV-P2-Q01",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q01",
+    "quoted"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q78",
+    "quoted"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q052",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q136",
+    "source"
+   ]
+  ],
+  "2.52": [
+   [
+    "YOGA-2022DEC-P2-Q86",
+    "source"
+   ]
+  ],
+  "2.56": [
+   [
+    "YOGA-2023JUN-P2-Q87",
+    "source"
+   ]
+  ],
+  "2.58": [
+   [
+    "YOGA-2021JUN-P2-S06",
+    "source"
+   ]
+  ],
+  "2.60": [
+   [
+    "YOGA-2023JUN-P2-Q74",
+    "source"
+   ]
+  ],
+  "2.62": [
+   [
+    "YOGA-2017JAN-P2-Q38",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q77",
+    "source"
+   ]
+  ],
+  "2.63": [
+   [
+    "YOGA-2017JAN-P2-Q38",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S17",
+    "source"
+   ]
+  ],
+  "2.68": [
+   [
+    "YOGA-2021JUN-P2-S06",
+    "source"
+   ]
+  ],
+  "3.3": [
+   [
+    "YOGA-2018JUL-P2-Q62",
+    "source"
+   ]
+  ],
+  "3.14": [
+   [
+    "YOGA-2024DEC-P2-Q093",
+    "source"
+   ]
+  ],
+  "3.21": [
+   [
+    "YOGA-2022DEC-P2-Q68",
+    "quoted"
+   ]
+  ],
+  "3.30": [
+   [
+    "YOGA-2022DEC-P2-Q43",
+    "source"
+   ]
+  ],
+  "4.1": [
+   [
+    "YOGA-2022DEC-P2-Q78",
+    "source"
+   ]
+  ],
+  "6.11": [
+   [
+    "YOGA-2019JUN-P2-Q12",
+    "source"
+   ]
+  ],
+  "6.17": [
+   [
+    "YOGA-2018JUL-P2-Q07",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q106",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S29",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q091",
+    "quoted"
+   ]
+  ],
+  "6.23": [
+   [
+    "YOGA-2018JUL-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q125",
+    "source"
+   ]
+  ],
+  "6.35": [
+   [
+    "YOGA-2019DEC-P2-Q060",
+    "source"
+   ]
+  ],
+  "6.46": [
+   [
+    "YOGA-2022JUN-P2-Q094",
+    "source"
+   ]
+  ],
+  "7.16": [
+   [
+    "YOGA-2018JUL-P2-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q060",
+    "source"
+   ]
+  ],
+  "7.17": [
+   [
+    "YOGA-2024JUN-P2-Q060",
+    "source"
+   ]
+  ],
+  "12.12": [
+   [
+    "YOGA-2019JUN-P2-Q03",
+    "source"
+   ]
+  ],
+  "12.13": [
+   [
+    "YOGA-2018DEC-P2-Q67",
+    "source"
+   ]
+  ],
+  "14.6": [
+   [
+    "YOGA-2017JAN-P3-Q17",
+    "source"
+   ]
+  ],
+  "14.7": [
+   [
+    "YOGA-2022DEC-P2-Q27",
+    "source"
+   ]
+  ],
+  "14.16": [
+   [
+    "YOGA-2024DEC-P2-Q126",
+    "quoted"
+   ]
+  ],
+  "14.17": [
+   [
+    "YOGA-2019JUN-P2-Q42",
+    "source"
+   ]
+  ],
+  "14.18": [
+   [
+    "YOGA-2024DEC-P2-Q126",
+    "quoted"
+   ]
+  ],
+  "14.19": [
+   [
+    "YOGA-2024DEC-P2-Q126",
+    "quoted"
+   ]
+  ],
+  "16.2": [
+   [
+    "YOGA-2024JUN-P2-Q061",
+    "source"
+   ]
+  ],
+  "16.3": [
+   [
+    "YOGA-2024JUN-P2-Q061",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q087",
+    "source"
+   ]
+  ],
+  "16.4": [
+   [
+    "YOGA-2024JUN-P2-Q061",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q107",
+    "source"
+   ]
+  ],
+  "16.21": [
+   [
+    "YOGA-2024JUN-P2-Q137",
+    "source"
+   ]
+  ],
+  "17.4": [
+   [
+    "YOGA-2019DEC-P2-Q136",
+    "source"
+   ]
+  ],
+  "17.8": [
+   [
+    "YOGA-2017NOV-P3-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q42",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S46",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q095",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q094",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q075",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q126",
+    "source"
+   ]
+  ],
+  "17.9": [
+   [
+    "YOGA-2018JUL-P2-Q66",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q136",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q094",
+    "source"
+   ]
+  ],
+  "17.10": [
+   [
+    "YOGA-2024DEC-P2-Q106",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q117",
+    "source"
+   ]
+  ],
+  "17.18": [
+   [
+    "YOGA-2025JUN-P2-Q081",
+    "source"
+   ]
+  ],
+  "18.13": [
+   [
+    "YOGA-2019JUN-P2-Q70",
+    "source"
+   ]
+  ],
+  "18.14": [
+   [
+    "YOGA-2019JUN-P2-Q70",
+    "source"
+   ]
+  ],
+  "18.30": [
+   [
+    "YOGA-2023DEC-P2-Q118",
+    "quoted"
+   ]
+  ],
+  "18.35": [
+   [
+    "YOGA-2023DEC-P2-Q118",
+    "quoted"
+   ]
+  ],
+  "18.36": [
+   [
+    "YOGA-2023DEC-P2-Q118",
+    "quoted"
+   ]
+  ],
+  "18.39": [
+   [
+    "YOGA-2023JUN-P2-Q34",
+    "source"
+   ]
+  ],
+  "18.43": [
+   [
+    "YOGA-2024DEC-P2-Q107",
+    "source"
+   ]
+  ],
+  "18.54": [
+   [
+    "YOGA-2023DEC-P2-Q058",
+    "quoted"
+   ]
+  ]
+ },
+ "brihadaranyaka-upanishad": {
+  "1.2.3": [
+   [
+    "YOGA-2025JUN-P2-Q056",
+    "source"
+   ]
+  ],
+  "1.5.15": [
+   [
+    "YOGA-2024DEC-P2-Q057",
+    "source"
+   ]
+  ],
+  "2.4.5": [
+   [
+    "YOGA-2024JUN-P2-Q051",
+    "source"
+   ]
+  ],
+  "5.15.1": [
+   [
+    "YOGA-2022JUN-P2-Q107",
+    "quoted"
+   ]
+  ]
+ },
+ "chandogya-upanishad": {
+  "1.1.5": [
+   [
+    "YOGA-2025JUN-P2-Q147",
+    "source"
+   ]
+  ],
+  "1.1.7": [
+   [
+    "YOGA-2025JUN-P2-Q149",
+    "source"
+   ]
+  ],
+  "1.2.2": [
+   [
+    "YOGA-2024DEC-P2-Q094",
+    "source"
+   ]
+  ],
+  "1.2.3": [
+   [
+    "YOGA-2024DEC-P2-Q094",
+    "source"
+   ]
+  ],
+  "1.2.5": [
+   [
+    "YOGA-2024DEC-P2-Q094",
+    "source"
+   ]
+  ],
+  "1.2.6": [
+   [
+    "YOGA-2024DEC-P2-Q094",
+    "source"
+   ]
+  ],
+  "1.2.10": [
+   [
+    "YOGA-2022DEC-P2-Q42",
+    "source"
+   ]
+  ],
+  "1.2.11": [
+   [
+    "YOGA-2022DEC-P2-Q42",
+    "source"
+   ]
+  ],
+  "1.2.12": [
+   [
+    "YOGA-2022DEC-P2-Q42",
+    "source"
+   ]
+  ],
+  "1.3.1": [
+   [
+    "YOGA-2020JUN-P2-Q058",
+    "source"
+   ]
+  ],
+  "1.3.3": [
+   [
+    "YOGA-2023JUN-P2-Q30",
+    "source"
+   ]
+  ],
+  "2.10.3": [
+   [
+    "YOGA-2022JUN-P2-Q058",
+    "source"
+   ]
+  ],
+  "3.14.1": [
+   [
+    "YOGA-2017JAN-P2-Q05",
+    "source"
+   ]
+  ],
+  "3.14.4": [
+   [
+    "YOGA-2017JAN-P2-Q05",
+    "source"
+   ]
+  ],
+  "8.6.6": [
+   [
+    "YOGA-2017NOV-P2-Q04",
+    "source"
+   ]
+  ]
+ },
+ "darshana-upanishad": {
+  "1.15": [
+   [
+    "YOGA-2024JUN-P2-Q148",
+    "quoted"
+   ]
+  ]
+ },
+ "dhyanabindu-upanishad": {
+  "1": [
+   [
+    "YOGA-2025JUN-P2-Q069",
+    "source"
+   ]
+  ],
+  "53": [
+   [
+    "YOGA-2022DEC-P2-Q11",
+    "quoted"
+   ]
+  ]
+ },
+ "gheranda-samhita": {
+  "1.7": [
+   [
+    "YOGA-2024DEC-P2-Q068",
+    "quoted"
+   ]
+  ],
+  "1.10": [
+   [
+    "YOGA-2017JAN-P3-Q68",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q37",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q80",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q089",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S62",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q068",
+    "source"
+   ]
+  ],
+  "1.11": [
+   [
+    "YOGA-2017JAN-P3-Q68",
+    "quoted"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q37",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q80",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S62",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q068",
+    "source"
+   ]
+  ],
+  "1.13": [
+   [
+    "YOGA-2017NOV-P3-Q33",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q10",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q064",
+    "source"
+   ]
+  ],
+  "1.14": [
+   [
+    "YOGA-2019JUN-P2-Q07",
+    "source"
+   ]
+  ],
+  "1.20": [
+   [
+    "YOGA-2024JUN-P2-Q087",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q127",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q102",
+    "source"
+   ]
+  ],
+  "1.26": [
+   [
+    "YOGA-2018DEC-P2-Q10",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q20",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q090",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q087",
+    "source"
+   ]
+  ],
+  "1.27": [
+   [
+    "YOGA-2019JUN-P2-Q21",
+    "source"
+   ]
+  ],
+  "1.36": [
+   [
+    "YOGA-2025JUN-P2-Q053",
+    "source"
+   ]
+  ],
+  "1.38": [
+   [
+    "YOGA-2025JUN-P2-Q053",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q058",
+    "source"
+   ]
+  ],
+  "1.39": [
+   [
+    "YOGA-2025JUN-P2-Q053",
+    "source"
+   ]
+  ],
+  "1.40": [
+   [
+    "YOGA-2023JUN-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q053",
+    "source"
+   ]
+  ],
+  "1.41": [
+   [
+    "YOGA-2024DEC-P2-Q124",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q053",
+    "source"
+   ]
+  ],
+  "1.47": [
+   [
+    "YOGA-2022DEC-P2-Q59",
+    "source"
+   ]
+  ],
+  "1.50": [
+   [
+    "YOGA-2017JAN-P3-Q22",
+    "source"
+   ]
+  ],
+  "1.51": [
+   [
+    "YOGA-2017JAN-P2-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q093",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q112",
+    "source"
+   ]
+  ],
+  "1.54": [
+   [
+    "YOGA-2020JUN-P2-Q092",
+    "quoted"
+   ]
+  ],
+  "1.55": [
+   [
+    "YOGA-2018JUL-P2-Q58",
+    "source"
+   ]
+  ],
+  "1.59": [
+   [
+    "YOGA-2022DEC-P2-Q59",
+    "source"
+   ]
+  ],
+  "2.7": [
+   [
+    "YOGA-2020JUN-P2-Q101",
+    "source"
+   ]
+  ],
+  "2.19": [
+   [
+    "YOGA-2024JUN-P2-Q062",
+    "quoted"
+   ]
+  ],
+  "2.31": [
+   [
+    "YOGA-2023DEC-P2-Q135",
+    "source"
+   ]
+  ],
+  "2.42": [
+   [
+    "YOGA-2025JUN-P2-Q098",
+    "source"
+   ]
+  ],
+  "2.43": [
+   [
+    "YOGA-2019JUN-P2-Q83",
+    "source"
+   ]
+  ],
+  "3.1": [
+   [
+    "YOGA-2024SEP-P2-Q125",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q134",
+    "source"
+   ]
+  ],
+  "3.2": [
+   [
+    "YOGA-2025JUN-P2-Q134",
+    "source"
+   ]
+  ],
+  "3.3": [
+   [
+    "YOGA-2025JUN-P2-Q134",
+    "source"
+   ]
+  ],
+  "3.6": [
+   [
+    "YOGA-2023DEC-P2-Q114",
+    "source"
+   ]
+  ],
+  "3.7": [
+   [
+    "YOGA-2023DEC-P2-Q114",
+    "source"
+   ]
+  ],
+  "3.8": [
+   [
+    "YOGA-2020JUN-P2-Q118",
+    "source"
+   ]
+  ],
+  "3.12": [
+   [
+    "YOGA-2022JUN-P2-Q088",
+    "source"
+   ]
+  ],
+  "3.61": [
+   [
+    "YOGA-2025JUN-P2-Q062",
+    "source"
+   ]
+  ],
+  "4.1": [
+   [
+    "YOGA-2018DEC-P2-Q48",
+    "source"
+   ]
+  ],
+  "4.2": [
+   [
+    "YOGA-2018DEC-P2-Q48",
+    "source"
+   ]
+  ],
+  "5.2": [
+   [
+    "YOGA-2017NOV-P3-Q54",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-X01",
+    "source"
+   ]
+  ],
+  "5.8": [
+   [
+    "YOGA-2017NOV-P2-Q15",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q118",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S23",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q088",
+    "source"
+   ]
+  ],
+  "5.9": [
+   [
+    "YOGA-2017NOV-P2-Q15",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S23",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q088",
+    "source"
+   ]
+  ],
+  "5.20": [
+   [
+    "YOGA-2024SEP-P2-Q067",
+    "source"
+   ]
+  ],
+  "5.21": [
+   [
+    "YOGA-2018DEC-P2-Q71",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q02",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q091",
+    "quoted"
+   ]
+  ],
+  "5.23": [
+   [
+    "YOGA-2025JUN-P2-Q072",
+    "source"
+   ]
+  ],
+  "5.24": [
+   [
+    "YOGA-2019DEC-P2-Q112",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q072",
+    "source"
+   ]
+  ],
+  "5.25": [
+   [
+    "YOGA-2025JUN-P2-Q072",
+    "source"
+   ]
+  ],
+  "5.36": [
+   [
+    "YOGA-2019JUN-P2-Q36",
+    "source"
+   ]
+  ],
+  "5.47": [
+   [
+    "YOGA-2017JAN-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q16",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q106",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S50",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q068",
+    "source"
+   ]
+  ],
+  "5.48": [
+   [
+    "YOGA-2021JUN-P2-S02",
+    "source"
+   ]
+  ],
+  "6.1": [
+   [
+    "YOGA-2018DEC-P2-Q43",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q64",
+    "source"
+   ]
+  ],
+  "7.5": [
+   [
+    "YOGA-2024JUN-P2-Q095",
+    "source"
+   ]
+  ],
+  "7.6": [
+   [
+    "YOGA-2024JUN-P2-Q095",
+    "source"
+   ]
+  ]
+ },
+ "hatha-pradipika": {
+  "1.5": [
+   [
+    "YOGA-2021JUN-P2-S27",
+    "source"
+   ]
+  ],
+  "1.6": [
+   [
+    "YOGA-2021JUN-P2-S27",
+    "source"
+   ]
+  ],
+  "1.7": [
+   [
+    "YOGA-2021JUN-P2-S27",
+    "source"
+   ]
+  ],
+  "1.12": [
+   [
+    "YOGA-2025JUN-P2-Q057",
+    "source"
+   ]
+  ],
+  "1.13": [
+   [
+    "YOGA-2022DEC-P2-Q67",
+    "source"
+   ]
+  ],
+  "1.15": [
+   [
+    "YOGA-2018DEC-P2-Q42",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q46",
+    "source"
+   ]
+  ],
+  "1.16": [
+   [
+    "YOGA-2018DEC-P2-Q42",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q116",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q138",
+    "source"
+   ]
+  ],
+  "1.21": [
+   [
+    "YOGA-2019DEC-P2-Q097",
+    "source"
+   ]
+  ],
+  "1.22": [
+   [
+    "YOGA-2025JUN-P2-Q084",
+    "source"
+   ]
+  ],
+  "1.25": [
+   [
+    "YOGA-2023DEC-P2-Q135",
+    "source"
+   ]
+  ],
+  "1.27": [
+   [
+    "YOGA-2018DEC-P2-Q27",
+    "source"
+   ]
+  ],
+  "1.29": [
+   [
+    "YOGA-2018DEC-P2-Q27",
+    "source"
+   ]
+  ],
+  "1.31": [
+   [
+    "YOGA-2017JAN-P3-Q25",
+    "source"
+   ]
+  ],
+  "1.33": [
+   [
+    "YOGA-2021JUN-P2-S25",
+    "quoted"
+   ]
+  ],
+  "1.34": [
+   [
+    "YOGA-2024JUN-P2-Q062",
+    "source"
+   ]
+  ],
+  "1.38": [
+   [
+    "YOGA-2018JUL-P2-Q17",
+    "source"
+   ]
+  ],
+  "1.39": [
+   [
+    "YOGA-2018JUL-P2-Q69",
+    "source"
+   ]
+  ],
+  "1.40": [
+   [
+    "YOGA-2018JUL-P2-Q17",
+    "source"
+   ]
+  ],
+  "1.44": [
+   [
+    "YOGA-2021JUN-P2-S42",
+    "source"
+   ]
+  ],
+  "1.58": [
+   [
+    "YOGA-2017JAN-P3-Q56",
+    "source"
+   ]
+  ],
+  "1.59": [
+   [
+    "YOGA-2020JUN-P2-Q119",
+    "source"
+   ]
+  ],
+  "1.60": [
+   [
+    "YOGA-2017NOV-P3-Q42",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q71",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q02",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q096",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q091",
+    "quoted"
+   ]
+  ],
+  "1.61": [
+   [
+    "YOGA-2017NOV-P2-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q69",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q100",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q135",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q067",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q084",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q117",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q126",
+    "source"
+   ]
+  ],
+  "1.62": [
+   [
+    "YOGA-2024SEP-P2-Q086",
+    "source"
+   ]
+  ],
+  "1.65": [
+   [
+    "YOGA-2017JAN-P2-Q24",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q115",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q133",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q117",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q126",
+    "source"
+   ]
+  ],
+  "1.66": [
+   [
+    "YOGA-2022JUN-P2-Q127",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q33",
+    "source"
+   ]
+  ],
+  "2.1": [
+   [
+    "YOGA-2018DEC-P2-Q39",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S04",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S24",
+    "source"
+   ]
+  ],
+  "2.4": [
+   [
+    "YOGA-2017NOV-P3-Q43",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q70",
+    "source"
+   ]
+  ],
+  "2.5": [
+   [
+    "YOGA-2018DEC-P2-Q70",
+    "source"
+   ]
+  ],
+  "2.6": [
+   [
+    "YOGA-2017NOV-P3-Q43",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q70",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q88",
+    "source"
+   ]
+  ],
+  "2.11": [
+   [
+    "YOGA-2017JAN-P2-Q16",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q11",
+    "source"
+   ]
+  ],
+  "2.13": [
+   [
+    "YOGA-2024DEC-P2-Q113",
+    "source"
+   ]
+  ],
+  "2.15": [
+   [
+    "YOGA-2021JUN-P2-S47",
+    "source"
+   ]
+  ],
+  "2.16": [
+   [
+    "YOGA-2018JUL-P2-Q71",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S47",
+    "source"
+   ]
+  ],
+  "2.17": [
+   [
+    "YOGA-2018DEC-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q71",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q131",
+    "source"
+   ]
+  ],
+  "2.21": [
+   [
+    "YOGA-2017JAN-P2-Q15",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S04",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S24",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q139",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q09",
+    "source"
+   ]
+  ],
+  "2.22": [
+   [
+    "YOGA-2017JAN-P3-Q60",
+    "source"
+   ]
+  ],
+  "2.24": [
+   [
+    "YOGA-2017JAN-P3-Q24",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q17",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q103",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q118",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q108",
+    "source"
+   ]
+  ],
+  "2.25": [
+   [
+    "YOGA-2017JAN-P3-Q45",
+    "source"
+   ]
+  ],
+  "2.29": [
+   [
+    "YOGA-2017JAN-P3-Q22",
+    "source"
+   ]
+  ],
+  "2.30": [
+   [
+    "YOGA-2017JAN-P2-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2017JAN-P3-Q23",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q29",
+    "source"
+   ]
+  ],
+  "2.31": [
+   [
+    "YOGA-2017JAN-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q115",
+    "source"
+   ]
+  ],
+  "2.32": [
+   [
+    "YOGA-2017JAN-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q20",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q095",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q116",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q01",
+    "source"
+   ]
+  ],
+  "2.33": [
+   [
+    "YOGA-2018DEC-P2-Q19",
+    "source"
+   ]
+  ],
+  "2.34": [
+   [
+    "YOGA-2017NOV-P2-Q40",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q19",
+    "source"
+   ]
+  ],
+  "2.35": [
+   [
+    "YOGA-2017JAN-P2-Q15",
+    "source"
+   ],
+   [
+    "YOGA-2017JAN-P2-Q27",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q68",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q18",
+    "source"
+   ]
+  ],
+  "2.42": [
+   [
+    "YOGA-2020JUN-P2-Q102",
+    "source"
+   ]
+  ],
+  "2.44": [
+   [
+    "YOGA-2017JAN-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q16",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q106",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q112",
+    "source"
+   ]
+  ],
+  "2.45": [
+   [
+    "YOGA-2023DEC-P2-Q069",
+    "source"
+   ]
+  ],
+  "2.50": [
+   [
+    "YOGA-2017JAN-P2-Q30",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-Q52",
+    "source"
+   ]
+  ],
+  "2.52": [
+   [
+    "YOGA-2023DEC-P2-Q101",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q096",
+    "source"
+   ]
+  ],
+  "2.53": [
+   [
+    "YOGA-2019DEC-P2-Q096",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q101",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q096",
+    "source"
+   ]
+  ],
+  "2.55": [
+   [
+    "YOGA-2018JUL-P2-Q48",
+    "source"
+   ]
+  ],
+  "2.58": [
+   [
+    "YOGA-2017JAN-P2-Q30",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q128",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q17",
+    "source"
+   ]
+  ],
+  "2.65": [
+   [
+    "YOGA-2022DEC-P2-Q71",
+    "quoted"
+   ]
+  ],
+  "2.71": [
+   [
+    "YOGA-2017JAN-P2-Q21",
+    "source"
+   ]
+  ],
+  "2.73": [
+   [
+    "YOGA-2017JAN-P2-Q21",
+    "source"
+   ]
+  ],
+  "2.78": [
+   [
+    "YOGA-2017JAN-P2-Q29",
+    "source"
+   ]
+  ],
+  "3.6": [
+   [
+    "YOGA-2018JUL-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q098",
+    "source"
+   ]
+  ],
+  "3.7": [
+   [
+    "YOGA-2018JUL-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q098",
+    "source"
+   ]
+  ],
+  "3.14": [
+   [
+    "YOGA-2019JUN-P2-Q45",
+    "source"
+   ]
+  ],
+  "3.17": [
+   [
+    "YOGA-2018DEC-P2-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q57",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q087",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q065",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q130",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q110",
+    "source"
+   ]
+  ],
+  "3.25": [
+   [
+    "YOGA-2018JUL-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q128",
+    "source"
+   ]
+  ],
+  "3.29": [
+   [
+    "YOGA-2018DEC-P2-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q59",
+    "source"
+   ]
+  ],
+  "3.32": [
+   [
+    "YOGA-2017NOV-P3-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q140",
+    "source"
+   ]
+  ],
+  "3.37": [
+   [
+    "YOGA-2017NOV-P3-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q48",
+    "source"
+   ]
+  ],
+  "3.47": [
+   [
+    "YOGA-2022DEC-P2-Q51",
+    "quoted"
+   ]
+  ],
+  "3.55": [
+   [
+    "YOGA-2019DEC-P2-Q080",
+    "source"
+   ]
+  ],
+  "3.56": [
+   [
+    "YOGA-2019DEC-P2-Q080",
+    "source"
+   ]
+  ],
+  "3.61": [
+   [
+    "YOGA-2017JAN-P3-Q44",
+    "source"
+   ]
+  ],
+  "3.62": [
+   [
+    "YOGA-2020JUN-P2-Q075",
+    "source"
+   ]
+  ],
+  "3.64": [
+   [
+    "YOGA-2020JUN-P2-Q075",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q099",
+    "source"
+   ]
+  ],
+  "3.82": [
+   [
+    "YOGA-2018DEC-P2-Q46",
+    "source"
+   ]
+  ],
+  "3.104": [
+   [
+    "YOGA-2022JUN-P2-Q102",
+    "source"
+   ]
+  ],
+  "3.110": [
+   [
+    "YOGA-2018JUL-P2-Q41",
+    "source"
+   ]
+  ],
+  "4.20": [
+   [
+    "YOGA-2020JUN-P2-Q102",
+    "source"
+   ]
+  ],
+  "4.24": [
+   [
+    "YOGA-2018JUL-P2-Q18",
+    "source"
+   ]
+  ],
+  "4.34": [
+   [
+    "YOGA-2019JUN-P2-Q08",
+    "quoted"
+   ]
+  ],
+  "4.35": [
+   [
+    "YOGA-2019DEC-P2-Q066",
+    "source"
+   ]
+  ],
+  "4.36": [
+   [
+    "YOGA-2019DEC-P2-Q066",
+    "source"
+   ]
+  ],
+  "4.37": [
+   [
+    "YOGA-2019DEC-P2-Q066",
+    "source"
+   ]
+  ],
+  "4.67": [
+   [
+    "YOGA-2023DEC-P2-Q089",
+    "source"
+   ]
+  ],
+  "4.69": [
+   [
+    "YOGA-2017NOV-P2-Q36",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q101",
+    "source"
+   ]
+  ],
+  "4.71": [
+   [
+    "YOGA-2018DEC-P2-Q49",
+    "source"
+   ]
+  ],
+  "4.76": [
+   [
+    "YOGA-2019DEC-P2-Q098",
+    "source"
+   ]
+  ],
+  "4.85": [
+   [
+    "YOGA-2018DEC-P2-Q18",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q16",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S64",
+    "source"
+   ]
+  ],
+  "4.86": [
+   [
+    "YOGA-2018DEC-P2-Q18",
+    "source"
+   ]
+  ]
+ },
+ "isha-upanishad": {
+  "1": [
+   [
+    "YOGA-2024SEP-P2-Q072",
+    "quoted"
+   ]
+  ],
+  "2": [
+   [
+    "YOGA-2022DEC-P2-Q04",
+    "quoted"
+   ]
+  ],
+  "6": [
+   [
+    "YOGA-2018DEC-P2-Q03",
+    "source"
+   ]
+  ],
+  "7": [
+   [
+    "YOGA-2018DEC-P2-Q03",
+    "source"
+   ]
+  ],
+  "11": [
+   [
+    "YOGA-2017JAN-P2-Q03",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q41",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q08",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q107",
+    "quoted"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q122",
+    "source"
+   ]
+  ],
+  "15": [
+   [
+    "YOGA-2022JUN-P2-Q107",
+    "quoted"
+   ]
+  ]
+ },
+ "katha-upanishad": {
+  "1.1.24": [
+   [
+    "YOGA-2018JUL-P2-Q40",
+    "source"
+   ]
+  ],
+  "1.1.27": [
+   [
+    "YOGA-2023JUN-P2-Q89",
+    "quoted"
+   ]
+  ],
+  "1.2.1": [
+   [
+    "YOGA-2022DEC-P2-Q06",
+    "quoted"
+   ]
+  ],
+  "1.2.18": [
+   [
+    "YOGA-2019DEC-P2-Q103",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q140",
+    "source"
+   ]
+  ],
+  "1.2.19": [
+   [
+    "YOGA-2018DEC-P2-Q45",
+    "quoted"
+   ]
+  ],
+  "1.2.23": [
+   [
+    "YOGA-2023DEC-P2-Q090",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q106",
+    "source"
+   ]
+  ],
+  "1.3.3": [
+   [
+    "YOGA-2017JAN-P2-Q42",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S60",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q118",
+    "source"
+   ]
+  ],
+  "1.3.4": [
+   [
+    "YOGA-2017JAN-P2-Q42",
+    "source"
+   ]
+  ],
+  "1.3.8": [
+   [
+    "YOGA-2024SEP-P2-Q082",
+    "source"
+   ]
+  ],
+  "1.3.10": [
+   [
+    "YOGA-2021JUN-P2-Q76",
+    "source"
+   ]
+  ],
+  "2.1.12": [
+   [
+    "YOGA-2022JUN-P2-Q107",
+    "quoted"
+   ]
+  ],
+  "2.3.10": [
+   [
+    "YOGA-2017JAN-P2-Q04",
+    "source"
+   ]
+  ],
+  "2.3.11": [
+   [
+    "YOGA-2017JAN-P2-Q04",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q01",
+    "quoted"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q125",
+    "source"
+   ]
+  ],
+  "2.3.16": [
+   [
+    "YOGA-2017NOV-P2-Q04",
+    "source"
+   ]
+  ],
+  "2.3.17": [
+   [
+    "YOGA-2020JUN-P2-Q064",
+    "source"
+   ]
+  ]
+ },
+ "kena-upanishad": {
+  "1.1": [
+   [
+    "YOGA-2022DEC-P2-Q08",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q057",
+    "source"
+   ]
+  ]
+ },
+ "laghu-yoga-vasishtha": {
+  "3.9.132": [
+   [
+    "YOGA-2023DEC-P2-Q051",
+    "quoted"
+   ]
+  ],
+  "6.3.7": [
+   [
+    "YOGA-2022JUN-P2-Q097",
+    "quoted"
+   ]
+  ]
+ },
+ "mandukya-upanishad": {
+  "5": [
+   [
+    "YOGA-2020JUN-P2-Q056",
+    "source"
+   ]
+  ],
+  "9": [
+   [
+    "YOGA-2018JUL-P2-Q80",
+    "source"
+   ]
+  ],
+  "10": [
+   [
+    "YOGA-2018JUL-P2-Q80",
+    "source"
+   ]
+  ],
+  "11": [
+   [
+    "YOGA-2018JUL-P2-Q80",
+    "source"
+   ]
+  ],
+  "12": [
+   [
+    "YOGA-2018JUL-P2-Q80",
+    "source"
+   ]
+  ]
+ },
+ "mundaka-upanishad": {
+  "1.1.4": [
+   [
+    "YOGA-2019DEC-P2-Q057",
+    "source"
+   ]
+  ],
+  "1.1.5": [
+   [
+    "YOGA-2019DEC-P2-Q057",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q085",
+    "source"
+   ]
+  ],
+  "1.1.6": [
+   [
+    "YOGA-2025JUN-P2-Q085",
+    "source"
+   ]
+  ],
+  "2.1.4": [
+   [
+    "YOGA-2019JUN-P2-Q67",
+    "source"
+   ]
+  ],
+  "2.2.4": [
+   [
+    "YOGA-2022DEC-P2-Q07",
+    "source"
+   ]
+  ],
+  "2.2.8": [
+   [
+    "YOGA-2019JUN-P2-Q18",
+    "source"
+   ]
+  ],
+  "3.1.10": [
+   [
+    "YOGA-2018DEC-P2-Q04",
+    "source"
+   ]
+  ],
+  "3.2.3": [
+   [
+    "YOGA-2025JUN-P2-Q106",
+    "source"
+   ]
+  ],
+  "3.2.4": [
+   [
+    "YOGA-2022DEC-P2-Q09",
+    "source"
+   ]
+  ],
+  "3.2.6": [
+   [
+    "YOGA-2018DEC-P2-Q04",
+    "source"
+   ]
+  ]
+ },
+ "nadabindu-upanishad": {
+  "1": [
+   [
+    "YOGA-2025JUN-P2-Q088",
+    "source"
+   ]
+  ],
+  "6": [
+   [
+    "YOGA-2019DEC-P2-Q123",
+    "source"
+   ]
+  ],
+  "7": [
+   [
+    "YOGA-2019DEC-P2-Q123",
+    "source"
+   ]
+  ],
+  "8": [
+   [
+    "YOGA-2024JUN-P2-Q053",
+    "source"
+   ]
+  ],
+  "9": [
+   [
+    "YOGA-2024DEC-P2-Q127",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q053",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q086",
+    "source"
+   ]
+  ],
+  "10": [
+   [
+    "YOGA-2024DEC-P2-Q127",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q053",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q086",
+    "source"
+   ]
+  ],
+  "11": [
+   [
+    "YOGA-2024DEC-P2-Q127",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q053",
+    "source"
+   ]
+  ],
+  "14": [
+   [
+    "YOGA-2020JUN-P2-Q062",
+    "source"
+   ]
+  ],
+  "16": [
+   [
+    "YOGA-2024DEC-P2-Q062",
+    "source"
+   ]
+  ],
+  "31": [
+   [
+    "YOGA-2019DEC-P2-Q066",
+    "source"
+   ]
+  ]
+ },
+ "narada-bhakti-sutra": {
+  "4": [
+   [
+    "YOGA-2024JUN-P2-Q131",
+    "source"
+   ]
+  ],
+  "5": [
+   [
+    "YOGA-2024JUN-P2-Q131",
+    "source"
+   ]
+  ],
+  "8": [
+   [
+    "YOGA-2022DEC-P2-Q41",
+    "source"
+   ]
+  ],
+  "16": [
+   [
+    "YOGA-2024SEP-P2-Q083",
+    "source"
+   ]
+  ],
+  "17": [
+   [
+    "YOGA-2024SEP-P2-Q083",
+    "source"
+   ]
+  ],
+  "18": [
+   [
+    "YOGA-2024SEP-P2-Q083",
+    "source"
+   ]
+  ],
+  "28": [
+   [
+    "YOGA-2025JUN-P2-Q077",
+    "source"
+   ]
+  ],
+  "29": [
+   [
+    "YOGA-2025JUN-P2-Q077",
+    "source"
+   ]
+  ],
+  "30": [
+   [
+    "YOGA-2025JUN-P2-Q077",
+    "source"
+   ]
+  ],
+  "48": [
+   [
+    "YOGA-2022JUN-P2-Q092",
+    "source"
+   ]
+  ],
+  "51": [
+   [
+    "YOGA-2025JUN-P2-Q080",
+    "source"
+   ]
+  ],
+  "52": [
+   [
+    "YOGA-2025JUN-P2-Q080",
+    "source"
+   ]
+  ],
+  "53": [
+   [
+    "YOGA-2025JUN-P2-Q080",
+    "source"
+   ]
+  ],
+  "54": [
+   [
+    "YOGA-2025JUN-P2-Q080",
+    "source"
+   ]
+  ]
+ },
+ "prashna-upanishad": {
+  "1.5": [
+   [
+    "YOGA-2019DEC-P2-Q056",
+    "source"
+   ]
+  ],
+  "3.1": [
+   [
+    "YOGA-2025JUN-P2-Q130",
+    "source"
+   ]
+  ],
+  "3.7": [
+   [
+    "YOGA-2018JUL-P2-Q06",
+    "source"
+   ]
+  ],
+  "4.4": [
+   [
+    "YOGA-2018JUL-P2-Q06",
+    "source"
+   ]
+  ]
+ },
+ "samkhya-karika": {
+  "2": [
+   [
+    "YOGA-2020JUN-P2-Q054",
+    "quoted"
+   ]
+  ],
+  "9": [
+   [
+    "YOGA-2023DEC-P2-Q052",
+    "quoted"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q15",
+    "quoted"
+   ]
+  ],
+  "13": [
+   [
+    "YOGA-2017JAN-P3-Q17",
+    "source"
+   ]
+  ],
+  "23": [
+   [
+    "YOGA-2017NOV-P3-Q06",
+    "source"
+   ]
+  ],
+  "38": [
+   [
+    "YOGA-2018DEC-P2-Q86",
+    "source"
+   ]
+  ],
+  "45": [
+   [
+    "YOGA-2020JUN-P2-Q120",
+    "source"
+   ]
+  ],
+  "46": [
+   [
+    "YOGA-2024SEP-P2-Q118",
+    "source"
+   ]
+  ]
+ },
+ "shiva-samhita": {
+  "3.38": [
+   [
+    "YOGA-2019DEC-P2-Q075",
+    "quoted"
+   ],
+   [
+    "YOGA-2021JUN-P2-S39",
+    "quoted"
+   ]
+  ],
+  "4.27": [
+   [
+    "YOGA-2018JUL-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q128",
+    "source"
+   ]
+  ],
+  "4.45": [
+   [
+    "YOGA-2023DEC-P2-Q081",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q074",
+    "source"
+   ]
+  ],
+  "5.9": [
+   [
+    "YOGA-2024JUN-P2-Q119",
+    "source"
+   ]
+  ],
+  "5.180": [
+   [
+    "YOGA-2021JUN-P2-S69",
+    "quoted"
+   ]
+  ]
+ },
+ "shvetashvatara-upanishad": {
+  "2.9": [
+   [
+    "YOGA-2022JUN-P2-Q062",
+    "source"
+   ]
+  ],
+  "2.10": [
+   [
+    "YOGA-2025JUN-P2-Q089",
+    "source"
+   ]
+  ],
+  "2.12": [
+   [
+    "YOGA-2020JUN-P2-Q109",
+    "source"
+   ]
+  ],
+  "2.13": [
+   [
+    "YOGA-2019DEC-P2-Q129",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q44",
+    "source"
+   ]
+  ],
+  "4.10": [
+   [
+    "YOGA-2021JUN-P2-S08",
+    "quoted"
+   ]
+  ],
+  "4.15": [
+   [
+    "YOGA-2023JUN-P2-Q84",
+    "quoted"
+   ]
+  ],
+  "5.8": [
+   [
+    "YOGA-2024SEP-P2-Q142",
+    "source"
+   ]
+  ],
+  "5.9": [
+   [
+    "YOGA-2024SEP-P2-Q145",
+    "source"
+   ]
+  ],
+  "5.11": [
+   [
+    "YOGA-2024SEP-P2-Q141",
+    "source"
+   ]
+  ],
+  "6.11": [
+   [
+    "YOGA-2023JUN-P2-Q84",
+    "quoted"
+   ]
+  ],
+  "6.13": [
+   [
+    "YOGA-2020JUN-P2-Q061",
+    "source"
+   ]
+  ],
+  "6.16": [
+   [
+    "YOGA-2023JUN-P2-Q53",
+    "source"
+   ]
+  ],
+  "6.18": [
+   [
+    "YOGA-2024DEC-P2-Q059",
+    "source"
+   ]
+  ]
+ },
+ "taittiriya-upanishad": {
+  "1.2.1": [
+   [
+    "YOGA-2019DEC-P2-Q058",
+    "source"
+   ]
+  ],
+  "1.4.1": [
+   [
+    "YOGA-2024JUN-P2-Q058",
+    "quoted"
+   ]
+  ],
+  "1.5.3": [
+   [
+    "YOGA-2020JUN-P2-Q059",
+    "source"
+   ]
+  ],
+  "1.7.1": [
+   [
+    "YOGA-2024JUN-P2-Q091",
+    "source"
+   ]
+  ],
+  "1.9.1": [
+   [
+    "YOGA-2023JUN-P2-Q25",
+    "source"
+   ]
+  ],
+  "2.1.1": [
+   [
+    "YOGA-2017JAN-P2-Q39",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q33",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q16",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q56",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q107",
+    "quoted"
+   ]
+  ],
+  "2.4.1": [
+   [
+    "YOGA-2019DEC-P2-Q122",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q88",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S69",
+    "quoted"
+   ]
+  ],
+  "2.9.1": [
+   [
+    "YOGA-2021JUN-P2-S69",
+    "quoted"
+   ]
+  ]
+ },
+ "tejobindu-upanishad": {
+  "1.20": [
+   [
+    "YOGA-2021JUN-P2-S69",
+    "quoted"
+   ]
+  ],
+  "2.1": [
+   [
+    "YOGA-2022DEC-P2-Q69",
+    "quoted"
+   ]
+  ]
+ },
+ "trishikhibrahmana-upanishad": {
+  "2.29": [
+   [
+    "YOGA-2019DEC-P2-Q063",
+    "source"
+   ]
+  ],
+  "2.31": [
+   [
+    "YOGA-2021JUN-P2-S35",
+    "quoted"
+   ]
+  ]
+ },
+ "yajnavalkya-smriti": {
+  "1.7": [
+   [
+    "YOGA-2022JUN-P2-Q091",
+    "source"
+   ]
+  ],
+  "3.66": [
+   [
+    "YOGA-2024SEP-P2-Q071",
+    "source"
+   ]
+  ]
+ },
+ "yoga-sutra": {
+  "1.2": [
+   [
+    "YOGA-2018DEC-P2-Q89",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q78",
+    "quoted"
+   ],
+   [
+    "YOGA-2021JUN-P2-S44",
+    "source"
+   ]
+  ],
+  "1.3": [
+   [
+    "YOGA-2021JUN-P2-Q100",
+    "source"
+   ]
+  ],
+  "1.5": [
+   [
+    "YOGA-2021JUN-P2-Q16",
+    "source"
+   ]
+  ],
+  "1.6": [
+   [
+    "YOGA-2017JAN-P2-Q20",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q05",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q73",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q148",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-Q97",
+    "source"
+   ]
+  ],
+  "1.7": [
+   [
+    "YOGA-2017JAN-P3-Q30",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q63",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q146",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q139",
+    "source"
+   ]
+  ],
+  "1.8": [
+   [
+    "YOGA-2021JUN-P2-Q98",
+    "source"
+   ]
+  ],
+  "1.9": [
+   [
+    "YOGA-2017NOV-P3-Q63",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q147",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q23",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q081",
+    "source"
+   ]
+  ],
+  "1.10": [
+   [
+    "YOGA-2017NOV-P3-Q63",
+    "source"
+   ]
+  ],
+  "1.11": [
+   [
+    "YOGA-2021JUN-P2-Q99",
+    "source"
+   ]
+  ],
+  "1.12": [
+   [
+    "YOGA-2017NOV-P2-Q14",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q060",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q150",
+    "source"
+   ]
+  ],
+  "1.13": [
+   [
+    "YOGA-2022JUN-P2-Q075",
+    "quoted"
+   ]
+  ],
+  "1.14": [
+   [
+    "YOGA-2018JUL-P2-Q43",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q126",
+    "quoted"
+   ]
+  ],
+  "1.15": [
+   [
+    "YOGA-2017JAN-P3-Q57",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q18",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q10",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-X04",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S55",
+    "source"
+   ]
+  ],
+  "1.16": [
+   [
+    "YOGA-2019DEC-P2-Q074",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q067",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q123",
+    "quoted"
+   ],
+   [
+    "YOGA-2021JUN-P2-Q15",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S55",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q109",
+    "source"
+   ]
+  ],
+  "1.17": [
+   [
+    "YOGA-2017NOV-P2-Q35",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q06",
+    "quoted"
+   ]
+  ],
+  "1.18": [
+   [
+    "YOGA-2023JUN-P2-Q49",
+    "source"
+   ]
+  ],
+  "1.20": [
+   [
+    "YOGA-2019DEC-P2-Q116",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q135",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q13",
+    "source"
+   ]
+  ],
+  "1.21": [
+   [
+    "YOGA-2019DEC-P2-Q124",
+    "quoted"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q120",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q130",
+    "quoted"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q111",
+    "quoted"
+   ]
+  ],
+  "1.22": [
+   [
+    "YOGA-2024DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "1.23": [
+   [
+    "YOGA-2017NOV-P2-Q14",
+    "source"
+   ]
+  ],
+  "1.24": [
+   [
+    "YOGA-2023JUN-P2-Q91",
+    "quoted"
+   ]
+  ],
+  "1.25": [
+   [
+    "YOGA-2022JUN-P2-Q065",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q125",
+    "quoted"
+   ]
+  ],
+  "1.26": [
+   [
+    "YOGA-2019DEC-P2-Q126",
+    "quoted"
+   ]
+  ],
+  "1.27": [
+   [
+    "YOGA-2023DEC-P2-Q116",
+    "source"
+   ]
+  ],
+  "1.28": [
+   [
+    "YOGA-2022JUN-P2-Q099",
+    "quoted"
+   ]
+  ],
+  "1.29": [
+   [
+    "YOGA-2024JUN-P2-Q109",
+    "source"
+   ]
+  ],
+  "1.30": [
+   [
+    "YOGA-2017JAN-P2-Q45",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q29",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q36",
+    "quoted"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q08",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q44",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q111",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q130",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q53",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S37",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q25",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q123",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q061",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q064",
+    "source"
+   ]
+  ],
+  "1.31": [
+   [
+    "YOGA-2017JAN-P2-Q43",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q29",
+    "quoted"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q08",
+    "quoted"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q44",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q132",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q49",
+    "quoted"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q65",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q090",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q093",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q061",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q139",
+    "source"
+   ]
+  ],
+  "1.32": [
+   [
+    "YOGA-2018DEC-P2-Q08",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q82",
+    "source"
+   ]
+  ],
+  "1.33": [
+   [
+    "YOGA-2017JAN-P3-Q66",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q64",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q08",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q133",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S31",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q075",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q077",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q083",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q107",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q139",
+    "source"
+   ]
+  ],
+  "1.34": [
+   [
+    "YOGA-2019JUN-P2-Q05",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q083",
+    "quoted"
+   ]
+  ],
+  "1.36": [
+   [
+    "YOGA-2022JUN-P2-Q099",
+    "quoted"
+   ]
+  ],
+  "1.37": [
+   [
+    "YOGA-2022JUN-P2-Q099",
+    "quoted"
+   ]
+  ],
+  "1.41": [
+   [
+    "YOGA-2019DEC-P2-Q070",
+    "source"
+   ]
+  ],
+  "1.42": [
+   [
+    "YOGA-2021JUN-P2-S51",
+    "quoted"
+   ]
+  ],
+  "1.45": [
+   [
+    "YOGA-2022JUN-P2-Q099",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q120",
+    "quoted"
+   ]
+  ],
+  "1.47": [
+   [
+    "YOGA-2017JAN-P3-Q07",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q138",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q065",
+    "source"
+   ]
+  ],
+  "1.48": [
+   [
+    "YOGA-2018DEC-P2-Q07",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q70",
+    "quoted"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q138",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q062",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q126",
+    "source"
+   ]
+  ],
+  "1.49": [
+   [
+    "YOGA-2024JUN-P2-Q126",
+    "source"
+   ]
+  ],
+  "1.50": [
+   [
+    "YOGA-2019DEC-P2-Q073",
+    "quoted"
+   ]
+  ],
+  "1.51": [
+   [
+    "YOGA-2021JUN-P2-S44",
+    "source"
+   ]
+  ],
+  "2.1": [
+   [
+    "YOGA-2017JAN-P2-Q22",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q26",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q38",
+    "source"
+   ]
+  ],
+  "2.2": [
+   [
+    "YOGA-2017JAN-P2-Q22",
+    "quoted"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q26",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P3-Q28",
+    "source"
+   ]
+  ],
+  "2.3": [
+   [
+    "YOGA-2017JAN-P2-Q43",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q93",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q30",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q123",
+    "source"
+   ]
+  ],
+  "2.4": [
+   [
+    "YOGA-2019JUN-P2-Q62",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q99",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q104",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q126",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q073",
+    "source"
+   ]
+  ],
+  "2.6": [
+   [
+    "YOGA-2018JUL-P2-Q14",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q125",
+    "source"
+   ]
+  ],
+  "2.9": [
+   [
+    "YOGA-2019JUN-P2-Q98",
+    "source"
+   ]
+  ],
+  "2.10": [
+   [
+    "YOGA-2018DEC-P2-Q05",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q120",
+    "quoted"
+   ]
+  ],
+  "2.11": [
+   [
+    "YOGA-2018DEC-P2-Q05",
+    "quoted"
+   ]
+  ],
+  "2.12": [
+   [
+    "YOGA-2019DEC-P2-Q091",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q139",
+    "source"
+   ]
+  ],
+  "2.14": [
+   [
+    "YOGA-2024DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "2.15": [
+   [
+    "YOGA-2021JUN-P2-S66",
+    "source"
+   ]
+  ],
+  "2.16": [
+   [
+    "YOGA-2023DEC-P2-Q105",
+    "source"
+   ]
+  ],
+  "2.17": [
+   [
+    "YOGA-2017NOV-P3-Q07",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q11",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q108",
+    "source"
+   ]
+  ],
+  "2.18": [
+   [
+    "YOGA-2019DEC-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S09",
+    "source"
+   ]
+  ],
+  "2.19": [
+   [
+    "YOGA-2019DEC-P2-Q125",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q073",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q098",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q122",
+    "source"
+   ]
+  ],
+  "2.20": [
+   [
+    "YOGA-2020JUN-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q38",
+    "source"
+   ]
+  ],
+  "2.21": [
+   [
+    "YOGA-2019DEC-P2-Q124",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "2.22": [
+   [
+    "YOGA-2022DEC-P2-Q70",
+    "quoted"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q067",
+    "quoted"
+   ]
+  ],
+  "2.23": [
+   [
+    "YOGA-2019DEC-P2-Q140",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q094",
+    "source"
+   ]
+  ],
+  "2.25": [
+   [
+    "YOGA-2019DEC-P2-Q140",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q064",
+    "source"
+   ]
+  ],
+  "2.26": [
+   [
+    "YOGA-2017JAN-P2-Q06",
+    "source"
+   ]
+  ],
+  "2.27": [
+   [
+    "YOGA-2021JUN-P2-S48",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q125",
+    "quoted"
+   ]
+  ],
+  "2.29": [
+   [
+    "YOGA-2017NOV-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q44",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q90",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q065",
+    "source"
+   ]
+  ],
+  "2.30": [
+   [
+    "YOGA-2018DEC-P2-Q78",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q93",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S59",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q50",
+    "source"
+   ]
+  ],
+  "2.31": [
+   [
+    "YOGA-2018DEC-P2-Q68",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-Q49",
+    "source"
+   ]
+  ],
+  "2.32": [
+   [
+    "YOGA-2022DEC-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q52",
+    "source"
+   ]
+  ],
+  "2.33": [
+   [
+    "YOGA-2019JUN-P2-Q55",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q123",
+    "quoted"
+   ]
+  ],
+  "2.34": [
+   [
+    "YOGA-2022DEC-P2-Q14",
+    "source"
+   ]
+  ],
+  "2.37": [
+   [
+    "YOGA-2017NOV-P3-Q08",
+    "quoted"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q15",
+    "quoted"
+   ]
+  ],
+  "2.38": [
+   [
+    "YOGA-2023JUN-P2-Q31",
+    "source"
+   ]
+  ],
+  "2.39": [
+   [
+    "YOGA-2018JUL-P2-Q93",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q57",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q31",
+    "quoted"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q112",
+    "source"
+   ]
+  ],
+  "2.40": [
+   [
+    "YOGA-2024JUN-P2-Q063",
+    "source"
+   ]
+  ],
+  "2.41": [
+   [
+    "YOGA-2024DEC-P2-Q096",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q063",
+    "source"
+   ]
+  ],
+  "2.42": [
+   [
+    "YOGA-2018DEC-P2-Q87",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q086",
+    "source"
+   ]
+  ],
+  "2.43": [
+   [
+    "YOGA-2018DEC-P2-Q87",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q137",
+    "source"
+   ]
+  ],
+  "2.44": [
+   [
+    "YOGA-2018DEC-P2-Q87",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q072",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q80",
+    "quoted"
+   ]
+  ],
+  "2.45": [
+   [
+    "YOGA-2017NOV-P2-Q14",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q87",
+    "source"
+   ]
+  ],
+  "2.47": [
+   [
+    "YOGA-2017NOV-P3-Q27",
+    "quoted"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q086",
+    "quoted"
+   ]
+  ],
+  "2.48": [
+   [
+    "YOGA-2017JAN-P3-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q91",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q126",
+    "quoted"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q15",
+    "quoted"
+   ]
+  ],
+  "2.49": [
+   [
+    "YOGA-2017NOV-P2-Q46",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q49",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q73",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S04",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q63",
+    "source"
+   ]
+  ],
+  "2.50": [
+   [
+    "YOGA-2017JAN-P2-Q21",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q92",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q89",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S58",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q132",
+    "source"
+   ]
+  ],
+  "2.51": [
+   [
+    "YOGA-2017JAN-P2-Q21",
+    "quoted"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q92",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q89",
+    "source"
+   ]
+  ],
+  "2.52": [
+   [
+    "YOGA-2018DEC-P2-Q72",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q94",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q075",
+    "quoted"
+   ]
+  ],
+  "2.53": [
+   [
+    "YOGA-2017JAN-P3-Q53",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q49",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q50",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q72",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q09",
+    "quoted"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q15",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q125",
+    "quoted"
+   ]
+  ],
+  "2.54": [
+   [
+    "YOGA-2018JUL-P2-Q92",
+    "source"
+   ]
+  ],
+  "2.55": [
+   [
+    "YOGA-2019JUN-P2-Q15",
+    "quoted"
+   ]
+  ],
+  "3.1": [
+   [
+    "YOGA-2021JUN-P2-S35",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q087",
+    "source"
+   ]
+  ],
+  "3.2": [
+   [
+    "YOGA-2018DEC-P2-Q01",
+    "source"
+   ]
+  ],
+  "3.4": [
+   [
+    "YOGA-2018DEC-P2-Q90",
+    "source"
+   ]
+  ],
+  "3.7": [
+   [
+    "YOGA-2017NOV-P3-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q125",
+    "source"
+   ]
+  ],
+  "3.8": [
+   [
+    "YOGA-2017NOV-P3-Q09",
+    "source"
+   ]
+  ],
+  "3.9": [
+   [
+    "YOGA-2025JUN-P2-Q087",
+    "source"
+   ]
+  ],
+  "3.10": [
+   [
+    "YOGA-2021JUN-P2-S48",
+    "quoted"
+   ]
+  ],
+  "3.11": [
+   [
+    "YOGA-2022DEC-P2-Q49",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q066",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q063",
+    "quoted"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q087",
+    "source"
+   ]
+  ],
+  "3.12": [
+   [
+    "YOGA-2024JUN-P2-Q080",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q087",
+    "source"
+   ]
+  ],
+  "3.15": [
+   [
+    "YOGA-2019DEC-P2-Q124",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "3.16": [
+   [
+    "YOGA-2024DEC-P2-Q129",
+    "quoted"
+   ]
+  ],
+  "3.18": [
+   [
+    "YOGA-2018JUL-P2-Q13",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q29",
+    "quoted"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q112",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q093",
+    "source"
+   ]
+  ],
+  "3.19": [
+   [
+    "YOGA-2020JUN-P2-Q123",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "3.22": [
+   [
+    "YOGA-2019DEC-P2-Q069",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q15",
+    "source"
+   ]
+  ],
+  "3.25": [
+   [
+    "YOGA-2019JUN-P2-Q29",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q071",
+    "quoted"
+   ]
+  ],
+  "3.27": [
+   [
+    "YOGA-2018DEC-P2-Q81",
+    "source"
+   ]
+  ],
+  "3.29": [
+   [
+    "YOGA-2018DEC-P2-Q81",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q107",
+    "source"
+   ]
+  ],
+  "3.30": [
+   [
+    "YOGA-2018DEC-P2-Q81",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q069",
+    "source"
+   ]
+  ],
+  "3.31": [
+   [
+    "YOGA-2018DEC-P2-Q81",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q04",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q70",
+    "quoted"
+   ]
+  ],
+  "3.32": [
+   [
+    "YOGA-2018DEC-P2-Q81",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q44",
+    "quoted"
+   ]
+  ],
+  "3.33": [
+   [
+    "YOGA-2024JUN-P2-Q111",
+    "quoted"
+   ]
+  ],
+  "3.34": [
+   [
+    "YOGA-2019DEC-P2-Q126",
+    "quoted"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q063",
+    "source"
+   ]
+  ],
+  "3.35": [
+   [
+    "YOGA-2022DEC-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q120",
+    "source"
+   ]
+  ],
+  "3.36": [
+   [
+    "YOGA-2017NOV-P3-Q61",
+    "source"
+   ],
+   [
+    "YOGA-2018JUL-P2-Q72",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q48",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q12",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q120",
+    "source"
+   ]
+  ],
+  "3.37": [
+   [
+    "YOGA-2019JUN-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q136",
+    "source"
+   ]
+  ],
+  "3.38": [
+   [
+    "YOGA-2019JUN-P2-Q29",
+    "quoted"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q48",
+    "source"
+   ]
+  ],
+  "3.39": [
+   [
+    "YOGA-2018DEC-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q10",
+    "source"
+   ]
+  ],
+  "3.40": [
+   [
+    "YOGA-2018DEC-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q60",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q120",
+    "quoted"
+   ]
+  ],
+  "3.41": [
+   [
+    "YOGA-2018JUL-P2-Q15",
+    "source"
+   ]
+  ],
+  "3.43": [
+   [
+    "YOGA-2024DEC-P2-Q129",
+    "quoted"
+   ]
+  ],
+  "3.44": [
+   [
+    "YOGA-2024JUN-P2-Q114",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q101",
+    "source"
+   ]
+  ],
+  "3.45": [
+   [
+    "YOGA-2022JUN-P2-Q100",
+    "source"
+   ]
+  ],
+  "3.46": [
+   [
+    "YOGA-2017NOV-P3-Q26",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q47",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q111",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q116",
+    "source"
+   ]
+  ],
+  "3.47": [
+   [
+    "YOGA-2024DEC-P2-Q110",
+    "source"
+   ]
+  ],
+  "3.50": [
+   [
+    "YOGA-2024DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "3.51": [
+   [
+    "YOGA-2019JUN-P2-Q09",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q138",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q129",
+    "quoted"
+   ]
+  ],
+  "3.52": [
+   [
+    "YOGA-2020JUN-P2-Q070",
+    "source"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q120",
+    "quoted"
+   ]
+  ],
+  "3.54": [
+   [
+    "YOGA-2024DEC-P2-Q111",
+    "source"
+   ]
+  ],
+  "4.1": [
+   [
+    "YOGA-2017JAN-P3-Q31",
+    "source"
+   ],
+   [
+    "YOGA-2018DEC-P2-Q94",
+    "source"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q130",
+    "source"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q11",
+    "source"
+   ]
+  ],
+  "4.2": [
+   [
+    "YOGA-2023DEC-P2-Q125",
+    "quoted"
+   ]
+  ],
+  "4.6": [
+   [
+    "YOGA-2024JUN-P2-Q120",
+    "quoted"
+   ]
+  ],
+  "4.7": [
+   [
+    "YOGA-2017JAN-P3-Q67",
+    "source"
+   ],
+   [
+    "YOGA-2017NOV-P2-Q03",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q123",
+    "quoted"
+   ]
+  ],
+  "4.9": [
+   [
+    "YOGA-2021JUN-P2-S20",
+    "source"
+   ],
+   [
+    "YOGA-2022DEC-P2-Q16",
+    "source"
+   ]
+  ],
+  "4.11": [
+   [
+    "YOGA-2017NOV-P2-Q39",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q111",
+    "source"
+   ]
+  ],
+  "4.13": [
+   [
+    "YOGA-2022JUN-P2-Q120",
+    "quoted"
+   ]
+  ],
+  "4.19": [
+   [
+    "YOGA-2017NOV-P3-Q03",
+    "source"
+   ]
+  ],
+  "4.23": [
+   [
+    "YOGA-2023DEC-P2-Q097",
+    "quoted"
+   ],
+   [
+    "YOGA-2023DEC-P2-Q130",
+    "quoted"
+   ],
+   [
+    "YOGA-2023JUN-P2-Q44",
+    "quoted"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q111",
+    "quoted"
+   ]
+  ],
+  "4.25": [
+   [
+    "YOGA-2018DEC-P2-Q03",
+    "quoted"
+   ],
+   [
+    "YOGA-2022JUN-P2-Q064",
+    "source"
+   ]
+  ],
+  "4.28": [
+   [
+    "YOGA-2023JUN-P2-Q19",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q130",
+    "quoted"
+   ]
+  ],
+  "4.29": [
+   [
+    "YOGA-2018DEC-P2-Q07",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q118",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q093",
+    "source"
+   ]
+  ],
+  "4.30": [
+   [
+    "YOGA-2018DEC-P2-Q07",
+    "source"
+   ],
+   [
+    "YOGA-2019DEC-P2-Q124",
+    "quoted"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q118",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q093",
+    "source"
+   ]
+  ],
+  "4.31": [
+   [
+    "YOGA-2024JUN-P2-Q118",
+    "source"
+   ]
+  ],
+  "4.33": [
+   [
+    "YOGA-2019DEC-P2-Q071",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q072",
+    "source"
+   ]
+  ],
+  "4.34": [
+   [
+    "YOGA-2017JAN-P3-Q49",
+    "source"
+   ],
+   [
+    "YOGA-2020JUN-P2-Q051",
+    "source"
+   ]
+  ]
+ },
+ "yogachudamani-upanishad": {
+  "2": [
+   [
+    "YOGA-2022JUN-P2-Q097",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q103",
+    "source"
+   ]
+  ],
+  "3": [
+   [
+    "YOGA-2022JUN-P2-Q097",
+    "source"
+   ]
+  ],
+  "17": [
+   [
+    "YOGA-2022DEC-P2-Q11",
+    "quoted"
+   ]
+  ],
+  "19": [
+   [
+    "YOGA-2024JUN-P2-Q101",
+    "source"
+   ]
+  ],
+  "26": [
+   [
+    "YOGA-2024DEC-P2-Q061",
+    "source"
+   ]
+  ],
+  "109": [
+   [
+    "YOGA-2024SEP-P2-Q123",
+    "source"
+   ]
+  ],
+  "110": [
+   [
+    "YOGA-2022JUN-P2-Q059",
+    "quoted"
+   ]
+  ],
+  "117": [
+   [
+    "YOGA-2018JUL-P2-Q71",
+    "source"
+   ]
+  ]
+ },
+ "yogakundali-upanishad": {
+  "1.1": [
+   [
+    "YOGA-2021JUN-P2-S45",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q076",
+    "source"
+   ]
+  ],
+  "1.2": [
+   [
+    "YOGA-2021JUN-P2-S45",
+    "source"
+   ],
+   [
+    "YOGA-2024JUN-P2-Q076",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q091",
+    "quoted"
+   ]
+  ],
+  "1.4": [
+   [
+    "YOGA-2024SEP-P2-Q091",
+    "quoted"
+   ]
+  ],
+  "1.7": [
+   [
+    "YOGA-2023DEC-P2-Q096",
+    "source"
+   ]
+  ],
+  "1.9": [
+   [
+    "YOGA-2022DEC-P2-Q87",
+    "source"
+   ]
+  ],
+  "1.21": [
+   [
+    "YOGA-2019JUN-P2-Q01",
+    "source"
+   ],
+   [
+    "YOGA-2021JUN-P2-S58",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q138",
+    "source"
+   ],
+   [
+    "YOGA-2025JUN-P2-Q073",
+    "source"
+   ]
+  ],
+  "1.22": [
+   [
+    "YOGA-2022DEC-P2-Q45",
+    "source"
+   ]
+  ],
+  "1.23": [
+   [
+    "YOGA-2022DEC-P2-Q45",
+    "source"
+   ]
+  ],
+  "3.9": [
+   [
+    "YOGA-2018DEC-P2-Q75",
+    "source"
+   ]
+  ]
+ },
+ "yogashikha-upanishad": {
+  "1.68": [
+   [
+    "YOGA-2018DEC-P2-Q02",
+    "quoted"
+   ]
+  ],
+  "1.69": [
+   [
+    "YOGA-2018DEC-P2-Q02",
+    "source"
+   ]
+  ],
+  "6.4": [
+   [
+    "YOGA-2017NOV-P2-Q04",
+    "source"
+   ]
+  ]
+ },
+ "yogatattva-upanishad": {
+  "23": [
+   [
+    "YOGA-2022JUN-P2-Q098",
+    "source"
+   ]
+  ],
+  "24": [
+   [
+    "YOGA-2022JUN-P2-Q098",
+    "source"
+   ]
+  ],
+  "27": [
+   [
+    "YOGA-2023DEC-P2-Q129",
+    "source"
+   ]
+  ]
+ }
+}

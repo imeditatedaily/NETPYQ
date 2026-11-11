@@ -90,6 +90,12 @@ Exam questions quote the texts themselves: a mantra, a sūtra, half a verse. The
 
 Each text is one file, `data/texts/<id>.json`: its title, syllabus unit, the micro-topics it belongs to, its sources (ids from `sources/catalog.json`) and its `lines`, each `{"ref": "1.2", "sa": "योगश्चित्तवृत्तिनिरोधः ॥"}` with an optional `"en"` meaning and `"head"` rubric. The texts come from proofread public e-texts (GRETIL, the Advaita Śāradā project, the sanskrit/raw_etexts collection), not from scanned books, so the spelling can be trusted more than OCR; verse numbers follow those editions and can differ by one or two from a printed book. Signed-in users without the subject see the first ten lines of each text. `tests/test_texts.py` checks that every file loads, refs are unique, well-known verses sit at their usual numbers and the search works in both scripts.
 
+**Lines asked in previous papers are highlighted.** `tools/link_pyq_lines.py` reads every dated paper and writes `data/pyq_lines.json`, which the page uses to mark each line a question was asked from: an orange badge ("Quoted in Jun 2023 Q15") when the question itself quotes the line, a violet one ("Asked in Dec 2018 Q86") when the question's explanation gives the line as the source of the answer, by verse number or by quoting it. A switch shows only those lines, each with the questions asked from it, and each Knowledge Base topic has a button for its text's asked lines. Bare technical terms ("Śāmbhavī mudrā", "Ujjāyī, Śītalī") are not counted as quotes, and where an explanation's verse number belongs to another edition of the Haṭha Pradīpikā, Gheraṇḍa Saṃhitā or a minor Upaniṣad, the matching verse a few numbers away is used. Run `python tools/link_pyq_lines.py` again after adding a paper (`--review` lists every link and why it was made).
+
+## Study Notes
+
+Chapter-length notes in Hindi, to be read like a book: so far the darśanas (Vaiśeṣika, Nyāya, Sāṃkhya), written in our own words from the chapter PDFs in the owner's Drive and checked line by line against the sūtras and kārikās. Each note is one Markdown file, `data/notes/<id>.md`, with a short header (title, subject, unit, order, topics, sources) between `---` lines. The notes are read on the site only, with no download, and the app's copy protection covers the page; signed-in users without the subject see the opening section. Knowledge Base topics link to their notes. `tests/test_notes.py` checks the headers, topics and sources.
+
 ## Accounts, saved progress and subscriptions
 
 Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers, and the Yoga November 2017, July 2018 and December 2018 papers from a solved-papers collection) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
@@ -119,7 +125,8 @@ pyq/
   analytics.py            accuracy tables, revision list, frequency counts (pandas)
   library.py              the Source Library catalog
   knowledge.py            the knowledge base: key facts per topic, and how each topic is asked
-  texts.py                the Sanskrit texts line by line, and the search over them
+  texts.py                the Sanskrit texts line by line, the search over them, and the lines asked in papers
+  notes.py                the Study Notes: chapter notes in Markdown
   data/samples.py         the 4 sample questions
   access.py               who sees what: free samples, paid subjects, book-sourced questions
   store.py                the database: answers and subscriptions per user (SQLAlchemy)
@@ -130,6 +137,9 @@ pyq/
 data/questions/           PYQ files, one JSON file per paper
 data/knowledge.json       key facts per micro-topic, with their sources
 data/texts/               Sanskrit source texts, one JSON file per text, a numbered line per verse
+data/pyq_lines.json       which lines previous-year questions were asked from (tools/link_pyq_lines.py)
+data/notes/               Study Notes, one Markdown file per chapter
+tools/                    scripts that build practice sets and link papers to texts
 data/topics.json          trend notes per micro-topic, used by questions without their own trend_analysis
 sources/                  PDFs + catalog.json for the Source Library
 tests/                    pytest suite, including end-to-end runs with Streamlit's AppTest

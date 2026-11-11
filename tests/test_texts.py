@@ -75,3 +75,39 @@ def test_bad_file_is_reported_not_raised(tmp_path):
                                      '"lines": [{"ref": "1", "sa": "अ"}, {"ref": "1", "sa": "आ"}, {"ref": "2"}]}')
     lib = load_texts(tmp_path)
     assert len(lib) == 1 and len(lib.texts[0].lines) == 1 and len(lib.problems) == 3
+
+
+# --- lines asked in previous papers (data/pyq_lines.json, written by tools/link_pyq_lines.py) ---
+
+def test_asked_lines_point_at_real_lines_and_dated_questions(library):
+    from pyq.texts import load_asked
+    asked = load_asked(config.PYQ_LINES_FILE)
+    bank = load_bank(config.QUESTION_DIR, False, config.TOPIC_FILE)
+    assert sum(len(refs) for refs in asked.values()) > 300
+    for text_id, refs in asked.items():
+        text = library.by_id(text_id)
+        assert text, text_id
+        have = {ln.ref for ln in text.lines}
+        for ref, questions in refs.items():
+            assert ref in have, (text_id, ref)
+            for a in questions:
+                assert a.how in ("quoted", "source")
+                assert a.question_id in bank and bank[a.question_id].is_dated, a.question_id
+
+
+@pytest.mark.parametrize("text_id, ref, question_id", [
+    ("bhagavad-gita", "2.48", "YOGA-2017NOV-P2-Q01"),     # "समत्वं योग उच्यते"
+    ("yoga-sutra", "2.47", "YOGA-2022JUN-P2-Q086"),       # "prayatna-śaithilya-ananta-samāpattibhyām"
+    ("samkhya-karika", "9", "YOGA-2023DEC-P2-Q052"),      # the five reasons for satkāryavāda
+])
+def test_well_known_quotes_are_marked(text_id, ref, question_id):
+    from pyq.texts import load_asked
+    asked = load_asked(config.PYQ_LINES_FILE)
+    assert ("quoted", question_id) in {(a.how, a.question_id) for a in asked[text_id][ref]}
+
+
+def test_missing_asked_file_means_nothing_is_highlighted(tmp_path):
+    from pyq.texts import load_asked
+    assert load_asked(tmp_path / "none.json") == {}
+    (tmp_path / "bad.json").write_text("{", encoding="utf-8")
+    assert load_asked(tmp_path / "bad.json") == {}

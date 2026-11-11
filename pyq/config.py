@@ -31,6 +31,8 @@ TEXT_DIR = Path(__file__).resolve().parent.parent / "data" / "texts"
 
 # Study notes, one Markdown file per chapter (see pyq/notes.py).
 NOTES_DIR = Path(__file__).resolve().parent.parent / "data" / "notes"
+# Which Sanskrit lines previous-year questions were asked from; written by tools/link_pyq_lines.py.
+PYQ_LINES_FILE = Path(__file__).resolve().parent.parent / "data" / "pyq_lines.json"
 
 # The Source Library: PDFs plus sources/catalog.json.
 SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"

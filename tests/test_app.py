@@ -205,3 +205,9 @@ def test_sanskrit_texts_page_finds_a_quoted_line_and_opens_on_a_chosen_text(at):
     at.session_state["goto"], at.session_state["tx_open"] = "texts", {"subject": "yoga", "text": "yoga-sutra"}
     at = at.run()
     assert "अथ योगानुशासनम्" in texts(at) and not at.exception
+    assert "Quoted in Jul 2018 Q78" in texts(at)          # YS 1.2 is quoted in a previous paper: highlighted
+    at.session_state["goto"], at.session_state["tx_open"] = "texts", {"subject": "yoga", "text": "yoga-sutra", "asked": True}
+    at = at.run()
+    assert not at.exception, [e.message for e in at.exception]
+    md = texts(at)
+    assert "समाधिभावनार्थः" in md and "अथ योगानुशासनम्" not in md    # only the asked lines (2.2 yes, 1.1 no)

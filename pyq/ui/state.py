@@ -11,14 +11,14 @@ import streamlit as st
 
 from ..access import visible_bank
 from ..bank import Bank, folder_signature, load_bank
-from ..config import (INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, NOTES_DIR, QUESTION_DIR, SOURCE_DIR, TEXT_DIR,
+from ..config import (INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, NOTES_DIR, PYQ_LINES_FILE, QUESTION_DIR, SOURCE_DIR, TEXT_DIR,
                       TOPIC_FILE, TRANSLATION_DIR)
 from ..knowledge import KnowledgeBase, load_knowledge
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
 from ..model import Question
 from ..notes import NoteLibrary, load_notes
-from ..texts import TextLibrary, load_texts
+from ..texts import Asked, TextLibrary, load_asked, load_texts
 from ..tracker import (Answer, PracticeRun, ReviewLoop, make_answer, new_run,
                        outstanding_mistakes, start_review)
 
@@ -71,6 +71,16 @@ def _texts(_signature: tuple) -> TextLibrary:
 def get_texts() -> TextLibrary:
     files = sorted(TEXT_DIR.glob("*.json")) if TEXT_DIR.is_dir() else []
     return _texts(tuple((p.name, p.stat().st_mtime) for p in files))
+
+
+@st.cache_resource(show_spinner=False)
+def _asked(_mtime: float) -> dict[str, dict[str, tuple[Asked, ...]]]:
+    return load_asked(PYQ_LINES_FILE)
+
+
+def get_asked() -> dict[str, dict[str, tuple[Asked, ...]]]:
+    """Which Sanskrit lines previous-year questions were asked from: text id → ref → questions."""
+    return _asked(PYQ_LINES_FILE.stat().st_mtime if PYQ_LINES_FILE.is_file() else 0.0)
 
 
 @st.cache_resource(show_spinner=False)
@@ -161,11 +171,11 @@ def go(page: str) -> None:
 
 # --- practice ----------------------------------------------------------------------------
 
-def open_text(subject: str, text_id: str | None = None, query: str = "") -> None:
-    """Opens the Sanskrit Texts page on one text, or on a search (used by the Knowledge Base).
+def open_text(subject: str, text_id: str | None = None, query: str = "", asked: bool = False) -> None:
+    """Opens the Sanskrit Texts page on one text (only its lines asked in papers, if `asked`), or on a search.
     Widget keys are dropped when the page switches, so the request waits under a plain key
     ("tx_open") that the Texts page applies before it draws its widgets."""
-    st.session_state["tx_open"] = {"subject": subject, "text": text_id, "query": query}
+    st.session_state["tx_open"] = {"subject": subject, "text": text_id, "query": query, "asked": asked}
     go("texts")
 
 
