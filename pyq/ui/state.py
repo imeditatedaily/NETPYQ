@@ -11,12 +11,13 @@ import streamlit as st
 
 from ..access import visible_bank
 from ..bank import Bank, folder_signature, load_bank
-from ..config import (INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, QUESTION_DIR, SOURCE_DIR, TEXT_DIR, TOPIC_FILE,
-                      TRANSLATION_DIR)
+from ..config import (INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, NOTES_DIR, QUESTION_DIR, SOURCE_DIR, TEXT_DIR,
+                      TOPIC_FILE, TRANSLATION_DIR)
 from ..knowledge import KnowledgeBase, load_knowledge
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
 from ..model import Question
+from ..notes import NoteLibrary, load_notes
 from ..texts import TextLibrary, load_texts
 from ..tracker import (Answer, PracticeRun, ReviewLoop, make_answer, new_run,
                        outstanding_mistakes, start_review)
@@ -70,6 +71,16 @@ def _texts(_signature: tuple) -> TextLibrary:
 def get_texts() -> TextLibrary:
     files = sorted(TEXT_DIR.glob("*.json")) if TEXT_DIR.is_dir() else []
     return _texts(tuple((p.name, p.stat().st_mtime) for p in files))
+
+
+@st.cache_resource(show_spinner=False)
+def _notes(_signature: tuple) -> NoteLibrary:
+    return load_notes(NOTES_DIR)
+
+
+def get_notes() -> NoteLibrary:
+    files = sorted(NOTES_DIR.glob("*.md")) if NOTES_DIR.is_dir() else []
+    return _notes(tuple((p.name, p.stat().st_mtime) for p in files))
 
 
 @st.cache_resource(show_spinner=False)
@@ -156,6 +167,12 @@ def open_text(subject: str, text_id: str | None = None, query: str = "") -> None
     ("tx_open") that the Texts page applies before it draws its widgets."""
     st.session_state["tx_open"] = {"subject": subject, "text": text_id, "query": query}
     go("texts")
+
+
+def open_note(note_id: str) -> None:
+    """Opens the Study Notes page on one chapter (used by the Knowledge Base); applied by notes_page."""
+    st.session_state["nt_open"] = {"note": note_id}
+    go("notes")
 
 
 def start_run(bank: Bank, filters: Filters | None = None) -> PracticeRun:

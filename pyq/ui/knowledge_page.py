@@ -16,6 +16,7 @@ def render() -> None:
     st.title("Knowledge Base")
     st.caption("Key facts for each syllabus topic, how the topic is asked, and every past question on it in your papers.")
     bank, kb, library, texts = state.get_bank(), state.get_knowledge(), state.get_library(), state.get_texts()
+    notes = state.get_notes()
     subjects = [s for s in SUBJECTS if any(q.subject == s and q.is_dated for q in bank.questions)]
     if not subjects:
         st.info("Subscribe to a subject to open its knowledge base.", icon=":material/lock:")
@@ -45,6 +46,9 @@ def render() -> None:
                     st.caption("From: " + "; ".join(md(c) for c in cites))
             else:
                 st.caption("Key facts for this topic are being written.")
+            for note in notes.for_topic(subject, topic):
+                st.button(f"Read the notes: {note.title}", icon=":material/auto_stories:",
+                          key=f"kbn-{subject}-{topic}-{note.id}", on_click=state.open_note, args=(note.id,))
             for text in texts.for_topic(subject, topic):
                 st.button(f"Read the {text.title} line by line", icon=":material/menu_book:",
                           key=f"kbt-{subject}-{topic}-{text.id}", on_click=state.open_text, args=(subject, text.id))

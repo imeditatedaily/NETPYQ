@@ -29,6 +29,9 @@ KNOWLEDGE_FILE = Path(__file__).resolve().parent.parent / "data" / "knowledge.js
 # Sanskrit source texts, line by line (see pyq/texts.py).
 TEXT_DIR = Path(__file__).resolve().parent.parent / "data" / "texts"
 
+# Study notes, one Markdown file per chapter (see pyq/notes.py).
+NOTES_DIR = Path(__file__).resolve().parent.parent / "data" / "notes"
+
 # The Source Library: PDFs plus sources/catalog.json.
 SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
 

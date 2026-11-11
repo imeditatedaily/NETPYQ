@@ -1430,5 +1430,29 @@
     "licence": "The Sanskrit text is in the public domain.",
     "where": "muktabodha.org digital library; copied in github.com/sanskrit/raw_etexts.",
     "note": "Text of the Śiva Saṃhitā and Gorakṣa Śataka on the Sanskrit Texts page. These e-texts are typed from single editions and are less carefully proofread than the others."
+  },
+  {
+    "id": "notes-bharatiya-darshan-drive",
+    "title": "भारतीय दर्शन: chapters on Nyāya, Sāṃkhya, Vaiśeṣika, Mīmāṃsā and Vedānta (Hindi)",
+    "author": "",
+    "year": "",
+    "kind": "notes",
+    "units": ["Yoga Unit 1: Fundamentals of Yoga"],
+    "file": null,
+    "licence": "Your own copy; kept out of the public repository.",
+    "where": "Shared with you on Google Drive: न्याय दर्शन (प्रमाण विचार).pdf, न्याय दर्शन-1.pdf, सांख्य दर्शन .pdf, वैशेषिक दर्शन-1.pdf, मीमांसा दर्शन.pdf, वेदांत दर्शन.pdf.",
+    "note": "The Study Notes chapters on the darśanas follow these chapters point by point, written afresh and checked against the sūtras."
+  },
+  {
+    "id": "nyaya-sutra-sanskrit",
+    "title": "Nyāya Sūtra of Gautama (Sanskrit text)",
+    "author": "",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 1: Fundamentals of Yoga"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "github.com/sanskrit/raw_etexts, nyAya-shAstram/nyayasutra.md.",
+    "note": "Used to check the sūtra numbers quoted in the Nyāya notes."
   }
 ]

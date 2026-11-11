@@ -82,6 +82,12 @@ h2, h3 { color: var(--g2) !important; }
 [data-testid="stSidebar"] .stButton button { border-color: var(--lime); color: var(--cream); background: transparent; }
 [data-testid="stSidebar"] .stButton button:hover { background: var(--lime); color: var(--ink); }
 
+/* Study Notes: a readable column, like a printed page. */
+.st-key-nt-body { max-width: 52rem; padding: 1.4rem 1.8rem !important; background: #fffdf7 !important; }
+.st-key-nt-body p, .st-key-nt-body li { font-size: 1.06rem; line-height: 1.85; }
+.st-key-nt-body h2 { margin-top: 1.6rem; border-bottom: 2px solid var(--lime, #d8f45a); padding-bottom: .2rem; }
+.st-key-nt-body blockquote { border-left: .3rem solid var(--g2, #2f6b4f); background: #f3f7ea; padding: .4rem .9rem; }
+
 /* Sanskrit Texts: the lines are set larger than body copy so conjuncts stay readable. */
 .st-key-tx-lines p { font-size: 1.14rem; line-height: 1.95; }
 .st-key-tx-lines p strong { font-size: .85rem; color: var(--g1, #1d4433); letter-spacing: .02em; }
