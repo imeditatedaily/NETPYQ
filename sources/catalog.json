@@ -1406,5 +1406,17 @@
     "licence": "The Sanskrit text is in the public domain.",
     "where": "ebharatisampat.in; copied in github.com/sanskrit/raw_etexts.",
     "note": "The 84 sūtras with the edition's topic headings."
+  },
+  {
+    "id": "ebharati-upanishad-etexts",
+    "title": "Upaniṣad e-texts of e-Bharati Sampat",
+    "author": "National Sanskrit University, Tirupati",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 3: Yoga Texts II: Yoga Upanishads"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "ebharatisampat.in; copied in github.com/sanskrit/raw_etexts.",
+    "note": "Text of the Amṛtanāda Upaniṣad (39 mantras) on the Sanskrit Texts page."
   }
 ]

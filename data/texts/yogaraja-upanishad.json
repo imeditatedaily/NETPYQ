@@ -1,0 +1,124 @@
+{
+ "id": "yogaraja-upanishad",
+ "title": "Yogarāja Upaniṣad",
+ "title_sa": "योगराजोपनिषद्",
+ "subject": "yoga",
+ "unit": 3,
+ "topics": [
+  "Yogaraja Upanishad"
+ ],
+ "about": "21 mantras: the four yogas (mantra, laya, rāja, haṭha), their four common limbs, and meditation on nine cakras. The text follows Pt. Śrīrām Śarmā Ācārya's 108 Upaniṣads (Sādhanā-khaṇḍa); parts of mantras 9, 11 and 18 were unreadable in the scan and are given in the commonly printed reading.",
+ "divisions": [
+  "mantra"
+ ],
+ "sources": [
+  "awgp-108-upanishad-sadhana"
+ ],
+ "lines": [
+  {
+   "ref": "1",
+   "sa": "योगराजं प्रवक्ष्यामि योगिनां योगसिद्धये ।\nमन्त्रयोगो लयश्चैव राजयोगो हठस्तथा ॥",
+   "en": "I shall teach the king of yogas, for the success of yogins: mantra yoga, laya, rāja yoga and haṭha."
+  },
+  {
+   "ref": "2",
+   "sa": "योगश्चतुर्विधः प्रोक्तो योगिभिस्तत्त्वदर्शिभिः ।\nआसनं प्राणसंरोधो ध्यानं चैव समाधिकः ॥",
+   "en": "Yogins who see the truth call yoga fourfold. Posture, restraint of breath, meditation and samādhi —"
+  },
+  {
+   "ref": "3",
+   "sa": "एतच्चतुष्टयं विद्धि सर्वयोगेषु सम्मतम् ।\nब्रह्मविष्णुशिवादीनां मन्त्रं जाप्यं विशारदैः ॥",
+   "en": "know these four to be accepted in every yoga. The wise repeat the mantras of Brahmā, Viṣṇu, Śiva and the other gods."
+  },
+  {
+   "ref": "4",
+   "sa": "साध्यते मन्त्रयोगस्तु वत्सराजादिभिर्यथा ।\nकृष्णद्वैपायनाद्यैस्तु साधितो लयसंज्ञितः ॥",
+   "en": "Mantra yoga was accomplished by Vatsarāja and others; the yoga called laya by Kṛṣṇa Dvaipāyana (Vyāsa) and others,"
+  },
+  {
+   "ref": "5",
+   "sa": "नवस्वेव हि चक्रेषु लयं कृत्वा महात्मभिः ।\nप्रथमं ब्रह्मचक्रं स्यात् त्रिरावृत्तं भगाकृति ॥",
+   "en": "the great ones dissolving the mind in the nine cakras. The first is the brahma-cakra, coiled three times, triangular in shape."
+  },
+  {
+   "ref": "6",
+   "sa": "अपाने मूलकन्दाख्यं कामरूपं च तज्जगुः ।\nतदेव वह्निकुण्डं स्यात् तत्त्वकुण्डलिनी तथा ॥",
+   "en": "At the place of apāna is what is called the root-bulb (mūlakanda), also named Kāmarūpa; it is the pit of fire, and there is the kuṇḍalinī."
+  },
+  {
+   "ref": "7",
+   "sa": "तां जीवरूपिणीं ध्यायेज्ज्योतिष्ठं मुक्तिहेतवे ।\nस्वाधिष्ठानं द्वितीयं स्याच्चक्रं तन्मध्यगं विदुः ॥",
+   "en": "Meditate on her, who is of the form of the living self and of light, for the sake of liberation. The second cakra is svādhiṣṭhāna; within it,"
+  },
+  {
+   "ref": "8",
+   "sa": "पश्चिमाभिमुखं लिङ्गं प्रवालाङ्कुरसन्निभम् ।\nतत्रोड्डीयाणपीठेषु तं ध्यात्वाकर्षयेज्जगत् ॥",
+   "en": "a liṅga facing west, like a shoot of coral. Meditating on it there in the Uḍḍīyāṇa seat, one draws the world to oneself."
+  },
+  {
+   "ref": "9",
+   "sa": "तृतीयं नाभिचक्रं स्यात्तन्मध्ये तु जगत् स्थितम् ।\nपञ्चावर्तां मध्यशक्तिं चिन्तयेद्विद्युदाकृतिम् ॥",
+   "en": "The third is the navel cakra; the world rests within it. Think there of the power in its middle, with five coils, like lightning."
+  },
+  {
+   "ref": "10",
+   "sa": "तां ध्यात्वा सर्वसिद्धीनां भाजनं जायते बुधः ।\nचतुर्थे हृदये चक्रे विज्ञेयं तदधोमुखम् ॥",
+   "en": "Meditating on her, the wise one becomes a vessel of all siddhis. The fourth, the heart cakra, is to be known as facing downward."
+  },
+  {
+   "ref": "11",
+   "sa": "ज्योतीरूपं च तन्मध्ये हंसं ध्यायेत् प्रयत्नतः ।\nतं ध्यायतो जगत् सर्वं वश्यं स्यान्नात्र संशयः ॥",
+   "en": "In its middle meditate with effort on the haṃsa in the form of light; for one who does, the whole world comes under control — of this there is no doubt."
+  },
+  {
+   "ref": "12",
+   "sa": "पञ्चमं कण्ठचक्रं स्यात् तत्र वामे इडा भवेत् ।\nदक्षिणे पिङ्गला ज्ञेया सुषुम्ना मध्यतः स्थिता ॥",
+   "en": "The fifth is the throat cakra: iḍā is on its left, piṅgalā on the right, and suṣumnā in the middle."
+  },
+  {
+   "ref": "13",
+   "sa": "तत्र ध्यात्वा शुचि ज्योतिः सिद्धीनां भाजनं भवेत् ।\nषष्ठं च तालुकाचक्रं घण्टिकास्थानमुच्यते ॥",
+   "en": "Meditating there on the pure light, one becomes a vessel of siddhis. The sixth is the palate cakra, called the place of the uvula (ghaṇṭikā)."
+  },
+  {
+   "ref": "14",
+   "sa": "दशमद्वारमार्गं तद्राजदन्तं च तज्जगुः ।\nतत्र शून्ये लयं कृत्वा मुक्तो भवति निश्चितम् ॥",
+   "en": "It is the way to the tenth door, and is also called the 'royal tooth'. Dissolving the mind in the void there, one is surely freed."
+  },
+  {
+   "ref": "15",
+   "sa": "भ्रूचक्रं सप्तमं विद्याद्बिन्दुस्थानं च तद्विदुः ।\nभ्रुवोर्मध्ये वर्तुलं च ध्यात्वा ज्योतिः प्रमुच्यते ॥",
+   "en": "Know the seventh as the brow cakra, the seat of the bindu. Meditating on the round light between the eyebrows, one is freed."
+  },
+  {
+   "ref": "16",
+   "sa": "अष्टमं ब्रह्मरन्ध्रं स्यात् परं निर्वाणसूचकम् ।\nतं ध्यात्वा सूतिकाग्रामं धूमाकारं विमुच्यते ॥",
+   "en": "The eighth is the brahmarandhra, which points to the highest nirvāṇa. Meditating on it, smoke-coloured, one is freed. (Other editions read sūcikāgrābham, 'fine as the point of a needle'.)"
+  },
+  {
+   "ref": "17",
+   "sa": "तच्च जालन्धरं ज्ञेयं मोक्षदं नीलचेतसम् ।\nनवमं व्योमचक्रं स्यादश्रैः षोडशभिर्युतम् ॥",
+   "en": "It is to be known as Jālandhara, the giver of liberation. The ninth is the space cakra (vyoma-cakra), with sixteen petals."
+  },
+  {
+   "ref": "18",
+   "sa": "संविद्ब्रूयाच्च तन्मध्ये शक्तिरुद्धा स्थिता परा ।\nतत्र पूर्णां गिरौ पीठे शक्तिं ध्यात्वा विमुच्यते ॥",
+   "en": "In its middle stands the supreme power, called saṃvid (consciousness). Meditating there on the full power in the Pūrṇagiri seat, one is freed."
+  },
+  {
+   "ref": "19",
+   "sa": "एतेषां नवचक्राणामेकैकं ध्यायतो मुनेः ।\nसिद्धयो मुक्तिसहिताः करस्थाः स्युर्दिने दिने ॥",
+   "en": "For the sage who meditates on these nine cakras one by one, the siddhis, together with liberation, come into his hand day by day."
+  },
+  {
+   "ref": "20",
+   "sa": "एको दण्डद्वयं मध्ये पश्यति ज्ञानचक्षुषा ।\nकदम्बगोलकाकारं ब्रह्मलोकं व्रजन्ति ते ॥",
+   "en": "Those who see with the eye of knowledge the two staffs in the middle of the sphere shaped like a kadamba ball go to the world of Brahmā."
+  },
+  {
+   "ref": "21",
+   "sa": "ऊर्ध्वशक्तिनिपातेन अधःशक्तेर्निकुञ्चनात् ।\nमध्यशक्तिप्रबोधेन जायते परमं सुखं जायते परमं सुखम् ॥",
+   "en": "By bringing down the upper power, by contracting the lower power and by awakening the middle power, the highest bliss arises."
+  }
+ ]
+}
