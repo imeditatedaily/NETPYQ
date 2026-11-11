@@ -104,7 +104,7 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
     assert {q.answer_source for q in jun24} == {"unverified"}              # no key was published for this paper
     sep24 = [q for q in papers if q.id.startswith("YOGA-2024SEP-P2")]   # its re-exam, same session
     assert {q.session_key for q in sep24} == {"2024-June"}
-    assert len(sep24) == 89 and min(q.question_no for q in sep24) == 51 and max(q.question_no for q in sep24) == 150
+    assert sorted(q.question_no for q in sep24) == list(range(51, 151))   # every question of the paper, none left out
     assert {q.answer_source for q in sep24} == {"unverified"}
 
 

@@ -284,6 +284,10 @@
    [
     "YOGA-2024JUN-P2-Q137",
     "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q131",
+    "quoted"
    ]
   ],
   "17.4": [
@@ -618,6 +622,10 @@
   ],
   "1.20": [
    [
+    "YOGA-2020JUN-P2-Q140",
+    "source"
+   ],
+   [
     "YOGA-2024JUN-P2-Q087",
     "source"
    ],
@@ -816,6 +824,18 @@
     "source"
    ]
   ],
+  "3.54": [
+   [
+    "YOGA-2020JUN-P2-Q100",
+    "source"
+   ]
+  ],
+  "3.57": [
+   [
+    "YOGA-2020JUN-P2-Q074",
+    "source"
+   ]
+  ],
   "3.61": [
    [
     "YOGA-2025JUN-P2-Q062",
@@ -908,19 +928,45 @@
     "source"
    ],
    [
+    "YOGA-2022JUN-P2-Q108",
+    "source"
+   ],
+   [
     "YOGA-2025JUN-P2-Q072",
     "source"
    ]
   ],
   "5.25": [
    [
+    "YOGA-2022JUN-P2-Q108",
+    "source"
+   ],
+   [
     "YOGA-2025JUN-P2-Q072",
+    "source"
+   ]
+  ],
+  "5.28": [
+   [
+    "YOGA-2022JUN-P2-Q108",
+    "source"
+   ]
+  ],
+  "5.35": [
+   [
+    "YOGA-2020JUN-P2-Q133",
     "source"
    ]
   ],
   "5.36": [
    [
     "YOGA-2019JUN-P2-Q36",
+    "source"
+   ]
+  ],
+  "5.38": [
+   [
+    "YOGA-2020JUN-P2-Q133",
     "source"
    ]
   ],
@@ -1664,6 +1710,12 @@
    [
     "YOGA-2022DEC-P2-Q51",
     "quoted"
+   ]
+  ],
+  "3.54": [
+   [
+    "YOGA-2024DEC-P2-Q069",
+    "source"
    ]
   ],
   "3.55": [
@@ -2567,6 +2619,18 @@
     "YOGA-2021JUN-P2-S35",
     "quoted"
    ]
+  ],
+  "2.106": [
+   [
+    "YOGA-2024DEC-P2-Q108",
+    "source"
+   ]
+  ],
+  "2.107": [
+   [
+    "YOGA-2024DEC-P2-Q108",
+    "source"
+   ]
   ]
  },
  "yajnavalkya-smriti": {
@@ -2915,6 +2979,10 @@
    ],
    [
     "YOGA-2024JUN-P2-Q068",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q054",
     "source"
    ],
    [
@@ -3451,6 +3519,10 @@
   "2.34": [
    [
     "YOGA-2022DEC-P2-Q14",
+    "source"
+   ],
+   [
+    "YOGA-2024DEC-P2-Q066",
     "source"
    ]
   ],
@@ -4031,6 +4103,10 @@
   "3.45": [
    [
     "YOGA-2022JUN-P2-Q100",
+    "source"
+   ],
+   [
+    "YOGA-2024SEP-P2-Q103",
     "source"
    ]
   ],
