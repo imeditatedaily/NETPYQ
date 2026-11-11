@@ -26,6 +26,9 @@ TRANSLATION_DIR = Path(__file__).resolve().parent.parent / "data" / "translation
 # Knowledge base: key facts per micro-topic, shown after every answer.
 KNOWLEDGE_FILE = Path(__file__).resolve().parent.parent / "data" / "knowledge.json"
 
+# Sanskrit source texts, line by line (see pyq/texts.py).
+TEXT_DIR = Path(__file__).resolve().parent.parent / "data" / "texts"
+
 # The Source Library: PDFs plus sources/catalog.json.
 SOURCE_DIR = Path(__file__).resolve().parent.parent / "sources"
 

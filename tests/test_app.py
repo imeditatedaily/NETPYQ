@@ -139,7 +139,7 @@ def test_filters_scope_practice(at):
     assert at.metric[3].value == "1 of 1"
 
 
-@pytest.mark.parametrize("page", ["analytics", "bank", "knowledge", "library", "review", "mock", "trends", "daily",
+@pytest.mark.parametrize("page", ["analytics", "bank", "knowledge", "texts", "library", "review", "mock", "trends", "daily",
                                   "plans", "admin"])
 def test_every_page_renders_without_errors(at, page):
     at.session_state["goto"] = page

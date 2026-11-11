@@ -84,6 +84,12 @@ The syllabus unit titles in `pyq/syllabus.py` follow NTA's published syllabi via
 
 `data/knowledge.json` holds key facts for every micro-topic in the loaded papers (154 topics), each with the Source Library texts it comes from. After every answer, right or wrong, the question view shows a **Knowledge Base** box: the topic's key facts, how the topic has been asked (how often, in which sessions, in which formats) and the earlier questions on it with their answers. The **Knowledge Base** page lists the same by syllabus unit, with a button to practise each topic. `tests/test_knowledge.py` fails if a topic in the bank has no facts, or if a fact cites a source that isn't in `sources/catalog.json`.
 
+## Sanskrit Texts
+
+Exam questions quote the texts themselves: a mantra, a sūtra, half a verse. The **Sanskrit Texts** page holds the source texts line by line in Devanagari, each line with the chapter-and-verse number it is cited by, and a search box that finds a quoted line typed in Devanagari or in Roman letters (spaces, punctuation and anusvāra spelling are ignored). There are 33 texts and about 5,400 numbered lines so far: the Nārada Bhakti Sūtra and Sāṃkhya Kārikā (Unit 1); the ten principal Upaniṣads and the Bhagavad Gītā (Unit 2); the Śvetāśvatara and sixteen Yoga Upaniṣads (Unit 3); the Yoga Sūtra (Unit 4); the Haṭha Pradīpikā and Gheraṇḍa Saṃhitā (Unit 5).
+
+Each text is one file, `data/texts/<id>.json`: its title, syllabus unit, the micro-topics it belongs to, its sources (ids from `sources/catalog.json`) and its `lines`, each `{"ref": "1.2", "sa": "योगश्चित्तवृत्तिनिरोधः ॥"}` with an optional `"en"` meaning and `"head"` rubric. The texts come from proofread public e-texts (GRETIL, the Advaita Śāradā project, the sanskrit/raw_etexts collection), not from scanned books, so the spelling can be trusted more than OCR; verse numbers follow those editions and can differ by one or two from a printed book. Signed-in users without the subject see the first ten lines of each text. `tests/test_texts.py` checks that every file loads, refs are unique, well-known verses sit at their usual numbers and the search works in both scripts.
+
 ## Accounts, saved progress and subscriptions
 
 Users sign in with Google. Every answer is saved to their account (PostgreSQL, for example Supabase), so progress follows them across refreshes and devices. Each subject unlocks with its own **₹500/month** Razorpay subscription; signed-in users get the 4 sample questions free. Questions transcribed from a published book (the six Paper 1 papers, and the Yoga November 2017, July 2018 and December 2018 papers from a solved-papers collection) are shown only to admins, as is the Source Library. The **Subscription** page handles payments; the **Admin** page lists subscribers.
@@ -113,6 +119,7 @@ pyq/
   analytics.py            accuracy tables, revision list, frequency counts (pandas)
   library.py              the Source Library catalog
   knowledge.py            the knowledge base: key facts per topic, and how each topic is asked
+  texts.py                the Sanskrit texts line by line, and the search over them
   data/samples.py         the 4 sample questions
   access.py               who sees what: free samples, paid subjects, book-sourced questions
   store.py                the database: answers and subscriptions per user (SQLAlchemy)
@@ -122,6 +129,7 @@ pyq/
     plans_page.py         Subscription page;  admin_page.py: subscribers and usage
 data/questions/           PYQ files, one JSON file per paper
 data/knowledge.json       key facts per micro-topic, with their sources
+data/texts/               Sanskrit source texts, one JSON file per text, a numbered line per verse
 data/topics.json          trend notes per micro-topic, used by questions without their own trend_analysis
 sources/                  PDFs + catalog.json for the Source Library
 tests/                    pytest suite, including end-to-end runs with Streamlit's AppTest

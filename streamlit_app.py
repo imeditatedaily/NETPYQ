@@ -13,7 +13,7 @@ from pyq.filters import ALL
 from pyq.syllabus import SUBJECTS
 from pyq.ui import (account, admin_page, analytics_page, bank_page, knowledge_page, legal, library_page, plans_page,
                     daily_page, home_page, mock_page, practice_page, protect, review_page, sidebar, state,
-                    style, trends_page)
+                    style, texts_page, trends_page)
 
 st.set_page_config(page_title="UGC NET PYQ Practice", page_icon=":material/insights:", layout="wide")
 style.inject()
@@ -35,6 +35,7 @@ PAGES = {
     "trends": st.Page(trends_page.render, title="PYQ Trends", icon=":material/trending_up:", url_path="trends"),
     "daily": st.Page(daily_page.render, title="Question of the day", icon=":material/today:", url_path="daily"),
     "knowledge": st.Page(knowledge_page.render, title="Knowledge Base", icon=":material/school:", url_path="knowledge"),
+    "texts": st.Page(texts_page.render, title="Sanskrit Texts", icon=":material/menu_book:", url_path="texts"),
     "bank": st.Page(bank_page.render, title="Question Bank", icon=":material/table_chart:", url_path="bank"),
     "plans": st.Page(plans_page.render, title="Subscription", icon=":material/workspace_premium:", url_path="plans"),
 }

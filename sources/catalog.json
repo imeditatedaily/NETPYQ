@@ -1346,5 +1346,65 @@
     "licence": "Public domain.",
     "where": "Internet Archive: search \"Mahabharata Shanti Parva Mokshadharma Satavalekar\" (Svadhyaya Mandal, Aundh).",
     "note": "Used to check the Mokṣadharma verses in Sanskrit. Chapter numbers follow the Vulgate, not the Critical Edition."
+  },
+  {
+    "id": "gretil-etexts",
+    "title": "GRETIL: Göttingen Register of Electronic Texts in Indian Languages",
+    "author": "Göttingen State and University Library",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 1: Fundamentals of Yoga", "Yoga Unit 4: Patanjala Yoga Sutra", "Yoga Unit 5: Hatha Yoga Texts"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "gretil.sub.uni-goettingen.de (mirrored at github.com/sanskrit/GRETIL-mirror).",
+    "note": "Transliterated e-texts of the Yoga Sūtra (Maas), Haṭha Pradīpikā, Gheraṇḍa Saṃhitā (Thomi), Sāṃkhya Kārikā and Māṇḍūkya Upaniṣad, converted to Devanagari for the Sanskrit Texts page."
+  },
+  {
+    "id": "sharada-upanishad-mula",
+    "title": "Upaniṣad mūla texts of the Advaita Śāradā project",
+    "author": "Sringeri Sharada Peetham (Advaita Sharada)",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha", "Yoga Unit 3: Yoga Texts II: Yoga Upanishads"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "advaitasharada.sringeri.net; copied in the collection github.com/sanskrit/raw_etexts.",
+    "note": "Devanagari text and numbering of the principal Upaniṣads and the Śvetāśvatara on the Sanskrit Texts page."
+  },
+  {
+    "id": "sanskrit-raw-etexts",
+    "title": "Yoga Upaniṣads: Devanagari e-texts (sanskrit/raw_etexts collection)",
+    "author": "",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 3: Yoga Texts II: Yoga Upanishads"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "github.com/sanskrit/raw_etexts, folder vedaH/misc/upaniShat/yaugikI.",
+    "note": "Text and verse numbers of the Yoga Upaniṣads on the Sanskrit Texts page; the rubrics above groups of verses come from this edition."
+  },
+  {
+    "id": "gita-verse-data",
+    "title": "Bhagavad Gītā verse data",
+    "author": "gita/gita project (bhagavadgita.io)",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 2: Yoga Texts I: Principal Upanishads, Bhagavad Gita and Yoga Vasishtha"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "github.com/gita/gita, data/verse.json (released into the public domain).",
+    "note": "Devanagari text of the 701 verses on the Sanskrit Texts page."
+  },
+  {
+    "id": "ebharati-narada-bhakti-sutra",
+    "title": "नारदभक्तिसूत्रम् (e-text)",
+    "author": "Dharmendra Kumar Singhdeo (e-text); National Sanskrit University, Tirupati (e-Bharati Sampat)",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 1: Fundamentals of Yoga"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "ebharatisampat.in; copied in github.com/sanskrit/raw_etexts.",
+    "note": "The 84 sūtras with the edition's topic headings."
   }
 ]

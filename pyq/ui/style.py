@@ -82,6 +82,10 @@ h2, h3 { color: var(--g2) !important; }
 [data-testid="stSidebar"] .stButton button { border-color: var(--lime); color: var(--cream); background: transparent; }
 [data-testid="stSidebar"] .stButton button:hover { background: var(--lime); color: var(--ink); }
 
+/* Sanskrit Texts: the lines are set larger than body copy so conjuncts stay readable. */
+.st-key-tx-lines p { font-size: 1.14rem; line-height: 1.95; }
+.st-key-tx-lines p strong { font-size: .85rem; color: var(--g1, #1d4433); letter-spacing: .02em; }
+
 /* Trend Insight: the one amber box on the page (keyed containers get a st-key-* class). */
 [class*="st-key-trend-"] {
   background: linear-gradient(135deg, rgba(237, 161, 0, .14), rgba(216, 244, 90, .12));

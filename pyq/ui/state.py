@@ -11,11 +11,13 @@ import streamlit as st
 
 from ..access import visible_bank
 from ..bank import Bank, folder_signature, load_bank
-from ..config import INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, QUESTION_DIR, SOURCE_DIR, TOPIC_FILE, TRANSLATION_DIR
+from ..config import (INCLUDE_SAMPLE_QUESTIONS, KNOWLEDGE_FILE, QUESTION_DIR, SOURCE_DIR, TEXT_DIR, TOPIC_FILE,
+                      TRANSLATION_DIR)
 from ..knowledge import KnowledgeBase, load_knowledge
 from ..filters import ALL, Filters, apply
 from ..library import Library, load_library
 from ..model import Question
+from ..texts import TextLibrary, load_texts
 from ..tracker import (Answer, PracticeRun, ReviewLoop, make_answer, new_run,
                        outstanding_mistakes, start_review)
 
@@ -58,6 +60,16 @@ def _knowledge(_mtime: float) -> KnowledgeBase:
 
 def get_knowledge() -> KnowledgeBase:
     return _knowledge(KNOWLEDGE_FILE.stat().st_mtime if KNOWLEDGE_FILE.is_file() else 0.0)
+
+
+@st.cache_resource(show_spinner=False)
+def _texts(_signature: tuple) -> TextLibrary:
+    return load_texts(TEXT_DIR)
+
+
+def get_texts() -> TextLibrary:
+    files = sorted(TEXT_DIR.glob("*.json")) if TEXT_DIR.is_dir() else []
+    return _texts(tuple((p.name, p.stat().st_mtime) for p in files))
 
 
 @st.cache_resource(show_spinner=False)
