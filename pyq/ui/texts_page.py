@@ -34,6 +34,11 @@ def render() -> None:
     if not subjects:
         st.info("No texts have been added yet.", icon=":material/menu_book:")
         return
+    ss = st.session_state
+    if (req := ss.pop("tx_open", None)) and req.get("subject") in subjects:   # see state.open_text
+        ss["tx_subject"], ss["tx_query"] = req["subject"], req.get("query", "")
+        if (text := library.by_id(req.get("text") or "")) and text.subject == req["subject"]:
+            ss[f"tx_unit_{text.subject}"], ss[f"tx_text_{text.subject}_{text.unit}"] = text.unit, text.id
     subject = subjects[0] if len(subjects) == 1 else st.segmented_control(
         "Subject", subjects, format_func=lambda s: SUBJECTS[s].short, key="tx_subject", default=subjects[0], required=True)
     texts = library.for_subject(subject)
@@ -62,8 +67,9 @@ def render() -> None:
     units = list(dict.fromkeys(t.unit for t in texts))
     c1, c2 = st.columns([1, 1])
     unit = c1.selectbox("Syllabus unit", units, format_func=SUBJECTS[subject].unit_label, key=f"tx_unit_{subject}")
-    in_unit = [t for t in texts if t.unit == unit]
-    text = c2.selectbox("Text", in_unit, format_func=lambda t: f"{t.label}  ({len(t.lines)})", key=f"tx_text_{subject}_{unit}")
+    in_unit = {t.id: t for t in texts if t.unit == unit}
+    text = in_unit[c2.selectbox("Text", list(in_unit), key=f"tx_text_{subject}_{unit}",
+                                format_func=lambda i: f"{in_unit[i].label}  ({len(in_unit[i].lines)})")]
     if text.about:
         st.markdown(md(text.about))
     cites = [sources.by_id[s].citation for s in text.sources if s in sources.by_id]

@@ -191,3 +191,17 @@ def test_focus_mode_and_option_cards(at):
     at = answer(at, 1)
     md = texts(at)
     assert "correct answer" in md and "Knowledge Base" in md and "Detailed explanation" in md
+
+
+def test_sanskrit_texts_page_finds_a_quoted_line_and_opens_on_a_chosen_text(at):
+    at.session_state["goto"] = "texts"
+    at = at.run()
+    assert not at.exception, [e.message for e in at.exception]
+    assert "Nārada Bhakti Sūtra" in str(at.selectbox(key="tx_text_yoga_1").options)
+    # AppTest forgets the page between runs, so ask for it the way the Knowledge Base buttons do (state.open_text)
+    at.session_state["goto"], at.session_state["tx_open"] = "texts", {"subject": "yoga", "query": "yogash chitta vritti"}
+    at = at.run()
+    assert "योगश्चित्तवृत्तिनिरोधः" in texts(at) and "Pātañjala Yoga Sūtra" in texts(at)
+    at.session_state["goto"], at.session_state["tx_open"] = "texts", {"subject": "yoga", "text": "yoga-sutra"}
+    at = at.run()
+    assert "अथ योगानुशासनम्" in texts(at) and not at.exception

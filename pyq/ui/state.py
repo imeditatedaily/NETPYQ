@@ -150,6 +150,14 @@ def go(page: str) -> None:
 
 # --- practice ----------------------------------------------------------------------------
 
+def open_text(subject: str, text_id: str | None = None, query: str = "") -> None:
+    """Opens the Sanskrit Texts page on one text, or on a search (used by the Knowledge Base).
+    Widget keys are dropped when the page switches, so the request waits under a plain key
+    ("tx_open") that the Texts page applies before it draws its widgets."""
+    st.session_state["tx_open"] = {"subject": subject, "text": text_id, "query": query}
+    go("texts")
+
+
 def start_run(bank: Bank, filters: Filters | None = None) -> PracticeRun:
     ss = st.session_state
     filters = filters or current_filters()

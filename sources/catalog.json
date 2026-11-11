@@ -1418,5 +1418,17 @@
     "licence": "The Sanskrit text is in the public domain.",
     "where": "ebharatisampat.in; copied in github.com/sanskrit/raw_etexts.",
     "note": "Text of the Amṛtanāda Upaniṣad (39 mantras) on the Sanskrit Texts page."
+  },
+  {
+    "id": "muktabodha-etexts",
+    "title": "Muktabodha Indological Research Institute: digital library e-texts",
+    "author": "Muktabodha",
+    "year": "",
+    "kind": "primary",
+    "units": ["Yoga Unit 1: Fundamentals of Yoga", "Yoga Unit 5: Hatha Yoga Texts"],
+    "file": null,
+    "licence": "The Sanskrit text is in the public domain.",
+    "where": "muktabodha.org digital library; copied in github.com/sanskrit/raw_etexts.",
+    "note": "Text of the Śiva Saṃhitā and Gorakṣa Śataka on the Sanskrit Texts page. These e-texts are typed from single editions and are less carefully proofread than the others."
   }
 ]
