@@ -790,6 +790,10 @@
   ],
   "3.2": [
    [
+    "YOGA-2018DEC-P2-Q26",
+    "quoted"
+   ],
+   [
     "YOGA-2025JUN-P2-Q134",
     "source"
    ]
@@ -1792,6 +1796,10 @@
    [
     "YOGA-2019DEC-P2-Q066",
     "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q37",
+    "source"
    ]
   ],
   "4.36": [
@@ -2106,6 +2114,12 @@
     "source"
    ]
   ],
+  "1.2.4": [
+   [
+    "YOGA-2017JAN-P3-Q65",
+    "source"
+   ]
+  ],
   "2.1.4": [
    [
     "YOGA-2019JUN-P2-Q67",
@@ -2392,6 +2406,42 @@
   ]
  },
  "shiva-samhita": {
+  "2.13": [
+   [
+    "YOGA-2018DEC-P2-Q12",
+    "source"
+   ]
+  ],
+  "2.14": [
+   [
+    "YOGA-2018DEC-P2-Q12",
+    "source"
+   ]
+  ],
+  "2.15": [
+   [
+    "YOGA-2018DEC-P2-Q12",
+    "source"
+   ]
+  ],
+  "2.16": [
+   [
+    "YOGA-2018DEC-P2-Q12",
+    "source"
+   ]
+  ],
+  "2.18": [
+   [
+    "YOGA-2018DEC-P2-Q12",
+    "source"
+   ]
+  ],
+  "2.19": [
+   [
+    "YOGA-2019DEC-P2-Q081",
+    "source"
+   ]
+  ],
   "3.38": [
    [
     "YOGA-2019DEC-P2-Q075",
@@ -3004,6 +3054,10 @@
     "source"
    ],
    [
+    "YOGA-2017NOV-P2-Q13",
+    "source"
+   ],
+   [
     "YOGA-2017NOV-P2-Q29",
     "quoted"
    ],
@@ -3249,6 +3303,10 @@
    ],
    [
     "YOGA-2019JUN-P2-Q30",
+    "source"
+   ],
+   [
+    "YOGA-2019JUN-P2-Q95",
     "source"
    ],
    [
@@ -3649,6 +3707,10 @@
    ]
   ],
   "2.49": [
+   [
+    "YOGA-2017NOV-P2-Q13",
+    "source"
+   ],
    [
     "YOGA-2017NOV-P2-Q46",
     "source"

@@ -82,6 +82,7 @@ class Question:
     prompt: str = ""
     references: tuple[str, ...] = ()
     source_ids: tuple[str, ...] = ()     # Source Library entries to study this from
+    accepted_answers: tuple[int, ...] = ()   # every option the official key gave marks for, when more than one
 
     @property
     def subject_info(self) -> Subject:
@@ -132,8 +133,18 @@ class Question:
     def correct_text(self) -> str:
         return self.options[self.correct_answer - 1]
 
+    @property
+    def accepted(self) -> tuple[int, ...]:
+        """The options that score: the answer, plus any others the official key also accepted."""
+        return self.accepted_answers or (self.correct_answer,)
+
+    @property
+    def dropped(self) -> bool:
+        """True when the official key gave marks for every option (the question was dropped)."""
+        return len(self.accepted) == len(self.options)
+
     def is_correct(self, chosen: int) -> bool:
-        return chosen == self.correct_answer
+        return chosen in self.accepted
 
 
 def _text(raw: Mapping[str, Any], key: str) -> str:
@@ -207,6 +218,13 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
         errors.append('"options" must be a list of at least two answer texts')
     elif not isinstance(correct, int) or isinstance(correct, bool) or not 1 <= correct <= len(options):
         errors.append(f'"correct_answer" must be an option number from 1 to {len(options)}')
+    accepted = raw.get("accepted_answers", [])
+    if not (isinstance(accepted, list) and all(isinstance(a, int) and not isinstance(a, bool) for a in accepted)):
+        errors.append('"accepted_answers" must be a list of option numbers')
+        accepted = []
+    elif accepted and options and (correct not in accepted or not all(1 <= a <= len(options) for a in accepted)
+                                   or len(set(accepted)) != len(accepted)):
+        errors.append('"accepted_answers" must list distinct option numbers and include "correct_answer"')
 
     qtype = raw.get("question_type", "mcq")
     if qtype not in QUESTION_TYPES:
@@ -286,6 +304,7 @@ def parse_question(raw: Mapping[str, Any]) -> Question:
         question_text=_text(raw, "question_text"),
         options=options,
         correct_answer=correct,
+        accepted_answers=tuple(sorted(accepted)) if len(accepted) > 1 else (),
         detailed_explanation=_text(raw, "detailed_explanation"),
         macro_unit=macro_unit,
         micro_topic=_text(raw, "micro_topic"),

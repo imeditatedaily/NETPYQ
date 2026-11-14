@@ -73,12 +73,36 @@ def test_unit_labels_match_the_requested_pattern():
     ({"question_no": 0}, "question_no"),
     ({"paper": 2}, "paper"),
     ({"question_type": "statements", "items": ["p", "q"], "item_style": "greek"}, "item_style"),
+    ({"accepted_answers": [2, 3]}, "accepted_answers"),          # must include correct_answer
+    ({"accepted_answers": [1, 5]}, "accepted_answers"),
+    ({"accepted_answers": "1,2"}, "accepted_answers"),
     ({"question_type": "match", "lists": {"list_i": {"items": ["a"], "style": "x"}, "list_ii": {"items": ["b"]}}},
      "style"),
 ])
 def test_bad_questions_are_rejected_with_a_reason(overrides, message):
     with pytest.raises(QuestionError, match=message):
         parse_question(dated("X", 2025, "June", **overrides))
+
+
+def test_answers_the_official_key_also_accepted_score_as_right():
+    one = parse_question(dated("A", 2018, "December"))
+    assert one.accepted == (1,) and one.is_correct(1) and not one.is_correct(2) and not one.dropped
+    two = parse_question(dated("B", 2018, "December", correct_answer=3, accepted_answers=[3, 1]))
+    assert two.accepted == (1, 3) and two.is_correct(1) and two.is_correct(3) and not two.is_correct(2)
+    dropped = parse_question(dated("C", 2019, "June", accepted_answers=[1, 2, 3, 4]))
+    assert dropped.dropped and all(dropped.is_correct(n) for n in range(1, 5))
+
+
+def test_every_yoga_paper_has_every_question():
+    """Each Yoga paper of 2017-2025 is complete: questions the key cancelled are kept, scored as the key scored them."""
+    from collections import defaultdict
+    papers = defaultdict(set)
+    for q in shipped_bank().questions:
+        if q.subject == "yoga" and q.is_dated:
+            papers[(q.session_key, q.paper)].add(q.question_no)
+    for (session, paper), nos in papers.items():
+        size = 75 if paper == "Paper III" else 50 if session in ("2017-January", "2017-November") else 100
+        assert len(nos) == size, (session, paper, size - len(nos))
 
 
 def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
@@ -89,7 +113,7 @@ def test_shipped_papers_load_cleanly_with_answers_notes_and_sources():
                     and q.paper == "Paper II"), key=lambda q: q.question_no)
     assert [q.question_no for q in jan17] == list(range(1, 51))
     jan17_p3 = [q for q in papers if q.session_key == "2017-January" and q.subject == "yoga" and q.paper == "Paper III"]
-    assert len(jan17_p3) == 72 and {q.answer_source for q in jan17_p3} == {"unverified"}   # official booklet, no key
+    assert len(jan17_p3) == 75 and {q.answer_source for q in jan17_p3} == {"unverified"}   # official booklet, no key
     library = load_library(SOURCE_DIR)
     notes, problems = read_topic_notes(TOPIC_FILE)
     assert problems == []

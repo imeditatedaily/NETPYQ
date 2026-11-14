@@ -1,97 +1,951 @@
 {
-"YOGA-2018JUL-P2-Q01": {"question_text": "In which Upanishad are the four quarters (padas) of Omkara mentioned?", "options": ["Prashnopanishad", "Mundakopanishad", "Mandukyopanishad", "Kathopanishad"]},
-"YOGA-2018JUL-P2-Q02": {"question_text": "Which of the following is emphasised in the Yoga Vasishtha?", "options": ["Jnana yoga", "Mantra yoga", "Raja yoga", "Bhakti yoga"]},
-"YOGA-2018JUL-P2-Q03": {"question_text": "Purusha and prakriti are the two main concepts of which of the following philosophies?", "options": ["Vedanta", "Samkhya", "Purva Mimamsa", "Vaisheshika"]},
-"YOGA-2018JUL-P2-Q04": {"question_text": "Which of the following is not among the ten main nadis?", "options": ["Alambusha", "Kuhu", "Kurma", "Shankhini"]},
-"YOGA-2018JUL-P2-Q05": {"question_text": "According to Yoga Vasishtha, which one of the following is not categorized under Jnanabhoomika?", "options": ["Shubheccha", "Vicharana", "Sadbhavana", "Tanumanasa"]},
-"YOGA-2018JUL-P2-Q06": {"question_text": "According to the Prashnopanishad, which vayu carries a person to the different worlds?", "options": ["Prana vayu", "Udana vayu", "Vyana vayu", "Samana vayu"]},
-"YOGA-2018JUL-P2-Q07": {"question_text": "According to Srimad Bhagvadgeeta, perfection in Yoga does not occur due to:", "options": ["Proper diet and behaviour", "Proper Karma", "Proper sleep and wakefulness", "Tactical functions"]},
-"YOGA-2018JUL-P2-Q08": {"question_text": "According to the Ishavasyopanishad, what is the means of attaining immortality?", "options": ["Vidya", "Avidya", "Dana (charity)", "Tapa"]},
-"YOGA-2018JUL-P2-Q09": {"question_text": "'dhāraṇāsu ca yogyatā manasaḥ' (the mind becomes fit for dharana) is the result of what?", "options": ["Dhyana", "Pratyahara", "Pranayama", "Samyama"]},
-"YOGA-2018JUL-P2-Q10": {"question_text": "\"dṛṣṭānuśravika-viṣaya-vitṛṣṇā\" (freedom from craving for objects seen or heard of) is the special mark of what?", "options": ["Vashikara vairagya", "Para vairagya", "Ritambhara prajna", "Sthitaprajna"]},
-"YOGA-2018JUL-P2-Q11": {"question_text": "According to Patanjali, the cause of what is to be avoided (heya-hetu) is the union of which of the following?", "options": ["The seer and the seen", "Mind and senses", "The individual self and the Supreme Self", "Mind and intellect"]},
-"YOGA-2018JUL-P2-Q12": {"question_text": "Which of the following is not among the three transformations (parinamatraya)?", "options": ["Ekagrata parinama", "Nirodha parinama", "Samadhi parinama", "Dharana parinama"]},
-"YOGA-2018JUL-P2-Q13": {"question_text": "Which of the following can give knowledge of previous births?", "options": ["Samyama on the kurma nadi", "Samyama on the sun", "Samyama on the samskaras", "Samyama on the form of the body"]},
-"YOGA-2018JUL-P2-Q14": {"question_text": "\"Asmita\" means the oneness of ______.", "options": ["Mind and self", "The power of the seer and the power of seeing", "Body and senses", "Pleasure and pain"]},
-"YOGA-2018JUL-P2-Q15": {"question_text": "According to the Yoga Sutra, which of the following is the method of gaining the divine power of hearing?", "options": ["Samyama on the relation between the ear and space (akasha)", "Samyama on the relation between the ear and fire", "Samyama on the relation between the ear and earth", "Samyama on the relation between the ear and air"]},
-"YOGA-2018JUL-P2-Q16": {"question_text": "According to the Hatha Pradipika, what kind of sound is heard at the beginning of the practice of nadanusandhana?", "options": ["The sound of clouds (thunder)", "The sound of a conch", "The sound of a bell", "The sound of a bee"]},
-"YOGA-2018JUL-P2-Q17": {"question_text": "According to Swatmarama, which is the best among the yamas?", "options": ["Mitahara", "Satya", "Asteya", "Brahmacharya"]},
-"YOGA-2018JUL-P2-Q18": {"question_text": "According to Swatmarama, in yoga practice the mind is closely linked with what?", "options": ["The senses", "Prana", "The body", "The intellect"]},
-"YOGA-2018JUL-P2-Q19": {"question_text": "In which text are four kinds of people mentioned: the distressed (arta), the seeker of knowledge (jijnasu), the seeker of wealth (artharthi) and the wise (jnani)?", "options": ["The Ramayana", "The Brahma Sutra", "The Kathopanishad", "The Bhagavad Gita"]},
-"YOGA-2018JUL-P2-Q20": {"question_text": "According to the Gheranda Samhita, how many kinds of danta dhauti are there?"},
-"YOGA-2018JUL-P2-Q23": {"question_text": "The tricuspid valve lies between:", "options": ["The left atrium and the left ventricle", "The right atrium and the right ventricle", "The right atrium and the pulmonary artery", "The left atrium and the pulmonary artery"]},
-"YOGA-2018JUL-P2-Q24": {"question_text": "The hormone progesterone is secreted by which gland?", "options": ["The ovary", "The adrenal gland", "The kidneys", "The parathyroid gland"]},
-"YOGA-2018JUL-P2-Q25": {"question_text": "The T3 hormone is secreted by which endocrine gland?", "options": ["Pituitary", "Pineal", "Thyroid", "Thymus"]},
-"YOGA-2018JUL-P2-Q26": {"question_text": "Which of the following is an example of connective tissue?", "options": ["Cardiac muscle", "Smooth muscle", "Blood", "Spleen"]},
-"YOGA-2018JUL-P2-Q27": {"question_text": "In which part of the brain is the 'circadian clock' located?", "options": ["Cerebrum", "Cerebellum", "Hypothalamus", "Medulla oblongata"]},
-"YOGA-2018JUL-P2-Q28": {"question_text": "Which is not included in prajnaparadha (the error of the intellect)?", "options": ["Dhi (understanding)", "Dhriti (restraint)", "Manovritti (mental disposition)", "Smriti (memory)"]},
-"YOGA-2018JUL-P2-Q29": {"question_text": "What does not occur in metabolic syndrome?", "options": ["High blood pressure", "Abdominal obesity", "Dyslipidaemia", "Hyperthyroidism"]},
-"YOGA-2018JUL-P2-Q30": {"question_text": "Through which of the following does stress cause over-activity of the involuntary organs?", "options": ["The spinal nerves", "The cranial nerves", "The sympathetic nerves", "The parasympathetic nerves"]},
-"YOGA-2018JUL-P2-Q31": {"question_text": "Which of the following could be the best seating arrangement for students in a small yoga class?", "options": ["Straight rows", "A circle", "A semicircle", "Two circles"]},
-"YOGA-2018JUL-P2-Q32": {"question_text": "A student's learning of a particular yoga practice depends on which of the following?", "options": ["The trainer's concentration", "The trainer's strength", "The trainer's clear instruction", "The trainer's self-confidence"]},
-"YOGA-2018JUL-P2-Q34": {"question_text": "Who propounded Transcendental Meditation?", "options": ["Swami Ramdev", "Maharshi Dayananda", "Swami Sivananda", "Maharishi Mahesh Yogi"]},
-"YOGA-2018JUL-P2-Q35": {"question_text": "The aim of teaching is mainly to bring about change in ______.", "options": ["The environment", "The subject", "The student", "The teacher"]},
-"YOGA-2018JUL-P2-Q36": {"question_text": "The most reliable method of imparting value education can be:", "options": ["Traditional gurukula teaching", "Classroom teaching", "Practice-based yoga teaching", "Theory-based yoga teaching"]},
-"YOGA-2018JUL-P2-Q37": {"question_text": "Hot flushes, disturbed sleep and emotional changes are typical symptoms of what?", "options": ["Premenstrual syndrome", "Menopausal syndrome", "Metabolic syndrome", "Nephrotic syndrome"]},
-"YOGA-2018JUL-P2-Q38": {"question_text": "Kriya yoga includes:", "items": ["Svadhyaya", "Tapa", "Avidya", "Ishvara pranidhana"]},
-"YOGA-2018JUL-P2-Q39": {"question_text": "Jaina philosophy teaches three jewels:", "items": ["Samyak jnana (right knowledge)", "Samyak charitra (right conduct)", "Samyak darshana (right faith)", "Samyak vak (right speech)"]},
-"YOGA-2018JUL-P2-Q40": {"question_text": "According to the Kathopanishad, what temptations did Yama offer Nachiketa?", "items": ["Sons and grandsons living a hundred years and more", "Cows, elephants, horses and so on", "Rule over the whole earth", "Knowledge of the Self"]},
-"YOGA-2018JUL-P2-Q41": {"question_text": "The ida, pingala and sushumna nadis are known respectively as:", "items": ["Saraswati", "Ganga", "Yamuna", "Kaveri"]},
-"YOGA-2018JUL-P2-Q42": {"question_text": "According to Bhagvadgeeta, the properties of Sattvika Ahara are:", "items": ["Pleasure and Love promoter", "Hot and Salty", "Age and intellect promoter", "Worry and disease producer"]},
-"YOGA-2018JUL-P2-Q43": {"question_text": "According to the Yoga Sutra, which of the following are necessary for abhyasa to become firm?", "items": ["Devotion", "A long time", "Continuity without break", "Svadhyaya"]},
-"YOGA-2018JUL-P2-Q44": {"question_text": "Which of the following are not included among the companions (sahabhuvah) of the distractions?", "items": ["Daurmanasya (dejection)", "Shvasa (irregular inhalation)", "Styana (dullness)", "Anavasthitatva (instability)"]},
-"YOGA-2018JUL-P2-Q45": {"question_text": "Which kinds of food are not beneficial for people of vata constitution?", "items": ["Shita (cold)", "Snigdha (oily)", "Ruksha (dry)", "Guru (heavy)"]},
-"YOGA-2018JUL-P2-Q46": {"question_text": "Which of the following are responsible for success in yoga practice?", "items": ["Prayasa (overexertion)", "Utsaha (enthusiasm)", "Sahasa (courage)", "Niyamagraha (rigid adherence to rules)"]},
-"YOGA-2018JUL-P2-Q47": {"question_text": "According to the Hatha Pradipika, which are not included among the ten mudras?", "items": ["Maha bandha", "Maha mudra", "Shambhavi mudra", "Ashvini mudra"]},
-"YOGA-2018JUL-P2-Q48": {"question_text": "According to the Hatha Pradipika, by performing which does a person not suffer from hunger, thirst and the like?", "items": ["Sitkari pranayama", "Shitali pranayama", "Viparitakarani mudra", "Khechari mudra"]},
-"YOGA-2018JUL-P2-Q49": {"question_text": "Smooth muscles are found in:", "items": ["All involuntary organs except heart", "Intestine and liver", "Heart", "Hands and feet"]},
-"YOGA-2018JUL-P2-Q51": {"question_text": "Which are the rich sources of energy?", "items": ["Fats", "Carbohydrates", "Proteins", "Vitamins"]},
-"YOGA-2018JUL-P2-Q52": {"question_text": "According to the Gheranda Samhita, which foods should be forbidden for a yoga practitioner?", "items": ["Kushmanda (ash gourd)", "Patola (pointed gourd)", "Lakucha (monkey jack)", "Kulattha (horse gram)"]},
-"YOGA-2018JUL-P2-Q53": {"question_text": "In which disorders is kapalabhati generally contraindicated?", "items": ["Low blood pressure", "High blood pressure", "Hernia", "Obesity"]},
-"YOGA-2018JUL-P2-Q54": {"question_text": "In which disorders is shashankasana contraindicated?", "items": ["Vertigo", "Slipped disc", "Constipation", "Diabetes"]},
-"YOGA-2018JUL-P2-Q55": {"question_text": "Who developed the humanistic approach to personality?", "items": ["Carl Jung", "Albert Bandura", "Carl Rogers", "Abraham Maslow"]},
-"YOGA-2018JUL-P2-Q56": {"question_text": "The three stages of memory are:", "items": ["Retrieval", "Encoding", "Rehearsal", "Storage"]},
-"YOGA-2018JUL-P2-Q57": {"question_text": "Which of the following does value-oriented education build?", "items": ["A prosperous society", "A peaceful society", "A healthy society", "A politically stable society"]},
-"YOGA-2018JUL-P2-Q58": {"question_text": "According to the Gheranda Samhita, the kinds of kapalabhati are:", "items": ["Shitkrama", "Vatasara", "Vahnisara", "Vyutkrama"]},
-"YOGA-2018JUL-P2-Q59": {"question_text": "According to the Hatha Yoga Pradipika, maha vedha mudra removes:", "items": ["Wrinkles", "Insomnia", "Greying of hair", "Trembling"]},
-"YOGA-2018JUL-P2-Q60": {"question_text": "The benefits of a written lesson plan lie mostly in:", "items": ["Organising the teacher's thinking", "Increasing the teacher's self-confidence", "Understanding the student's ability", "Keeping to the goals of teaching"]},
-"YOGA-2018JUL-P2-Q61": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "Dhanurasana is contraindicated in hernia.", "reason": "Dhanurasana is a backward-bending asana that increases pressure on the front wall of the abdomen, so it is harmful in hernia."},
-"YOGA-2018JUL-P2-Q62": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "According to the Bhagavad Gita, Samkhya and Yoga are the two most ancient systems of philosophy.", "reason": "Samkhya and Yoga are the paths of knowledge and action respectively."},
-"YOGA-2018JUL-P2-Q63": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "For students, a guru is more a guide than a teacher.", "reason": "A guru tries to develop in students the very abilities he has already experienced himself."},
-"YOGA-2018JUL-P2-Q64": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "Stress in itself is a symptom, but not a disease.", "reason": "The immediate result of harmful external stimuli appears as a state of stress, from which various diseases arise."},
-"YOGA-2018JUL-P2-Q66": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "Rajasic food is not beneficial for a yoga practitioner.", "reason": "Pungent, salty and sharp food increases rajas, which is an obstacle to yoga practice."},
-"YOGA-2018JUL-P2-Q67": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "Food predominant in pungent, bitter and astringent tastes is not beneficial for people of vata constitution.", "reason": "Eating too much food predominant in pungent, bitter and astringent tastes increases vata dosha."},
-"YOGA-2018JUL-P2-Q71": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "Wrong practice of pranayama gives rise to various diseases.", "reason": "Wrong practice of pranayama disturbs the vayu, causing hiccups, breathlessness, cough, headache, earache and other diseases."},
-"YOGA-2018JUL-P2-Q69": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "Siddhasana purifies 72,000 nadis.", "reason": "According to Hatha Pradeepika, out of all 84 asanas the Siddhasana is best one which purifies nadis."},
-"YOGA-2018JUL-P2-Q70": {"question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?", "assertion": "A good teacher is equal to a thousand priests.", "reason": "A teacher inspires students to look within themselves."},
-"YOGA-2018JUL-P2-X01": {"question_text": "According to the Gheranda Samhita, arrange the following (for the practice of pranayama) in the proper order:", "items": ["Mitahara", "Sthana (place)", "Nadi shodhana", "Kala (time)"]},
-"YOGA-2018JUL-P2-Q72": {"question_text": "Arrange the following siddhis in the proper order:", "items": ["Varta", "Shravana", "Adarsha", "Asvada", "Vedana"]},
-"YOGA-2018JUL-P2-Q73": {"question_text": "Arrange the following in the proper order (the vrittis according to the Yoga Sutra):", "items": ["Viparyaya", "Vikalpa", "Pramana", "Smriti", "Nidra"]},
-"YOGA-2018JUL-P2-Q74": {"question_text": "According to the Siddha Siddhanta Paddhati, arrange the qualities of the great element air (mahavayu) in sequence:", "items": ["Shoshana (drying)", "Sanchalana (moving)", "Smoky colour", "Sanchara (circulation)", "Sparsha (touch)"]},
-"YOGA-2018JUL-P2-Q75": {"question_text": "According to Siddha Siddhanta Paddhati, arrange the following types of Voice (Vak) in sequential order:", "items": ["Vaikhari", "Madhyama", "Para", "Matrika", "Pashyanti"]},
-"YOGA-2018JUL-P2-Q76": {"question_text": "Arrange the following groups of vertebrae in descending order (according to their position in the body):", "items": ["Sacral vertebrae", "Lumbar vertebrae", "Cervical vertebrae", "Thoracic vertebrae"]},
-"YOGA-2018JUL-P2-Q77": {"question_text": "According to the Bhagavad Gita, arrange the following states in the proper order:", "items": ["Attachment (sanga)", "Anger (krodha)", "Desire (kama)", "Dwelling on the objects of the senses"]},
-"YOGA-2018JUL-P2-Q78": {"question_text": "Match List-I with List-II:", "list_i": ["samatvaṁ yoga ucyate", "yogaś citta-vṛtti-nirodhaḥ", "yogaḥ karmasu kauśalam", "duḥkha-saṁyoga-viyogaṁ yoga-saṁjñitam"], "list_ii": ["Gita 2/50", "Gita 2/48", "Gita 6/23", "Yoga Sutra 1/2"]},
-"YOGA-2018JUL-P2-Q79": {"question_text": "Match List-I with List-II:", "list_i_title": "List-I (Doctrine)", "list_ii_title": "List-II (Philosophy)", "list_i": ["Satkaryavada", "Vivartavada", "Syadvada", "Kshanabhangavada"], "list_ii": ["Jaina philosophy", "Samkhya philosophy", "Buddhist philosophy", "Vedanta philosophy"]},
-"YOGA-2018JUL-P2-Q80": {"question_text": "Match List-I with List-II:", "list_i": ["The waking state", "The dream state", "The deep-sleep state", "The turiya state"], "list_ii": ["Ukara (U)", "Amatra (without measure)", "Akara (A)", "Makara (M)"]},
-"YOGA-2018JUL-P2-X02": {"question_text": "Match List-I with List-II:", "list_i_title": "List-I (Commentary)", "list_ii_title": "List-II (Author)", "list_i": ["Tattvavaisharadi", "Yogavarttika", "Maniprabha", "Yogasudhakara"], "list_ii": ["Ramananda Yati", "Vachaspati Mishra", "Sadashivendra Saraswati", "Vijnanabhikshu"]},
-"YOGA-2018JUL-P2-X04": {"question_text": "Match List-I with List-II:", "list_i_title": "List-I (Practice)", "list_ii_title": "List-II (Result)", "list_i": ["Apara vairagya", "Kriya yoga", "Para vairagya", "Asamprajnata samadhi"], "list_ii": ["Asamprajnata samadhi", "Kaivalya", "Attenuation of the kleshas", "Samprajnata samadhi"]},
-"YOGA-2018JUL-P2-Q83": {"question_text": "Match List-I with List-II (according to Gherand Samhita):", "list_i": ["Dhyanayoga Samadhi", "Nadayoga Samadhi", "Rasanandayoga Samadhi", "Layasiddhi Samadhi"], "list_ii": ["Khechari Mudra", "Yoni Mudra", "Shambhavi Mudra", "Bhramari Mudra"]},
-"YOGA-2018JUL-P2-X03": {"question_text": "Match List-I with List-II:", "list_i": ["Anderson", "Gardner", "Sternberg", "Ceci"], "list_ii": ["Theory of multiple intelligences", "Theory of intelligence and cognitive development", "Bioecological theory of intelligence", "Triarchic theory of intelligence"]},
-"YOGA-2018JUL-P2-X05": {"question_text": "Match List-I with List-II:", "list_i": ["Vitamin B1", "Vitamin B2", "Vitamin B12", "Vitamin B3"], "list_ii": ["Pellagra", "Beriberi", "Angular stomatitis", "Megaloblastic anaemia"]},
-"YOGA-2018JUL-P2-Q86": {"question_text": "Match List-I with List-II:", "list_i": ["Obesity", "Cervical spondylosis", "Diabetes", "Pregnancy"], "list_ii": ["Bhujangasana", "Butterfly pose (titali asana)", "Naukasana", "Ardha Matsyendrasana"]},
-"YOGA-2018JUL-P2-Q87": {"question_text": "Match List-I with List-II:", "list_i": ["Neti", "Dhauti", "Basti", "Trataka"], "list_ii": ["Sloth (tandra)", "Diseases above the collarbone (jatrurdhva)", "Breathing disorders", "Gulma (abdominal tumour)"]},
-"YOGA-2018JUL-P2-Q88": {"question_text": "Match List-I with List-II:", "list_i": ["Lecture method", "Group discussion method", "Demonstration method", "Guided practice method"], "list_ii": ["Skill", "Homework", "Formal teaching", "Problem-solving"]},
-"YOGA-2018JUL-P2-Q89": {"question_text": "Which of the following is not a kind of pranayama?", "passage": "Maharshi Patanjali has described eight limbs of yoga for attaining kaivalya. These limbs are: yama (universal moral commandments), niyama (self-purification through discipline), asana, pranayama (rhythmic control of prana), pratyahara (withdrawal and complete mastery of the senses), dharana, dhyana and samadhi (the state of supreme consciousness). Of these, the first five are considered bahiranga (outer) yoga and the remaining three antaranga (inner) yoga. The yamas are moral rules for society and the individual: ahimsa, satya, asteya, brahmacharya and aparigraha. The niyamas are codes of conduct that apply to personal discipline. The five niyamas are shaucha, santosha, tapa, svadhyaya and Ishvara pranidhana.\n\nThe third limb of ashtanga yoga is asana. The practice of asana brings steadiness and ease, and the person is not easily affected by the pairs of opposites such as heat and cold, thirst and hunger, attraction and aversion. Pranayama means the expansion or regulation of the breath, or of the life force. It is of four kinds: bahya vritti, abhyantara vritti, stambha vritti and bahyabhyantara vishayakshepi. Pranayama should be practised only after mastery of asana. Pranayama removes the covering over the light of knowledge and makes the mind fit for dharana. Pratyahara is the practice of withdrawing the senses, mind and consciousness from contact with external objects and drawing them inwards towards the self. Pratyahara culminates in complete control over the organs of knowledge. Dharana means fixing attention on a chosen point or area inside or outside the body. Dhyana is keeping the chitta continuously focused on that one point or area. Samadhi is the state of supreme consciousness, where the sense of self is lost. Ashtanga yoga is the best path to attaining kaivalya.", "options": ["Bahya vritti", "Stambha vritti", "Mano vritti", "Abhyantara vritti"]},
-"YOGA-2018JUL-P2-Q90": {"question_text": "According to Maharshi Patanjali, which is the sixth limb of yoga?", "passage": "@YOGA-2018JUL-P2-Q89", "options": ["Yama", "Niyama", "Dharana", "Dhyana"]},
-"YOGA-2018JUL-P2-Q91": {"question_text": "Through the practice of which limb of yoga is a person not easily affected by the pairs of opposites?", "passage": "@YOGA-2018JUL-P2-Q89", "options": ["Yama", "Asana", "Niyama", "Pranayama"]},
-"YOGA-2018JUL-P2-Q92": {"question_text": "The practice of withdrawing the senses from contact with external objects is called:", "passage": "@YOGA-2018JUL-P2-Q89", "options": ["Yama", "Niyama", "Pranayama", "Pratyahara"]},
-"YOGA-2018JUL-P2-Q93": {"question_text": "Aparigraha is included under which of the following?", "passage": "@YOGA-2018JUL-P2-Q89", "options": ["Niyama", "Yama", "Antaranga yoga", "Samadhi"]},
-"YOGA-2018JUL-P2-Q94": {"question_text": "The covering over the light of knowledge is removed by which of the following?", "passage": "@YOGA-2018JUL-P2-Q89", "options": ["Pranayama", "Pratyahara", "Yama", "Asana"]},
-"YOGA-2018JUL-P2-Q95": {"question_text": "When was the second International Day of Yoga celebrated?", "passage": "On 27 September 2014, addressing the 69th session of the United Nations General Assembly (UNGA), India's Prime Minister Shri Narendra Modi called on the world community to celebrate a day as 'International Day of Yoga'. On 11 December 2014, the 193 members of the UN General Assembly, with a record 177 co-sponsoring countries, unanimously approved the resolution to celebrate 21 June as 'International Day of Yoga'. Yoga practice brings about the unity of mind and body, thought and action, restraint and fulfilment, and harmony between human beings and nature. It is a holistic approach to health and well-being. Yoga is known for promoting health, preventing disease and managing various lifestyle-related illnesses. The 'Common Yoga Protocol' was prepared to spread knowledge of the methods and benefits of yoga practice among the world's population.\n\nThe Ministry of AYUSH successfully organised the first International Day of Yoga at Rajpath, New Delhi, on 21 June 2015. Two Guinness World Records were set at the event: the largest yoga session, with 35,985 participants, and the participation of citizens of the most nations (84) in a single yoga session. The second International Day of Yoga was held on 21 June 2016 at the Capitol Complex, Chandigarh, where more than 30,000 people joined our Prime Minister Shri Narendra Modi. For the first time, 150 persons with disabilities performed the Common Yoga Protocol at the International Day of Yoga celebration at the Capitol Complex, Chandigarh. A two-day international conference on \"Yoga for Body and Beyond\" was held at Vigyan Bhawan, New Delhi, on 21 and 22 June 2016. Shri Narendra Modi celebrated the third International Day of Yoga in Lucknow on 21 June 2017.", "options": ["21 June 2014", "21 June 2015", "21 June 2016", "21 June 2017"]},
-"YOGA-2018JUL-P2-Q96": {"question_text": "The theme of the international conference held on 21 and 22 June 2016 was:", "passage": "@YOGA-2018JUL-P2-Q95", "options": ["Yoga for Health", "Yoga for Body and Beyond", "Yoga for Holistic Health", "Yoga for Harmony and Peace"]},
-"YOGA-2018JUL-P2-Q97": {"question_text": "At the first International Day of Yoga, how many participants, and citizens of how many countries, took part in a single yoga session?", "passage": "@YOGA-2018JUL-P2-Q95", "options": ["35,985 participants and 84 countries", "35,895 participants and 82 countries", "35,585 participants and 86 countries", "35,985 participants and 85 countries"]},
-"YOGA-2018JUL-P2-Q98": {"question_text": "On what date did the 193 members of the UN General Assembly unanimously approve the resolution to celebrate 21 June as \"International Day of Yoga\"?", "passage": "@YOGA-2018JUL-P2-Q95", "options": ["27 September 2014", "11 September 2014", "27 December 2014", "11 December 2014"]},
-"YOGA-2018JUL-P2-Q99": {"question_text": "At the second International Day of Yoga, how many persons with disabilities performed the yoga protocol?", "passage": "@YOGA-2018JUL-P2-Q95"},
-"YOGA-2018JUL-P2-Q100": {"question_text": "Between which of the following does yoga not establish harmony?", "passage": "@YOGA-2018JUL-P2-Q95", "options": ["Mind and body", "Thought and action", "Human beings and nature", "Thought and dream"]}
+ "YOGA-2018JUL-P2-Q01": {
+  "question_text": "In which Upanishad are the four quarters (padas) of Omkara mentioned?",
+  "options": [
+   "Prashnopanishad",
+   "Mundakopanishad",
+   "Mandukyopanishad",
+   "Kathopanishad"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q02": {
+  "question_text": "Which of the following is emphasised in the Yoga Vasishtha?",
+  "options": [
+   "Jnana yoga",
+   "Mantra yoga",
+   "Raja yoga",
+   "Bhakti yoga"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q03": {
+  "question_text": "Purusha and prakriti are the two main concepts of which of the following philosophies?",
+  "options": [
+   "Vedanta",
+   "Samkhya",
+   "Purva Mimamsa",
+   "Vaisheshika"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q04": {
+  "question_text": "Which of the following is not among the ten main nadis?",
+  "options": [
+   "Alambusha",
+   "Kuhu",
+   "Kurma",
+   "Shankhini"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q05": {
+  "question_text": "According to Yoga Vasishtha, which one of the following is not categorized under Jnanabhoomika?",
+  "options": [
+   "Shubheccha",
+   "Vicharana",
+   "Sadbhavana",
+   "Tanumanasa"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q06": {
+  "question_text": "According to the Prashnopanishad, which vayu carries a person to the different worlds?",
+  "options": [
+   "Prana vayu",
+   "Udana vayu",
+   "Vyana vayu",
+   "Samana vayu"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q07": {
+  "question_text": "According to Srimad Bhagvadgeeta, perfection in Yoga does not occur due to:",
+  "options": [
+   "Proper diet and behaviour",
+   "Proper Karma",
+   "Proper sleep and wakefulness",
+   "Tactical functions"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q08": {
+  "question_text": "According to the Ishavasyopanishad, what is the means of attaining immortality?",
+  "options": [
+   "Vidya",
+   "Avidya",
+   "Dana (charity)",
+   "Tapa"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q09": {
+  "question_text": "'dhāraṇāsu ca yogyatā manasaḥ' (the mind becomes fit for dharana) is the result of what?",
+  "options": [
+   "Dhyana",
+   "Pratyahara",
+   "Pranayama",
+   "Samyama"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q10": {
+  "question_text": "\"dṛṣṭānuśravika-viṣaya-vitṛṣṇā\" (freedom from craving for objects seen or heard of) is the special mark of what?",
+  "options": [
+   "Vashikara vairagya",
+   "Para vairagya",
+   "Ritambhara prajna",
+   "Sthitaprajna"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q11": {
+  "question_text": "According to Patanjali, the cause of what is to be avoided (heya-hetu) is the union of which of the following?",
+  "options": [
+   "The seer and the seen",
+   "Mind and senses",
+   "The individual self and the Supreme Self",
+   "Mind and intellect"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q12": {
+  "question_text": "Which of the following is not among the three transformations (parinamatraya)?",
+  "options": [
+   "Ekagrata parinama",
+   "Nirodha parinama",
+   "Samadhi parinama",
+   "Dharana parinama"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q13": {
+  "question_text": "Which of the following can give knowledge of previous births?",
+  "options": [
+   "Samyama on the kurma nadi",
+   "Samyama on the sun",
+   "Samyama on the samskaras",
+   "Samyama on the form of the body"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q14": {
+  "question_text": "\"Asmita\" means the oneness of ______.",
+  "options": [
+   "Mind and self",
+   "The power of the seer and the power of seeing",
+   "Body and senses",
+   "Pleasure and pain"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q15": {
+  "question_text": "According to the Yoga Sutra, which of the following is the method of gaining the divine power of hearing?",
+  "options": [
+   "Samyama on the relation between the ear and space (akasha)",
+   "Samyama on the relation between the ear and fire",
+   "Samyama on the relation between the ear and earth",
+   "Samyama on the relation between the ear and air"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q16": {
+  "question_text": "According to the Hatha Pradipika, what kind of sound is heard at the beginning of the practice of nadanusandhana?",
+  "options": [
+   "The sound of clouds (thunder)",
+   "The sound of a conch",
+   "The sound of a bell",
+   "The sound of a bee"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q17": {
+  "question_text": "According to Swatmarama, which is the best among the yamas?",
+  "options": [
+   "Mitahara",
+   "Satya",
+   "Asteya",
+   "Brahmacharya"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q18": {
+  "question_text": "According to Swatmarama, in yoga practice the mind is closely linked with what?",
+  "options": [
+   "The senses",
+   "Prana",
+   "The body",
+   "The intellect"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q19": {
+  "question_text": "In which text are four kinds of people mentioned: the distressed (arta), the seeker of knowledge (jijnasu), the seeker of wealth (artharthi) and the wise (jnani)?",
+  "options": [
+   "The Ramayana",
+   "The Brahma Sutra",
+   "The Kathopanishad",
+   "The Bhagavad Gita"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q20": {
+  "question_text": "According to the Gheranda Samhita, how many kinds of danta dhauti are there?"
+ },
+ "YOGA-2018JUL-P2-Q23": {
+  "question_text": "The tricuspid valve lies between:",
+  "options": [
+   "The left atrium and the left ventricle",
+   "The right atrium and the right ventricle",
+   "The right atrium and the pulmonary artery",
+   "The left atrium and the pulmonary artery"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q24": {
+  "question_text": "The hormone progesterone is secreted by which gland?",
+  "options": [
+   "The ovary",
+   "The adrenal gland",
+   "The kidneys",
+   "The parathyroid gland"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q25": {
+  "question_text": "The T3 hormone is secreted by which endocrine gland?",
+  "options": [
+   "Pituitary",
+   "Pineal",
+   "Thyroid",
+   "Thymus"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q26": {
+  "question_text": "Which of the following is an example of connective tissue?",
+  "options": [
+   "Cardiac muscle",
+   "Smooth muscle",
+   "Blood",
+   "Spleen"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q27": {
+  "question_text": "In which part of the brain is the 'circadian clock' located?",
+  "options": [
+   "Cerebrum",
+   "Cerebellum",
+   "Hypothalamus",
+   "Medulla oblongata"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q28": {
+  "question_text": "Which is not included in prajnaparadha (the error of the intellect)?",
+  "options": [
+   "Dhi (understanding)",
+   "Dhriti (restraint)",
+   "Manovritti (mental disposition)",
+   "Smriti (memory)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q29": {
+  "question_text": "What does not occur in metabolic syndrome?",
+  "options": [
+   "High blood pressure",
+   "Abdominal obesity",
+   "Dyslipidaemia",
+   "Hyperthyroidism"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q30": {
+  "question_text": "Through which of the following does stress cause over-activity of the involuntary organs?",
+  "options": [
+   "The spinal nerves",
+   "The cranial nerves",
+   "The sympathetic nerves",
+   "The parasympathetic nerves"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q31": {
+  "question_text": "Which of the following could be the best seating arrangement for students in a small yoga class?",
+  "options": [
+   "Straight rows",
+   "A circle",
+   "A semicircle",
+   "Two circles"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q32": {
+  "question_text": "A student's learning of a particular yoga practice depends on which of the following?",
+  "options": [
+   "The trainer's concentration",
+   "The trainer's strength",
+   "The trainer's clear instruction",
+   "The trainer's self-confidence"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q34": {
+  "question_text": "Who propounded Transcendental Meditation?",
+  "options": [
+   "Swami Ramdev",
+   "Maharshi Dayananda",
+   "Swami Sivananda",
+   "Maharishi Mahesh Yogi"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q35": {
+  "question_text": "The aim of teaching is mainly to bring about change in ______.",
+  "options": [
+   "The environment",
+   "The subject",
+   "The student",
+   "The teacher"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q36": {
+  "question_text": "The most reliable method of imparting value education can be:",
+  "options": [
+   "Traditional gurukula teaching",
+   "Classroom teaching",
+   "Practice-based yoga teaching",
+   "Theory-based yoga teaching"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q37": {
+  "question_text": "Hot flushes, disturbed sleep and emotional changes are typical symptoms of what?",
+  "options": [
+   "Premenstrual syndrome",
+   "Menopausal syndrome",
+   "Metabolic syndrome",
+   "Nephrotic syndrome"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q38": {
+  "question_text": "Kriya yoga includes:",
+  "items": [
+   "Svadhyaya",
+   "Tapa",
+   "Avidya",
+   "Ishvara pranidhana"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q39": {
+  "question_text": "Jaina philosophy teaches three jewels:",
+  "items": [
+   "Samyak jnana (right knowledge)",
+   "Samyak charitra (right conduct)",
+   "Samyak darshana (right faith)",
+   "Samyak vak (right speech)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q40": {
+  "question_text": "According to the Kathopanishad, what temptations did Yama offer Nachiketa?",
+  "items": [
+   "Sons and grandsons living a hundred years and more",
+   "Cows, elephants, horses and so on",
+   "Rule over the whole earth",
+   "Knowledge of the Self"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q41": {
+  "question_text": "The ida, pingala and sushumna nadis are known respectively as:",
+  "items": [
+   "Saraswati",
+   "Ganga",
+   "Yamuna",
+   "Kaveri"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q42": {
+  "question_text": "According to Bhagvadgeeta, the properties of Sattvika Ahara are:",
+  "items": [
+   "Pleasure and Love promoter",
+   "Hot and Salty",
+   "Age and intellect promoter",
+   "Worry and disease producer"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q43": {
+  "question_text": "According to the Yoga Sutra, which of the following are necessary for abhyasa to become firm?",
+  "items": [
+   "Devotion",
+   "A long time",
+   "Continuity without break",
+   "Svadhyaya"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q44": {
+  "question_text": "Which of the following are not included among the companions (sahabhuvah) of the distractions?",
+  "items": [
+   "Daurmanasya (dejection)",
+   "Shvasa (irregular inhalation)",
+   "Styana (dullness)",
+   "Anavasthitatva (instability)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q45": {
+  "question_text": "Which kinds of food are not beneficial for people of vata constitution?",
+  "items": [
+   "Shita (cold)",
+   "Snigdha (oily)",
+   "Ruksha (dry)",
+   "Guru (heavy)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q46": {
+  "question_text": "Which of the following are responsible for success in yoga practice?",
+  "items": [
+   "Prayasa (overexertion)",
+   "Utsaha (enthusiasm)",
+   "Sahasa (courage)",
+   "Niyamagraha (rigid adherence to rules)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q47": {
+  "question_text": "According to the Hatha Pradipika, which are not included among the ten mudras?",
+  "items": [
+   "Maha bandha",
+   "Maha mudra",
+   "Shambhavi mudra",
+   "Ashvini mudra"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q48": {
+  "question_text": "According to the Hatha Pradipika, by performing which does a person not suffer from hunger, thirst and the like?",
+  "items": [
+   "Sitkari pranayama",
+   "Shitali pranayama",
+   "Viparitakarani mudra",
+   "Khechari mudra"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q49": {
+  "question_text": "Smooth muscles are found in:",
+  "items": [
+   "All involuntary organs except heart",
+   "Intestine and liver",
+   "Heart",
+   "Hands and feet"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q51": {
+  "question_text": "Which are the rich sources of energy?",
+  "items": [
+   "Fats",
+   "Carbohydrates",
+   "Proteins",
+   "Vitamins"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q52": {
+  "question_text": "According to the Gheranda Samhita, which foods should be forbidden for a yoga practitioner?",
+  "items": [
+   "Kushmanda (ash gourd)",
+   "Patola (pointed gourd)",
+   "Lakucha (monkey jack)",
+   "Kulattha (horse gram)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q53": {
+  "question_text": "In which disorders is kapalabhati generally contraindicated?",
+  "items": [
+   "Low blood pressure",
+   "High blood pressure",
+   "Hernia",
+   "Obesity"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q54": {
+  "question_text": "In which disorders is shashankasana contraindicated?",
+  "items": [
+   "Vertigo",
+   "Slipped disc",
+   "Constipation",
+   "Diabetes"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q55": {
+  "question_text": "Who developed the humanistic approach to personality?",
+  "items": [
+   "Carl Jung",
+   "Albert Bandura",
+   "Carl Rogers",
+   "Abraham Maslow"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q56": {
+  "question_text": "The three stages of memory are:",
+  "items": [
+   "Retrieval",
+   "Encoding",
+   "Rehearsal",
+   "Storage"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q57": {
+  "question_text": "Which of the following does value-oriented education build?",
+  "items": [
+   "A prosperous society",
+   "A peaceful society",
+   "A healthy society",
+   "A politically stable society"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q58": {
+  "question_text": "According to the Gheranda Samhita, the kinds of kapalabhati are:",
+  "items": [
+   "Shitkrama",
+   "Vatasara",
+   "Vahnisara",
+   "Vyutkrama"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q59": {
+  "question_text": "According to the Hatha Yoga Pradipika, maha vedha mudra removes:",
+  "items": [
+   "Wrinkles",
+   "Insomnia",
+   "Greying of hair",
+   "Trembling"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q60": {
+  "question_text": "The benefits of a written lesson plan lie mostly in:",
+  "items": [
+   "Organising the teacher's thinking",
+   "Increasing the teacher's self-confidence",
+   "Understanding the student's ability",
+   "Keeping to the goals of teaching"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q61": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "Dhanurasana is contraindicated in hernia.",
+  "reason": "Dhanurasana is a backward-bending asana that increases pressure on the front wall of the abdomen, so it is harmful in hernia."
+ },
+ "YOGA-2018JUL-P2-Q62": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "According to the Bhagavad Gita, Samkhya and Yoga are the two most ancient systems of philosophy.",
+  "reason": "Samkhya and Yoga are the paths of knowledge and action respectively."
+ },
+ "YOGA-2018JUL-P2-Q63": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "For students, a guru is more a guide than a teacher.",
+  "reason": "A guru tries to develop in students the very abilities he has already experienced himself."
+ },
+ "YOGA-2018JUL-P2-Q64": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "Stress in itself is a symptom, but not a disease.",
+  "reason": "The immediate result of harmful external stimuli appears as a state of stress, from which various diseases arise."
+ },
+ "YOGA-2018JUL-P2-Q66": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "Rajasic food is not beneficial for a yoga practitioner.",
+  "reason": "Pungent, salty and sharp food increases rajas, which is an obstacle to yoga practice."
+ },
+ "YOGA-2018JUL-P2-Q67": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "Food predominant in pungent, bitter and astringent tastes is not beneficial for people of vata constitution.",
+  "reason": "Eating too much food predominant in pungent, bitter and astringent tastes increases vata dosha."
+ },
+ "YOGA-2018JUL-P2-Q71": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "Wrong practice of pranayama gives rise to various diseases.",
+  "reason": "Wrong practice of pranayama disturbs the vayu, causing hiccups, breathlessness, cough, headache, earache and other diseases."
+ },
+ "YOGA-2018JUL-P2-Q69": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "Siddhasana purifies 72,000 nadis.",
+  "reason": "According to Hatha Pradeepika, out of all 84 asanas the Siddhasana is best one which purifies nadis."
+ },
+ "YOGA-2018JUL-P2-Q70": {
+  "question_text": "Of the two statements given below, one is labelled Assertion (A) and the other Reason (R). In the context of the two statements, which of the following is correct?",
+  "assertion": "A good teacher is equal to a thousand priests.",
+  "reason": "A teacher inspires students to look within themselves."
+ },
+ "YOGA-2018JUL-P2-X01": {
+  "question_text": "According to the Gheranda Samhita, arrange the following (for the practice of pranayama) in the proper order:",
+  "items": [
+   "Mitahara",
+   "Sthana (place)",
+   "Nadi shodhana",
+   "Kala (time)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q72": {
+  "question_text": "Arrange the following siddhis in the proper order:",
+  "items": [
+   "Varta",
+   "Shravana",
+   "Adarsha",
+   "Asvada",
+   "Vedana"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q73": {
+  "question_text": "Arrange the following in the proper order (the vrittis according to the Yoga Sutra):",
+  "items": [
+   "Viparyaya",
+   "Vikalpa",
+   "Pramana",
+   "Smriti",
+   "Nidra"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q74": {
+  "question_text": "According to the Siddha Siddhanta Paddhati, arrange the qualities of the great element air (mahavayu) in sequence:",
+  "items": [
+   "Shoshana (drying)",
+   "Sanchalana (moving)",
+   "Smoky colour",
+   "Sanchara (circulation)",
+   "Sparsha (touch)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q75": {
+  "question_text": "According to Siddha Siddhanta Paddhati, arrange the following types of Voice (Vak) in sequential order:",
+  "items": [
+   "Vaikhari",
+   "Madhyama",
+   "Para",
+   "Matrika",
+   "Pashyanti"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q76": {
+  "question_text": "Arrange the following groups of vertebrae in descending order (according to their position in the body):",
+  "items": [
+   "Sacral vertebrae",
+   "Lumbar vertebrae",
+   "Cervical vertebrae",
+   "Thoracic vertebrae"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q77": {
+  "question_text": "According to the Bhagavad Gita, arrange the following states in the proper order:",
+  "items": [
+   "Attachment (sanga)",
+   "Anger (krodha)",
+   "Desire (kama)",
+   "Dwelling on the objects of the senses"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q78": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "samatvaṁ yoga ucyate",
+   "yogaś citta-vṛtti-nirodhaḥ",
+   "yogaḥ karmasu kauśalam",
+   "duḥkha-saṁyoga-viyogaṁ yoga-saṁjñitam"
+  ],
+  "list_ii": [
+   "Gita 2/50",
+   "Gita 2/48",
+   "Gita 6/23",
+   "Yoga Sutra 1/2"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q79": {
+  "question_text": "Match List-I with List-II:",
+  "list_i_title": "List-I (Doctrine)",
+  "list_ii_title": "List-II (Philosophy)",
+  "list_i": [
+   "Satkaryavada",
+   "Vivartavada",
+   "Syadvada",
+   "Kshanabhangavada"
+  ],
+  "list_ii": [
+   "Jaina philosophy",
+   "Samkhya philosophy",
+   "Buddhist philosophy",
+   "Vedanta philosophy"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q80": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "The waking state",
+   "The dream state",
+   "The deep-sleep state",
+   "The turiya state"
+  ],
+  "list_ii": [
+   "Ukara (U)",
+   "Amatra (without measure)",
+   "Akara (A)",
+   "Makara (M)"
+  ]
+ },
+ "YOGA-2018JUL-P2-X02": {
+  "question_text": "Match List-I with List-II:",
+  "list_i_title": "List-I (Commentary)",
+  "list_ii_title": "List-II (Author)",
+  "list_i": [
+   "Tattvavaisharadi",
+   "Yogavarttika",
+   "Maniprabha",
+   "Yogasudhakara"
+  ],
+  "list_ii": [
+   "Ramananda Yati",
+   "Vachaspati Mishra",
+   "Sadashivendra Saraswati",
+   "Vijnanabhikshu"
+  ]
+ },
+ "YOGA-2018JUL-P2-X04": {
+  "question_text": "Match List-I with List-II:",
+  "list_i_title": "List-I (Practice)",
+  "list_ii_title": "List-II (Result)",
+  "list_i": [
+   "Apara vairagya",
+   "Kriya yoga",
+   "Para vairagya",
+   "Asamprajnata samadhi"
+  ],
+  "list_ii": [
+   "Asamprajnata samadhi",
+   "Kaivalya",
+   "Attenuation of the kleshas",
+   "Samprajnata samadhi"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q83": {
+  "question_text": "Match List-I with List-II (according to Gherand Samhita):",
+  "list_i": [
+   "Dhyanayoga Samadhi",
+   "Nadayoga Samadhi",
+   "Rasanandayoga Samadhi",
+   "Layasiddhi Samadhi"
+  ],
+  "list_ii": [
+   "Khechari Mudra",
+   "Yoni Mudra",
+   "Shambhavi Mudra",
+   "Bhramari Mudra"
+  ]
+ },
+ "YOGA-2018JUL-P2-X03": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "Anderson",
+   "Gardner",
+   "Sternberg",
+   "Ceci"
+  ],
+  "list_ii": [
+   "Theory of multiple intelligences",
+   "Theory of intelligence and cognitive development",
+   "Bioecological theory of intelligence",
+   "Triarchic theory of intelligence"
+  ]
+ },
+ "YOGA-2018JUL-P2-X05": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "Vitamin B1",
+   "Vitamin B2",
+   "Vitamin B12",
+   "Vitamin B3"
+  ],
+  "list_ii": [
+   "Pellagra",
+   "Beriberi",
+   "Angular stomatitis",
+   "Megaloblastic anaemia"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q86": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "Obesity",
+   "Cervical spondylosis",
+   "Diabetes",
+   "Pregnancy"
+  ],
+  "list_ii": [
+   "Bhujangasana",
+   "Butterfly pose (titali asana)",
+   "Naukasana",
+   "Ardha Matsyendrasana"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q87": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "Neti",
+   "Dhauti",
+   "Basti",
+   "Trataka"
+  ],
+  "list_ii": [
+   "Sloth (tandra)",
+   "Diseases above the collarbone (jatrurdhva)",
+   "Breathing disorders",
+   "Gulma (abdominal tumour)"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q88": {
+  "question_text": "Match List-I with List-II:",
+  "list_i": [
+   "Lecture method",
+   "Group discussion method",
+   "Demonstration method",
+   "Guided practice method"
+  ],
+  "list_ii": [
+   "Skill",
+   "Homework",
+   "Formal teaching",
+   "Problem-solving"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q89": {
+  "question_text": "Which of the following is not a kind of pranayama?",
+  "passage": "Maharshi Patanjali has described eight limbs of yoga for attaining kaivalya. These limbs are: yama (universal moral commandments), niyama (self-purification through discipline), asana, pranayama (rhythmic control of prana), pratyahara (withdrawal and complete mastery of the senses), dharana, dhyana and samadhi (the state of supreme consciousness). Of these, the first five are considered bahiranga (outer) yoga and the remaining three antaranga (inner) yoga. The yamas are moral rules for society and the individual: ahimsa, satya, asteya, brahmacharya and aparigraha. The niyamas are codes of conduct that apply to personal discipline. The five niyamas are shaucha, santosha, tapa, svadhyaya and Ishvara pranidhana.\n\nThe third limb of ashtanga yoga is asana. The practice of asana brings steadiness and ease, and the person is not easily affected by the pairs of opposites such as heat and cold, thirst and hunger, attraction and aversion. Pranayama means the expansion or regulation of the breath, or of the life force. It is of four kinds: bahya vritti, abhyantara vritti, stambha vritti and bahyabhyantara vishayakshepi. Pranayama should be practised only after mastery of asana. Pranayama removes the covering over the light of knowledge and makes the mind fit for dharana. Pratyahara is the practice of withdrawing the senses, mind and consciousness from contact with external objects and drawing them inwards towards the self. Pratyahara culminates in complete control over the organs of knowledge. Dharana means fixing attention on a chosen point or area inside or outside the body. Dhyana is keeping the chitta continuously focused on that one point or area. Samadhi is the state of supreme consciousness, where the sense of self is lost. Ashtanga yoga is the best path to attaining kaivalya.",
+  "options": [
+   "Bahya vritti",
+   "Stambha vritti",
+   "Mano vritti",
+   "Abhyantara vritti"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q90": {
+  "question_text": "According to Maharshi Patanjali, which is the sixth limb of yoga?",
+  "passage": "@YOGA-2018JUL-P2-Q89",
+  "options": [
+   "Yama",
+   "Niyama",
+   "Dharana",
+   "Dhyana"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q91": {
+  "question_text": "Through the practice of which limb of yoga is a person not easily affected by the pairs of opposites?",
+  "passage": "@YOGA-2018JUL-P2-Q89",
+  "options": [
+   "Yama",
+   "Asana",
+   "Niyama",
+   "Pranayama"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q92": {
+  "question_text": "The practice of withdrawing the senses from contact with external objects is called:",
+  "passage": "@YOGA-2018JUL-P2-Q89",
+  "options": [
+   "Yama",
+   "Niyama",
+   "Pranayama",
+   "Pratyahara"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q93": {
+  "question_text": "Aparigraha is included under which of the following?",
+  "passage": "@YOGA-2018JUL-P2-Q89",
+  "options": [
+   "Niyama",
+   "Yama",
+   "Antaranga yoga",
+   "Samadhi"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q94": {
+  "question_text": "The covering over the light of knowledge is removed by which of the following?",
+  "passage": "@YOGA-2018JUL-P2-Q89",
+  "options": [
+   "Pranayama",
+   "Pratyahara",
+   "Yama",
+   "Asana"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q95": {
+  "question_text": "When was the second International Day of Yoga celebrated?",
+  "passage": "On 27 September 2014, addressing the 69th session of the United Nations General Assembly (UNGA), India's Prime Minister Shri Narendra Modi called on the world community to celebrate a day as 'International Day of Yoga'. On 11 December 2014, the 193 members of the UN General Assembly, with a record 177 co-sponsoring countries, unanimously approved the resolution to celebrate 21 June as 'International Day of Yoga'. Yoga practice brings about the unity of mind and body, thought and action, restraint and fulfilment, and harmony between human beings and nature. It is a holistic approach to health and well-being. Yoga is known for promoting health, preventing disease and managing various lifestyle-related illnesses. The 'Common Yoga Protocol' was prepared to spread knowledge of the methods and benefits of yoga practice among the world's population.\n\nThe Ministry of AYUSH successfully organised the first International Day of Yoga at Rajpath, New Delhi, on 21 June 2015. Two Guinness World Records were set at the event: the largest yoga session, with 35,985 participants, and the participation of citizens of the most nations (84) in a single yoga session. The second International Day of Yoga was held on 21 June 2016 at the Capitol Complex, Chandigarh, where more than 30,000 people joined our Prime Minister Shri Narendra Modi. For the first time, 150 persons with disabilities performed the Common Yoga Protocol at the International Day of Yoga celebration at the Capitol Complex, Chandigarh. A two-day international conference on \"Yoga for Body and Beyond\" was held at Vigyan Bhawan, New Delhi, on 21 and 22 June 2016. Shri Narendra Modi celebrated the third International Day of Yoga in Lucknow on 21 June 2017.",
+  "options": [
+   "21 June 2014",
+   "21 June 2015",
+   "21 June 2016",
+   "21 June 2017"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q96": {
+  "question_text": "The theme of the international conference held on 21 and 22 June 2016 was:",
+  "passage": "@YOGA-2018JUL-P2-Q95",
+  "options": [
+   "Yoga for Health",
+   "Yoga for Body and Beyond",
+   "Yoga for Holistic Health",
+   "Yoga for Harmony and Peace"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q97": {
+  "question_text": "At the first International Day of Yoga, how many participants, and citizens of how many countries, took part in a single yoga session?",
+  "passage": "@YOGA-2018JUL-P2-Q95",
+  "options": [
+   "35,985 participants and 84 countries",
+   "35,895 participants and 82 countries",
+   "35,585 participants and 86 countries",
+   "35,985 participants and 85 countries"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q98": {
+  "question_text": "On what date did the 193 members of the UN General Assembly unanimously approve the resolution to celebrate 21 June as \"International Day of Yoga\"?",
+  "passage": "@YOGA-2018JUL-P2-Q95",
+  "options": [
+   "27 September 2014",
+   "11 September 2014",
+   "27 December 2014",
+   "11 December 2014"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q99": {
+  "question_text": "At the second International Day of Yoga, how many persons with disabilities performed the yoga protocol?",
+  "passage": "@YOGA-2018JUL-P2-Q95"
+ },
+ "YOGA-2018JUL-P2-Q100": {
+  "question_text": "Between which of the following does yoga not establish harmony?",
+  "passage": "@YOGA-2018JUL-P2-Q95",
+  "options": [
+   "Mind and body",
+   "Thought and action",
+   "Human beings and nature",
+   "Thought and dream"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q21": {
+  "question_text": "Which cereal contains maximum fibre content?",
+  "options": [
+   "Rice",
+   "Wheat",
+   "Bajara",
+   "Ragi"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q22": {
+  "question_text": "How many stages are there in Non-REM sleep?",
+  "options": [
+   "One",
+   "Three",
+   "Four",
+   "Six"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q33": {
+  "question_text": "Preksha Meditation is a system of meditation where we practice :",
+  "options": [
+   "Perception of thoughts",
+   "Perception of concentration",
+   "Perception of objects",
+   "Perception of dreams"
+  ]
+ },
+ "YOGA-2018JUL-P2-Q50": {
+  "question_text": "Animal Cell membrane contains :",
+  "items": [
+   "Phospholipids",
+   "Globular Proteins",
+   "Carbohydrates",
+   "Calcium"
+  ],
+  "prompt": "Find the correct combination according to the code :",
+  "options": [
+   "(a) and (b) are correct.",
+   "(a) and (c) are correct.",
+   "(b) and (c) are correct.",
+   "(c) and (d) are correct."
+  ]
+ },
+ "YOGA-2018JUL-P2-Q65": {
+  "question_text": "Given below are two statements, labelled as Assertion (A), and a Reason (R). Indicate your answer from the alternatives below :",
+  "assertion": "Yogic diet is desirable for healthy life style.",
+  "reason": "Managing life style is an integral component of various aims and objectives of Yoga.",
+  "options": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+   "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+   "(A) is true, but (R) is false.",
+   "(A) is false, but (R) is true."
+  ]
+ }
 }

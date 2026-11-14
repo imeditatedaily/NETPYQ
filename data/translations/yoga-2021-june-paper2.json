@@ -1,100 +1,973 @@
 {
-"YOGA-2021JUN-P2-Q01": {"question_text": "In Muktikopnishad, the number of Upnishadas are", "options": ["11", "10", "108", "223"]},
-"YOGA-2021JUN-P2-S11": {"question_text": "The well-known theory of the Samkhya philosophy is:", "options": ["Satkaryavada", "Asatkaryavada", "Vivartavada", "Sadasatkhyativada"]},
-"YOGA-2021JUN-P2-S14": {"question_text": "The word ‘Shruti’ is used for:", "options": ["Yajnavalkya Smriti", "Bhagavad Gita", "The Vedas", "The Puranas"]},
-"YOGA-2021JUN-P2-Q04": {"question_text": "The propounder of Nyaya Darshana, Gautama is also known as", "options": ["Pragya Chakshu", "Aksha Paad", "Prabhu Paad", "Vaatsyaayan"]},
-"YOGA-2021JUN-P2-S69": {"question_text": "In the Taittiriya Upanishad, what is described by ‘yato vāco nivartante, aprāpya manasā saha’?", "options": ["The world", "Education", "Brahman", "Cause and effect"]},
-"YOGA-2021JUN-P2-S06": {"question_text": "In the Bhagavad Gita, in the context of the ‘sthitaprajna’, the example given for restraint of the senses is:", "options": ["A boat", "Clay", "A tortoise (kurma)", "An elephant"]},
-"YOGA-2021JUN-P2-S17": {"question_text": "Choose the option with the correct sequence according to the Bhagavad Gita.", "options": ["Delusion → anger → confusion of memory → loss of intellect", "Confusion of memory → delusion → anger → loss of intellect", "Loss of intellect → confusion of memory → anger → delusion", "Anger → delusion → confusion of memory → loss of intellect"]},
-"YOGA-2021JUN-P2-Q08": {"question_text": "Choose correct option to fill the blank in the following Pada according to Yogavasishtha: 'Manasah Spandanam Pranah, Pranasya Spandanam ...'", "options": ["Buddhih", "Hridayam", "Indriyah", "Manah"]},
-"YOGA-2021JUN-P2-S05": {"question_text": "According to the Dhyanabindu Upanishad, the guna associated with ‘ukara’ (the letter U) is:", "options": ["Rajoguna", "Tamoguna", "Sattvaguna", "Mixed guna"]},
-"YOGA-2021JUN-P2-S18": {"question_text": "In the Nadabindu Upanishad, the twelfth mātrā is called:", "options": ["Dhṛti", "Ghoṣiṇī", "Vāyuveginī", "Brāhmī"]},
-"YOGA-2021JUN-P2-S08": {"question_text": "‘Māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaram’: in which Upanishad is the nature of Ishvara described by this statement?", "options": ["Yogarajopanishad", "Yogatattvopanishad", "Shvetashvataropanishad", "Trishikhi Brahmanopanishad"]},
-"YOGA-2021JUN-P2-S35": {"question_text": "‘Cittasya niścalībhāvo dhāraṇā’: in which Upanishad is ‘dharana’ explained in this way?", "options": ["Shvetashvatara Upanishad", "Yogakundalyupanishad", "Yogachudamanyupanishad", "Trishikhi Brahmanopanishad"]},
-"YOGA-2021JUN-P2-S09": {"question_text": "According to the Yoga Sutra, the word ‘prakāśa’ (illumination) relates to:", "options": ["The self", "Sattvaguna", "Rajoguna", "The sun"]},
-"YOGA-2021JUN-P2-S51": {"question_text": "According to the Yoga Sutra, ‘śabdārtha-jñāna-vikalpaiḥ’ relates to which samāpatti?", "options": ["Savitarka", "Nirvitarka", "Nirvichara", "Asmita"]},
-"YOGA-2021JUN-P2-Q15": {"question_text": "According to Patanjal yoga sutra Purushkhyati is related to", "options": ["Asampragyat samadhi", "Nirbij samadhi", "Par vairagya", "Apar Vairagya"]},
-"YOGA-2021JUN-P2-Q16": {"question_text": "Which are 'Klishta' among the following?", "options": ["Chittabhumi", "Chittavritti", "Klesha", "Karma"]},
-"YOGA-2021JUN-P2-S64": {"question_text": "At which stage of the practice of nādānusandhāna are various kinds of deep sounds heard?", "options": ["At the beginning of practice", "In the middle of practice", "On completion of practice", "In a relaxed state of practice"]},
-"YOGA-2021JUN-P2-S42": {"question_text": "According to the Hatha Pradipika, on mastering which asana do all three bandhas happen by themselves?", "options": ["Siddhasana", "Paschimottanasana", "Kukkutasana", "Uttana Kurmasana"]},
-"YOGA-2021JUN-P2-S39": {"question_text": "‘Abhyāsinā ca bhoktavyaṃ stokaṃ stokam anekadhā; pūrvoktakāle kuryāt tu kumbhakān prativāsare.’ This verse belongs to which chapter (paṭala) of the Shiva Samhita?", "options": ["First paṭala", "Third paṭala", "Fourth paṭala", "Fifth paṭala"]},
-"YOGA-2021JUN-P2-Q20": {"question_text": "The number of Yamas in Vasishtha Samhita are", "options": ["Five", "Seven", "Ten", "Twelve"]},
-"YOGA-2021JUN-P2-S28": {"question_text": "How many types of amino acids are found in proteins?"},
-"YOGA-2021JUN-P2-S21": {"question_text": "Who first discovered the cell?", "options": ["Watson and Crick in 1685", "Robert Hooke in 1665", "Antonie van Leeuwenhoek in 1674", "Theodor Schwann and Matthias Schleiden in 1838"]},
-"YOGA-2021JUN-P2-S13": {"question_text": "The volume of air that goes into and comes out of the lungs of a healthy person (in normal breathing) is called:", "options": ["Residual volume", "Tidal volume", "Vital capacity", "Lung capacity"]},
-"YOGA-2021JUN-P2-S68": {"question_text": "Whose statement is this? ‘Stress is the non-specific response of the body to any demand made upon it.’", "options": ["Baron", "Hans Selye", "Morgan and King", "Holmes and Masuda"]},
-"YOGA-2021JUN-P2-S57": {"question_text": "According to Ayurveda, what part of the stomach should be left empty while eating?", "options": ["1/3", "1/2", "1/4", "2/3"]},
-"YOGA-2021JUN-P2-S40": {"question_text": "According to Ayurveda, how many kinds of rasa (taste) are there?"},
-"YOGA-2021JUN-P2-S70": {"question_text": "Which vāyu helps in uttering words/speech?", "options": ["Udana vayu", "Samana vayu", "Apana vayu", "Prana vayu"]},
-"YOGA-2021JUN-P2-S43": {"question_text": "Which of the following formulas is correct for calculating the Body Mass Index (BMI)?", "options": ["Weight in kg / height in m²", "Weight in g / height in m²", "Height in m² / weight in kg", "Height in m² / weight in g"]},
-"YOGA-2021JUN-P2-Q30": {"question_text": "Hot flashes, disturbed sleep and emotional changes are the characteristic features of", "options": ["Pre-menstrual syndrome", "Metabolic syndrome", "Nephrotic syndrome", "Menopausal syndrome"]},
-"YOGA-2021JUN-P2-S19": {"question_text": "Acromegaly is a disorder caused by excess secretion of:", "options": ["Adrenaline", "Growth hormone", "Calcium", "Vasopressin"]},
-"YOGA-2021JUN-P2-S22": {"question_text": "Which is the most suitable method of teaching yoga practices to a small group of learners?", "options": ["Demonstration method", "Direct practice method", "Group discussion method", "Instruction–response method"]},
-"YOGA-2021JUN-P2-S30": {"question_text": "According to ‘Teaching Methods for Yogic Practices’, ‘simple to complex’ and ‘known to unknown’ relate to:", "options": ["Psychological principles", "Educational (pedagogical) principles", "Sociological principles", "Yogic principles"]},
-"YOGA-2021JUN-P2-S02": {"question_text": "In which book are sagarbha and nigarbha kumbhaka mentioned?", "options": ["Shiva Samhita", "Hatha Pradipika", "Gheranda Samhita", "Vasishtha Samhita"]},
-"YOGA-2021JUN-P2-S04": {"question_text": "The practice of pranayama is advised:", "options": ["Before shatkarma", "Before mastery of asana", "After mastery of asana", "After mastery of pratyahara"]},
-"YOGA-2021JUN-P2-S63": {"question_text": "Which yoga practice is not suitable for patients with depression?", "options": ["Shatkarma", "Asana", "Pranayama", "Dhyana (meditation)"]},
-"YOGA-2021JUN-P2-S50": {"question_text": "In the Gheranda Samhita, the eight kumbhakas are mentioned in:", "options": ["Chapter 5, verse 41", "Chapter 5, verse 44", "Chapter 5, verse 45", "Chapter 5, verse 46"]},
-"YOGA-2021JUN-P2-S49": {"question_text": "Which property of a nerve fibre carries an impulse from the area of stimulation to other areas?", "options": ["Excitability", "Contractility", "Elasticity", "Conductivity"]},
-"YOGA-2021JUN-P2-S58": {"question_text": "According to the Yogakundalyupanishad, the ‘sahita kumbhakas’ are:", "options": ["Plavini, Murchha, Sitkari", "Suryabhedana, Ujjayi, Shitali and Bhastrika", "Bahya, Abhyantara, Stambha", "Mitahara and Asana"]},
-"YOGA-2021JUN-P2-Q40": {"question_text": "Difficulty in swallowing food is termed as", "options": ["Achalasia", "Dysphagia", "Dysplasia", "Dyspnoea"]},
-"YOGA-2021JUN-P2-S65": {"question_text": "The works written by Tulsidas are:", "items": ["Ramayana", "Ramcharitmanas", "Vinay Patrika", "Vairagya Shataka", "Niti Shataka"]},
-"YOGA-2021JUN-P2-S41": {"question_text": "Which of the following texts were written by Gorakshanath?", "items": ["Hatha Ratnavali", "Siddha Siddhanta Paddhati", "Gheranda Samhita", "Yoga Bija", "Hatha Yoga Pradipika"]},
-"YOGA-2021JUN-P2-S36": {"question_text": "According to the Yoga Vasishtha, ‘ādhi’ and ‘vyādhi’:", "items": ["are the two causes of knowledge.", "are the two causes of sorrow.", "freedom from them is of the nature of happiness.", "their destruction is called liberation (moksha).", "freedom from them is of the nature of sorrow."]},
-"YOGA-2021JUN-P2-S56": {"question_text": "Those discussed in the Aitareyopanishad are:", "items": ["‘Saṃjñāna’", "‘Ājñāna’ (the power to command)", "‘Vijñāna’", "‘Prajñāna’", "‘Mahājñāna’"]},
-"YOGA-2021JUN-P2-S45": {"question_text": "According to the Yogakundalyupanishad:", "items": ["Three causes of the restlessness of the mind: vāsanā, vāyu and over-eating", "Two causes of the restlessness of the mind: vāsanā and vāyu (prāṇa)", "Only two means of conquering prāṇa: āsana and śakticālinī mudrā", "Three means of conquering prāṇa: mitāhāra, āsana and śakticālinī mudrā"]},
-"YOGA-2021JUN-P2-S54": {"question_text": "According to the Yogatattvopanishad, the early signs of success in yoga are said to be:", "items": ["Lightness of body", "Not being emaciated", "Stoutness", "Increase of the digestive fire", "Weakening of the digestive fire"]},
-"YOGA-2021JUN-P2-S10": {"question_text": "According to the Nadabindu Upanishad:", "items": ["The second mātrā is named ‘Vidyunmātrā’", "The second mātrā is named ‘Pātaṅgī’", "The tenth mātrā is called ‘Dhṛti’", "The tenth mātrā is called ‘Aindrī’", "The twelfth mātrā is called ‘Brāhmī’"]},
-"YOGA-2021JUN-P2-Q49": {"question_text": "According to Patanjala Yogasutra, Mahavrata is beyond the limits of", "items": ["Samkhya", "Jaati", "Desh", "Kaal", "Samay"]},
-"YOGA-2021JUN-P2-S55": {"question_text": "According to the Patanjala Yoga Sutra, the marks of ‘para vairagya’ (higher dispassion) are:", "items": ["Detachment from sense objects", "Detachment from objects known through scripture (ānuśravika)", "Discriminative knowledge (vivekakhyāti)", "Knowledge of Purusha (puruṣa-khyāti)", "Absence of craving for the gunas"]},
-"YOGA-2021JUN-P2-S20": {"question_text": "According to the Patanjala Yoga Sutra, memory and saṃskāras stay uniform in spite of separation by:", "items": ["Death", "Disease", "Birth (jāti)", "Place (deśa)", "Time (kāla)"]},
-"YOGA-2021JUN-P2-Q52": {"question_text": "According to Hatha Pradipika the benefits of suryabhedi pranayama are:", "items": ["Forehead purification (Kapal shodhan)", "Cough mitigation", "Stimulates Jatharagni", "Removes worms related problems (Krimi doshas)", "Enhances capacity of creation and annihilation (Srishti and Sanhar)"]},
-"YOGA-2021JUN-P2-S59": {"question_text": "According to the Vasishtha Samhita, which of the following are yamas?", "items": ["Aparigraha", "Dhṛti (fortitude)", "Dayā (compassion)", "Santosha", "Tapas"]},
-"YOGA-2021JUN-P2-S03": {"question_text": "Which of the following are asanas described in the Shiva Samhita?", "items": ["Swastikasana", "Kukkutasana", "Paschimottanasana", "Gomukhasana", "Virasana"]},
-"YOGA-2021JUN-P2-S26": {"question_text": "Forms of ‘malnutrition’ are:", "items": ["Over-nutrition", "Proper nutrition", "Under-nutrition", "Balanced nutrition", "Imbalanced nutrition"]},
-"YOGA-2021JUN-P2-S33": {"question_text": "The bones of the axial skeleton are:", "items": ["Clavicle", "Vertebrae", "Scapula", "Skull", "Hyoid"]},
-"YOGA-2021JUN-P2-S66": {"question_text": "According to the Yoga Sutra, the kinds of suffering are:", "items": ["‘Ādhidaivika’", "‘Ādhibhautika’", "‘Pariṇāma duḥkha’", "‘Ādhyātmika’", "‘Saṃskāra duḥkha’"]},
-"YOGA-2021JUN-P2-Q58": {"question_text": "According to 'Hathapradeepika' the components of pathya Ahara are not", "items": ["Sathi chawal", "Curd", "Madhu (Honey)", "Mishri", "Til"]},
-"YOGA-2021JUN-P2-S46": {"question_text": "According to the Bhagavad Gita, the qualities of sattvic food are:", "items": ["Gives intelligence", "Causes burning", "Increases happiness", "Produces anxiety", "Increases affection (prīti)"]},
-"YOGA-2021JUN-P2-S29": {"question_text": "In the Bhagavad Gita, the parts of a lifestyle described for the destruction of sorrow are:", "items": ["Asana", "Regulated diet (yukta āhāra)", "Shatkarma", "Mudra", "Regulated recreation (yukta vihāra)"]},
-"YOGA-2021JUN-P2-S07": {"question_text": "Which of the following are aims of a lesson plan?", "items": ["To reduce last-minute pressure in the class", "To counsel mischievous students in the class", "To show the importance of modern teaching methods", "To show more interest in teaching materials", "To keep the class goal-oriented"]},
-"YOGA-2021JUN-P2-S27": {"question_text": "Which of the following are not followers of the Nath tradition?", "items": ["Chaurangi", "Chanda", "Siddhi-Buddhi", "Kantha", "Kapali"]},
-"YOGA-2021JUN-P2-S61": {"question_text": "Which of the following are teaching–learning approaches?", "items": ["Teacher-centred approach", "Student-centred approach", "Curriculum-centred approach", "Tradition-centred approach"]},
-"YOGA-2021JUN-P2-S52": {"question_text": "From which Latin root word is the word ‘education’ derived?", "items": ["Educier", "Educol", "Educare", "Edulom"]},
-"YOGA-2021JUN-P2-S72": {"question_text": "According to Swami Dhirendra Brahmachari, which of the following are not known as yogic sukshma vyayama (subtle exercises)?", "items": ["Hṛdgati", "Skandha shakti vikasaka (shoulder strengthening)", "Pushti", "Purification of the place of articulation and the Vishuddhi chakra"]},
-"YOGA-2021JUN-P2-S23": {"question_text": "According to the Gheranda Samhita, a person should not begin yoga practice in these seasons:", "items": ["Hemanta (early winter)", "Shishira (late winter)", "Varsha (rains)", "Vasanta (spring)", "Sharad (autumn)"]},
-"YOGA-2021JUN-P2-S15": {"question_text": "Match List I with List II", "list_i": ["Sri Aurobindo", "Maharshi Dayananda", "Shyama Charan Lahiri", "Maharshi Ramana"], "list_ii": ["Jnana Yoga", "Integral Yoga (Purna Yoga)", "Upasana Yoga", "Kriya Yoga"]},
-"YOGA-2021JUN-P2-S60": {"question_text": "Match List I with List II according to the Kathopanishad", "list_i": ["The self (ātmā)", "The body", "The intellect (buddhi)", "The mind"], "list_ii": ["Charioteer", "Reins", "Rider in the chariot", "Chariot"]},
-"YOGA-2021JUN-P2-S38": {"question_text": "Match List I with List II, according to the Yogakundalyupanishad", "list_i": ["Khechari", "Vyana", "Krikala", "Jalandhara"], "list_ii": ["Upaprana (minor prana)", "Mudra", "Bandha", "Prana"]},
-"YOGA-2021JUN-P2-S48": {"question_text": "Match List I with List II", "list_i": ["Samadhi Pada", "Sadhana Pada", "Vibhuti Pada", "Kaivalya Pada"], "list_ii": ["Tasya saptadhā prānta-bhūmiḥ prajñā.", "Tasya praśānta-vāhitā saṃskārāt.", "Tīvra-saṃvegānām āsannaḥ.", "Tatra dhyānajam anāśayam."]},
-"YOGA-2021JUN-P2-S67": {"question_text": "Match List I with List II", "list_i": ["First paṭala", "Second paṭala", "Fourth paṭala", "Fifth paṭala"], "list_ii": ["Kinds of yoga and practitioners", "Mudras", "Philosophical tenets", "The body is a replica of the vast universe."]},
-"YOGA-2021JUN-P2-S01": {"question_text": "Match List I with List II", "list_i_title": "List I (Vitamin)", "list_ii_title": "List II (Deficiency disease)", "list_i": ["Vitamin B", "Vitamin C", "Vitamin D", "Vitamin E"], "list_ii": ["Malnutrition", "Rickets", "Scurvy", "Pellagra"]},
-"YOGA-2021JUN-P2-S31": {"question_text": "Match List I with List II", "list_i": ["Maitri (friendliness)", "Karuna (compassion)", "Mudita (gladness)", "Upeksha (indifference)"], "list_ii": ["Towards the virtuous", "Towards the happy", "Towards the suffering", "Towards the wicked"]},
-"YOGA-2021JUN-P2-S25": {"question_text": "Match List I with List II", "list_i_title": "List I (Practice)", "list_ii_title": "List II (Benefit)", "list_i": ["Matsyendrasana", "Mayurasana", "Paschimottanasana", "Trataka"], "list_ii": ["Removes drowsiness (tandrā)", "Jaṭharānalasya udayaṃ (kindles the digestive fire)", "Jaṭhara-pradīptiṃ (stimulates the gastric fire)", "Jārayet kālakūṭam (digests even deadly poison)"]},
-"YOGA-2021JUN-P2-S16": {"question_text": "Match List I with List II", "list_i_title": "List I (Practice)", "list_ii_title": "List II (Part of the body)", "list_i": ["Jalandhara bandha", "Uddiyana bandha", "Mula bandha", "Jihva bandha"], "list_ii": ["Abdomen", "Tongue and palate", "Throat", "Perineum and anus"]},
-"YOGA-2021JUN-P2-Q76": {"question_text": "Identify correct sequence of superiority (Param) according to kathopnished:", "items": ["Sensory subjects (Arthah)", "Senses (Indriyah)", "Soul (Aatma)", "Mind (Mana)", "Intellect (Buddhi)"]},
-"YOGA-2021JUN-P2-S71": {"question_text": "According to the Dhyanabindu Upanishad:", "items": ["Asana, prāṇa-saṃrodha, pratyahara, dharana, dhyana, samadhi are the six limbs of yoga.", "Siddha, Bhadra, Simha, Padma are the four asanas.", "Pranayama, dharana, dhyana, samadhi are the limbs of yoga.", "Swastika, Kurma, Sarvanga, Shirsha are the four asanas.", "Yama, niyama, asana, pratyahara, dhyana, samadhi are the six limbs of yoga."]},
-"YOGA-2021JUN-P2-Q78": {"question_text": "Arrange the following according to patanjal yoga sutra :", "items": ["Lingmatra", "Alinga", "Vishesh", "Avishesh"]},
-"YOGA-2021JUN-P2-Q79": {"question_text": "Arrange these units of glucose in the sequence of mono-saccharides, di-saccharides and poly saccharides:", "items": ["Fructose", "Sucrose", "Galactose", "Lactose", "Starch"]},
-"YOGA-2021JUN-P2-S37": {"question_text": "Arrange the following in order according to the Yoga Sutra.", "items": ["Styāna (dullness)", "Pramāda (carelessness)", "Saṃśaya (doubt)", "Bhrāntidarśana (false perception)", "Ālasya (laziness)"]},
-"YOGA-2021JUN-P2-S32": {"question_text": "According to the book ‘Teaching Methods for Yogic Practices’, arrange the following stages of a yoga class in order from the start of the class to its end", "items": ["Questions and answers", "Group practice", "Individual practice", "Relaxation", "Seating arrangement"]},
-"YOGA-2021JUN-P2-S62": {"question_text": "Arrange the following practices in the order of the seven means (sapta sādhana) of the Gheranda Samhita", "items": ["Mudra", "Asana", "Shatkarma", "Dhyana", "Pranayama"]},
-"YOGA-2021JUN-P2-Q83": {"question_text": "Given below are two statements:", "items": ["Shri Arvind was a freedom fighter and a Yogi.", "His disciple Shri Maa has not established an Arvinda Ashram in Pondicherry."]},
-"YOGA-2021JUN-P2-S12": {"question_text": "Given below are two statements. According to the Mandukya Upanishad:", "items": ["‘Taijasa’, whose sphere is dream, is the third quarter of Omkara.", "‘Prājña’, whose sphere is deep sleep, is the second quarter of Omkara."]},
-"YOGA-2021JUN-P2-S44": {"question_text": "Given below are two statements:", "items": ["The restraint of the modifications of the mind (citta-vṛtti-nirodha) is called yoga.", "The state of complete restraint of all modifications is nirbīja samādhi."]},
-"YOGA-2021JUN-P2-S47": {"question_text": "Given below are two statements: one is labelled as Assertion A and the other as Reason R", "assertion": "Practising pranayama destroys all kinds of disease.", "reason": "Just as an elephant or a tiger is tamed gradually, control over the prāṇa should be gained in the same way."},
-"YOGA-2021JUN-P2-S53": {"question_text": "Given below are two statements: one is labelled as Assertion A and the other as Reason R", "assertion": "Vitamin B12 is essential for DNA synthesis in RBCs.", "reason": "Its deficiency stops cells maturing and reduces cell division."},
-"YOGA-2021JUN-P2-Q88": {"question_text": "Given below are two statements:", "items": ["Increased secretion of thyroid hormone is called hyperthyroidism.", "Grave's disease is an autoimmune disease and it is the most common cause of hyperthyroidism."]},
-"YOGA-2021JUN-P2-S34": {"question_text": "Given below are two statements:", "items": ["In modern times there is a visible lack of value-based education.", "Gaining more pleasure for oneself is itself a moral value."]},
-"YOGA-2021JUN-P2-S24": {"question_text": "Given below are two statements: one is labelled as Assertion A and the other as Reason R", "assertion": "Practice of asana and shatkarma is necessary before kumbhaka.", "reason": "The full benefit of kumbhaka is gained only when the body has been made firm by asanas and purified by shatkarmas."},
-"YOGA-2021JUN-P2-Q91": {"question_text": "The storage of glucose molecules in the mitochondria is known as", "passage": "Diabetes mellitus is commonly known as diabetes. It is a metabolic disease, which causes high blood glucose level. The insulin hormone, which secrets from pancreas gland, can regulate the metabolism of glucose. In this process glucose molecules get stored inside the mitochondria of cells in the form of glycogen. This process is known as glycogenesis. If pancreas doesn't secrete an adequate amount of insulin hormone that condition is known as diabetes mellitus type 1 and if pancreas secretes some amount of insulin hormone but due to some resistance body does not use that synthesised hormone that condition is known as diabetes mellitus type 2. If a pregnant woman gets affected by diabetes mellitus that is known as gestational diabetes. The new born baby under gestational diabetes gets more prone to diabetes mellitus type 2. The common symptoms for diabetes are polyuria, polyphagia, polydipsia, weight loss, blurry vision and cardiovascular diseases etc. It seems that yoga practices can exert very positive effects on diabetes mellitus patients. Neti, Dhauti, Mandukasana, Ushtrasana, Ardhamatsyendrasana, Katichakrasana, Suryabhedana pranayama and Bhramari pranayama are most effective practices for the management of diabetes mellitus.", "options": ["Glycolysis", "Glycogenesis", "Kreb's cycle", "Cellular absorption"]},
-"YOGA-2021JUN-P2-Q92": {"question_text": "In which form the glucose is stored in the mitochondria?", "passage": "@YOGA-2021JUN-P2-Q91", "options": ["Glucose", "Glycogen", "Sucrose", "Galactose"]},
-"YOGA-2021JUN-P2-Q93": {"question_text": "If pancreas does not synthesise an adequate amount of insulin hormone that condition is known as", "passage": "@YOGA-2021JUN-P2-Q91", "options": ["Diabetes mellitus type 1", "Diabetes mellitus type 2", "Diabetes insipidus", "Hypoglycemia"]},
-"YOGA-2021JUN-P2-Q94": {"question_text": "The new born baby under gestational diabetes gets prone for", "passage": "@YOGA-2021JUN-P2-Q91", "options": ["Diabetes mellitus type 1", "Diabetes mellitus type 2", "Gestational diabetes", "Diabetes insipidus"]},
-"YOGA-2021JUN-P2-Q95": {"question_text": "Which pranayama is most suitable for the management of diabetes mellitus?", "passage": "@YOGA-2021JUN-P2-Q91", "options": ["Bhastrika pranayama", "Nadishodhana pranayama", "Surya bhedan pranayama", "Ujjayee pranayama"]},
-"YOGA-2021JUN-P2-Q96": {"question_text": "According to Vyasji, modification is:", "passage": "Cessation of modifications of mind-stuff is yoga. Here the question arises: what are the modifications of mind-stuff? While explaining the meaning of modification, Vyas Ji has said that the particular outcome of mind-stuff is modification. As the mind-stuff gets objectified after coming into contact with the object, it is called the outcome of mind-stuff. When the mind-stuff gets objectified, ideas concerning that particular object germinate in the mind-stuff. In general terms ideas themselves are called modifications.\n\nThere are innumerable objects in the world and many ideas are associated with one particular object. Thus, it appears difficult to have knowledge about all the ideas. Maharshi Patanjali has categorized all the ideas in five parts in the form of modifications. These are Pramana, Viparyaya, Vikalp, Nidra and Smriti. Ideas related to all objects of the world fall within these five modifications.\n\nModifications are five types of Jnana. Pramana is Yathartha Jnana. Viparyaya is Mithya Jnana. Vikalp is only Shabdik Jnana. Nidra is Abhavjanya Jnana and Smriti is Anubhavjanya Jnana. These modifications are of two types: Klishta and Aklishta. By cessation of these two types of modifications the yogi attains his own true self.", "options": ["Feeling of pleasure in the mind-stuff", "Feeling of sorrow in the mind-stuff", "The particular outcome of the mind-stuff", "Auspicious-inauspicious acts"]},
-"YOGA-2021JUN-P2-Q97": {"question_text": "Patanjali has categorized all the ideas in how many parts?", "passage": "@YOGA-2021JUN-P2-Q96", "options": ["Three parts", "Five parts", "Four parts", "Six parts"]},
-"YOGA-2021JUN-P2-Q98": {"question_text": "Mithya Jnana is:", "passage": "@YOGA-2021JUN-P2-Q96", "options": ["Viparyaya", "Pramana", "Vikalp", "Nidra"]},
-"YOGA-2021JUN-P2-Q99": {"question_text": "Anubhavjanya Jnana is:", "passage": "@YOGA-2021JUN-P2-Q96", "options": ["Pramana", "Vikalp", "Smriti", "Nidra"]},
-"YOGA-2021JUN-P2-Q100": {"question_text": "The yogi becomes established in his own true self:", "passage": "@YOGA-2021JUN-P2-Q96", "options": ["By ceasing only the klishta modifications", "By ceasing only the aklishta modifications", "By ceasing both kinds of modifications", "By suppressing the modifications"]}
+ "YOGA-2021JUN-P2-Q01": {
+  "question_text": "In Muktikopnishad, the number of Upnishadas are",
+  "options": [
+   "11",
+   "10",
+   "108",
+   "223"
+  ]
+ },
+ "YOGA-2021JUN-P2-S11": {
+  "question_text": "The well-known theory of the Samkhya philosophy is:",
+  "options": [
+   "Satkaryavada",
+   "Asatkaryavada",
+   "Vivartavada",
+   "Sadasatkhyativada"
+  ]
+ },
+ "YOGA-2021JUN-P2-S14": {
+  "question_text": "The word ‘Shruti’ is used for:",
+  "options": [
+   "Yajnavalkya Smriti",
+   "Bhagavad Gita",
+   "The Vedas",
+   "The Puranas"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q04": {
+  "question_text": "The propounder of Nyaya Darshana, Gautama is also known as",
+  "options": [
+   "Pragya Chakshu",
+   "Aksha Paad",
+   "Prabhu Paad",
+   "Vaatsyaayan"
+  ]
+ },
+ "YOGA-2021JUN-P2-S69": {
+  "question_text": "In the Taittiriya Upanishad, what is described by ‘yato vāco nivartante, aprāpya manasā saha’?",
+  "options": [
+   "The world",
+   "Education",
+   "Brahman",
+   "Cause and effect"
+  ]
+ },
+ "YOGA-2021JUN-P2-S06": {
+  "question_text": "In the Bhagavad Gita, in the context of the ‘sthitaprajna’, the example given for restraint of the senses is:",
+  "options": [
+   "A boat",
+   "Clay",
+   "A tortoise (kurma)",
+   "An elephant"
+  ]
+ },
+ "YOGA-2021JUN-P2-S17": {
+  "question_text": "Choose the option with the correct sequence according to the Bhagavad Gita.",
+  "options": [
+   "Delusion → anger → confusion of memory → loss of intellect",
+   "Confusion of memory → delusion → anger → loss of intellect",
+   "Loss of intellect → confusion of memory → anger → delusion",
+   "Anger → delusion → confusion of memory → loss of intellect"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q08": {
+  "question_text": "Choose correct option to fill the blank in the following Pada according to Yogavasishtha: 'Manasah Spandanam Pranah, Pranasya Spandanam ...'",
+  "options": [
+   "Buddhih",
+   "Hridayam",
+   "Indriyah",
+   "Manah"
+  ]
+ },
+ "YOGA-2021JUN-P2-S05": {
+  "question_text": "According to the Dhyanabindu Upanishad, the guna associated with ‘ukara’ (the letter U) is:",
+  "options": [
+   "Rajoguna",
+   "Tamoguna",
+   "Sattvaguna",
+   "Mixed guna"
+  ]
+ },
+ "YOGA-2021JUN-P2-S18": {
+  "question_text": "In the Nadabindu Upanishad, the twelfth mātrā is called:",
+  "options": [
+   "Dhṛti",
+   "Ghoṣiṇī",
+   "Vāyuveginī",
+   "Brāhmī"
+  ]
+ },
+ "YOGA-2021JUN-P2-S08": {
+  "question_text": "‘Māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaram’: in which Upanishad is the nature of Ishvara described by this statement?",
+  "options": [
+   "Yogarajopanishad",
+   "Yogatattvopanishad",
+   "Shvetashvataropanishad",
+   "Trishikhi Brahmanopanishad"
+  ]
+ },
+ "YOGA-2021JUN-P2-S35": {
+  "question_text": "‘Cittasya niścalībhāvo dhāraṇā’: in which Upanishad is ‘dharana’ explained in this way?",
+  "options": [
+   "Shvetashvatara Upanishad",
+   "Yogakundalyupanishad",
+   "Yogachudamanyupanishad",
+   "Trishikhi Brahmanopanishad"
+  ]
+ },
+ "YOGA-2021JUN-P2-S09": {
+  "question_text": "According to the Yoga Sutra, the word ‘prakāśa’ (illumination) relates to:",
+  "options": [
+   "The self",
+   "Sattvaguna",
+   "Rajoguna",
+   "The sun"
+  ]
+ },
+ "YOGA-2021JUN-P2-S51": {
+  "question_text": "According to the Yoga Sutra, ‘śabdārtha-jñāna-vikalpaiḥ’ relates to which samāpatti?",
+  "options": [
+   "Savitarka",
+   "Nirvitarka",
+   "Nirvichara",
+   "Asmita"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q15": {
+  "question_text": "According to Patanjal yoga sutra Purushkhyati is related to",
+  "options": [
+   "Asampragyat samadhi",
+   "Nirbij samadhi",
+   "Par vairagya",
+   "Apar Vairagya"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q16": {
+  "question_text": "Which are 'Klishta' among the following?",
+  "options": [
+   "Chittabhumi",
+   "Chittavritti",
+   "Klesha",
+   "Karma"
+  ]
+ },
+ "YOGA-2021JUN-P2-S64": {
+  "question_text": "At which stage of the practice of nādānusandhāna are various kinds of deep sounds heard?",
+  "options": [
+   "At the beginning of practice",
+   "In the middle of practice",
+   "On completion of practice",
+   "In a relaxed state of practice"
+  ]
+ },
+ "YOGA-2021JUN-P2-S42": {
+  "question_text": "According to the Hatha Pradipika, on mastering which asana do all three bandhas happen by themselves?",
+  "options": [
+   "Siddhasana",
+   "Paschimottanasana",
+   "Kukkutasana",
+   "Uttana Kurmasana"
+  ]
+ },
+ "YOGA-2021JUN-P2-S39": {
+  "question_text": "‘Abhyāsinā ca bhoktavyaṃ stokaṃ stokam anekadhā; pūrvoktakāle kuryāt tu kumbhakān prativāsare.’ This verse belongs to which chapter (paṭala) of the Shiva Samhita?",
+  "options": [
+   "First paṭala",
+   "Third paṭala",
+   "Fourth paṭala",
+   "Fifth paṭala"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q20": {
+  "question_text": "The number of Yamas in Vasishtha Samhita are",
+  "options": [
+   "Five",
+   "Seven",
+   "Ten",
+   "Twelve"
+  ]
+ },
+ "YOGA-2021JUN-P2-S28": {
+  "question_text": "How many types of amino acids are found in proteins?"
+ },
+ "YOGA-2021JUN-P2-S21": {
+  "question_text": "Who first discovered the cell?",
+  "options": [
+   "Watson and Crick in 1685",
+   "Robert Hooke in 1665",
+   "Antonie van Leeuwenhoek in 1674",
+   "Theodor Schwann and Matthias Schleiden in 1838"
+  ]
+ },
+ "YOGA-2021JUN-P2-S13": {
+  "question_text": "The volume of air that goes into and comes out of the lungs of a healthy person (in normal breathing) is called:",
+  "options": [
+   "Residual volume",
+   "Tidal volume",
+   "Vital capacity",
+   "Lung capacity"
+  ]
+ },
+ "YOGA-2021JUN-P2-S68": {
+  "question_text": "Whose statement is this? ‘Stress is the non-specific response of the body to any demand made upon it.’",
+  "options": [
+   "Baron",
+   "Hans Selye",
+   "Morgan and King",
+   "Holmes and Masuda"
+  ]
+ },
+ "YOGA-2021JUN-P2-S57": {
+  "question_text": "According to Ayurveda, what part of the stomach should be left empty while eating?",
+  "options": [
+   "1/3",
+   "1/2",
+   "1/4",
+   "2/3"
+  ]
+ },
+ "YOGA-2021JUN-P2-S40": {
+  "question_text": "According to Ayurveda, how many kinds of rasa (taste) are there?"
+ },
+ "YOGA-2021JUN-P2-S70": {
+  "question_text": "Which vāyu helps in uttering words/speech?",
+  "options": [
+   "Udana vayu",
+   "Samana vayu",
+   "Apana vayu",
+   "Prana vayu"
+  ]
+ },
+ "YOGA-2021JUN-P2-S43": {
+  "question_text": "Which of the following formulas is correct for calculating the Body Mass Index (BMI)?",
+  "options": [
+   "Weight in kg / height in m²",
+   "Weight in g / height in m²",
+   "Height in m² / weight in kg",
+   "Height in m² / weight in g"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q30": {
+  "question_text": "Hot flashes, disturbed sleep and emotional changes are the characteristic features of",
+  "options": [
+   "Pre-menstrual syndrome",
+   "Metabolic syndrome",
+   "Nephrotic syndrome",
+   "Menopausal syndrome"
+  ]
+ },
+ "YOGA-2021JUN-P2-S19": {
+  "question_text": "Acromegaly is a disorder caused by excess secretion of:",
+  "options": [
+   "Adrenaline",
+   "Growth hormone",
+   "Calcium",
+   "Vasopressin"
+  ]
+ },
+ "YOGA-2021JUN-P2-S22": {
+  "question_text": "Which is the most suitable method of teaching yoga practices to a small group of learners?",
+  "options": [
+   "Demonstration method",
+   "Direct practice method",
+   "Group discussion method",
+   "Instruction–response method"
+  ]
+ },
+ "YOGA-2021JUN-P2-S30": {
+  "question_text": "According to ‘Teaching Methods for Yogic Practices’, ‘simple to complex’ and ‘known to unknown’ relate to:",
+  "options": [
+   "Psychological principles",
+   "Educational (pedagogical) principles",
+   "Sociological principles",
+   "Yogic principles"
+  ]
+ },
+ "YOGA-2021JUN-P2-S02": {
+  "question_text": "In which book are sagarbha and nigarbha kumbhaka mentioned?",
+  "options": [
+   "Shiva Samhita",
+   "Hatha Pradipika",
+   "Gheranda Samhita",
+   "Vasishtha Samhita"
+  ]
+ },
+ "YOGA-2021JUN-P2-S04": {
+  "question_text": "The practice of pranayama is advised:",
+  "options": [
+   "Before shatkarma",
+   "Before mastery of asana",
+   "After mastery of asana",
+   "After mastery of pratyahara"
+  ]
+ },
+ "YOGA-2021JUN-P2-S63": {
+  "question_text": "Which yoga practice is not suitable for patients with depression?",
+  "options": [
+   "Shatkarma",
+   "Asana",
+   "Pranayama",
+   "Dhyana (meditation)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S50": {
+  "question_text": "In the Gheranda Samhita, the eight kumbhakas are mentioned in:",
+  "options": [
+   "Chapter 5, verse 41",
+   "Chapter 5, verse 44",
+   "Chapter 5, verse 45",
+   "Chapter 5, verse 46"
+  ]
+ },
+ "YOGA-2021JUN-P2-S49": {
+  "question_text": "Which property of a nerve fibre carries an impulse from the area of stimulation to other areas?",
+  "options": [
+   "Excitability",
+   "Contractility",
+   "Elasticity",
+   "Conductivity"
+  ]
+ },
+ "YOGA-2021JUN-P2-S58": {
+  "question_text": "According to the Yogakundalyupanishad, the ‘sahita kumbhakas’ are:",
+  "options": [
+   "Plavini, Murchha, Sitkari",
+   "Suryabhedana, Ujjayi, Shitali and Bhastrika",
+   "Bahya, Abhyantara, Stambha",
+   "Mitahara and Asana"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q40": {
+  "question_text": "Difficulty in swallowing food is termed as",
+  "options": [
+   "Achalasia",
+   "Dysphagia",
+   "Dysplasia",
+   "Dyspnoea"
+  ]
+ },
+ "YOGA-2021JUN-P2-S65": {
+  "question_text": "The works written by Tulsidas are:",
+  "items": [
+   "Ramayana",
+   "Ramcharitmanas",
+   "Vinay Patrika",
+   "Vairagya Shataka",
+   "Niti Shataka"
+  ]
+ },
+ "YOGA-2021JUN-P2-S41": {
+  "question_text": "Which of the following texts were written by Gorakshanath?",
+  "items": [
+   "Hatha Ratnavali",
+   "Siddha Siddhanta Paddhati",
+   "Gheranda Samhita",
+   "Yoga Bija",
+   "Hatha Yoga Pradipika"
+  ]
+ },
+ "YOGA-2021JUN-P2-S36": {
+  "question_text": "According to the Yoga Vasishtha, ‘ādhi’ and ‘vyādhi’:",
+  "items": [
+   "are the two causes of knowledge.",
+   "are the two causes of sorrow.",
+   "freedom from them is of the nature of happiness.",
+   "their destruction is called liberation (moksha).",
+   "freedom from them is of the nature of sorrow."
+  ]
+ },
+ "YOGA-2021JUN-P2-S56": {
+  "question_text": "Those discussed in the Aitareyopanishad are:",
+  "items": [
+   "‘Saṃjñāna’",
+   "‘Ājñāna’ (the power to command)",
+   "‘Vijñāna’",
+   "‘Prajñāna’",
+   "‘Mahājñāna’"
+  ]
+ },
+ "YOGA-2021JUN-P2-S45": {
+  "question_text": "According to the Yogakundalyupanishad:",
+  "items": [
+   "Three causes of the restlessness of the mind: vāsanā, vāyu and over-eating",
+   "Two causes of the restlessness of the mind: vāsanā and vāyu (prāṇa)",
+   "Only two means of conquering prāṇa: āsana and śakticālinī mudrā",
+   "Three means of conquering prāṇa: mitāhāra, āsana and śakticālinī mudrā"
+  ]
+ },
+ "YOGA-2021JUN-P2-S54": {
+  "question_text": "According to the Yogatattvopanishad, the early signs of success in yoga are said to be:",
+  "items": [
+   "Lightness of body",
+   "Not being emaciated",
+   "Stoutness",
+   "Increase of the digestive fire",
+   "Weakening of the digestive fire"
+  ]
+ },
+ "YOGA-2021JUN-P2-S10": {
+  "question_text": "According to the Nadabindu Upanishad:",
+  "items": [
+   "The second mātrā is named ‘Vidyunmātrā’",
+   "The second mātrā is named ‘Pātaṅgī’",
+   "The tenth mātrā is called ‘Dhṛti’",
+   "The tenth mātrā is called ‘Aindrī’",
+   "The twelfth mātrā is called ‘Brāhmī’"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q49": {
+  "question_text": "According to Patanjala Yogasutra, Mahavrata is beyond the limits of",
+  "items": [
+   "Samkhya",
+   "Jaati",
+   "Desh",
+   "Kaal",
+   "Samay"
+  ]
+ },
+ "YOGA-2021JUN-P2-S55": {
+  "question_text": "According to the Patanjala Yoga Sutra, the marks of ‘para vairagya’ (higher dispassion) are:",
+  "items": [
+   "Detachment from sense objects",
+   "Detachment from objects known through scripture (ānuśravika)",
+   "Discriminative knowledge (vivekakhyāti)",
+   "Knowledge of Purusha (puruṣa-khyāti)",
+   "Absence of craving for the gunas"
+  ]
+ },
+ "YOGA-2021JUN-P2-S20": {
+  "question_text": "According to the Patanjala Yoga Sutra, memory and saṃskāras stay uniform in spite of separation by:",
+  "items": [
+   "Death",
+   "Disease",
+   "Birth (jāti)",
+   "Place (deśa)",
+   "Time (kāla)"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q52": {
+  "question_text": "According to Hatha Pradipika the benefits of suryabhedi pranayama are:",
+  "items": [
+   "Forehead purification (Kapal shodhan)",
+   "Cough mitigation",
+   "Stimulates Jatharagni",
+   "Removes worms related problems (Krimi doshas)",
+   "Enhances capacity of creation and annihilation (Srishti and Sanhar)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S59": {
+  "question_text": "According to the Vasishtha Samhita, which of the following are yamas?",
+  "items": [
+   "Aparigraha",
+   "Dhṛti (fortitude)",
+   "Dayā (compassion)",
+   "Santosha",
+   "Tapas"
+  ]
+ },
+ "YOGA-2021JUN-P2-S03": {
+  "question_text": "Which of the following are asanas described in the Shiva Samhita?",
+  "items": [
+   "Swastikasana",
+   "Kukkutasana",
+   "Paschimottanasana",
+   "Gomukhasana",
+   "Virasana"
+  ]
+ },
+ "YOGA-2021JUN-P2-S26": {
+  "question_text": "Forms of ‘malnutrition’ are:",
+  "items": [
+   "Over-nutrition",
+   "Proper nutrition",
+   "Under-nutrition",
+   "Balanced nutrition",
+   "Imbalanced nutrition"
+  ]
+ },
+ "YOGA-2021JUN-P2-S33": {
+  "question_text": "The bones of the axial skeleton are:",
+  "items": [
+   "Clavicle",
+   "Vertebrae",
+   "Scapula",
+   "Skull",
+   "Hyoid"
+  ]
+ },
+ "YOGA-2021JUN-P2-S66": {
+  "question_text": "According to the Yoga Sutra, the kinds of suffering are:",
+  "items": [
+   "‘Ādhidaivika’",
+   "‘Ādhibhautika’",
+   "‘Pariṇāma duḥkha’",
+   "‘Ādhyātmika’",
+   "‘Saṃskāra duḥkha’"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q58": {
+  "question_text": "According to 'Hathapradeepika' the components of pathya Ahara are not",
+  "items": [
+   "Sathi chawal",
+   "Curd",
+   "Madhu (Honey)",
+   "Mishri",
+   "Til"
+  ]
+ },
+ "YOGA-2021JUN-P2-S46": {
+  "question_text": "According to the Bhagavad Gita, the qualities of sattvic food are:",
+  "items": [
+   "Gives intelligence",
+   "Causes burning",
+   "Increases happiness",
+   "Produces anxiety",
+   "Increases affection (prīti)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S29": {
+  "question_text": "In the Bhagavad Gita, the parts of a lifestyle described for the destruction of sorrow are:",
+  "items": [
+   "Asana",
+   "Regulated diet (yukta āhāra)",
+   "Shatkarma",
+   "Mudra",
+   "Regulated recreation (yukta vihāra)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S07": {
+  "question_text": "Which of the following are aims of a lesson plan?",
+  "items": [
+   "To reduce last-minute pressure in the class",
+   "To counsel mischievous students in the class",
+   "To show the importance of modern teaching methods",
+   "To show more interest in teaching materials",
+   "To keep the class goal-oriented"
+  ]
+ },
+ "YOGA-2021JUN-P2-S27": {
+  "question_text": "Which of the following are not followers of the Nath tradition?",
+  "items": [
+   "Chaurangi",
+   "Chanda",
+   "Siddhi-Buddhi",
+   "Kantha",
+   "Kapali"
+  ]
+ },
+ "YOGA-2021JUN-P2-S61": {
+  "question_text": "Which of the following are teaching–learning approaches?",
+  "items": [
+   "Teacher-centred approach",
+   "Student-centred approach",
+   "Curriculum-centred approach",
+   "Tradition-centred approach"
+  ]
+ },
+ "YOGA-2021JUN-P2-S52": {
+  "question_text": "From which Latin root word is the word ‘education’ derived?",
+  "items": [
+   "Educier",
+   "Educol",
+   "Educare",
+   "Edulom"
+  ]
+ },
+ "YOGA-2021JUN-P2-S72": {
+  "question_text": "According to Swami Dhirendra Brahmachari, which of the following are not known as yogic sukshma vyayama (subtle exercises)?",
+  "items": [
+   "Hṛdgati",
+   "Skandha shakti vikasaka (shoulder strengthening)",
+   "Pushti",
+   "Purification of the place of articulation and the Vishuddhi chakra"
+  ]
+ },
+ "YOGA-2021JUN-P2-S23": {
+  "question_text": "According to the Gheranda Samhita, a person should not begin yoga practice in these seasons:",
+  "items": [
+   "Hemanta (early winter)",
+   "Shishira (late winter)",
+   "Varsha (rains)",
+   "Vasanta (spring)",
+   "Sharad (autumn)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S15": {
+  "question_text": "Match List I with List II",
+  "list_i": [
+   "Sri Aurobindo",
+   "Maharshi Dayananda",
+   "Shyama Charan Lahiri",
+   "Maharshi Ramana"
+  ],
+  "list_ii": [
+   "Jnana Yoga",
+   "Integral Yoga (Purna Yoga)",
+   "Upasana Yoga",
+   "Kriya Yoga"
+  ]
+ },
+ "YOGA-2021JUN-P2-S60": {
+  "question_text": "Match List I with List II according to the Kathopanishad",
+  "list_i": [
+   "The self (ātmā)",
+   "The body",
+   "The intellect (buddhi)",
+   "The mind"
+  ],
+  "list_ii": [
+   "Charioteer",
+   "Reins",
+   "Rider in the chariot",
+   "Chariot"
+  ]
+ },
+ "YOGA-2021JUN-P2-S38": {
+  "question_text": "Match List I with List II, according to the Yogakundalyupanishad",
+  "list_i": [
+   "Khechari",
+   "Vyana",
+   "Krikala",
+   "Jalandhara"
+  ],
+  "list_ii": [
+   "Upaprana (minor prana)",
+   "Mudra",
+   "Bandha",
+   "Prana"
+  ]
+ },
+ "YOGA-2021JUN-P2-S48": {
+  "question_text": "Match List I with List II",
+  "list_i": [
+   "Samadhi Pada",
+   "Sadhana Pada",
+   "Vibhuti Pada",
+   "Kaivalya Pada"
+  ],
+  "list_ii": [
+   "Tasya saptadhā prānta-bhūmiḥ prajñā.",
+   "Tasya praśānta-vāhitā saṃskārāt.",
+   "Tīvra-saṃvegānām āsannaḥ.",
+   "Tatra dhyānajam anāśayam."
+  ]
+ },
+ "YOGA-2021JUN-P2-S67": {
+  "question_text": "Match List I with List II",
+  "list_i": [
+   "First paṭala",
+   "Second paṭala",
+   "Fourth paṭala",
+   "Fifth paṭala"
+  ],
+  "list_ii": [
+   "Kinds of yoga and practitioners",
+   "Mudras",
+   "Philosophical tenets",
+   "The body is a replica of the vast universe."
+  ]
+ },
+ "YOGA-2021JUN-P2-S01": {
+  "question_text": "Match List I with List II",
+  "list_i_title": "List I (Vitamin)",
+  "list_ii_title": "List II (Deficiency disease)",
+  "list_i": [
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin E"
+  ],
+  "list_ii": [
+   "Malnutrition",
+   "Rickets",
+   "Scurvy",
+   "Pellagra"
+  ]
+ },
+ "YOGA-2021JUN-P2-S31": {
+  "question_text": "Match List I with List II",
+  "list_i": [
+   "Maitri (friendliness)",
+   "Karuna (compassion)",
+   "Mudita (gladness)",
+   "Upeksha (indifference)"
+  ],
+  "list_ii": [
+   "Towards the virtuous",
+   "Towards the happy",
+   "Towards the suffering",
+   "Towards the wicked"
+  ]
+ },
+ "YOGA-2021JUN-P2-S25": {
+  "question_text": "Match List I with List II",
+  "list_i_title": "List I (Practice)",
+  "list_ii_title": "List II (Benefit)",
+  "list_i": [
+   "Matsyendrasana",
+   "Mayurasana",
+   "Paschimottanasana",
+   "Trataka"
+  ],
+  "list_ii": [
+   "Removes drowsiness (tandrā)",
+   "Jaṭharānalasya udayaṃ (kindles the digestive fire)",
+   "Jaṭhara-pradīptiṃ (stimulates the gastric fire)",
+   "Jārayet kālakūṭam (digests even deadly poison)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S16": {
+  "question_text": "Match List I with List II",
+  "list_i_title": "List I (Practice)",
+  "list_ii_title": "List II (Part of the body)",
+  "list_i": [
+   "Jalandhara bandha",
+   "Uddiyana bandha",
+   "Mula bandha",
+   "Jihva bandha"
+  ],
+  "list_ii": [
+   "Abdomen",
+   "Tongue and palate",
+   "Throat",
+   "Perineum and anus"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q76": {
+  "question_text": "Identify correct sequence of superiority (Param) according to kathopnished:",
+  "items": [
+   "Sensory subjects (Arthah)",
+   "Senses (Indriyah)",
+   "Soul (Aatma)",
+   "Mind (Mana)",
+   "Intellect (Buddhi)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S71": {
+  "question_text": "According to the Dhyanabindu Upanishad:",
+  "items": [
+   "Asana, prāṇa-saṃrodha, pratyahara, dharana, dhyana, samadhi are the six limbs of yoga.",
+   "Siddha, Bhadra, Simha, Padma are the four asanas.",
+   "Pranayama, dharana, dhyana, samadhi are the limbs of yoga.",
+   "Swastika, Kurma, Sarvanga, Shirsha are the four asanas.",
+   "Yama, niyama, asana, pratyahara, dhyana, samadhi are the six limbs of yoga."
+  ]
+ },
+ "YOGA-2021JUN-P2-Q78": {
+  "question_text": "Arrange the following according to patanjal yoga sutra :",
+  "items": [
+   "Lingmatra",
+   "Alinga",
+   "Vishesh",
+   "Avishesh"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q79": {
+  "question_text": "Arrange these units of glucose in the sequence of mono-saccharides, di-saccharides and poly saccharides:",
+  "items": [
+   "Fructose",
+   "Sucrose",
+   "Galactose",
+   "Lactose",
+   "Starch"
+  ]
+ },
+ "YOGA-2021JUN-P2-S37": {
+  "question_text": "Arrange the following in order according to the Yoga Sutra.",
+  "items": [
+   "Styāna (dullness)",
+   "Pramāda (carelessness)",
+   "Saṃśaya (doubt)",
+   "Bhrāntidarśana (false perception)",
+   "Ālasya (laziness)"
+  ]
+ },
+ "YOGA-2021JUN-P2-S32": {
+  "question_text": "According to the book ‘Teaching Methods for Yogic Practices’, arrange the following stages of a yoga class in order from the start of the class to its end",
+  "items": [
+   "Questions and answers",
+   "Group practice",
+   "Individual practice",
+   "Relaxation",
+   "Seating arrangement"
+  ]
+ },
+ "YOGA-2021JUN-P2-S62": {
+  "question_text": "Arrange the following practices in the order of the seven means (sapta sādhana) of the Gheranda Samhita",
+  "items": [
+   "Mudra",
+   "Asana",
+   "Shatkarma",
+   "Dhyana",
+   "Pranayama"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q83": {
+  "question_text": "Given below are two statements:",
+  "items": [
+   "Shri Arvind was a freedom fighter and a Yogi.",
+   "His disciple Shri Maa has not established an Arvinda Ashram in Pondicherry."
+  ]
+ },
+ "YOGA-2021JUN-P2-S12": {
+  "question_text": "Given below are two statements. According to the Mandukya Upanishad:",
+  "items": [
+   "‘Taijasa’, whose sphere is dream, is the third quarter of Omkara.",
+   "‘Prājña’, whose sphere is deep sleep, is the second quarter of Omkara."
+  ]
+ },
+ "YOGA-2021JUN-P2-S44": {
+  "question_text": "Given below are two statements:",
+  "items": [
+   "The restraint of the modifications of the mind (citta-vṛtti-nirodha) is called yoga.",
+   "The state of complete restraint of all modifications is nirbīja samādhi."
+  ]
+ },
+ "YOGA-2021JUN-P2-S47": {
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other as Reason R",
+  "assertion": "Practising pranayama destroys all kinds of disease.",
+  "reason": "Just as an elephant or a tiger is tamed gradually, control over the prāṇa should be gained in the same way."
+ },
+ "YOGA-2021JUN-P2-S53": {
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other as Reason R",
+  "assertion": "Vitamin B12 is essential for DNA synthesis in RBCs.",
+  "reason": "Its deficiency stops cells maturing and reduces cell division."
+ },
+ "YOGA-2021JUN-P2-Q88": {
+  "question_text": "Given below are two statements:",
+  "items": [
+   "Increased secretion of thyroid hormone is called hyperthyroidism.",
+   "Grave's disease is an autoimmune disease and it is the most common cause of hyperthyroidism."
+  ]
+ },
+ "YOGA-2021JUN-P2-S34": {
+  "question_text": "Given below are two statements:",
+  "items": [
+   "In modern times there is a visible lack of value-based education.",
+   "Gaining more pleasure for oneself is itself a moral value."
+  ]
+ },
+ "YOGA-2021JUN-P2-S24": {
+  "question_text": "Given below are two statements: one is labelled as Assertion A and the other as Reason R",
+  "assertion": "Practice of asana and shatkarma is necessary before kumbhaka.",
+  "reason": "The full benefit of kumbhaka is gained only when the body has been made firm by asanas and purified by shatkarmas."
+ },
+ "YOGA-2021JUN-P2-Q91": {
+  "question_text": "The storage of glucose molecules in the mitochondria is known as",
+  "passage": "Diabetes mellitus is commonly known as diabetes. It is a metabolic disease, which causes high blood glucose level. The insulin hormone, which secrets from pancreas gland, can regulate the metabolism of glucose. In this process glucose molecules get stored inside the mitochondria of cells in the form of glycogen. This process is known as glycogenesis. If pancreas doesn't secrete an adequate amount of insulin hormone that condition is known as diabetes mellitus type 1 and if pancreas secretes some amount of insulin hormone but due to some resistance body does not use that synthesised hormone that condition is known as diabetes mellitus type 2. If a pregnant woman gets affected by diabetes mellitus that is known as gestational diabetes. The new born baby under gestational diabetes gets more prone to diabetes mellitus type 2. The common symptoms for diabetes are polyuria, polyphagia, polydipsia, weight loss, blurry vision and cardiovascular diseases etc. It seems that yoga practices can exert very positive effects on diabetes mellitus patients. Neti, Dhauti, Mandukasana, Ushtrasana, Ardhamatsyendrasana, Katichakrasana, Suryabhedana pranayama and Bhramari pranayama are most effective practices for the management of diabetes mellitus.",
+  "options": [
+   "Glycolysis",
+   "Glycogenesis",
+   "Kreb's cycle",
+   "Cellular absorption"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q92": {
+  "question_text": "In which form the glucose is stored in the mitochondria?",
+  "passage": "@YOGA-2021JUN-P2-Q91",
+  "options": [
+   "Glucose",
+   "Glycogen",
+   "Sucrose",
+   "Galactose"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q93": {
+  "question_text": "If pancreas does not synthesise an adequate amount of insulin hormone that condition is known as",
+  "passage": "@YOGA-2021JUN-P2-Q91",
+  "options": [
+   "Diabetes mellitus type 1",
+   "Diabetes mellitus type 2",
+   "Diabetes insipidus",
+   "Hypoglycemia"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q94": {
+  "question_text": "The new born baby under gestational diabetes gets prone for",
+  "passage": "@YOGA-2021JUN-P2-Q91",
+  "options": [
+   "Diabetes mellitus type 1",
+   "Diabetes mellitus type 2",
+   "Gestational diabetes",
+   "Diabetes insipidus"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q95": {
+  "question_text": "Which pranayama is most suitable for the management of diabetes mellitus?",
+  "passage": "@YOGA-2021JUN-P2-Q91",
+  "options": [
+   "Bhastrika pranayama",
+   "Nadishodhana pranayama",
+   "Surya bhedan pranayama",
+   "Ujjayee pranayama"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q96": {
+  "question_text": "According to Vyasji, modification is:",
+  "passage": "Cessation of modifications of mind-stuff is yoga. Here the question arises: what are the modifications of mind-stuff? While explaining the meaning of modification, Vyas Ji has said that the particular outcome of mind-stuff is modification. As the mind-stuff gets objectified after coming into contact with the object, it is called the outcome of mind-stuff. When the mind-stuff gets objectified, ideas concerning that particular object germinate in the mind-stuff. In general terms ideas themselves are called modifications.\n\nThere are innumerable objects in the world and many ideas are associated with one particular object. Thus, it appears difficult to have knowledge about all the ideas. Maharshi Patanjali has categorized all the ideas in five parts in the form of modifications. These are Pramana, Viparyaya, Vikalp, Nidra and Smriti. Ideas related to all objects of the world fall within these five modifications.\n\nModifications are five types of Jnana. Pramana is Yathartha Jnana. Viparyaya is Mithya Jnana. Vikalp is only Shabdik Jnana. Nidra is Abhavjanya Jnana and Smriti is Anubhavjanya Jnana. These modifications are of two types: Klishta and Aklishta. By cessation of these two types of modifications the yogi attains his own true self.",
+  "options": [
+   "Feeling of pleasure in the mind-stuff",
+   "Feeling of sorrow in the mind-stuff",
+   "The particular outcome of the mind-stuff",
+   "Auspicious-inauspicious acts"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q97": {
+  "question_text": "Patanjali has categorized all the ideas in how many parts?",
+  "passage": "@YOGA-2021JUN-P2-Q96",
+  "options": [
+   "Three parts",
+   "Five parts",
+   "Four parts",
+   "Six parts"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q98": {
+  "question_text": "Mithya Jnana is:",
+  "passage": "@YOGA-2021JUN-P2-Q96",
+  "options": [
+   "Viparyaya",
+   "Pramana",
+   "Vikalp",
+   "Nidra"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q99": {
+  "question_text": "Anubhavjanya Jnana is:",
+  "passage": "@YOGA-2021JUN-P2-Q96",
+  "options": [
+   "Pramana",
+   "Vikalp",
+   "Smriti",
+   "Nidra"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q100": {
+  "question_text": "The yogi becomes established in his own true self:",
+  "passage": "@YOGA-2021JUN-P2-Q96",
+  "options": [
+   "By ceasing only the klishta modifications",
+   "By ceasing only the aklishta modifications",
+   "By ceasing both kinds of modifications",
+   "By suppressing the modifications"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q28": {
+  "question_text": "Untreated or under treated streptococcal infection can lead towards",
+  "options": [
+   "Sinusitis",
+   "Rheumatic Valvular lesions",
+   "Glomerulonephritis",
+   "Migraine"
+  ]
+ },
+ "YOGA-2021JUN-P2-Q41": {
+  "question_text": "Maharshi Dayanand took the deeksha of samnyasa where and by whom?",
+  "items": [
+   "Mathura",
+   "Kankhal",
+   "Swami Virjananda",
+   "Swami Purnananda Saraswati",
+   "Swami Shivananda"
+  ],
+  "prompt": "Choose the correct answer from the options given below:",
+  "options": [
+   "(A), (D) only",
+   "(B), (D) only",
+   "(E), (C) only",
+   "(B), (C) only"
+  ]
+ }
 }

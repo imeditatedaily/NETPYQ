@@ -50,6 +50,7 @@ The id, session and note above only show the format.
 | `prompt` | no | e.g. "Choose the correct answer from the options given below:" |
 | `options` | yes | In the paper's order; shown as (1)–(4) |
 | `correct_answer` | yes | The option **number**, 1–4, as in NTA answer keys |
+| `accepted_answers` | no | When the official key gave marks for more than one option, every such option number, e.g. `[1, 3]`; `[1, 2, 3, 4]` for a question the key cancelled. Must include `correct_answer`. Any accepted option scores as right. |
 | `detailed_explanation` | yes | Markdown |
 | `macro_unit` | yes | Exactly one of the labels in `pyq/syllabus.py`, e.g. `Yoga Unit 4: Patanjala Yoga Sutra`, `IKS Unit 3: Astronomy`, `Paper 1 Unit 7: Data Interpretation` |
 | `micro_topic` | yes | Spell it identically every time; frequencies group by this text |

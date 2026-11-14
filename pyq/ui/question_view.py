@@ -145,6 +145,8 @@ def _options_review(q: Question, chosen: int) -> None:
     for n, text in enumerate(q.options, start=1):
         if n == q.correct_answer:
             kind, line = "right", f":material/check_circle: **({n}) {md(text)}**, correct answer"
+        elif n in q.accepted:
+            kind, line = "right", f":material/check_circle: **({n}) {md(text)}**, also accepted by the official key"
         elif n == chosen:
             kind, line = "wrong", f":material/cancel: ~~({n}) {md(text)}~~, your answer"
         else:
@@ -228,7 +230,13 @@ def open_library_for(unit: str) -> None:
 
 
 def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: str, note: str = "") -> None:
-    if q.is_correct(chosen):
+    if q.dropped:
+        st.info(f"**Cancelled in the official key:** every option was given marks, so your answer ({chosen}) counts. "
+                "The explanation gives the answer by the texts.", icon=":material/info:")
+    elif q.is_correct(chosen) and chosen != q.correct_answer:
+        st.success(f"**Correct.** The official key accepts option ({chosen}) as well as ({q.correct_answer}).",
+                   icon=":material/check_circle:")
+    elif q.is_correct(chosen):
         st.success(f"**Correct.** Option ({chosen}) is right.", icon=":material/check_circle:")
     else:
         st.error(f"**Incorrect.** You chose ({chosen}). The correct answer is ({q.correct_answer}): "

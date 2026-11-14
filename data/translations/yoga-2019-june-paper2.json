@@ -1,99 +1,999 @@
 {
-"YOGA-2019JUN-P2-Q01": {"question_text": "How many kinds of sahita kumbhaka are described in the Yogakundali Upanishad?"},
-"YOGA-2019JUN-P2-Q02": {"question_text": "How much of the stomach should a yoga practitioner keep empty while practising mitahara (moderate diet)?", "options": ["One-third", "One-fourth", "Half", "Two-thirds"]},
-"YOGA-2019JUN-P2-Q03": {"question_text": "Arrange the following in order of superiority according to the Bhagavad Gita:", "items": ["Abhyasa (practice)", "Jnana (knowledge)", "Meditation on the Supreme Lord", "Renouncing the fruits of all actions"]},
-"YOGA-2019JUN-P2-Q04": {"question_text": "How many kinds of pranayama are mentioned in the Siddha Siddhanta Paddhati?"},
-"YOGA-2019JUN-P2-Q05": {"question_text": "In the sutra 'pracchardana-vidhāraṇābhyāṁ vā prāṇasya', Maharshi Patanjali gives a means to what?", "options": ["Steadiness of the mind (chitta sthirata)", "Purity of the mind", "Samadhi", "Attaining Ishvara"]},
-"YOGA-2019JUN-P2-Q06": {"question_text": "According to the Nadabindu Upanishad, how many matras (measures) of Omkara are described?", "options": [null, null, null, "Fifteen"]},
-"YOGA-2019JUN-P2-Q07": {"question_text": "According to the Gheranda Samhita, bahishkrita dhauti is a kind of what?", "options": ["Mulashodhana", "Danta dhauti", "Antar dhauti", "Hrid dhauti"]},
-"YOGA-2019JUN-P2-Q08": {"question_text": "According to the Hatha Pradipika, what is the characteristic of laya?", "options": ["Turning towards sense objects", "Deep establishment in sense objects", "Absorption in sense objects", "Forgetting the sense objects"]},
-"YOGA-2019JUN-P2-Q09": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "Siddhis are obstacles to attaining samadhi.", "reason": "Even when invited by the gods, a yogi should not give up his practice and become attached to pleasures."},
-"YOGA-2019JUN-P2-Q10": {"question_text": "According to the Yoga Sutra, which order of the transformations of the mind (chitta parinama) is correct?", "options": ["Nirodha, ekagrata and samadhi", "Samadhi, nirodha and ekagrata", "Ekagrata, samadhi and nirodha", "Nirodha, samadhi and ekagrata"]},
-"YOGA-2019JUN-P2-Q11": {"question_text": "Match List-I with List-II:", "list_i_title": "List-I (Disease)", "list_ii_title": "List-II (Contraindicated yoga practice)", "options": ["(a)–(iii); (b)–(ii); (c)–(iv); (d)–(i)", "(a)–(iii); (b)–(i); (c)–(ii); (d)–(iv)", "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)", "(a)–(i); (b)–(ii); (c)–(iv); (d)–(iii)"], "list_i": ["Peptic ulcer", "Disc prolapse", "Depression", "High blood pressure"], "list_ii": ["Kapalabhati", "Shashankasana", "Vastra dhauti", "Shavasana"]},
-"YOGA-2019JUN-P2-Q12": {"question_text": "According to the Bhagavad Gita, the order of the materials used in arranging a seat for meditation is:", "options": ["Skin, cloth, kusha grass", "Cloth, skin, kusha grass", "Skin, kusha grass, cloth", "Kusha grass, skin, cloth"]},
-"YOGA-2019JUN-P2-Q13": {"question_text": "Which of the following contains the most protein?", "options": ["Soybean", "Moong (green gram)", "Arhar (pigeon pea)", "Chana (chickpea)"]},
-"YOGA-2019JUN-P2-Q14": {"question_text": "Match List-I with List-II:", "list_i_title": "List-I (Disease)", "list_ii_title": "List-II (Best yoga practice)", "options": ["(a)–(i); (b)–(iii); (c)–(iv); (d)–(ii)", "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)", "(a)–(iv); (b)–(i); (c)–(ii); (d)–(iii)", "(a)–(i); (b)–(iv); (c)–(iii); (d)–(ii)"], "list_i": ["Diabetes", "Bronchial asthma (tamaka shvasa)", "Lumbar spondylosis", "Migraine"], "list_ii": ["Ardha Matsyendrasana", "Shavasana", "Tadasana", "Gomukhasana"]},
-"YOGA-2019JUN-P2-Q15": {"question_text": "Match List-I with List-II:", "options": ["(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv); (e)–(v)", "(a)–(ii); (b)–(i); (c)–(iv); (d)–(v); (e)–(iii)", "(a)–(iii); (b)–(ii); (c)–(i); (d)–(iv); (e)–(v)", "(a)–(iv); (b)–(i); (c)–(v); (d)–(iii); (e)–(ii)"], "list_i": ["tato dvandvānabhighātaḥ", "dhāraṇāsu ca yogyatā manasaḥ", "tataḥ paramā vaśyatendriyāṇām", "santoṣād anuttamaḥ sukha-lābhaḥ", "asteya-pratiṣṭhāyāṁ sarva-ratnopasthānam"], "list_ii": ["Pranayama", "Yama", "Niyama", "Asana", "Pratyahara"]},
-"YOGA-2019JUN-P2-Q16": {"question_text": "According to the Taittiriya Upanishad, what is the correct order in which the five elements arise?", "options": ["Space, fire, earth, water, air", "Fire, air, space, water, earth", "Air, fire, water, space, earth", "Space, air, fire, water, earth"]},
-"YOGA-2019JUN-P2-Q17": {"question_text": "In which chapter of the Shvetashvatara Upanishad are the nature and glory of the Supreme Lord not described?", "options": ["Second chapter", "Fourth chapter", "Fifth chapter", "Sixth chapter"]},
-"YOGA-2019JUN-P2-Q18": {"question_text": "According to the Mundaka Upanishad, what results when the knots of the heart are cut?", "items": ["Samadhi is attained", "All doubts are removed", "All past karma is destroyed at the root", "Prosperity is attained"]},
-"YOGA-2019JUN-P2-Q19": {"question_text": "Match List-I with List-II:", "options": ["(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv)", "(a)–(iii); (b)–(i); (c)–(iv); (d)–(ii)", "(a)–(ii); (b)–(iv); (c)–(i); (d)–(iii)", "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)"], "list_i": ["Pratibha", "Shravana", "Adarsha", "Varta"], "list_ii": ["Seeing divine forms", "Knowledge of subtle things", "Perceiving divine smells", "Hearing divine sounds"]},
-"YOGA-2019JUN-P2-Q20": {"question_text": "Name the disease that can be treated directly through yoga practice.", "options": ["Ischaemic heart disease", "Hernia", "Diabetes mellitus type I", "Allergic rhinitis"]},
-"YOGA-2019JUN-P2-Q21": {"question_text": "In the Gheranda Samhita, which juice is prescribed for dantamula dhauti?", "options": ["Neem juice", "Khadira (catechu) juice", "Babul (acacia) juice", "Bitter juice"]},
-"YOGA-2019JUN-P2-Q22": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "A diet predominant in sour and salty tastes pacifies vata.", "reason": "A diet predominant in sour and salty tastes is unwholesome for people suffering from vata disorders."},
-"YOGA-2019JUN-P2-Q23": {"question_text": "According to the Prashna Upanishad, what is the subject of the sage Satyakama's question?", "options": ["The Vedas", "Prana", "Pranava (Om)", "Creation"]},
-"YOGA-2019JUN-P2-Q24": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "Light-sensitive pigments are present in the cones of the eye.", "reason": "Different combinations of the three kinds of cones and their photopigments do not produce the sensation of different colours."},
-"YOGA-2019JUN-P2-Q25": {"question_text": "Which muscles are mainly affected in the practice of uddiyana bandha?", "options": ["Abdominal muscles", "Thoracic muscles", "Throat muscles", "Back (spinal) muscles"]},
-"YOGA-2019JUN-P2-Q26": {"question_text": "The vascular coat of the eye is made up of which of the following?", "items": ["Sclera", "Cornea", "Choroid", "Iris"]},
-"YOGA-2019JUN-P2-Q27": {"question_text": "\"nāsato vidyate bhāvo nābhāvo vidyate sataḥ, ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ\". According to the Gita, this verse speaks of the immortality of what?", "options": ["Prakriti", "The Self (atma)", "The body", "Ishvara"]},
-"YOGA-2019JUN-P2-Q28": {"question_text": "Which of the following yoga practices do not have a positive effect in depression?", "items": ["Bhastrika pranayama", "Shavasana", "Kapalabhati", "Bhramari pranayama"]},
-"YOGA-2019JUN-P2-Q29": {"question_text": "According to the Patanjala Yoga Sutra, what is the means of knowing subtle, hidden and distant objects?", "options": ["Vishayavati pravritti", "Jyotishmati pravritti", "Samskara sakshatkaranat", "Bandhakarana shaithilyat"]},
-"YOGA-2019JUN-P2-Q30": {"question_text": "Which of the following are kleshas?", "items": ["Smita", "Asmita", "Duhkha", "Raga"]},
-"YOGA-2019JUN-P2-Q31": {"question_text": "Atma is the concept of which philosophy?", "options": ["Vedanta darshana", "Samkhya darshana", "Nyaya darshana", "Yoga darshana"]},
-"YOGA-2019JUN-P2-Q32": {"question_text": "Match List-I with List-II according to the Yogatattva Upanishad:", "list_i_title": "List-I (The five great elements)", "list_ii_title": "List-II (Presiding deity)", "options": ["(a)–(i); (b)–(ii); (c)–(iii); (d)–(v); (e)–(iv)", "(a)–(v); (b)–(iii); (c)–(i); (d)–(ii); (e)–(iv)", "(a)–(ii); (b)–(iv); (c)–(v); (d)–(i); (e)–(iii)", "(a)–(iv); (b)–(ii); (c)–(v); (d)–(iii); (e)–(i)"], "list_i": ["Earth", "Water", "Fire", "Air", "Space"], "list_ii": ["Lord Rudra", "Vishvatomukha (facing all directions)", "Four-armed Narayana", "Sadashiva", "Four-armed, four-faced Brahma"]},
-"YOGA-2019JUN-P2-Q33": {"question_text": "What kind of disorder is a phobia?", "options": ["Generalised anxiety disorder", "Excess and lack of sleep", "Digestive disorder", "Physical disorder"]},
-"YOGA-2019JUN-P2-Q34": {"question_text": "Which of the following are bones of the wrist?", "items": ["Incus", "Lunate", "Capitate", "Stapes"]},
-"YOGA-2019JUN-P2-Q35": {"question_text": "Food with the qualities manda (slow) and guru (heavy) is contraindicated for people of which constitution?", "options": ["Vata constitution", "Pitta constitution", "Kapha constitution", "Vata-pitta constitution"]},
-"YOGA-2019JUN-P2-Q36": {"question_text": "According to the Gheranda Samhita, the kinds of nadi shuddhi are:", "items": ["Samanu", "Nirmanu", "Sagarbha", "Nigarbha"]},
-"YOGA-2019JUN-P2-Q38": {"question_text": "In the process of gluconeogenesis, glucose is formed from which of the following?", "items": ["Carbohydrates", "Amino acids", "Fatty acids", "Vitamins"]},
-"YOGA-2019JUN-P2-Q39": {"question_text": "According to the Shrimad Bhagavad Gita, the meanings of the word yoga are:", "items": ["Samadhi", "Karmasu kaushalam (skill in action)", "Union of the individual self and the Supreme", "Samatva (equanimity)"]},
-"YOGA-2019JUN-P2-Q40": {"question_text": "According to the Yogaraja Upanishad, the sixth chakra is:", "options": ["Ajna chakra", "Bhru chakra", "Brahma chakra", "Taluka chakra"]},
-"YOGA-2019JUN-P2-Q41": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "Narada is a bhakti yogi who advocates supreme devotion, which leads to self-realisation.", "reason": "Kabir, Mirabai, Tulsidas and Surdas adopted bhakti yoga."},
-"YOGA-2019JUN-P2-Q42": {"question_text": "According to the Bhagavad Gita, what does rajoguna result in?", "options": ["Lobha (greed)", "Moha (delusion)", "Kama (desire)", "Mada (pride)"]},
-"YOGA-2019JUN-P2-Q43": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "For teaching meditation, it is necessary to create a calm atmosphere so that a meditative state of mind can arise.", "reason": "All yoga practices contribute to building a meditative state of mind."},
-"YOGA-2019JUN-P2-Q44": {"question_text": "Match List-I with List-II:", "list_i_title": "List-I (Bone)", "list_ii_title": "List-II (Location)", "options": ["(a)–(i); (b)–(ii); (c)–(iv); (d)–(iii)", "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)", "(a)–(iii); (b)–(ii); (c)–(i); (d)–(iv)", "(a)–(ii); (b)–(iv); (c)–(iii); (d)–(i)"], "list_i": ["Malleus", "Maxilla", "Scaphoid", "Sternum"], "list_ii": ["Wrist", "Upper jaw", "Ear", "Chest"]},
-"YOGA-2019JUN-P2-Q45": {"question_text": "According to the Hatha Pradipika, the practice of which mudra removes the great afflictions and the fear of death?", "options": ["Maha mudra", "Maha vedha mudra", "Maha bandha mudra", "Khechari mudra"]},
-"YOGA-2019JUN-P2-Q46": {"question_text": "According to the Bhagavad Gita, 'sarva-bhūta-hite ratāḥ' (devoted to the welfare of all beings) is a characteristic of which yogi?", "options": ["Samkhya yogi", "Jnana yogi", "Bhakti yogi", "Karma yogi"]},
-"YOGA-2019JUN-P2-Q47": {"question_text": "Which mahabhutas predominate in kapha dosha?", "items": ["Air (vayu)", "Water (jala)", "Earth (prithvi)", "Space (akasha)"]},
-"YOGA-2019JUN-P2-Q49": {"question_text": "\"duḥkha-daurmanasya-aṅgamejayatva-śvāsa-praśvāsā vikṣepa-sahabhuvaḥ\": this Yoga Sutra describes the signs of which of the following?", "options": ["The pranic body", "The physical body", "The causal body", "The subtle body"]},
-"YOGA-2019JUN-P2-Q50": {"question_text": "Arrange the following in order:", "items": ["Ureter", "Kidney", "Urinary bladder", "Urethra"]},
-"YOGA-2019JUN-P2-Q51": {"question_text": "According to Buddhist philosophy, 'samyak vyayama' (right effort) means:", "options": ["Purity of speech", "Purity of action", "Purity of livelihood", "Purity of thought"]},
-"YOGA-2019JUN-P2-Q52": {"question_text": "Which of the following asanas are described in the Shiva Samhita?", "items": ["Siddhasana", "Padmasana", "Swastikasana", "Bhadrasana"]},
-"YOGA-2019JUN-P2-Q53": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "Disease (vyadhi) appears along with distraction of the mind (chitta vikshepa).", "reason": "Distraction of the mind creates imbalance in the three doshas."},
-"YOGA-2019JUN-P2-Q54": {"question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):", "assertion": "The place for yoga practice should be quiet.", "reason": "Yoga should be practised in a quiet place on an empty stomach, so as to relax the body and mind."},
-"YOGA-2019JUN-P2-Q55": {"question_text": "According to Maharshi Patanjali, which of the following is the means of removing obstacles that arise in observing the yamas and niyamas?", "options": ["Yoga practice", "Pratipaksha bhavana (cultivating the opposite)", "Pratyahara", "Samyama"]},
-"YOGA-2019JUN-P2-Q56": {"question_text": "Which of the following are micronutrients?", "items": ["Fats", "Vitamins", "Minerals", "Proteins"]},
-"YOGA-2019JUN-P2-Q57": {"question_text": "According to the Yoga Sutra, being established in which brings knowledge of previous births?", "options": ["Ahimsa", "Asteya", "Aparigraha", "Svadhyaya"]},
-"YOGA-2019JUN-P2-Q58": {"question_text": "What do you do first when conducting a yoga class?", "options": ["Introduction", "Demonstration", "Creating the setting", "Analysis of the practice"]},
-"YOGA-2019JUN-P2-Q59": {"question_text": "Which of the following asanas are not mentioned in the Shiva Samhita?", "items": ["Siddhasana", "Ugrasana", "Bhadrasana", "Muktasana"]},
-"YOGA-2019JUN-P2-Q60": {"question_text": "According to the Yoga Sutra, mastery over which makes the yogi's body radiant?", "options": ["Samana vayu", "Udana vayu", "Prana vayu", "Apana vayu"]},
-"YOGA-2019JUN-P2-Q61": {"question_text": "Match List-I with List-II:", "options": ["(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv); (e)–(v)", "(a)–(ii); (b)–(iii); (c)–(v); (d)–(iv); (e)–(i)", "(a)–(iii); (b)–(i); (c)–(ii); (d)–(iv); (e)–(v)", "(a)–(v); (b)–(iv); (c)–(i); (d)–(ii); (e)–(iii)"], "list_i": ["Yogic sukshma vyayama", "Transcendental Meditation", "Meditation on Savita", "Cyclic meditation", "Yoga nidra"], "list_ii": ["Maharishi Mahesh Yogi", "Dev Sanskriti Vishwavidyalaya", "Swami Dhirendra Brahmachari", "S. Vyasa", "Bihar School of Yoga"]},
-"YOGA-2019JUN-P2-Q62": {"question_text": "Arrange the following states of the kleshas in order:", "items": ["Tanu (attenuated)", "Udara (active)", "Prasupta (dormant)", "Vichchhinna (interrupted)"]},
-"YOGA-2019JUN-P2-Q63": {"question_text": "Who is the father of the psychoanalytic theory of personality?", "options": ["Freud", "Adler", "Jung", "Hippocrates"]},
-"YOGA-2019JUN-P2-Q64": {"question_text": "The four yogas (mantra, laya, hatha and raja) are described in:", "items": ["Trishikhibrahmana Upanishad", "Yogatattva Upanishad", "Yogaraja Upanishad", "Nadabindu Upanishad"]},
-"YOGA-2019JUN-P2-Q65": {"question_text": "Which of the following are upavikshepas (companions of the distractions)?", "items": ["Dvesha", "Duhkha", "Anavasthitatva", "Angamejayatva"]},
-"YOGA-2019JUN-P2-Q66": {"question_text": "According to the Gheranda Samhita, which shatkarmas give divine sight?", "items": ["Neti", "Trataka", "Kapalabhati", "Lauliki"]},
-"YOGA-2019JUN-P2-Q67": {"question_text": "In the Mundaka Upanishad, the head of the Lord is compared with what?", "options": ["Fire (agni)", "The Vedas", "Knowledge", "Intellect"]},
-"YOGA-2019JUN-P2-Q68": {"question_text": "By which of the following can the whole body be cleansed (sarvanga-shodhana)?", "options": ["Dhauti and basti", "Basti and neti", "Bhastra-karma and nauli", "Basti and bhastra-karma"]},
-"YOGA-2019JUN-P2-Q69": {"question_text": "According to the Hatha Pradipika, which foods are forbidden for a yoga practitioner?", "items": ["Til (sesame)", "Yava (barley)", "Sarshapa (mustard)", "Shunthi (dry ginger)"]},
-"YOGA-2019JUN-P2-Q70": {"question_text": "According to the Bhagavad Gita, how many causes for the accomplishment of all actions are mentioned?"},
-"YOGA-2019JUN-P2-Q71": {"question_text": "In the Yogatattva Upanishad, the instructions for practising pranayama for nadi shodhana are:", "items": ["Four times a day", "Three times a day", "For three months", "For four months"]},
-"YOGA-2019JUN-P2-Q72": {"question_text": "Which of the following asanas is not mentioned in the Siddha Siddhanta Paddhati?", "options": ["Swastikasana", "Ugrasana", "Siddhasana", "Padmasana"]},
-"YOGA-2019JUN-P2-Q73": {"question_text": "Which asanas are forbidden in constipation (vibandha)?", "items": ["Trikonasana", "Kukkutasana", "Padahastasana", "Sarvangasana"]},
-"YOGA-2019JUN-P2-Q74": {"question_text": "The main sources of vitamin C are:", "items": ["Fresh fruits", "Liver", "Green leafy vegetables", "Egg yolk"]},
-"YOGA-2019JUN-P2-Q75": {"question_text": "Match List-I with List-II:", "options": ["(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)", "(a)–(iv); (b)–(ii); (c)–(iii); (d)–(i)", "(a)–(iii); (b)–(iv); (c)–(ii); (d)–(i)", "(a)–(iv); (b)–(iii); (c)–(i); (d)–(ii)"], "list_i": ["Shyamacharan Lahiri", "Krishnamacharya", "Maharishi Mahesh Yogi", "Shriram Sharma Acharya"], "list_ii": ["Pragya yoga", "Transcendental Meditation", "Vinyasa yoga", "Kriya yoga"]},
-"YOGA-2019JUN-P2-Q76": {"question_text": "The doctrine of momentariness (kshanikavada) belongs to which philosophy?", "options": ["Jaina", "Bauddha (Buddhist)", "Samkhya", "Charvaka"]},
-"YOGA-2019JUN-P2-Q77": {"question_text": "Arrange the following yogis in ascending order of their birth:", "items": ["Swami Vivekananda", "Maharshi Dayananda Saraswati", "Maharshi Mahesh Yogi", "Swami Sivananda"]},
-"YOGA-2019JUN-P2-Q78": {"question_text": "Give the correct order of the following according to the Eightfold Path of Buddhist philosophy:", "items": ["Samyak karmanta (right action)", "Samyak vak (right speech)", "Samyak drishti (right view)", "Samyak sankalpa (right resolve)"]},
-"YOGA-2019JUN-P2-Q79": {"question_text": "According to the Dhyanabindu Upanishad, what colour and guna belong to Akara (the A) of Omkara?", "options": ["White colour and sattva guna", "Yellow colour and rajo guna", "Black colour and tamo guna", "Copper colour and rajo guna"]},
-"YOGA-2019JUN-P2-Q80": {"question_text": "According to the Trishikhibrahmana Upanishad, how many main nadis arise from the kanda?", "options": [null, "Fifteen", "Seventy-two hundred", null]},
-"YOGA-2019JUN-P2-Q81": {"question_text": "In which of the following texts are nine kumbhakas mentioned?", "options": ["Hatha Pradipika", "Gheranda Samhita", "Hatharatnavali", "Shiva Samhita"]},
-"YOGA-2019JUN-P2-Q82": {"question_text": "According to the Patanjala Yoga Sutra, practice on a single principle (eka-tattva abhyasa) removes what?", "options": ["Vikshepa (distractions)", "Klesha", "Duhkha", "Fear of death"]},
-"YOGA-2019JUN-P2-Q83": {"question_text": "According to the Gheranda Samhita, which asana makes the awakening of kundalini possible?", "options": ["Bhujangasana", "Paschimottanasana", "Dhanurasana", "Matsyasana"]},
-"YOGA-2019JUN-P2-Q84": {"question_text": "According to the Trishikhibrahmana Upanishad, the ascending order of the niyamas is:", "items": ["Tapa", "Santosha", "Dana", "Hari aradhana (worship of Hari)", "Astikya (faith)"]},
-"YOGA-2019JUN-P2-Q85": {"question_text": "Which of the following is not a balancing asana?", "options": ["Vrikshasana", "Tadasana", "Garudasana", "Ekapada skandhasana"]},
-"YOGA-2019JUN-P2-Q86": {"question_text": "According to the Yoga Vasishtha, which of the following is the sixth stage of knowledge?", "options": ["Tanumanasa", "Asamsakti", "Turyaga", "Padartha bhavana"]},
-"YOGA-2019JUN-P2-Q87": {"question_text": "Who proposed the hierarchical model of personality?", "options": ["Maslow", "Jung", "Adler", "Gregor"]},
-"YOGA-2019JUN-P2-Q88": {"question_text": "Match List-I with List-II according to the Taittiriya Upanishad:", "list_i_title": "List-I (Element)", "list_ii_title": "List-II (Limb)", "options": ["(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv)", "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)", "(a)–(iii); (b)–(i); (c)–(iv); (d)–(ii)", "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)"], "list_i": ["Shraddha", "Rita", "Satya", "Maha"], "list_ii": ["Tail", "Head", "Right wing", "Left wing"]},
-"YOGA-2019JUN-P2-Q89": {"question_text": "At the practical level, yoga is a means of establishing balance and harmony between which of the following?", "passage": "@YOGA-2019JUN-P2-Q90", "options": ["Mind and soul only", "Body and mind only", "Body, mind and soul", "Body and soul only"]},
-"YOGA-2019JUN-P2-Q90": {"question_text": "Shatkarma, asana, pranayama and meditation are important means of maintaining which of the following?", "passage": "Yoga is the science of holistic living, and it means 'to join'. In the spiritual world this joining is explained as the union of individual consciousness with universal consciousness. On the practical level, yoga is a means of establishing balance and harmony in body, mind and emotions. It works on the holistic principles of harmony and oneness. It affects every aspect of the personality: physical, mental, social, emotional and spiritual. This can be done through the practice of ashtanga yoga and saptanga yoga. In the twenty-first century, besides the spiritual goal of yoga, physical and mental therapy are among yoga's achievements. Yoga has succeeded as a therapy for controlling various diseases. Yoga therapy succeeds in establishing balance in the nervous and endocrine systems, which has a direct effect on all the organs of the body. Research is currently being done on the effects of yoga practice during and after work. Its results show that shatkarma, asana, pranayama, meditation and so on are important means of maintaining physical and mental health. In view of these facts, millions of people in India and abroad practise yoga every day and take part in the International Day of Yoga, celebrated every year on 21 June. A Common Yoga Protocol has been prepared to spread awareness among people and communities for achieving harmony, peace and freedom from disease.", "options": ["Physical and social health", "Physical and mental health", "Mental and social health", "Mental and emotional health"]},
-"YOGA-2019JUN-P2-Q91": {"question_text": "The spiritual term 'to join' is explained as the union of which of the following?", "passage": "@YOGA-2019JUN-P2-Q90", "options": ["Physical and spiritual consciousness", "Individual and universal consciousness", "Physical and mental consciousness", "Mental and spiritual consciousness"]},
-"YOGA-2019JUN-P2-Q92": {"question_text": "Yoga works on which of the following holistic principles?", "passage": "@YOGA-2019JUN-P2-Q90", "options": ["Harmony and samadhi", "Harmony and moksha", "Peace and moksha", "Harmony and oneness"]},
-"YOGA-2019JUN-P2-Q93": {"question_text": "Yoga therapy succeeds in creating balance between which of the following?", "passage": "@YOGA-2019JUN-P2-Q90", "options": ["The nervous system and the endocrine system", "The nervous system and the circulatory system", "The circulatory system and the locomotor system", "The circulatory system and the endocrine system"]},
-"YOGA-2019JUN-P2-Q94": {"question_text": "When is the International Day of Yoga celebrated?", "passage": "@YOGA-2019JUN-P2-Q90", "options": ["21 May", "22 June", "21 June", "22 May"]},
-"YOGA-2019JUN-P2-Q96": {"question_text": "Which of the following kleshas belong to the domain of the intellect?", "passage": "According to Maharshi Patanjali, the five kleshas that disturb the equilibrium of consciousness are avidya, asmita, raga, dvesha and abhinivesha. Lack of true knowledge is the source of all suffering, whether the kleshas are dormant, attenuated, interrupted or fully active. Avidya is the mother of all the kleshas. The body and the self are different, but because of asmita a person feels them to be one. Pleasant experiences give rise to desire and emotional attachment. Unhappiness results in hatred and a sense of insignificance. Clinging to life, or the fear of death, is inherent in all human beings, and even the wise are not free of it. These five kleshas work at three levels: intellectual, emotional and instinctive. Avidya and asmita belong to the domain of the intellect. Raga and dvesha relate to emotions and feelings. The tendency of the klesha abhinivesha is instinctive. The root causes of these five kleshas are behavioural functioning and thinking. The processes of thought and action have existed since the beginning of civilisation, and humans have always been searching for true knowledge. In the context of sadhana, the discriminating power of the intellect finally turns into pure wisdom (prajna), which is eternal. A true seeker is able, through yoga, to destroy the kleshas at their very beginning.", "items": ["Raga", "Avidya", "Asmita", "Dvesha"]},
-"YOGA-2019JUN-P2-Q97": {"question_text": "The discriminating power of the intellect finally turns into which of these?", "passage": "@YOGA-2019JUN-P2-Q96", "options": ["Pure mind", "Pure intellect", "Pure wisdom (prajna)", "Pure senses"]},
-"YOGA-2019JUN-P2-Q98": {"question_text": "The feeling of clinging to life, or fear of death, is inherent in which of the following?", "passage": "@YOGA-2019JUN-P2-Q96", "options": ["All human beings", "Only the wise", "Only the ignorant", "Only animals"]},
-"YOGA-2019JUN-P2-Q99": {"question_text": "The mother of all the kleshas is:", "passage": "@YOGA-2019JUN-P2-Q96", "options": ["Asmita", "Avidya", "Raga", "Dvesha"]},
-"YOGA-2019JUN-P2-Q100": {"question_text": "Because of which of the following does one feel that the body and the eternal self are one?", "passage": "@YOGA-2019JUN-P2-Q96", "options": ["Avidya", "Abhinivesha", "Asmita", "Raga"]}
+ "YOGA-2019JUN-P2-Q01": {
+  "question_text": "How many kinds of sahita kumbhaka are described in the Yogakundali Upanishad?"
+ },
+ "YOGA-2019JUN-P2-Q02": {
+  "question_text": "How much of the stomach should a yoga practitioner keep empty while practising mitahara (moderate diet)?",
+  "options": [
+   "One-third",
+   "One-fourth",
+   "Half",
+   "Two-thirds"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q03": {
+  "question_text": "Arrange the following in order of superiority according to the Bhagavad Gita:",
+  "items": [
+   "Abhyasa (practice)",
+   "Jnana (knowledge)",
+   "Meditation on the Supreme Lord",
+   "Renouncing the fruits of all actions"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q04": {
+  "question_text": "How many kinds of pranayama are mentioned in the Siddha Siddhanta Paddhati?"
+ },
+ "YOGA-2019JUN-P2-Q05": {
+  "question_text": "In the sutra 'pracchardana-vidhāraṇābhyāṁ vā prāṇasya', Maharshi Patanjali gives a means to what?",
+  "options": [
+   "Steadiness of the mind (chitta sthirata)",
+   "Purity of the mind",
+   "Samadhi",
+   "Attaining Ishvara"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q06": {
+  "question_text": "According to the Nadabindu Upanishad, how many matras (measures) of Omkara are described?",
+  "options": [
+   null,
+   null,
+   null,
+   "Fifteen"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q07": {
+  "question_text": "According to the Gheranda Samhita, bahishkrita dhauti is a kind of what?",
+  "options": [
+   "Mulashodhana",
+   "Danta dhauti",
+   "Antar dhauti",
+   "Hrid dhauti"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q08": {
+  "question_text": "According to the Hatha Pradipika, what is the characteristic of laya?",
+  "options": [
+   "Turning towards sense objects",
+   "Deep establishment in sense objects",
+   "Absorption in sense objects",
+   "Forgetting the sense objects"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q09": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "Siddhis are obstacles to attaining samadhi.",
+  "reason": "Even when invited by the gods, a yogi should not give up his practice and become attached to pleasures."
+ },
+ "YOGA-2019JUN-P2-Q10": {
+  "question_text": "According to the Yoga Sutra, which order of the transformations of the mind (chitta parinama) is correct?",
+  "options": [
+   "Nirodha, ekagrata and samadhi",
+   "Samadhi, nirodha and ekagrata",
+   "Ekagrata, samadhi and nirodha",
+   "Nirodha, samadhi and ekagrata"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q11": {
+  "question_text": "Match List-I with List-II:",
+  "list_i_title": "List-I (Disease)",
+  "list_ii_title": "List-II (Contraindicated yoga practice)",
+  "options": [
+   "(a)–(iii); (b)–(ii); (c)–(iv); (d)–(i)",
+   "(a)–(iii); (b)–(i); (c)–(ii); (d)–(iv)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)",
+   "(a)–(i); (b)–(ii); (c)–(iv); (d)–(iii)"
+  ],
+  "list_i": [
+   "Peptic ulcer",
+   "Disc prolapse",
+   "Depression",
+   "High blood pressure"
+  ],
+  "list_ii": [
+   "Kapalabhati",
+   "Shashankasana",
+   "Vastra dhauti",
+   "Shavasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q12": {
+  "question_text": "According to the Bhagavad Gita, the order of the materials used in arranging a seat for meditation is:",
+  "options": [
+   "Skin, cloth, kusha grass",
+   "Cloth, skin, kusha grass",
+   "Skin, kusha grass, cloth",
+   "Kusha grass, skin, cloth"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q13": {
+  "question_text": "Which of the following contains the most protein?",
+  "options": [
+   "Soybean",
+   "Moong (green gram)",
+   "Arhar (pigeon pea)",
+   "Chana (chickpea)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q14": {
+  "question_text": "Match List-I with List-II:",
+  "list_i_title": "List-I (Disease)",
+  "list_ii_title": "List-II (Best yoga practice)",
+  "options": [
+   "(a)–(i); (b)–(iii); (c)–(iv); (d)–(ii)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)",
+   "(a)–(iv); (b)–(i); (c)–(ii); (d)–(iii)",
+   "(a)–(i); (b)–(iv); (c)–(iii); (d)–(ii)"
+  ],
+  "list_i": [
+   "Diabetes",
+   "Bronchial asthma (tamaka shvasa)",
+   "Lumbar spondylosis",
+   "Migraine"
+  ],
+  "list_ii": [
+   "Ardha Matsyendrasana",
+   "Shavasana",
+   "Tadasana",
+   "Gomukhasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q15": {
+  "question_text": "Match List-I with List-II:",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv); (e)–(v)",
+   "(a)–(ii); (b)–(i); (c)–(iv); (d)–(v); (e)–(iii)",
+   "(a)–(iii); (b)–(ii); (c)–(i); (d)–(iv); (e)–(v)",
+   "(a)–(iv); (b)–(i); (c)–(v); (d)–(iii); (e)–(ii)"
+  ],
+  "list_i": [
+   "tato dvandvānabhighātaḥ",
+   "dhāraṇāsu ca yogyatā manasaḥ",
+   "tataḥ paramā vaśyatendriyāṇām",
+   "santoṣād anuttamaḥ sukha-lābhaḥ",
+   "asteya-pratiṣṭhāyāṁ sarva-ratnopasthānam"
+  ],
+  "list_ii": [
+   "Pranayama",
+   "Yama",
+   "Niyama",
+   "Asana",
+   "Pratyahara"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q16": {
+  "question_text": "According to the Taittiriya Upanishad, what is the correct order in which the five elements arise?",
+  "options": [
+   "Space, fire, earth, water, air",
+   "Fire, air, space, water, earth",
+   "Air, fire, water, space, earth",
+   "Space, air, fire, water, earth"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q17": {
+  "question_text": "In which chapter of the Shvetashvatara Upanishad are the nature and glory of the Supreme Lord not described?",
+  "options": [
+   "Second chapter",
+   "Fourth chapter",
+   "Fifth chapter",
+   "Sixth chapter"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q18": {
+  "question_text": "According to the Mundaka Upanishad, what results when the knots of the heart are cut?",
+  "items": [
+   "Samadhi is attained",
+   "All doubts are removed",
+   "All past karma is destroyed at the root",
+   "Prosperity is attained"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q19": {
+  "question_text": "Match List-I with List-II:",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv)",
+   "(a)–(iii); (b)–(i); (c)–(iv); (d)–(ii)",
+   "(a)–(ii); (b)–(iv); (c)–(i); (d)–(iii)",
+   "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)"
+  ],
+  "list_i": [
+   "Pratibha",
+   "Shravana",
+   "Adarsha",
+   "Varta"
+  ],
+  "list_ii": [
+   "Seeing divine forms",
+   "Knowledge of subtle things",
+   "Perceiving divine smells",
+   "Hearing divine sounds"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q20": {
+  "question_text": "Name the disease that can be treated directly through yoga practice.",
+  "options": [
+   "Ischaemic heart disease",
+   "Hernia",
+   "Diabetes mellitus type I",
+   "Allergic rhinitis"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q21": {
+  "question_text": "In the Gheranda Samhita, which juice is prescribed for dantamula dhauti?",
+  "options": [
+   "Neem juice",
+   "Khadira (catechu) juice",
+   "Babul (acacia) juice",
+   "Bitter juice"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q22": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "A diet predominant in sour and salty tastes pacifies vata.",
+  "reason": "A diet predominant in sour and salty tastes is unwholesome for people suffering from vata disorders."
+ },
+ "YOGA-2019JUN-P2-Q23": {
+  "question_text": "According to the Prashna Upanishad, what is the subject of the sage Satyakama's question?",
+  "options": [
+   "The Vedas",
+   "Prana",
+   "Pranava (Om)",
+   "Creation"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q24": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "Light-sensitive pigments are present in the cones of the eye.",
+  "reason": "Different combinations of the three kinds of cones and their photopigments do not produce the sensation of different colours."
+ },
+ "YOGA-2019JUN-P2-Q25": {
+  "question_text": "Which muscles are mainly affected in the practice of uddiyana bandha?",
+  "options": [
+   "Abdominal muscles",
+   "Thoracic muscles",
+   "Throat muscles",
+   "Back (spinal) muscles"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q26": {
+  "question_text": "The vascular coat of the eye is made up of which of the following?",
+  "items": [
+   "Sclera",
+   "Cornea",
+   "Choroid",
+   "Iris"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q27": {
+  "question_text": "\"nāsato vidyate bhāvo nābhāvo vidyate sataḥ, ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ\". According to the Gita, this verse speaks of the immortality of what?",
+  "options": [
+   "Prakriti",
+   "The Self (atma)",
+   "The body",
+   "Ishvara"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q28": {
+  "question_text": "Which of the following yoga practices do not have a positive effect in depression?",
+  "items": [
+   "Bhastrika pranayama",
+   "Shavasana",
+   "Kapalabhati",
+   "Bhramari pranayama"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q29": {
+  "question_text": "According to the Patanjala Yoga Sutra, what is the means of knowing subtle, hidden and distant objects?",
+  "options": [
+   "Vishayavati pravritti",
+   "Jyotishmati pravritti",
+   "Samskara sakshatkaranat",
+   "Bandhakarana shaithilyat"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q30": {
+  "question_text": "Which of the following are kleshas?",
+  "items": [
+   "Smita",
+   "Asmita",
+   "Duhkha",
+   "Raga"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q31": {
+  "question_text": "Atma is the concept of which philosophy?",
+  "options": [
+   "Vedanta darshana",
+   "Samkhya darshana",
+   "Nyaya darshana",
+   "Yoga darshana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q32": {
+  "question_text": "Match List-I with List-II according to the Yogatattva Upanishad:",
+  "list_i_title": "List-I (The five great elements)",
+  "list_ii_title": "List-II (Presiding deity)",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(v); (e)–(iv)",
+   "(a)–(v); (b)–(iii); (c)–(i); (d)–(ii); (e)–(iv)",
+   "(a)–(ii); (b)–(iv); (c)–(v); (d)–(i); (e)–(iii)",
+   "(a)–(iv); (b)–(ii); (c)–(v); (d)–(iii); (e)–(i)"
+  ],
+  "list_i": [
+   "Earth",
+   "Water",
+   "Fire",
+   "Air",
+   "Space"
+  ],
+  "list_ii": [
+   "Lord Rudra",
+   "Vishvatomukha (facing all directions)",
+   "Four-armed Narayana",
+   "Sadashiva",
+   "Four-armed, four-faced Brahma"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q33": {
+  "question_text": "What kind of disorder is a phobia?",
+  "options": [
+   "Generalised anxiety disorder",
+   "Excess and lack of sleep",
+   "Digestive disorder",
+   "Physical disorder"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q34": {
+  "question_text": "Which of the following are bones of the wrist?",
+  "items": [
+   "Incus",
+   "Lunate",
+   "Capitate",
+   "Stapes"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q35": {
+  "question_text": "Food with the qualities manda (slow) and guru (heavy) is contraindicated for people of which constitution?",
+  "options": [
+   "Vata constitution",
+   "Pitta constitution",
+   "Kapha constitution",
+   "Vata-pitta constitution"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q36": {
+  "question_text": "According to the Gheranda Samhita, the kinds of nadi shuddhi are:",
+  "items": [
+   "Samanu",
+   "Nirmanu",
+   "Sagarbha",
+   "Nigarbha"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q38": {
+  "question_text": "In the process of gluconeogenesis, glucose is formed from which of the following?",
+  "items": [
+   "Carbohydrates",
+   "Amino acids",
+   "Fatty acids",
+   "Vitamins"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q39": {
+  "question_text": "According to the Shrimad Bhagavad Gita, the meanings of the word yoga are:",
+  "items": [
+   "Samadhi",
+   "Karmasu kaushalam (skill in action)",
+   "Union of the individual self and the Supreme",
+   "Samatva (equanimity)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q40": {
+  "question_text": "According to the Yogaraja Upanishad, the sixth chakra is:",
+  "options": [
+   "Ajna chakra",
+   "Bhru chakra",
+   "Brahma chakra",
+   "Taluka chakra"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q41": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "Narada is a bhakti yogi who advocates supreme devotion, which leads to self-realisation.",
+  "reason": "Kabir, Mirabai, Tulsidas and Surdas adopted bhakti yoga."
+ },
+ "YOGA-2019JUN-P2-Q42": {
+  "question_text": "According to the Bhagavad Gita, what does rajoguna result in?",
+  "options": [
+   "Lobha (greed)",
+   "Moha (delusion)",
+   "Kama (desire)",
+   "Mada (pride)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q43": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "For teaching meditation, it is necessary to create a calm atmosphere so that a meditative state of mind can arise.",
+  "reason": "All yoga practices contribute to building a meditative state of mind."
+ },
+ "YOGA-2019JUN-P2-Q44": {
+  "question_text": "Match List-I with List-II:",
+  "list_i_title": "List-I (Bone)",
+  "list_ii_title": "List-II (Location)",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iv); (d)–(iii)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)",
+   "(a)–(iii); (b)–(ii); (c)–(i); (d)–(iv)",
+   "(a)–(ii); (b)–(iv); (c)–(iii); (d)–(i)"
+  ],
+  "list_i": [
+   "Malleus",
+   "Maxilla",
+   "Scaphoid",
+   "Sternum"
+  ],
+  "list_ii": [
+   "Wrist",
+   "Upper jaw",
+   "Ear",
+   "Chest"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q45": {
+  "question_text": "According to the Hatha Pradipika, the practice of which mudra removes the great afflictions and the fear of death?",
+  "options": [
+   "Maha mudra",
+   "Maha vedha mudra",
+   "Maha bandha mudra",
+   "Khechari mudra"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q46": {
+  "question_text": "According to the Bhagavad Gita, 'sarva-bhūta-hite ratāḥ' (devoted to the welfare of all beings) is a characteristic of which yogi?",
+  "options": [
+   "Samkhya yogi",
+   "Jnana yogi",
+   "Bhakti yogi",
+   "Karma yogi"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q47": {
+  "question_text": "Which mahabhutas predominate in kapha dosha?",
+  "items": [
+   "Air (vayu)",
+   "Water (jala)",
+   "Earth (prithvi)",
+   "Space (akasha)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q49": {
+  "question_text": "\"duḥkha-daurmanasya-aṅgamejayatva-śvāsa-praśvāsā vikṣepa-sahabhuvaḥ\": this Yoga Sutra describes the signs of which of the following?",
+  "options": [
+   "The pranic body",
+   "The physical body",
+   "The causal body",
+   "The subtle body"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q50": {
+  "question_text": "Arrange the following in order:",
+  "items": [
+   "Ureter",
+   "Kidney",
+   "Urinary bladder",
+   "Urethra"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q51": {
+  "question_text": "According to Buddhist philosophy, 'samyak vyayama' (right effort) means:",
+  "options": [
+   "Purity of speech",
+   "Purity of action",
+   "Purity of livelihood",
+   "Purity of thought"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q52": {
+  "question_text": "Which of the following asanas are described in the Shiva Samhita?",
+  "items": [
+   "Siddhasana",
+   "Padmasana",
+   "Swastikasana",
+   "Bhadrasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q53": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "Disease (vyadhi) appears along with distraction of the mind (chitta vikshepa).",
+  "reason": "Distraction of the mind creates imbalance in the three doshas."
+ },
+ "YOGA-2019JUN-P2-Q54": {
+  "question_text": "Two statements are given below, one labelled Assertion (A) and the other Reason (R):",
+  "assertion": "The place for yoga practice should be quiet.",
+  "reason": "Yoga should be practised in a quiet place on an empty stomach, so as to relax the body and mind."
+ },
+ "YOGA-2019JUN-P2-Q55": {
+  "question_text": "According to Maharshi Patanjali, which of the following is the means of removing obstacles that arise in observing the yamas and niyamas?",
+  "options": [
+   "Yoga practice",
+   "Pratipaksha bhavana (cultivating the opposite)",
+   "Pratyahara",
+   "Samyama"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q56": {
+  "question_text": "Which of the following are micronutrients?",
+  "items": [
+   "Fats",
+   "Vitamins",
+   "Minerals",
+   "Proteins"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q57": {
+  "question_text": "According to the Yoga Sutra, being established in which brings knowledge of previous births?",
+  "options": [
+   "Ahimsa",
+   "Asteya",
+   "Aparigraha",
+   "Svadhyaya"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q58": {
+  "question_text": "What do you do first when conducting a yoga class?",
+  "options": [
+   "Introduction",
+   "Demonstration",
+   "Creating the setting",
+   "Analysis of the practice"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q59": {
+  "question_text": "Which of the following asanas are not mentioned in the Shiva Samhita?",
+  "items": [
+   "Siddhasana",
+   "Ugrasana",
+   "Bhadrasana",
+   "Muktasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q60": {
+  "question_text": "According to the Yoga Sutra, mastery over which makes the yogi's body radiant?",
+  "options": [
+   "Samana vayu",
+   "Udana vayu",
+   "Prana vayu",
+   "Apana vayu"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q61": {
+  "question_text": "Match List-I with List-II:",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv); (e)–(v)",
+   "(a)–(ii); (b)–(iii); (c)–(v); (d)–(iv); (e)–(i)",
+   "(a)–(iii); (b)–(i); (c)–(ii); (d)–(iv); (e)–(v)",
+   "(a)–(v); (b)–(iv); (c)–(i); (d)–(ii); (e)–(iii)"
+  ],
+  "list_i": [
+   "Yogic sukshma vyayama",
+   "Transcendental Meditation",
+   "Meditation on Savita",
+   "Cyclic meditation",
+   "Yoga nidra"
+  ],
+  "list_ii": [
+   "Maharishi Mahesh Yogi",
+   "Dev Sanskriti Vishwavidyalaya",
+   "Swami Dhirendra Brahmachari",
+   "S. Vyasa",
+   "Bihar School of Yoga"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q62": {
+  "question_text": "Arrange the following states of the kleshas in order:",
+  "items": [
+   "Tanu (attenuated)",
+   "Udara (active)",
+   "Prasupta (dormant)",
+   "Vichchhinna (interrupted)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q63": {
+  "question_text": "Who is the father of the psychoanalytic theory of personality?",
+  "options": [
+   "Freud",
+   "Adler",
+   "Jung",
+   "Hippocrates"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q64": {
+  "question_text": "The four yogas (mantra, laya, hatha and raja) are described in:",
+  "items": [
+   "Trishikhibrahmana Upanishad",
+   "Yogatattva Upanishad",
+   "Yogaraja Upanishad",
+   "Nadabindu Upanishad"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q65": {
+  "question_text": "Which of the following are upavikshepas (companions of the distractions)?",
+  "items": [
+   "Dvesha",
+   "Duhkha",
+   "Anavasthitatva",
+   "Angamejayatva"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q66": {
+  "question_text": "According to the Gheranda Samhita, which shatkarmas give divine sight?",
+  "items": [
+   "Neti",
+   "Trataka",
+   "Kapalabhati",
+   "Lauliki"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q67": {
+  "question_text": "In the Mundaka Upanishad, the head of the Lord is compared with what?",
+  "options": [
+   "Fire (agni)",
+   "The Vedas",
+   "Knowledge",
+   "Intellect"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q68": {
+  "question_text": "By which of the following can the whole body be cleansed (sarvanga-shodhana)?",
+  "options": [
+   "Dhauti and basti",
+   "Basti and neti",
+   "Bhastra-karma and nauli",
+   "Basti and bhastra-karma"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q69": {
+  "question_text": "According to the Hatha Pradipika, which foods are forbidden for a yoga practitioner?",
+  "items": [
+   "Til (sesame)",
+   "Yava (barley)",
+   "Sarshapa (mustard)",
+   "Shunthi (dry ginger)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q70": {
+  "question_text": "According to the Bhagavad Gita, how many causes for the accomplishment of all actions are mentioned?"
+ },
+ "YOGA-2019JUN-P2-Q71": {
+  "question_text": "In the Yogatattva Upanishad, the instructions for practising pranayama for nadi shodhana are:",
+  "items": [
+   "Four times a day",
+   "Three times a day",
+   "For three months",
+   "For four months"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q72": {
+  "question_text": "Which of the following asanas is not mentioned in the Siddha Siddhanta Paddhati?",
+  "options": [
+   "Swastikasana",
+   "Ugrasana",
+   "Siddhasana",
+   "Padmasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q73": {
+  "question_text": "Which asanas are forbidden in constipation (vibandha)?",
+  "items": [
+   "Trikonasana",
+   "Kukkutasana",
+   "Padahastasana",
+   "Sarvangasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q74": {
+  "question_text": "The main sources of vitamin C are:",
+  "items": [
+   "Fresh fruits",
+   "Liver",
+   "Green leafy vegetables",
+   "Egg yolk"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q75": {
+  "question_text": "Match List-I with List-II:",
+  "options": [
+   "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)",
+   "(a)–(iv); (b)–(ii); (c)–(iii); (d)–(i)",
+   "(a)–(iii); (b)–(iv); (c)–(ii); (d)–(i)",
+   "(a)–(iv); (b)–(iii); (c)–(i); (d)–(ii)"
+  ],
+  "list_i": [
+   "Shyamacharan Lahiri",
+   "Krishnamacharya",
+   "Maharishi Mahesh Yogi",
+   "Shriram Sharma Acharya"
+  ],
+  "list_ii": [
+   "Pragya yoga",
+   "Transcendental Meditation",
+   "Vinyasa yoga",
+   "Kriya yoga"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q76": {
+  "question_text": "The doctrine of momentariness (kshanikavada) belongs to which philosophy?",
+  "options": [
+   "Jaina",
+   "Bauddha (Buddhist)",
+   "Samkhya",
+   "Charvaka"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q77": {
+  "question_text": "Arrange the following yogis in ascending order of their birth:",
+  "items": [
+   "Swami Vivekananda",
+   "Maharshi Dayananda Saraswati",
+   "Maharshi Mahesh Yogi",
+   "Swami Sivananda"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q78": {
+  "question_text": "Give the correct order of the following according to the Eightfold Path of Buddhist philosophy:",
+  "items": [
+   "Samyak karmanta (right action)",
+   "Samyak vak (right speech)",
+   "Samyak drishti (right view)",
+   "Samyak sankalpa (right resolve)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q79": {
+  "question_text": "According to the Dhyanabindu Upanishad, what colour and guna belong to Akara (the A) of Omkara?",
+  "options": [
+   "White colour and sattva guna",
+   "Yellow colour and rajo guna",
+   "Black colour and tamo guna",
+   "Copper colour and rajo guna"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q80": {
+  "question_text": "According to the Trishikhibrahmana Upanishad, how many main nadis arise from the kanda?",
+  "options": [
+   null,
+   "Fifteen",
+   "Seventy-two hundred",
+   null
+  ]
+ },
+ "YOGA-2019JUN-P2-Q81": {
+  "question_text": "In which of the following texts are nine kumbhakas mentioned?",
+  "options": [
+   "Hatha Pradipika",
+   "Gheranda Samhita",
+   "Hatharatnavali",
+   "Shiva Samhita"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q82": {
+  "question_text": "According to the Patanjala Yoga Sutra, practice on a single principle (eka-tattva abhyasa) removes what?",
+  "options": [
+   "Vikshepa (distractions)",
+   "Klesha",
+   "Duhkha",
+   "Fear of death"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q83": {
+  "question_text": "According to the Gheranda Samhita, which asana makes the awakening of kundalini possible?",
+  "options": [
+   "Bhujangasana",
+   "Paschimottanasana",
+   "Dhanurasana",
+   "Matsyasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q84": {
+  "question_text": "According to the Trishikhibrahmana Upanishad, the ascending order of the niyamas is:",
+  "items": [
+   "Tapa",
+   "Santosha",
+   "Dana",
+   "Hari aradhana (worship of Hari)",
+   "Astikya (faith)"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q85": {
+  "question_text": "Which of the following is not a balancing asana?",
+  "options": [
+   "Vrikshasana",
+   "Tadasana",
+   "Garudasana",
+   "Ekapada skandhasana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q86": {
+  "question_text": "According to the Yoga Vasishtha, which of the following is the sixth stage of knowledge?",
+  "options": [
+   "Tanumanasa",
+   "Asamsakti",
+   "Turyaga",
+   "Padartha bhavana"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q87": {
+  "question_text": "Who proposed the hierarchical model of personality?",
+  "options": [
+   "Maslow",
+   "Jung",
+   "Adler",
+   "Gregor"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q88": {
+  "question_text": "Match List-I with List-II according to the Taittiriya Upanishad:",
+  "list_i_title": "List-I (Element)",
+  "list_ii_title": "List-II (Limb)",
+  "options": [
+   "(a)–(i); (b)–(ii); (c)–(iii); (d)–(iv)",
+   "(a)–(iv); (b)–(iii); (c)–(ii); (d)–(i)",
+   "(a)–(iii); (b)–(i); (c)–(iv); (d)–(ii)",
+   "(a)–(ii); (b)–(iii); (c)–(iv); (d)–(i)"
+  ],
+  "list_i": [
+   "Shraddha",
+   "Rita",
+   "Satya",
+   "Maha"
+  ],
+  "list_ii": [
+   "Tail",
+   "Head",
+   "Right wing",
+   "Left wing"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q89": {
+  "question_text": "At the practical level, yoga is a means of establishing balance and harmony between which of the following?",
+  "passage": "@YOGA-2019JUN-P2-Q90",
+  "options": [
+   "Mind and soul only",
+   "Body and mind only",
+   "Body, mind and soul",
+   "Body and soul only"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q90": {
+  "question_text": "Shatkarma, asana, pranayama and meditation are important means of maintaining which of the following?",
+  "passage": "Yoga is the science of holistic living, and it means 'to join'. In the spiritual world this joining is explained as the union of individual consciousness with universal consciousness. On the practical level, yoga is a means of establishing balance and harmony in body, mind and emotions. It works on the holistic principles of harmony and oneness. It affects every aspect of the personality: physical, mental, social, emotional and spiritual. This can be done through the practice of ashtanga yoga and saptanga yoga. In the twenty-first century, besides the spiritual goal of yoga, physical and mental therapy are among yoga's achievements. Yoga has succeeded as a therapy for controlling various diseases. Yoga therapy succeeds in establishing balance in the nervous and endocrine systems, which has a direct effect on all the organs of the body. Research is currently being done on the effects of yoga practice during and after work. Its results show that shatkarma, asana, pranayama, meditation and so on are important means of maintaining physical and mental health. In view of these facts, millions of people in India and abroad practise yoga every day and take part in the International Day of Yoga, celebrated every year on 21 June. A Common Yoga Protocol has been prepared to spread awareness among people and communities for achieving harmony, peace and freedom from disease.",
+  "options": [
+   "Physical and social health",
+   "Physical and mental health",
+   "Mental and social health",
+   "Mental and emotional health"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q91": {
+  "question_text": "The spiritual term 'to join' is explained as the union of which of the following?",
+  "passage": "@YOGA-2019JUN-P2-Q90",
+  "options": [
+   "Physical and spiritual consciousness",
+   "Individual and universal consciousness",
+   "Physical and mental consciousness",
+   "Mental and spiritual consciousness"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q92": {
+  "question_text": "Yoga works on which of the following holistic principles?",
+  "passage": "@YOGA-2019JUN-P2-Q90",
+  "options": [
+   "Harmony and samadhi",
+   "Harmony and moksha",
+   "Peace and moksha",
+   "Harmony and oneness"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q93": {
+  "question_text": "Yoga therapy succeeds in creating balance between which of the following?",
+  "passage": "@YOGA-2019JUN-P2-Q90",
+  "options": [
+   "The nervous system and the endocrine system",
+   "The nervous system and the circulatory system",
+   "The circulatory system and the locomotor system",
+   "The circulatory system and the endocrine system"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q94": {
+  "question_text": "When is the International Day of Yoga celebrated?",
+  "passage": "@YOGA-2019JUN-P2-Q90",
+  "options": [
+   "21 May",
+   "22 June",
+   "21 June",
+   "22 May"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q96": {
+  "question_text": "Which of the following kleshas belong to the domain of the intellect?",
+  "passage": "According to Maharshi Patanjali, the five kleshas that disturb the equilibrium of consciousness are avidya, asmita, raga, dvesha and abhinivesha. Lack of true knowledge is the source of all suffering, whether the kleshas are dormant, attenuated, interrupted or fully active. Avidya is the mother of all the kleshas. The body and the self are different, but because of asmita a person feels them to be one. Pleasant experiences give rise to desire and emotional attachment. Unhappiness results in hatred and a sense of insignificance. Clinging to life, or the fear of death, is inherent in all human beings, and even the wise are not free of it. These five kleshas work at three levels: intellectual, emotional and instinctive. Avidya and asmita belong to the domain of the intellect. Raga and dvesha relate to emotions and feelings. The tendency of the klesha abhinivesha is instinctive. The root causes of these five kleshas are behavioural functioning and thinking. The processes of thought and action have existed since the beginning of civilisation, and humans have always been searching for true knowledge. In the context of sadhana, the discriminating power of the intellect finally turns into pure wisdom (prajna), which is eternal. A true seeker is able, through yoga, to destroy the kleshas at their very beginning.",
+  "items": [
+   "Raga",
+   "Avidya",
+   "Asmita",
+   "Dvesha"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q97": {
+  "question_text": "The discriminating power of the intellect finally turns into which of these?",
+  "passage": "@YOGA-2019JUN-P2-Q96",
+  "options": [
+   "Pure mind",
+   "Pure intellect",
+   "Pure wisdom (prajna)",
+   "Pure senses"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q98": {
+  "question_text": "The feeling of clinging to life, or fear of death, is inherent in which of the following?",
+  "passage": "@YOGA-2019JUN-P2-Q96",
+  "options": [
+   "All human beings",
+   "Only the wise",
+   "Only the ignorant",
+   "Only animals"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q99": {
+  "question_text": "The mother of all the kleshas is:",
+  "passage": "@YOGA-2019JUN-P2-Q96",
+  "options": [
+   "Asmita",
+   "Avidya",
+   "Raga",
+   "Dvesha"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q100": {
+  "question_text": "Because of which of the following does one feel that the body and the eternal self are one?",
+  "passage": "@YOGA-2019JUN-P2-Q96",
+  "options": [
+   "Avidya",
+   "Abhinivesha",
+   "Asmita",
+   "Raga"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q37": {
+  "question_text": "According to Hathpradipika which one of the following has been referred to as Kulwadhu?",
+  "options": [
+   "Khecharimudra",
+   "Shambhavi mudra",
+   "Mahamudra",
+   "Shaktichalini mudra"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q48": {
+  "question_text": "Name the 'parva' of Mahabharat in which Vishnusahasranam is mentioned.",
+  "options": [
+   "Bhishma parva",
+   "Adi parva",
+   "Shanti parva",
+   "Drona parva"
+  ]
+ },
+ "YOGA-2019JUN-P2-Q95": {
+  "question_text": "Which of the following are NOT the types of Klesha?",
+  "items": [
+   "Avidya",
+   "Ahimsa",
+   "Asmita",
+   "Asteya"
+  ],
+  "prompt": "Choose the correct option :",
+  "options": [
+   "(a) and (c)",
+   "(b) and (c)",
+   "(a) and (b)",
+   "(c) and (d)"
+  ]
+ }
 }
