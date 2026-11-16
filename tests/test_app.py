@@ -223,3 +223,19 @@ def test_a_wrong_answer_shows_the_verse_the_question_comes_from(app):
     assert "Where this question comes from" in md
     assert "Yoga Sūtra 2.2" in md and "समाधिभावनार्थः" in md
     assert any("in Sanskrit Texts" in b.label for b in app.button)
+
+
+def test_a_wrong_unit6_answer_points_to_the_notes_section_that_marks_it(app):
+    """Jan 2017 Q14 (Kretschmer's types) is marked in the Personality chapter; a wrong answer links there,
+    and the notes page opens on that section with the question's PYQ badge."""
+    app.selectbox(key="f_session").set_value("2017-January").run()
+    app.selectbox(key="f_topic").set_value("Psychology: personality theories").run()
+    assert "Kretschmer" in texts(app), texts(app)[:300]
+    app = answer(app, 1)
+    assert not app.exception, [e.message for e in app.exception]
+    assert "Type theories" in texts(app)
+    app = click(app, "Read this in Study Notes: Personality", page="notes")
+    assert not app.exception, [e.message for e in app.exception]
+    md = texts(app)
+    assert "The part your question came from: 2. Type theories" in md
+    assert "PYQ Jan 2017 Q14" in md

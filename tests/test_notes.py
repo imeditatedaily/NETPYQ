@@ -49,3 +49,14 @@ def test_shipped_note_markers_name_real_questions():
     for n in load_notes(config.NOTES_DIR).notes:
         for qid in marked_ids(n.body):
             assert qid in bank and bank[qid].is_dated, f"{n.id}: {qid} is not a past question"
+
+
+def test_every_unit6_past_question_is_marked_in_the_notes():
+    """The Unit 6 chapters mark every dated Unit 6 question once, so each one links to the part it was asked from."""
+    from pyq.notes import marked_ids
+    bank = load_bank(config.QUESTION_DIR, False, config.TOPIC_FILE)
+    lib = load_notes(config.NOTES_DIR)
+    marked = [qid for n in lib.notes if n.unit == 6 for qid in marked_ids(n.body)]
+    assert len(marked) == len(set(marked))
+    u6 = {q.id for q in bank.questions if q.is_dated and q.macro_unit.startswith("Yoga Unit 6")}
+    assert u6 and u6 <= set(marked), sorted(u6 - set(marked))[:10]

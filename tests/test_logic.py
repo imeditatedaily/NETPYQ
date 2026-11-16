@@ -93,6 +93,14 @@ def test_answers_the_official_key_also_accepted_score_as_right():
     assert dropped.dropped and all(dropped.is_correct(n) for n in range(1, 5))
 
 
+def test_explanations_that_name_a_second_accepted_answer_score_it():
+    """Where an explanation says the final key accepts two options, both are scored as right."""
+    bank = shipped_bank()
+    for qid, both in {"YOGA-2025JUN-P2-Q095": (3, 4), "YOGA-2025JUN-P2-Q115": (2, 3), "YOGA-2025JUN-P2-Q132": (3, 4),
+                      "YOGA-2025JUN-P2-Q141": (1, 3), "P1-2025JUN-Q48": (2, 4)}.items():
+        assert bank[qid].accepted == both, qid
+
+
 def test_every_yoga_paper_has_every_question():
     """Each Yoga paper of 2017-2025 is complete: questions the key cancelled are kept, scored as the key scored them."""
     from collections import defaultdict
