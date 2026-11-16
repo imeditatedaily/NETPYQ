@@ -130,6 +130,18 @@ class Question:
         return " · ".join(bits)
 
     @property
+    def paper_tag(self) -> str:
+        """Short enough for a badge: 'Jun 2023 Q6', 'Nov 2017 P-III Q12'; empty for undated questions."""
+        if not self.is_dated:
+            return ""
+        bits = [f"{(self.exam_cycle or '')[:3]} {self.exam_year}"]
+        if "III" in self.paper or self.paper.strip().endswith("3"):
+            bits.append("P-III")
+        if self.question_no is not None:
+            bits.append(f"Q{self.question_no}")
+        return " ".join(bits)
+
+    @property
     def correct_text(self) -> str:
         return self.options[self.correct_answer - 1]
 

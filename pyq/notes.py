@@ -16,13 +16,37 @@ Each note is one file, data/notes/<id>.md, with a small header:
 
 "topics" and "sources" are separated by " | " (topic names contain commas). The body is
 Markdown; "## " headings divide it into sections. Nothing here imports Streamlit.
+
+Two markers tie the notes to the papers:
+
+    [[PYQ: YOGA-2019DEC-P2-Q081, YOGA-2023JUN-P2-Q12]]   the past questions asked from this point
+    [[LIKELY]]                                            a point not yet asked that the pattern suggests
+
+They are shown as badges ("PYQ Dec 2019 Q81 · Jun 2023 Q12", "Likely next"), and a question links back to
+the section that marks it (NoteLibrary.sections_for).
 """
 
 import re
-from dataclasses import dataclass
+from collections.abc import Callable
+from dataclasses import dataclass, field
 from pathlib import Path
 
 _FIELDS = ("title", "title_en", "subject", "unit", "order", "topics", "sources")
+_PYQ = re.compile(r"\[\[PYQ:\s*([^\]]+)\]\]")
+_LIKELY = re.compile(r"\[\[LIKELY\]\]")
+
+
+def marked_ids(text: str) -> list[str]:
+    """The question ids in the [[PYQ: …]] markers of a piece of notes, in order."""
+    return [i.strip() for m in _PYQ.finditer(text) for i in m.group(1).split(",") if i.strip()]
+
+
+def expand_markers(text: str, label: Callable[[str], str | None]) -> str:
+    """Markdown with the markers turned into badges; `label` names a question id ("Jun 2023 Q6") or None to drop it."""
+    def pyq(m: re.Match) -> str:
+        names = list(dict.fromkeys(n for n in (label(i.strip()) for i in m.group(1).split(",")) if n))
+        return f":orange-badge[:material/history_edu: PYQ {' · '.join(names)}]" if names else ""
+    return _LIKELY.sub(":blue-badge[:material/trending_up: Likely next]", _PYQ.sub(pyq, text))
 
 
 @dataclass(frozen=True, slots=True)
@@ -45,6 +69,11 @@ class Note:
     def sections(self) -> tuple[str, ...]:
         return tuple(m.group(1).strip() for m in re.finditer(r"^## (.+)$", self.body, flags=re.M))
 
+    def section_texts(self) -> tuple[tuple[str, str], ...]:
+        """(heading, text) for each "## " section; the text before the first heading is left out."""
+        parts = re.split(r"^## (.+)$", self.body, flags=re.M)
+        return tuple((parts[i].strip(), parts[i + 1]) for i in range(1, len(parts) - 1, 2))
+
     def preview(self) -> str:
         """The note up to its second section: what someone without the subject may read."""
         starts = [m.start() for m in re.finditer(r"^## ", self.body, flags=re.M)]
@@ -59,6 +88,23 @@ class Note:
 class NoteLibrary:
     notes: tuple[Note, ...] = ()
     problems: tuple[str, ...] = ()
+    _by_question: dict = field(default_factory=dict, compare=False, repr=False)   # question id → [(note id, heading)]
+
+    def __post_init__(self) -> None:
+        for n in self.notes:
+            for heading, text in n.section_texts():
+                for qid in marked_ids(text):
+                    places = self._by_question.setdefault(qid, [])
+                    if (n.id, heading) not in places:
+                        places.append((n.id, heading))
+
+    def sections_for(self, question_id: str) -> list[tuple[Note, str]]:
+        """The notes sections a past question was asked from: [(note, section heading)]."""
+        return [(self.by_id(nid), h) for nid, h in self._by_question.get(question_id, [])]
+
+    def section(self, note_id: str, heading: str) -> str:
+        note = self.by_id(note_id)
+        return next((t for h, t in note.section_texts() if h == heading), "") if note else ""
 
     def __len__(self) -> int:
         return len(self.notes)

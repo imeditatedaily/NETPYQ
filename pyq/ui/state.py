@@ -84,6 +84,23 @@ def get_asked() -> dict[str, dict[str, tuple[Asked, ...]]]:
 
 
 @st.cache_resource(show_spinner=False)
+def _lines_by_question(_mtime: float) -> dict[str, list[tuple[str, str, str]]]:
+    out: dict[str, list[tuple[str, str, str]]] = {}
+    for text_id, refs in load_asked(PYQ_LINES_FILE).items():
+        for ref, asked in refs.items():
+            for a in asked:
+                out.setdefault(a.question_id, []).append((text_id, ref, a.how))
+    for lines in out.values():
+        lines.sort(key=lambda x: x[2] != "quoted")      # lines the question quotes first
+    return out
+
+
+def lines_for(question_id: str) -> list[tuple[str, str, str]]:
+    """The Sanskrit lines a past question was asked from: [(text id, ref, "quoted" or "source")]."""
+    return _lines_by_question(PYQ_LINES_FILE.stat().st_mtime if PYQ_LINES_FILE.is_file() else 0.0).get(question_id, [])
+
+
+@st.cache_resource(show_spinner=False)
 def _notes(_signature: tuple) -> NoteLibrary:
     return load_notes(NOTES_DIR)
 
@@ -179,9 +196,10 @@ def open_text(subject: str, text_id: str | None = None, query: str = "", asked: 
     go("texts")
 
 
-def open_note(note_id: str) -> None:
-    """Opens the Study Notes page on one chapter (used by the Knowledge Base); applied by notes_page."""
-    st.session_state["nt_open"] = {"note": note_id}
+def open_note(note_id: str, section: str = "") -> None:
+    """Opens the Study Notes page on one chapter, optionally showing one section first (the part a question came
+    from); applied by notes_page."""
+    st.session_state["nt_open"] = {"note": note_id, "section": section}
     go("notes")
 
 

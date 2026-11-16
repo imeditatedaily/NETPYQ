@@ -229,6 +229,44 @@ def open_library_for(unit: str) -> None:
     state.go("library")
 
 
+def _search_key(sa: str) -> str:
+    """A run of the line that the Texts search will find: its first words, without punctuation."""
+    words = re.sub(r"[।॥|0-9०-९.]", " ", sa).split()
+    return " ".join(words[:4])
+
+
+def where_from(q: Question, context: str, emphasise: bool) -> None:
+    """The verse a past question quotes or is answered from, and the notes section that covers it. Shown after an
+    answer; boxed and open when the answer was wrong, folded away when it was right."""
+    texts, notes = state.get_texts(), state.get_notes()
+    lines = [(texts.by_id(t), ref, how) for t, ref, how in state.lines_for(q.id)]
+    lines = [(t, next((ln for ln in t.lines if ln.ref == ref), None), how) for t, ref, how in lines if t]
+    lines = [(t, ln, how) for t, ln, how in lines if ln][:3]
+    sections = notes.sections_for(q.id)
+    if not (lines or sections):
+        return
+    title = ":material/menu_book: Where this question comes from"
+    box = st.container(border=True, key=f"src-{context}-{_css_key(q.id)}") if emphasise else st.expander(title)
+    with box:
+        if emphasise:
+            st.markdown(f"##### {title}")
+        for text, line, how in lines:
+            verb = "The question quotes" if how == "quoted" else "The answer is in"
+            body = "  \n".join(md(x) for x in line.sa.split("\n"))
+            st.markdown(f"{verb} **{md(text.title)} {line.ref}**:  \n:orange-background[{body}]"
+                        + (f"  \n:gray[{md(line.en)}]" if line.en else ""))
+            if signed_in():
+                st.button(f"Read {text.title} {line.ref} in Sanskrit Texts", icon=":material/menu_book:",
+                          key=f"src-tx-{context}-{_css_key(q.id)}-{text.id}-{line.ref}", on_click=state.open_text,
+                          args=(q.subject, text.id, _search_key(line.sa)))
+        for note, heading in sections:
+            st.markdown(f"Covered in the study notes: **{md(note.title)}**, section *{md(heading)}*.")
+            if signed_in():
+                st.button(f"Read this in Study Notes: {note.title}", icon=":material/auto_stories:",
+                          key=f"src-nt-{context}-{_css_key(q.id)}-{note.id}-{_css_key(heading)}",
+                          on_click=state.open_note, args=(note.id, heading))
+
+
 def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: str, note: str = "") -> None:
     if q.dropped:
         st.info(f"**Cancelled in the official key:** every option was given marks, so your answer ({chosen}) counts. "
@@ -253,6 +291,7 @@ def feedback(q: Question, chosen: int, bank: Bank, library: Library, context: st
         st.markdown(q.detailed_explanation if state.is_admin() else _public(q.detailed_explanation))
         if q.references and state.is_admin():
             st.caption("Sources: " + "; ".join(md(r) for r in q.references))
+    where_from(q, context, emphasise=not q.is_correct(chosen))
     if not signed_in():   # the knowledge base and PYQ trends are for signed-in users only
         return
     # The extras fold away, so the answer and its explanation stay in view.

@@ -83,6 +83,9 @@ h2, h3 { color: var(--g2) !important; }
 [data-testid="stSidebar"] .stButton button:hover { background: var(--lime); color: var(--ink); }
 
 /* Study Notes: a readable column, like a printed page. */
+.st-key-nt-focus { max-width: 52rem; background: #fff4dc !important; border-left: .35rem solid var(--amber, #eda100) !important; }
+.st-key-nt-focus p, .st-key-nt-focus li { font-size: 1.04rem; line-height: 1.8; }
+[class*="st-key-src-"] { background: #fff8ea !important; border-left: .35rem solid var(--amber, #eda100) !important; }
 .st-key-nt-body { max-width: 52rem; padding: 1.4rem 1.8rem !important; background: #fffdf7 !important; }
 .st-key-nt-body p, .st-key-nt-body li { font-size: 1.06rem; line-height: 1.85; }
 .st-key-nt-body h2 { margin-top: 1.6rem; border-bottom: 2px solid var(--lime, #d8f45a); padding-bottom: .2rem; }

@@ -211,3 +211,15 @@ def test_sanskrit_texts_page_finds_a_quoted_line_and_opens_on_a_chosen_text(at):
     assert not at.exception, [e.message for e in at.exception]
     md = texts(at)
     assert "समाधिभावनार्थः" in md and "अथ योगानुशासनम्" not in md    # only the asked lines (2.2 yes, 1.1 no)
+
+
+def test_a_wrong_answer_shows_the_verse_the_question_comes_from(app):
+    """Jan 2017 Q22 quotes Yoga Sūtra 2.2; after a wrong answer the verse is shown with a link to the Texts page."""
+    app.selectbox(key="f_session").set_value("2017-January").run()
+    app.selectbox(key="f_topic").set_value("Kriya Yoga").run()
+    app = answer(app, 1)
+    assert not app.exception, [e.message for e in app.exception]
+    md = texts(app)
+    assert "Where this question comes from" in md
+    assert "Yoga Sūtra 2.2" in md and "समाधिभावनार्थः" in md
+    assert any("in Sanskrit Texts" in b.label for b in app.button)

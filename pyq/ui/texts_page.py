@@ -13,16 +13,6 @@ from .question_view import md
 FREE_LINES = 10      # what a signed-in user without the subject sees of each text
 
 
-def _paper_tag(q: Question) -> str:
-    """'Jun 2023 Q6', 'Nov 2017 P-III Q12': short enough for a badge."""
-    bits = [f"{(q.exam_cycle or '')[:3]} {q.exam_year}"]
-    if "III" in (q.paper or "") or (q.paper or "").strip().endswith("3"):
-        bits.append("P-III")
-    if q.question_no is not None:
-        bits.append(f"Q{q.question_no}")
-    return " ".join(bits)
-
-
 def _asked_questions(asked: tuple[Asked, ...], bank: Bank) -> tuple[list[Question], list[Question]]:
     """(questions that quote the line, questions answered from it), oldest first; each question once."""
     quoted = [bank[a.question_id] for a in asked if a.how == "quoted" and a.question_id in bank]
@@ -36,9 +26,9 @@ def _badges(asked: tuple[Asked, ...], bank: Bank) -> str:
     quoted, source = _asked_questions(asked, bank)
     out = []
     if quoted:
-        out.append(":orange-badge[:material/format_quote: Quoted in " + " · ".join(_paper_tag(q) for q in quoted) + "]")
+        out.append(":orange-badge[:material/format_quote: Quoted in " + " · ".join(q.paper_tag for q in quoted) + "]")
     if source:
-        out.append(":violet-badge[:material/history_edu: Asked in " + " · ".join(_paper_tag(q) for q in source) + "]")
+        out.append(":violet-badge[:material/history_edu: Asked in " + " · ".join(q.paper_tag for q in source) + "]")
     return " ".join(out)
 
 
@@ -151,7 +141,7 @@ def render() -> None:
                     if full:
                         quoted, source = _asked_questions(asked[ln.ref], bank)
                         for q in quoted + source:
-                            st.caption(f"**{_paper_tag(q)}** · {md(_stem(q))}")
+                            st.caption(f"**{q.paper_tag}** · {md(_stem(q))}")
         else:
             st.markdown("\n\n".join(_line_md(ln, show_meaning, asked=asked.get(ln.ref, ()), bank=bank) for ln in lines))
     if not full:

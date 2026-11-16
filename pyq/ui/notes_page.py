@@ -3,6 +3,7 @@ copy and print protection (protect.py) covers this page like every other."""
 
 import streamlit as st
 
+from ..notes import expand_markers
 from ..syllabus import SUBJECTS
 from . import state
 
@@ -20,9 +21,11 @@ def render() -> None:
         st.info("No notes have been added yet.", icon=":material/menu_book:")
         return
     ss = st.session_state
+    focus = ""
     if (req := ss.pop("nt_open", None)) and (note := library.by_id(req.get("note") or "")):   # see state.open_note
         ss["nt_subject"] = note.subject
         ss[f"nt_unit_{note.subject}"], ss[f"nt_note_{note.subject}_{note.unit}"] = note.unit, note.id
+        focus = req.get("section") or ""
     subject = subjects[0] if len(subjects) == 1 else st.segmented_control(
         "Subject", subjects, format_func=lambda s: SUBJECTS[s].short, key="nt_subject", default=subjects[0], required=True)
     notes = library.for_subject(subject)
@@ -38,9 +41,14 @@ def render() -> None:
             st.markdown(f":material/lock: You're reading the opening of each chapter. "
                         f"Subscribe to **{SUBJECTS[subject].display}** to read the notes in full.")
             st.button("See plans", icon=":material/workspace_premium:", key="nt_plans", on_click=state.go, args=("plans",))
-    sources = state.get_library()
+    sources, bank = state.get_library(), state.get_full_bank()
     cites = [sources.by_id[s].citation for s in note.sources if s in sources.by_id]
+    label = lambda qid: bank[qid].paper_tag if qid in bank else None
+    if focus and full and (part := library.section(note.id, focus)):
+        with st.container(key="nt-focus", border=True):
+            st.markdown(f":material/my_location: **The part your question came from: {focus}**")
+            st.markdown(expand_markers(part, label))
     with st.container(key="nt-body", border=True):
-        st.markdown(note.body if full else note.preview())
+        st.markdown(expand_markers(note.body if full else note.preview(), label))
         if cites:
             st.caption("Based on: " + "; ".join(cites))

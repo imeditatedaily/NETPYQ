@@ -28,3 +28,24 @@ def test_header_problems_are_reported_not_raised(tmp_path):
     lib = load_notes(tmp_path)
     assert len(lib) == 1 and lib.notes[0].topics == ("A", "B, C") and lib.notes[0].sections == ("one", "two")
     assert len(lib.problems) == 2
+
+
+def test_pyq_markers_become_badges_and_link_questions_to_sections(tmp_path):
+    from pyq.notes import expand_markers, load_notes, marked_ids
+    (tmp_path / "n.md").write_text(
+        "---\ntitle: T\nsubject: yoga\nunit: 6\n---\n# T\n\n## Sleep\n\nFour stages. [[PYQ: A1, B2]]\n\n"
+        "## Memory\n\nSeven plus or minus two. [[PYQ:C3]] [[LIKELY]]\n", encoding="utf-8")
+    lib = load_notes(tmp_path)
+    assert marked_ids(lib.notes[0].body) == ["A1", "B2", "C3"]
+    assert [(n.id, h) for n, h in lib.sections_for("B2")] == [("n", "Sleep")]
+    assert "Seven plus" in lib.section("n", "Memory")
+    out = expand_markers(lib.notes[0].body, {"A1": "Jun 2019 Q4", "C3": "Dec 2023 Q9"}.get)
+    assert "PYQ Jun 2019 Q4]" in out and "B2" not in out and "Likely next" in out and "[[" not in out
+
+
+def test_shipped_note_markers_name_real_questions():
+    from pyq.notes import marked_ids
+    bank = load_bank(config.QUESTION_DIR, False, config.TOPIC_FILE)
+    for n in load_notes(config.NOTES_DIR).notes:
+        for qid in marked_ids(n.body):
+            assert qid in bank and bank[qid].is_dated, f"{n.id}: {qid} is not a past question"
