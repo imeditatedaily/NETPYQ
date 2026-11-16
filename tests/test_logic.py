@@ -144,12 +144,12 @@ def test_shipped_paper_1_sessions_keep_their_numbering():
         ("2018-July", "Paper I"): list(range(1, 51)),
         ("2018-December", "Paper 1 (set A)"): list(range(1, 51)),
         ("2018-December", "Paper 1 (set B)"): [n for n in range(1, 51) if n != 45],  # flawed item left out
-        ("2018-December", "Paper 1 (22 Dec, shift 1)"): [n for n in range(1, 51) if n not in (34, 43)],  # no single key answer
+        ("2018-December", "Paper 1 (22 Dec, shift 1)"): list(range(1, 51)),    # Q34, Q43 scored as the key scored them
         ("2019-June", "Paper 1"): list(range(1, 51)),
-        ("2019-December", "Paper 1"): [n for n in range(1, 51) if n != 13],       # answer could not be settled
-        ("2020-June", "Paper 1"): [n for n in range(1, 51) if n not in (17, 28)],     # answer could not be settled
-        ("2021-June", "Paper 1"): [n for n in range(1, 51) if n not in (15, 40)],     # unsettled; misprinted English
-        ("2022-June", "Paper 1"): [n for n in range(1, 51) if n not in (36, 42)],     # answer could not be settled
+        ("2019-December", "Paper 1"): list(range(1, 51)),
+        ("2020-June", "Paper 1"): list(range(1, 51)),
+        ("2021-June", "Paper 1"): list(range(1, 51)),                            # Q40 from the Hindi version
+        ("2022-June", "Paper 1"): list(range(1, 51)),
         ("2022-December", "Paper 1"): list(range(1, 51)),
         ("2023-June", "Paper 1"): list(range(1, 51)),
         ("2023-December", "Paper 1"): list(range(1, 51)),
